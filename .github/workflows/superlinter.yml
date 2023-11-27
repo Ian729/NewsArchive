@@ -10,4 +10,6 @@ jobs:
   superlinter:
     runs-on: ubuntu-latest
     steps:
-      - name: DEBUG 
+      - name: Super-Linter
+        uses: super-linter/super-linter@v5.7.0
+    
