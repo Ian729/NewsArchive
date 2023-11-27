@@ -1,2 +1,13 @@
-- name: Super-Linter
-  uses: super-linter/super-linter@v5.7.0
+name: Super Linter
+
+on:
+
+  push:
+    branches:
+      - master
+      
+jobs:
+  superlinter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: DEBUG 
