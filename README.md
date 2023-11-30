@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Hamas freed a group of 10 Israelis or dual nationals and two Thai citizens on Tuesday in exchange for 30 imprisoned Palestinians, keeping with the terms of the temporary cease-fire agreement.
-* The West African nation has not identified the military officials and one civilian it arrested after attacks in the capital on Sunday that left 20 people dead and more than 2,000 prisoners on the loose.
-* Relations have deteriorated markedly since Russia’s invasion of Ukraine, and the Finns accuse Moscow of orchestrating a flow of migrants in retaliation for Finland joining NATO.
-* Marianna Budanova, whose husband is the director of military intelligence, is recovering in a hospital, the officials said. Her husband has long accused Russia of trying to kill him.
-* A government anti-smoking plan also includes costlier cigarettes and a ban on disposable vapes. Smoking is the leading cause of avoidable deaths in France.
-* Winning the rights to host the major global event is a coup for Crown Prince Mohammed bin Salman’s efforts to remake the kingdom’s international image.
-* A Toronto teenager who killed a woman in a massage business was sentenced on Tuesday to life in prison. The case was the first time gender-based violence in the country was labeled terrorism.
-* Tens of thousands of Gazans are making the most difficult of choices, leaving their homes behind to survive.
-* Continued American funding for Ukraine was a key concern for leaders in the military alliance, who met as the current allocation was running down and a Ukrainian counteroffensive appeared stalled.
-* Illegal deforestation for avocado crops points to a blood-soaked trade with the United States involving threats, abductions and killings.
+* Hamas freed 16 hostages, and Israel released 30 imprisoned Palestinians. With the expiration of a temporary cease-fire just hours away, mediators in Qatar were trying to negotiate another extension.
+* Éric Dupond-Moretti was charged with using his position as a weapon to order investigations into four magistrates he had recently clashed with.
+* Climate activists have balked at the fact that a leading oil producer, the United Arab Emirates, is hosting this year’s U.N. climate talks. But Emirati officials say they, too, are grappling with hard questions.
+* The bloc’s Court of Justice, ruling in the case of a female employee in Belgium who was told she could not wear a hijab in the office, said the restriction was lawful.
+* The Canadian government reached a deal with Google before a new law compelling tech giants to compensate news organizations comes into effect late next month.
+* Environmentalists argued that a road project was destabilizing the fragile Himalayan landscape. The government maneuvered to continue it.
+* Amid questions over Western resolve, Secretary of State Antony J. Blinken and other diplomats stressed their commitment to Kyiv’s bid to join the alliance.
+* Some people in the West Bank, where frustration with the Palestinian Authority has been simmering for years, believe Hamas and other armed groups are the only ones they can trust to protect them.
+* In the days after Russia’s invasion of Ukraine, Chancellor Olaf Scholz promised to revitalize Germany’s military. Nearly two years on, major change has yet to be felt.
+* President William Ruto has drawn attention internationally as a climate champion and peace mediator but faces domestic discontent over rising food and fuel prices, and new taxes.
 
 ![Global](./global.png)
 ## New York Times United States News
-* “Come hell or high water, Jimmy Carter was going to use his inner resources to be there,” the presidential historian Douglas Brinkley said of Mr. Carter’s emerging from hospice care for his wife’s memorial service.
-* “We need protection,” one migrant at the U.S. border said. But the legal system for refugees never envisioned the millions displaced by global warming.
-* Their marriage was admired for its endurance — 77 years — and for the affection between the two people in it. “It radiated,” one acquaintance said.
-* These new works of fiction and nonfiction vividly render the state’s past and present.
-* For six days, politicians from both sides of the aisle and other Kansans expressed their distaste for what was supposed to have been the state’s new license plate.
-* Plus, Hamas releases 12 more hostages, the true cost of avocados and Google says it will start purging accounts.
-* She rose to become the most politically active first lady since Eleanor Roosevelt. Yet her life began and ended dozens of miles from any interstate highway or even a stoplight.
-* The crowds are her biggest yet, and voters are warming up to her candidacy, but Nikki Haley still faces a daunting task in taking down the front-runner, Donald Trump.
-* Democrats are clashing with each other and the Biden administration over whether to attach conditions, including measures to avoid civilian casualties, to a major infusion of security assistance.
+* “In the West Bank we’re not safe,” one injured student said, “and as a Palestinian American, I’m not safe in America because of people like this that might come out.”
+* Pockets of conservative Catholics exist at all levels, and they see the pope’s decision to punish an outspoken cardinal as another move against them.
+* The third and final trial over Mr. McClain’s 2019 death will examine the role of the medics who responded while the young Black man was in police custody.
 * Legal challenges are pending across the country against a federal law that prevents medical marijuana users from buying or owning firearms.
+* Fans of the moose, who have named him Rutt, have been following his every move on Facebook.
+* Just this summer, the ultimate back-channel diplomat returned to Beijing, where he had negotiated the opening to China.
+* They barged into homes in the middle of the night, then held people down while they beat and choked them, witnesses said. For years, signs of the violence went ignored.
+* Some progressive activists are deeply disappointed in the Vermont senator, an icon of their movement, for failing to call for a cease-fire in Gaza.
+* It’s really hard to run against a sitting president. And beginning at this point, just two months before primary voting starts, wouldn’t be feasible anyhow.
+* Virginia, Florida and South Dakota have new standards that focus on patriotism, Christianity and anti-communism. But debating current events? That’s discouraged.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Sartorial signs of fall abound on the streets of the Japanese capital.
+* In Beijing’s praise of his legacy, there is implicit criticism of a U.S. shift in recent years away from cooperation and toward intensifying competition.
+* The scheme described by federal prosecutors could upset a key element of President Biden’s foreign policy agenda: bolstering ties with India.
+* The playful, waddling bears charmed millions of people at the Edinburgh Zoo of the Royal Zoological Society of Scotland.
+* He grew Soka Gakkai International’s following over two decades and helped create a coalition partner for the country’s dominant Liberal Democratic Party.
+* Plus the U.S. charges an Indian man in an assassination plot.
+* Environmentalists argued that a road project was destabilizing the fragile Himalayan landscape. The government maneuvered to continue it.
 * The incident comes three months after three Marines died in an Osprey crash in Australia.
 * Some firms argue that a law aimed at popularizing electric vehicles risks turning the United States into an assembly shop for Chinese-made technology.
 * Plus how New Zealand’s Maori Wardens keep the peace.
-* Winning the rights to host the major global event is a coup for Crown Prince Mohammed bin Salman’s efforts to remake the kingdom’s international image.
-* After repeated mechanical setbacks, the operation turned to trained miners using manual tools to clear the final stretch of debris.
-* The flow of students between the countries has been a mainstay of their relationship, even when ties have soured. Now these exchanges, too, are under threat.
-* The government is preparing to present its energy transition plan at the U.N. climate talks as it intensifies a crackdown on environmental advocates.
-* The law, celebrated as a model for other countries, would have eventually made tobacco illegal.
-* Chinese families are sending money overseas, a sign of worry about the country’s economic and political future. But a cheaper currency is also helping exports.
-* The strategies used by the Indigenous community policing alternative are in stark contrast to more muscular tactics pitched by the incoming government.
 
 ![Asian](./asian.png)
