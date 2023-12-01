@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Hamas freed 16 hostages, and Israel released 30 imprisoned Palestinians. With the expiration of a temporary cease-fire just hours away, mediators in Qatar were trying to negotiate another extension.
-* Éric Dupond-Moretti was charged with using his position as a weapon to order investigations into four magistrates he had recently clashed with.
-* Climate activists have balked at the fact that a leading oil producer, the United Arab Emirates, is hosting this year’s U.N. climate talks. But Emirati officials say they, too, are grappling with hard questions.
-* The bloc’s Court of Justice, ruling in the case of a female employee in Belgium who was told she could not wear a hijab in the office, said the restriction was lawful.
-* The Canadian government reached a deal with Google before a new law compelling tech giants to compensate news organizations comes into effect late next month.
-* Environmentalists argued that a road project was destabilizing the fragile Himalayan landscape. The government maneuvered to continue it.
-* Amid questions over Western resolve, Secretary of State Antony J. Blinken and other diplomats stressed their commitment to Kyiv’s bid to join the alliance.
-* Some people in the West Bank, where frustration with the Palestinian Authority has been simmering for years, believe Hamas and other armed groups are the only ones they can trust to protect them.
-* In the days after Russia’s invasion of Ukraine, Chancellor Olaf Scholz promised to revitalize Germany’s military. Nearly two years on, major change has yet to be felt.
-* President William Ruto has drawn attention internationally as a climate champion and peace mediator but faces domestic discontent over rising food and fuel prices, and new taxes.
+* A blueprint reviewed by The Times laid out the attack in detail. Israeli officials dismissed it as aspirational and ignored specific warnings.
+* The charges illustrate how complicated it can be for American presidents to balance their relationships with deeply imperfect allies.
+* Secretary of State Antony J. Blinken met with Israeli officials and a Palestinian leader on Thursday to seek improved conditions for Gaza’s civilians and to try to exert influence over Israel’s expected military offensive.
+* Guy Philippe, who helped lead the coup that ousted President Jean-Bertrand Aristide in 2004, is back in the politically unstable country after serving time in a U.S. prison.
+* In 1987, “Nixon in China” meditated on what was then recent history, depicting Kissinger as a smooth diplomat with a brutal side.
+* The rollout of “Endgame” caused a scandal after a quickly withdrawn translation named family members said to have asked about the skin color of Prince Harry and Meghan’s future son.
+* After an indictment accuses an Indian official of ordering an assassination on U.S. soil, diplomats and experts debate how far up the chain the scheme went.
+* Activists said the designation could put L.G.B.T.Q. people and their organizations under threat of criminal prosecution for something as simple as displaying the rainbow flag.
+* Mr. Whelan, who is serving a 16-year sentence in a labor camp, told his family that another inmate struck him in the face.
+* In a reflection of Henry Kissinger’s complicated legacy, his passing elicited sharply divergent opinions from admirers and critics.
 
 ![Global](./global.png)
 ## New York Times United States News
-* “In the West Bank we’re not safe,” one injured student said, “and as a Palestinian American, I’m not safe in America because of people like this that might come out.”
-* Pockets of conservative Catholics exist at all levels, and they see the pope’s decision to punish an outspoken cardinal as another move against them.
-* The third and final trial over Mr. McClain’s 2019 death will examine the role of the medics who responded while the young Black man was in police custody.
-* Legal challenges are pending across the country against a federal law that prevents medical marijuana users from buying or owning firearms.
-* Fans of the moose, who have named him Rutt, have been following his every move on Facebook.
-* Just this summer, the ultimate back-channel diplomat returned to Beijing, where he had negotiated the opening to China.
-* They barged into homes in the middle of the night, then held people down while they beat and choked them, witnesses said. For years, signs of the violence went ignored.
-* Some progressive activists are deeply disappointed in the Vermont senator, an icon of their movement, for failing to call for a cease-fire in Gaza.
-* It’s really hard to run against a sitting president. And beginning at this point, just two months before primary voting starts, wouldn’t be feasible anyhow.
+* Christian Ziegler, the state G.O.P. chairman, is under investigation after a sexual battery allegation. Democrats have called for his resignation.
 * Virginia, Florida and South Dakota have new standards that focus on patriotism, Christianity and anti-communism. But debating current events? That’s discouraged.
+* Steven Sadow’s minimalist approach in the racketeering case against his client has created some dramatic tension, but his silence may be coming to an end.
+* Pockets of conservative Catholics exist at all levels, and they see the pope’s decision to punish an outspoken cardinal as another move against them.
+* “We are feeling everything happening every day,” Abdullah Hammoud, the mayor of Dearborn, Mich., says of the Israel-Hamas war.
+* Ron DeSantis showed a feistier side, using a friendly moderator to go on offense. Gavin Newsom defended California and President Biden, and jabbed right back.
+* For Mr. DeSantis, taking on Gavin Newsom is fraught with risks at a time when his presidential campaign seems to be gasping for air.
+* The charges illustrate how complicated it can be for American presidents to balance their relationships with deeply imperfect allies.
+* The superyacht, called Koru, arrived in Port Everglades in Florida on Nov. 22, and has been docked near a more-than 610-foot-long oil tanker named Magnolia State.
+* President Biden recommitted to a promise to invest in the continent, as the United States has lagged behind Russia and China in competing for influence.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The charges illustrate how complicated it can be for American presidents to balance their relationships with deeply imperfect allies.
+* In 1987, “Nixon in China” meditated on what was then recent history, depicting Kissinger as a smooth diplomat with a brutal side.
+* Officials in the United States and Canada have described two assassination attempts: the killing of a Sikh leader in British Columbia and a plan to murder an activist in New York.
+* The company warned that the inauthentic accounts underscored the threat of foreign election interference in 2024.
+* Plus the best albums of 2023.
+* The U.S. diplomat rose from a bookish childhood in Germany to become a power player in the halls of American politics.
+* After an indictment accuses an Indian official of ordering an assassination on U.S. soil, diplomats and experts debate how far up the chain the scheme went.
+* The number of malaria cases rose again in 2022, propelled by flooding and warmer weather in areas once free of the illness.
+* His decision to authorize the bombing of Cambodia, efforts to extricate the U.S. from the Vietnam War and role in the rapprochement with China continue to be felt in Southeast Asia.
 * Sartorial signs of fall abound on the streets of the Japanese capital.
-* In Beijing’s praise of his legacy, there is implicit criticism of a U.S. shift in recent years away from cooperation and toward intensifying competition.
-* The scheme described by federal prosecutors could upset a key element of President Biden’s foreign policy agenda: bolstering ties with India.
-* The playful, waddling bears charmed millions of people at the Edinburgh Zoo of the Royal Zoological Society of Scotland.
-* He grew Soka Gakkai International’s following over two decades and helped create a coalition partner for the country’s dominant Liberal Democratic Party.
-* Plus the U.S. charges an Indian man in an assassination plot.
-* Environmentalists argued that a road project was destabilizing the fragile Himalayan landscape. The government maneuvered to continue it.
-* The incident comes three months after three Marines died in an Osprey crash in Australia.
-* Some firms argue that a law aimed at popularizing electric vehicles risks turning the United States into an assembly shop for Chinese-made technology.
-* Plus how New Zealand’s Maori Wardens keep the peace.
 
 ![Asian](./asian.png)
