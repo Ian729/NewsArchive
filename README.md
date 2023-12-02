@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* A blueprint reviewed by The Times laid out the attack in detail. Israeli officials dismissed it as aspirational and ignored specific warnings.
-* The charges illustrate how complicated it can be for American presidents to balance their relationships with deeply imperfect allies.
-* Secretary of State Antony J. Blinken met with Israeli officials and a Palestinian leader on Thursday to seek improved conditions for Gaza’s civilians and to try to exert influence over Israel’s expected military offensive.
-* Guy Philippe, who helped lead the coup that ousted President Jean-Bertrand Aristide in 2004, is back in the politically unstable country after serving time in a U.S. prison.
-* In 1987, “Nixon in China” meditated on what was then recent history, depicting Kissinger as a smooth diplomat with a brutal side.
-* The rollout of “Endgame” caused a scandal after a quickly withdrawn translation named family members said to have asked about the skin color of Prince Harry and Meghan’s future son.
-* After an indictment accuses an Indian official of ordering an assassination on U.S. soil, diplomats and experts debate how far up the chain the scheme went.
-* Activists said the designation could put L.G.B.T.Q. people and their organizations under threat of criminal prosecution for something as simple as displaying the rainbow flag.
-* Mr. Whelan, who is serving a 16-year sentence in a labor camp, told his family that another inmate struck him in the face.
-* In a reflection of Henry Kissinger’s complicated legacy, his passing elicited sharply divergent opinions from admirers and critics.
+* Gazans were bracing for expanded hostilities on Saturday, a day after a weeklong truce between Israel and Hamas ended. Essential supplies were running low.
+* Many hold Prime Minister Benjamin Netanyahu responsible for his government’s failure to prevent the Oct. 7 attack by Hamas. His legacy could be determined by his actions in the coming days.
+* In a country with its own history of a seemingly intractable conflict, the majority of people in Ireland are sympathetic to Palestinian civilians, while also condemning the Hamas attacks of Oct. 7.
+* As such names have increased, so has media attention to cases of people unhappy with them. But critics say new rules may infringe on the right to be creative.
+* Witness to a tragedy on a boat to Spain, Moustapha Diouf has made it his mission to persuade young people not to emigrate from Senegal, but even he concedes that it’s getting harder to make his case.
+* Ukrainian troops have taken positions on the east bank of the Dnipro River, posing a threat to Russia’s dominance of the region. Here is a look at the battlefield and the strategic implications.
+* A Canadian rapporteur said there was “well-grounded suspicion” that Han Dong, a member of Parliament from Toronto, may have benefited from support from the Chinese Consulate.
+* World leaders spoke in Dubai against a backdrop of rising temperatures and two major wars.
+* The charges are rooted in a decades-old dispute over the demand by some Sikhs for a sovereign state known as Khalistan carved out of northern India.
+* The government has tried to shift the focus. That’s harder with morgues still full of bodies six months after the start of ethnic violence in Manipur.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Christian Ziegler, the state G.O.P. chairman, is under investigation after a sexual battery allegation. Democrats have called for his resignation.
-* Virginia, Florida and South Dakota have new standards that focus on patriotism, Christianity and anti-communism. But debating current events? That’s discouraged.
-* Steven Sadow’s minimalist approach in the racketeering case against his client has created some dramatic tension, but his silence may be coming to an end.
-* Pockets of conservative Catholics exist at all levels, and they see the pope’s decision to punish an outspoken cardinal as another move against them.
-* “We are feeling everything happening every day,” Abdullah Hammoud, the mayor of Dearborn, Mich., says of the Israel-Hamas war.
-* Ron DeSantis showed a feistier side, using a friendly moderator to go on offense. Gavin Newsom defended California and President Biden, and jabbed right back.
-* For Mr. DeSantis, taking on Gavin Newsom is fraught with risks at a time when his presidential campaign seems to be gasping for air.
-* The charges illustrate how complicated it can be for American presidents to balance their relationships with deeply imperfect allies.
-* The superyacht, called Koru, arrived in Port Everglades in Florida on Nov. 22, and has been docked near a more-than 610-foot-long oil tanker named Magnolia State.
-* President Biden recommitted to a promise to invest in the continent, as the United States has lagged behind Russia and China in competing for influence.
+* The Supreme Court justice found herself balancing conflicting demands of professional achievement and family expectations to the end.
+* Arguments in court on Friday offered clues to Donald J. Trump’s legal strategy in fighting state charges of conspiracy to overturn the 2020 presidential election.
+* The police are desperately looking for a gunman they believe is responsible for shooting three men dead on the streets of Los Angeles this week.
+* Gov. Greg Abbott’s office has said the floating buoys are needed to restrict migrants entering from Mexico. The federal government said they were illegal.
+* The Supreme Court justice, who died at 93 on Friday, made a series of influential rulings and inspired women across a range of fields as she cemented her legacy.
+* The California Republican is still angry at his ouster and has struggled to acclimate. His colleagues expect him to retire, but he has taken his time deciding.
+* For decades, nonnative animals have ravaged the rare habitat on Catalina. The proposed solution has infuriated local residents and animal lovers.
+* The ruling is likely to spark a series of appeals that the former president’s lawyers hope will push the trial on election interference charges past the 2024 election.
+* The decision ignores warnings from voting rights groups and some election experts.
+* After ignoring each other for much of the campaign, the two candidates now engage in near-daily attacks and have sparred with increasing intensity on the debate stage.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* A reality show and a live experience are two ways of keeping the dystopian series in the public eye. Is the original’s bleak message being diluted?
+* As such names have increased, so has media attention to cases of people unhappy with them. But critics say new rules may infringe on the right to be creative.
+* A surge of children has been hospitalized in China for respiratory illnesses, but international health authorities said the cause was common viruses and bacteria.
+* The charges are rooted in a decades-old dispute over the demand by some Sikhs for a sovereign state known as Khalistan carved out of northern India.
+* The government has tried to shift the focus. That’s harder with morgues still full of bodies six months after the start of ethnic violence in Manipur.
 * The charges illustrate how complicated it can be for American presidents to balance their relationships with deeply imperfect allies.
 * In 1987, “Nixon in China” meditated on what was then recent history, depicting Kissinger as a smooth diplomat with a brutal side.
 * Officials in the United States and Canada have described two assassination attempts: the killing of a Sikh leader in British Columbia and a plan to murder an activist in New York.
 * The company warned that the inauthentic accounts underscored the threat of foreign election interference in 2024.
 * Plus the best albums of 2023.
-* The U.S. diplomat rose from a bookish childhood in Germany to become a power player in the halls of American politics.
-* After an indictment accuses an Indian official of ordering an assassination on U.S. soil, diplomats and experts debate how far up the chain the scheme went.
-* The number of malaria cases rose again in 2022, propelled by flooding and warmer weather in areas once free of the illness.
-* His decision to authorize the bombing of Cambodia, efforts to extricate the U.S. from the Vietnam War and role in the rapprochement with China continue to be felt in Southeast Asia.
-* Sartorial signs of fall abound on the streets of the Japanese capital.
 
 ![Asian](./asian.png)
