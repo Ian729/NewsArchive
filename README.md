@@ -2,29 +2,29 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
+* Prime Minister Benjamin Netanyahu gambled that a strong Hamas (but not too strong) would keep the peace and reduce pressure for a Palestinian state.
+* President Abdel Fattah el-Sisi of Egypt grew increasingly unpopular amid a deep economic crisis. But the war in neighboring Gaza has given him a vital role on the international stage.
+* Anton Thomas, a New Zealander in Melbourne, Australia, has given three years of his life to a hand-drawn map of our planet and its animal inhabitants.
+* In bitter debates from Israel to Africa to America, invoking a brutal history has become a powerful accusation.
+* Fighting in Khan Younis, the southern city where Israel believes Hamas’s leaders are hiding, has intensified, the Israeli military said.
+* Iran-backed forces are assembling drones and retrofitting rockets in the territory of an American ally. They are used in attacks on U.S. outposts in Iraq and Syria.
+* At least 14 people were killed in a clash between the gunmen and members of a small farming community in central Mexico, an episode that the state authorities cast as a gang extortion attempt that backfired.
 * A government crackdown on neon signs stems from safety and environmental concerns, but the campaign evokes the fading of the city itself.
+* It has gained prestige among Palestinians while poisoning Israel’s relations with the Arab world and putting the Palestinian issue back on the Western agenda.
 * The annual U.N. talks have brought the rare spectacle of limited protests to the politically repressive United Arab Emirates.
-* With millions-long lines for routine surgery, it has become more common for patients to pay for procedures. That carries risks for the future of the treasured public system.
-* A man with close ties to the Kremlin went looking for and found the remains of World War I Russian soldiers in France. Moscow hopes to use the discovery for diplomatic purposes.
-* Rights groups and aid organizations criticized a U.S. decision at the United Nations Security Council to block a resolution for an immediate cease-fire in Gaza.
-* The veto came amid a warning that “civil order is breaking down” in Gaza, and a day after the Biden administration warned that Israel’s military had not done enough to reduce harm to civilians.
-* The Iranian-backed militia in Yemen has launched drone and missile attacks on Israeli and American targets. American officials fear the group could go too far and incite a wider war.
-* The teacher, Samuel Paty, was beheaded in 2020 by an Islamist extremist after showing caricatures of the Prophet Muhammad to his students to illustrate free speech.
-* The announcement was long expected after the Constitution was amended in 2020, effectively allowing the Russian leader to stay in power until 2036.
-* The men created extremist manifestoes and recruiting videos, officials say.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Cease-fire activists hope that city council resolutions will send a message to the White House. One problem: local officials have little power.
-* The court, responding to an appeal from Attorney General Ken Paxton, put on hold a lower court order allowing an abortion for a woman whose fetus has a fatal condition.
-* The gunman, who carried out the deadliest high school shooting in the history of the state, will not be eligible for parole.
-* The president, Claudine Gay, told the campus newspaper that she “should have had the presence of mind” to answer differently.
-* A commission is weighing 6 finalists, and a new state flag could be flying in Minnesota by sometime next year.
-* Current and former European diplomats said there was growing concern a second Trump presidency could mean an American retreat from the continent and a gutting of NATO.
-* In her first campaign stop since Wednesday’s heated Republican debate, Ms. Haley suggested that fierce criticism from her opponents continued to not be worth her time.
-* The president openly attacked his predecessor, former President Donald J. Trump, deploying direct criticism he has frequently avoided, at an event announcing billions for high-speed rail service.
-* The Biden administration is pressing Israel to do more to protect civilians. But it has not publicly discussed any consequences if it does not.
-* Kevin M. Guskiewicz of the University of North Carolina is to become Michigan State University’s sixth president in six years.
+* The president, Elizabeth Magill, and the chairman of the board of trustees, Scott L. Bok, are leaving after intense pressure from donors, politicians and alumni.
+* Ms. Magill, who had been in her post since last year, stepped down four days after testifying before Congress.
+* The presidents of Harvard, M.I.T. and Penn faced a barrage of questions at a congressional hearing. Here are some of the most pointed exchanges.
+* Mr. Whitmire, a state senator, prevailed over U.S. Representative Sheila Jackson Lee to lead the nation’s fourth-largest city.
+* Republicans have been attacking elite universities for years. After a tense congressional hearing last week, many on the left are joining them.
+* From the halls of Congress to America’s streets and universities, a once largely academic issue has roiled national discourse, inciting accusations of bigotry and countercharges of bullying.
+* A federal jury will be selected to decide how much Rudolph Giuliani should pay for spreading lies about two Georgia election workers as he fought to keep Donald Trump in office.
+* Communities across the U.S. are fueling a secondary arms market by giving seized and surrendered guns to disposal services that destroy one part and resell the rest.
+* The Iowa Republican Party reminded supporters that only residents can vote in the first-in-the-nation caucuses, which will be held on Jan. 15.
+* The rivals for the Republican presidential nomination — minus Donald Trump — appeared at a “faith and family” event and talked in more personal terms.
 
 ![US](./usnews.png)
 ## New York Times Asia News
