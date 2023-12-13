@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* An Israeli official said skirmishes on the border with the Iran-backed Hezbollah militia needed to end, but it wasn’t clear how Israel would achieve that objective.
-* The Ukrainian leader will be appealing for more military support from the United States as an emboldened Russia steps up its attacks on his country.
-* Kibbutz Kfar Aza was devastated in the Hamas-led assault of Oct. 7, with its residents killed and kidnapped. Some see the prospects of its rehabilitation as a barometer for Israel’s future.
-* With pledges already lagging badly for this year, the global organization said that it had been forced to pare down its request for 2024 to focus on only the most life-threatening cases.
-* The European Union and Sweden have called for the immediate release of Johan Floderus, who has been detained in Tehran for about 600 days.
-* Parliament shot down a new government proposed by the caretaker prime minister, Mateusz Morawiecki, whose party, Law and Justice, lost its parliamentary majority in an October election.
-* The outages have raised widespread concerns in a country already grappling with discontent over a worsening economic situation.
-* Bernardo Arévalo, the most progressive leader to get this far in decades, faces a barrage of legal attacks aimed at preventing an orderly transfer of power.
-* The Philippines invited journalists on a mission to provide fuel to fishermen in disputed waters of the South China Sea amid tensions between Beijing and Manila.
-* The Russian opposition leader had been scheduled to appear before a district court via a video link on Monday. His spokeswoman said his allies had not heard from him for more than five days.
+* Monday’s strike on a Norwegian tanker was the militia’s latest flex on the fringes of the Israel-Hamas war. Once a scrappy tribal group, the Houthis now hold what analysts say are higher aspirations.
+* Standing beside President Volodymyr Zelensky of Ukraine, President Biden said Russian propagandists were celebrating Republicans’ decision to demand border security changes in return for aiding Kyiv’s war effort.
+* More than 60 percent of French speakers now live in Africa. Despite growing resentment at France, Africans are contributing to the evolution and spread of the French language.
+* President Abdel Fattah el-Sisi is all but certain to come out on top after a three-day vote, with the war in Gaza turning the country’s focus from economic calamity to security.
+* The U.S.-backed Nigerian military has been killing civilians in airstrikes at an alarming pace, security analysts and human rights advocates say, with little accountability.
+* The British prime minister’s contentious proposal to send asylum seekers to the African country moved forward a step, but it still faces potential stumbling blocks before becoming law.
+* The opposition leader was endorsed by Parliament as the country’s next prime minister, unseating the right-wing Law and Justice party that had long denounced him as unfit to rule.
+* Families may keep a “minimal” part of the ashes in a place of significance to the deceased, but the remainder must be placed in a sacred place such as a cemetery.
+* Even Gazans who can get access to Israeli directions online say they sometimes make no sense, which could be a matter of life or death.
+* Tensions have been rising between Pakistan and Afghanistan, and violence in the border area has increased since Pakistan directed all undocumented foreigners to leave the country.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Hours before the ruling, a group representing the woman, whose fetus received a fatal diagnosis, said she was leaving Texas for an abortion.
-* Dr. Gay is the first Black president and second woman to lead Harvard. She faces calls for her removal over her testimony on antisemitism.
-* For months, donors waged a campaign against the president and the chairman of the board. After the hearings on antisemitism, a dissident group of trustees had seen enough.
-* State and local leaders are proposing to roll back part of the nation’s pioneering drug decriminalization law and step up police enforcement.
-* Baseball fans everywhere were hoping that the megastar Shohei Ohtani would choose their team in free agency. Los Angeles Dodgers fans won the sweepstakes.
-* The Ukrainian president plans to meet with President Biden and lawmakers on Tuesday as chances of an aid deal in Congress have become increasingly bleak.
-* Two Georgia election workers are seeking as much as $43 million for false assertions from Rudolph Giuliani that they had sought to swing the 2020 outcome against Donald Trump.
-* Tyler Anderson of Dover was jailed and the authorities seized firearms after tracking the threatening texts to his phone and home address, officials said.
-* President Volodymyr Zelensky arrived in Washington at a critical moment, both on the battlefield and on Capitol Hill.
-* A fight over an expiring national security law descended into disorder on the eve of an expected vote on rival bills to reauthorize and overhaul it.
+* Harvard’s governing body said it stood firmly behind Claudine Gay as the university’s president, a stance both praised and condemned by students, faculty and alumni.
+* The resolution against Bridget Ziegler, a co-founder of the activist group Moms for Liberty, is nonbinding. She did not address critics who called her anti-L.G.B.T.Q. policies hypocritical.
+* The university started an investigation after receiving accusations in October as its president, Claudine Gay, was being criticized for her response to antisemitism on campus.
+* Dr. Larry Jameson was selected after M. Elizabeth Magill resigned amid an uproar over her statements about campus antisemitism.
+* A team of meme-makers has been flooding social media with pro-Trump posts riddled with sexist and racist tropes. Donald Trump is cheering them on.
+* Republicans are pushing forward with a formal investigation even though their yearlong scrutiny of the president and his family has turned up no proof of high crimes or misdemeanors.
+* At a town hall in Iowa, Ron DeSantis, who has the backing of Iowa’s popular governor, attacked Nikki Haley after she added a key supporter: Gov. Chris Sununu of New Hampshire.
+* Aides of the president met with influential Black male Democrats to discuss how to shore up his standing with a crucial group of voters before 2024.
+* The father of Jeffrey Dahmer, he wrote a memoir that one reviewer said sought to “peer not just into the soul of his son but into his own.”
+* The men shot about 3,600 birds and were motivated by a hunger for money, federal prosecutors said.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* A Thai farmworker clung to hope during her nearly 50 days of captivity in Gaza by befriending a young Israeli girl and dreaming of reuniting with her boyfriend, who had also been abducted.
+* A shrinking, aging population poses an obstacle as the nation tries to counter security threats from China and North Korea.
+* Plus, Volodymyr Zelensky pleaded for more aid in Washington.
+* Tensions have been rising between Pakistan and Afghanistan, and violence in the border area has increased since Pakistan directed all undocumented foreigners to leave the country.
+* A bipartisan report recommended stripping China of the low tariffs the United States granted it two decades ago, among other actions.
 * The last two members, Jimin and Jungkook, began their 18-month military duty in South Korea on Tuesday. Some fans say they should have been exempt.
 * The Chinese leader wants assurances that the strategically important country isn’t taking Washington’s side against Beijing, analysts say.
 * Volkswagen is shifting more operations to China, tapping the country’s electric vehicle capacity and building factories.
 * Li Ying used social media to help tell the world about last year’s protests. Now in exile, he has been threatened and lost his livelihood for his defiance.
 * Plus, the debate over who’s a “colonizer.”
-* The Philippines invited journalists on a mission to provide fuel to fishermen in disputed waters of the South China Sea amid tensions between Beijing and Manila.
-* Plus, Shohei Ohtani’s $700 million contract
-* The Los Angeles Dodgers are betting $700 million that Shohei Ohtani can deliver championships and help increase revenue. But the economics of sports can be fickle.
-* Despite government efforts to silence her, she drew global attention to an epidemic that devastated rural China and killed tens of thousands.
-* Two- and three-wheeled vehicles, used by billions of people, are moving away from fossil fuels to batteries faster than cars in countries that have made the energy transition a priority.
 
 ![Asian](./asian.png)
