@@ -2,33 +2,35 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Monday’s strike on a Norwegian tanker was the militia’s latest flex on the fringes of the Israel-Hamas war. Once a scrappy tribal group, the Houthis now hold what analysts say are higher aspirations.
-* Standing beside President Volodymyr Zelensky of Ukraine, President Biden said Russian propagandists were celebrating Republicans’ decision to demand border security changes in return for aiding Kyiv’s war effort.
-* More than 60 percent of French speakers now live in Africa. Despite growing resentment at France, Africans are contributing to the evolution and spread of the French language.
-* President Abdel Fattah el-Sisi is all but certain to come out on top after a three-day vote, with the war in Gaza turning the country’s focus from economic calamity to security.
-* The U.S.-backed Nigerian military has been killing civilians in airstrikes at an alarming pace, security analysts and human rights advocates say, with little accountability.
-* The British prime minister’s contentious proposal to send asylum seekers to the African country moved forward a step, but it still faces potential stumbling blocks before becoming law.
-* The opposition leader was endorsed by Parliament as the country’s next prime minister, unseating the right-wing Law and Justice party that had long denounced him as unfit to rule.
-* Families may keep a “minimal” part of the ashes in a place of significance to the deceased, but the remainder must be placed in a sacred place such as a cemetery.
+* President Biden’s meeting with the families lasted more than an hour. He had previously spoken with them by video call days after the Oct. 7 attack.
+* With Western support for Kyiv softening and Congress holding up urgently needed aid, Vladimir Putin’s bet on outlasting Ukraine and its allies is looking stronger.
+* The government avoided extra borrowing for 2024, but must make cuts in programs to address climate change.
+* Israel’s prime minister said he disagreed with President Biden about what should happen in Gaza after the war, and analysts say he might try to use the rift to shore up domestic support.
+* The concept, important for determining the legality of an act of war, is about weighing civilian harm against military objectives, not about achieving a balanced number of casualties.
+* Prime Minister Donald Tusk is sworn in and vows to try to invigorate flagging European support for Ukraine and push for “full mobilization” against Russia’s military assault.
+* Ukraine’s military said that it had shot down all the ballistic missiles targeting the capital, but that falling debris caused significant damage.
+* A Thai farmworker clung to hope during her nearly 50 days of captivity in Gaza by befriending a young Israeli girl and dreaming of reuniting with her boyfriend, who had also been abducted.
 * Even Gazans who can get access to Israeli directions online say they sometimes make no sense, which could be a matter of life or death.
-* Tensions have been rising between Pakistan and Afghanistan, and violence in the border area has increased since Pakistan directed all undocumented foreigners to leave the country.
+* President Volodymyr Zelensky of Ukraine traveled to Washington to make a last-ditch appeal for more help to fight Russia. But Republicans said they wouldn’t act without a border deal.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Harvard’s governing body said it stood firmly behind Claudine Gay as the university’s president, a stance both praised and condemned by students, faculty and alumni.
-* The resolution against Bridget Ziegler, a co-founder of the activist group Moms for Liberty, is nonbinding. She did not address critics who called her anti-L.G.B.T.Q. policies hypocritical.
-* The university started an investigation after receiving accusations in October as its president, Claudine Gay, was being criticized for her response to antisemitism on campus.
-* Dr. Larry Jameson was selected after M. Elizabeth Magill resigned amid an uproar over her statements about campus antisemitism.
-* A team of meme-makers has been flooding social media with pro-Trump posts riddled with sexist and racist tropes. Donald Trump is cheering them on.
-* Republicans are pushing forward with a formal investigation even though their yearlong scrutiny of the president and his family has turned up no proof of high crimes or misdemeanors.
-* At a town hall in Iowa, Ron DeSantis, who has the backing of Iowa’s popular governor, attacked Nikki Haley after she added a key supporter: Gov. Chris Sununu of New Hampshire.
-* Aides of the president met with influential Black male Democrats to discuss how to shore up his standing with a crucial group of voters before 2024.
-* The father of Jeffrey Dahmer, he wrote a memoir that one reviewer said sought to “peer not just into the soul of his son but into his own.”
-* The men shot about 3,600 birds and were motivated by a hunger for money, federal prosecutors said.
+* Federal officials have been contacting veterans who may have been injured by blast exposure in the service, including some who were cut off from health benefits.
+* Donations to U.S. universities reached $59.5 billion last year, and they come increasingly from a smaller group of wealthy donors. Many of them expect their money to buy a voice in university affairs.
+* The authorities say the killing of Samantha Woll, widely known as a civic leader, followed a home invasion by a stranger.
+* Dr. Sally Kornbluth, who is new to M.I.T., did not draw nearly as much fire as her counterparts at Harvard and Penn after last week’s congressional hearing.
+* J.R. Majewski, an ally of former President Donald J. Trump, is seeking to avenge his 13-point loss in the 2022 midterm elections in Ohio.
+* Oakland, Calif., has long prided itself on being the scrappy answer to San Francisco, but residents are concerned by an increase in crime.
+* As Hanukkah draws to a close, American Jews see the week’s brighter glow as especially necessary during a dark season.
+* The Republican presidential candidate Vivek Ramaswamy repeated his claim, without specific evidence, that the attack on the Capitol was an “inside job.”
+* With aid to Ukraine and Israel in limbo, a border deal elusive and a mountain of spending legislation left undone, the House turned its attention to whole milk in schools.
+* Ruby Freeman, one of two Georgia election workers found to have been defamed by Rudolph W. Giuliani, testified at the trial held to set the damages he will have to pay.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Kathleen Folbigg, who spent years in prison, was pardoned in June, after an inquiry found that her children had most likely died of natural causes.
 * A Thai farmworker clung to hope during her nearly 50 days of captivity in Gaza by befriending a young Israeli girl and dreaming of reuniting with her boyfriend, who had also been abducted.
+* Thai hostage Nutthawaree Munkan was held by Hamas for nearly 50 days. During her time underground, a 5-year-old Israeli child gave her hope that she’d make it out alive.
 * A shrinking, aging population poses an obstacle as the nation tries to counter security threats from China and North Korea.
 * Plus, Volodymyr Zelensky pleaded for more aid in Washington.
 * Tensions have been rising between Pakistan and Afghanistan, and violence in the border area has increased since Pakistan directed all undocumented foreigners to leave the country.
@@ -36,7 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * The last two members, Jimin and Jungkook, began their 18-month military duty in South Korea on Tuesday. Some fans say they should have been exempt.
 * The Chinese leader wants assurances that the strategically important country isn’t taking Washington’s side against Beijing, analysts say.
 * Volkswagen is shifting more operations to China, tapping the country’s electric vehicle capacity and building factories.
-* Li Ying used social media to help tell the world about last year’s protests. Now in exile, he has been threatened and lost his livelihood for his defiance.
-* Plus, the debate over who’s a “colonizer.”
 
 ![Asian](./asian.png)
