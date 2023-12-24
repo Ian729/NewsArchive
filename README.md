@@ -2,32 +2,33 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
+* How a Ukrainian soldier escaped from the embattled Azovstal steel complex in Mariupol and sneaked 125 miles to Ukrainian territory.
+* The war in Gaza has prompted the city, traditionally seen as the birthplace of Jesus, to tone down its Christmas celebrations.
+* People by the thousands risk crocodile attacks, robbery, drowning and arrest to cross the Limpopo River from Zimbabwe to South Africa, part of a booming migrant economy.
+* Family groups have been calling for the excavation of land believed to hold the bodies of at least 50 children — the sons and daughters of Algerians who fought for France — who died in internment camps.
+* An Australian high court allowed the release of dozens of detained people who are now subject to curfews and monitored by the government with ankle bracelets.
+* The Jenin refugee camp in the Israeli-occupied West Bank is a focal point of what Israeli officials describe as counterterrorism operations across the territory.
 * Despite its bravado in public, the Kremlin has indicated its interest in striking a deal to halt the war — so long as it could still declare victory.
+* More soldiers would join a division attacking Hamas-operated tunnels in southern Gaza. Despite growing calls for a cease-fire, fighting appeared to intensify.
 * Javier Milei warned that things would get worse before they got better. Now Argentines are living it.
 * Record numbers of legal immigrants came to Britain from outside the E.U. in recent years. Some on the right call that a “Brexit betrayal.”
-* The country’s public colleges and universities increasingly rely on international students, especially from India, even as tensions between the two nations have flared.
-* The compromise resolution, negotiated to avoid a veto from the United States, stopped well short of calling for a cease-fire.
-* Serving as the spiritual leader of 85 million Anglicans in an increasingly secular world is just one of the challenges for Justin Welby. He also had a king to crown and immigration policy to condemn.
-* After a student killed 14 people at a premier university, questions swirled. Did the Czech Republic’s permissive attitude toward gun ownership play a role?
-* Maalim Ayman, a senior leader of the extremist group al-Shabab, was believed responsible for attacks in Kenya on a university town that killed 148 people, and on a U.S. military base that killed three Americans.
-* Protesters are lobbying city councils to freeze urban renewal projects and buy military equipment instead, part of a wider call to put Ukraine on a war footing.
-* The first goal of the secret negotiations is to stop skirmishes between Israel and Hezbollah from escalating into an all-out war, but longer-term solutions are also on the table, officials say.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The case was initially seen as an illustration of the city’s crime and homelessness woes. Further evidence challenged that narrative.
-* The ruling, coming just months after liberals gained a 4-to-3 majority on the State Supreme Court, could undo gerrymanders that have given Republicans lopsided control of the State Legislature.
+* Domestic shootings are a small portion of the city’s violence, but victims’ advocates say the new spike is worrisome.
 * Peter Cichuniec and Jeremy Cooper were convicted of criminally negligent homicide, but the jury split on the assault charges, in an unusual prosecution of medical personnel.
-* Landon Bryant talks about grits, prayer lists and humidity, addressing a diverse audience bound by its fascination with a colorful, complicated place.
-* Mississippians say they’ve been shocked with Tasers, beaten with batons, pistol-whipped and waterboarded by Rankin County deputies, for decades.
-* This week’s debate over his very eligibility for office served as a stark reminder that anyone else facing such a wide array of legal problems would have left the political stage long ago.
-* In the past month alone, the Iranian-backed group has launched more than 100 attacks against commercial vessels in the Red Sea.
-* The former president’s claim that he is immune from prosecution will now be taken up by a federal appeals court — and could end up back in front of the justices within weeks.
+* The case was initially seen as an illustration of the city’s crime and homelessness woes. Further evidence challenged that narrative.
 * Testimony in a National Labor Relations Board hearing is challenging the amateurism model that has remained a bedrock of college athletics as it has evolved into a billion-dollar business.
-* Candidates for the Senate and House have expressed concern that the president has not done enough to build an operation or excite voters.
+* The Florida governor entered the year flush with cash and momentum. In the months since, internal chaos and Donald Trump’s indictments have sapped even his most avid supporters.
+* Red Rock Island, a big outcropping several miles from San Francisco, has been listed for $25 million. A visit finds, well, not much.
+* The war in Vietnam ignited a protest movement that helped define a generation. Is the war between Israel and Hamas doing the same thing?
+* The Supreme Court justice has built a network of former clerks who share messages, meals and a common vision — wielding influence at universities, law firms and the highest rungs of government.
+* As President Biden grapples with an unwieldy crisis at the southern border, his likely 2024 rival has leveled many criticisms — including some baseless and misleading claims.
+* The stakes for Russia in the presidential vote are large. Other adversaries also might try to deepen divisions among American voters.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The stakes for Russia in the presidential vote are large. Other adversaries also might try to deepen divisions among American voters.
 * The country is moving to curb the industry’s punishing work hours. But that could leave a shortfall that disrupts Japan’s entire logistics system.
 * The arrest of the 50-year-old driver highlighted the strict law in Japan against harming the birds, even if they take over balconies or get in the way of traffic.
 * The policy change could shore up American supplies of the weapon, allowing Washington to send more to Ukraine to help in its war against Russia.
@@ -37,6 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * Plus, how wealthy was the family in “Home Alone”?
 * Tokyo appears ready to adjust rules to allow the export of the weapons to the United States, a move that could help Washington support Ukraine’s fight against Russia.
 * The country’s trade with Russia this year has exceeded $200 billion, and makers of cars and trucks are the big winners.
-* Plus the top social media trends of 2023.
 
 ![Asian](./asian.png)
