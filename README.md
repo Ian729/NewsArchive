@@ -2,29 +2,29 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Rain, falling temperatures and a lack of clean water are exacerbating already dire conditions for displaced Gazans.
+* The Gazan Health Ministry blamed Israeli airstrikes for the deaths, and Israel’s military said it was reviewing the episode.
+* In his annual “Urbi et Orbi” address, Francis called for the release of Israeli hostages while also urging an end to the military campaign in Gaza.
+* The accusations made by Russia’s ambassador to Serbia were the latest efforts by Moscow to thwart a diplomatic campaign to lure Serbia out of Russia’s orbit.
+* Russia said it now had full control of the eastern town of Marinka. On Tuesday, Ukraine claimed to have destroyed a Russian ship.
+* Supporters of the Russian opposition leader lost contact with him 20 days ago, fueling concern about his health and whereabouts.
+* Riyadh is seeking to avoid getting dragged back into a bloody clash with the Yemeni militia, which has sowed chaos by attacking shipping and firing missiles at Israel.
+* The Ukrainian Orthodox Church formally changed the main date for the festivities, departing from the Russian tradition of celebrating on Jan. 7, according to the Julian calendar.
+* “Kaathal,” about a closeted gay politician, is the latest example of what Kerala’s movie industry has become known for: nuanced films that find box office success.
 * How a Ukrainian soldier escaped from the embattled Azovstal steel complex in Mariupol and sneaked 125 miles to Ukrainian territory.
-* The war in Gaza has prompted the city, traditionally seen as the birthplace of Jesus, to tone down its Christmas celebrations.
-* People by the thousands risk crocodile attacks, robbery, drowning and arrest to cross the Limpopo River from Zimbabwe to South Africa, part of a booming migrant economy.
-* The Jenin refugee camp in the Israeli-occupied West Bank is a focal point of what Israeli officials describe as counterterrorism operations across the territory.
-* Soldiers were fighting above ground in the region’s largest city, Khan Younis, Israel’s military said. The Gazan health ministry said dozens of people were killed in airstrikes in central Gaza.
-* Family groups have been calling for the excavation of land believed to hold the bodies of at least 50 children — the sons and daughters of Algerians who fought for France — who died in internment camps.
-* The billion-dollar deal leaves the team’s unpopular owners, the Glazer family, in control of the club, but it delegates important responsibilities to their new partner.
-* The election in Africa’s second-largest nation, which cost over a billion dollars, is being closely followed across the world.
-* After a fatal ambush on Indian soldiers, several people were taken in for questioning. Three were found dead hours later, reportedly with signs of torture.
+* A large segment of the Israeli work force has been called up to fight or become jobless as a result of the conflict with Hamas.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Red Rock Island, a big outcropping several miles from San Francisco, has been listed for $25 million. A visit finds, well, not much.
-* The war in Vietnam ignited a protest movement that helped define a generation. Is the war between Israel and Hamas doing the same thing?
-* The Harvard Corporation is a powerful board that governs the university. Here’s what we know about the members.
-* Harvard’s powerful board has backed its president and said little else, yet a member privately said “generational change” may be needed.
 * George Gascón is running for re-election in a very different climate, where concerns about crime have overtaken demands for equity and accountability.
+* Red Rock Island, a big outcropping several miles from San Francisco, has been listed for $25 million. A visit finds, well, not much.
+* Harvard’s powerful board has backed its president and said little else, yet a member privately said “generational change” may be needed.
+* The Harvard Corporation is a powerful board that governs the university. Here’s what we know about the members.
+* Members of Congress who have children with disabilities have bonded over that shared experience, despite vast political differences and broader polarization.
+* Six months ago, Joe Faillace wasn’t sure his business could survive. He believes Phoenix’s clearing of a nearby homeless encampment saved his shop.
+* Donald J. Trump plans to sharply expand his use of tariffs if he returns to power, risking disruption to the economy in an attempt to transform it.
+* The strikes followed an attack hours earlier by members of Kataib Hezbollah and affiliated groups on Erbil air base in Iraq that injured three U.S. service members, officials said, one critically.
+* Powerful winds and freezing temperatures were expected to cause poor visibility and icy roads through early Wednesday, forecasters said.
 * A super PAC backing the former governor of South Carolina plans to knock on 100,000 doors in Iowa before the caucuses, but it’s running out of time to spread her message.
-* In a wide-ranging interview, Dr. Monica M. Bertagnolli, the director of the National Institutes of Health, discussed drug patents, trust in science and her own experience as a cancer patient.
-* The Florida governor entered the year flush with cash and momentum. In the months since, internal chaos and Donald Trump’s indictments have sapped even his most avid supporters.
-* The Supreme Court justice has built a network of former clerks who share messages, meals and a common vision — wielding influence at universities, law firms and the highest rungs of government.
-* As President Biden grapples with an unwieldy crisis at the southern border, his likely 2024 rival has leveled many criticisms — including some baseless and misleading claims.
 
 ![US](./usnews.png)
 ## New York Times Asia News
