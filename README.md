@@ -2,32 +2,35 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Gazan health authorities said dozens of civilians were killed in the strikes on Sunday. The Israeli military said it regretted the harm “to uninvolved individuals.”
+* A Times investigation found that troops were disorganized, out of position and relied on social media to choose targets. Behind the failure: Israel had no battle plan for a massive Hamas invasion.
+* Gleefully vulgar, the genre known as “Cinema Panettone” once dominated Italy over the holidays. Italian revelers recently flocked to the alpine town where many of the films were set.
+* A festive pop-up restaurant is the latest crowd-pleasing stunt from Greggs, a mass-market bakery that is riding out Britain’s cost-of-living crisis with gusto.
+* The conflict and surging arms production in Russia have spurred demand for ammunition manufacturing across Europe.
+* The missile and drone attacks killed at least 30 people and damaged critical industrial and military infrastructure, part of a wintertime campaign that Ukraine had been dreading.
+* A hospital in Rafah said that a house where displaced Palestinians were staying was hit with an airstrike, killing at least 18 people.
+* An “integrated care center” brings doctors, physiotherapists, social workers and pharmacists under one roof. It won’t solve Britain’s underlying social care crisis — but it could help.
+* From a Nobel Peace Prize winner, to a mayor hunted by the Russians, to a poet whose muses are cats, our profiles featured people shaping the world around them, often under the radar.
+* The promotion of Adm. Dong Jun may calm uncertainty after the unexplained disappearance of the previous minister, Gen. Li Shangfu.
 * A Times investigation uncovered new details showing a pattern of rape, mutilation and extreme brutality against women in the attacks on Israel.
-* Russia’s recent progress around the southern village of Robotyne is a sobering development for Ukraine amid dwindling Western military aid.
-* The military junta in Burkina Faso, a West African nation struggling to defeat extremist groups, has been forcibly conscripting critics, say human rights organizations.
-* The actor, Lee Sun-kyun, had been questioned on suspicion of drug use in a country that has long drawn a hard line against anything other than total abstinence.
-* As millions fled, some expatriates made the unlikely decision to remain in Ukraine, among them students determined to finish their education and others who now consider it home.
-* After the tanker overturned in an accident, people gathered around the vehicle trying to scoop up fuel before it caught fire and exploded.
-* A (tall) statue of the Colombian singer was unveiled this week along the waterfront in Barranquilla, the city where she grew up.
-* Israel has vowed time and again to eliminate the group responsible for the brutal Oct. 7 attack, but critics increasingly see that goal as unrealistic or even impossible.
-* Officials are struggling to contend with the chaos at the U.S.-Mexico border as thousands of migrants arrive every day, trekking from the farthest reaches of the globe.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Maine found Donald Trump ineligible to hold office because of his actions after the 2020 election. California said his name would remain on the ballot there.
-* Along the coast, residents on Thursday saw waves that topped 30 feet and flooded beachfront neighborhoods in some areas.
-* Some ski areas remain closed. But an even greater concern amid a changing climate is whether enough snow will fall to meet water needs for the summer.
+* Authors and activists said the Republican-backed law infringed on free speech. The judge said the ban imposed a “puritanical ‘pall of orthodoxy’ over school libraries.”
+* Barring former President Donald J. Trump from the primary ballot was a hard but necessary call, Shenna Bellows said in an interview.
 * There are lawsuits pending in more than a dozen states seeking to have Donald J. Trump disqualified from appearing on primary ballots.
-* The country is on track for a record drop in homicides, and many other categories of crime are also in decline, according to the F.B.I.
-* Ron DeSantis and Vivek Ramaswamy were quick to take swipes at the secretary of state’s ballot decision, while the state’s congressional delegation appeared split on the matter.
-* Kimberlee Singler, 35, was found injured at an apartment last week with the bodies of two of her children, 9 and 7, the police said. Her 11-year-old daughter was also found injured, they said.
-* The Rev. William J. Barber II was trying to watch “The Color Purple” with his mother when theater staff told him he could not use a chair he needs to help manage a painful condition.
-* The University of Wisconsin System’s top official said she was “disgusted” by the chancellor’s actions; the chancellor says he was exercising his right to free speech.
-* In a letter addressed to Texas’ governor and attorney general, a D.O.J. official wrote that the federal government had sole authority over immigration enforcement.
+* Some voters were alarmed at the state’s decision to disqualify former President Donald J. Trump. But others applauded it. “I like that Maine took a stand,” said one.
+* Some critics say the battles over the former president’s ballot status are turning him into a martyr and eroding faith in American elections.
+* Republicans are pushing for the removal of Kristina Karamo, an election-denying activist who rose to lead the state party this year, amid mounting financial problems and persistent infighting.
+* Chinatowns in the United States and Canada have long been squeezed by development projects. Will a proposed arena in Philadelphia’s struggling downtown be the next?
+* The cases in Colorado, Maine and other states are requiring former President Donald J. Trump to devote resources already spread thin across four criminal indictments.
+* A Sol de Janeiro moisturizer has garnered attention after reviews claimed it attracted Wolf spiders. Experts say it’s likelier that the season is leading to more human-spider interactions.
+* The legal issues are novel and tangled, experts said, and the justices may be wary of knocking a leading presidential candidate off the ballot.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Decades after independence, the Philippines lacks the kind of factory economy that has lifted up other Asian nations, tying millions to farm work.
+* In the groves of the Philippine island of Mindanao, people living in rural areas struggle to feed themselves in the same way as their ancestors.
+* The promotion of Adm. Dong Jun may calm uncertainty after the unexplained disappearance of the previous minister, Gen. Li Shangfu.
 * From a Nobel Peace Prize winner, to a mayor hunted by the Russians, to a poet whose muses are cats, our profiles featured people shaping the world around them, often under the radar.
 * One pilot changed the propeller angle instead of that of the wing flaps while trying to land a Yeti Airlines plane in January, a report said.
 * Investors worried about China’s economy shunned Hong Kong’s stock market, once one of the biggest and most important in the world.
@@ -35,8 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * Also, migration to the U.S. and the threat to art from A.I.
 * The Dutch chess player, who received an official warning, said she did not intend to violate the dress code when she wore her canvas Burberry sneakers at a chess championship in Uzbekistan.
 * Citic said its new fund was as safe as they come because it would invest in real estate. Then the developer defaulted and the projects stalled.
-* The actor, Lee Sun-kyun, had been questioned on suspicion of drug use in a country that has long drawn a hard line against anything other than total abstinence.
-* He was removed from his university presidency after supporting pro-democracy protesters at Tiananmen Square. He remained a relentless advocate for rule of law.
-* India’s foreign minister is on a five-day diplomatic trip to Moscow to reinforce economic and defense ties, though some strains in the countries’ relationship are showing.
 
 ![Asian](./asian.png)
