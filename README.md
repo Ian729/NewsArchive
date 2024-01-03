@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Officials ordered evacuations and said that some people could be trapped under collapsed buildings after a quake struck the western prefecture of Ishikawa.
-* Despite plummeting popularity, Prime Minister Benjamin Netanyahu of Israel has made clear he has no intention of resigning after the war in Gaza ends.
-* President Vladimir V. Putin of Russia says his country will continue targeting Ukrainian cities in retaliation for a deadly attack on the city of Belgorod on Saturday.
-* Speaking at his traditional New Year’s Day message, Francis highlighted the arrests and expulsion of clergy.
-* She’s 18. He’s 23. He sent her a one-sentence letter through his prison’s electronic mail system: “Will you marry me?” They wed in a small room in a Moscow jail.
-* There were reports of collapsed buildings and people being trapped underneath them. The quake disrupted electricity and phone service, and initially raised fears of a tsunami.
-* Followers of Afro-Brazilian religions have been displaced by New Year’s revelers. But they still find ways to make their offerings to the ocean.
-* More than 90 percent of Palestinians in the territory say they have regularly gone without food for a whole day, according to the United Nations.
-* Analysts say the announcement could signal a shift to the more limited and targeted war against Hamas that the United States has been urging.
-* At a time when support for peace is at a low, conversations at Israel’s Hand in Hand schools about the Oct. 7 attack and the war in Gaza sound different than they do elsewhere.
+* Hamas confirmed that Saleh al-Arouri, the group’s top deputy, had been killed in the explosion, along with two leaders of the group’s armed wing. Two U.S. officials said Israel was responsible for the strike.
+* Russia said that Ukraine retaliated hours later with missile attacks on Russian territory, part of an escalating cycle of air assaults between the two countries.
+* Japan Airlines said all 367 passengers and 12 crew members had safely, evacuated the jet. But five crew members on a Japanese Coast Guard plane that collided with it were killed.
+* Monday’s court ruling joined the war in Gaza in a widening crisis over what kind of state Israel will be.
+* Like King Charles III of Britain, Prince Frederik, who will soon ascend to his country’s throne, is part of a younger generation of royals who have embraced environmental issues.
+* With Israel fighting in Gaza, people on both sides of the judiciary debate appear unwilling to return to the domestic upheaval that preceded the war.
+* Jennifer Hermoso, who was kissed on the mouth by Spain’s former soccer boss, Luis Rubiales, gave evidence at a hearing to determine whether Mr. Rubiales will be charged.
+* A landmark pact between Ethiopia and the breakaway region of Somaliland has drawn condemnation from Somalia. Other neighbors also worry about allowing potential naval access to the Red Sea.
+* The authorities continued to look for people buried in the rubble of collapsed and burned buildings in the coastal epicenter of the disaster.
+* Lee Jae-myung, the Democratic Party head, was attacked by a 66-year-old man in the city of Busan, the police said. Mr. Lee is now recovering from surgery.
 
 ![Global](./global.png)
 ## New York Times United States News
-* When you talk to students about social media radicalization, racism and bullying, you learn how desperate they are for some guidance.
-* Shenna Bellows is the latest politician to fall victim to a hoax emergency call meant to provoke an armed police response.
-* Since the death of George Floyd, a national movement promised sweeping justice reform. So far, police prosecutions have resulted in a mixed bag of convictions, acquittals and a mistrial.
-* Landon Bryant talks about grits, prayer lists and humidity, addressing a diverse audience bound by its fascination with a colorful, complicated place.
-* Some of the most contentious issues in the country will dominate the agendas of state legislatures returning to work in the coming days and weeks.
-* The 33-year-old librarian from California has become popular on TikTok and Instagram with his upbeat take on libraries.
-* The former president says his acquittal by the Senate in his second impeachment trial, for inciting insurrection, bars any prosecution on similar grounds.
-* The former president is leading by impressive margins in the state, but his campaign wants to make sure his supporters turn out.
-* Many state laws take effect on the first day of 2024, including new rules on gun safety, a ban on diversity programs and a curb on telemarketing calls.
-* In his year-end report, Chief Justice John G. Roberts Jr. focused on the new technology while steering clear of Supreme Court ethics and Donald J. Trump’s criminal cases.
+* Amid plagiarism allegations and a backlash to campus antisemitism, Claudine Gay became an avatar for broader criticisms of academia.
+* The move attempts to overturn the decision which made Maine the second state to rule the former president ineligible for the primary ballot.
+* Shiffrin, the champion American ski racer, is an unabashed Swiftie, and has long seen the pop culture force as a textbook guide for navigating fame, adversity and unprecedented success.
+* The authorities said they did not believe the shooting was related to previous threats against the justices who barred Donald J. Trump from the state’s primary ballot.
+* In a case that has drawn international attention, a grand jury in Ohio is expected to decide whether to indict a Black woman who miscarried at home and disposed of the nonviable fetus.
+* The border crossing in a remote Arizona community was a passage for thousands of workers, families and businesses in the region who relied on it every day.
+* The visit by the speaker and scores of House Republicans comes as the G.O.P. seeks to increase pressure on President Biden and Democrats to agree to severe new border policies.
+* The president will speak at Valley Forge on the anniversary of the Jan. 6 Capitol riot, and later at a South Carolina church where a white supremacist killed nine people.
+* The 38-year-old entrepreneur has maintained a grueling schedule, but questions about the goals of his candidacy are mounting with less than two weeks before the caucuses.
+* The munition, which was carried to shore by the rough surf that battered the state last week, was found on New Year’s Eve.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The attack on Lee Jae-myung, who narrowly lost the 2022 presidential vote, came amid a deepening political divide and increasingly extreme discourse in South Korea.
+* The study, under investigation by its publisher, has fueled a dispute over the age of a partially excavated site and prompted warnings about the dangers of nationalist mythmaking.
+* The purge of several commanders from China’s legislature was the latest sign of widening investigations focused on the sensitive arms sector, experts say.
+* Plus the great winter festivals of Asia.
 * The prosecution accused him of colluding with U.S. officials to undermine Hong Kong’s interests, citing private messages, meetings and social media posts.
-* Japan Airlines said all 367 passengers and 12 crew members had evacuated the jet. Five crew members in a Coast Guard plane that reportedly collided with the jet were unaccounted for.
+* Japan Airlines said all 367 passengers and 12 crew members had safely, evacuated the jet. But five crew members on a Japanese Coast Guard plane that collided with it were killed.
 * The authorities continued to look for people buried in the rubble of collapsed and burned buildings in the coastal epicenter of the disaster.
 * Long-term investment in India by businesses is stagnant, and foreign money is falling, even as the government is driving growth with infrastructure spending.
-* Lee Jae-myung, who leads the Democratic Party, was attacked by a 66-year-old man in the city of Busan, the police said. Mr. Lee was flown to Seoul for treatment.
+* Lee Jae-myung, the Democratic Party head, was attacked by a 66-year-old man in the city of Busan, the police said. Mr. Lee is now recovering from surgery.
 * Plus New Year’s offerings to the sea in Brazil.
-* There were reports of collapsed buildings and people being trapped underneath them. The quake disrupted electricity and phone service, and initially raised fears of a tsunami.
-* Sales by BYD, the country’s dominant automaker, topped 3 million last year, including 1.6 million fully battery-powered cars. It’s a sign of China’s rapid growth in EVs.
-* As another major quake struck Japan, the country was still reckoning with the nuclear crisis triggered by the 8.9-magnitude earthquake and a tsunami of 13 years ago.
-* Catch a mountain trout on a frozen South Korean river, witness a fiery pelting of devotees in Taiwan or find your cold-weather bliss in a Japanese snow maze.
 
 ![Asian](./asian.png)
