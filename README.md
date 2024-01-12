@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The Palestine Red Crescent Society said a missile from an Israeli drone destroyed one of its ambulances in central Gaza, killing four crew members and two patients. Israel did not comment.
+* The accusation of genocide in Gaza, which Israel denies, has particular significance in a country founded in the wake of the Holocaust.
+* The report found that American officials and diplomats had failed to quickly or fully account for all of the nearly 40,000 weapons sent to the front.
+* At the island’s election rallies, warming up the crowd for candidates is crucial. “You have to light a fire in their hearts,” one host says.
+* The same vessel was involved last year in the U.S. government seizure of Iranian oil that was being transported in violation of American sanctions.
+* Obstacles at two border crossings are exacerbating a growing humanitarian crisis, according to two U.S. senators and officials with the U.N. and other groups.
+* Late last year, Finland accused Moscow of facilitating an influx of migrants and shut its land border crossings with Russia.
 * Vowing to bring peace back to a shattered country, President Daniel Noboa has deployed the military to take on what he calls “terrorist” groups.
+* There were signs the authorities had regained some control, but the extent of damage and casualties from the unrest remained unclear.
 * President Volodymyr Zelensky of Ukraine is likely to find strong backing on a trip to the Baltic States, but other nations are increasingly wary.
 * Lakefront Verbania in Italy’s Piedmont seeks to attract flower lovers with its mild climate, spectacular gardens and wild nature.
-* Somali officials said the helicopter was carrying nine passengers, one of whom was killed. The Horn of Africa nation is now grappling with how to rescue hostages from a group known for mistreating them.
-* The incident escalated a campaign by the ousted Law and Justice party to resist the transfer of power after it lost its parliamentary majority in October.
-* The suspect had planned the attack last week on the country’s opposition leader for months, the police said, and had written an eight-page manifesto.
-* Israeli officials have told foreign journalists that they are starting to slow military operations in Gaza, while assuring the Israeli public that the war against Hamas will go on.
-* The American developer MSG Entertainment withdrew its bid to build a sister arena in Britain after opposition from Londoners and the city’s mayor.
-* The president declared a state of emergency and ordered the military to “neutralize” dozens of gangs. Gunmen stormed a TV studio as cameras rolled.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Theodore McCarrick was the highest-ranking cleric in the nation to face criminal charges in the Catholic church’s sprawling abuse scandal.
-* Nathan Wade has stayed silent since a legal filing said he was chosen for the job because he was romantically involved with the Fulton County district attorney.
-* California is among several states tightening their belts in the post-pandemic economy.
-* Under recent rules, some students can’t take a vision test or get a Band-Aid without permission slips. And it’s up to schools to hunt them down.
-* Severe weather will again sweep the South, while blizzard conditions are forecast to hit the Midwest starting Friday. Some cities will see subzero temperatures through the long weekend.
-* Ms. Haley has cut into former President Donald J. Trump’s lead in the state where Mr. Christie had spent significant time wooing voters opposed to Mr. Trump.
-* It’s the question weighing on Republicans across the country. But Iowans get to decide first. We listened as they grappled with their choices.
-* Sophisticated political deepfakes have warped elections overseas. Can U.S. legislators act fast enough to make A.I. campaign ads more transparent?
-* The fifth Republican presidential debate featured just two candidates and grew testy. But analysts saw little that would change the race ahead of Monday’s caucuses.
-* Trading attacks at a rapid clip, Nikki Haley and Ron DeSantis largely ignored the existence of the Republican front-runner, who basked in his solo event before a friendly crowd.
+* A group of students, citing a litany of instances on campus they claimed were antisemitic, said that Harvard professors had long promulgated antisemitism in their courses, among other claims.
+* Accusations involving her relationship with the lead prosecutor she hired are seen as unlikely to derail the case but could cause serious distractions.
+* Alabama’s longtime football coach won more national championships than anyone in modern history and helped change the image of the state.
+* Nathan Wade talked to White House staff members in 2022, when he was seeking witnesses for the investigation into whether Donald J. Trump interfered in the 2020 election in Georgia.
+* Sure, it’s cold out. But how do meteorologists measure how cold it feels?
+* More than a foot of snow is expected in parts of Michigan and Wisconsin, forecasters said. Severe weather, with the possibility of tornadoes, will sweep states from Mississippi to the Carolinas.
+* The former Arkansas governor, nowhere in the polls, is running on principle — and on fumes, financially speaking.
+* In 2016, evangelicals fueled a victory in Iowa for Ted Cruz. Since then, they’ve tilted toward Donald Trump and been courted by Ron DeSantis. We asked several conservative Christian pastors where they’re leaning.
+* Congress approved a Biden administration initiative to feed poor children during the summer. But 15 states led by Republican governors opted out.
+* Nikki Haley has canceled her in-person events on Friday. Ron DeSantis and Vivek Ramaswamy are still planning some, for now.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The Democratic Progressive Party has transformed Taiwan into a bastion against Chinese power. Now it is promising a mix of change and continuity.
+* The vote for a new president could reshape the complicated, risky balance between Taiwan, China and the United States.
+* There were signs the authorities had regained some control, but the extent of damage and casualties from the unrest remained unclear.
+* Within hours, the former middleweight mixed martial arts champion risked more legal trouble by posting provocative content on social media.
 * At the island’s election rallies, warming up the crowd for candidates is crucial. “You have to light a fire in their hearts,” one host says.
 * Angry protests started after hundreds of police officers and other public servants appeared to walk off their jobs over a wage dispute.
 * Amid U.S.-China tensions, the company has faced questions over whether operating an advanced research lab in Beijing is politically tenable.
 * A U.S.-born chip technology called RISC-V has become critical to China’s ambitions. Washington is debating whether and how to limit the technology.
 * The suspect had planned the attack last week on the country’s opposition leader for months, the police said, and had written an eight-page manifesto.
 * A warning from Taiwan about a satellite, erroneously called a missile in English, raised concerns about Chinese harassment days before an election.
-* A congressional committee made the demand of the Commerce Department after The Times reported on concerns among U.S. intelligence officials over the Emirati company, G42.
-* Breeding, killing and selling dogs for their meat will be banned in a country where it has fallen out of favor. Hundreds of thousands of the animal were still being bred for human consumption.
-* Also, a recap of the Golden Globes.
-* The decision by the Supreme Court paves the way for a former prime minister, Nawaz Sharif, to run in parliamentary elections in February.
 
 ![Asian](./asian.png)
