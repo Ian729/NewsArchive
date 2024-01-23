@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The Israeli military took reporters on a tour of an underground compound in the Gazan city of Khan Younis, where it says about 20 hostages were held by Hamas.
+* At the European Union’s headquarters in Brussels, officials were confused by Israel’s presentation and pressed for recognition of the importance of moving toward a Palestinian state.
+* The temple inaugurated by the prime minister is on the disputed site of a centuries-old mosque destroyed in a Hindu mob attack that set a precedent of impunity in cases of violence against Muslims.
+* President Vladimir Putin derided those “jumping around without pants,” at a party, while some guests have tried to make amends through donations and adopting a cat.
+* At least 11 people died, and several dozen were under the rubble, the state media reported.
+* In the latest setback to Prime Minister Rishi Sunak’s Rwanda policy, the upper house of the British Parliament voted to delay a crucial treaty with the African country.
+* His remarks, part of an effort to atone for comments many called antisemitic, came after a visit to the Auschwitz death camp site.
+* A look at the academic roots of the idea, which has stirred fierce debate when applied to Israel.
 * Rising temperatures and retreating glaciers threaten Europe’s water tower, forcing local farmers to adapt and presaging larger troubles downstream.
+* Hélène Darras, a French actress, had accused Gérard Depardieu of groping her in 2007 on a movie set. A separate investigation of the actor is proceeding, Paris prosecutors said.
 * An intensification of nuclear threats from North Korea while the world is preoccupied with other wars has ignited an urgent debate over Mr. Kim’s motives.
-* Although he dons different personas, the strongman bona fides of Prabowo Subianto date to when Indonesia was a dictatorship led by his former father-in-law.
-* A police officer who seriously injured a 22-year-old Black man with a baton during an arrest in 2017 was convicted, but given only a suspended sentence.
-* President Biden’s Middle East coordinator, Brett McGurk, will meet with Egyptian and Qatari leaders in hopes of making progress toward freeing captives held by Hamas.
-* The pro-Moscow authorities in the eastern city of Donetsk said 25 people were killed and 20 others were wounded. It was not possible to independently confirm which side launched the strike.
-* A senior Iranian intelligence official was killed in an Israeli strike in Damascus as U.S. troops came under attack in Iraq.
-* Will deepening skepticism about the United States as a trustworthy nation diminish Taiwan’s belief that it could fend off China?
-* Some Israeli commanders said the government’s two main goals were mutually incompatible. To eradicate Hamas, the military would have to engage in a lengthy war that would most likely cost the hostages’ lives.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The number from officials and news reports is likely to rise as authorities assess the fallout from the extreme conditions in many parts of the country.
-* Two of the most cautious states have bypassed the Centers for Disease Control and Prevention by letting students and workers who have the virus but are asymptomatic avoid isolation.
-* Devin Moss spent a year ministering to convicted killer Phillip Hancock. Together, they wrestled with one question: How to face death without God.
-* The university released its most detailed account of its handling of plagiarism accusations against Claudine Gay, who resigned earlier this month.
-* As Nikki Haley celebrated Ron DeSantis’s departure from the Republican primary, Donald J. Trump turned his firepower toward his final rival.
-* The administration’s task force on reproductive rights also announced what officials said were new steps to help Americans get contraceptives and abortions under an emergency care law.
-* Presidential candidates, warning of terrorists, criminals and traffickers, have drawn a national spotlight to the nation’s border with Canada. But proposals for a southern-style wall have not exactly appeared to catch on.
-* The aviation agency issued a safety alert recommending that airlines inspect door plugs on a Boeing 737 plane that has the same design as the 737 Max 9.
-* The couple’s relationship became public after Mr. Scott’s final turn on the debate stage. He proposed on Saturday.
-* “That name is officially retired,” Donald Trump declared after Gov. Ron DeSantis of Florida ended his campaign and endorsed the former president.
+* A judge in Georgia also delayed a deposition of Fani T. Willis, the district attorney accused of having a romantic relationship with a prosecutor she hired.
+* An intense downpour brought more rain to the city on Monday than Tropical Storm Hilary did last year.
+* Faculty members and other academic workers in the nation’s largest public university system walked out on Monday just as classes were scheduled to begin at many campuses.
+* Weeks before the March 5 primary, the four leading candidates for the open Senate seat sparred over Donald Trump, the Middle East and homelessness.
+* The mother of Ethan Crumbley, who killed four students in 2021, is set to go on trial on Tuesday. In a rare move, prosecutors have charged both of his parents with involuntary manslaughter.
+* The state plans to carry out the first U.S. execution via nitrogen hypoxia with Kenneth Smith, who survived an earlier attempt to execute him by lethal injection.
+* Nikki Haley took all six votes in Dixville Notch, but it could be a different story in the rest of the state, as Donald J. Trump has a comfortable lead in the polls.
+* A Texas lab helped Washington State officials identify the bones more than 40 years after the teen went missing.
+* A crowded G.O.P. field is down to only two: former President Donald J. Trump, and former Gov. Nikki Haley of South Carolina. Democrats have mounted a write-in campaign for President Biden.
+* Romeo Nance, 23, is believed to have fatally shot himself on Monday night in Texas following the spate of shootings on Sunday and Monday in Joliet, Ill., the authorities said.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* A proposal to tighten restrictions on online video games disappeared from a regulator’s website, weeks after the plan prompted a sell-off in tech stocks.
+* He spent 25 years in prison for campaigning for Taiwan’s independence and democratization. After his release, he led protests to oust one its presidents.
+* Over a year after China opened its borders following the pandemic, international trips are still lagging, although domestic travel is more popular.
+* The two prisoners have admitted to conspiring with an affiliate of Al Qaeda that carried out a deadly bombing in Indonesia two decades ago.
+* Plus, a “revolutionary” way to feed the world.
+* As the war approaches its second anniversary, the Russians are beginning to deploy North Korean arms, worsening Ukraine’s troubles while it still awaits new air defenses from the United States.
 * A look at the academic roots of the idea, which has stirred fierce debate when applied to Israel.
-* At least eight people died, and another 39 were under the rubble, state media reported.
+* At least 11 people died, and several dozen were under the rubble, the state media reported.
 * Its site is sacred to Hindus, and it also represents the much more recent victory of Hinduism as a political identity.
-* The temple inaugurated by the prime minister is on the disputed site of a centuries-old mosque destroyed in a Hindu mob attack that set a precedent of impunity against Muslims.
-* Plus the meaning of North Korea’s threats.
-* An intensification of nuclear threats from North Korea while the world is preoccupied with other wars has ignited an urgent debate over Mr. Kim’s motives.
-* Although he dons different personas, the strongman bona fides of Prabowo Subianto date to when Indonesia was a dictatorship led by his former father-in-law.
-* The Royal Botanic Gardens, Kew, hailed pinanga subterranea, a palm native to the island, as a discovery, but it has long been known to local Indigenous people.
-* Will deepening skepticism about the United States as a trustworthy nation diminish Taiwan’s belief that it could fend off China?
-* Kim Kwang-ho, charged with negligence, is one of the most senior officials to face legal consequences for the October 2022 disaster that killed nearly 160 people in Seoul.
+* The temple inaugurated by the prime minister is on the disputed site of a centuries-old mosque destroyed in a Hindu mob attack that set a precedent of impunity in cases of violence against Muslims.
 
 ![Asian](./asian.png)
