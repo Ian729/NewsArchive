@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* At the European Union’s headquarters in Brussels, officials were confused by Israel’s presentation and pressed for recognition of the importance of moving toward a Palestinian state.
-* The temple inaugurated by the prime minister is on the disputed site of a centuries-old mosque destroyed in a Hindu mob attack that set a precedent of impunity in cases of violence against Muslims.
-* President Vladimir Putin derided those “jumping around without pants,” at a party, while some guests have tried to make amends through donations and adopting a cat.
-* At least 11 people died, and several dozen were under the rubble, the state media reported.
-* In the latest setback to Prime Minister Rishi Sunak’s Rwanda policy, the upper house of the British Parliament voted to delay a crucial treaty with the African country.
-* His remarks, part of an effort to atone for comments many called antisemitic, came after a visit to the Auschwitz death camp site.
-* A look at the academic roots of the idea, which has stirred fierce debate when applied to Israel.
-* Rising temperatures and retreating glaciers threaten Europe’s water tower, forcing local farmers to adapt and presaging larger troubles downstream.
-* Hélène Darras, a French actress, had accused Gérard Depardieu of groping her in 2007 on a movie set. A separate investigation of the actor is proceeding, Paris prosecutors said.
-* An intensification of nuclear threats from North Korea while the world is preoccupied with other wars has ignited an urgent debate over Mr. Kim’s motives.
+* The soldiers had been planting explosives as part of a plan to demolish Palestinian neighborhoods close to the border when Gazan militants fired on them, according to Israeli officials.
+* A U.N. office said Israel’s detention and treatment of detainees might amount to torture. It estimated thousands had been detained and held in “horrific” conditions. Some were freed wearing only diapers.
+* The vote in the Turkish Parliament puts the Nordic nation closer to joining the military alliance, easing months of friction that have impeded efforts by the West to isolate Russia over its war in Ukraine.
+* Agadez, a desert outpost in the West African country of Niger, was officially closed to migration for years in a deal with the European Union. Now, the gate has reopened.
+* Powerful sedatives are behind a spate of violent crimes, U.S. officials say. Many victims are Americans in Medellín who use dating apps.
+* This Western mutual-defense alliance is central to the pushback against Russia, even though Ukraine is not a member.
+* The assault killed at least five people and wounded scores in Kyiv and Kharkiv. Ukraine is pushing for further American military aid, which has been stalled in Congress.
+* The far right is intent on exploiting the spread of anger across Europe in an agricultural sector that feels alienated.
+* San Giovanni Lipioni, a tiny town in central Italy, has one of the oldest average populations in the country but hopes a marketing push will attract younger people.
+* The ruling also denies the tax advantages that are normally granted to political organizations, a decision that could offer a path for government efforts to head off a resurgence of the far right.
 
 ![Global](./global.png)
 ## New York Times United States News
-* A judge in Georgia also delayed a deposition of Fani T. Willis, the district attorney accused of having a romantic relationship with a prosecutor she hired.
-* An intense downpour brought more rain to the city on Monday than Tropical Storm Hilary did last year.
-* Faculty members and other academic workers in the nation’s largest public university system walked out on Monday just as classes were scheduled to begin at many campuses.
-* Weeks before the March 5 primary, the four leading candidates for the open Senate seat sparred over Donald Trump, the Middle East and homelessness.
-* The mother of Ethan Crumbley, who killed four students in 2021, is set to go on trial on Tuesday. In a rare move, prosecutors have charged both of his parents with involuntary manslaughter.
-* The state plans to carry out the first U.S. execution via nitrogen hypoxia with Kenneth Smith, who survived an earlier attempt to execute him by lethal injection.
-* Nikki Haley took all six votes in Dixville Notch, but it could be a different story in the rest of the state, as Donald J. Trump has a comfortable lead in the polls.
-* A Texas lab helped Washington State officials identify the bones more than 40 years after the teen went missing.
-* A crowded G.O.P. field is down to only two: former President Donald J. Trump, and former Gov. Nikki Haley of South Carolina. Democrats have mounted a write-in campaign for President Biden.
-* Romeo Nance, 23, is believed to have fatally shot himself on Monday night in Texas following the spate of shootings on Sunday and Monday in Joliet, Ill., the authorities said.
+* Five universities have agreed to pay $104.5 million to settle a lawsuit accusing them of violating an agreement to be “need-blind” when awarding financial aid.
+* The San Diego region was overwhelmed by a surprisingly intense storm that flooded homes and turned roadways into rivers. Some residents wondered why they did not receive more warning.
+* Seven states tried but failed in 2023 to add new taxes on assets and income. Attempts are underway in at least 10 states this year, and proponents are optimistic about their chances.
+* Supporters can’t wait for Gov. Ron DeSantis to renew his focus on the state, while critics are dreading what his final three years on the job might bring.
+* Stake it all on South Carolina? Hang in for the long haul? Reassess and drop out? Trump’s lone remaining challenger has some big decisions ahead. We look at her options.
+* With Donald Trump on the ballot, the voting surge underscored his ability to drive loyal supporters and determined opposition to the polls.
+* The Iran-backed Houthis perfected the tactics of irregular warfare during years of conflict against a Saudi-led coalition, military officials say.
+* Donald Trump made history with a second straight victory, as Nikki Haley and her supporters look increasingly adrift in his Republican Party.
+* The former president’s victories in Iowa last week and in New Hampshire on Tuesday leave his main Republican rival, Nikki Haley, with an uphill battle.
+* Defying calls from Donald Trump and his allies for her to drop out, Ms. Haley said in a fiery speech that she would forge ahead to South Carolina.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* But the legal troubles for Pita Limjaroenrat, who was blocked by the military junta from becoming prime minister, are far from over.
+* Plus the Oscar nominations.
+* The recovery of Cydney Mizell, an aid worker abducted in 2008, demonstrates the intricacies of tracking down hostages, particularly in a country where the United States no longer has a presence.
 * A proposal to tighten restrictions on online video games disappeared from a regulator’s website, weeks after the plan prompted a sell-off in tech stocks.
+* The hiring and forced departure of a Lebanese Australian journalist has exposed long-simmering issues at one of the country’s most trusted institutions.
 * He spent 25 years in prison for campaigning for Taiwan’s independence and democratization. After his release, he led protests to oust one its presidents.
 * Over a year after China opened its borders following the pandemic, international trips are still lagging, although domestic travel is more popular.
 * The two prisoners have admitted to conspiring with an affiliate of Al Qaeda that carried out a deadly bombing in Indonesia two decades ago.
 * Plus, a “revolutionary” way to feed the world.
 * As the war approaches its second anniversary, the Russians are beginning to deploy North Korean arms, worsening Ukraine’s troubles while it still awaits new air defenses from the United States.
-* A look at the academic roots of the idea, which has stirred fierce debate when applied to Israel.
-* At least 11 people died, and several dozen were under the rubble, the state media reported.
-* Its site is sacred to Hindus, and it also represents the much more recent victory of Hinduism as a political identity.
-* The temple inaugurated by the prime minister is on the disputed site of a centuries-old mosque destroyed in a Hindu mob attack that set a precedent of impunity in cases of violence against Muslims.
 
 ![Asian](./asian.png)
