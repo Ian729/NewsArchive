@@ -2,32 +2,35 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* 
-* The violent abduction of volunteer searcher Lorenza Cano is yet another fresh wound for the hundreds of mothers looking for Mexico’s missing.
-* Activists fear that one man’s sudden admission that he lit a crowded building ablaze to cover up a murder will let officials off the hook for failing to correct unsafe conditions there.
-* The country’s political crisis grew more volatile this week after an armed environmental brigade allied with a former coup leader began demanding the prime minister’s ouster.
-* Families of hostages have taken more aggressive steps, trying to increase pressure on the Israeli government to give priority to the captives’ return.
-* Norway’s higher education minister, Sandra Borch, resigned after admitting she “took text from other assignments without stating the sources,” in her master’s thesis.
-* The Hungarian leader, Viktor Orban, invited his Swedish counterpart to Budapest for talks. Hungary is the last country to vote to accept Sweden’s bid to join NATO after Turkey’s Parliament did so this week.
-* The very idea that there will be a clear line between war and peace is misleading, given the politics, security needs and anxieties of all sides.
-* The Constitutional Council, which reviews laws to ensure that they conform to the Constitution, struck down many measures that President Emmanuel Macron’s government had added under right-wing pressure.
-* Daria Trepova gave Maksim Fomin, who was known more popularly as Vladlen Tatarsky, a statuette that contained a bomb.
+* Hoping to repeat the success of Manhattan’s park, London is transforming a disused rail line, elevated 25 feet above the city’s streets, into its own floating green space.
+* Two Supreme Court decisions and a lower court’s ruling have cast doubt on the legal basis for a host of prosecutions. Several defendants want their records cleared and their money back.
+* Top American, Israeli and Arab officials are seeking to forge three parallel but related deals that could end the war in Gaza, finalize its postwar status, and, most ambitiously, set commitments for the creation of a Palestinian state.
+* Long lines have popped up in Russia and beyond to get Boris B. Nadezhdin, an antiwar candidate, onto the ballot for Russia’s presidential election in March.
+* Canada and Australia said they would temporarily stop sending money to UNRWA after it fired employees accused by Israel of participating in the Oct. 7 attacks.
+* The top United Nations court in The Hague did not rule on whether Israel was committing genocide in Gaza, the accusation that South Africa brought before the court.
+* The decision by the World Court did not order Israel to cease its war against Hamas in Gaza. But the court made a move imbued with historical meaning.
+* A businessman who had worked in China for decades vanished from view in 2018, but his fate had been unknown, and publicly unremarked upon, until now.
+* The move is a crippling blow to a deal in which President Nicolás Maduro’s administration promised a free and fair election in exchange for relief from U.S. sanctions.
+* A contingent of 1,000 Kenyan officers was intended to lead a multinational force financed by the United States to restore security in a Caribbean country terrorized by armed gangs.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Kenneth Eugene Smith was put to death by nitrogen gas on Thursday night, the first time the method was used in capital punishment in the U.S.
-* The state executed Kenneth Smith on Thursday using the untested method of nitrogen hypoxia after the Supreme Court declined to intervene.
-* Donald J. Trump’s lawyers argued that Fani T. Willis violated state bar rules when she claimed in a recent speech that racism was behind the effort to remove her.
-* A teenager killed four students at his high school in Oxford, Mich., in 2021. At his mother’s trial, prosecutors said his parents could have stopped him.
-* Gov. Josh Shapiro, declaring that the system is broken, plans to place most schools under the same system and lower tuition for low- and middle-income students.
-* The liberal group plans to pour cash into an effort to generate enthusiasm for the president and support Democratic Senate and House candidates.
+* Alabama officials said the nation’s first nitrogen gas execution was a model for other states. Critics called it appalling and far from what the state promised.
 * Fending off doubts and criticisms, Alabama’s attorney general hailed a new execution method as “humane and effective.”
-* Seeking a better shot at victory, and after the “Beetlejuice” incident, Lauren Boebert is shifting districts for her 2024 run. Her fellow Republicans onstage reminded her of it repeatedly.
-* In a scathing statement, a Reagan appointee quoted statements about the riot that appeared to be from several Republican politicians and called them “preposterous.”
-* Noah Roush, 22, was captured Thursday after he and another detainee escaped from a jail in Pine Bluff this week. The other escapee, a murder suspect, remains at large.
+* The state executed Kenneth Smith on Thursday using the untested method of nitrogen hypoxia after the Supreme Court declined to intervene.
+* Kenneth Eugene Smith was put to death by nitrogen gas on Thursday night, the first time the method was used in capital punishment in the U.S.
+* A longtime counternarcotics agent said he used CBD for chronic pain, considering it safer than opioids. The choice set off a legal fight.
+* As Trump campaign surrogates defended the former president in light of an $83.3 million defamation verdict, Nikki Haley said his legal troubles continued to be a distraction.
+* The department received documents on Friday signed by Turkey’s leader approving Sweden’s long-delayed entry into NATO. The alliance now awaits word from the lone holdout, Hungary.
+* A military jury sentenced two Malaysian men to 23 years for helping perpetrators of the bombing that killed 202 people, but a side deal reduced the punishment.
+* The presidential candidates may have turned their attention to South Carolina, but the next contests on the calendar are in the Silver State. The process there is complex and confusing.
+* Keep an eye on Haley and DeSantis.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Hefei has led the country in making electric vehicles and other tech products, but it still has not escaped a nationwide housing crisis.
+* A businessman who had worked in China for decades vanished from view in 2018, but his fate had been unknown, and publicly unremarked upon, until now.
+* A military jury sentenced two Malaysian men to 23 years for helping perpetrators of the bombing that killed 202 people, but a side deal reduced the punishment.
 * A change in perception among investors about China and Japan is one of the biggest themes in the markets right now.
 * A Guantánamo military court heard anguishing testimony at the sentencing hearing for two Malaysian prisoners who pleaded guilty after 20 years of detention.
 * Plus, when A.I. generates copyrighted images.
@@ -35,8 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * A shift by Kim Jong-un, North Korea’s leader, toward open hostility against South Korea is alarming but does not indicate he is about to start a full-scale war, officials say.
 * Bae Hyunjin, of the country’s governing party, was assaulted in Seoul and taken to a hospital. The attack came three weeks after another politician was stabbed.
 * Plus, can the world’s biggest cruise ship be climate friendly?
-* A video circulating on social media showed water rushing into a room at U.S. Army Garrison Kwajalein Atoll as a series of unexpected waves surged across the low-lying island of Roi-Namur.
-* Nine people were also injured in the blaze, which officials said was a result of workers renovating a cold storage unit in violation of regulations.
-* But the legal troubles for Pita Limjaroenrat, who was blocked by the military junta from becoming prime minister, are far from over.
 
 ![Asian](./asian.png)
