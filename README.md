@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The United States, Israel, Egypt and Qatar sketched out a bare-bones framework for the proposed arrangement during weekend talks in Paris, the officials said.
-* After defending the former South African president and party leader during a slew of corruption scandals, the country’s powerful governing party punished him for endorsing the opposition.
-* Liliana Segre, who has become Italy’s conscience on the Holocaust, says she is pessimistic in the face of rising anti-Semitism.
-* A team from the United Nations has arrived in Israel to examine multiple reports of sexual violence during the Hamas-led attack.
-* Amid crumbling U.S. support for Ukraine and Donald Trump’s rising candidacy, European nations and NATO are making plans to take on Russia by themselves.
-* The authorities warned residents to brace for disruptions as farmers converged on the capital to press a wide range of grievances.
-* The British government said it would act after surveys showed that the number of young people trying vapes had risen sharply.
-* Kamila Valieva, once a 15-year-old gold medal favorite, was punished in a case that upended the Beijing Games, and kept other athletes from receiving medals.
-* The accusation, made in London, Ontario, in 2018, has put the country’s hockey organization into turmoil and outraged the public.
-* The very weapons that Israeli forces have used to enforce a blockade of Gaza are now being used against them.
+* The announcement, from a militia allied with Iran, came as President Biden said his decision had been made on how to respond to a drone attack in Jordan that killed three U.S. service members.
+* Rampant speculation that President Volodymyr Zelensky will fire his top military commander has consumed Ukraine’s capital at a precarious moment in the war.
+* From outside Gaza, the scale of death and destruction is impossible to grasp, shrouded by communications blackouts, restrictions barring international reporters and extreme challenges facing local journalists.
+* Six years after he was forced from office, former President Jacob Zuma, who still has a loyal following, is campaigning for opponents of the party he once led, the African National Congress.
+* A hard-line Catalan separatist party argued that the legislative shield against prosecution for alleged crimes linked to a failed bid for independence is weak and has to be broader.
+* Protesters blocking roads in and out of Paris, who say farms are squeezed by low prices and excessive regulation, seemed unmoved by promises from Prime Minister Gabriel Attal.
+* The verdict is widely seen as part of a military-led campaign to sideline Mr. Khan’s political party.
+* An agreement by the Democratic Unionist Party to return to power-sharing with Sinn Fein after a two year boycott was greeted by widespread relief.
+* The police described the transfer of funds as the “most extensive seizure of Bitcoins by law enforcement in the Federal Republic of Germany.”
+* Musical acts like Balming Tiger are challenging the idea that K-pop is nothing but polished, perfectly synchronized boy bands and girl groups.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Six victims were found in a remote area of San Bernardino County about 90 miles northeast of Los Angeles. The authorities believe the shooting deaths stemmed from a dispute over illegal marijuana.
-* Professors at the University of Pennsylvania have begun to organize, fearing what they view as a plan by the billionaire Marc Rowan to upend academic freedom.
-* The judge said that a court clerk had made “foolish and fleeting” comments during Mr. Murdaugh’s trial, but that they did not affect the jury’s verdict that he murdered his wife and son.
+* The prosecutor, Nathan Wade, might have been forced to address allegations of a romantic relationship with his boss, Fani T. Willis, at a divorce hearing this week.
 * Donald Trump’s lawyers want Ms. Willis disqualified from the Georgia election case over accusations that she had a romantic relationship with a subordinate. A judge will decide what happens next.
-* Republicans are expected to push through articles of impeachment charging the homeland security secretary with refusing to uphold the law and breaching the public’s trust.
-* The flood of TV and digital spots in battleground states is set to be the largest single purchase of political advertising by a super PAC in U.S. history, according to the group, Future Forward.
-* Dale Holloway, 41, was sentenced Monday on several charges, including attempted murder, for opening fire at a New Hampshire church in 2019 in what the authorities called a revenge shooting.
-* Jatonia Bryant, 23, had been held at a jail in Pine Bluff, Ark., on a capital murder charge before he and another inmate fled last week, the authorities said. The other escapee was caught Thursday.
-* The company, which operated the train that derailed in East Palestine, Ohio, is the first major freight railroad to join a federal program that allows workers to report safety issues.
-* Plus: A Taylor Swift endorsement is Biden’s wildest dream.
+* A steady erosion of history has been underway on the island for years, with ultrawealthy newcomers remaking the interiors of antique structures.
+* Oregon’s governor, Tina Kotek, hopes to counter homelessness, crime and widespread public use of fentanyl that she says threatens the state’s largest city.
+* Ms. Haley has recently shifted her strategy, casting Donald Trump, 77, and President Biden, 81, as part of the same bygone era of politician.
+* Ms. Carnahan was appointed to the seat after her husband was posthumously elected to it just weeks after he was killed in a plane crash in 2000.
+* Just $300,000 is on hold after Israeli claims that UNRWA employees joined the Oct. 7 Hamas attacks, U.S. officials say.
+* The cuts would decimate a high-profile liberal group that was once a fund-raising powerhouse for Democrats.
+* Aimenn D. Penny, 20, was angry because the Community Church of Chesterland had planned to host two drag shows, federal prosecutors said.
+* The life-size bronze tribute to the legendary baseball player who broke the color barrier was stolen from a different park last week. What was left of it “is beyond repair,” officials said.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Critics call the verdict against the popular Move Forward Party, which hoped to scale back a royal defamation law, another blatant attempt to block the people’s will.
+* The sentences, just over a week before Pakistan’s national election, come as the former prime minister’s party has been battered by a crackdown.
+* As Beijing struggles with a slumping stock market and a collapsing real estate sector, commentary and even financial analysis it deems negative are blocked.
+* Also, a possible Israel-Hamas deal and a security proposal in Hong Kong.
+* A robotics company captured a sonar image that its chief executive believes shows Earhart’s long-lost plane at the bottom of the Pacific Ocean. Archaeologists say it’s too early to know.
+* U Tun Min Latt was placed under sanctions last year by the United States for supplying drones and aircraft parts to the military regime in Myanmar.
+* Warning of threats posed by spies, the city’s leader expressed confidence that the new law would enjoy public support. “They will love it,” he said.
+* The first two episodes of the show, which was filmed during the city’s pandemic restrictions, were released last week but were not available there.
 * The verdict is widely seen as part of a military-led campaign to sideline Mr. Khan’s political party.
 * Musical acts like Balming Tiger are challenging the idea that K-pop is nothing but polished, perfectly synchronized boy bands and girl groups.
-* The forced liquidation of China Evergrande epitomizes the sector’s struggles: Nationwide, sales are down and millions of homes have been paid for but not delivered.
-* Plus, Evergrande’s liquidation and Biden’s election strategy.
-* A team from the United Nations has arrived in Israel to examine multiple reports of sexual violence during the Hamas-led attack.
-* Kamila Valieva, once a 15-year-old gold medal favorite, was punished in a case that upended the Beijing Games, and kept other athletes from receiving medals.
-* The giant real estate developer epitomized China’s real estate frenzy, and its downfall fueled the market’s downturn.
-* Bartenders around the city are mixing up creative cocktails with unexpected, and often ecologically conscious, ingredients. Here are six spots to visit.
-* After multiple delays and even a few faint glimmers of hope, a Hong Kong court has sounded the death knell for what was once China’s biggest real estate firm.
-* Also, the UNRWA is in trouble and an antiwar candidate rises in Russia.
 
 ![Asian](./asian.png)
