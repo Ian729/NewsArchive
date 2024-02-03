@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* President Biden’s executive order appeared to be aimed in part at Arab American voters who are furious with his administration’s backing of Israel in the war in Gaza.
-* Top European leaders coordinated to get the Hungarian prime minister, Viktor Orban, to agree to the 50-billion-euro plan aimed at keeping Ukraine’s economy afloat during the war with Russia.
-* After Iran-aligned militants killed three American soldiers, Iran’s leaders sensed a line was crossed, and are sending more conciliatory signals while awaiting President Biden’s promised response.
-* The call from two main farmers’ unions came after President Emmanuel Macron’s government announced new financial aid and plans to loosen regulations to end the nationwide protests.
-* After a nearly two-year ban, a legal ruling brought bullfights back to La Plaza México in Mexico City. But the fight continues after a federal judge again stopped the events.
-* The Kremlin is sending a chilly message to antiwar Russians abroad: A new law will allow their property back home to be seized, and other countries are being pressured to crack down on them.
-* His real aim is to lead a populist and nativist rebellion against Europe’s liberal elite, though that campaign is showing signs of faltering.
-* To end the war in Gaza and free the remaining Israeli hostages, Prime Minister Benjamin Netanyahu may have to cut deals that analysts say could end his government — and potentially his career.
-* A judge ruled that Donald J. Trump had no grounds for claiming compensation over the dossier from Christopher Steele, a former British spy.
-* The E.U. package of about $54 billion will be spent on nonmilitary expenses, like pensions, payments to displaced people and paying teachers and doctors.
+* A proposal that would weaken term limits at European soccer’s governing body has insiders and governance officials worried that sports’ power brokers are forgetting why the rules exist.
+* President Biden had promised to respond to the drone attack that killed three American soldiers this week. “Our response began today,” he said, in an escalation of hostilities in the Middle East.
+* The grand opening of a temple in Ayodhya was both a religious ritual and a made-for-TV spectacle for a broadcast media co-opted by Prime Minister Narendra Modi.
+* The volatile mix of violence, tensions and Israeli restrictions has had a stultifying effect on the West Bank.
+* Bezwada Wilson, born into a caste tasked with manually removing dried human waste, has spent 40 years trying to eradicate the practice and retrain workers.
+* The millennial president, Nayib Bukele, and his party are likely to win resoundingly in elections Sunday. His running mate says they are “replacing” democracy.
+* A U.N. official described Rafah, a refuge for hundreds of thousands of displaced people, as a “pressure cooker of despair.” It is one of the last cities in southern Gaza that Israeli ground forces have not reached.
+* After 12 employees of the U.N. agency were accused of participating in the Oct. 7 attack against Israel, some donor countries have suspended funding. But more than a million people in Gaza depend on the agency for aid.
+* For the first time, a Sinn Fein politician will serve as first minister.
+* The death of a pet during a train journey has given Russians a safe space to speak out and connect, and allowed the Kremlin to shift attention from wartime gloom.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The state’s latest powerful storm has downed trees and flooded some roads, but has not yet caused the scale of disruption seen last winter.
-* Conservatives say diversity and equity programs are more divisive than unifying.
+* The candidates had promised to challenge the university’s leadership, but failed to collect enough signatures to get on the ballot for the board.
+* But the prosecutor, Fani T. Willis, said her relationship with Nathan Wade did not begin until after she hired him and argued that it should not disqualify her.
+* Closing arguments concluded on Friday in the trial against Jennifer Crumbley, whose son, Ethan, killed four people at his high school in 2021.
 * A lawsuit accused the state of failing to provide an equal education to lower-income, Black and Hispanic students during the pandemic.
-* The Oregon Supreme Court ruled they could not seek re-election after they repeatedly boycotted legislative sessions.
-* The document was signed by government employees in 12 nations and E.U. institutions. Signers say their leaders’ policies could be contributing to war crimes in Gaza.
-* New research finds that former President Donald J. Trump’s tariffs did not bring back U.S. jobs, but voters appeared to reward him for the levies anyway.
-* Speaker Mike Johnson, who once routinely stopped for hallway interviews, has taken to pressing his iPhone to his ear as he walks through the Capitol, avoiding questions as he navigates a tough new job.
-* An extreme shortage of guards at Wisconsin’s prisons has slowed basic operations to a crawl. Inmates escaped, prisons locked down and conditions deteriorated.
-* The pilot reported an engine failure before the single-engine plane crashed into a home, setting the area on fire.
-* The police declined to say what the connection was between the child whose remains were found in a storage unit in Pueblo, Colo., and two children last seen in 2018.
+* Stumping for the president ahead of South Carolina’s Democratic primary, Ms. Harris has been working to shore up his vulnerabilities with Black voters and younger voters.
+* The implications have started coming into focus with the scrapping of March 4 as the start date for the former president’s federal trial on charges of trying to overturn the 2020 election.
+* Demonstrators have turned up at the secretary of state’s home and even splashed fake blood on his motorcade.
+* Donald Trump has long worked closely with Ronna McDaniel, the head of the Republican National Committee. In private, he has begun to question its direction under her leadership.
+* Wealthy, liberal-leaning Blue Hill prided itself on staying above the fray — until the library stocked a book that drew anger from the left.
+* As libraries become battlegrounds in the nation’s culture wars, their allies are fighting to preserve access to their collections and keep themselves out of jail, or worse.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The grand opening of a temple in Ayodhya was both a religious ritual and a made-for-TV spectacle for a broadcast media co-opted by Prime Minister Narendra Modi.
+* Despite being wounded multiple times, he led the defense of a jungle outpost against a Vietcong assault, inspiring his smaller force to “superhuman effort.”
+* Birds, be careful: Loitering at an Indian port with a microchip on your leg can make people nervous and get you locked up.
 * His release has been set for August 2028 and his fine reduced to a quarter of its original amount, a move that has drawn criticism from observers and citizens.
-* China Renaissance Holdings said that its chairman and chief executive, Bao Fan, has stepped down after disappearing nearly a year ago.
+* China Renaissance Holdings said its chairman and chief executive, Bao Fan, had stepped down after disappearing nearly a year ago.
 * The death of a pet during a train journey has given Russians a safe space to speak out and connect, and allowed the Kremlin to shift attention from wartime gloom.
 * Bezwada Wilson, born into a caste tasked with manually removing dried human waste, has spent 40 years trying to eradicate the practice and retrain workers.
 * The companies that make iPhones are bringing their factories to one corner of India, to graft them onto a network of manufacturers.
 * Negotiations have resumed on restricting the flow of fentanyl into the United States. But Beijing may prove less cooperative on Iran and North Korea.
 * Also, U.S. sanctions on Israeli settlers and battles over bullfighting.
-* He was captured by the Japanese in Singapore and was one of thousands of prisoners whose hardships were the basis for the film “The Bridge on the River Kwai.”
-* A scandal involving the president’s spouse has become a major issue for his party ahead of a crucial parliamentary election.
-* It is the first major art museum in New York to close within recent memory. It said it would now focus on traveling exhibitions and long-term loans.
 
 ![Asian](./asian.png)
