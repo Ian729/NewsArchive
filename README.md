@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Officials are warning of major destruction and loss of life after fast-moving fires swept through central Chile’s coastal hills.
-* A photojournalist followed some Palestinians whose lives were ripped apart in one of the deadliest wars of the 21st century.
-* In the year since earthquakes devastated southern Turkey, the Karapirli family has struggled to heal, find a home and cope with a bottomless sense of loss.
-* Nayib Bukele looked poised to win a second term on Sunday, riding huge support for his crackdown on gangs, even if the price has been restricting civil liberties.
-* At the hot spots of the eastern front line, Ukrainian troops are outmanned, outgunned and digging in.
-* National security officials said an additional response was coming to a drone attack that killed three American soldiers. The timing was uncertain.
-* A political crackdown has been more visible than those in previous years, analysts say, making this week’s vote among the least credible in the country’s history.
-* The airstrikes, meant to deter attacks on ships in the Red Sea, came one day after the United States struck at other Iran-backed militias in Iraq and Syria.
-* Mr. Geingob had also been Namibia’s first prime minister after the country gained independence from South Africa in 1990.
-* The West African country had planned to hold an election in three weeks. But President Macky Sall canceled it indefinitely pending an inquiry into corruption allegations at the constitutional court.
+* The U.S. secretary of state aims to prevent the Israel-Hamas conflict from widening further. Hamas is still discussing a proposal to pause fighting and release hostages, an affiliated broadcaster reported.
+* The president said a “reset” was needed to revive the struggling war effort, adding that his plans were “about the direction of the country’s leadership” and not just about replacing his top general.
+* Buckingham Palace did not specify the type of cancer but said Britain’s monarch would postpone his public engagements during his treatment.
+* Wildfires destroyed 98 percent of Chile’s national botanical garden and killed a worker and her family. But there were signs of hope in the ashes.
+* Yandex, often called “Russia’s Google,” said it reached a deal to sell off its assets in the market where it made its fortune, after the war in Ukraine upended its operations.
+* A deal bringing disaffected unionists back into the government in Belfast has left Prime Minister Rishi Sunak with one less thing to worry about.
+* There is no clear mechanism to force early elections in Israel. But there are other ways to oust the Israeli prime minister.
+* The city authorities say that large cars pollute more and are dangerous for pedestrians. Opponents say the mayor is on a crusade against motorists.
+* Hockey fans in Canada are struggling to make sense of a scandal that has led to sexual-assault charges against five former junior hockey players.
+* The verdict in the case of Yang Hengjun, who was detained on national security charges, may weigh on the warming relations between China and Australia.
 
 ![Global](./global.png)
 ## New York Times United States News
 * Flanked by Republican governors, Gov. Greg Abbott said that Texas would expand the immigration enforcement efforts at the center of a legal confrontation with the federal government.
-* The facility, also known as a safe injection center, will be the first in Rhode Island and the only one in the U.S. outside New York City to operate openly.
-* A conservative convoy gathered on the Texas border to support the state’s defiant stance on immigration. Despite worries over potential violence, the event was peaceful.
-* Skulls from a collection used to further racist science have been laid to rest. Questions surrounding the interment have not.
-* Tens of billions of dollars in aid to Ukraine would be tied to an immigration crackdown under legislation that faces a test vote in the Senate this week.
 * A​ new law​ lets developers bypass local zoning rules if they promise “work force housing.”​ ​I​t has stirred an uproar around the state, most recently in affluent Bal Harbour​.
-* They vowed to fix water woes and save cities millions. But a Times investigation found the deals racked up debt and left many worse off than before.
-* The rainfall was expected to last into Monday, with the total in some parts of Los Angeles meeting or exceeding the average rainfall for February.
-* Officials said that the storm would linger over Los Angeles for another day, pummeling the region with rain and causing severe flooding.
-* While Nevada has a primary this week, the president is looking ahead to the general election and trying to energize supporters in a key swing state.
+* The facility, also known as a safe injection center, will be the first in Rhode Island and the only one in the U.S. outside New York City to operate openly.
+* More younger Americans are shunning alcohol while embracing cannabis, ketamine and psychedelics, shaking up the field of addiction medicine.
+* Mike Whitaker, who leads the Federal Aviation Administration, is set to testify before House lawmakers as Boeing faces another crisis involving a 737 Max jet.
+* Weather experts warned that additional rain on top of saturated soil in the Los Angeles region could still cause hillsides to collapse.
+* Tuesday’s primaries feature President Biden with token opposition, while Nikki Haley is aiming not to lose to “none of these candidates.” G.O.P. caucuses, engineered for Donald Trump, are on Thursday.
+* The Democratic group is telling voters to mark “Uncommitted” on their primary ballots.
+* Republican leaders expect to push through the charges against the homeland security secretary on the barest of margins. There is virtually no chance of a conviction in the Democratic-led Senate.
+* Her fiery competitiveness, no-look passes and 3-point bombs have made for must-see basketball in Iowa. What happens when she leaves?
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Moscow may be trying to help Pyongyang with access to the international financial system in exchange for missiles and ammunition, U.S.-allied intelligence officials suggest.
+* The Grand Trunk Road is buzzing with talk of the coming vote, and of the country’s future.
+* Also, King Charles’s cancer diagnosis and the women who ruled the Grammys.
+* Hand Hospitality has become a major player by channeling the creative energy of Seoul. But don’t expect its soft-spoken owners to crow about that.
 * A meeting of the new economic working group comes as the U.S. and China are trying to prevent any escalation of hostilities.
 * Hundreds of flights and trains have been canceled as China’s most important holiday approaches, and more bad weather is in the forecast.
 * The verdict in the case of Yang Hengjun, who was detained on national security charges, may weigh on the warming relations between China and Australia.
 * Lee Jae-yong’s case had raised questions about the immense power that chaebol leaders wield and the legal system holding them to account in South Korea.
 * Also, Ukraine’s grinding fight and China’s expanding nuclear arsenal.
 * A behind-the-scenes look at “Perfect Days,” which features Koji Yakusho as a cleaner of public bathrooms in Tokyo.
-* A political crackdown has been more visible than those in previous years, analysts say, making this week’s vote among the least credible in the country’s history.
-* Young Chinese are flocking to the picturesque mountain town of Dali to escape the cutthroat competition and suffocating political environment of the country’s megacities.
-* China’s leader built up a nuclear arsenal, steeling for a growing rivalry with the United States. Now China is exploring how to wield its newfound strength.
-* A celebration of (at least occasional) shoelessness.
 
 ![Asian](./asian.png)
