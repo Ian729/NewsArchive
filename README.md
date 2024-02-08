@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The Qatari prime minister, speaking at a news conference in Doha with the U.S. secretary of state, Antony J. Blinken, said Hamas’s response was “positive” but gave few details.
-* An analysis of social media videos found Israeli soldiers filming themselves in Gaza and destroying what appears to be civilian property. The footage provides a rare and unsanctioned window into the war.
-* On the anniversary of a catastrophic earthquake, Turkey is still struggling to rebuild, help survivors and hold people responsible for shoddy construction.
-* The Kremlin did not immediately confirm an interview with Mr. Carlson. It would be Mr. Putin’s first formal interview with Western media since the start of his full-scale invasion of Ukraine.
-* Britain’s king has been a highly visible royal, making hundreds of public appearances. As he steps back from view, who will fill the gap?
-* When Paul Nthenge Mackenzie preached that the world was about to end, many of his believers starved themselves to death. He has now been charged along with 29 others.
-* Moscow may be trying to help Pyongyang with access to the international financial system in exchange for missiles and ammunition, U.S.-allied intelligence officials suggest.
-* The king has let people know more about his health than other monarchs, but a decision to keep private the form of cancer he has is leading to speculation in lieu of facts.
-* The Grand Trunk Road is buzzing with talk of the coming vote, and of the country’s future.
-* The British monarch’s diagnosis was a surprise announcement. Here’s a guide to the news and its potential implications.
+* The Israeli leader asserted that victory was “in sight” and insisted that Israeli forces would press into an area crammed with displaced Palestinians in southern Gaza.
+* The attacks killed at least five people, officials said, as Ukraine raises pleas for more American aid and President Volodymyr Zelensky considers changes in his administration.
+* President Daniel Noboa’s new war on gangs has widespread support in a nation overwhelmed by violence. But experts warn it could endanger civil liberties.
+* A court has been asked to solve a bitter dispute between two families who have very different accounts of the origins of a dish beloved around the world.
+* In Ivory Coast, lêkê are the preferred footwear for amateur games and almost everything else.
+* Returning to royal duties after his wife’s surgery and the news of King Charles’s cancer, the heir to the throne will confront new demands on his time.
+* As Iranian-backed groups and American forces, both of which have bases in Iraq, lock horns around the Mideast, things are becoming uncomfortable for the Iraqi government.
+* The Italian prime minister helped persuade the Hungarian leader, Viktor Orban, to go along with a landmark fund for Ukraine. It was a big moment for Europe. And for her.
+* Attacks against activities linked to the national elections, including the targeting of candidates, have surged during campaign season.
+* The European Commission began a disciplinary procedure over recent legislation that focuses on contacts between foreigners and Hungarians.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Jennifer Crumbley was convicted on four counts of involuntary manslaughter, one for each student her son killed in Michigan’s deadliest school shooting.
-* The guilty verdict in Michigan against the mother of a school shooter will reverberate in prosecutors’ offices around the country. But don’t expect a flood of similar cases, experts say.
-* Officials provided the first comprehensive look at where the 100 victims of the Aug. 8 wildfire were found.
-* Her fiery competitiveness, no-look passes and 3-point bombs have made for must-see basketball in Iowa. What happens when she leaves?
-* Tyler Chase, 22, was living in transitional housing in Portland, Ore., when the authorities misidentified a body as his and cremated it.
+* Representative Virginia Foxx said Harvard had provided a “limited and dilatory” response to a House committee investigation. She threatened to file a subpoena to force Harvard to submit more documents.
 * The Office for Civil Rights of the U.S. Education Department is looking into the allegations after a complaint from a Muslim advocacy group.
-* Senator James Lankford, the Oklahoma Republican who brokered the doomed compromise, has fended off attacks from his own party while fighting to keep the bill alive.
-* McDonald’s, Costco and other major brands say they are stepping up efforts to keep minors from the grueling, often dangerous work that goes into their products.
 * When the nation’s oldest person has a birthday, a California community makes sure to celebrate.
-* Ms. Haley ran essentially unopposed in the primary, which awards no delegates. The former president will compete in Thursday’s caucuses.
+* Lina Hidalgo, who became Houston’s top executive at the age of 27, earned praise for openly discussing her struggles with depression. Is such honesty still a political risk?
+* Alejandro N. Mayorkas, the homeland security secretary, has learned to keep his head down through the drama, his confidants say
+* The top executives of three major companies are set to appear on Thursday before a Senate panel led by Mr. Sanders, who has made lowering drug costs a signature issue.
+* In a momentous argument, the justices will consider whether the former president’s attempts to subvert the 2020 election disqualify him from again holding office.
+* G.O.P. presidential candidates bypassed the state because of a complicated, noncompetitive primary process. It also may have deterred some Latino voters.
+* For some couples, figuring out how to talk about the war in Gaza is a hurdle in the relationship, but ultimately one that has brought them closer.
+* The self-help author, who also ran in the Democratic primary in 2020, finished far behind President Biden in this year’s first nominating contests.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Karolina Shiino, a naturalized Japanese citizen who was born in Ukraine, resigned two weeks after winning the Miss Japan crown.
+* In addition to consumer price declines in January, wholesale prices fell last month, and have been down in every month since October 2022.
+* A crackdown on a major political party is the latest dizzying swerve in the country’s roller-coaster politics.
+* Analysts say Pakistan’s powerful military has never intervened so openly on behalf of its preferred candidate.
+* Also, U.S. aid to Ukraine stalls and a fight over the origins of butter chicken.
+* A court has been asked to solve a bitter dispute between two families who have very different accounts of the origins of a dish beloved around the world.
+* The United States bought more goods from Mexico than China in 2023 for the first time in 20 years, evidence of how much global trade patterns have shifted.
+* Attacks against activities linked to the national elections, including the targeting of candidates, have surged during campaign season.
 * The mounting frustration with the military establishment is a stark shift in Punjab, the country’s most populous and politically important province.
 * Plus, a Korean food renaissance in New York.
-* With the package teetering on the brink of collapse, diplomats said the nation’s credibility was on the line.
-* Moscow may be trying to help Pyongyang with access to the international financial system in exchange for missiles and ammunition, U.S.-allied intelligence officials suggest.
-* The Grand Trunk Road is buzzing with talk of the coming vote, and of the country’s future.
-* Also, King Charles’s cancer diagnosis and the women who ruled the Grammys.
-* Hand Hospitality has become a major player by channeling the creative energy of Seoul. But don’t expect its soft-spoken owners to crow about that.
-* A meeting of the new economic working group comes as the U.S. and China are trying to prevent any escalation of hostilities.
-* Hundreds of flights and trains have been canceled as China’s most important holiday approaches, and more bad weather is in the forecast.
-* The verdict in the case of Yang Hengjun, who was detained on national security charges, may weigh on the warming relations between China and Australia.
 
 ![Asian](./asian.png)
