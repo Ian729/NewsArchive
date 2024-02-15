@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Two officials, one Egyptian and one American, said the negotiations would keep going for three more days.
-* The celebration of the act of casting a vote has particular resonance in Indonesia, which until a few decades ago was a brutal dictatorship.
-* President Volodymyr Zelensky is expected to seek more military assistance in Berlin, Paris and possibly London.
-* The Brazilian city of Olinda has become famous for its giant puppets during Carnival, including one made just after “Saturday Night Fever.”
-* The waterborne disease has killed more than 4,000 people in seven countries over the past two years. Experts blame severe storms, a lack of vaccines, and poor water and sewer systems.
-* Three years after it took power in a coup, the regime appears to be on the defensive. But it remains unclear if the rebels can overthrow the military.
-* Alexander Stubb was elected vowing to bolster Finland’s new role in NATO, just as Trump’s threats have thrown the future of the alliance into doubt.
-* Eleven-year-old Dareen al-Bayaa lost dozens of her family members in a single airstrike in Gaza. She is one of at least 17,000 children across the territory who have been orphaned or separated from their parents.
-* Politicians and the military are jockeying to lead the country after the success of the party of Imran Khan, a jailed former prime minister.
-* The two men hold radically different world views and the president, Javier Milei, has spoken about Francis in harsh terms, but the Vatican said their meeting was “cordial.”
+* The Israeli military said it had launched extensive airstrikes in response to rocket fire that killed a soldier, a significant escalation in cross-border tensions. Four were killed in Lebanon.
+* Outraged by Donald J. Trump’s remarks about encouraging Russia to punish some NATO members, and downbeat about Ukraine’s military prospects, Europe faces growing anxiety over its own security.
+* The party has a large lead in the polls but recent missteps have led to questions about the management skills of its leader, Keir Starmer.
+* The detention of Rocío San Miguel, and her disappearance for many days, has Venezuelan human right activists concerned that they have entered a new era of repression.
+* Prabowo Subianto was ejected from the military on accusations of rights abuses. Now, he is projected to win the country’s presidency outright in the first round.
+* The French president’s decision avoided a standoff and brought relief to the sellers who have long operated in the heart of the capital.
+* Mohammed Dahlan, who advises the United Arab Emirates, provided public insights into what Arab governments are privately planning for the battered enclave after the war ends.
+* The Ukrainian military says it has sunk a large Russian landing ship off the coast of Crimea, although Ukrainian troops inland find themselves in a precarious position.
+* Sheffield says it was home to the planet’s first real soccer culture. Staking a claim to that honor may hold the key to its future.
+* Robert Badinter, the former minister who abolished the death penalty, was honored in Paris after his death on Friday, but members of the far left and right were told they were unwelcome.
 
 ![Global](./global.png)
 ## New York Times United States News
-* At the University of Michigan, a Palestinian activist and a self-described Zionist counterprotester have little in common, except the way they were shaped by life on campus.
-* A woman who opened fire at Lakewood Church engaged in “antisemitic rants” and kept guns in the house even after being involuntarily hospitalized for mental illness, her mother-in-law said.
-* The city has marshaled resources for the new arrivals, but after Congress rejected a deal aimed at slowing the flow of migrants, its support system is starting to buckle.
-* About 90 percent of the cut flowers imported to the United States each year, including millions of Valentine’s Day roses, enter the country through Miami International Airport.
-* Our Revolution, begun by Senator Bernie Sanders in 2016, is aiming to shift the president’s stance on the war in Gaza.
-* A bus tour across South Carolina intended to evoke Nikki Haley’s political history in the state served up some reminders of how much it has changed.
+* The students were fired at from a vehicle and were taken to a hospital with non-life-threatening injuries.
+* What to do when Ash Wednesday, a solemn reminder of human mortality, falls on the same day we gorge on chocolate and romance? Pass out candy hearts that say “Dust 2 Dust.”
 * In interviews, professional women were dismayed by the personal attacks on the Georgia prosecutor, but not surprised.
-* Body camera footage released on Saturday showed the two Harris County deputies repeatedly firing through the apartment’s window after a report of a break-in.
-* Police were investigating what caused the crash at St. David’s North Austin Medical Center.
-* The report is good news for President Biden, but doesn’t change the fact that the number of people crossing into the U.S. has reached record levels during his term.
+* The authorities say the life-size bronze statue was stolen from a park in Wichita, Kan., probably to be sold as scrap metal. The statue cannot be repaired, officials say.
+* The shooting, which broke out as thousands gathered, killed one person and left at least 21 others with gunshot wounds, including children.
+* The eruption of violence in Kansas City, Mo., came as thousands of people had gathered for a public celebration.
+* A court in Austin is hearing oral arguments in the federal government’s bid to block Texas from imposing a wide-ranging new immigration law.
+* The state’s high school students will be required to take the subject, but some object to how the discipline addresses the Israeli-Palestinian conflict.
+* Alliances that were once seen as the bulwark of the Cold War are now viewed as an outdated albatross by a significant segment of the American public.
+* Troops with amputated limbs or serious injuries return home to find a patchwork system of treatment and, often, efforts to keep them out of the public eye.
 
 ![US](./usnews.png)
 ## New York Times Asia News
-* Some drivers are abandoning the vehicles, the country’s dominant mode of transportation, because the fines exceed their value.
+* More than a year after revelry turned to disaster, three people have been found guilty for actions connected to the case. The bereaved hope this is only the start.
+* A slowdown in consumer and business spending held Japan back at the end of last year, with the economy contracting for the second straight quarter.
+* As their losses pile up, Chinese investors are losing confidence not only in the stock market but in the government’s ability to turn the economy around.
+* Also, a coalition forms in Pakistan and motorbikes pile high in Vietnam.
+* Ms. Chao, whose sister Elaine Chao was President Trump’s secretary of transportation, led Foremost Group, operator of a global fleet of carrier ships. She died in a car crash.
+* This time they want a stronger guarantee that they can make money selling their wheat and rice crops.
+* For many drivers, it’s cheaper to abandon the bike than to pay the fine. Now the police are wondering what to do with them all.
 * A South Korean court found that the former officers had deleted an internal report that warned of safety risks ahead of Halloween celebrations.
 * Liu Jianchao is a Communist Party diplomat skilled at defending tough positions without being pugnacious. He also once hunted fugitive officials abroad.
 * After days of wrangling, two parties run by political dynasties joined forces and will nominate Shehbaz Sharif to be Pakistan’s prime minister.
-* Today’s vote is seen as a referendum on President Joko Widodo, who focused on economic growth but eventually curtailed liberties, critics say.
-* Also, the ancient art of smooching.
-* Three years after it took power in a coup, the regime appears to be on the defensive. But it remains unclear if the rebels can overthrow the military.
-* The celebration of the act of casting a vote has particular resonance in Indonesia, which until a few decades ago was a brutal dictatorship.
-* Also, Donald Trump’s high-stakes week and China’s stadium diplomacy.
-* Politicians and the military are jockeying to lead the country after the success of the party of Imran Khan, a jailed former prime minister.
 
 ![Asian](./asian.png)
