@@ -2,32 +2,33 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Top U.S., Israeli and Egyptian intelligence officials, as well as the prime minister of Qatar, are expected to attend the negotiations, which are aimed at securing a cease-fire and the release of hostages, according to an Israeli official.
-* The inquiry examined accusations of potential links between drug traffickers and close confidants of the president while he governed the country.
-* She said Russian authorities told her they would not release his remains unless she agreed to a “secret funeral.” Meanwhile, Aleksei Navalny’s widow met with President Biden.
-* A worsening humanitarian crisis has brought a wave of condemnation against Israel’s ongoing military operation, and is testing the support of even its staunchest ally, the United States.
-* China has increasingly turned to private companies in campaigns to hack foreign governments and control its domestic population.
-* The United States and Europe have championed a new pipeline to bring gas to Bosnia and cut supplies from Russia. But the project has been stalled by feuding among ethnic groups.
-* A bipartisan House delegation said the United States would stand by the island in the face of pressure from China, drawing connections between Taiwan’s cause and Ukraine’s.
-* The American assessments are divided, however, and President Vladimir Putin denied having such an intention, saying that Russia was “categorically against” it.
-* The ultranationalist blogger, Andrei Morozov, had described a campaign of intimidation against him and threatened to end his own life.
-* The assaults on the village of Robotyne, which come at the same time as successful attacks in the east, are designed to pressure Ukrainian troops across the front line, analysts say.
+* Western sanctions haven’t worked. Weapons from allies are running low. Pressure may build on Kyiv to seek a settlement, even from a weakened position.
+* After nearly two years and only scraps of information, a Ukrainian family still hopes their son, a marine captured by the Russians in Mariupol, will come home soon.
+* “It is a public health concern,” one U.N. official said of the lack of toilets for displaced people in the territory. “But the second thing is simply just dignity.”
+* The proposal, which calls for indefinite Israeli military control and buffer zones in the territory, rankled Arab nations and was rejected by Palestinians.
+* The country’s lower leagues offer a tempting entry to ownership. But the sport’s economics mean even multimillionaires can struggle to compete.
+* Viktor Orban, the Hungarian prime minister, said after a meeting with Sweden’s leader, and a deal for more fighter jets, that the two countries are “ready to fight for each other.”
+* Russia’s invasion came in two phases, many Ukrainians say: the first a decade ago, when it sent soldiers over the border in an unacknowledged military intervention, and the second when it began its full assault two years ago.
+* Vladimir Putin is drawing on history to position himself in the realm of Russian rulers of the past. Critics say his grip on power is not as strong as it seems.
+* Two years of war produced thousands of damaged brains. We followed surgeons and soldiers on the road to recovery.
+* While Israeli forces have delivered a major blow to Hamas in a fight that has taken a devastating toll on civilians, the group that led the Oct. 7 attack on Israel remains a threat, officials say.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Chief Justice Tom Parker has long been revered by conservative groups as an architect for the overturning of Roe v. Wade.
-* Some women wonder whether they will now have to pay to keep extra embryos stored permanently, or face criminal charges if they are disposed of.
-* Americans are deeply divided on whether schools should teach about gender identity, two polls found. But there was broader support for teaching about race.
-* Officials said test-optional policies might have harmed students from lower-income families.
+* The Oklahoma school superintendent, Ryan Walters, said “radical leftists” had created a narrative about the death of 16-year-old Nex Benedict that “hasn’t been true.”
+* A court ruling declaring frozen embryos to be legally considered children has set off a scramble among leaders in both parties to preserve access to a crucial reproductive treatment.
+* The lawyers presented an affidavit describing cellphone records they will likely use to try to prove the prosecutors lied about when they began a romantic relationship.
 * As housing costs soar, Washington State wants to limit annual rent increases to 7 percent. Oregon and California have passed similar measures.
-* Veterans of the conservative, grass-roots movement see the state’s presidential primary as a fight between a “crazy uncle” and a “snowflake niece.” They’ve made their choice.
-* Speaking at a Christian media convention in Nashville, former President Donald J. Trump claimed that a “radical left, corrupt political class” was persecuting Christians.
-* The top Senate Democrat is leading a delegation to show solidarity as Ukraine fights off a Russian assault and to push the G.O.P.-led House to drop its opposition to sending more U.S. aid to Kyiv.
-* The former president’s lawyers cited an array of arguments, some of which tested the bounds of credulity or clashed with prior court rulings.
-* As some Republicans rushed to distance themselves from a decision that upended popular fertility treatments, Democrats vowed to tie them to it.
+* If you voted in the Democratic primary this month, you can’t vote in the Republican one, too.
+* Her supporters tend to be moderate and college educated — precisely the type of voters who have helped decide recent presidential races. We spoke with nearly 40 to see where they’re leaning.
+* While Catholic teaching expressly forbids in vitro fertilization, Protestants tend to be more open.
+* Nikki Haley and her onetime boss, former President Donald J. Trump, have used false and misleading claims about polls and tax proposals while exchanging jabs on the campaign trail.
+* The Bodacious Belles, a women’s group in Beaufort, N.C., shows the difference a network of support can make in an aging America.
+* In a speech to the Black Conservative Federation, former President Donald J. Trump made express overtures to Black voters, whom he and his campaign are eager to win over.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The cost of business in Asia’s elite tournament keeps going up. The rewards do not.
 * A 1980 adaptation of the best-selling novel cast it as the tale of a white hero in an exotic Japan. A new version tells a more kaleidoscopic story.
 * In this hectic, bustling city, there’s a cafe for every coffee acolyte. Here are seven places where you can try egg coffee and other Vietnamese specialties.
 * From Thailand to America, Chinese denied a safe public space for discussion in their home country have found hope in diaspora communities.
@@ -37,6 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * Several vehicles plummeted from the crossing, part of which collapsed, in the southern city of Guangzhou, the authorities said.
 * A bipartisan House delegation said the United States would stand by the island in the face of pressure from China, drawing connections between Taiwan’s cause and Ukraine’s.
 * Also, a blow to Pakistan’s military and Niue’s fight for the .nu domain.
-* Under intensifying scrutiny from U.S. lawmakers, top firms have pulled back from investing in Chinese start-ups.
 
 ![Asian](./asian.png)
