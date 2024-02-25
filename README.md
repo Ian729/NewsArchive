@@ -2,29 +2,29 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
+* For more than a decade, the United States has nurtured a secret intelligence partnership with Ukraine that is now critical for both countries in countering Russia.
+* Homesh, one of the four West Bank settlements dismantled by Israel when it withdrew from Gaza in 2005, has taken on new importance since Oct. 7 and the war against Hamas.
+* Despite death, destruction and deprivation, nearly 90 percent still believe in Ukraine’s ultimate victory — as long as Western aid continues.
+* For the first time, women professional softball players in Latin America have a league of their own, another gain for women seeking more opportunities.
+* She watched, distressed, as Aleksei was sent off to war. Now, 14 months after he died in eastern Ukraine, Yulia Seleznyova holds a sliver of hope for a miracle.
+* The allies said their attacks, the largest in weeks against the Iran-backed militia, were meant to prevent further attacks on ships in the Red Sea.
+* Two years after Russia’s full-scale invasion, Ukrainian leaders are seeking a path forward in the face of ferocious assaults and daunting unknowns.
+* Rape, killing, torture: A stark report offers new evidence of horrific abuses carried out by Sudan’s military and its enemy, the paramilitary Rapid Support Forces.
+* A fire that killed at least 10 people left many refugees from Ukraine without a home and others scrambling to rebuild their lives.
 * Western sanctions haven’t worked. Weapons from allies are running low. Pressure may build on Kyiv to seek a settlement, even from a weakened position.
-* After nearly two years and only scraps of information, a Ukrainian family still hopes their son, a marine captured by the Russians in Mariupol, will come home soon.
-* “It is a public health concern,” one U.N. official said of the lack of toilets for displaced people in the territory. “But the second thing is simply just dignity.”
-* The proposal, which calls for indefinite Israeli military control and buffer zones in the territory, rankled Arab nations and was rejected by Palestinians.
-* The country’s lower leagues offer a tempting entry to ownership. But the sport’s economics mean even multimillionaires can struggle to compete.
-* Viktor Orban, the Hungarian prime minister, said after a meeting with Sweden’s leader, and a deal for more fighter jets, that the two countries are “ready to fight for each other.”
-* Russia’s invasion came in two phases, many Ukrainians say: the first a decade ago, when it sent soldiers over the border in an unacknowledged military intervention, and the second when it began its full assault two years ago.
-* Vladimir Putin is drawing on history to position himself in the realm of Russian rulers of the past. Critics say his grip on power is not as strong as it seems.
-* Two years of war produced thousands of damaged brains. We followed surgeons and soldiers on the road to recovery.
-* While Israeli forces have delivered a major blow to Hamas in a fight that has taken a devastating toll on civilians, the group that led the Oct. 7 attack on Israel remains a threat, officials say.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The Oklahoma school superintendent, Ryan Walters, said “radical leftists” had created a narrative about the death of 16-year-old Nex Benedict that “hasn’t been true.”
-* A court ruling declaring frozen embryos to be legally considered children has set off a scramble among leaders in both parties to preserve access to a crucial reproductive treatment.
+* The police released video of the student, Nex Benedict, recounting the altercation a day before their death, which has drawn national scrutiny.
+* As more details emerged about the suspect in the death of a nursing student, the community remained in shock of the first homicide on the campus in decades.
 * The lawyers presented an affidavit describing cellphone records they will likely use to try to prove the prosecutors lied about when they began a romantic relationship.
-* As housing costs soar, Washington State wants to limit annual rent increases to 7 percent. Oregon and California have passed similar measures.
-* If you voted in the Democratic primary this month, you can’t vote in the Republican one, too.
-* Her supporters tend to be moderate and college educated — precisely the type of voters who have helped decide recent presidential races. We spoke with nearly 40 to see where they’re leaning.
-* While Catholic teaching expressly forbids in vitro fertilization, Protestants tend to be more open.
-* Nikki Haley and her onetime boss, former President Donald J. Trump, have used false and misleading claims about polls and tax proposals while exchanging jabs on the campaign trail.
-* The Bodacious Belles, a women’s group in Beaufort, N.C., shows the difference a network of support can make in an aging America.
-* In a speech to the Black Conservative Federation, former President Donald J. Trump made express overtures to Black voters, whom he and his campaign are eager to win over.
+* The Oklahoma school superintendent, Ryan Walters, said “radical leftists” had created a narrative about the death of 16-year-old Nex Benedict that “hasn’t been true.”
+* The former president shows no sign of being shaken from his controlling position in the G.O.P. — not in 2024, and not in the foreseeable future.
+* Challenges to laws in Florida and Texas meant to protect conservative viewpoints are likely to yield a major constitutional ruling on tech platforms’ free speech rights.
+* The Michigan governor, who has taken a prominent role in the president’s campaign, is popular in her state. But as the Democratic coalition frays, some wonder if that will be enough.
+* Nikki Haley’s fortitude after losing her home state on Saturday looked more like stubborn grit and determination than upbeat confidence. Donald J. Trump didn’t even mention her, let alone insult her.
+* Striking a more serious tone, Ms. Haley said she would continue her campaign despite a heavy defeat to Donald Trump in South Carolina, her home state.
+* Crystal Clanton, who is close with the Thomas family, has said she does not remember sending the messages, which emerged in 2017.
 
 ![US](./usnews.png)
 ## New York Times Asia News
