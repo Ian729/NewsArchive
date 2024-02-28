@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Israel negotiators are reported to be considering the release of high-profile Palestinians convicted of terrorism in exchange for freedom for some of the hostages in Gaza.
+* Egypt joined Jordan’s airdrop operations for the first time on Tuesday, a day after a joint mission Jordan undertook with France.
+* Tehran, wary of igniting open warfare with Washington, has told militia groups it backs to curtail assaults on targets such as military installations, Iranian and American officials say.
+* Russian forces have an unorthodox view of acceptable levels of military losses, with a willingness to expend troops and equipment to make even small gains on the battlefield.
+* Terrorism, hunger and devastating floods have roiled the Horn of Africa nation. Now, it faces an even bigger challenge: the prospect of war with a neighbor, Ethiopia.
+* Daniela Klette, who was wanted in connection with the bombing of a prison and violent robberies, was living in plain sight in Berlin, the police say.
+* The Hungarian leader has given various rationales for stalling Swedish membership in NATO. The real reason may have to do with his own standing and domestic politics.
+* Hundreds of American children were poisoned last year. Records show how, time and again, the contamination went unnoticed.
+* The warning came in response to comments by President Emmanuel Macron of France, who said “nothing should be ruled out” when asked about the possibility.
+* The names, Sita and Akbar, evoking a Hindu goddess and a Muslim emperor, drew outrage from Hindu activists who saw it as blasphemy.
 * The French leader said that talks had not resulted in any consensus among European officials on putting troops on the ground in an “official” way, but that “anything is possible.”
-* For more than a decade, the United States has nurtured a secret intelligence partnership with Ukraine that is now critical for both countries in countering Russia.
-* Budapest had been the final obstacle to the Nordic country’s joining the alliance, which has been trying to isolate Russia over its war in Ukraine.
-* Hamas has not yet responded to the proposal, but the shift in Israel’s stance could jump-start negotiations toward a hostage swap and possible cease-fire.
-* Allies of Aleksei Navalny said he was about to be freed in a swap. A Western official said discussions for his release and that of two Americans had been underway, but no deal was imminent.
-* Kyle Parker says he delivered sniper gear as part of his unabashed support for Ukraine. Investigators say there may be “counterintelligence issues.”
-* She watched, distressed, as Aleksei was sent off to war. Now, 14 months after he died in eastern Ukraine, Yulia Seleznyova holds a sliver of hope for a miracle.
-* The alliance’s expansion, with Finland last year and soon Sweden, was a consequence from the invasion of Ukraine that Russia’s president may not have calculated.
-* The tally that President Volodymyr Zelensky revealed on Sunday differs sharply from that given by U.S. officials, who have said the number is closer to 70,000.
 
 ![Global](./global.png)
 ## New York Times United States News
-* A personal and community tragedy got caught up in the national politics of immigration after a migrant from Venezuela was charged in the death of a former University of Georgia student.
-* The videos released by the Houston police left open the question of who shot a 7-year-old boy as his mother, armed with an assault-style rifle, exchanged fire with off-duty officers.
-* Professor Raffaella Sadun’s departure from the task force is a setback for a group set up to propose ways for Harvard to address antisemitism on campus.
-* A mullet contest, a “mud duel” with pool noodles, an “evading arrest” obstacle course — and a chance to mull why the meme that launched it all keeps hanging on.
-* With few unilateral options and little hope of legislation from Congress, the president’s early investment in competition policy could pay a political dividend.
-* The future of tax exemptions for the United Daughters of the Confederacy is likely to depend on whether Gov. Glenn Youngkin signs legislation passed by the Virginia General Assembly.
-* In his first election-year appearance on a late-night television show, the president joshed with Seth Meyers and poked at former President Donald J. Trump’s own memory lapses.
-* A protest vote against President Biden’s policies on Israel will show the extent of Democratic divisions, while Donald Trump is favored to win again as Nikki Haley presses on.
-* New Mexico’s attorney general has accused Meta of not protecting children from sexual predators on its platforms. He now wants to know how it polices subscribers to accounts featuring children.
-* The decision to call off the Can-Am Crown International Sled Dog Race for the first time since its inception three decades ago was a matter of safety, organizers said.
+* A judge brought the witness back to court as he weighs whether the prosecutors leading the Georgia election case against Donald Trump have a disqualifying conflict of interest.
+* An unseasonably warm winter peaked on Tuesday with melting ice rinks and 70-degree weather. Temperatures will plummet from there, but even so, this winter without winter has left some people rattled.
+* A lower court had mostly blocked enforcement of a state law that banned gender-transition care for minors, but a federal appellate court lifted that injunction on Tuesday.
+* A nursing student’s body was found on Thursday at the University of Georgia in Athens. The authorities called the homicide “a crime of opportunity.”
+* The 2,000-mile frontier has become a symbol in American politics as the debate over immigration grows increasingly polarized.
+* The recruitment of Larry Hogan in Maryland served as a capstone to months of quiet success for Senate Republicans, after years of recruiting disappointments.
+* Democrats warned that the proposed legislation, which would allow civil lawsuits over the death of a fetus, would affect fertility treatments.
+* The former prison known as the Rock faces seismic activity, climate change and general deterioration. A wondrous new map could help save it.
+* The Supreme Court will hear arguments on Wednesday about the Trump administration rule put in place by the A.T.F. after the Las Vegas massacre.
+* President Biden endured a protest vote, Donald Trump fended off Nikki Haley again, and both may face challenges with their party coalitions as they start to look toward November.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The legal change, which could further limit access to information, is part of an increasingly hostile environment facing foreign businesses in the country.
+* Country Garden was once China’s biggest developer but ran out of money. A lender is taking it to court in Hong Kong, a sign of continuing market distress.
+* Plus, the latest on a possible cease-fire in Gaza.
+* The names, Sita and Akbar, evoking a Hindu goddess and a Muslim emperor, drew outrage from Hindu activists who saw it as blasphemy.
 * His soulful renditions of ghazals, or traditional love poems, were featured on the soundtracks of hit Bollywood movies and moved generations of Indians.
 * Plus, movement in a possible Israel-Hamas deal.
 * The privately built American spacecraft’s ability to send home images and other data has been limited by its sideways landing. On another part of the moon, a Japanese spacecraft woke up.
 * Plus a look at public sentiment in Ukraine.
 * A bitter but successful battle with Danone of France for control of a joint venture made him the richest person in China for a time.
 * The cost of business in Asia’s elite tournament keeps going up. The rewards do not.
-* A 1980 adaptation of the best-selling novel cast it as the tale of a white hero in an exotic Japan. A new version tells a more kaleidoscopic story.
-* In this hectic, bustling city, there’s a cafe for every coffee acolyte. Here are seven places where you can try egg coffee and other Vietnamese specialties.
-* From Thailand to America, Chinese denied a safe public space for discussion in their home country have found hope in diaspora communities.
-* New revelations underscore the degree to which China has ignored, or evaded, U.S. efforts to curb its extensive computer infiltration efforts.
 
 ![Asian](./asian.png)
