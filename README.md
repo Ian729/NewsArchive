@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Egypt joined Jordan’s airdrop operations for the first time on Tuesday, a day after a joint mission Jordan undertook with France.
-* Tehran, wary of igniting open warfare with Washington, has told militia groups it backs to curtail assaults on targets such as military installations, Iranian and American officials say.
-* Russian forces have an unorthodox view of acceptable levels of military losses, with a willingness to expend troops and equipment to make even small gains on the battlefield.
-* Terrorism, hunger and devastating floods have roiled the Horn of Africa nation. Now, it faces an even bigger challenge: the prospect of war with a neighbor, Ethiopia.
-* Daniela Klette, who was wanted in connection with the bombing of a prison and violent robberies, was living in plain sight in Berlin, the police say.
-* The Hungarian leader has given various rationales for stalling Swedish membership in NATO. The real reason may have to do with his own standing and domestic politics.
-* Hundreds of American children were poisoned last year. Records show how, time and again, the contamination went unnoticed.
-* The warning came in response to comments by President Emmanuel Macron of France, who said “nothing should be ruled out” when asked about the possibility.
-* The names, Sita and Akbar, evoking a Hindu goddess and a Muslim emperor, drew outrage from Hindu activists who saw it as blasphemy.
-* The French leader said that talks had not resulted in any consensus among European officials on putting troops on the ground in an “official” way, but that “anything is possible.”
+* The president of Egypt said he hoped a truce could be reached “in the next few days,” even as Hamas signaled it was far from a breakthrough with Israel.
+* Bosnia is being hit by a combination of a low birthrate and emigration, a trend fueled by ethnic tensions and disgust with corruption.
+* Inspired by the unity they experienced in the military, thousands of reservists returning from the front line in Gaza are organizing for political change.
+* Goo Hara’s life was a struggle from the start. She ended it at 28, isolated and harassed online.
+* A scheduled service for the Russian opposition leader will be open to the public, but it is unclear whether the authorities will try to stop people from attending.
+* The legislation would sentence those who identify as L.G.B.T.Q. to three years in jail and punish those who promote gay issues as well. It would be among the harshest on the African continent.
+* Investigators looking into the drowning of more than 600 people off Greece say that the border agency known as Frontex cannot fulfill its mission.
+* Transnistria declared independence in 1992 but is not recognized internationally. The request by the territory’s legislature could fuel regional tensions as the war in Ukraine rages.
+* The vote by lawmakers comes after supporters of the measure in France were galvanized by the U.S. Supreme Court’s decision overturning Roe v. Wade.
+* The French president’s openness to Western troops in Ukraine signaled a quest for military resolve. But some allies felt blindsided.
 
 ![Global](./global.png)
 ## New York Times United States News
-* A judge brought the witness back to court as he weighs whether the prosecutors leading the Georgia election case against Donald Trump have a disqualifying conflict of interest.
-* An unseasonably warm winter peaked on Tuesday with melting ice rinks and 70-degree weather. Temperatures will plummet from there, but even so, this winter without winter has left some people rattled.
-* A lower court had mostly blocked enforcement of a state law that banned gender-transition care for minors, but a federal appellate court lifted that injunction on Tuesday.
-* A nursing student’s body was found on Thursday at the University of Georgia in Athens. The authorities called the homicide “a crime of opportunity.”
-* The 2,000-mile frontier has become a symbol in American politics as the debate over immigration grows increasingly polarized.
-* The recruitment of Larry Hogan in Maryland served as a capstone to months of quiet success for Senate Republicans, after years of recruiting disappointments.
-* Democrats warned that the proposed legislation, which would allow civil lawsuits over the death of a fetus, would affect fertility treatments.
-* The former prison known as the Rock faces seismic activity, climate change and general deterioration. A wondrous new map could help save it.
-* The Supreme Court will hear arguments on Wednesday about the Trump administration rule put in place by the A.T.F. after the Las Vegas massacre.
-* President Biden endured a protest vote, Donald Trump fended off Nikki Haley again, and both may face challenges with their party coalitions as they start to look toward November.
+* Aaron Bushnell, the cyberdefense operations specialist who lit himself on fire to protest Israel’s killing of Palestinians, had left an isolated Christian community for the Air Force before turning to activism.
+* One of the wildfires, the Smokehouse Creek fire near the cattle-country town of Canadian, is now the second-largest ever recorded in Texas.
+* The urgency underscores the bind for the party, which has long maintained that life begins at conception but must now reconcile that stance with broad support for I.V.F.
+* The judge, a Democrat, stayed her ruling until Friday, leaving Donald J. Trump’s team time to appeal the decision.
+* Cooler temperatures Thursday were expected to give firefighters a chance to control the large fire before more dangerous conditions arrived this weekend.
+* The Transportation Department said the proposed regulations would make it easier to hold airlines accountable for mishandling passengers’ wheelchairs.
+* Illegal crossings have dropped in the last month, but the migrant crisis still defines life on the border, where many are skeptical that Biden or Trump can help.
+* The president ordered an investigation into auto software that could track U.S. drivers, part of a broader effort to stop E.V. imports from China.
+* After leaving Venezuela, he entered the U.S. through Texas and stopped in New York before living in Georgia.
+* In the aftermath of the attacks, interrogators were determined to get Khalid Shaikh Mohammed to discuss Al Qaeda’s future plans, a psychologist testified.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The president ordered an investigation into auto software that could track U.S. drivers, part of a broader effort to stop E.V. imports from China.
+* The trend lines may be grim, but the Japanese aren’t sweating them.
+* Dozens of unattended fuel stations across the country stopped working on Thursday for hours because of a software issue.
+* More than a week after thousands of doctors walked off the job, their dispute with the government shows no signs of resolution.
+* China has no dissident with the kind of public profile that Aleksei A. Navalny had. The government has many critics, but they all disappear from view.
+* Plus a protest vote against President Biden.
+* Goo Hara’s life was a struggle from the start. She ended it at 28, isolated and harassed online.
+* Mukesh Ambani’s Reliance Industries will control what is left of Disney’s grasp at India’s burgeoning media market.
 * The legal change, which could further limit access to information, is part of an increasingly hostile environment facing foreign businesses in the country.
 * Country Garden was once China’s biggest developer but ran out of money. A lender is taking it to court in Hong Kong, a sign of continuing market distress.
-* Plus, the latest on a possible cease-fire in Gaza.
-* The names, Sita and Akbar, evoking a Hindu goddess and a Muslim emperor, drew outrage from Hindu activists who saw it as blasphemy.
-* His soulful renditions of ghazals, or traditional love poems, were featured on the soundtracks of hit Bollywood movies and moved generations of Indians.
-* Plus, movement in a possible Israel-Hamas deal.
-* The privately built American spacecraft’s ability to send home images and other data has been limited by its sideways landing. On another part of the moon, a Japanese spacecraft woke up.
-* Plus a look at public sentiment in Ukraine.
-* A bitter but successful battle with Danone of France for control of a joint venture made him the richest person in China for a time.
-* The cost of business in Asia’s elite tournament keeps going up. The rewards do not.
 
 ![Asian](./asian.png)
