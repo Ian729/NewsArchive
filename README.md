@@ -2,32 +2,33 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Officials said President Biden was expected to announce in his State of the Union on Thursday that the U.S. military would construct a floating pier off the Gaza Strip to let ships deliver tons of food and other aid.
-* Fund-raisers are borrowing heavily from business techniques to keep donations flowing to the military. The latest trend? Broad approaches that rely on networks of friends and acquaintances.
-* The power struggle in Haiti is raising pressure on the United States to ease tensions while casting doubt on plans for a Kenyan-led security mission.
-* With the addition of Sweden to NATO, President Vladimir V. Putin of Russia finds himself facing an enlarged and motivated alliance.
-* A mass abduction reported in a region terrorized by Boko Haram, and another days later at a primary school, highlighted the government’s inability to control crime and armed insurgency.
-* The French president attempted to forge a united front on a harder line against Russia. But few were persuaded.
-* A meeting between the British foreign secretary, David Cameron, and an Israeli minister, Benny Gantz, carried more weight than usual, analysts said, and stressed the frustration of Israel’s allies.
-* A covert campaign to entrap and discredit people linked to rights groups in Hungary has added fuel to longstanding complaints of democratic backsliding in the country.
-* The police are investigating the circumstances surrounding the killings on Wednesday of a Sri Lankan family, the city’s largest mass murder in at least 30 years.
-* Officials say Hamas has continued to press Israel for a commitment to a permanent cease-fire after a multistage release of all hostages, but Israel has refused.
+* Hundreds of square miles of the rainforest have burned as countries in the region battle a record number of fires fueled by extreme weather.
+* Inspired by the academic success of schools like the Michaela secondary school in northwest London, some principals are introducing tight controls on students’ behavior.
+* A fraught relationship has recently turned bitter, with insults and barbs threatening European unity at a critical moment.
+* The harrowing image of a skeletal Yazan Kafarneh circulated widely on social media and has served as a graphic warning about the enclave’s dire food situation.
+* The two countries and others, including the United States, paused donations after Israel accused about a dozen of UNRWA’s 13,000 employees in Gaza of being involved in the Oct. 7 attacks.
+* Aleksei Navalny’s team has found a new leader in the opposition leader’s widow, Yulia Navalnaya. But Navalny’s death has so far brought little change to their insular tactics.
+* A photographic narrative of the growing upheaval.
+* Oksana Semenik’s social media campaign both educates the curious about overlooked Ukrainian artists — and pressures global museums to relabel art long described as Russian.
+* A fact-finding mission looking into the demonstrations that followed the death of Mahsa Amini found brutality and rejected Iran’s version of Ms. Amini’s death.
+* Relief organizations say cumbersome new strategies cannot substitute for Israel allowing more supply trucks into the Gaza Strip, while an airdrop of aid reportedly went awry and killed five people.
 
 ![Global](./global.png)
 ## New York Times United States News
-* A claim made about the prosecutor, Fani Willis, at a State Senate hearing proved false, but it hinted at the turbulence she might face even if an effort to disqualify her fails.
-* A laboratory found a pattern of cell damage that has been seen in veterans exposed to weapons blasts, and said it probably played a role in symptoms the gunman displayed before the shooting.
-* A commission in Maine asked former colleagues of the shooter about key moments of inaction before the rampage.
-* An investigator for the city of Uvalde found that despite the many failures from police officers during a 2022 school shooting, they did not violate protocol and acted in good faith.
-* Powerful winds last week pushed Lake Manly, a temporary body of water, two miles from its original location in the national park.
-* The president used his State of the Union speech to pitch tax increases for the rich, along with plans to cut costs and protect consumers.
-* The new format cuts nearly an hour out of the exam and has shorter reading passages.
+* The initiative allows up to 360,000 people a year from Cuba, Haiti, Nicaragua and Venezuela to live and work in the United States if supported by a financial sponsor.
 * How “Oppenheimer,” a movie about the men who developed the atomic bomb, met the new standards.
-* The former president believes his pick to lead the Republican National Committee, Michael Whatley, is more in sync with his views about voter fraud than Ronna McDaniel, who steps aside Friday.
-* The president’s call for aid to Ukraine and his pledge of assistance for Gaza came against a backdrop of Republican opposition, splits in his own party and tension with allies.
+* Exposure to blasts, even at low levels, may play a much greater role in veterans’ mental health struggles than has been known, with implications for treatment strategies and for criminal justice.
+* South Carolina Salkehatchie had no budget, players or running water in the locker room when Matt Lynch arrived. One season in, the first publicly gay head coach is figuring out how to win, on the court and off.
+* This weekend and next, Miami Beach visitors will face extraordinary measures meant to head off disorderly crowds, including bag checks at beach entrances and closed parking garages.
+* Americans love a candidate who promises something new. But when a sitting president runs against a former one, can either claim the mantle of change?
+* The helicopter, patrolling in southern Texas, was carrying soldiers and a Border Patrol agent, officials said.
+* The president pointed toward his efforts to ease restrictions on cannabis, a potential signal that he could talk more during the campaign about an issue he has been reluctant to embrace.
+* The White House said the executive branch was halting shutdown preparations and that President Biden would sign the bill on Saturday. But the spending fight isn’t over yet.
+* The president’s decision to send aid by air and sea represents a shift prompted by the growing humanitarian crisis. But it raised uncomfortable questions about America’s role.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Toyota, the world’s largest automaker, has been criticized for selling few electric vehicles, but its decision to focus on hybrids is paying off financially.
 * Three days before the 2003 ceremony, the United States invaded Iraq. Despite pleas to delay the awards, the academy went ahead with what became a politics-suffused evening.
 * His popular manga inspired numerous television, film and video game adaptations, reaching fans far beyond Japan’s borders.
 * The proposed law targets political offenses like treason and insurrection with penalties as harsh as life imprisonment, giving officials more power to curb dissent.
@@ -37,6 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * Linwei Ding, a Chinese national, was arrested in California and accused of uploading hundreds of files to the cloud.
 * Temu, Shein, and streaming and gaming apps looking to break into the U.S. market are spending huge sums to get their wares in front of American consumers.
 * Also, Israel-Hamas talks stall before Ramadan.
-* The disappearance of the Malaysia Airlines flight has remained one of the greatest aviation mysteries of all time. A new search may begin soon.
 
 ![Asian](./asian.png)
