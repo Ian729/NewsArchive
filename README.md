@@ -2,32 +2,34 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
+* The United Arab Emirates has maintained its links to Israel throughout the war in Gaza, but the relationship, built on a U.S.-brokered deal, is under pressure as anger against Israel grows.
+* As Ukraine struggles against Russian assaults and its losses mount, there has been a surge of women enlisting, and they are increasingly volunteering for combat roles.
+* China’s leader, Xi Jinping, believes his vision for technological dominance will keep powering the country’s ascent while the West recedes.
+* The legacy of the global literary titan and Colombia’s most famous author has helped transform the small mountain town of Aracataca, where he was born.
+* The president said that Israel’s leader “must pay more attention to the innocent lives being lost,” even as he said the country had a right to pursue Hamas in Gaza.
+* A sweeping new law on online speech threatens the political humor that has helped the island nation get through tough stretches.
+* The early general election comes after a corruption scandal that plunged the Socialist government into chaos. The far right could play kingmaker.
+* His words have raised questions about whether Francis was suggesting that Ukraine surrender, but a Vatican spokesman said the pope meant “cease-fire and negotiation.”
+* As gangs have united in concerted attacks against the state, the prime minister is stranded in Puerto Rico, and food, water, fuel and medical care are in short supply.
 * Hundreds of square miles of the rainforest have burned as countries in the region battle a record number of fires fueled by extreme weather.
-* Inspired by the academic success of schools like the Michaela secondary school in northwest London, some principals are introducing tight controls on students’ behavior.
-* A fraught relationship has recently turned bitter, with insults and barbs threatening European unity at a critical moment.
-* The harrowing image of a skeletal Yazan Kafarneh circulated widely on social media and has served as a graphic warning about the enclave’s dire food situation.
-* The two countries and others, including the United States, paused donations after Israel accused about a dozen of UNRWA’s 13,000 employees in Gaza of being involved in the Oct. 7 attacks.
-* Aleksei Navalny’s team has found a new leader in the opposition leader’s widow, Yulia Navalnaya. But Navalny’s death has so far brought little change to their insular tactics.
-* A photographic narrative of the growing upheaval.
-* Oksana Semenik’s social media campaign both educates the curious about overlooked Ukrainian artists — and pressures global museums to relabel art long described as Russian.
-* A fact-finding mission looking into the demonstrations that followed the death of Mahsa Amini found brutality and rejected Iran’s version of Ms. Amini’s death.
-* Relief organizations say cumbersome new strategies cannot substitute for Israel allowing more supply trucks into the Gaza Strip, while an airdrop of aid reportedly went awry and killed five people.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The initiative allows up to 360,000 people a year from Cuba, Haiti, Nicaragua and Venezuela to live and work in the United States if supported by a financial sponsor.
-* How “Oppenheimer,” a movie about the men who developed the atomic bomb, met the new standards.
+* The only abortion clinic left in the state has been protested and set on fire, rebuilt and opened as Wyoming grapples with what it means to be conservative in a post-Roe nation.
+* Illegal crossings have dropped in the last month, but the migrant crisis still defines life on the border, where many are skeptical that Biden or Trump can help.
 * Exposure to blasts, even at low levels, may play a much greater role in veterans’ mental health struggles than has been known, with implications for treatment strategies and for criminal justice.
-* South Carolina Salkehatchie had no budget, players or running water in the locker room when Matt Lynch arrived. One season in, the first publicly gay head coach is figuring out how to win, on the court and off.
 * This weekend and next, Miami Beach visitors will face extraordinary measures meant to head off disorderly crowds, including bag checks at beach entrances and closed parking garages.
-* Americans love a candidate who promises something new. But when a sitting president runs against a former one, can either claim the mantle of change?
-* The helicopter, patrolling in southern Texas, was carrying soldiers and a Border Patrol agent, officials said.
-* The president pointed toward his efforts to ease restrictions on cannabis, a potential signal that he could talk more during the campaign about an issue he has been reluctant to embrace.
-* The White House said the executive branch was halting shutdown preparations and that President Biden would sign the bill on Saturday. But the spending fight isn’t over yet.
-* The president’s decision to send aid by air and sea represents a shift prompted by the growing humanitarian crisis. But it raised uncomfortable questions about America’s role.
+* The close Trump ally is courting former foes and trying to mend fences as she runs for Senate in Arizona. But bad blood from her 2022 campaign simmers at home.
+* After making billions in tax-deductible donations to his philanthropy, the owner of Tesla and SpaceX gave away far less than required in some years — and what he did give often supported his own interests.
+* As the United States continues providing Israel with munitions, the Pentagon will deliver food and other assistance to Gazans by sea and air.
+* For a few weeks in October 2022, the White House was consumed in a crisis whose depths were not publicly acknowledged at the time. It was a glimpse of what seemed like a terrifying new era.
+* The president had used the word in an unscripted exchange with Republicans during his State of the Union address on Thursday.
+* A Missouri hospital said the amputations involved mostly fingers and toes after a game in January when temperatures were below zero.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* China’s leader, Xi Jinping, believes his vision for technological dominance will keep powering the country’s ascent while the West recedes.
+* A sweeping new law on online speech threatens the political humor that has helped the island nation get through tough stretches.
 * Toyota, the world’s largest automaker, has been criticized for selling few electric vehicles, but its decision to focus on hybrids is paying off financially.
 * Three days before the 2003 ceremony, the United States invaded Iraq. Despite pleas to delay the awards, the academy went ahead with what became a politics-suffused evening.
 * His popular manga inspired numerous television, film and video game adaptations, reaching fans far beyond Japan’s borders.
@@ -36,7 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * Also, President Biden’s annual address and Oscar predictions.
 * Beijing is set to further increase its manufacturing and installation of solar panels as it seeks to master global markets and wean itself from imports.
 * Linwei Ding, a Chinese national, was arrested in California and accused of uploading hundreds of files to the cloud.
-* Temu, Shein, and streaming and gaming apps looking to break into the U.S. market are spending huge sums to get their wares in front of American consumers.
-* Also, Israel-Hamas talks stall before Ramadan.
 
 ![Asian](./asian.png)
