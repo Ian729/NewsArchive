@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Palestinians in Gaza, where some are close to starvation, wanted a cease-fire before the Muslim holy month of daylong fasting. It didn’t happen.
-* Countries promised the fighter jets last year, but delivering them and training pilots have proved complex. Ukraine may start with as few as six, out of about 45 pledged.
-* A Mother’s Day photo was meant to douse speculation about the Princess of Wales’ health. It did the opposite — and threatened to undermine trust in the royal family.
-* The ascent of Geert Wilders has vexed parties struggling with how to work with a far-right leader too popular to shun. It’s a puzzle bigger than the Netherlands.
-* Muslim access to the mosque compound has long been a point of contention as Israel has exerted tighter control.
-* With violence overrunning his country, Prime Minister Ariel Henry said he would step down once a transitional council was established. But it was unclear when that would happen.
-* The U.S. citizen attacked two women, also Americans, near Germany’s iconic Neuschwanstein Castle, and attempted to push both of them to their deaths, a court found. One was killed, the other survived.
-* A Mother’s Day portrait of Catherine, Princess of Wales, with her three children shows a range of anomalies indicating it had been digitally altered.
-* Ukrainians say recognition for “20 Days in Mariupol” will help debunk Russian propaganda and refocus attention on the situation in Russian-occupied territories.
-* The airline, Latam, said a “technical problem” had caused the incident. Most of the injuries were minor, but one person was in serious condition.
+* The African nation said it would not send a force until Haiti forms a new government after the Haitian prime minister announced his intention to resign.
+* The maritime package of more than 200 tons of food is a welcome milestone, but not nearly enough to prevent famine, said relief officials, who called on Israel to allow more aid delivery by land.
+* Leonid Volkov, a top aide to Aleksei Navalny, was beaten and sprayed with tear gas as he was pulling up to his house in Vilnius.
+* Drones have become a critical weapon for both sides, but a lack of coordination among troops has put Ukraine at a disadvantage.
+* As too little aid reaches Gaza by land, a ship left Cyprus carrying rice, flour and other food in what European officials called the possible start of a maritime supply route.
+* Frank Hester, the leading supporter of Britain’s Conservative Party, is accused of making the comments about Diane Abbott, a well-known lawmaker.
+* American officials say their team was in the country to assess governance issues, but was detained and interrogated before being deported.
+* Prince William and Princess Catherine, along with Prince Harry, initially embraced social media as a way to bypass the tabloid press.
+* The attacks and drone strikes across the southern border were intended to counter President Vladimir V. Putin’s control over Russia, a leader in one of the groups said.
+* Mr. Tate and his brother, Tristan, were arrested on charges made between 2012 and 2015, which include allegations of sexual aggression, a spokesman said.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The law will stay on the books, but the settlement makes clear that it does not ban classroom references to L.G.B.T.Q. people, including in literature and class discussions.
-* Samples from an oil sheen in the Pacific Ocean off the coast of Huntington Beach, Calif., were more consistent with oil that seeps naturally.
-* Illegal crossings have dropped in the last month, but the migrant crisis still defines life on the border, where many are skeptical that Biden or Trump can help.
-* During the pandemic Jessica Jacobs binge-watched true crime shows. Inspired, she started working on cases with a lawyer. Two men who spent decades behind bars walked free.
-* President Andrzej Duda of Poland plans to use a White House meeting on Tuesday to propose that NATO members increase their military spending by at least half.
-* Republicans are likely to pepper him about his justifications for not charging the president. Democrats will almost certainly slam him for making broad assertions about Mr. Biden’s memory.
-* An independent and seven Democrats argued in a letter that the administration had run afoul of a part of a law that bars military aid from going to any country that blocks humanitarian aid.
-* Barack Obama drew one for Syria. George W. Bush drew several, for North Korea and Iran. Now President Biden has drawn one for Israel. The hard part is figuring out what to do when they are crossed.
-* The group, Republican Voters Against Trump, will run a series of homemade videos of Americans who voted for him in the past but say they can no longer do so in 2024.
-* The company failed 33 of 89 audits during an examination conducted by the Federal Aviation Administration after a panel blew off an Alaska Airlines jet in January.
+* Covid was declared a national emergency on March 13, 2020. Even as the threat of severe illness and death has faded, the pandemic’s effects linger.
+* For years, litigants have tried to cherry-pick the judges in sweeping cases on abortion and immigration. Random judge selection is about to make that harder.
+* The news comes less than a week after an investigation by the city of Uvalde found that city police officers made mistakes during a 2022 mass shooting, but did not violate policy.
+* As the harm reduction approach to illegal drug use loses favor across the country, Nebraska legislators failed on Tuesday to override the governor’s veto of a bill to provide drug users with access to clean needles.
+* After sweeping another set of contests on Tuesday, the former president and the current president have won the delegates they need for a long-anticipated rematch.
+* The Colorado Republican, who announced his retirement last fall, said he would leave Congress at the end of next week, further shrinking his party’s already minuscule majority.
+* Robert K. Hur defended himself in the unhurried, forceful cadence of a veteran prosecutor, delivering his responses in a flat, matter-of-fact tone.
+* The president secured enough delegates to become his party’s standard-bearer after a mostly uncontested primary campaign marked by Democratic doubts.
+* A conversation on civics and civility included discussion of whether the court is more like a really good preschool or an arranged marriage with no possibility of divorce.
+* American officials estimated that Ukraine, a country without a traditional navy, has sunk 15 Russian ships in the past six months.
 
 ![US](./usnews.png)
 ## New York Times Asia News
-* The announcement about a citizenship law criticized as anti-Muslim is timed for Prime Minister Narendra Modi’s re-election campaign.
+* The foreign ministry accused Washington of “resorting to hegemonic moves” ahead of House vote on a bill aimed at ByteDance, TikTok’s Chinese parent company.
+* During Setsubun celebrations in Kyoto, demons and bad luck are banished as people prepare for the start of the new year.
+* The Japanese company hoped to become the country’s first private business to put a satellite into orbit. The failed launch was its inaugural flight.
+* U.S. and European companies looking to diversify from China are expanding around Southeast Asia, a sign of how geopolitics is reshaping tech manufacturing.
+* Her foundation rescued thousands of girls and young women from bonded slavery and secured meals and schooling for impoverished children.
+* Also, more U.S. weapons for Ukraine and a looming financial crisis for dating apps
+* The law sparked lethal riots when it was passed. Now, after a four-year delay, it has come into force on the eve of Prime Minister Narendra Modi’s re-election campaign.
+* The hanok, a traditional home design, has been bypassed in Seoul’s vertical building boom. But some fans are trying to preserve it.
 * Increasing overseas sales of manufactured goods are helping China’s economy and creating employment, but countries from Europe to South Asia may lose jobs.
 * Also, uproar about a retouched royal photo and an Oscars recap.
-* The exact start date of Islam’s holiest month depends on when local Islamic authorities declare the sighting of the new moon.
-* In February, Peter Kaestner beat out the competition to document his 10,000th bird species.
-* The airline, Latam, said a “technical problem” had caused the incident. Most of the injuries were minor, but one person was in serious condition.
-* The findings, from the largely uncharted waters of Bounty Trough, show that “we’ve got a long way to go in terms of understanding where life is found in the ocean,” a researcher said.
-* 
-* The incident, which caused the plane carrying 153 people to veer off course before landing safely, added to the country’s troubling aviation safety record.
-* China’s leader, Xi Jinping, believes his vision for technological dominance will keep powering the country’s ascent while the West recedes.
 
 ![Asian](./asian.png)
