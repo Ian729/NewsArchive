@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
+* The appointment of Muhammad Mustafa, an adviser to President Mahmoud Abbas, would amount to a rejection of international pressure to try to make the organization more independent in the hopes it could help govern postwar Gaza.
+* Telecommunications infrastructure has been devastated in the territory, largely preventing Palestinians from calling for help, coordinating the delivery of aid and communicating with family abroad.
+* Mainstream parties are changing laws to protect government institutions. Critics say the changes risk undermining democracy.
+* Yandex’s co-founder, Arkady Volozh, received rare sanctions relief after condemning Russia’s war and severing ties to the country.
+* The World Food Program delivery, containing food for 25,000 people, was the first since Oct. 7 to go directly from Israel into the northern Gaza Strip, where many people are at risk of starvation.
+* The Russian leader struck a softer tone about nuclear weapons in an interview with state television. But he warned that Russia was ready to strike if its “sovereignty and independence” were threatened.
+* Once dependent on Europe for trade, Russia has been forging new routes that will allow it to skirt Western restrictions. A planned railway through Iran could be key for those ambitions.
+* Mathias Vicherat, the director of Sciences Po, and his former partner are expected to face trial over mutual accusations of violence. His resignation prolongs years of tumult in the school’s highest ranks.
 * The African nation said it would not send a force until Haiti forms a new government after the Haitian prime minister announced his intention to resign.
-* The maritime package of more than 200 tons of food is a welcome milestone, but not nearly enough to prevent famine, said relief officials, who called on Israel to allow more aid delivery by land.
-* Leonid Volkov, a top aide to Aleksei Navalny, was beaten and sprayed with tear gas as he was pulling up to his house in Vilnius.
 * Drones have become a critical weapon for both sides, but a lack of coordination among troops has put Ukraine at a disadvantage.
-* As too little aid reaches Gaza by land, a ship left Cyprus carrying rice, flour and other food in what European officials called the possible start of a maritime supply route.
-* Frank Hester, the leading supporter of Britain’s Conservative Party, is accused of making the comments about Diane Abbott, a well-known lawmaker.
-* American officials say their team was in the country to assess governance issues, but was detained and interrogated before being deported.
-* Prince William and Princess Catherine, along with Prince Harry, initially embraced social media as a way to bypass the tabloid press.
-* The attacks and drone strikes across the southern border were intended to counter President Vladimir V. Putin’s control over Russia, a leader in one of the groups said.
-* Mr. Tate and his brother, Tristan, were arrested on charges made between 2012 and 2015, which include allegations of sexual aggression, a spokesman said.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Covid was declared a national emergency on March 13, 2020. Even as the threat of severe illness and death has faded, the pandemic’s effects linger.
-* For years, litigants have tried to cherry-pick the judges in sweeping cases on abortion and immigration. Random judge selection is about to make that harder.
-* The news comes less than a week after an investigation by the city of Uvalde found that city police officers made mistakes during a 2022 mass shooting, but did not violate policy.
-* As the harm reduction approach to illegal drug use loses favor across the country, Nebraska legislators failed on Tuesday to override the governor’s veto of a bill to provide drug users with access to clean needles.
-* After sweeping another set of contests on Tuesday, the former president and the current president have won the delegates they need for a long-anticipated rematch.
-* The Colorado Republican, who announced his retirement last fall, said he would leave Congress at the end of next week, further shrinking his party’s already minuscule majority.
-* Robert K. Hur defended himself in the unhurried, forceful cadence of a veteran prosecutor, delivering his responses in a flat, matter-of-fact tone.
-* The president secured enough delegates to become his party’s standard-bearer after a mostly uncontested primary campaign marked by Democratic doubts.
-* A conversation on civics and civility included discussion of whether the court is more like a really good preschool or an arranged marriage with no possibility of divorce.
-* American officials estimated that Ukraine, a country without a traditional navy, has sunk 15 Russian ships in the past six months.
+* Even in liberal San Francisco, the district attorney is preparing to investigate fentanyl deaths as homicides. Defense lawyers call the prosecutions misguided.
+* A medical examiner found evidence of a toxic mix of drugs in the 16-year-old nonbinary high school student in Oklahoma, who died one day after an altercation in a girls’ bathroom.
+* With his latest, and last, book, the 87-year-old writer refuses false optimism.
+* Prosecutors said some of the weapons recovered from the scene of the Feb. 14 shooting had been unlawfully purchased or trafficked.
+* Lacking evidence or the votes to support impeachment charges against President Biden, Republicans are considering criminal referrals against him and his allies instead.
+* A Democratic group is spending nearly $900,000 on a television ad promoting Bernie Moreno, who was endorsed by Donald Trump, just ahead of next week’s Republican primary.
+* The vice president plans to meet with abortion providers and staff members in Minneapolis, a striking political move that shows how assertive Democrats have grown on the issue.
+* The National Park Service plans to chop down 140 of the trees as it builds a new sea wall to protect the area around the Jefferson Memorial.
+* The program would be the largest investment ever for the union, which spent around $150 million in the 2020 presidential cycle.
+* The risks have less to do with who owns the app than who writes the code and algorithms that make TikTok tick.
 
 ![US](./usnews.png)
 ## New York Times Asia News
-* The foreign ministry accused Washington of “resorting to hegemonic moves” ahead of House vote on a bill aimed at ByteDance, TikTok’s Chinese parent company.
+* A new regulation aims to rid the palm oil supply chain of imports that come from former forestland. Southeast Asian countries say it threatens livelihoods.
+* The risks have less to do with who owns the app than who writes the code and algorithms that make TikTok tick.
+* Also, aid to northern Gaza and whimsical wooden automatons
+* The legislation received wide bipartisan support, with both Republicans and Democrats showing an eagerness to appear tough on China.
+* The foreign ministry accused Washington of “resorting to hegemonic moves” ahead of a House vote on a bill aimed at ByteDance, TikTok’s Chinese parent company.
 * During Setsubun celebrations in Kyoto, demons and bad luck are banished as people prepare for the start of the new year.
 * The Japanese company hoped to become the country’s first private business to put a satellite into orbit. The failed launch was its inaugural flight.
 * U.S. and European companies looking to diversify from China are expanding around Southeast Asia, a sign of how geopolitics is reshaping tech manufacturing.
 * Her foundation rescued thousands of girls and young women from bonded slavery and secured meals and schooling for impoverished children.
 * Also, more U.S. weapons for Ukraine and a looming financial crisis for dating apps
-* The law sparked lethal riots when it was passed. Now, after a four-year delay, it has come into force on the eve of Prime Minister Narendra Modi’s re-election campaign.
-* The hanok, a traditional home design, has been bypassed in Seoul’s vertical building boom. But some fans are trying to preserve it.
-* Increasing overseas sales of manufactured goods are helping China’s economy and creating employment, but countries from Europe to South Asia may lose jobs.
-* Also, uproar about a retouched royal photo and an Oscars recap.
 
 ![Asian](./asian.png)
