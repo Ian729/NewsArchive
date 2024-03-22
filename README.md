@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Secretary of State Antony J. Blinken is on his sixth wartime trip to the Mideast as part of diplomatic efforts to arrange for an immediate pause in the fighting in Gaza.
-* A bill would bar support for the agency, UNRWA, amid accusations that some employees were Hamas fighters. Other countries are scrambling to make up the looming shortfall.
-* Memories of dictatorship are fading. Dissatisfaction is mounting. It was a ripe moment for the Chega party to appeal to voter frustrations.
-* One of Mexico’s most powerful criminal groups, Jalisco New Generation, runs call centers that offer to buy retirees’ vacation properties. Then, they empty their victims’ bank accounts.
+* A resolution for the U.N. that American diplomats are circulating was notable for its strong language in seeking a cease-fire in Gaza and the release of hostages.
+* Secretary of State Antony J. Blinken met with Egypt’s president and foreign minister on his sixth wartime trip to the Middle East.
+* Weeks before pivotal elections, the head of one party was arrested on what his supporters said were trumped-up charges and another party said it lost access to its funds.
+* These votes can demonstrate control, serve as a warning and create the illusion of accountability.
+* The boy had been dropped off with relatives nearly three weeks ago and was airlifted back to his Florida home. He is part of a growing number of Americans trying to flee Haiti.
 * Ukraine said it had intercepted all 31 missiles fired at the capital. But debris injured at least 13 people and damaged several buildings.
-* Using interest earned on frozen Russian assets held in Europe, the bloc plans to raise billions. But other ways to pay for new weapons remain elusive.
-* In a country that relies heavily on visitors, hotels faced repeated evacuations, and one resort was temporarily shut.
-* Leo Varadkar, whose Fine Gael party has struggled in the polls, said he would step down as leader of the country and of his party, citing “personal and political reasons.”
-* Parliament is all but certain to approve the government’s plan, but a rare show of defiance by the unelected upper house showed the depth of opposition.
-* The treacherous migrant crossing in Panama is drawing packs of American activists who are distorting how immigration is perceived, and debated, at home.
+* The blast targeted a bank in Kandahar, where Taliban members had gathered to collect their salaries, witnesses said.
+* Leo Varadkar, the prime minister of the Republic of Ireland, resigned unexpectedly, prompting a political scramble. Here’s what to know about what happens next.
+* Memories of dictatorship are fading. Dissatisfaction is mounting. It was a ripe moment for the Chega party to appeal to voter frustrations.
+* One of Mexico’s most violent criminal groups, Jalisco New Generation, runs call centers that offer to buy retirees’ vacation properties. Then, it empties its victims’ bank accounts.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The measure known as Proposition 1, which includes $6.38 billion for treatment and housing, was a top priority for Gov. Gavin Newsom to reduce homelessness in the state.
-* Attendees of the rowdy ’80s and ’90s-era spring festival in Atlanta are wondering whether — and how — they might show up in a new documentary about it.
-* An appeals court will now decide if it will weigh in on whether Fani T. Willis, the Fulton County district attorney, should be disqualified.
-* A proposal to raise the transfer tax on sales of high-value properties was trailing. Two Democrats were locked in a close Cook County prosecutor primary.
-* A new report focuses on the prolonged struggle to build affordable housing across America and suggests federal incentives to help.
-* With Democrats at a fund-raising advantage, the G.O.P. has backed candidates who can self-fund. But their wealth is likely to factor in the fight for Senate control.
-* The group, headed by the former Trump adviser Stephen Miller, has filed more than 100 legal actions against “woke” companies and others. But winning may be beside the point.
-* A group of politically connected lawyers teamed up to go after insurers and made millions from one of the largest Medicaid settlements in history.
-* Richard C. Higgins was stationed at the Hawaiian naval base as a radioman on the day of the Japanese attack, which pulled the U.S. into World War II.
-* New federal filings on Wednesday showed the president’s campaign with a nearly $40 million advantage over the Trump campaign at the end of last month.
+* Businesses and planning committees are eager for visitors, but some in remote Aroostook County are not sure how they feel about lying smack in the path of totality.
+* A city that pro basketball abandoned in the early 1970s, and whose college teams have only flirted with relevance for decades, has basketball roots that run deep.
+* The Tulsa County district attorney said a fight involving the nonbinary student in an Oklahoma high school bathroom was “mutual combat.” The death has been ruled a suicide.
+* Former deputies said they saw brutality as a way to rise in the ranks of a department that celebrated violence against people suspected of crimes.
+* The civil liberties group is defending itself in an unusual case that weighs what kind of language may be evidence of bias against Black people.
+* In trying to avoid even the smallest mistakes, Attorney General Merrick B. Garland might have made one big one: ending up in a race against the clock.
+* The authorities said they were executing a search warrant at the home of the executive, whom they accused of illegally selling firearms. His family said the action was unnecessary.
+* The two men fled from a hospital in Boise, Idaho, after an ambush in which three corrections officers were shot. The authorities were investigating whether they had killed two people while at large.
+* Carlee Russell, who received two suspended six-month sentences, won’t have to serve any time if she successfully completes 12 months of probation, performs 100 hours of community service and pays $17,000 in restitution.
+* Gov. Bill Lee on Thursday signed a first-in-the-nation bill to prevent the use of artificial intelligence to copy a performer’s “voice.”
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Born to a South Korean mother and a Black American soldier, she rose to a pioneering stardom in a country that has long discriminated against biracial children.
+* The United States is agonizing over the possibility of a ban, but India did it at a stroke. Indians adjusted quickly, and Instagram and YouTube built big audiences.
+* The festival has Hindu roots, but everyone is fair game to get messy, and growing numbers worldwide are taking part in the iconic display of Indian culture.
+* China has produced a huge number of top A.I. engineers in recent years. New research shows that, by some measures, it has already eclipsed the United States.
+* The country's domestic airlines play a crucial role in connectivity. But for the casual flier, even the journey is captivating.
+* Also, India’s opposition faces troubles and tips for a healthier relationship with your phone.
+* The blast targeted a bank in Kandahar, where Taliban members had gathered to collect their salaries, witnesses said.
+* Weeks before pivotal elections, the head of one party was arrested on what his supporters said were trumped-up charges and another party said it lost access to its funds.
 * Also, sweeping U.S. climate regulations and the “3 Body Problem” on Netflix.
 * The official result confirmed projections made after last month’s vote, which raised concerns about the vibrancy of the country’s democracy.
-* The departure of President Vo Van Thuong, who occupied a largely ceremonial role, could have implications for the country’s future.
-* The nature of President Vo Van Thuong’s wrongdoing was unclear, but his departure could be a sign of an internal power struggle among Vietnam’s leaders.
-* The city enacted tough new security legislation with little public outcry, partly because those who would have opposed it were either in jail or in exile.
-* Drawing from his life in rural China, the gay artist known as Xiyadie uses a folk art form to tell his coming out story. His show is coming to the Blindspot Gallery in Hong Kong.
-* The study, based on research featured in a Netflix documentary, fueled debate over a site that is used for Islamic and Hindu rituals.
-* The city created a visa to lure professionals from around the world. Most of the takers were Chinese seeking better jobs, better schools and greater freedom.
-* As Hong Kong’s leaders embrace China’s top-down political culture, many believe the city’s dynamism and vitality are slipping away.
-* Federal prosecutors said the pair tried to sell technology to manufacture batteries for electric cars that belonged to the company.
 
 ![Asian](./asian.png)
