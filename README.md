@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The Kremlin said that all four assailants were in custody. U.S. officials attributed the attack, one of the deadliest in Russia in decades, to ISIS-K, a branch of Islamic State that has been active in Iran and Afghanistan.
+* An investigation into the sugar-cane industry in the Indian state of Maharashtra found workers ensnared by debt and pushed into child marriages and unnecessary hysterectomies.
+* The top opposition politician, Ousmane Sonko, is barred from running. So Sunday’s poll is widely seen as a choice between his handpicked candidate and the departing president’s designated successor.
+* A struggle for a position held by Ukrainian forces in the eastern city of Avdiivka underlines how the conflict is increasingly being fought in close-quarter combat.
+* American officials attribute Friday’s attack in a Moscow suburb, which killed at least 133 people, to a branch of the Islamic State active in Iran and Afghanistan.
+* Islamic State Khorasan, or ISIS-K, previously attacked Russia’s embassy in Kabul and has produced floods of anti-Kremlin propaganda.
+* “They know they can’t control the online world,” one expert on the royal family said about the recent spate of revelations about the health of Catherine and King Charles III.
 * As an election nears, political strife between Prime Minister Narendra Modi and opposition-held states is straining the federal formula that holds India together.
-* First King Charles and now Catherine, Princess of Wales, are facing grave health concerns, stretching an already slimmed-down monarchy.
-* With hand tools and bare hands, families and rescuers continue to search broken buildings for missing friends and relatives.
-* The American draft resolution before the Security Council did not go far enough to end the Israel-Hamas war, Russia and China said, after the United States had vetoed three earlier resolutions.
-* The announcement that Corina Yoris would run came as a surprise to many who had feared that a fractured opposition would benefit President Nicolás Maduro.
 * Many expressed compassion for Catherine, Princess of Wales, a woman who has spent much of the past two decades with every aspect of her life scrutinized.
-* Born to a South Korean mother and a Black American soldier, she rose to a pioneering stardom in a country that has long discriminated against biracial children.
-* Civilians who gather dead Russian soldiers face many of the war’s perils along the front, where death is ubiquitous.
-* Power plants and a major hydroelectric dam were damaged in what Ukrainian officials said was one of the war’s largest assaults on energy infrastructure.
+* Indebted workers, facing brutal working conditions, are pushed to get hysterectomies as a treatment for routine ailments. Sugar mills disclaim responsibility.
+* In a visit to the Rafah border crossing, Secretary General António Guterres called for an immediate cease-fire and expressed solidarity with Palestinians in the territory.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The referendum, backed by progressives but criticized by the real estate industry, called for raising transfer taxes on properties that sell for more than $1 million.
-* The Texas governor, Greg Abbott, has spent $10 billion building his own border security network. In Eagle Pass, where it has been concentrated, far fewer migrants have been crossing this year.
-* Supporters of the little-known college on Friday celebrated its moment of fame after a shocking first-round win.
-* Music lovers stood in the cold this week for a first crack at tickets to Tanglewood, a beloved outdoor venue where the Boston Symphony Orchestra plays all summer long.
-* The Republican Senate candidate in Arizona, who has been an election denier and Trump supporter, is seeking to appeal to establishment Republicans.
-* The Affordable Connectivity Program, a $14.2 billion federal effort to make internet service more affordable, is expected to run out of funding this spring.
-* Bipartisan spending legislation approved by Congress represented a major defeat for ultraconservatives, who immediately turned on Speaker Mike Johnson.
-* The Islamic State affiliate has been a major threat to the Taliban’s ability to govern Afghanistan.
-* Vince Fong and Mike Boudreaux, who advanced to a special election in May, will also face each other in November to fill the former House speaker’s seat for a full, two-year term.
-* A 2013 ruling triggered a slew of laws that attached restrictions to voting.
+* Faculty members in public universities could be disciplined or fired, even those with tenure, if they are found to fall short of the new requirements.
+* To heal after a mass shooting, the Covenant School families have turned to therapy, faith, one another — and a lot of dogs.
+* In government and as an outsider, Kenneth Marcus has tried to douse what he says is rising bias against Jews. Some see a crackdown on pro-Palestinian speech.
+* Autonomous taxis have arrived in the nation’s second most populous city. Some Angelenos aren’t ready to go driverless.
+* Four years later, the shadow of the pandemic continues to play a profound role in voters’ pessimism and distrust amid a presidential rematch.
+* Mr. Angelos, who built a fortune as a class-action lawyer, endeared himself to fans by investing in free agents to bolster the team.
+* Philadelphia had its wettest day ever recorded in March, forecasters said. Hundreds of thousands of residents in several states lost power.
+* At the site of the 2018 school shooting in Florida, the vice president announced federal help for states to limit weapon access for people deemed to be threats.
+* The Barkley Marathons, which features cryptic rules for entry, requires runners to complete 100 miles of rugged terrain in Tennessee under 60 hours.
+* The president signed a $1.2 trillion spending package that passed early on Saturday morning, narrowly avoiding a shutdown.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The social media movement is the latest sign that some of China’s young people are resisting the compulsion to strive.
+* As China’s leaders promote their strategy, other countries worry about manufacturing overcapacity and plans for more exports.
+* A fatal incident off Kinmen, a Taiwanese-controlled island, has become the latest occasion for Beijing to warn and test Taiwan’s president-elect.
+* The militant group violently opposes the Taliban leaders of Afghanistan, where it is based. It is increasingly targeting foreign foes.
+* Islamic State Khorasan, or ISIS-K, previously attacked Russia’s embassy in Kabul and has produced floods of anti-Kremlin propaganda.
 * As an election nears, political strife between Prime Minister Narendra Modi and opposition-held states is straining the federal formula that holds India together.
 * Born to a South Korean mother and a Black American soldier, she rose to a pioneering stardom in a country that has long discriminated against biracial children.
 * The United States is agonizing over the possibility of a ban, but India did it at a stroke. Indians adjusted quickly, and Instagram and YouTube built big audiences.
 * The ancient festival has Hindu roots, but growing numbers worldwide are taking part in the celebration, which features bonfires, singing, dancing, prayer, feasting and clouds of pigmented powder.
 * China has produced a huge number of top A.I. engineers in recent years. New research shows that, by some measures, it has already eclipsed the United States.
-* The country's domestic airlines play a crucial role in connectivity. But for the casual flier, even the journey is captivating.
-* Also, India’s opposition faces troubles and tips for a healthier relationship with your phone.
-* The blast targeted a bank in Kandahar, where Taliban members had gathered to collect their salaries, witnesses said.
-* Weeks before pivotal elections, the head of one party was arrested on what his supporters said were trumped-up charges and another party said it lost access to its funds.
-* Also, sweeping U.S. climate regulations and the “3 Body Problem” on Netflix.
 
 ![Asian](./asian.png)
