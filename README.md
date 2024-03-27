@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* A rift is growing between the Biden administration and Israel after the U.N. Security Council, with the U.S. abstaining, adopted a resolution calling for a cease-fire in Gaza.
+* At least one person died in Israel and seven were reported killed in Lebanon in the latest exchange of fire, which has raised fears of a wider conflict.
+* Amit Soussana is the first former hostage to publicly say she was sexually abused in captivity. A U.N. report has said it found “clear and convincing information” that some hostages suffered “conflict-related sexual violence.”
+* Anti-migrant rhetoric in the aftermath of the attacks at the concert venue outside Moscow has spurred fears that the tragedy could cause ethnic strife inside Russia.
+* The House of Representatives voted overwhelmingly to legalize same-sex marriage. The bill now goes to Thailand’s Senate.
+* After enjoying decades of prosperity, the country has hit stubborn economic turbulence.
 * Videos showing the torture of four men, accused of Russia’s deadliest terror attack in decades, have circulated widely in what analysts call a sign of the Russian state’s growing tolerance for public violence.
+* Conceding that the Islamic State alone carried out the assault on a Moscow concert hall would mean admitting to a security failure, and risk diluting Vladimir Putin’s narrative war with the West.
+* After its first two choices to compete for the presidency against Nicolás Maduro in July’s election were barred from running, the coalition of opposition parties was able to register a third, provisional choice.
 * Immigration is a key issue for voters in the U.S. election, giving Mexico immense power to potentially shape the vote.
-* Online vitriol has targeted the country’s richest man, erasing billions of dollars of his company’s market value, despite Beijing’s courtship of entrepreneurs.
-* Bassirou Diomaye Faye, who turned 44 on Monday, was little known until he received the backing of Ousmane Sonko, Senegal’s most formidable opposition politician. Both men were released from jail only 10 days ago.
-* Kibbutz residents concluded that two sisters killed on Oct. 7 were not victims of sexual violence.
-* The evacuees make up only a tiny fraction of the thousands of civilians, including many children, who have suffered grievous injuries over the course of Israel’s monthslong campaign against Hamas and its bombardment of Gaza.
-* Security-camera footage obtained by The Times shows that Brazil’s former president spent two nights at the Hungarian Embassy in an apparent bid for asylum.
-* The British government believes China has overseen two separate hacking campaigns, including one that yielded information from 40 million voters.
-* But President Vladimir V. Putin of Russia held fast to the idea that a Western-backed Ukraine could have been the ultimate mastermind of the assault that killed 139 people.
+* British judges asked the United States, which wants to try the WikiLeaks founder on espionage charges, for more guarantees about his treatment.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Erin Hawley is best known as the wife of Senator Josh Hawley, but now the spotlight is on her in a Supreme Court case.
-* Larry Householder, already serving a 20-year federal prison sentence, was indicted on additional state felony charges on Monday in connection with a sprawling bribery scheme.
-* More than a year into her term, Mayor Karen Bass has cleared encampments and moved thousands of people into motels. What happens next is unclear.
-* A bill that would add people who don’t hunt to the Vermont Fish and Wildlife Board has stirred an outcry in a state known for both progressive politics and rural traditions.
-* Francis Scott Key was believed to be near the site when he observed a British bombardment during the War of 1812.
-* The ship had spent two days in Baltimore’s port before setting off.
-* Mr. Kennedy, the independent presidential candidate, is expected to announce Ms. Shanahan, a wealthy Silicon Valley lawyer, as his vice-presidential pick on Tuesday in Oakland, Calif.
-* The White House plans to use the 14th anniversary of the Affordable Care Act to draw a contrast with Republicans who have sought to do away with all or parts of the law.
-* The justices’ decision could cut off prescriptions by telemedicine and pills sent by mail, and also have implications for the regulatory authority of the F.D.A.
-* The parties in the fight over access to the abortion pill sharply disagree on whether anti-abortion doctors and groups can show they will suffer harm.
+* Federal investigators search for answers about how a massive cargo ship struck a major bridge minutes after leaving the Port of Baltimore early Tuesday.
+* A year after losing her daughter in the Covenant School shooting, Katy Dieckhaus is speaking about Evelyn, and the changes she wants to see.
+* Nearly a decade after his indictment for securities fraud, Mr. Paxton will pay restitution, take legal ethics classes and do community service as part of an agreement with prosecutors.
+* After decades of financial mismanagement, the nearly 170-year-old private liberal arts school is set to close at the end of May.
+* Questions swirl over the bridge’s collapse after a massive cargo ship slammed into the Francis Scott Key Bridge moments after losing power early on Tuesday.
+* The former superintendent and medical director of the Holyoke Soldiers’ Home in Massachusetts were indicted in 2020 on charges of neglect after many residents became sick and died.
+* The vessels had underpaid crews and kept workers onboard for months beyond their contracts, according to an Australian regulator.
+* An increasing number of states have advanced A.I.-related legislation to combat attempts to mislead voters during the 2024 election, according to a new analysis by the Voting Rights Lab.
+* The bridge, which collapsed on Tuesday, had become an emblem of Baltimore’s identity as a working port city.
+* The six men worked for a company that often maintains bridges operated by the state. They were repairing the bridge’s roadway when it was struck by the ship.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The House of Representatives voted overwhelmingly to legalize same-sex marriage. The bill now goes to Thailand’s Senate.
+* Mr. Musk helped create China’s electric vehicle industry. But he is now facing challenges there as well as scrutiny in the West over his reliance on the country.
+* Tesla and China built a symbiotic relationship, with credits, workers and parts that made Mr. Musk ultrarich. Now, his reliance on the country may give Beijing leverage.
+* Wang Xiaoshuai is among the few Chinese artists who refuse to bend to state limitations on the subjects they explore.
+* After enjoying decades of prosperity, the country has hit stubborn economic turbulence.
+* Plus, Beyoncé’s country album.
+* The crash in Baltimore was at least the second in just over a month in which a container ship hit a major road bridge.
+* The assault comes amid a spate of terror attacks in Pakistan, as the country’s faltering ties to the Taliban affect regional security.
 * The ship had spent two days in Baltimore’s port before setting off.
 * The city’s dry gardens seem timeless, but as these relatively new versions show, their design is still evolving. They offer spots for quiet contemplation in an increasingly overtouristed city.
-* Online vitriol has targeted the country’s richest man, erasing billions of dollars of his company’s market value, despite Beijing’s courtship of entrepreneurs.
-* Also, searching for Iceland’s northern lights.
-* The actions on both sides of the Atlantic, which included sanctions, underscored the escalation of cyberconflict between Western allies and Beijing.
-* The British government believes China has overseen two separate hacking campaigns, including one that yielded information from 40 million voters.
-* Apple has deep ties in the country, its second-largest market. But there are signs that Chinese consumers are becoming a harder sell.
-* Plus, the hotel guest who wouldn’t leave.
-* The social media movement is the latest sign that some of China’s young people are resisting the compulsion to strive.
-* As China’s leaders promote their strategy, other countries worry about manufacturing overcapacity and plans for more exports.
 
 ![Asian](./asian.png)
