@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The aid group, founded by the chef José Andrés, has made bold moves in Gaza, like building a jetty for deliveries by sea. The Israeli military said it was investigating.
-* President Ebrahim Raisi of Iran said on Tuesday the strike, which killed three top commanders, was an “in brazen violation of international law.”
-* Kyiv is aiming to build its own weapons to bring the fight to Russia. But it will take time Ukraine might not have.
-* To lure swiftlets, whose saliva-built nests fetch high prices in China, people in Borneo compete to build them the most luxurious accommodations: safe, clean, dark and with pools for bathing.
+* The killings were “a grave mistake,” the Israeli military chief of staff said in an unusually direct acknowledgment of fault. The strike prompted aid agencies to reassess their operations in Gaza.
 * Al-Shifa Hospital lies in ruins after a battle there between Israeli soldiers and Gazan gunmen. Shortly before withdrawing, the Israeli military brought journalists from The Times to witness the damage.
-* The test, analysts said, may have involved a new intermediate-range hypersonic missile that is faster to launch and more difficult to intercept.
-* The area around Bolzano has a thick network of family support provided by the government. That means a steady birthrate in a country facing a demographic plunge.
-* Adisson Pierre Maalouf, who is from Georgia, was kidnapped two weeks ago by a gang leader after traveling to Haiti.
-* A raft of local election victories by rivals of President Recep Tayyip Erdogan’s governing party could serve as a check on his power.
-* A rare visit to mainland China by Ma Ying-jeou, who’s now in the opposition, is a chance for political messaging on both sides of the Taiwan Strait.
+* The earthquake was the most powerful to hit the island in 25 years. Dozens of people remained trapped, and many buildings were damaged, with the worst centered in the city of Hualien.
+* See scenes from around the island.
+* In competitions like the Premier League, Muslim pros who once faced pressure to avoid daily fasts during the monthlong holiday now benefit from custom diets and in-game breaks.
+* When Britain cut back a planned high-speed rail line, some residents on the route were pleased. They’re less delighted with what happened next.
+* The idea of requiring more men to join the fight against Russia’s invasion has become toxic politically, but Russia is not relenting in its assault.
+* An influx of exiled Russian activists and refugees from Ukraine and Belarus is stirring fears in a country that fought to preserve its language and culture under Soviet occupation.
+* The law, which includes the death penalty as a punishment in some cases, has been strongly condemned, including by the United States.
+* Senegal’s new president, Bassirou Diomaye Faye, took the oath of office in Tuesday’s ceremony. Close behind him sat the popular opposition leader who had clinched the win.
 
 ![Global](./global.png)
 ## New York Times United States News
+* A rush of precipitation lifted the state to its second straight year with above-average snowfall, though Gov. Gavin Newsom warned residents not to grow used to it.
+* While off-the-court drama has raged in the women’s tournament, Clark and Iowa dispatched with their foils from last season en route to the Final Four.
 * Rulings allowing a strict abortion ban, along with a ballot question on expanding abortion access, may inject new life into Democratic campaigns in the state.
-* About 2,000 motorists, mostly tourists, were stuck in the area on Saturday night after a section of Highway 1 fell into the ocean. No injuries were reported.
-* The victims, the history, the void. Residents reflect on their collective pain, and the city’s strength.
-* Tony Thornton looks ahead to years of crowded tunnels and highways with the loss of the Francis Scott Key Bridge.
-* The congressman’s campaign said it had more than $9.6 million cash on hand as it looks toward a fall race against Kari Lake, a Trump ally, who has yet to announce first-quarter fund-raising figures.
-* Kyiv is aiming to build its own weapons to bring the fight to Russia. But it will take time Ukraine might not have.
-* If Col. Matthew S. Fitzgerald meets his goal, the trial would start a quarter century after the terrorist attack that killed 17 U.S. sailors off Yemen.
-* Have you got the Biden-Trump blues?
-* Escaping injury in the Japanese attack on the ship in Pearl Harbor on Dec. 7, 1941, he went on to help in recovering bodies and putting out fires.
-* Even before the skies opened up on children rolling eggs down a soggy South Lawn, the 146-year-old tradition was caught up in the latest partisan storm.
+* A pandemic boom drew people to Colorado and nearby states. But that has meant record-high property tax hikes for many of those already there.
+* The push for a quick decision on one of the former president’s most far-fetched claims is an unusual and risky move in a case Judge Aileen Cannon has allowed to become bogged down.
+* Nikki Haley drew a notable slice of Republican voters in four states, while protest votes against the president over his support for Israel continued.
+* President Biden is restoring resources and staffing for the refugee program, which was gutted during the Trump administration.
+* Wisconsin’s Republican-led Legislature proposed changing the State Constitution to restrict private funding and staffing of election offices.
+* The C.I.A. told Russia that Islamic State terrorists were plotting an attack on Crocus City Hall, a concert venue.
+* Two rulings on abortion by the Florida Supreme Court shook up the race in Donald Trump’s home state and present a potential new vulnerability for his campaign.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The magnitude-7.4 quake was followed by over 100 aftershocks. Dozens of people were trapped. Two buildings in the city of Hualien teetered perilously.
+* The quake set off aftershocks and damaged dozens of buildings, killing nine people and leaving many injured or trapped.
+* The area, known for a famous gorge and aquamarine waters, sits on several active faults.
+* See scenes from around the island.
+* Rescue efforts in the city were centered on two buildings, one of which appeared near collapse. Some roads to the region were cut off.
+* Earthquakes of similar intensity to the one that hit the island on Wednesday have caused large-scale death and destruction.
+* Han Dong, a member of Parliament who is accused of benefiting from the Chinese government’s help, testified at a public hearing on foreign interference.
+* Plus, President Biden talked to Xi Jinping.
+* President Biden aimed to keep relations stable in a call with Xi Jinping of China, but also raised concerns over Beijing’s activities around Taiwan, the South China Sea and Russia.
 * No memes or spontaneity to see here, people. Just the usual official pictures of Emperor Naruhito and his family.
-* To lure swiftlets, whose saliva-built nests fetch high prices in China, people in Borneo compete to build them the most luxurious accommodations: safe, clean, dark and with pools for bathing.
-* The test, analysts said, may have involved a new intermediate-range hypersonic missile that is faster to launch and more difficult to intercept.
-* Also, the U.S. could vote on aid to Ukraine in the coming weeks.
-* Lin Qi, a billionaire who helped produce the science-fiction hit, was poisoned to death by a disgruntled executive. His attacker now faces the death penalty.
-* While some viewers lamented the movie’s exclusion of scenes from Hiroshima or Nagasaki, others said they recognized that it had another story to tell.
-* As Prime Minister Narendra Modi seeks a third term, India’s growth has received the attention of the world’s investors but inequality has deepened.
-* Narendra Modi has kept India on its swift upward path among the world’s largest economies. Many Indians are better off, though wealth gaps have widened.
-* A rare visit to mainland China by Ma Ying-jeou, who’s now in the opposition, is a chance for political messaging on both sides of the Taiwan Strait.
-* Plus, the new end-of-the-world fiction.
 
 ![Asian](./asian.png)
