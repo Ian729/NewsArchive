@@ -2,33 +2,35 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The killings were “a grave mistake,” the Israeli military chief of staff said in an unusually direct acknowledgment of fault. The strike prompted aid agencies to reassess their operations in Gaza.
-* Al-Shifa Hospital lies in ruins after a battle there between Israeli soldiers and Gazan gunmen. Shortly before withdrawing, the Israeli military brought journalists from The Times to witness the damage.
-* The earthquake was the most powerful to hit the island in 25 years. Dozens of people remained trapped, and many buildings were damaged, with the worst centered in the city of Hualien.
-* See scenes from around the island.
-* In competitions like the Premier League, Muslim pros who once faced pressure to avoid daily fasts during the monthlong holiday now benefit from custom diets and in-game breaks.
-* When Britain cut back a planned high-speed rail line, some residents on the route were pleased. They’re less delighted with what happened next.
-* The idea of requiring more men to join the fight against Russia’s invasion has become toxic politically, but Russia is not relenting in its assault.
-* An influx of exiled Russian activists and refugees from Ukraine and Belarus is stirring fears in a country that fought to preserve its language and culture under Soviet occupation.
-* The law, which includes the death penalty as a punishment in some cases, has been strongly condemned, including by the United States.
-* Senegal’s new president, Bassirou Diomaye Faye, took the oath of office in Tuesday’s ceremony. Close behind him sat the popular opposition leader who had clinched the win.
+* President Biden’s anger grew this week after Israel’s military killed aid workers in a strike. But it remains unclear what policy changes the United States will make, if any.
+* In an airstrike on Monday in Damascus, Israel’s military displayed pinpoint precision. Hours later in Gaza, that same military killed seven aid workers.
+* The magnitude-7.4 quake was followed by more than 200 aftershocks. Dozens of people were trapped. Two buildings in the city of Hualien teetered perilously.
+* The main suspects in a deadly assault near Moscow were from Tajikistan. Now many other Tajiks, who fill jobs in Russia’s wartime economy, are being deported and harassed.
+* Bologna is looking to Pisa, home of the most famous leaning tower, for help keeping its own tipping tower upright.
+* Political crisis has embroiled Panama’s May 5 presidential election, exacerbating uncertainty in a country dealing with drought and fallout from widespread protests.
+* Thousands of interns and residents who stopped working in February are testing the public’s high regard for physicians. But there is also anger at the government.
+* The deaths of World Central Kitchen workers pushed the number of aid employees killed during the war in Gaza to at least 196, according to the U.N. secretary general, António Guterres.
+* Lawmakers testified at a public hearing on foreign interference that they had been caught in China’s cross hairs after criticizing it over human rights.
+* The legal problems of Nosiviwe Mapisa-Nqakula expose the governing African National Congress to one of its biggest weaknesses — corruption allegations — before a crucial national election.
 
 ![Global](./global.png)
 ## New York Times United States News
-* A rush of precipitation lifted the state to its second straight year with above-average snowfall, though Gov. Gavin Newsom warned residents not to grow used to it.
-* While off-the-court drama has raged in the women’s tournament, Clark and Iowa dispatched with their foils from last season en route to the Final Four.
-* Rulings allowing a strict abortion ban, along with a ballot question on expanding abortion access, may inject new life into Democratic campaigns in the state.
-* A pandemic boom drew people to Colorado and nearby states. But that has meant record-high property tax hikes for many of those already there.
-* The push for a quick decision on one of the former president’s most far-fetched claims is an unusual and risky move in a case Judge Aileen Cannon has allowed to become bogged down.
-* Nikki Haley drew a notable slice of Republican voters in four states, while protest votes against the president over his support for Israel continued.
-* President Biden is restoring resources and staffing for the refugee program, which was gutted during the Trump administration.
-* Wisconsin’s Republican-led Legislature proposed changing the State Constitution to restrict private funding and staffing of election offices.
-* The C.I.A. told Russia that Islamic State terrorists were plotting an attack on Crocus City Hall, a concert venue.
-* Two rulings on abortion by the Florida Supreme Court shook up the race in Donald Trump’s home state and present a potential new vulnerability for his campaign.
+* Officials are advising people to leave one of the nation’s most scenic coastal stretches before rain washes away more of Highway 1.
+* Brian Dorsey, who pleaded guilty to murder in the 2006 killings of Sarah and Ben Bonnie, is scheduled to be executed on Tuesday unless Missouri’s governor or the courts step in.
+* A surge of new residents into Rocky Mountain states drove up home prices. The result was property tax increases of 40 percent or more for some of those already there.
+* The hospital cited a “lack of clarity” in recent state legislation meant to shield I.V.F. providers as a factor in its decision. A separate fertility clinic at the site said it would relocate.
+* Congress has oversight over American weapons sales to allies. Some Democrats say lawmakers should try to delay or even block them until Israel agrees to conditions on its offensive in Gaza.
+* Students at Duke and U.N.C., both basketball powerhouses, have long labeled North Carolina State their “little brother.” But little brother — and sister — are off to the Final Four.
+* When the total solar eclipse happens on Monday, pets, farm and zoo animals might act strange. Researchers can’t wait to see what happens when day quickly turns to night.
+* President Biden and former President Donald J. Trump are the oldest people ever to seek the presidency, challenging norms about what the public should know about candidates’ health.
+* It is not clear what the former president discussed with Prince Mohammed bin Salman, but news of their call came amid Biden administration negotiations with the Saudis over a Middle East peace plan.
+* The arrest marked at least the second time in the last year that National Guard members in Texas had been caught trying to transport migrants from the border.
 
 ![US](./usnews.png)
 ## New York Times Asia News
-* The magnitude-7.4 quake was followed by over 100 aftershocks. Dozens of people were trapped. Two buildings in the city of Hualien teetered perilously.
+* Thousands of interns and residents who stopped working in February are testing the public’s high regard for physicians. But there is also anger at the government.
+* Also, dozens remain trapped after the earthquake in Taiwan.
+* The magnitude-7.4 quake was followed by more than 200 aftershocks. Dozens of people were trapped. Two buildings in the city of Hualien teetered perilously.
 * The quake set off aftershocks and damaged dozens of buildings, killing nine people and leaving many injured or trapped.
 * The area, known for a famous gorge and aquamarine waters, sits on several active faults.
 * See scenes from around the island.
@@ -36,7 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * Earthquakes of similar intensity to the one that hit the island on Wednesday have caused large-scale death and destruction.
 * Han Dong, a member of Parliament who is accused of benefiting from the Chinese government’s help, testified at a public hearing on foreign interference.
 * Plus, President Biden talked to Xi Jinping.
-* President Biden aimed to keep relations stable in a call with Xi Jinping of China, but also raised concerns over Beijing’s activities around Taiwan, the South China Sea and Russia.
-* No memes or spontaneity to see here, people. Just the usual official pictures of Emperor Naruhito and his family.
 
 ![Asian](./asian.png)
