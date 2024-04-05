@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* President Biden’s anger grew this week after Israel’s military killed aid workers in a strike. But it remains unclear what policy changes the United States will make, if any.
+* After Israel said it would open two new aid routes, the American secretary of state said that the United States was “looking to see” if Israel prioritizes getting more food aid into Gaza.
+* Despite growing pressure from President Biden, the Israeli prime minister appears in no rush to end the war in Gaza. Some think he has political reasons for extending the stasis.
+* What few munitions remain are often mismatched with battlefield needs as the country’s forces gird for an expected Russian offensive this summer.
+* Her movies try to explain why Japan is the way it is, showing both the upsides and downsides of the country’s commonplace practices. Her latest film focuses on an elementary school.
+* The New York Times interviewed more than 70 people who said they had been victims of armed robbery. Fourteen were women who said they had suffered sexual violence.
+* Jaish al-Adl, an ethnic Baluch group designated by the United States as a terrorist organization, claimed responsibility for the attacks.
 * In an airstrike on Monday in Damascus, Israel’s military displayed pinpoint precision. Hours later in Gaza, that same military killed seven aid workers.
-* The magnitude-7.4 quake was followed by more than 200 aftershocks. Dozens of people were trapped. Two buildings in the city of Hualien teetered perilously.
+* Admitting Kyiv is a nonstarter as long as the war with Russia is raging. But the member nations want to show they are supporting Ukraine “for the long haul.”
 * The main suspects in a deadly assault near Moscow were from Tajikistan. Now many other Tajiks, who fill jobs in Russia’s wartime economy, are being deported and harassed.
-* Bologna is looking to Pisa, home of the most famous leaning tower, for help keeping its own tipping tower upright.
-* Political crisis has embroiled Panama’s May 5 presidential election, exacerbating uncertainty in a country dealing with drought and fallout from widespread protests.
-* Thousands of interns and residents who stopped working in February are testing the public’s high regard for physicians. But there is also anger at the government.
-* The deaths of World Central Kitchen workers pushed the number of aid employees killed during the war in Gaza to at least 196, according to the U.N. secretary general, António Guterres.
-* Lawmakers testified at a public hearing on foreign interference that they had been caught in China’s cross hairs after criticizing it over human rights.
-* The legal problems of Nosiviwe Mapisa-Nqakula expose the governing African National Congress to one of its biggest weaknesses — corruption allegations — before a crucial national election.
+* Decades of learning from disasters, tightening building codes and increasing public awareness may have helped its people better weather strong quakes.
 
 ![Global](./global.png)
 ## New York Times United States News
+* The contest has been dominated by Mayor London Breed and her moderate challengers. Supervisor Aaron Peskin seeks to change that.
+* Dr. Levin faces the challenge of guiding the university through politically fraught times.
 * Officials are advising people to leave one of the nation’s most scenic coastal stretches before rain washes away more of Highway 1.
-* Brian Dorsey, who pleaded guilty to murder in the 2006 killings of Sarah and Ben Bonnie, is scheduled to be executed on Tuesday unless Missouri’s governor or the courts step in.
-* A surge of new residents into Rocky Mountain states drove up home prices. The result was property tax increases of 40 percent or more for some of those already there.
-* The hospital cited a “lack of clarity” in recent state legislation meant to shield I.V.F. providers as a factor in its decision. A separate fertility clinic at the site said it would relocate.
-* Congress has oversight over American weapons sales to allies. Some Democrats say lawmakers should try to delay or even block them until Israel agrees to conditions on its offensive in Gaza.
-* Students at Duke and U.N.C., both basketball powerhouses, have long labeled North Carolina State their “little brother.” But little brother — and sister — are off to the Final Four.
-* When the total solar eclipse happens on Monday, pets, farm and zoo animals might act strange. Researchers can’t wait to see what happens when day quickly turns to night.
-* President Biden and former President Donald J. Trump are the oldest people ever to seek the presidency, challenging norms about what the public should know about candidates’ health.
-* It is not clear what the former president discussed with Prince Mohammed bin Salman, but news of their call came amid Biden administration negotiations with the Saudis over a Middle East peace plan.
-* The arrest marked at least the second time in the last year that National Guard members in Texas had been caught trying to transport migrants from the border.
+* When the total solar eclipse happens on Monday, animals at homes, farms and zoos may act strangely. Researchers can’t wait to see what happens when day quickly turns to night.
+* A nor’easter that dumped more than a foot of snow across the region, causing blackouts and flight cancellations, is expected to weaken on Friday, the National Weather Service said.
+* The president plans to take an aerial tour, receive briefings on the response and meet with the families of victims. It is unclear if he will announce additional aid.
+* The Army Corps of Engineers plans to reopen the channel at full capacity by late May, as officials scramble to resume operations at one of the nation’s busiest ports.
+* In remarks at an award ceremony, Chief Justice John G. Roberts Jr. described his colleague as a trailblazing and civic-minded presence on the Supreme Court.
+* In an email urging the United States to drop espionage charges against Julian Assange, the Kennedy campaign grouped the WikiLeaks founder with Edward Snowden and “J6 activists” in a D.C. jail.
+* The judge in the documents case rejected for now Donald Trump’s central argument to escape prosecution.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Her movies try to explain why Japan is the way it is, showing both the upsides and downsides of the country’s commonplace practices. Her latest film focuses on an elementary school.
+* Citing a rapidly aging society, difficult job market and uncertainty about the future, some young people are rejecting the idea of saving for old age.
+* Also, the rise of “carefluencers.”
+* A study found that when farsighted workers in Bangladesh were given free reading glasses, they earned 33 percent more than those who had not.
+* Decades of learning from disasters, tightening building codes and increasing public awareness may have helped its people better weather strong quakes.
 * Thousands of interns and residents who stopped working in February are testing the public’s high regard for physicians. But there is also anger at the government.
 * Also, dozens remain trapped after the earthquake in Taiwan.
 * The magnitude-7.4 quake was followed by more than 200 aftershocks. Dozens of people were trapped. Two buildings in the city of Hualien teetered perilously.
 * The quake set off aftershocks and damaged dozens of buildings, killing nine people and leaving many injured or trapped.
 * The area, known for a famous gorge and aquamarine waters, sits on several active faults.
-* See scenes from around the island.
-* Rescue efforts in the city were centered on two buildings, one of which appeared near collapse. Some roads to the region were cut off.
-* Earthquakes of similar intensity to the one that hit the island on Wednesday have caused large-scale death and destruction.
-* Han Dong, a member of Parliament who is accused of benefiting from the Chinese government’s help, testified at a public hearing on foreign interference.
-* Plus, President Biden talked to Xi Jinping.
 
 ![Asian](./asian.png)
