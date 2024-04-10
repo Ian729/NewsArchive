@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Cease-fire talks are sputtering and widespread hunger persists, even as the pace of the Israel-Hamas war slows.
-* Serhii Haidarzhy’s wife and son were killed when their apartment block was hit. He and their daughter survived. The tragedy has become a symbol in Ukraine of the war’s terrible toll on civilians.
-* But the court ruled as inadmissible two other climate-related attempts to hold governments accountable.
-* After a swift political rise, the 37-year-old is set to become Ireland’s premier on Tuesday. But his time as head of the government could be short.
-* A bill introduced by the Canadian government to safeguard against online harms has stirred opposition from free speech advocates.
-* As war beat a path through southern and eastern Ukraine, most of the population fled. But other residents have hunkered down, unable — or unwilling — to leave.
-* The watchdog agency did not attribute blame, but its head said the strikes at the Zaporizhzhia Nuclear Power Plant “significantly increase the risk of a major nuclear accident.”
-* Some of the victims were en route to a fair and others were fleeing for fear of being affected by a cholera outbreak, a local official said.
-* The Central African country is marking the anniversary of a monthslong rampage by militiamen that killed some 800,000 people.
-* The document restated the Roman Catholic Church’s rejection of abortion, gender fluidity and transition surgery.
+* Gazans say there is little to celebrate as Eid al-Fitr begins on Wednesday. Six months into the war, famine looms as Israel’s offensive continues.
+* The killing of foreign aid workers from World Central Kitchen brought international outrage. The death of their Palestinian driver drew less attention.
+* China is using talks between its top leader and Ma Ying-jeou to signal a willingness to engage with Taiwan — but only on its terms.
+* When Paris F.C. made its tickets free, it began an experiment into the connection between fans and teams, and posed a question about the value of big crowds to televised sports.
+* The vote Wednesday is a big test for President Yoon Suk Yeol, who has forged closer ties with the United States and Japan but whose domestic agenda has stalled.
+* Serhii Haidarzhy’s wife and son were killed when their apartment building was hit. He and their daughter survived. The tragedy has become a symbol in Ukraine of the war’s terrible toll on civilians.
+* The visit came days after the U.S. threatened new sanctions against Chinese companies if they aided Russia’s war in Ukraine.
+* Experts said it was the first time an international court determined that governments were legally obligated to meet their climate targets under human rights law.
+* David Cameron, the British foreign secretary, said he spoke with Donald Trump, the former, and possibly future, president, about Ukraine and the Israel-Gaza conflict.
+* The covert operation, described by U.S., Iranian and Israeli officials, is heightening concerns that Iran is seeking to turn the West Bank into a flashpoint in its shadow war with Israel.
 
 ![Global](./global.png)
 ## New York Times United States News
+* The state’s highest court said the law, moribund for decades under Roe v. Wade, was now enforceable, but it put its decision on hold for a lower court to hear other challenges to the law.
+* Jennifer and James Crumbley, whose son killed four people, each faced up to 15 years in prison for involuntary manslaughter convictions.
 * The winner of the most hallowed event in professional golf gets to design the menu (and pay) for the next year’s champions dinner. Jon Rahm, the 2023 winner, supplied a recipe from his grandmother.
-* Though the Florida Supreme Court allowed a ballot question on expanding abortion rights, it also laid out a way for anti-abortion groups to challenge such an expansion.
-* Jennifer and James Crumbley, whose son killed four people, each face up to 15 years in prison. In memos last week, prosecutors revealed that they had asked for leniency.
-* Dozens of correctional workers urged Gov. Mike Parson to commute the death sentence of Brian Dorsey, who pleaded guilty in the murders of Ben and Sarah Bonnie.
-* In a letter to Republicans, the far-right lawmaker from Georgia said the speaker had presided over a “complete and total surrender” to Democrats and President Biden, and must change course or be unseated.
-* Jared Kushner’s Affinity Partners has invested more than $1.2 billion, much of it in firms abroad, drawing new scrutiny as his father-in-law, Donald Trump, again seeks the presidency.
-* With his video statement on Monday, Donald Trump laid bare how faulty a messenger he had always been for the anti-abortion cause.
-* The filing was the main submission from Jack Smith, the special counsel prosecuting the former president. The case will be argued on April 25.
-* The proposal would affect nearly 30 million people and would target groups that have had hardships in repaying their loans.
-* An enthusiasm gap among young voters and anger on campuses over Gaza has some Democrats wary.
+* Dr. Bob Ross cares for the aging residents of Ortonville, Minn, even as he wonders whether he, and the presidential candidates, are up to all their tasks.
+* President Biden is hosting Japan’s prime minister, Fumio Kishida, for a state visit as part of a broad diplomatic outreach.
+* The more candidates in the race, the better for Donald J. Trump, supporters say. And in a tight presidential contest, a small share of voters could change the result.
+* Stormy weather was moving east on Wednesday, putting millions of people across Louisiana and Mississippi under risk of severe thunderstorms.
+* If a regulatory body approves, a nearly 8 percent rise in postage will take effect in July. It would be the latest of several price hikes since 2021.
+* Some in the battleground state said they would still vote for former President Donald J. Trump even if they were frustrated by the reversal of abortion rights.
+* An elevated California roll and steak with sesame sabayon will be among the dishes presented to Prime Minister Fumio Kishida of Japan at the state dinner on Wednesday.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The 8-year-old rescue dog, who was once deemed too friendly to sniff out drugs, found the body of the earthquake’s 13th victim.
+* Intelligence reports released during hearings on Canada’s elections in 2019 and 2021 describe China’s meddling as “sophisticated, pervasive, persistent.’’
+* China is using talks between its top leader and Ma Ying-jeou to signal a willingness to engage with Taiwan — but only on its terms.
+* The deal between the gaming company Blizzard, now owned by Microsoft, and the Chinese giant NetEase renews a partnership that lapsed more than a year ago.
+* The vote Wednesday is a big test for President Yoon Suk Yeol, who has forged closer ties with the United States and Japan but whose domestic agenda has stalled.
+* Also, a landmark climate ruling in Europe.
+* Some Muslim communities rely on a centuries-old method to determine when Ramadan ends: a crescent moon. That method was harder to follow this year.
+* The president’s efforts to restrict Chinese imports and block a Japanese steel merger have pleased labor unions and sent a message to rival Donald J. Trump.
+* The visit came days after the U.S. threatened new sanctions against Chinese companies if they aided Russia’s war in Ukraine.
 * Taiwan’s semiconductor giant, TSMC, is quickly remaking a farm town in Japan into Asia’s next hub of chip manufacturing with enormous government support.
-* Also, the Vatican said gender changes amount to an affront.
-* One of the Army’s most highly decorated servicemen, he received the military’s supreme tribute for valor, for his actions in the Korean War — 71 years after the fact.
-* Treasury Secretary Janet L. Yellen was warmly received in China, but it was evident that the level of trust between the two sides does not run deep.
-* The Netflix series showcases one of the country’s most successful works of culture. Instead of demonstrating pride, social media is condemning it.
-* Also, Mexico and Nicaragua severed diplomatic relations with Ecuador.
-* Hovering over a state visit to Washington is the possibility of a swing in American foreign policy if Donald Trump returns to the White House.
-* A single photo captures a moment of setback for families who had tried for a better life.
-* This week’s parliamentary elections are widely seen as a referendum on both President Yoon Suk Yeol and his archrival, Lee Jae-myung, the opposition leader.
-* Beijing’s economic policies threaten American workers, Treasury Secretary Janet L. Yellen told Vice Premier He Lifeng in the southern city of Guangzhou.
 
 ![Asian](./asian.png)
