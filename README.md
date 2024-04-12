@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Samantha Power, the head of the U.S. Agency for International Development, is the first American official to classify the extreme hunger in parts of Gaza as a famine.
-* The killing of foreign aid workers from World Central Kitchen brought international outrage. The death of their Palestinian driver drew less attention.
-* The legislature approved a law aimed at replenishing depleted Ukrainian forces, which are under unrelenting pressure from Russian assaults.
-* Reporters from The New York Times spoke to men who could be affected by the change.
-* Ecuador’s raid of Mexico’s embassy shows how foreign policy is often driven by personal politics, not national interest.
-* The WikiLeaks founder has been held in London as he has battled extradition to the United States on charges related to his publication of classified documents.
-* The 81-year-old former leader has been cleared to appear on the ballot as an opposition candidate in May’s parliamentary election. Unless the decision is reversed, he could become a kingmaker — or even president once again.
-* Thousands of Israelis were using mind-altering substances when Hamas-led fighters attacked a desert festival on Oct. 7. Now, scientists are studying the ravers to determine the effects of such drugs at a moment of extreme trauma.
-* Emergency workers were searching for four other workers who were missing after the blast in northern Italy, which has galvanized unions in the region.
-* The country, along with India, is still building power stations that run on coal. Elsewhere, retirements of older plants have slowed.
+* U.S. officials have said they are bracing for a response to an Israeli strike in Syria this month that killed several senior Iranian commanders.
+* As the death toll in Gaza climbed, the pro-Palestinian movement grew into a powerful, if disjointed, political force in the United States. Democrats are feeling the pressure.
+* Coffee shops and kiosks are everywhere in Ukraine’s capital, their popularity both an act of wartime defiance and a symbol of closer ties to the rest of Europe.
+* China seeks to project military power in the seas around its coastline, yet also faces pressure to mend relations with neighbors for the good of its economy.
+* Karim Bouamrane, the Socialist mayor of St.-Ouen, a Paris suburb that will host the athletes’ village for the 2024 Games, is leading a rapid transformation of the long-struggling city.
+* The fall of Myawaddy, on the Thai border, was one of the most significant gains by resistance forces since a 2021 military coup.
+* The legislature approved a law to replenish Ukrainian forces. Lawmakers said the bill included incentives for volunteers and new penalties for those trying to evade conscription.
+* President Yoon Suk Yeol, a key U.S. ally, faces the prospect of becoming a lame duck unless he starts negotiating with the opposition.
+* Truong My Lan received the death penalty as Vietnam’s Communist Party cracks down on corruption in the fast-growing Southeast Asian economic hub.
+* A frescoed dining room is the latest find in an excavation campaign to shore up an area of the site, which was destroyed by a powerful volcanic eruption, and better preserve it.
 
 ![Global](./global.png)
 ## New York Times United States News
-* A quest to find living descendants of 36 enslaved people has transformed into a project that gives Black residents new clues to their ancestry, wherever it may lead.
+* From the car chase to the verdict, the murder case became an inextricable part of Los Angeles history in the 1990s, and Angelenos to this day still ponder what happened.
+* The universities are the latest highly selective schools to end their policies that made submitting SAT or ACT scores optional.
+* Fani T. Willis, the district attorney of Fulton County, Ga., had been disqualified from pursuing the case against Lt. Gov. Burt Jones, but another prosecutor said he would now take it over.
 * Arizona’s former governor, Doug Ducey, expanded the court to seven justices. All solid conservatives, they upheld a 160-year-old abortion ban that presents a political risk to Republicans.
-* Democrats in both houses of the Legislature were blocked from advancing bills to roll back the reinstated ban on nearly all abortions in the state.
-* A Virginia grand jury found that the administrator had not acted on reports from staff members that the 6-year-old had brought a firearm to Richneck Elementary.
-* In two races in Maryland and Virginia, candidates are turning political fame into campaigns, and a Pennsylvania race is focused on a congressman’s role in Trump’s efforts to overturn his 2020 loss.
-* President Biden has invited the leaders of Japan and the Philippines to the White House, where they will discuss security in the South China Sea.
-* The new rule, which is likely to face legal challenges, is an attempt to regulate a fast-growing shadow market of weapons that has fueled gun violence.
-* The event’s musical guest, Paul Simon, even learned a little Japanese for the occasion.
-* The federal judge threw out the city’s voting map, rejecting the rationale that city commissioners have used for more than 20 years.
-* Rosie the Riveters, American women who filled a crucial labor shortage during World War II and reshaped the work force, were honored at the Capitol.
+* Chicago police officers stopped Dexter Reed, Jr., last month and fired 96 shots after he fired first and wounded an officer, investigators said.
+* Some, like Marcia Clark and Mark Fuhrman, gained fame in other arenas. Others lived quieter lives.
+* In a letter, a dozen groups and labor unions called on the president to enforce a law that bars military support from going to any nation that restricts the delivery of humanitarian aid.
+* The vice president is set to lean into a partywide attack on Donald Trump and fellow Republicans, who are newly on the defensive over the issue.
+* The vice president’s official residence is in a quiet Washington enclave once home to 34 enslaved people. Ms. Harris has not spoken of the matter publicly.
+* Welcome to the new “Office of Access and Engagement.” Schools are renaming departments and job titles to try to preserve diversity programs.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The fall of Myawaddy, on the Thai border, was one of the most significant gains by resistance forces since a 2021 military coup.
+* China seeks to project military power in the seas around its coastline, yet also faces pressure to mend relations with neighbors for the good of its economy.
+* Also, O.J. Simpson died at 76.
+* American rescuers found the lost sailors on a tiny uninhabited island in Micronesia with a damaged boat and the word spelled out on the beach.
+* Truong My Lan received the death penalty as Vietnam’s Communist Party cracks down on corruption in the fast-growing Southeast Asian economic hub.
 * President Yoon Suk Yeol, a key U.S. ally, faces the prospect of becoming a lame duck unless he starts negotiating with the opposition.
-* President Biden has invited the leaders of Japan and the Philippines to the White House, where they will discuss security in the South China Sea.
+* President Biden discussed security in the South China Sea with the leaders of Japan and the Philippines at the White House.
 * Born in Hawaii, he moved to Japan in 1988 and won 11 grand championships. His success drove a resurgence in the sport’s popularity.
 * Hasan Minhaj and Ramy Youssef joined hundreds of Muslims dressed to the nines at a morning prayer gathering in New York for the Eid al-Fitr holiday.
 * Also, South Korean exit polls suggest a defeat for the president’s party.
-* The trees will replace 140 that will be torn up as part of a restoration project. The capital’s first Japanese cherry trees were a gift from the mayor of Tokyo in 1912.
-* A representative of Reporters Without Borders was attempting to monitor the national security trial of a media tycoon, Jimmy Lai.
-* The request by NewJeans is the latest effort by the K-pop industry in its struggle to stem rumors on platforms based outside South Korea.
-* The 8-year-old rescue dog, who was once deemed too friendly to sniff out drugs, found the body of the earthquake’s 13th victim.
-* Prime Minister Justin Trudeau testified that past elections had been “free and fair,” but intelligence reports said meddling by China was “sophisticated” and “pervasive.”
 
 ![Asian](./asian.png)
