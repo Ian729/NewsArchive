@@ -2,32 +2,34 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* U.S. officials have said they are bracing for a response to an Israeli strike in Syria this month that killed several senior Iranian commanders.
-* As the death toll in Gaza climbed, the pro-Palestinian movement grew into a powerful, if disjointed, political force in the United States. Democrats are feeling the pressure.
+* The attacker was shot and killed by a lone police officer who was directed into the mall by people fleeing the scene at Bondi Junction, a major commercial area in eastern Sydney.
+* With Russia seizing the initiative on the battlefield in recent months, Ukraine’s ability to defend itself hinges on replenishing its arsenal of weaponry and mobilizing troops.
+* In Bogotá, a city with more than 1.1 million bicycles and a strong riding culture, a number of high-profile crimes have rattled cyclists.
+* In anticipation of the Iranian strikes, several countries, including the United States, issued new guidelines to their citizens about travel in Israel and the surrounding region.
+* The possibility of a direct military confrontation between Iran and Israel has brought renewed attention to Iran’s armed forces. What are they capable of?
+* Like the kiwi fruit, the feijoa, or pineapple guava, is not native to the island nation, but it has become something of a national obsession.
+* Bayer Leverkusen can win its first Bundesliga title this weekend. For its rivals, the real joy comes in seeing Bayern Munich lose it.
+* A governing council was finalized after a month of negotiations. It is tasked with restoring law and order by appointing an acting prime minister.
 * Coffee shops and kiosks are everywhere in Ukraine’s capital, their popularity both an act of wartime defiance and a symbol of closer ties to the rest of Europe.
 * China seeks to project military power in the seas around its coastline, yet also faces pressure to mend relations with neighbors for the good of its economy.
-* Karim Bouamrane, the Socialist mayor of St.-Ouen, a Paris suburb that will host the athletes’ village for the 2024 Games, is leading a rapid transformation of the long-struggling city.
-* The fall of Myawaddy, on the Thai border, was one of the most significant gains by resistance forces since a 2021 military coup.
-* The legislature approved a law to replenish Ukrainian forces. Lawmakers said the bill included incentives for volunteers and new penalties for those trying to evade conscription.
-* President Yoon Suk Yeol, a key U.S. ally, faces the prospect of becoming a lame duck unless he starts negotiating with the opposition.
-* Truong My Lan received the death penalty as Vietnam’s Communist Party cracks down on corruption in the fast-growing Southeast Asian economic hub.
-* A frescoed dining room is the latest find in an excavation campaign to shore up an area of the site, which was destroyed by a powerful volcanic eruption, and better preserve it.
 
 ![Global](./global.png)
 ## New York Times United States News
-* From the car chase to the verdict, the murder case became an inextricable part of Los Angeles history in the 1990s, and Angelenos to this day still ponder what happened.
-* The universities are the latest highly selective schools to end their policies that made submitting SAT or ACT scores optional.
-* Fani T. Willis, the district attorney of Fulton County, Ga., had been disqualified from pursuing the case against Lt. Gov. Burt Jones, but another prosecutor said he would now take it over.
-* Arizona’s former governor, Doug Ducey, expanded the court to seven justices. All solid conservatives, they upheld a 160-year-old abortion ban that presents a political risk to Republicans.
-* Chicago police officers stopped Dexter Reed, Jr., last month and fired 96 shots after he fired first and wounded an officer, investigators said.
-* Some, like Marcia Clark and Mark Fuhrman, gained fame in other arenas. Others lived quieter lives.
-* In a letter, a dozen groups and labor unions called on the president to enforce a law that bars military support from going to any nation that restricts the delivery of humanitarian aid.
-* The vice president is set to lean into a partywide attack on Donald Trump and fellow Republicans, who are newly on the defensive over the issue.
-* The vice president’s official residence is in a quiet Washington enclave once home to 34 enslaved people. Ms. Harris has not spoken of the matter publicly.
-* Welcome to the new “Office of Access and Engagement.” Schools are renaming departments and job titles to try to preserve diversity programs.
+* Dr. Bob Ross cares for the aging residents of Ortonville, Minn, even as he wonders whether he, and the presidential candidates, are up to all their tasks.
+* His acquittal in the infamous trial involving Nicole Brown Simpson’s death prompted powerful backlash that helped change the perception around domestic violence.
+* Augusta National Golf Club has long forbidden cellphones for almost anyone at its hallowed tournament, but patrons delight in making free calls the old-school way.
+* Across the country, fractures are emerging among conservative and centrist women, as they confront a steady drumbeat of new abortion restrictions and court rulings.
+* The president’s popularity has ticked up slightly, though voters still view Donald J. Trump more favorably and have dour views of the economy.
+* The New York Times/Siena College Poll has earned a reputation for accuracy and transparency. But as with any poll, there are limits to just how much you can derive.
+* The barges, some carrying coal, floated miles downstream and damaged a marina as a flood warning was active in Allegheny County.
+* Prosecutors said Keith Berman falsely claimed he had invented a blood test that could detect Covid-19 in 15 seconds. His lawyer said he had put “genuine effort” into developing such a test.
+* Judge Maryellen Noreika declined to dismiss the charges against the president’s son, saying Mr. Biden’s lawyer failed to show prosecutors had been motivated by animus.
+* The Republican speaker has weighed bringing up a $95 billion Senate-passed bill to aid Ukraine and Israel in tandem with a separate package geared toward mollifying G.O.P. critics.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* As Narendra Modi seeks a third term as prime minister, India’s rupture with China looms over a pillar of his campaign: making his country a major power.
+* Like the kiwi fruit, the feijoa, or pineapple guava, is not native to the island nation, but it has become something of a national obsession.
 * The fall of Myawaddy, on the Thai border, was one of the most significant gains by resistance forces since a 2021 military coup.
 * China seeks to project military power in the seas around its coastline, yet also faces pressure to mend relations with neighbors for the good of its economy.
 * Also, O.J. Simpson died at 76.
@@ -36,7 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * President Yoon Suk Yeol, a key U.S. ally, faces the prospect of becoming a lame duck unless he starts negotiating with the opposition.
 * President Biden discussed security in the South China Sea with the leaders of Japan and the Philippines at the White House.
 * Born in Hawaii, he moved to Japan in 1988 and won 11 grand championships. His success drove a resurgence in the sport’s popularity.
-* Hasan Minhaj and Ramy Youssef joined hundreds of Muslims dressed to the nines at a morning prayer gathering in New York for the Eid al-Fitr holiday.
-* Also, South Korean exit polls suggest a defeat for the president’s party.
 
 ![Asian](./asian.png)
