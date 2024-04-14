@@ -2,32 +2,34 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The attacker was shot and killed by a lone police officer who was directed into the mall by people fleeing the scene at Bondi Junction, a major commercial area in eastern Sydney.
+* As Israeli leaders weighed a response to the aerial assault by Iran and its allies, Tehran said it would not strike further unless attacked. Nearly all the Iranian missiles and drones were intercepted, including by U.S. forces.
+* The police have yet to determine a motive for Saturday’s attack, which left six people dead, but said the assailant had mental-health problems.
+* Their capture set off a global campaign to “Bring Back Our Girls.” But many are still missing, and kidnappings in Nigeria have proliferated.
 * With Russia seizing the initiative on the battlefield in recent months, Ukraine’s ability to defend itself hinges on replenishing its arsenal of weaponry and mobilizing troops.
+* The direct military confrontation between Iran and Israel has brought renewed attention to Iran’s armed forces. What are they capable of?
+* The announcement comes days after President Biden met jointly with the leaders of Japan and the Philippines to discuss Chinese aggression in the Indo-Pacific region.
+* Scores of people were stranded, some overnight, after an accident on a rocky hillside above the city of Antalya.
+* As civilian casualties in Gaza spiral, some nations are suspending sales amid accusations of abetting genocide and war crimes.
+* Trainers and equipment from Russia landed in the West African nation this week, putting the continued presence of 1,000 U.S. military personnel there in doubt.
 * In Bogotá, a city with more than 1.1 million bicycles and a strong riding culture, a number of high-profile crimes have rattled cyclists.
-* In anticipation of the Iranian strikes, several countries, including the United States, issued new guidelines to their citizens about travel in Israel and the surrounding region.
-* The possibility of a direct military confrontation between Iran and Israel has brought renewed attention to Iran’s armed forces. What are they capable of?
-* Like the kiwi fruit, the feijoa, or pineapple guava, is not native to the island nation, but it has become something of a national obsession.
-* Bayer Leverkusen can win its first Bundesliga title this weekend. For its rivals, the real joy comes in seeing Bayern Munich lose it.
-* A governing council was finalized after a month of negotiations. It is tasked with restoring law and order by appointing an acting prime minister.
-* Coffee shops and kiosks are everywhere in Ukraine’s capital, their popularity both an act of wartime defiance and a symbol of closer ties to the rest of Europe.
-* China seeks to project military power in the seas around its coastline, yet also faces pressure to mend relations with neighbors for the good of its economy.
 
 ![Global](./global.png)
 ## New York Times United States News
+* Golf enthusiasts regard a trip to the Masters Tournament as the stuff of dreams. Here are photos from this year’s tournament.
+* In 1997, a jury in a civil trial awarded the families of Ronald Goldman and Nicole Brown Simpson $33 million. Today, the amount still owed has more than tripled.
+* Mary Moriarty, a former chief public defender, became the top prosecutor in Minneapolis, promising an overhaul. Now she faces criticism, including from fellow Democrats.
 * Dr. Bob Ross cares for the aging residents of Ortonville, Minn, even as he wonders whether he, and the presidential candidates, are up to all their tasks.
-* His acquittal in the infamous trial involving Nicole Brown Simpson’s death prompted powerful backlash that helped change the perception around domestic violence.
-* Augusta National Golf Club has long forbidden cellphones for almost anyone at its hallowed tournament, but patrons delight in making free calls the old-school way.
-* Across the country, fractures are emerging among conservative and centrist women, as they confront a steady drumbeat of new abortion restrictions and court rulings.
-* The president’s popularity has ticked up slightly, though voters still view Donald J. Trump more favorably and have dour views of the economy.
-* The New York Times/Siena College Poll has earned a reputation for accuracy and transparency. But as with any poll, there are limits to just how much you can derive.
-* The barges, some carrying coal, floated miles downstream and damaged a marina as a flood warning was active in Allegheny County.
-* Prosecutors said Keith Berman falsely claimed he had invented a blood test that could detect Covid-19 in 15 seconds. His lawyer said he had put “genuine effort” into developing such a test.
-* Judge Maryellen Noreika declined to dismiss the charges against the president’s son, saying Mr. Biden’s lawyer failed to show prosecutors had been motivated by animus.
-* The Republican speaker has weighed bringing up a $95 billion Senate-passed bill to aid Ukraine and Israel in tandem with a separate package geared toward mollifying G.O.P. critics.
+* A new poll by The New York Times and Siena College finds that voters think highly of the former president’s record on the economy, but memories of his divisiveness largely remain intact.
+* Inside Acacia Women’s Center, patients described a mix of fear, anger and anxiety after the State Supreme Court’s decision to reinstate a law that bans nearly all abortions.
+* Donald Trump’s concerns about money may have entered his vice-presidential calculations, along with political considerations and which contenders he likes the look of.
+* The justices will hear arguments on Tuesday in a case that could alter hundreds of prosecutions for the assault on the Capitol and help define its meaning.
+* Campaigning in Pennsylvania on Saturday, Donald J. Trump once more falsely asserted that his criminal charges were an attempt by Democrats to keep him from the White House.
+* The former president initially disavowed the attack on the Capitol, but he is now making it a centerpiece of his general election campaign.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The Timepiece Museum has about 120 clocks of all shapes and sizes on display, out of a total of about 800, with the oldest dating from the 1400s.
+* The announcement comes days after President Biden met jointly with the leaders of Japan and the Philippines to discuss Chinese aggression in the Indo-Pacific region.
 * As Narendra Modi seeks a third term as prime minister, India’s rupture with China looms over a pillar of his campaign: making his country a major power.
 * Like the kiwi fruit, the feijoa, or pineapple guava, is not native to the island nation, but it has become something of a national obsession.
 * The fall of Myawaddy, on the Thai border, was one of the most significant gains by resistance forces since a 2021 military coup.
@@ -36,7 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * American rescuers found the lost sailors on a tiny uninhabited island in Micronesia with a damaged boat and the word spelled out on the beach.
 * Truong My Lan received the death penalty as Vietnam’s Communist Party cracks down on corruption in the fast-growing Southeast Asian economic hub.
 * President Yoon Suk Yeol, a key U.S. ally, faces the prospect of becoming a lame duck unless he starts negotiating with the opposition.
-* President Biden discussed security in the South China Sea with the leaders of Japan and the Philippines at the White House.
-* Born in Hawaii, he moved to Japan in 1988 and won 11 grand championships. His success drove a resurgence in the sport’s popularity.
 
 ![Asian](./asian.png)
