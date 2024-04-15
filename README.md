@@ -2,32 +2,35 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* As Israeli leaders weighed a response to the aerial assault by Iran and its allies, Tehran said it would not strike further unless attacked. Nearly all the Iranian missiles and drones were intercepted, including by U.S. forces.
-* The police have yet to determine a motive for Saturday’s attack, which left six people dead, but said the assailant had mental-health problems.
+* Israel’s war cabinet has yet to say how it will respond to Iran’s assault. Far-right members of Prime Minister Benjamin Netanyahu’s government have called for swift action.
+* Iran’s retaliation for Israel’s killing of senior military leaders was a highly choreographed spectacle. But fears of a wider war still loom.
+* As cases proliferate, opponents fear the Alternative for Germany party is becoming a tool of Russian influence operations to undermine support for Ukraine.
+* A shrub in impoverished Nepal now supplies the raw material for the bank notes used in Asia’s most sophisticated financial system.
+* The Iranian attack on Israeli territory made the Middle East’s new reality undeniable: Clashes are getting harder and harder to contain.
+* Israel had grown used to targeting Iranian officials without head-on retaliation from Iran, an assumption overturned by Iran’s attacks on Saturday.
+* The girl, who lives in a Negev desert community that is home to Arab Bedouins, was clinging to life in a hospital after the attack.
+* Tehran fired hundreds of drones and missiles in what was believed to be its first direct assault on Israel after years of a shadow war.
+* In a deeply polarized country that has again come under attack, Prime Minister Benjamin Netanyahu’s fate may depend on what happens next.
 * Their capture set off a global campaign to “Bring Back Our Girls.” But many are still missing, and kidnappings in Nigeria have proliferated.
-* With Russia seizing the initiative on the battlefield in recent months, Ukraine’s ability to defend itself hinges on replenishing its arsenal of weaponry and mobilizing troops.
-* The direct military confrontation between Iran and Israel has brought renewed attention to Iran’s armed forces. What are they capable of?
-* The announcement comes days after President Biden met jointly with the leaders of Japan and the Philippines to discuss Chinese aggression in the Indo-Pacific region.
-* Scores of people were stranded, some overnight, after an accident on a rocky hillside above the city of Antalya.
-* As civilian casualties in Gaza spiral, some nations are suspending sales amid accusations of abetting genocide and war crimes.
-* Trainers and equipment from Russia landed in the West African nation this week, putting the continued presence of 1,000 U.S. military personnel there in doubt.
-* In Bogotá, a city with more than 1.1 million bicycles and a strong riding culture, a number of high-profile crimes have rattled cyclists.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Golf enthusiasts regard a trip to the Masters Tournament as the stuff of dreams. Here are photos from this year’s tournament.
-* In 1997, a jury in a civil trial awarded the families of Ronald Goldman and Nicole Brown Simpson $33 million. Today, the amount still owed has more than tripled.
-* Mary Moriarty, a former chief public defender, became the top prosecutor in Minneapolis, promising an overhaul. Now she faces criticism, including from fellow Democrats.
 * Dr. Bob Ross cares for the aging residents of Ortonville, Minn, even as he wonders whether he, and the presidential candidates, are up to all their tasks.
-* A new poll by The New York Times and Siena College finds that voters think highly of the former president’s record on the economy, but memories of his divisiveness largely remain intact.
+* Golf enthusiasts regard a trip to the Masters Tournament as the stuff of dreams. Here are photos from this year’s tournament.
 * Inside Acacia Women’s Center, patients described a mix of fear, anger and anxiety after the State Supreme Court’s decision to reinstate a law that bans nearly all abortions.
-* Donald Trump’s concerns about money may have entered his vice-presidential calculations, along with political considerations and which contenders he likes the look of.
-* The justices will hear arguments on Tuesday in a case that could alter hundreds of prosecutions for the assault on the Capitol and help define its meaning.
-* Campaigning in Pennsylvania on Saturday, Donald J. Trump once more falsely asserted that his criminal charges were an attempt by Democrats to keep him from the White House.
-* The former president initially disavowed the attack on the Capitol, but he is now making it a centerpiece of his general election campaign.
+* Mary Moriarty, a former chief public defender, became the top prosecutor in Minneapolis, promising an overhaul. Now she faces criticism, including from fellow Democrats.
+* A team conducted new interviews to address lingering questions about the bombing in the final days of U.S. military involvement in Afghanistan.
+* Large hail, damaging winds, heavy rain and isolated tornadoes are expected on Monday in the Plains before moving into the Midwest on Tuesday.
+* Iran’s retaliation for Israel’s killing of senior military leaders was a highly choreographed spectacle. But fears of a wider war still loom.
+* The federal grants will support Samsung’s new chip manufacturing hub in Taylor, Texas, along with the expansion of an existing site in Austin.
+* Three Supreme Court briefs from former military leaders and intelligence officials explore whether presidents may be prosecuted for ordering unlawful killings.
+* The race for president will shift much of its focus to a Manhattan courtroom. “This looks like no other presidential campaign in the history of the country,” one Republican pollster said.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Lawmakers raising national security concerns and seeking to disconnect a major Chinese firm from U.S. pharmaceutical interests have rattled the biotech industry. The firm is deeply involved in development and manufacturing of crucial therapies for cancer, cystic fibrosis, H.I.V. and other illnesses.
+* A shrub in impoverished Nepal now supplies the raw material for the bank notes used in Asia’s most sophisticated financial system.
+* Also, the Australian authorities are searching for a motive in the deadly stabbing attack.
 * The Timepiece Museum has about 120 clocks of all shapes and sizes on display, out of a total of about 800, with the oldest dating from the 1400s.
 * The announcement comes days after President Biden met jointly with the leaders of Japan and the Philippines to discuss Chinese aggression in the Indo-Pacific region.
 * As Narendra Modi seeks a third term as prime minister, India’s rupture with China looms over a pillar of his campaign: making his country a major power.
@@ -35,8 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * The fall of Myawaddy, on the Thai border, was one of the most significant gains by resistance forces since a 2021 military coup.
 * China seeks to project military power in the seas around its coastline, yet also faces pressure to mend relations with neighbors for the good of its economy.
 * Also, O.J. Simpson died at 76.
-* American rescuers found the lost sailors on a tiny uninhabited island in Micronesia with a damaged boat and the word spelled out on the beach.
-* Truong My Lan received the death penalty as Vietnam’s Communist Party cracks down on corruption in the fast-growing Southeast Asian economic hub.
-* President Yoon Suk Yeol, a key U.S. ally, faces the prospect of becoming a lame duck unless he starts negotiating with the opposition.
 
 ![Asian](./asian.png)
