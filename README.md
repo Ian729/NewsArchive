@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
+* Iranian officials reported blasts overnight at a military base near the city of Isfahan. Israel had vowed retaliation for Iran’s attack last weekend, but muted initial reaction in both countries suggested they wanted to ease tensions.
+* A gathering of officials from Lithuania and Ukraine and supporters of Donald J. Trump highlights growing efforts to get on the good side of the former U.S. president in case he is elected again.
+* More than 300 people were killed when temblors toppled an upscale residential complex. Survivors hope a court will punish the men who built it.
+* Abshir Rageh had to sneak out from home to see bootleg Indian films and “Rambo” at a makeshift cinema. Now, he’s creating dramas that draw millions of online views in a country inching toward stability.
+* Prime Minister Narendra Modi’s party got less than 40% of the vote in the last election. But his fractured and dysfunctional rivals have struggled to capitalize on that.
+* Few doubt the popular prime minister will win a third term in voting that starts Friday. His strong hand is just what many Indians seem to want.
 * Israeli officials say they didn’t see a strike on a high-level Iranian target in Syria as a provocation, and did not give Washington a heads-up about it until right before it happened.
-* Young migrants from the former Soviet republic were accused of an attack on a concert hall in Moscow that killed 145 people.
-* Hundreds of Tajik men have joined an Islamic State affiliate, analysts say.
-* The measures were announced as Israel’s allies try to punish Tehran without fueling a wider Middle East war.
-* Court records, mistakenly made public, tell a story about the birth of ByteDance, its bumpy road to success and the role of the Republican megadonor Jeff Yass’s firm.
-* The records briefly surfaced in a lawsuit involving the Republican megadonor Jeff Yass’s firm.
-* Björn Höcke, one of the most prominent far-right figures in Germany, has called the trial an attempt to suppress patriotism.
-* Our photographer spent four days at a remote Ukrainian trench outpost manned by soldiers who signed up from abroad.
-* The Biden administration had temporarily lifted sanctions after President Nicolás Maduro agreed to make free elections possible. Now Mr. Maduro has put up barriers to a credible vote.
-* Iranian reporters and broadcasters in Britain have suffered physical attacks, threats and surveillance, a report by Reporters Without Borders said, weeks after a newscaster was stabbed in London.
+* The Biden administration had paused deportations of Haitian migrants in recent months as their home country was wracked by violence.
+* Pakistani officials warned of more flooding and heavy rainfall next week, stoking fears of a particularly brutal monsoon season to come.
+* The two men, dual citizens of both countries, were accused of being part of a plot to undermine aid to Ukraine by trying to blow up military infrastructure.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The State Senate introduced a bill to repeal a near-total abortion ban dating back to the Civil War, while the House blocked an effort to do so.
 * Dr. Bob Ross cares for the aging residents of Ortonville, Minn, even as he wonders whether he, and the presidential candidates, are up to all their tasks.
-* Georgia, Michigan and Nevada have already brought charges against people who posed as electors for Donald Trump, and Arizona and Wisconsin have active investigations.
-* A new analysis of the August inferno on the island of Maui in Hawaii describes heroic efforts by firefighters. But it also finds many ways the town could have been better prepared.
-* More than a dozen members of the storied political family will endorse the president in Philadelphia, rejecting one of their own as he worries Democrats with an independent bid.
-* Republicans say the quick dismissal of charges against Alejandro Mayorkas sets a dangerous precedent. Democrats say the mistake would have been to treat the case seriously.
-* Senators are under pressure to reject amendments to a House-passed bill so it can become law before a statute expires Friday night. But the program would continue after any such lapse — with some caveats.
 * Lethal injections of Black people in the United States were botched more than twice as often as those of white people, according to a report from an anti-death-penalty group.
-* A report to the Election Assistance Commission from researchers at Rutgers University found that disabled voters’ turnout lagged non-disabled voters’ by 11 percentage points, down from 17.
-* Activists in the Asian American community are pressuring organizations to re-evaluate their partnerships and to call for a cease-fire.
+* Agents in South Carolina, the fastest growing state in the country last year, say that many newcomers are Republicans eager to leave the Northeast and West Coast.
+* The State Senate introduced a bill to repeal a near-total abortion ban dating back to the Civil War, while the House blocked an effort to do so.
+* Will more stringent tactics subdue protests? Or fuel them?
+* President Biden’s push to transform the race into a binary choice between him and Donald Trump has been aided by blanket coverage of Mr. Trump’s courtroom appearances.
+* Officials are moving to increase enforcement and change laws to correct the “breakdown in automotive law and order,” part of a broader trend making U.S. roads less safe.
+* The new regulations extended legal protections to L.G.B.T.Q. students and rolled back several policies set under the Trump administration.
+* A resolution to pave the way for the foreign aid package was on track to die in committee amid Republican opposition when Democrats stepped in to save it.
+* Republicans claimed the bureau’s memo was evidence of an anti-conservative strain among F.B.I. ranks, but an internal investigation failed to uncover any “malicious intent.”
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Prime Minister Narendra Modi’s party got less than 40% of the vote in the last election. But his fractured and dysfunctional rivals have struggled to capitalize on that.
+* Few doubt the popular prime minister will win a third term in voting that starts Friday. His strong hand is just what many Indians seem to want.
+* Apple said it removed WhatsApp and Threads from its China app offerings Friday on Beijing’s orders, amid technological tensions between the U.S. and China.
+* Also, new Western sanctions on Iran, and China’s sinking cities.
+* Development and groundwater pumping are causing land subsidence and heightening the risks of sea level rise.
+* The president is increasingly hitting back with tariffs and other measures meant to restrict imports, raising tensions with Beijing.
+* Pakistani officials warned of more flooding and heavy rainfall next week, stoking fears of a particularly brutal monsoon season to come.
 * Court records, mistakenly made public, tell a story about the birth of ByteDance, its bumpy road to success and the role of the Republican megadonor Jeff Yass’s firm.
 * To lure visitors, residents of Yoshida, famed for its high-quality steel, are inviting tourists to help produce it.
 * Young migrants from the former Soviet republic were accused of an attack on a concert hall in Moscow that killed 145 people.
-* The records briefly surfaced in a lawsuit involving the Republican megadonor Jeff Yass’s firm.
-* Avatars are addressing voters by name, in whichever of India’s many languages they speak. Experts see potential for misuse in a country already rife with disinformation.
-* Also, a deadly Russian missile strike in Ukraine and “green Islam” in Indonesia.
-* Gen. Timothy Haugh, who is also the head of the U.S. military’s Cyber Command, said Beijing was “sending a pretty clear signal.”
-* Hundreds of earthquakes were detected in the weeks preceding the eruption of the volcano in North Sulawesi province. Hundreds of people were evacuated.
-* The unexpected relocation was attributed to a heat wave, and came as the military government is facing increasingly emboldened rebel forces.
-* In a speech to union steelworkers in Pittsburgh, the president will announce several new measures meant to raise new barriers against floods of Chinese imports.
 
 ![Asian](./asian.png)
