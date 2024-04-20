@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Iranian officials reported blasts overnight at a military base near the city of Isfahan. Israel had vowed retaliation for Iran’s attack last weekend, but muted initial reaction in both countries suggested they wanted to ease tensions.
-* A gathering of officials from Lithuania and Ukraine and supporters of Donald J. Trump highlights growing efforts to get on the good side of the former U.S. president in case he is elected again.
-* More than 300 people were killed when temblors toppled an upscale residential complex. Survivors hope a court will punish the men who built it.
-* Abshir Rageh had to sneak out from home to see bootleg Indian films and “Rambo” at a makeshift cinema. Now, he’s creating dramas that draw millions of online views in a country inching toward stability.
-* Prime Minister Narendra Modi’s party got less than 40% of the vote in the last election. But his fractured and dysfunctional rivals have struggled to capitalize on that.
-* Few doubt the popular prime minister will win a third term in voting that starts Friday. His strong hand is just what many Indians seem to want.
-* Israeli officials say they didn’t see a strike on a high-level Iranian target in Syria as a provocation, and did not give Washington a heads-up about it until right before it happened.
-* The Biden administration had paused deportations of Haitian migrants in recent months as their home country was wracked by violence.
-* Pakistani officials warned of more flooding and heavy rainfall next week, stoking fears of a particularly brutal monsoon season to come.
-* The two men, dual citizens of both countries, were accused of being part of a plot to undermine aid to Ukraine by trying to blow up military infrastructure.
+* Rebel fighters have handed Myanmar’s army defeat after defeat, for the first time raising the possibility that the military junta could be at risk of collapse.
+* A devastating, yearslong civil war is heating up, but it still hasn’t attracted broad international notice.
+* As explosive drones gain battlefield prominence, even the mighty U.S. Abrams tank is increasingly vulnerable.
+* The case, involving multiple swimmers who seven months later won medals at the 2021 Games, prompted accusations of a cover-up and concerns over why antidoping regulators chose not to intervene.
+* Stéphane Louvard married one of his signature croissants with a chocolate chip cookie to come up with the “crookie.” After a slow start, his creation took off after it became a TikTok phenomenon.
+* The drone attack may have been launched from inside Iran, once again demonstrating Israel’s ability to carry out clandestine operations there.
+* The relatively limited scope of the attack, as well as a muted response from Iranian officials, may have lowered the chances of an immediate escalation, analysts said.
+* The status of a $110 million air base in the desert remains unclear as the West African country deepens its ties with Russia.
+* A string of arrests, including two Poles accused of attacking a Navalny aide and a third for ties to a possible plot against Ukraine’s president, have amplified worries of Russian infiltration.
+* Israel hit a strategic city with carefully measured force, but made the point that it could strike at a center of Iran’s nuclear program.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Dr. Bob Ross cares for the aging residents of Ortonville, Minn, even as he wonders whether he, and the presidential candidates, are up to all their tasks.
-* Lethal injections of Black people in the United States were botched more than twice as often as those of white people, according to a report from an anti-death-penalty group.
+* Jon M. Chu, the director of “Crazy Rich Asians,” and Billie Jean King were set to be among the featured guests.
+* First, fish off the Florida Keys started swimming in spirals or upside down. Then, endangered sawfish started dying. Scientists are racing to figure out why.
 * Agents in South Carolina, the fastest growing state in the country last year, say that many newcomers are Republicans eager to leave the Northeast and West Coast.
-* The State Senate introduced a bill to repeal a near-total abortion ban dating back to the Civil War, while the House blocked an effort to do so.
-* Will more stringent tactics subdue protests? Or fuel them?
-* President Biden’s push to transform the race into a binary choice between him and Donald Trump has been aided by blanket coverage of Mr. Trump’s courtroom appearances.
-* Officials are moving to increase enforcement and change laws to correct the “breakdown in automotive law and order,” part of a broader trend making U.S. roads less safe.
-* The new regulations extended legal protections to L.G.B.T.Q. students and rolled back several policies set under the Trump administration.
-* A resolution to pave the way for the foreign aid package was on track to die in committee amid Republican opposition when Democrats stepped in to save it.
-* Republicans claimed the bureau’s memo was evidence of an anti-conservative strain among F.B.I. ranks, but an internal investigation failed to uncover any “malicious intent.”
+* Activists in the Asian American community are pressuring organizations to re-evaluate their partnerships and to call for a cease-fire.
+* The independent candidate persuaded a tiny party to give him its line on the ballot in a key 2024 battleground state, sparing him a costly, arduous organizing effort.
+* The Trump campaign and the Republican Party plan to dispatch over 100,000 volunteers and lawyers to monitor elections in battleground states — and work in concert with conservative activists.
+* Even as abortion rights ballot issues have had some striking successes, anti-abortion forces have stood firm in state legislatures like Arizona’s where they have deep convictions and positions of power.
+* Some poultry growers are turning to innovative tactics to protect their flocks, deploying deterrents like drones, air horns, balloons and decoy predators.
+* The law lapsed only briefly after a late-night deal that allowed votes on privacy advocates’ proposed changes, all of which were defeated.
+* Edsaul Mendoza, a former Philadelphia police officer, could face up to 40 years in prison after pleading guilty to third-degree murder.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The case, involving multiple swimmers who seven months later won medals at the 2021 Games, prompted accusations of a cover-up and concerns over why antidoping regulators chose not to intervene.
+* But in this year’s elections, the scion of India’s most storied political family is still trying to unseat Modi — and change the nation’s course.
+* A devastating, yearslong civil war is heating up, but it still hasn’t attracted broad international notice.
+* Rebel fighters have handed Myanmar’s army defeat after defeat, for the first time raising the possibility that the military junta could be at risk of collapse.
+* A strange finish at the Beijing Half Marathon on Sunday led to an investigation and penalties.
+* The decision by a Massachusetts solar company to abandon plans to build a $1.4 billion U.S. factory highlights the risks amid a flood of Chinese clean energy exports.
+* From cars to solar panels to furniture, China is using lavish bank lending and enormous investments in robotics to cement its global leadership in manufacturing.
 * Prime Minister Narendra Modi’s party got less than 40% of the vote in the last election. But his fractured and dysfunctional rivals have struggled to capitalize on that.
 * Few doubt the popular prime minister will win a third term in voting that starts Friday. His strong hand is just what many Indians seem to want.
 * Apple said it removed WhatsApp and Threads from its China app offerings Friday on Beijing’s orders, amid technological tensions between the U.S. and China.
-* Also, new Western sanctions on Iran, and China’s sinking cities.
-* Development and groundwater pumping are causing land subsidence and heightening the risks of sea level rise.
-* The president is increasingly hitting back with tariffs and other measures meant to restrict imports, raising tensions with Beijing.
-* Pakistani officials warned of more flooding and heavy rainfall next week, stoking fears of a particularly brutal monsoon season to come.
-* Court records, mistakenly made public, tell a story about the birth of ByteDance, its bumpy road to success and the role of the Republican megadonor Jeff Yass’s firm.
-* To lure visitors, residents of Yoshida, famed for its high-quality steel, are inviting tourists to help produce it.
-* Young migrants from the former Soviet republic were accused of an attack on a concert hall in Moscow that killed 145 people.
 
 ![Asian](./asian.png)
