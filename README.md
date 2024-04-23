@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Aharon Haliva, the head of military intelligence, is the highest-ranking Israeli official to step down since the Hamas-led attack.
-* The strike on Iran on Friday was originally intended to be much broader in scope, but after intense pressure from allies, Israeli leaders agreed to ratchet it down.
+* The United Nations and others said donors should resume support for UNRWA after a review found that Israel hadn’t backed up claims that many agency workers are members of terrorist groups.
+* The United Nations says famine is likely to set in by May. For those living under Israel’s attacks and a crippling blockade, every day is a race against time.
+* Even through the Myanmar army’s communications blackout, residents of a conflict zone find moments of grace, and occasional connectivity, away from the battlefield.
+* The two helicopters were rehearsing for a parade to celebrate the navy’s 90th anniversary.
+* The outlay reached $2.4 trillion last year, a research group found, 6.8 percent up on 2022. Tensions in Asia and the Middle East also contributed.
+* Britain’s Parliament passed contentious legislation to allow the deportation of asylum seekers to the African country, a political victory for Prime Minister Rishi Sunak.
+* The direct language used against the country’s largest minority was a contrast to the image Prime Minister Narendra Modi presents on the world stage.
+* Sensitive naval data and a high-powered laser were obtained for China by three German citizens, according to prosecutors.
 * April is typically hot in South and Southeast Asia, but temperatures this month have been unusually high.
-* Much-needed munitions like artillery shells could start arriving relatively quickly, but experts say it could take weeks before U.S. assistance has a direct impact on the war.
-* The assaults have all but destroyed the factories and plants that were the economic lifeblood of the towns and cities in Ukraine’s east.
-* Voters in Ecuador gave their new president, Daniel Noboa, who deployed the military to fight gangs in January, even more powers.
-* After Britain’s next election, David Lammy is likely to be foreign secretary. He’s setting out a “progressive realist” policy — and forging ties on the U.S. right, just in case.
-* Facing deep economic troubles and a restive population, the government seems to have adopted a policy of declaring victory over Israel and cracking down at home, analysts say.
-* An American who won silver in Tokyo calls for an investigation. A British gold medalist demands bans. But the most bitter fight was between antidoping leaders.
-* The attacks occurred in Manipur, a northeastern state that has been troubled by ethnic unrest. Witnesses reported that voting booths were captured and bogus ballots cast.
+* With a proposed sale stalled seven months after it was announced, a financially strapped Premier League team is pursuing a backup plan.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The Getty House was broken into early Sunday through a smashed window, the police said. Mayor Karen Bass said she and her family were safe.
-* Diversity, equity and inclusion initiatives have become a target of conservatives across the nation, with several states passing laws against them.
-* In 1968, the Democratic National Convention was overshadowed by clashes between police and demonstrators.
+* Dozens were arrested Monday at N.Y.U. and Yale, but officials there and at campuses across the country are running out of options to corral protests that are expected to last the rest of the school year.
+* In a city still struggling to recover from the pandemic, Mayor London Breed hopes giant pandas will lift the spirits — and the economy — of San Francisco.
 * First, fish off the Florida Keys started swimming in spirals or upside down. Then, endangered sawfish started dying. Scientists are racing to figure out why.
-* National Labor Relations Board testimony, now in the hands of a judge, could have wide-ranging consequences — positive and negative — for athletes and their institutions.
-* A group of homeless people in a small Oregon city challenged local laws banning sleeping in public. The case has broad implications for homelessness policy throughout the country.
-* At a national park in Virginia on Monday, the president will point to investments in clean energy and appear with future members of his American Climate Corps.
-* Summer Lee, the first Black woman to represent Pennsylvania in the House, got help from Alexandria Ocasio-Cortez and Justin Jones as she faced criticism over her stance on Gaza.
-* The Beirut bureau chief for The Associated Press, he was kidnapped in 1985 by Islamic militants.
-* The ad portrays a woman trying to leave the state to have an abortion. The Campaign for Democracy, a political action committee started by Mr. Newsom, the California governor, created it.
+* Demonstrations outside the school gates have added to the upheaval, with protesters who appear unconnected to the university targeting Jewish students.
+* The Biden campaign has made abortion one of its top issues, as polling shows it is one of the few subjects in which voters place more trust in President Biden than Donald Trump.
+* Project Maven was meant to revolutionize modern warfare. But the conflict in Ukraine has underscored how difficult it is to get 21st-century data into 19th-century trenches.
+* Neighbors have multiple opportunities to raise objections, and some disputes can only be resolved by the city’s top governing body.
+* Democrats see an opening to win back rural Trump voters fed up with their groundwater being pumped by huge farms.
+* The owner and manager of the cargo ship that downed the Francis Scott Key Bridge asked a judge to exonerate them from liability. The city argued otherwise.
+* Pro-Palestinian protesters, many of whom are Jewish, prepared Seder dinners at college protest encampments, even as other Jewish students sought community in more traditional settings.
 
 ![US](./usnews.png)
 ## New York Times Asia News
-* April is typically hot in South and Southeast Asia, but temperatures this month have been unusually high.
-* Pinduoduo appeals to people seeking deals and “downgraded spending,” as consumer purchasing in China has slowed recently amid economic rockiness.
-* Also, Iran appears to stand down after Israel’s strike and Myanmar’s conflict may be shifting.
-* An American who won silver in Tokyo calls for an investigation. A British gold medalist demands bans. But the most bitter fight was between antidoping leaders.
-* The attacks occurred in Manipur, a northeastern state that has been troubled by ethnic unrest. Witnesses reported that voting booths were captured and bogus ballots cast.
-* Bad weather in Guangdong Province forced evacuations as forecasters warned of more rain and potential flooding.
-* The short answer may be nothing. The world’s top doping regulator said there was “no credible evidence” to take further action.
-* A doping case involving Olympic swimmers has left unanswered questions and raised new concerns about the actions of a global antidoping regulator.
-* After months of delay at the hands of a bloc of ultraconservative Republicans, the package drew overwhelming bipartisan support, reflecting broad consensus.
-* The case, involving multiple swimmers who seven months later won medals at the 2021 Games, prompted accusations of a cover-up and concerns over why antidoping regulators chose not to intervene.
+* The brazenness of Prime Minister Narendra Modi’s vilification of India’s largest minority group made clear he sees few checks at home or abroad on his power.
+* The owner and manager of the cargo ship that downed the Francis Scott Key Bridge asked a judge to exonerate them from liability. The city argued otherwise.
+* The two helicopters were rehearsing for a parade to celebrate the navy’s 90th anniversary.
+* Even through the Myanmar army’s communications blackout, residents of a conflict zone find moments of grace, and occasional connectivity, away from the battlefield.
+* The community canteens, offering huge plates for a dollar or two, have become popular among penny-pinching young professionals.
+* No injuries or deaths were immediately reported, but four buildings partially collapsed in the tremors, which followed a powerful April 3 quake that killed 17 people.
+* In a city still struggling to recover from the pandemic, Mayor London Breed hopes giant pandas will lift the spirits — and the economy — of San Francisco.
+* Also, a top Israeli general resigned.
+* The administration’s top drug official, Rahul Gupta, said he would bring up the handling of Chinese swimmers’ positive tests at a meeting of sports officials this week.
+* The direct language used against the country’s largest minority was a contrast to the image Prime Minister Narendra Modi presents on the world stage.
 
 ![Asian](./asian.png)
