@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The U.S. Senate approved a package that includes $26 billion in aid for Israel and for civilians in conflict zones, including Gaza, over objections from some Democrats opposed to Israel’s military campaign.
+* Sigrid Kaag, the U.N. aid coordinator for Gaza, said Israel had taken steps to improve relief deliveries but called for further measures.
 * Israel says an assault on Gaza’s southernmost city is vital to dismantling Hamas and has proposed evacuating civilians. But more than a million people have taken refuge in the city.
+* Tensions over economic ties are running high, threatening to disrupt a fragile cooperation between the U.S. and China.
+* Secretary of State Antony J. Blinken is in China this week as tensions have risen over trade, security, Russia’s war on Ukraine and the Middle East crisis.
+* Venice is trying to mitigate overtourism with a small fee on busy days. City leaders hope it will make visitors more aware of the city’s fragility.
+* Chasiv Yar has been under relentless attack by Russian forces. Controlling the town would put them in striking distance of key Ukrainian operational and supply centers.
 * For residents of Ukraine’s second-largest city, daily Russian attacks have escalated fears but have not brought life to a standstill.
-* Weapons from the aid package, considered “a lifeline” for Ukraine’s military, could be arriving on the battlefield within days.
-* A number of runaway army horses galloped through London on Wednesday morning, causing alarm and injuring pedestrians. All were eventually recovered.
-* The secretary of state’s visit comes as Democrats and Republicans are vying to appear tougher on China.
-* Having a team in the world’s richest sports competition might alter how people think of Luton, a place long dogged by a ramshackle image and links to extremism.
-* The United Nations says famine is likely to set in by May. For those living under Israel’s attacks and a crippling blockade, every day is a race against time.
-* Even through the Myanmar army’s communications blackout, residents of a conflict zone find moments of grace, and occasional connectivity, away from the battlefield.
-* The measure, largely restating existing law, shows the prime minister’s skill at reassuring her right-wing base without sacrificing her increasingly mainstream image.
+* A photographic chronicle of the third year of Russia’s invasion of Ukraine.
+* The devastating rains also killed farm animals and destroyed thousands of acres of crops, while major highways were closed and rail services suspended.
+* The video appeared to be the first time that Mr. Goldberg-Polin, who was grievously injured in the Hamas-led Oct. 7 attack, has been seen alive since he was taken captive.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The move came about a year after the state’s deadliest school shooting and was opposed by some of the families whose children survived the attack.
-* The almost-complete ban on abortions in the state could go into effect as early as June 8, the state’s attorney general said.
-* Three men who were detained at the notorious prison in Iraq are suing a defense contractor, saying its interrogators told U.S. soldiers to “soften up” prisoners.
-* First, fish off the Florida Keys started swimming in spirals or upside down. Then, endangered sawfish started dying. Scientists are racing to figure out why.
-* Polls show voters are angry about costs, like mortgages, and worried they will stay high if the president wins re-election.
-* The case, which could reverberate beyond Idaho to other states with abortion bans, is the second time in less than a month that the justices have heard an abortion case.
-* Federal trial judges in Texas and Idaho came to opposite conclusions in a battle between conservative states and the U.S. government over limits on abortion access.
-* The man, David Joseph Gietzen, was found guilty of committing five felonies during the January 2021 attack on the Capitol. He failed to show up in court.
-* The university, which asked the police to arrest protesters last week, said student protesters had agreed to remove some tents and continue talks.
-* Nikki Haley, who dropped out of the race more than a month ago, won more than 155,000 votes, an indication of Donald J. Trump’s difficulties in winning over her supporters.
+* Those charged included Boris Epshteyn, a top legal strategist for Donald Trump, and fake electors who acted on Mr. Trump’s behalf in Arizona after the 2020 election.
+* There were more than 120 new arrests as universities moved to prevent pro-Palestinian encampments from taking hold as they have at Columbia University.
+* Supporters of new legislation to allow some teachers to carry firearms say it will make the state’s schools safer. Many parents and educators are not convinced.
+* The almost-complete ban on abortions in the state could go into effect as soon as June 8 if the State Legislature does not repeal it, the state’s attorney general said.
+* The 2,500 decks being issued to correctional facilities in southern Mississippi seek clues on missing persons and unsolved murders. Cold case cards sometimes bring useful tips to dormant investigations.
+* The president signed a bill that could ban TikTok even as his re-election team uses it to reach young voters. It was hardly the first internal disparity on matters around the globe.
+* The $6.1 billion for Micron, to shore up the domestic supply of semiconductors, comes after a key union endorsement and passage of an aid bill central to the president’s foreign policy agenda.
+* The justices will consider on Thursday whether the former president must face trial on charges that he tried to subvert the 2020 election.
+* Amputees who try to join the U.S. armed forces are rejected, no matter how capable they are. Hannah Cvancara wants to change that.
+* The Cumberland Valley School Board reversed its decision to cancel Maulik Pancholy’s speech at a middle school next month after many community members said the actor had been discriminated against because of his sexuality.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Secretary of State Antony J. Blinken is in China this week as tensions have risen over trade, security, Russia’s war on Ukraine and the Middle East crisis.
+* Tensions over economic ties are running high, threatening to disrupt a fragile cooperation between the U.S. and China.
+* ByteDance owns both TikTok and Douyin, and although TikTok has more users around the world, Douyin is the company’s cash cow and a China mainstay.
+* Also, details of the U.S. aid package to Ukraine and Taylor Swift’s new album.
+* A series of foot tracks in southeastern China points to the discovery of a giant velociraptor relative, paleontologists suggest in a new study.
+* That squiggly line through the Pacific where days begin and end has no legal authority and technically doesn’t exist.
+* Avani Dias said that she had been denied a visa renewal for weeks because of her reporting on the Sikh separatist movement. Indian officials disputed her account.
+* Resistance soldiers were forced to leave Myawaddy, a key trading center on the border with Thailand, weeks after capturing it.
 * The secretary of state’s visit comes as Democrats and Republicans are vying to appear tougher on China.
 * Manufacturers like BYD, Tesla and Li Auto are cutting prices to move their electric cars. For gasoline-powered vehicles, the surplus of factories is even worse.
-* Also, a former tabloid publisher testifies against Donald Trump.
-* The brazenness of Prime Minister Narendra Modi’s vilification of India’s largest minority group made clear he sees few checks at home or abroad on his power.
-* The owner and manager of the cargo ship that downed the Francis Scott Key Bridge asked a judge to exonerate them from liability. The city argued otherwise.
-* The two helicopters were rehearsing for a parade to celebrate the navy’s 90th anniversary.
-* Even through the Myanmar army’s communications blackout, residents of a conflict zone find moments of grace, and occasional connectivity, away from the battlefield.
-* The community canteens, offering huge plates for a dollar or two, have become popular among penny-pinching young professionals.
-* No injuries or deaths were immediately reported, but four buildings partially collapsed in the tremors, which followed a powerful April 3 quake that killed 17 people.
-* In a city still struggling to recover from the pandemic, Mayor London Breed hopes giant pandas will lift the spirits — and the economy — of San Francisco.
 
 ![Asian](./asian.png)
