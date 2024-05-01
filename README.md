@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The International Court of Justice in The Hague will decide on whether countries supplying arms are liable for how they are used.
-* Grief and rage over the war and Israel have led to demonstrations across the Arab world. Arrests suggest governments fear the outrage could boomerang.
+* The Biden administration wants Hamas to agree to a cease-fire deal before a new ground invasion.
 * Opponents of the measure, which resembles a Russian law that Moscow has used to crack down on dissidents, say it could undermine efforts for Georgia to join the European Union.
+* Sanjay Leela Bhansali’s films are known for splendor, grandiosity and obsessive attention to light and detail. Will that translate to mobile screens?
+* Ben Houchen, a regional mayor in the north of England, faces a close re-election race, partly thanks to the broader troubles of Britain’s Conservative Party.
+* A walkout by physicians has dragged on for weeks, as they protest a plan by President Yoon Suk Yeol’s government to increase medical school enrollment.
+* Russia has been losing its grip on the Rosenets Oil Terminal, near the port city of Burgas, as Bulgarian authorities seek to assert greater control over the Russian-run facility.
+* Ukraine accused Russia of using a cluster weapon in a civilian area on Monday, killing five people. A strike on Wednesday killed three others, an official said.
+* Professor Zhang Yongzhen had flouted a government ban by disclosing the genome of the Covid virus soon after it emerged in Wuhan in 2020.
+* The road gave way in the early morning in an apparent landslide. At least 30 other people were injured, many of them seriously.
 * A powerful paramilitary group has encircled El Fasher, the last remaining obstacle to domination of the sprawling Darfur region, raising alarm about mass killings if the city is taken.
-* Cuba’s Communist revolution took aim at private businesses, making them largely illegal. Today, they are proliferating, while the socialist economy craters.
-* The Central African nation’s May 6 election appears to offer voters a choice. But it’s been masterminded, analysts say, to rubber-stamp the rule of the incumbent, Mahamat Idriss Déby.
-* The actor, who has become a #MeToo flashpoint in France, will be tried in October over allegations that he sexually assaulted two women during a 2021 film shoot.
-* Mr. Yousaf, the leader of the Scottish National Party, announced that he was stepping down, days after the collapse of his coalition government.
-* Heavy rains have been pounding parts of East Africa for weeks, and the flooding has killed hundreds of people in recent days.
-* Three trials this spring are centered on the Reichsbürger movement. Some of its members say the modern German state is actually a corporation run by shadowy bureaucrats.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Pro-Palestinian protesters have occupied the administration building at California State Polytechnic University, Humboldt for the past week and forced a campus closure until May 10.
+* The killing of the four officers in a usually quiet neighborhood, where a running gun battle left people scrambling for cover, stunned residents and brought anguish across the city.
 * Amputees who try to join the U.S. armed forces are rejected, no matter how capable they are. Hannah Cvancara wants to change that.
-* Adam and Ola Abo Sheriah absorb a loss few of their friends and neighbors in New Jersey can imagine, and scramble to help surviving family members in Gaza while trying to get their kids to school on time.
-* The state has dozens of clinics that serve tens of thousands of women a year, including from across the Southeast. The six-week ban will require most to travel much farther.
-* A police officer and three members of a U.S. Marshals task force were fatally shot while serving warrants to a suspect, who was also killed.
-* On one of the last days it would be legal to get an abortion until 15 weeks of pregnancy in Florida, a clinic in Fort Pierce was completely booked.
-* A Times photojournalist embarked on a nuclear-powered attack sub to see how the Pentagon is training for a potential war below the frozen sea.
-* Todd Blanche upended his career to represent Donald J. Trump and has been the former president’s favorite. But Mr. Trump has made him a focus of his episodic wrath.
-* Suggesting that some Jewish students are “pro-genocide,” the Minnesota congresswoman seemed to further polarize an already polarizing debate.
-* George Alan Kelly was accused of murdering Gabriel Cuen-Buitimea, an unarmed migrant from Mexico, on his 170-acre ranch in Kino Springs, Ariz., last year.
+* A law firm examining accusations that Ted Nash sexually abused Jennifer Fox — when she was 13 and he was her 40-year-old running coach — found that her claims were credible.
+* The expansion would extend largely free health coverage to 200,000 more low-income adults. But hurdles remain, including a likely veto by Gov. Tate Reeves.
+* Two Republican state senators have said they support scrapping the law, enough to ensure final passage of repeal.
+* The ban, which took effect on Wednesday, was part of Gov. Ron DeSantis’s push into cultural conservatism. But Florida politics is rarely that simple.
+* A powerful tornado ripped through a community in northeastern Kansas on Tuesday afternoon, destroying dozens of homes and structures and killing at least one person, officials said.
+* In a 2-to-1 decision, the panel sided with challengers who argued that the map that created a second Black majority district was an “impermissible racial gerrymander.”
+* Albuquerque Public Schools in New Mexico also installed an acting principal as it investigates a high school prom.
+* The firm, LaRocca Hornik, has represented Donald Trump’s political operation in numerous suits dating to his first presidential run, including a pregnancy discrimination case in New York.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Professor Zhang Yongzhen had flouted a government ban by disclosing the genome of the Covid virus soon after it emerged in Wuhan in 2020.
+* The road gave way in the early morning in an apparent landslide. At least 30 other people were injured, many of them seriously.
+* “Indian Idol,” the Hindi version of “American Idol,” is a pleasant distraction from life’s more trying predicaments.
+* Sanjay Leela Bhansali’s films are known for splendor, grandiosity and obsessive attention to light and detail. Will that translate to mobile screens?
+* A walkout by physicians has dragged on for weeks, as they protest a plan by President Yoon Suk Yeol’s government to increase medical school enrollment.
+* More capable autonomous driving is just one way Chinese automakers are threatening to pull ahead — their E.V.s are also becoming bigger and roomier.
+* Also, a judge fined Donald Trump for breaking a gag order.
+* An environmental movement is growing in the world’s most populous Muslim nation.
 * Also, Russia advances in eastern Ukraine.
 * Elon Musk met with the country’s premier, a longtime Tesla ally, and secured regulatory nods and a necessary partnership with a Chinese tech company.
-* Scorching temperatures coincided with a nationwide strike of jeepneys, the main mode of public transport in the country.
-* Plus, European countries crack down on China’s influence.
-* Videos shared by Chinese official media showed transmission towers and power lines igniting and debris swirling in the air in the city, a manufacturing and technology hub by the Pearl River.
-* Voice of Baceprot has electrified audiences and built a large following in Indonesia. Now the group is taking its music to the West.
-* Vuong Dinh Hue’s departure comes amid a growing anticorruption push and weeks after Vietnam’s president resigned.
-* Visits to China by American officials like Secretary of State Antony J. Blinken can bring fame to local restaurants, as well as scrutiny to the dignitaries.
-* The U.S. secretary of state and the Chinese leader struck conciliatory notes in Beijing. But there was no budging on, or hiding, their governments’ core differences.
-* The Harley Owners Group in Alice Springs is what’s known as a social motorcycle club, with the emphasis on social.
 
 ![Asian](./asian.png)
