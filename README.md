@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The Biden administration wants Hamas to agree to a cease-fire deal before a new ground invasion.
-* Opponents of the measure, which resembles a Russian law that Moscow has used to crack down on dissidents, say it could undermine efforts for Georgia to join the European Union.
-* Sanjay Leela Bhansali’s films are known for splendor, grandiosity and obsessive attention to light and detail. Will that translate to mobile screens?
-* Ben Houchen, a regional mayor in the north of England, faces a close re-election race, partly thanks to the broader troubles of Britain’s Conservative Party.
-* A walkout by physicians has dragged on for weeks, as they protest a plan by President Yoon Suk Yeol’s government to increase medical school enrollment.
-* Russia has been losing its grip on the Rosenets Oil Terminal, near the port city of Burgas, as Bulgarian authorities seek to assert greater control over the Russian-run facility.
-* Ukraine accused Russia of using a cluster weapon in a civilian area on Monday, killing five people. A strike on Wednesday killed three others, an official said.
-* Professor Zhang Yongzhen had flouted a government ban by disclosing the genome of the Covid virus soon after it emerged in Wuhan in 2020.
-* The road gave way in the early morning in an apparent landslide. At least 30 other people were injured, many of them seriously.
-* A powerful paramilitary group has encircled El Fasher, the last remaining obstacle to domination of the sprawling Darfur region, raising alarm about mass killings if the city is taken.
+* Officials are waiting for the group’s response to a proposal with U.S. and Israeli backing for a halt to fighting in Gaza and the release of hostages held there.
+* The Biden administration wants to focus on a cease-fire and rebuilding Gaza, but Israel’s leader is pushing a new offensive.
+* Voters in England and Wales will choose local officials on Thursday. The results could demonstrate whether the governing party’s dire poll ratings are reliable, analysts say.
+* Voters choose local officials in England and Wales this week. Their verdicts could be an important clue to the shape of Britain’s looming general election.
+* The State Department said Russia had used chloropicrin, a poison gas widely used during World War I against Ukrainian forces, an act that would violate a global ban signed by Moscow.
+* The penalties came after top Biden administration officials warned China not to help Moscow restock its arsenal to attack Ukraine.
+* Jonathan Yeo, about to unveil a major new painting of King Charles III, also counts Hollywood royalty (Nicole Kidman) and prime ministers (Tony Blair) as past subjects. But George W. Bush eluded him.
+* Sanjay Leela Bhansali’s films are known for splendor, grandiosity and obsessive attention to light and detail. Will that translate to smaller screens?
+* The heavy rains that pounded East Africa for weeks, killing hundreds, have spilled into the Masai Mara, one of Africa’s greatest wildlife national reserves.
+* The road gave way Wednesday morning in an apparent landslide. At least 30 other people were injured, many of them seriously.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The killing of the four officers in a usually quiet neighborhood, where a running gun battle left people scrambling for cover, stunned residents and brought anguish across the city.
+* Two Republican state senators broke with their party to ensure final passage of the repeal. Gov. Katie Hobbs, a Democrat, is expected to sign it on Thursday.
 * Amputees who try to join the U.S. armed forces are rejected, no matter how capable they are. Hannah Cvancara wants to change that.
-* A law firm examining accusations that Ted Nash sexually abused Jennifer Fox — when she was 13 and he was her 40-year-old running coach — found that her claims were credible.
-* The expansion would extend largely free health coverage to 200,000 more low-income adults. But hurdles remain, including a likely veto by Gov. Tate Reeves.
-* Two Republican state senators have said they support scrapping the law, enough to ensure final passage of repeal.
-* The ban, which took effect on Wednesday, was part of Gov. Ron DeSantis’s push into cultural conservatism. But Florida politics is rarely that simple.
-* A powerful tornado ripped through a community in northeastern Kansas on Tuesday afternoon, destroying dozens of homes and structures and killing at least one person, officials said.
-* In a 2-to-1 decision, the panel sided with challengers who argued that the map that created a second Black majority district was an “impermissible racial gerrymander.”
-* Albuquerque Public Schools in New Mexico also installed an acting principal as it investigates a high school prom.
-* The firm, LaRocca Hornik, has represented Donald Trump’s political operation in numerous suits dating to his first presidential run, including a pregnancy discrimination case in New York.
+* In a meeting on Wednesday, church leaders also voted to allow L.G.B.T.Q. weddings.
+* The 6,000 residents of Littleton, N.H., had found a way to coexist despite their differences — until a town official’s words set off a conflagration.
+* The body of Miguel Angel Luna Gonzalez, one of the six workers who went missing in the collapse, was recovered on Wednesday. One more remains unaccounted for.
+* The tumult in Bloomington, Ind., where large protests have led to dozens of arrests and calls for university leaders to resign, shows the reach of the protest movement.
+* In 30 years of Senate bids, Mr. Biden was such a formidable incumbent that he did not face a serious threat to his return to office. His last re-election is shaping up to be something different: a fight.
+* The founder of the modern Games thought they should honor both body and mind. But the tradition died years ago, and the winning artworks are largely forgotten.
+* “If everything’s honest, I’ll gladly accept the results. I don’t change on that,” Donald Trump told The Milwaukee Journal Sentinel. “If it’s not, you have to fight for the right of the country.”
+* The former president recalled a key detail central to testimony before the Jan. 6 committee during a campaign event in Wisconsin.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* “Panda diplomacy” has represented an area of cooperation between the United States and China despite tension over weighty issues of trade and national security.
+* Also, China’s surging electric car market and a new Netflix series from India.
+* The penalties came after top Biden administration officials warned China not to help Moscow restock its arsenal to attack Ukraine.
+* For the first time, China has more than 100 incarcerated writers, and Israel and Russia entered the list of the 10 countries with the most imprisoned writers.
 * Professor Zhang Yongzhen had flouted a government ban by disclosing the genome of the Covid virus soon after it emerged in Wuhan in 2020.
-* The road gave way in the early morning in an apparent landslide. At least 30 other people were injured, many of them seriously.
+* The road gave way Wednesday morning in an apparent landslide. At least 30 other people were injured, many of them seriously.
 * “Indian Idol,” the Hindi version of “American Idol,” is a pleasant distraction from life’s more trying predicaments.
-* Sanjay Leela Bhansali’s films are known for splendor, grandiosity and obsessive attention to light and detail. Will that translate to mobile screens?
+* Sanjay Leela Bhansali’s films are known for splendor, grandiosity and obsessive attention to light and detail. Will that translate to smaller screens?
 * A walkout by physicians has dragged on for weeks, as they protest a plan by President Yoon Suk Yeol’s government to increase medical school enrollment.
 * More capable autonomous driving is just one way Chinese automakers are threatening to pull ahead — their E.V.s are also becoming bigger and roomier.
-* Also, a judge fined Donald Trump for breaking a gag order.
-* An environmental movement is growing in the world’s most populous Muslim nation.
-* Also, Russia advances in eastern Ukraine.
-* Elon Musk met with the country’s premier, a longtime Tesla ally, and secured regulatory nods and a necessary partnership with a Chinese tech company.
 
 ![Asian](./asian.png)
