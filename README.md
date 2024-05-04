@@ -2,32 +2,35 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The suspension will last until “uninterrupted and adequate” aid is allowed into the territory, Turkey said.
-* Though likely to displease both Israel’s right wing and many Arab states, it signals that Israel is thinking about the future, and could inform future talks.
-* The scale of the losses suffered by Prime Minister Rishi Sunak’s party sent an ominous message about its chances in an upcoming general election.
-* The United States is rushing support to Haiti’s depleted police force, which is awaiting international help as it tries to restore order and quell violence.
-* President Biden and Ukraine’s allies have invoked a sense of urgency over weapon deliveries. But there are logistical hurdles, and Ukraine has little time to lose.
-* The State Department said Russia had used chloropicrin, a poison gas widely used during World War I, against Ukrainian forces, an act that would violate a global ban signed by Moscow.
-* On an island whose religious diversity is part of its democratic identity, many of the faithful participating in a pilgrimage for Mazu, Goddess of the Sea, were in their 20s and teens.
-* A three-team race is deciding this year’s Premier League champion. The competition’s global reach means a significant portion of the world’s population is following along.
-* President Biden also referred to Russia and China, saying they “don’t want immigrants.” A spokesman said the president was trying to make a comment about America’s immigrant “DNA,” not insult other countries.
-* The Biden administration wants to focus on a cease-fire and rebuilding Gaza, but Israel’s leader is pushing a new offensive.
+* Russian military efforts to recruit women from prisons and civilian life have clashed with President Vladimir V. Putin’s conservative agenda.
+* Nine months after a coup in Niger, Mohamed Bazoum, an ally of France and the U.S., remains locked in the presidential residence, cut off from contact with anyone but his doctor.
+* Consumer technologies are altering the course of the battle in Myanmar, and rebel drone units are taking notes on Ukraine and other conflicts.
+* The killing of Hardeep Singh Nijjar, a Sikh nationalist who had sought a separate state in India and was viewed as a terrorist by New Delhi, set off diplomatic tensions between Canada and India.
+* Mexican authorities recovered the three bodies as a search went on for two Australian tourists and a U.S. citizen who disappeared while on vacation.
+* A complex legal question became more pressing after a statement from the U.N. human rights chief.
+* Political crisis has embroiled Panama’s May 5 presidential election, exacerbating uncertainty in a country dealing with drought and fallout from widespread protests.
+* Abroad, some have praised the demonstrations. Others call the crackdowns evidence of American hypocrisy, or of a nation coming apart.
+* Israeli officials say they are discussing inviting Arab states to help oversee Gaza after the war. Arab officials rejected the idea because it doesn’t ensure Palestinian statehood.
+* Turkey said it would not resume trade with Israel until a “permanent cease-fire” in Gaza. The move came after a number of countries cut diplomatic ties with Israel.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Amputees who try to join the U.S. armed forces are rejected, no matter how capable they are. Hannah Cvancara wants to change that.
-* Three Iraqi men sued a Virginia contractor that supplied interrogators to the U.S. military after the 2003 invasion of Iraq.
-* At U.C.L.A., a few professors helped negotiate with the university. At Columbia, they guarded the encampment. But not all faculty members are on board.
-* Adam and Ola Abo Sheriah absorb a loss few of their friends and neighbors in New Jersey can imagine, and scramble to help surviving family members in Gaza while trying to get their kids to school on time.
-* Thousands of immigrants in the Deferred Action for Childhood Arrivals program could obtain federal health coverage later this year under a new Biden administration rule.
-* With tensions escalating and Republicans pouncing, President Biden finally weighed in and sought to increase the distance between himself and some of the more radical activism on colleges.
+* State lawmakers failed to reach a compromise, dashing hopes of extending largely free health care to most low-income residents and supporting struggling rural hospitals.
+* Both states are reliably Republican and have abortion bans that are among the strictest in the nation.
 * The first big pro-Israel counter demonstration was on Sunday in Los Angeles, home to large Israeli and Jewish populations. More are planned in the coming days.
-* President Biden and Ukraine’s allies have invoked a sense of urgency over weapon deliveries. But there are logistical hurdles, and Ukraine has little time to lose.
-* The first lady commended the winner of the National Teacher of the Year award during an event evoking formal state dinners.
-* A union representing academic workers said it would file unfair labor charges against the University of California, Los Angeles, and potentially walk out over the handling of protests this week.
+* Amputees who try to join the U.S. armed forces are rejected, no matter how capable they are. Hannah Cvancara wants to change that.
+* The comedian, long beloved for his apolitical riffs, has been wrestling with what it means to be Jewish amid the Israel-Hamas war. Not everyone is pleased.
+* Photos of the Kentucky Derby, which is marking its 150th anniversary.
+* The protests against Israel’s war in Gaza are merely the latest in a tradition of student-led, left-leaning activism dating back at least to the civil rights and anti-Vietnam War protests of the 1960s.
+* Ohio State, Indiana University and Northeastern have graduation ceremonies this weekend, all happening on the heels of clashes between protesters and the police.
+* Conservative state governments are forbidding school districts from doing what the Department of Education says they must, under new Title IX regulations on students’ gender identity.
+* Democrats call Donald J. Trump dangerous. Republicans see him as revolutionary. For young Trump voters, he is just normal.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Consumer technologies are altering the course of the battle in Myanmar, and rebel drone units are taking notes on Ukraine and other conflicts.
+* The killing of Hardeep Singh Nijjar, a Sikh nationalist who had sought a separate state in India and was viewed as a terrorist by New Delhi, set off diplomatic tensions between Canada and India.
+* Since pulling out of an arms-limitation agreement with Russia in 2019, the U.S. has quickly developed new weapons that could be used to stop a Chinese invasion force.
 * On an island whose religious diversity is part of its democratic identity, many of the faithful participating in a pilgrimage for Mazu, Goddess of the Sea, were in their 20s and teens.
 * A three-team race is deciding this year’s Premier League champion. The competition’s global reach means a significant portion of the world’s population is following along.
 * If successful, the Chang’e-6 mission will be the first in history to return a sample from a part of the moon that we never get to see from Earth.
@@ -35,8 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * President Biden also referred to Russia and China, saying they “don’t want immigrants.” A spokesman said the president was trying to make a comment about America’s immigrant “DNA,” not insult other countries.
 * For the first time, scientists observed a primate in the wild treating a wound with a plant that has medicinal properties.
 * “Panda diplomacy” has represented an area of cooperation between the United States and China despite tension over weighty issues of trade and national security.
-* Also, China’s surging electric car market and a new Netflix series from India.
-* The penalties came after top Biden administration officials warned China not to help Moscow restock its arsenal to attack Ukraine.
-* For the first time, China has more than 100 incarcerated writers, and Israel and Russia entered the list of the 10 countries with the most imprisoned writers.
 
 ![Asian](./asian.png)
