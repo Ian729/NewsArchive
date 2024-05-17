@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Officials said Prime Minister Robert Fico’s condition had stabilized. Politicians called for calm after what the government described as a politically motivated assassination attempt.
-* Ukraine said it was slowing Russia’s push near Kharkiv, but still faced pitched battles there, as well as other hotly contested areas farther south.
-* Little humanitarian aid has entered Gaza since Israeli troops moved into Rafah last week.
+* It is the first humanitarian aid in months to be sent to the territory by sea. Pentagon officials said that no U.S. troops entered Gaza.
+* President Biden is pushing for a broad deal that would get Israel to approve a Palestinian nation in return for Saudi recognition of Israel. But officials need to overcome Israeli opposition.
+* The strikes targeted southwestern Russia and the Russian-occupied peninsula of Crimea, hitting oil facilities and a substation, leading to rolling blackouts.
+* The Russian leader visited an institute in Harbin known for defense research. President Xi Jinping saw him off with a rare and seemingly deliberate embrace for the cameras.
+* The synagogue, in Rouen, northern France, sustained “significant damage,” but nobody other than the assailant was harmed, the authorities said.
+* The sport came to Beto Gomez’s small Indigenous town nearly two decades ago. Despite some resistance back home, he is now the world’s only professional kite surfer with Wayuu roots.
+* France has sent troops to quell violence in New Caledonia, where Paris is seen as backtracking on promises of self-determination.
+* As it concludes an epic title race, soccer’s richest competition is a picture of health on the field. Away from it, the league faces lawsuits, infighting and the threat of government regulation.
+* Years of vitriolic rhetoric, worsened by the Covid-19 pandemic and the war in Ukraine, left Slovakia with bitter political division.
 * After 50 years of failure to stop violence and terrorism against Palestinians by Jewish ultranationalists, lawlessness has become the law.
-* In talks with China’s leader, in Beijing, the Russian president called for stronger economic ties between the countries, as he intensifies his war effort.
-* China’s backing will be crucial to President Vladimir V. Putin as he intensifies his offensive in Ukraine. But his host, Xi Jinping, has other competing priorities.
-* Vladimir Putin’s message to his country appears to be taking hold: that Russia is fighting against the whole Western world — and winning.
-* Much of the recent international discussion of Mr. Fico’s leadership has focused on his ties to President Vladimir Putin of Russia and Prime Minister Viktor Orban of Hungary.
-* Jonathan Yeo’s painting of King Charles III has prompted both admiration and bemusement, but it’s far from the first royal portrait to divide opinion.
-* The agreement excludes the populist politician Geert Wilders from becoming prime minister.
 
 ![Global](./global.png)
 ## New York Times United States News
+* The man, Daniel S. Perry, was convicted of killing a protester during a Black Lives Matter demonstration in Austin.
+* “It’s on all of us to make sure the next time we need to get help for someone, we do better,” Cara Lamb, the gunman’s ex-wife, told the commission investigating the October mass shooting.
 * New census estimates find moderate post-pandemic rebounds for big cities in the Midwest and Northeast.
 * A union representing about 48,000 academic workers said that campus leaders mishandled pro-Palestinian demonstrations. The vote gives the union’s executive board the ability to call a strike at any time.
-* The first big pro-Israel counter demonstration was on Sunday in Los Angeles, home to large Israeli and Jewish populations. More are planned in the coming days.
-* A Coast Guard leader told Congress that bridges around the country needed to be assessed to avoid repeating the crash that knocked down the Key Bridge in Baltimore.
-* A deal to allow the Israeli billionaire Dan Gertler to cash out his mining positions in the Democratic Republic of Congo has enraged human rights activists and some government officials.
-* For nearly 40 years, the Commission on Presidential Debates has made the rules for the most-watched events in politics. This year, both campaigns said no thanks.
-* The Judiciary and Oversight Committees will discuss the option in response to Merrick B. Garland’s refusal to turn over audio of a special counsel’s interview with President Biden.
-* Mitch McConnell and other top Republicans want more federal money for the military. But Democrats say domestic programs must get an equivalent boost.
-* The Democratic Party has taken heat for not backing Black female candidates in competitive, statewide races, but in November, voters could double the number of Black women ever elected to the Senate.
-* Ms. Shanahan, who has fueled Robert F. Kennedy Jr.’s campaign financially since becoming his running mate, has now poured nearly $15 million into the long-shot effort to elect him president.
+* As some of the loudest singing insects on Earth are back to chirp at a volume similar to an airplane’s, Americans are rejoicing or covering their ears. Listen to some of the species.
+* President Biden is pushing for a broad deal that would get Israel to approve a Palestinian nation in return for Saudi recognition of Israel. But officials need to overcome Israeli opposition.
+* In Montana, Republicans are trying to paint Senator Jon Tester as a Washington sellout, while their own candidate, Tim Sheehy, faces scrutiny over his credibility and how he sustained a gunshot wound.
+* The authorities had given demonstrators until 7 p.m. to vacate a new encampment that had been erected at a fire-damaged complex on campus.
+* School officials canceled classes in the city on Friday, and hundreds of thousands were left without power. It may take as much as 48 hours to restore power to some customers.
+* It is a time-honored tradition in U.S. politics: wealthy people burning through their fortunes to ultimately lose an election.
 
 ![US](./usnews.png)
 ## New York Times Asia News
-* In talks with China’s leader, in Beijing, the Russian president called for stronger economic ties between the countries, as he intensifies his war effort.
-* The reported explosion did not affect construction at the facility, which helped the Taiwanese company secure a $6.6 billion U.S. grant last month.
-* China’s backing will be crucial to President Vladimir V. Putin as he intensifies his offensive in Ukraine. But his host, Xi Jinping, has other competing priorities.
-* Also, mixed reviews for King Charles’s portrait.
-* He built Sarvodaya, an organization that battled dismal living conditions in his country’s villages and championed peace and mediation during a vicious civil war.
-* The French authorities have undertaken a “massive” mobilization of security forces since violence broke out over a constitutional amendment that changes voting rules in the South Pacific territory.
-* Kei Kobayashi, who earned three Michelin stars in France, has come home to build an empire.
-* FIFA tried to put a corruption crisis behind by changing its rules and claiming its governance overhaul had the endorsement of the Justice Department. U.S. officials say that was never the case.
-* Filipino civilians set sail in fishing boats to oppose China’s control of a shoal claimed by the Philippines. A formidable Chinese fleet awaited them.
-* Responding to a court order, YouTube and its sister company, Google, will block viewers in the region from viewing videos of the song, “Glory to Hong Kong.”
+* France has sent troops to quell violence in New Caledonia, where Paris is seen as backtracking on promises of self-determination.
+* President Biden is pushing for a broad deal that would get Israel to approve a Palestinian nation in return for Saudi recognition of Israel. But officials need to overcome Israeli opposition.
+* The Russian leader visited an institute in Harbin known for defense research. President Xi Jinping saw him off with a rare and seemingly deliberate embrace for the cameras.
+* Signaling growing alarm, policymakers ramped up efforts to stem a continued decline in real estate values.
+* At a sanctuary on New Zealand’s North Island, the long-endangered flightless birds have grown so much in number that they are being transported to other areas to start new colonies.
+* The island democracy was early to ban TikTok on government phones, and the ruling party refuses to use it. But a U.S.-style ban is not under consideration.
+* Also, Michael Cohen kept his cool under cross-examination.
+* He fought prejudice and incarceration during World War II to lead a successful career, becoming one of the first editors of color at a metropolitan newspaper.
+* At a summit with China’s leader, in Beijing, the Russian president called for stronger economic ties between the countries, as he intensifies his war effort.
+* Construction at the facility was not affected. The Biden administration awarded the company a $6.6 billion grant last month to expand in the United States.
 
 ![Asian](./asian.png)
