@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The European nations joined scores of others that recognize Palestinian statehood, which Israel has long opposed.
-* How the United States backed kidnapping, torture and murder in Afghanistan.
-* State news media in Iran reported that the political leader of Hamas was in the capital for the funeral. It was not immediately clear how many foreign dignitaries would attend.
-* The sudden death of President Ebrahim Raisi is not expected to affect the actions of groups like Hezbollah and the Houthis, which are vital to Iran’s power.
-* The White House is hosting President William Ruto of Kenya for a state dinner this week, an embrace that both countries urgently need.
-* As they evacuated from the fighting in Ukraine, the passengers already thought of what they left behind.
-* As Moscow’s forces retake land from which they were ousted at the end of 2022, the Ukrainian military has adopted a strategy of fighting while slowly falling back to more heavily fortified positions.
-* “Shoot down what’s in the sky over Ukraine,” he said in a wide-ranging interview with The New York Times. “And give us the weapons to use against Russian forces on the borders.”
-* It remains unclear what strategy President Emmanuel Macron of France will pursue to defuse tensions in New Caledonia, where six people have died in recent days.
-* But it remains unclear whether Gen. To Lam, the new president, can rise to the post of the top leader, the chief of the Vietnamese Communist Party.
+* Some Israeli politicians seized on the images to try to rebuff the decision by three European countries to unilaterally recognize a Palestinian state.
+* Not on its own, in all likelihood. But it reflects a growing, global exasperation with Israel that might eventually lend momentum to a two-state solution.
+* Strong wind caused the collapse in northern Mexico as a presidential hopeful campaigned for a local candidate, officials said. Dozens of people were injured.
+* China said the sea and air drills were meant as a “stern warning” to its opponents after Taiwan’s new president asserted the island’s sovereignty in defiance of Beijing.
+* For decades, international soldiers have deployed to Haiti, sometimes leaving behind a troubled legacy.
+* Despite a relatively wet spring, government officials are warning that persistent drought across Western Canada could leave the region vulnerable to major fires.
+* After setting a very high bar for his party in the election, Prime Minister Narendra Modi often appears on the defensive as the voting nears its end.
+* New Caledonia, a French territory in the Pacific, is on the brink of civil war as pro-independence activists protest a law that would expand voting rights.
+* The president, who died in a helicopter crash, will be buried at a shrine in the northeastern city of Mashhad, his hometown.
+* What to know about Karim Khan’s decision to seek arrest warrants for three Hamas leaders as well as Israel’s prime minister, Benjamin Netanyahu, and defense minister, Yoav Gallant.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The hottest May on record for the city has experts worried about the summer — and hurricane season — to come.
-* With Gov. Henry McMaster’s signature, the state joins about two dozen others in passing laws that restrict or ban such medical care for transgender minors.
-* Karen Read has been accused of murdering her boyfriend, Officer John O’Keefe. But her lawyers say she’s innocent, alleging a cover-up to hide the truth about his death.
-* A total of 50 people, including former President Donald J. Trump, are now facing charges in four states related to efforts to keep Mr. Trump in power after he lost in 2020.
-* The bipartisan request for a criminal inquiry relies on a law that gives the Justice Department the power to prosecute doping offenses that do not occur in the United States.
-* The announcement applied to 160,000 federal loan borrowers and brings the total debt canceled by the administration to $167 billion.
-* Charged with defrauding thousands of investors in the U.S. and overseas of more than $1 billion, Guo Wengui could face decades in prison.
-* Democrats are planning to spotlight Republicans’ opposition to legislation protecting birth control access nationwide, as part of an election-year push.
-* The Chicago City Council is expected to seek the public transit chief’s ouster as the system wrestles with financial woes, sluggish service and crime complaints since the pandemic.
-* The job is not what it used to be. There are openings at U.C.L.A., Yale, Harvard, Cornell, Penn … and many, many others.
+* Justine Payton was drawn to a Hare Krishna ashram for its yoga, meditation and vegan meals. She’s still figuring out what went wrong.
+* The rancor started with a student letter that held Israel responsible for the violence of the Oct. 7 Hamas attacks. Now, 13 seniors are barred from graduation.
+* The leaders of Northwestern, Rutgers and the University of California, Los Angeles, will be the latest educators questioned by Republicans over accusations of allowing antisemitism.
+* Multiple people died in Greenfield, Iowa, population 2,000, where search and rescue efforts were continuing on Wednesday.
+* The billionaire Rob Hale gave the 1,200 graduates of the University of Massachusetts Dartmouth a gift, and asked them to give, too.
+* Unprecedented overdose rates from fentanyl and other drugs have left signs of loss across the city.
+* With less than six months until the 2024 election, the political uses of A.I. are more theoretical than transformational. “This is the dog that didn’t bark,” said one adviser to a Democratic donor.
+* An internal analysis found nearly twice as many pro-Trump posts as pro-Biden ones on TikTok since November, a sign of the right’s use of a liberal-friendly platform.
+* A “major non-NATO ally” is a country whose military has a strategic working relationship with the United States.
+* Nearly 6,000 people have died over the past six years — an unparalleled number among U.S. cities.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* After setting a very high bar for his party in the election, Prime Minister Narendra Modi often appears on the defensive as the voting nears its end.
+* China said the sea and air drills were meant as a “stern warning” to its opponents after Taiwan’s new president asserted the island’s sovereignty in defiance of Beijing.
+* New Caledonia, a French territory in the Pacific, is on the brink of civil war as pro-independence activists protest a law that would expand voting rights.
+* Plus, three European countries recognize a Palestinian state.
+* Justine Payton was drawn to a Hare Krishna ashram for its yoga, meditation and vegan meals. She’s still figuring out what went wrong.
+* Singapore Airlines flight SQ321 was a rare instance of turbulence resulting in a death.
 * The bipartisan request for a criminal inquiry relies on a law that gives the Justice Department the power to prosecute doping offenses that do not occur in the United States.
 * Charged with defrauding thousands of investors in the U.S. and overseas of more than $1 billion, Guo Wengui could face decades in prison.
 * How the United States backed kidnapping, torture and murder in Afghanistan.
 * The end of the war in Afghanistan and the fall of its government allowed us to reach previously inaccessible records, places and people, documenting the bloody history of a key American ally.
-* It remains unclear what strategy President Emmanuel Macron of France will pursue to defuse tensions in New Caledonia, where six people have died in recent days.
-* But it remains unclear whether Gen. To Lam, the new president, can rise to the post of the top leader, the chief of the Vietnamese Communist Party.
-* Also, funeral ceremonies begin for Iran’s president.
-* Matthew Trickett, one of three men accused of gathering information for the special administrative region of China, died in a park outside London, the police said.
-* The Ukrainian president spoke to Times reporters in Kyiv for nearly an hour.
-* Experts say the opinion, though nonbinding, is likely to lead to more claims for damages against polluting nations.
 
 ![Asian](./asian.png)
