@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Some Israeli politicians seized on the images to try to rebuff the decision by three European countries to unilaterally recognize a Palestinian state.
-* Not on its own, in all likelihood. But it reflects a growing, global exasperation with Israel that might eventually lend momentum to a two-state solution.
-* Strong wind caused the collapse in northern Mexico as a presidential hopeful campaigned for a local candidate, officials said. Dozens of people were injured.
-* China said the sea and air drills were meant as a “stern warning” to its opponents after Taiwan’s new president asserted the island’s sovereignty in defiance of Beijing.
-* For decades, international soldiers have deployed to Haiti, sometimes leaving behind a troubled legacy.
-* Despite a relatively wet spring, government officials are warning that persistent drought across Western Canada could leave the region vulnerable to major fires.
-* After setting a very high bar for his party in the election, Prime Minister Narendra Modi often appears on the defensive as the voting nears its end.
-* New Caledonia, a French territory in the Pacific, is on the brink of civil war as pro-independence activists protest a law that would expand voting rights.
-* The president, who died in a helicopter crash, will be buried at a shrine in the northeastern city of Mashhad, his hometown.
-* What to know about Karim Khan’s decision to seek arrest warrants for three Hamas leaders as well as Israel’s prime minister, Benjamin Netanyahu, and defense minister, Yoav Gallant.
+* South Africa has requested that the International Court of Justice in The Hague order Israel to halt its ground assault in southern Gaza.
+* Aid officials and health experts expect famine this month unless Israel lifts barriers to aid, the fighting stops and vital services are restored.
+* Russia has deployed advanced tech to interfere with Elon Musk’s satellite internet service, Ukrainian officials said, leading to more outages on the northern front battle line.
+* At least 50 convicts have been freed under a new law that allows them to serve in exchange for the possibility of parole, part of an effort to replenish Ukraine’s depleted forces.
+* With a focus on affordability, community, convenience and light, Liu Thai Ker replaced squalid slums with spacious high-rises. A recent spike in some sale prices, however, has saddened him.
+* Singapore’s public housing system has been a great success and a key factor in the nation’s development. But in recent years, rising prices have raised questions about affordability.
+* The success of Barcelona’s team has made Catalonia a laboratory for finding out what happens when the women’s game has prominence similar to the men’s.
+* The Pentagon predicted that a stream of humanitarian aid would be arriving in Gaza via the floating pier, but little relief has reached the besieged strip, officials acknowledged this week.
+* In Safed, a center of kabbalah, ordinary citizens shocked by the Oct. 7 attacks are carrying military-grade weapons.
+* The exclusion is a sign that domestic troubles for the Alternative for Germany party are starting to spill into European Union politics before elections.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Justine Payton was drawn to a Hare Krishna ashram for its yoga, meditation and vegan meals. She’s still figuring out what went wrong.
-* The rancor started with a student letter that held Israel responsible for the violence of the Oct. 7 Hamas attacks. Now, 13 seniors are barred from graduation.
-* The leaders of Northwestern, Rutgers and the University of California, Los Angeles, will be the latest educators questioned by Republicans over accusations of allowing antisemitism.
-* Multiple people died in Greenfield, Iowa, population 2,000, where search and rescue efforts were continuing on Wednesday.
 * The billionaire Rob Hale gave the 1,200 graduates of the University of Massachusetts Dartmouth a gift, and asked them to give, too.
-* Unprecedented overdose rates from fentanyl and other drugs have left signs of loss across the city.
-* With less than six months until the 2024 election, the political uses of A.I. are more theoretical than transformational. “This is the dog that didn’t bark,” said one adviser to a Democratic donor.
-* An internal analysis found nearly twice as many pro-Trump posts as pro-Biden ones on TikTok since November, a sign of the right’s use of a liberal-friendly platform.
-* A “major non-NATO ally” is a country whose military has a strategic working relationship with the United States.
-* Nearly 6,000 people have died over the past six years — an unparalleled number among U.S. cities.
+* The leaders of Northwestern, Rutgers and the University of California, Los Angeles, appeared to have navigated their testimony before Congress without many significant missteps.
+* Anger at the university’s decision to bar 13 seniors from the ceremony in the wake of campus demonstrations over the war in Gaza was a flashpoint for the protest on Thursday.
+* Justine Payton was drawn to a Hare Krishna ashram for its yoga, meditation and vegan meals. She’s still figuring out what went wrong.
+* Many officials may be confronting federal investigations, disputes over student discipline — and the prospect that the protests start all over again in the fall.
+* Donald Trump’s interest in the Arkansas senator reflects a desire to choose a running mate with experience and the ability to run a disciplined campaign.
+* Bryan Malinowski was the executive director of the airport in Little Rock, Ark., and sold firearms at gun shows. Federal agents believed he was breaking the law.
+* If approved by a judge, the $2.8 billion settlement of an antitrust lawsuit would allow for the first revenue-sharing plan for college athletes. The question now: How will it work?
+* The state dinner was held in honor of the African nation, but it was clear that the night was about keeping Democratic allies close as President Biden heads into the heat of the 2024 campaign season.
+* Lawyers for the Republican National Convention asked again for the Secret Service to relocate a protest zone for the party’s convention in July. The agency quickly pushed back.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Singapore’s public housing system has been a great success and a key factor in the nation’s development. But in recent years, rising prices have raised questions about affordability.
+* With a focus on affordability, community, convenience and light, Liu Thai Ker replaced squalid slums with spacious high-rises. A recent spike in some sale prices, however, has saddened him.
+* A new approach by China’s top leaders is bold but pales against the problem: a vast number of empty apartments no one wants to buy.
+* Also, China holds ‘punishment’ drills around Taiwan.
 * After setting a very high bar for his party in the election, Prime Minister Narendra Modi often appears on the defensive as the voting nears its end.
 * China said the sea and air drills were meant as a “stern warning” to its opponents after Taiwan’s new president asserted the island’s sovereignty in defiance of Beijing.
 * New Caledonia, a French territory in the Pacific, is on the brink of civil war as pro-independence activists protest a law that would expand voting rights.
 * Plus, three European countries recognize a Palestinian state.
 * Justine Payton was drawn to a Hare Krishna ashram for its yoga, meditation and vegan meals. She’s still figuring out what went wrong.
 * Singapore Airlines flight SQ321 was a rare instance of turbulence resulting in a death.
-* The bipartisan request for a criminal inquiry relies on a law that gives the Justice Department the power to prosecute doping offenses that do not occur in the United States.
-* Charged with defrauding thousands of investors in the U.S. and overseas of more than $1 billion, Guo Wengui could face decades in prison.
-* How the United States backed kidnapping, torture and murder in Afghanistan.
-* The end of the war in Afghanistan and the fall of its government allowed us to reach previously inaccessible records, places and people, documenting the bloody history of a key American ally.
 
 ![Asian](./asian.png)
