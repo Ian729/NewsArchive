@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* South Africa has requested that the International Court of Justice in The Hague order Israel to halt its ground assault in southern Gaza.
-* Aid officials and health experts expect famine this month unless Israel lifts barriers to aid, the fighting stops and vital services are restored.
-* Russia has deployed advanced tech to interfere with Elon Musk’s satellite internet service, Ukrainian officials said, leading to more outages on the northern front battle line.
-* At least 50 convicts have been freed under a new law that allows them to serve in exchange for the possibility of parole, part of an effort to replenish Ukraine’s depleted forces.
-* With a focus on affordability, community, convenience and light, Liu Thai Ker replaced squalid slums with spacious high-rises. A recent spike in some sale prices, however, has saddened him.
-* Singapore’s public housing system has been a great success and a key factor in the nation’s development. But in recent years, rising prices have raised questions about affordability.
-* The success of Barcelona’s team has made Catalonia a laboratory for finding out what happens when the women’s game has prominence similar to the men’s.
-* The Pentagon predicted that a stream of humanitarian aid would be arriving in Gaza via the floating pier, but little relief has reached the besieged strip, officials acknowledged this week.
-* In Safed, a center of kabbalah, ordinary citizens shocked by the Oct. 7 attacks are carrying military-grade weapons.
-* The exclusion is a sign that domestic troubles for the Alternative for Germany party are starting to spill into European Union politics before elections.
+* As a frenzied quest began for the fallen helicopter of President Ebrahim Raisi, Iran moved to control possible threats from abroad and unrest at home.
+* Reviving a Mao-era surveillance campaign, the authorities are tracking residents, schoolchildren and businesses to forestall any potential unrest.
+* Despite fierce criticism, Israel insists it must take control of Rafah and the border with Egypt to prevent future arms smuggling.
+* In 2016, Britain voted for Brexit and America for Trump, heralding a populist wave. Both countries face pivotal elections this year — but their paths appear to have diverged.
+* Short of troops and artillery, soldiers increasingly have been relying on pilotless drones to drop explosives and supplies to hold Chasiv Yar. But how long can they slow the Russian advance?
+* Nearly 4,000 people live in villages that were engulfed, a local official said. Unstable debris was complicating search and rescue efforts in a rural part of the Pacific nation.
+* The assassination of Gisela Gaytán shocked Mexico. She was among dozens of aspirants for public office killed in recent months.
+* Across Mexico, dozens of candidates, their relatives and party members have been targeted in violent attacks before next month’s general election.
+* The latest assault by Haitian gangs left three people, including two American missionaries and a local pastor, dead in Port-au-Prince.
+* The International Court of Justice has no means to enforce its order in the Gazan city, but the ruling added pressure on the government of Prime Minister Benjamin Netanyahu of Israel.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The billionaire Rob Hale gave the 1,200 graduates of the University of Massachusetts Dartmouth a gift, and asked them to give, too.
-* The leaders of Northwestern, Rutgers and the University of California, Los Angeles, appeared to have navigated their testimony before Congress without many significant missteps.
-* Anger at the university’s decision to bar 13 seniors from the ceremony in the wake of campus demonstrations over the war in Gaza was a flashpoint for the protest on Thursday.
+* The unusual lawsuits filed on Friday are among the most far-reaching to be filed in response to the escalating number of mass shootings in the United States.
+* The landmark settlement made many wonder what the reality — and impact — of revenue-sharing plans with college athletes would look like.
 * Justine Payton was drawn to a Hare Krishna ashram for its yoga, meditation and vegan meals. She’s still figuring out what went wrong.
-* Many officials may be confronting federal investigations, disputes over student discipline — and the prospect that the protests start all over again in the fall.
-* Donald Trump’s interest in the Arkansas senator reflects a desire to choose a running mate with experience and the ability to run a disciplined campaign.
-* Bryan Malinowski was the executive director of the airport in Little Rock, Ark., and sold firearms at gun shows. Federal agents believed he was breaking the law.
-* If approved by a judge, the $2.8 billion settlement of an antitrust lawsuit would allow for the first revenue-sharing plan for college athletes. The question now: How will it work?
-* The state dinner was held in honor of the African nation, but it was clear that the night was about keeping Democratic allies close as President Biden heads into the heat of the 2024 campaign season.
-* Lawyers for the Republican National Convention asked again for the Secret Service to relocate a protest zone for the party’s convention in July. The agency quickly pushed back.
+* Edan On, an 18-year-old, was charged with assault. The police said he beat pro-Palestinian protesters with a wooden pole.
+* President Biden’s address comes at a moment of military upheaval abroad, university protests at home and a looming White House rematch with former President Donald J. Trump.
+* The greed-is-good era was the last time his preferred public image was intact, and he’s been returning there in ways large and small as he sits through his criminal trial in Manhattan.
+* In an interview for a forthcoming book, Mrs. Clinton also suggested that if Donald Trump won in November “we may never have another actual election.”
+* The Kentuckian is deeply invested in trying to deliver a majority for his party before he exits leadership, capping a record-breaking run.
+* When the police dismantled a pro-Palestinian encampment at the University of Virginia, several professors put their own safety and job security on the line to protect student protesters. Now, faculty members give us a closer look into what happened.
+* If Donald Trump wins the presidency, Richard Grenell hopes to be secretary of state. But his work raises questions, even from his former boss.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Nearly 4,000 people live in villages that were engulfed, a local official said. Unstable debris was complicating search and rescue efforts in a rural part of the Pacific nation.
+* Reviving a Mao-era surveillance campaign, the authorities are tracking residents, schoolchildren and businesses to forestall any potential unrest.
+* U.S.-based Anzu Robotics is selling drones using technology from DJI, a Chinese firm that is the target of efforts by lawmakers to limit Chinese technology in America.
+* The dog, whose face helped spread the popular doge meme and later became the logo of the Dogecoin cryptocurrency, died on Friday.
+* Many more were missing in the Pacific nation as recovery and rescue efforts were delayed by a blocked highway and fallen boulders.
 * Singapore’s public housing system has been a great success and a key factor in the nation’s development. But in recent years, rising prices have raised questions about affordability.
 * With a focus on affordability, community, convenience and light, Liu Thai Ker replaced squalid slums with spacious high-rises. A recent spike in some sale prices, however, has saddened him.
 * A new approach by China’s top leaders is bold but pales against the problem: a vast number of empty apartments no one wants to buy.
 * Also, China holds ‘punishment’ drills around Taiwan.
 * After setting a very high bar for his party in the election, Prime Minister Narendra Modi often appears on the defensive as the voting nears its end.
-* China said the sea and air drills were meant as a “stern warning” to its opponents after Taiwan’s new president asserted the island’s sovereignty in defiance of Beijing.
-* New Caledonia, a French territory in the Pacific, is on the brink of civil war as pro-independence activists protest a law that would expand voting rights.
-* Plus, three European countries recognize a Palestinian state.
-* Justine Payton was drawn to a Hare Krishna ashram for its yoga, meditation and vegan meals. She’s still figuring out what went wrong.
-* Singapore Airlines flight SQ321 was a rare instance of turbulence resulting in a death.
 
 ![Asian](./asian.png)
