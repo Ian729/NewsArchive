@@ -3,40 +3,40 @@ Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
 * 
-* Just getting to survivors has proved to be an enormous challenge, with a blocked highway and unstable ground “posing ongoing danger” to rescue workers.
+* Iraqis want to help Palestinians but say they are still recovering from their own wars and fear playing host to a proxy fight between Iran and the United States.
+* We spoke to South Africans who grew up in the three decades since the country overthrew apartheid and held its first free election about their lives and plans to vote — or not — in this week's pivotal election.
+* As politicians stoke religious hatred online, these veterans of social causes deliver their messages in person: “Talk to each other. Don’t let anyone divide you.”
+* The storm, the first of the season, hit the South Asian countries after weeks of intense heat. Millions were left without power.
+* Nearly five days after the disaster hit a remote section of the country, officials have started evacuating residents. But the scale of the death toll remains uncertain.
+* Kim Jong-un, the leader of North Korea, has made deploying a fleet of spy satellites one of his country’s latest ​military ambitions.
+* A bipartisan delegation promised to stand by the island’s newly elected president, Lai Ching-te, after Beijing surrounded the self-governing island with naval vessels and aircraft.
 * The ruminants outnumber humans on the Mediterranean island of Alicudi 6 to 1 (maybe more). Officials have devised a plan to catch the goats and send them to adoptive homes elsewhere.
 * A play based on an 19th-century literary classic is a smash hit among Ukrainians who see in the story cultural and historical echoes of what they face after two years of war.
-* Despite years of criticism, President Vladimir V. Putin has only now changed his defense minister and allowed high-level corruption arrests.
-* In the first trilateral meeting since 2019, the neighbors sought common ground in trade and cultural exchange while tiptoeing around thorny security issues.
-* Tens of thousands of Hong Kongers have resettled in the U.K. since 2021, among them prominent pro-democracy activists. China has not forgotten them.
-* In a small English village, a group of dedicated locals has unearthed the remains of a long-vanished palace that had been home to Henry VIII’s grandmother.
-* The vote in 1994 was a time of hope — but in the weeks before, the country came close to the abyss. A photographer remembers what he witnessed.
-* India’s welfare programs improve lives. Prime Minister Narendra Modi’s party uses its vast machinery to ensure the handouts also create loyal voters.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Railroad unions are raising safety concerns about the growing use of remote-controlled trains after a rash of fatal accidents.
-* The jury unanimously sided with the performer in a case against a blogger who made false claims that the artist had exposed himself to a crowd at a pride event in 2022.
-* The billionaire Rob Hale gave the 1,200 graduates of the University of Massachusetts Dartmouth a gift, and asked them to give, too.
-* The job is not what it used to be. There are openings at U.C.L.A., Yale, Harvard, Cornell, Penn … and many, many others.
-* In a new memoir, a retired federal appeals court judge who was once a leading candidate for the Supreme Court reflects on candor and independence.
-* Sgt. Kennedy Sanders was killed in a drone attack on a U.S. outpost in Jordan. A collection of photos offers a glimpse into her life.
-* More tornado watches were issued in the Southeast on Monday, after powerful storms over the weekend left at least 18 dead.
-* The party selected Mr. Oliver as its presidential nominee. He ran for a Senate seat in Georgia in 2022.
-* In a video posted live by Minaj to Instagram, the rapper appeared to step into a law enforcement vehicle after being accused of “carrying drugs.”
-* Shayne Patrick Burke, a disabled veteran in the Army Reserve, said the attack was “the most violent” thing he had experienced, including being shot at.
+* Rogers, Ark., was one of many places hit hard by the rash of storms over Memorial Day weekend across the South.
+* The end of Roe has turned women who terminated pregnancies for medical reasons into a political force.
+* Justine Payton was drawn to a Hare Krishna ashram for its yoga, meditation and vegan meals. She’s still figuring out what went wrong.
+* The Black and Latino families of Section 14, who made up much of the labor force of Palm Springs, are asking for reparations for what they say was a racially motivated attack.
+* Preparing for a potential verdict in Manhattan, the former president has increasingly aligned himself with fellow defendants and people convicted of crimes.
+* Forecasters said there was a moderate risk of severe weather for Tuesday after powerful storms swept through large sections of the country over the Memorial Day weekend.
+* Politically disengaged Americans are increasingly Trump-curious, but President Biden has a shot at winning some of them back. Reaching them in a changed media environment will be his challenge.
+* At a time when the U.S. government is concerned about its reliance on a mercurial billionaire for access to space, new competitors say Elon Musk’s SpaceX is using tactics intended to squash them.
+* Johnny Wactor was fatally shot when he interrupted a person who was stealing his vehicle’s catalytic converter, his mother told a news outlet.
+* An earlier message from Donald J. Trump was more traditional, but it was quickly followed by one wishing a happy Memorial Day to “Human Scum.”
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Supporters of President Lai Ching-te are protesting legislative amendments introduced by the opposition that would limit his authority.
+* Nearly five days after the disaster hit a remote section of the country, officials have started evacuating residents. But the scale of the death toll remains uncertain.
+* The storm, the first of the season, hit the South Asian countries after weeks of intense heat. Millions were left without power.
+* The city, promised some autonomy by China, is trying to move on from a security law imposed by Beijing. Companies are learning that’s not always possible.
+* As politicians stoke religious hatred online, these veterans of social causes deliver their messages in person: “Talk to each other. Don’t let anyone divide you.”
+* Kim Jong-un, the leader of North Korea, has made deploying a fleet of spy satellites one of his country’s latest ​military ambitions.
+* A bipartisan delegation promised to stand by the island’s newly elected president, Lai Ching-te, after Beijing surrounded the self-governing island with naval vessels and aircraft.
 * In the first trilateral meeting since 2019, the neighbors sought common ground in trade and cultural exchange while tiptoeing around thorny security issues.
 * The United States and Europe are trying to catch up to a rival skilled in using all the levers of government and banking to dominate global manufacturing.
 * Disasters over the weekend that claimed at least 34 lives prompted condolences, arrests and finger-pointing. But systemic change remains elusive, analysts say.
-* More than 48 hours after the disaster, its full extent remains unclear, with aid slow to reach survivors and conditions on the ground still dangerous.
-* India’s welfare programs improve lives. Prime Minister Narendra Modi’s party uses its vast machinery to ensure the handouts also create loyal voters.
-* Officers said the cause of the fire was still under investigation, but that they planned to charge the owner of the facility with negligence.
-* Unnerving videos have circulated, showing a snarl of climbers on the summit ridge even as fewer permits were issued this year. Eighteen climbers died in 2023.
-* Nearly 4,000 people live in villages that were engulfed, a local official said. Unstable debris was complicating search and rescue efforts in a rural part of the Pacific nation.
-* Reviving a Mao-era surveillance campaign, the authorities are tracking residents, schoolchildren and businesses to forestall any potential unrest.
-* U.S.-based Anzu Robotics is selling drones using technology from DJI, a Chinese firm that is the target of efforts by lawmakers to limit Chinese technology in America.
 
 ![Asian](./asian.png)
