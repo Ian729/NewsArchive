@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* 
+* The munitions used in an attack on a camp for displaced people were identified by weapons experts and a Times visual analysis.
+* In northeastern Ukraine, and in the part of Russia it touches, the war strains the emotions of people with relatives, and family histories, that span both sides.
+* In pivotal elections on Wednesday, President Cyril Ramaphosa and his African National Congress party are struggling to keep the support of Black middle- and upper-class voters.
+* A record 51 parties are competing to unseat the long-ruling African National Congress in the national election on Wednesday. Here’s why it won’t be easy.
+* The South Korean military said on Wednesday that it found hundreds of balloons carrying garbage from North Korea.
+* Trees have been cut to create fire guards in Banff, the country’s most popular national park. After its warmest winter in history, Canada braces for another season of wildfires.
+* A surprise television hit, now on Netflix, has people talking about what Japan has lost with today’s changed sensibilities.
+* The environment will come first as France tries to revitalize the global image of its cuisine.
+* The Parliament, controlled by the Georgian Dream party, overrode a presidential veto of a bill critics say could undermine the country’s efforts to join the European Union.
 * Iraqis want to help Palestinians but say they are still recovering from their own wars and fear playing host to a proxy fight between Iran and the United States.
-* We spoke to South Africans who grew up in the three decades since the country overthrew apartheid and held its first free election about their lives and plans to vote — or not — in this week's pivotal election.
-* As politicians stoke religious hatred online, these veterans of social causes deliver their messages in person: “Talk to each other. Don’t let anyone divide you.”
-* The storm, the first of the season, hit the South Asian countries after weeks of intense heat. Millions were left without power.
-* Nearly five days after the disaster hit a remote section of the country, officials have started evacuating residents. But the scale of the death toll remains uncertain.
-* Kim Jong-un, the leader of North Korea, has made deploying a fleet of spy satellites one of his country’s latest ​military ambitions.
-* A bipartisan delegation promised to stand by the island’s newly elected president, Lai Ching-te, after Beijing surrounded the self-governing island with naval vessels and aircraft.
-* The ruminants outnumber humans on the Mediterranean island of Alicudi 6 to 1 (maybe more). Officials have devised a plan to catch the goats and send them to adoptive homes elsewhere.
-* A play based on an 19th-century literary classic is a smash hit among Ukrainians who see in the story cultural and historical echoes of what they face after two years of war.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Rogers, Ark., was one of many places hit hard by the rash of storms over Memorial Day weekend across the South.
-* The end of Roe has turned women who terminated pregnancies for medical reasons into a political force.
 * Justine Payton was drawn to a Hare Krishna ashram for its yoga, meditation and vegan meals. She’s still figuring out what went wrong.
-* The Black and Latino families of Section 14, who made up much of the labor force of Palm Springs, are asking for reparations for what they say was a racially motivated attack.
-* Preparing for a potential verdict in Manhattan, the former president has increasingly aligned himself with fellow defendants and people convicted of crimes.
-* Forecasters said there was a moderate risk of severe weather for Tuesday after powerful storms swept through large sections of the country over the Memorial Day weekend.
-* Politically disengaged Americans are increasingly Trump-curious, but President Biden has a shot at winning some of them back. Reaching them in a changed media environment will be his challenge.
-* At a time when the U.S. government is concerned about its reliance on a mercurial billionaire for access to space, new competitors say Elon Musk’s SpaceX is using tactics intended to squash them.
-* Johnny Wactor was fatally shot when he interrupted a person who was stealing his vehicle’s catalytic converter, his mother told a news outlet.
-* An earlier message from Donald J. Trump was more traditional, but it was quickly followed by one wishing a happy Memorial Day to “Human Scum.”
+* Despite gains, women still lag far behind men in the little-regulated industry of college sports. A proposed revenue-sharing deal could create new clashes over equality.
+* The landmark settlement that would create a revenue-sharing plan is part of a long arc of profits in college sports.
+* The policy could ease pressure on the school to issue statements on current events. Officials were criticized for their handling of the Oct. 7 Hamas attacks.
+* In their latest effort to court a crucial group of voters, the two leading Democrats will roll out an initiative called Black Voters for Biden-Harris at a rally in Philadelphia.
+* Martha-Ann Alito has built a limited public life since moving to Washington that has mainly centered on apolitical projects and charity work.
+* Judge Aileen Cannon’s handling of court hearings offers insights into how the case accusing Donald Trump of illegally retaining classified material has become bogged down in unresolved issues.
+* Years of messages from an encrypted WhatsApp text thread show conversations of sheriff’s deputies, including those who terrorized Mississippi residents.
+* Representative Tony Gonzales’s narrow victory over a far-right challenger came after a divisive race for the party, and most likely strengthened Republicans’ grip on the border district.
+* Dade Phelan, the speaker of the Texas House, defeated a party activist and first-time candidate backed by former President Donald J. Trump in a bitter contest.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The South Korean military said on Wednesday that it found hundreds of balloons carrying garbage from North Korea.
+* A surprise television hit, now on Netflix, has people talking about what Japan has lost with today’s changed sensibilities.
+* Surging exports and factory investment are buoying China’s output, but the housing market faces serious troubles and industrial policies may hurt other countries.
+* Plus, South Africa goes to the polls
 * Supporters of President Lai Ching-te are protesting legislative amendments introduced by the opposition that would limit his authority.
 * Nearly five days after the disaster hit a remote section of the country, officials have started evacuating residents. But the scale of the death toll remains uncertain.
 * The storm, the first of the season, hit the South Asian countries after weeks of intense heat. Millions were left without power.
 * The city, promised some autonomy by China, is trying to move on from a security law imposed by Beijing. Companies are learning that’s not always possible.
 * As politicians stoke religious hatred online, these veterans of social causes deliver their messages in person: “Talk to each other. Don’t let anyone divide you.”
 * Kim Jong-un, the leader of North Korea, has made deploying a fleet of spy satellites one of his country’s latest ​military ambitions.
-* A bipartisan delegation promised to stand by the island’s newly elected president, Lai Ching-te, after Beijing surrounded the self-governing island with naval vessels and aircraft.
-* In the first trilateral meeting since 2019, the neighbors sought common ground in trade and cultural exchange while tiptoeing around thorny security issues.
-* The United States and Europe are trying to catch up to a rival skilled in using all the levers of government and banking to dominate global manufacturing.
-* Disasters over the weekend that claimed at least 34 lives prompted condolences, arrests and finger-pointing. But systemic change remains elusive, analysts say.
 
 ![Asian](./asian.png)
