@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The munitions used in an attack on a camp for displaced people were identified by weapons experts and a Times visual analysis.
+* Israel’s national security adviser, Tzachi Hanegbi, appeared to reject the idea of a quick end to the war, though it was unclear what the intensity of the campaign would be.
+* There is a substantial consensus among legal experts that Israel cannot continue its current Rafah offensive without violating the court’s order.
+* As part of China’s crackdown on even peaceful opposition, a court in Hong Kong convicted 14 people, who now face prison time along with dozens of others.
+* A festival of classic cars from the communist era brings out some nostalgia in eastern Germany for pre-unification days, although the abuses that occurred behind the Iron Curtain aren’t forgotten.
+* Claudia Sheinbaum is the front-runner in Mexico’s presidential race, but she is wrestling with the image that she could be a pawn of the current president.
+* A man died and more than 70 other people were injured last week when a flight to Singapore from London hit sudden turbulence.
+* President Yoon Suk Yeol has been accused of intervening in a probe into an accidental death during a peacetime search and rescue operation.
+* Officials in the southern part of the country have rescued more than 12,500 animals in recent weeks since catastrophic floods inundated cities and towns.
+* President Biden is weighing fears of escalation with a nuclear-armed adversary as he considers whether to let Ukraine shoot American weapons into Russia.
 * In northeastern Ukraine, and in the part of Russia it touches, the war strains the emotions of people with relatives, and family histories, that span both sides.
-* In pivotal elections on Wednesday, President Cyril Ramaphosa and his African National Congress party are struggling to keep the support of Black middle- and upper-class voters.
-* A record 51 parties are competing to unseat the long-ruling African National Congress in the national election on Wednesday. Here’s why it won’t be easy.
-* The South Korean military said on Wednesday that it found hundreds of balloons carrying garbage from North Korea.
-* Trees have been cut to create fire guards in Banff, the country’s most popular national park. After its warmest winter in history, Canada braces for another season of wildfires.
-* A surprise television hit, now on Netflix, has people talking about what Japan has lost with today’s changed sensibilities.
-* The environment will come first as France tries to revitalize the global image of its cuisine.
-* The Parliament, controlled by the Georgian Dream party, overrode a presidential veto of a bill critics say could undermine the country’s efforts to join the European Union.
-* Iraqis want to help Palestinians but say they are still recovering from their own wars and fear playing host to a proxy fight between Iran and the United States.
 
 ![Global](./global.png)
 ## New York Times United States News
+* The modified Dodge Charger roaming Seattle’s downtown by night has infuriated residents. But it seems no one can stop it.
+* The speaker of the State House, Dade Phelan, survived a primary challenge from a Trump-backed activist, but many other Republican incumbents were ousted in bitter primary races.
+* Maurie D. McInnis, a cultural historian, will be the first woman to serve as the school’s permanent president.
 * Justine Payton was drawn to a Hare Krishna ashram for its yoga, meditation and vegan meals. She’s still figuring out what went wrong.
-* Despite gains, women still lag far behind men in the little-regulated industry of college sports. A proposed revenue-sharing deal could create new clashes over equality.
-* The landmark settlement that would create a revenue-sharing plan is part of a long arc of profits in college sports.
-* The policy could ease pressure on the school to issue statements on current events. Officials were criticized for their handling of the Oct. 7 Hamas attacks.
-* In their latest effort to court a crucial group of voters, the two leading Democrats will roll out an initiative called Black Voters for Biden-Harris at a rally in Philadelphia.
-* Martha-Ann Alito has built a limited public life since moving to Washington that has mainly centered on apolitical projects and charity work.
-* Judge Aileen Cannon’s handling of court hearings offers insights into how the case accusing Donald Trump of illegally retaining classified material has become bogged down in unresolved issues.
-* Years of messages from an encrypted WhatsApp text thread show conversations of sheriff’s deputies, including those who terrorized Mississippi residents.
-* Representative Tony Gonzales’s narrow victory over a far-right challenger came after a divisive race for the party, and most likely strengthened Republicans’ grip on the border district.
-* Dade Phelan, the speaker of the Texas House, defeated a party activist and first-time candidate backed by former President Donald J. Trump in a bitter contest.
+* Legal ethicists welcomed the fact that the justice gave reasons for staying on two Jan. 6 cases, a break from court tradition. But they said his rationale was open to criticism.
+* President Biden and former President Donald J. Trump both see Black outreach as critical to winning in November. But their approaches differ in fundamental and revealing ways.
+* Senator Bob Casey’s re-election campaign and the campaign arm of Senate Democrats have so far spent the most in a race that could determine control of the closely divided chamber.
+* The sea lion population at the city’s Pier 39 reached 2,000 this week, setting a record.
+* The finals on Thursday night will determine which of the remaining spellers takes home $50,000.
+* A defendant charged with driving with a suspended license appeared via Zoom while driving. “I don’t know why he would do that,” a perplexed judge said.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The number of Indians abroad is small relative to the country’s population. Indian political parties want their support anyway.
+* President Yoon Suk Yeol has been accused of intervening in a probe into an accidental death during a peacetime search and rescue operation.
+* A man died and more than 70 other people were injured last week when a flight to Singapore from London hit sudden turbulence.
+* As part of China’s crackdown on even peaceful opposition, a court in Hong Kong convicted 14 people, who now face prison time along with dozens of others.
+* The pandas, Bao Li and Qing Bao, will be flown to the Smithsonian National Zoo from China before the end of the year.
+* For weeks now, temperatures in several states in northern India have been well over 110, and hospitals have been reporting a rise in heatstroke.
 * The South Korean military said on Wednesday that it found hundreds of balloons carrying garbage from North Korea.
 * A surprise television hit, now on Netflix, has people talking about what Japan has lost with today’s changed sensibilities.
 * Surging exports and factory investment are buoying China’s output, but the housing market faces serious troubles and industrial policies may hurt other countries.
 * Plus, South Africa goes to the polls
-* Supporters of President Lai Ching-te are protesting legislative amendments introduced by the opposition that would limit his authority.
-* Nearly five days after the disaster hit a remote section of the country, officials have started evacuating residents. But the scale of the death toll remains uncertain.
-* The storm, the first of the season, hit the South Asian countries after weeks of intense heat. Millions were left without power.
-* The city, promised some autonomy by China, is trying to move on from a security law imposed by Beijing. Companies are learning that’s not always possible.
-* As politicians stoke religious hatred online, these veterans of social causes deliver their messages in person: “Talk to each other. Don’t let anyone divide you.”
-* Kim Jong-un, the leader of North Korea, has made deploying a fleet of spy satellites one of his country’s latest ​military ambitions.
 
 ![Asian](./asian.png)
