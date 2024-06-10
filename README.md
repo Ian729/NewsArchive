@@ -2,34 +2,34 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Forced into a coalition government, the prime minister faces the challenge of governing differently than he has so far in two decades in elected office.
-* The main things to know as voters in 27 countries head to the ballot box to shape the next five years of European Union policies.
-* Mr. Mosley, a British medical journalist and documentary maker, disappeared last week while on a trip on the Greek island of Symi.
+* Secretary of State Antony J. Blinken was set to meet with Israeli leaders. The United States asked the U.N. Security Council to support a cease-fire proposal that neither Israel nor Hamas has formally embraced.
+* A single image of a blustery day in wartime Moscow captures the feeling of triumph sweeping through the Russia.
+* The voting across 27 members of the European Union was a gauge of popular political sentiment at an unsettling moment on the continent. The right did well, but the center held.
+* The president’s decision, on the eve of the summer Olympic Games that begin in Paris in July, ushered in a period of deep political uncertainty in France.
+* Press freedom groups say the investigation of Gustavo Gorriti, a noted Peruvian journalist, is politically motivated and part of a growing campaign against the news media.
+* Some residents of Bari, Italy, hope Ukraine’s president will drop by while at a nearby summit to help rid them of a memento of links with Russia.
+* President Biden wrapped up a five-day trip by visiting a cemetery for American soldiers killed in World War I that Donald J. Trump skipped during a similar trip in 2018.
+* Voters in the European Union delivered strong gains to anti-immigrant, nationalist parties, challenging leaders in Germany and France, and unsettling the political establishment.
+* The peso had its worst week since the pandemic as markets reacted to fears that the government would pass constitutional changes seen as dismantling democratic checks and balances.
 * One Ukrainian researcher and podcaster is a leading voice in efforts to rethink Ukrainian-Russian relations through the prism of colonialism.
-* The rescue killed scores of Palestinians, Gazan officials say, and Israelis acknowledge that such operations will never reach all of the remaining hostages.
-* Under Emmanuel Macron, “culinary diplomacy” is back on the menu, with a lavish dinner fortifying an old alliance at a tense historical moment.
-* The Buenos Aires Yoga School promised spiritual salvation, but former members and prosecutors say it pushed some female members into prostitution as it cultivated powerful friends.
-* Cans packed with caffeine and branded with patriotic machismo have become an essential antidote to the stresses of war.
-* The two presidents, in a brief appearance before reporters, declined to take questions, in a departure from tradition.
-* A reality show called “The Conclave” put Belgium’s political rivals together in a medieval château for a weekend. Can they put aside their differences and help keep the country from coming apart?
 
 ![Global](./global.png)
 ## New York Times United States News
-* Shelters along the border were quieter on Friday and Saturday compared with previous months, but many hoping to cross into the U.S. felt stranded and fearful.
-* When the sport of artistic swimming, formerly synchronized swimming, announced it would allow men to compete in the Paris Games, Bill May saw his chance. But the U.S. team chose only women.
-* Las Vegas became a refuge that many believe Mr. Simpson did not deserve in his final years. There, he found an unlikely group of friends.
-* The university joins a small but growing number of elite colleges requiring SAT or ACT scores in applications once again.
+* The suspect, who faced murder and firearms charges in connection to the shooting that killed six people, was found unresponsive at the jail. Details of his death were unclear.
+* At 73, Thomas Creech is one of the few people to have survived a failed attempt at executing the death penalty. Now he waits to see if the state will try again.
+* Many saw in the jury’s finding a rejection of themselves, of their values and even of democracy itself.
+* Cindy Elgan has overseen elections in rural Nevada without incident for 20 years, but now even her neighbors wonder if she’s part of “the deep state cabal.”
 * The Constitution and U.S. law have clear answers for only some of the questions raised by the criminal conviction of a major presidential candidate.
 * The former president could face probation or prison time. Either option would be without precedent.
 * Donald J. Trump has promised to appeal, but he may face limits on his ability to travel and to vote as he campaigns for the White House.
-* The road, linking Idaho with Wyoming, is a key route to Jackson Hole, a tourism hub. It had been closed to traffic before the landslide.
-* Mr. Burgum, North Dakota’s governor, is a prime contender in the former president’s search for a running mate, but he remains untested on the national stage.
-* By President Biden’s account, he was a fierce civil rights activist in his youth, had an uncle who fell prey to cannibals and used to drive an 18-wheeler.
+* The justices will soon decide whether to hear a case that could affect more than two dozen youths sentenced to die in prison.
+* The defense team seems more likely to avoid taking the risky step of putting Mr. Biden on the stand, setting the stage for the jury to begin deliberations by day’s end.
+* Jay Carson spent years as a Democratic insider. Disillusioned, he left politics for Hollywood and became friends with Robert F. Kennedy Jr. — whose campaign he is now helping to steer.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Also, Benny Gantz leaves Israel’s government.
 * Forced into a coalition government, the prime minister faces the challenge of governing differently than he has so far in two decades in elected office.
-* Cans packed with caffeine and branded with patriotic machismo have become an essential antidote to the stresses of war.
 * Truong Huy San was accused of “abusing democratic freedoms,” a charge that rights groups say has been frequently used against critics of the government.
 * China’s expansion and Russia’s threats of using nuclear weapons in Ukraine and in space have changed a U.S. drive to reduce nuclear weapons.
 * A cultural historian, he was dismisses by Stanford over his opposition to the Vietnam War, a stance that became a cause célèbre of academic freedom.
