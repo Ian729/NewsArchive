@@ -2,32 +2,34 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* A spokesman for the militant group spoke in an interview with CNN. The release of the remaining hostages held in Gaza is a key part of a cease-fire proposal that is being considered.
-* Israel said it took care to avoid harming civilians when it targeted two Hamas fighters. An investigation shows civilian casualties were almost inevitable.
-* Leaders from India, Brazil, the Middle East and Africa will join discussions on Friday, in a nod to the changing global balance of power.
-* Julian Nagelsmann was hired to win a European Championship on home soil. Can he restore a divided nation’s self-esteem at the same time?
-* Parliament was expected to elect President Cyril Ramaphosa to a second term. But his A.N.C. party is weakened, and he faces challenges in maintaining a coalition.
-* As chancellor of the Exchequer, Jeremy Hunt also represents a district where his Conservative Party traditionally counts on rock-solid support. Not anymore.
-* Huang Xueqin, a journalist, and Wang Jianbing, a labor activist, were convicted of subversion, a vaguely worded charge long seen as a tool for muzzling dissent.
-* The findings cite acts such as sexual violence and the deliberate killing or abducting of civilians by Hamas. They also accuse Israel of collective punishment and crimes against humanity in Gaza.
-* Faced with an assault from the northeast, Ukrainian forces made their stand in Vovchansk. The front line is still there, but little else is.
-* The Group of 7 gathers major industrialized countries, but its leaders are politically weak and Ukraine and Gaza remain unsolved.
+* Catherine took part in a ceremonial parade to celebrate the birthday of her father-in-law, King Charles III.
+* Azahriah, who has rapped about the joy of cannabis, has shot to fame in Hungary. That may explain why he has been applauded by the country’s conservative leader, Viktor Orban.
+* Ordinary Gazans are bearing the brunt of the 8-month Israeli military onslaught on the territory and many blame the Palestinian armed faction for starting the war.
+* While not invited to the Group of 7 meeting, China was still a major presence, with the summit’s final communiqué referencing the country 28 times, almost always as a malign force.
+* Human rights groups are urging Canada to stop holding migrants seeking asylum in jails, often with people accused of violent crimes.
+* Three athletes who failed drug tests before the 2021 Olympics had tested positive for a powerful steroid several years earlier. They were not suspended in either incident.
+* The United States, France and other mediators have sought for months to reach an agreement that would stop the tit-for-tat missile strikes over Israel’s border with Lebanon.
+* The Islamic State and Al Qaeda consider Africa ‘very fertile ground,’ said Christopher A. Wray, who is meeting with officials in Nigeria and Kenya.
+* Wording in the summit’s final statement led to a diplomatic tug of war, primarily between the United States and Italy.
+* In a message to the public, Catherine said she would attend King Charles’s birthday parade this weekend and wrote candidly about “knowing I am not out of the woods yet.”
 
 ![Global](./global.png)
 ## New York Times United States News
-* The vote at the Southern Baptist Convention raising alarms about in vitro fertilization began with two conservatives at a seminary in Kentucky.
-* “I’ve lived the experience of a Black woman who is attacked and over-sexualized,” the prosecutor, Fani Willis, told leaders of the African Methodist Episcopal Church on Thursday.
-* Between days of excessive heat and days of unrelenting storms, the summer rainy season is starting to feel different — and highly unpredictable.
-* Lawmakers passed a preliminary budget that technically meets a legal deadline while they work out final details. State finances have fluctuated wildly in recent years.
+* The movement looks for a path forward: “Is the goal the absolute abolition of abortion in our nation?”
+* Pope Francis, noted for his outreach to gay Catholics, has been described as using an offensive Italian expression for gay men twice in recent weeks.
+* The challenge, from two of the families who filed the initial lawsuit, raises the possibility that access to I.V.F. could once again be in jeopardy in the state.
+* The federal agent who fatally shot the executive director of Little Rock’s airport was justified in his use of force, a local prosecutor said on Friday.
 * The Constitution and U.S. law have clear answers for only some of the questions raised by the criminal conviction of a major presidential candidate.
 * The former president could face probation or prison time. Either option would be without precedent.
 * Donald J. Trump has promised to appeal, but he may face limits on his ability to travel and to vote as he campaigns for the White House.
-* Demolition of the former freshman building at Marjory Stoneman Douglas High School was expected to start on Friday and take a few weeks, officials said.
-* The Biden campaign is trying to work its way into social media feeds. But the young, left-leaning voices that control the conversation aren’t making it easy.
-* The Grand Rapids area helped deliver Michigan to Donald J. Trump in 2016 and President Biden four years later. Many voters long for new options.
+* President Biden plans to fly from a gathering of world leaders in Italy to Los Angeles to appear along with Barack Obama, George Clooney, Julia Roberts, Jimmy Kimmel and others.
+* With Donald Trump’s rampage at the first 2020 debate still fresh in the memories of both campaigns and the moderators, the candidates are preparing in sharply different ways.
+* Every weekend, a flea market in Alamo, Texas, transforms from a Latino shopping mecca into a dance floor. The locals’ colorful moves have drawn fans around the world.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* While not invited to the Group of 7 meeting, China was still a major presence, with the summit’s final communiqué referencing the country 28 times, almost always as a malign force.
+* Three athletes who failed drug tests before the 2021 Olympics had tested positive for a powerful steroid several years earlier. They were not suspended in either incident.
 * Huang Xueqin, a journalist, and Wang Jianbing, a labor activist, were convicted of subversion, a vaguely worded charge long seen as a tool for muzzling dissent.
 * A nurse, she tended to the wounded as the French were under fateful attack by Viet Minh forces in 1954. Hailed in France and the U.S., she was given a ticker-tape parade down Broadway.
 * The president signed a 10-year security pact with Ukraine and promised, with E.U. help, a $50 billion loan. But will the money arrive in time to turn the tide, and will the deal outlast the election in November?
@@ -36,7 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * Assisted driving systems and robot taxis are becoming more popular with government help, as cities designate large areas for testing on public roads.
 * The Japanese biochemist found in the 1970s that cholesterol-lowering drugs lowered the LDL, or “bad” cholesterol, level in the blood.
 * Also, an E.U. blow to China’s electric-vehicle ambitions.
-* The Biden administration is taking new measures aimed at stopping China from helping the Kremlin sustain its war effort against Ukraine. U.S. officials hope European nations will take similar steps.
-* A decade after militant and criminal groups were pushed out, Pakistan’s economic powerhouse and most populous city is facing a startling rise in deadly street crime.
 
 ![Asian](./asian.png)
