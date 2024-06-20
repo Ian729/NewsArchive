@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* A need for munitions to use against Ukraine is forcing Russia’s leader to deepen his ties with North Korea’s, in an alliance that’s raising alarms in the West.
-* More than eight months of Israeli bombardment has left more than 39 million tons of debris, a preliminary assessment found.
-* Officials hope a looming deadline will pressure Israel to open more land routes into the territory, which is facing extreme levels of hunger.
+* The chief spokesman of the armed forces said that unless the government advanced a postwar plan for governing Gaza, “We will get Hamas again.”
+* For many Palestinians, securing approval to exit the territory is possible only after raising thousands of dollars to pay middlemen or an Egyptian company.
+* While the agreement rattled officials in South Korea and Japan, the two U.S. allies in recent years have been expecting growing security challenges from North Korea.
+* A pair of  whales were extricated from the besieged city of Kharkiv and taken to an aquarium in Spain with help from experts around the world.
+* Indonesia’s Bajo people, who once spent most of their lives in boats or offshore huts, are adopting more sedentary habits, but without forsaking their deep connection to the sea.
+* Ibrahim al-Organi has close connections with the Egyptian government, diplomats say, and he has multiple business interests in Gaza.
+* The armed Islamist group committed war crimes on Oct. 7, experts say, and continues to do so by holding hostages.
+* Lionel Messi had said the 2022 World Cup, which his country won, was his last. Will the Copa América soccer tournament be his goodbye?
 * North Macedonia has claimed historical figures as part of a drive to build a national identity. That has ruffled the feathers of the Balkan nation’s neighbors.
 * The former House speaker joined a congressional delegation that met with the Tibetan spiritual leader at his home in India. China calls him a separatist.
-* For the first time since the fall of apartheid, the nation must rely on a coalition of rival parties to govern. Can they get along enough to pull the country out of its crises?
-* President Vladimir V. Putin’s military needs have prompted the Kremlin to strengthen ties with the authoritarian government of Kim Jong-un, which is well stocked in munitions.
-* Journalists say they are subject to increasing restrictions and pressure from the government of President Volodymyr Zelensky, adding that the measures go beyond wartime security needs.
-* The government is trying to pass a finance bill in Parliament that would involve increasing taxes. Critics say it will raise the cost of living for Kenyans who are already struggling economically.
-* The case against Thaksin Shinawatra was a reminder that the levers of power in Thailand remain firmly in the hands of the royalist-military establishment.
 
 ![Global](./global.png)
 ## New York Times United States News
+* As the heat wave moved east, the Northeast felt the brunt of the conditions. But forecasters provided a glimmer of relief, saying “conditions should improve over New England” this weekend.
+* A law signed by Gov. Jeff Landry on Wednesday makes the state the only one with such a mandate. Critics have vowed to mount a constitutional challenge.
 * The court’s decision has the potential to undercut President Biden’s efforts to restrict other gun accessories that enable semiautomatic rifles to fire at speeds rivaling those of machine guns.
-* Mays, who died on Tuesday at 93, had been perfect for so long that the shock of seeing baseball get the best of him was the shock of seeing a god become mortal.
-* Much of the Northeast will swelter through the weekend from the same heat wave that has already baked the Midwest.
 * The failure of the Massachusetts 911 system on Tuesday was the latest reminder of the potential problems faced by an emergency network that many say needs to be upgraded.
 * The Constitution and U.S. law have clear answers for only some of the questions raised by the criminal conviction of a major presidential candidate.
 * The former president could face probation or prison time. Either option would be without precedent.
 * Donald J. Trump has promised to appeal, but he may face limits on his ability to travel and to vote as he campaigns for the White House.
-* Robert Morris, a faith adviser to the Trump White House, resigned from Gateway Church after he was accused of abusing a child in the 1980s.
-* In a report released Tuesday, the Biden administration said that federal dams in the Columbia River Basin had inflicted damage on local communities, and committed to restoring native fish to the ecosystem.
-* Suhas Subramanyam had the endorsement of Representative Jennifer Wexton, who is retiring.
+* The rain will help control the fires, which have killed two people and scorched more than 23,000 acres. The wildfires were expected to continue burning, the authorities said.
+* A new poll of female voters finds that concerns about inflation are still paramount, even as abortion could motivate Democratic women in states where the issue is on the ballot.
+* Robert F. Kennedy Jr.’s campaign has depended heavily on contributions from Nicole Shanahan, his vice-presidential pick, who did not make major new donations in May.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The treaty raises the risk of confrontation in the region and could prompt the United States and its allies to bolster their military presence on China’s periphery.
+* While the agreement rattled officials in South Korea and Japan, the two U.S. allies in recent years have been expecting growing security challenges from North Korea.
+* Indonesia’s Bajo people, who once spent most of their lives in boats or offshore huts, are adopting more sedentary habits, but without forsaking their deep connection to the sea.
+* As the cultural lines between Hong Kong and China blur, restaurants from the mainland are finding opportunities in the city. But not everyone is happy.
+* The Kremlin clings to Soviet-designed aircraft even as Russia’s commercial carriers opt for Western planes.
+* Also, the challenges of getting aid into Gaza.
+* President Vladimir V. Putin is keen to maintain the longstanding military ties between Russia and Vietnam, as Hanoi has developed deeper bonds with Washington.
 * A relatively low 71.9 percent of shareholders supported Akio Toyoda, who has faced scrutiny over governance issues, in his bid to remain chairman.
-* A need for munitions to use against Ukraine is forcing Russia’s leader to deepen his ties with North Korea’s, in an alliance that’s raising alarms in the West.
+* A need for munitions to use against Ukraine is pushing Russia’s leader to deepen his ties with North Korea, raising alarms in the West. The text of the agreement was not immediately released.
 * The former House speaker joined a congressional delegation that met with the Tibetan spiritual leader at his home in India. China calls him a separatist.
-* Also, Thailand’s vote to legalize same-sex marriage.
-* Cricket faces notable obstacles before it can obtain widespread popularity in America, but its most passionate supporters feel positive about its future.
-* President Vladimir V. Putin’s military needs have prompted the Kremlin to strengthen ties with the authoritarian government of Kim Jong-un, which is well stocked in munitions.
-* Rains set off landslides and inundated villages in the south, forcing thousands to evacuate. In the north, residents sweltered through a drought.
-* North Korean soldiers have been sent into the mine-strewn buffer zone to do construction work since November, the South Korean military said on Tuesday.
-* The bill, which needs the king’s endorsement to become law, underscores Thailand’s status as a relative haven in Asia for L.G.B.T.Q. people.
-* Akio Toyoda, who stepped down as chief executive last year, had been criticized by some shareholders for continuing to dominate decision making at the automaker.
 
 ![Asian](./asian.png)
