@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* A panel of global hunger experts warned this week that the Gaza Strip could soon face famine, but to many Gazans, it feels as if one has already arrived.
-* Iranians say they have little faith their votes in Friday’s presidential election will improve their lives, and many are planning to sit it out.
-* The British monarch is constitutionally barred from any role in politics. But experts say that Charles and the leader of the Labour Party, Keir Starmer, have much in common.
-* The announcement, coming days after Vladimir V. Putin’s visit to Pyongyang, suggests an ambitious attempt to upgrade the North’s nuclear arsenal.
-* Officials say Kyiv won’t get membership negotiations at the coming NATO summit, but the alliance will announce a structure to coordinate aid over the longer term.
-* Evan Gershkovich of The Wall Street Journal has endured 15 months in prison by reading letters and Russian classics, while the authorities have not publicly offered any evidence that he was a spy.
-* The 2016 peace treaty that ended a decades-long civil conflict has turned Colombia — home to more species of birds than any other country on Earth — into a birders’ delight, opening up forests that were once controlled by anti-government armed groups.
-* A day after at least 23 people were killed in demonstrations against a tax increase, President William Ruto withdrew the law that he said was necessary to avoid defaulting on the country’s debt.
-* The former U.S. president’s election is treated as a foregone conclusion, with the six contenders clashing over who is best suited to handling him.
-* Israel’s insular ultra-Orthodox community has long been exempt from military service. The Supreme Court’s decision to end that exemption could change the country’s social and political dynamics.
+* Whoever is chosen will have to cope with a cratering economy, regional strife and deep divisions and discord at home.
+* Four of the six candidates selected by officials to run in Iran’s special presidential election are still in the running after the president died in a helicopter crash last month.
+* Israel has dealt blow after financial blow to the Palestinian Authority, alarming the United States, which wants it to have a role in running postwar Gaza.
+* The embattled Conservative Party is embroiled in investigations over whether some of its own staff members used insider knowledge to bet on the timing of the general election.
+* Across Asia, there was little talk about winning, and more concern about American stability — both domestically and on crucial foreign policy issues.
+* The region along the northwest coast has few immigrants and little crime or unemployment, but the far-right National Rally has made inroads saying that all three are coming.
+* The demonstrations were held despite his withdrawal of the tax bill that sparked days of protests. Some activists, fearing more bloodshed, warned people not to march to the president’s official residence.
+* A devastating civil war is pushing the country toward a full-blown famine, according to the international body that measures hunger.
+* The two generals were accused of taking huge bribes and of corruption that reached into the armaments sector, indicating that the country’s military has not shaken off old habits.
+* Facing grim job prospects, a young Nepali signed up to join Russia’s military, which sent him to fight in Ukraine. His ordeal of combat, injury and escape turned into a tale worthy of Hollywood.
 
 ![Global](./global.png)
 ## New York Times United States News
+* The state superintendent, Ryan Walters, said the Bible was a “necessary historical document.” The mandate comes as part of a conservative movement to infuse Christian values in public schools.
+* Democrats found President Biden’s performance disconcerting, while Republicans were in a jubilant mood. Swing voters were flummoxed.
 * Parents, desperate for help, are turning to private schools with a half-dozen or so students. And they are getting a financial boost from taxpayers.
-* Bishop Sean Rowe, 49, called for the church to be resilient heading into what he described as an “existential crisis” caused by a changing world.
-* Groups investigating antisemitism and anti-Muslim bias cited instances of discrimination against pro-Israel students and “a pervasive climate of intolerance” against pro-Palestinian students.
-* The decades-long friendship of two men who never especially changed.
-* The Constitution and U.S. law have clear answers for only some of the questions raised by the criminal conviction of a major presidential candidate.
-* The former president could face probation or prison time. Either option would be without precedent.
-* Donald J. Trump has promised to appeal, but he may face limits on his ability to travel and to vote as he campaigns for the White House.
-* Three bodies were discovered near the mountain’s crater, the local media reported. Separately, a professional climber fell unconscious and died.
-* Even as Donald Trump has narrowed his list of top choices, he and his advisers are stoking speculation about others and suggesting that an announcement is imminent — or maybe not.
-* The former president’s past tariffs raised prices for consumers and businesses, economists say. His next plan could tax 10 times as many imports.
+* The indictment, which comes more than two years after the massacre at Robb Elementary School, is the first set of criminal charges to stem from the attack.
+* The two Americans who most want this presidential rematch were the ones standing onstage.
+* The court’s strategy of avoidance and delay cannot last and may have been shaped by a desire to avoid controversy in an election year.
+* Beacon, a golden retriever, began working with U.S.A. Gymnastics last year as part of the organization’s efforts to transform the sport’s toxic culture. More dogs quickly followed.
+* Supporters of both candidates were at the debate to sell their version of reality. One group seemed to have an easier time with it.
+* Supporters who gathered at an Atlanta hotel cheered President Biden’s performance even as Democratic leaders elsewhere were voicing concern and distress.
+* During brief remarks to reporters after his showdown with former President Donald J. Trump, Mr. Biden said he felt he “did well” but noted that he had a sore throat.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The case, involving a supplement intended to reduce cholesterol, has put attention on how companies are allowed to self-report claims about their products.
+* Across Asia, there was little talk about winning, and more concern about American stability — both domestically and on crucial foreign policy issues.
+* At least one person was killed when parts of the roof caved in and crushed vehicles at Indira Gandhi airport in New Delhi, according to an official. All domestic departures were suspended.
+* Long-running battles in the Himalayas may foretell a more dangerous conflict.
+* Also, the upcoming U.S. presidential debate and the vote in Iran.
+* Beijing released new rules calling for execution of “diehard” Taiwanese independence supporters, as hostilities surrounding Taiwan’s status rise.
+* Facing grim job prospects, a young Nepali signed up to join Russia’s military, which sent him to fight in Ukraine. His ordeal of combat, injury and escape turned into a tale worthy of Hollywood.
+* The two generals were accused of taking huge bribes and of corruption that reached into the armaments sector, indicating that the country’s military has not shaken off old habits.
 * He hanged high-profile inmates in exchange for a reduction in his own robbery and murder sentences, and became a social media sensation after his release.
 * A woman and her Chinese-born son were set to return to China for the first time since the pandemic, but their airline would not let them fly without filling out a health form they could not access.
-* The announcement, coming days after Vladimir V. Putin’s visit to Pyongyang, suggests an ambitious attempt to upgrade the North’s nuclear arsenal.
-* Also, Kenya’s president shelved the tax bill.
-* China has been considered relatively progressive on juvenile justice. But several high-profile killings have prompted calls for the law to come down more harshly on minors.
-* As multinational retailers diminish their dependence on Chinese factories, some are shifting production to India.
-* The WikiLeaks founder, who entered the plea in a U.S. courtroom in Saipan in the Western Pacific, arrived home in Australia on Wednesday night.
-* Also, Julian Assange’s plea deal with the U.S.
-* The men were arrested after the F.B.I. quietly began an investigation that stretched across the country and involved scores of bureau personnel.
-* Activists say the blaze that killed 23 laborers at a battery plant, most of them from China, shows that such workers need better protection.
 
 ![Asian](./asian.png)
