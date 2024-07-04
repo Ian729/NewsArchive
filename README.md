@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Amos Hochstein’s trip to France comes after comments by Secretary of State Antony J. Blinken that Israel had “effectively lost sovereignty” near the border with Lebanon because of attacks by Hezbollah.
-* Two men claim to be the emir of Kano, an ancient kingdom in northern Nigeria. Their struggle for power and influence is feeding into a wider competition ahead of the country’s next election.
-* As the storm headed for Jamaica, officials were assessing what Grenada’s prime minister called “total” devastation on two of the country’s islands.
-* A look at the destruction caused by Hurricane Beryl as it lashes its way through the Caribbean.
-* Family members streamed to hospitals in the Indian state of Uttar Pradesh to identify loved ones after at least 121 people — nearly all women — died in a stampede at a guru’s gathering.
-* Chinese state news and social media has been virtually silent about 23 swimmers secretly testing positive in 2021, even as the issue is being debated widely abroad, including in Congress.
-* The authorities in Taipei have demanded that Beijing release the boat and its five crew members, who are being held in custody.
-* The U.N. Working Group on Arbitrary Detentions said the Wall Street Journal reporter was being punished for covering the war in Ukraine.
-* The Nordic country’s generous social services system now allows parents to transfer a portion of paid leave days to other non-parent caregivers.
-* Ms. Letby, who had previously been found guilty in a string of murders and attempted murders, was retried and found guilty of another attempted murder.
+* The Labour Party is projected to sweep out the Conservatives after 14 years. But it would then inherit a “legacy of ashes.”
+* In a series of interviews, virtually every resident of Tehran listed Iran’s sickly economy as the No. 1 issue for the country’s next president.
+* A Hezbollah-Israel war could metastasize into a larger regional conflict that could dwarf the current fighting and draw in Iran and the United States.
+* With Ukraine clamoring for more air defenses, officials are trying to scrape together a Patriot battery from spare parts scattered across the continent.
+* In a video plea for help, Abdulaziz Almuzaini — a dual Saudi-American citizen — described how the authorities had accused him of promoting extremism through a cartoon franchise.
+* The storm was lashing the southern coast of Jamaica on Wednesday evening after devastating several Caribbean islands this week. The Cayman Islands are bracing to be next.
+* British Columbia recognized the Haida’s aboriginal title to their islands decades after the Indigenous group launched a battle on the ground and in the courts.
+* Prime Minister Narendra Modi’s slim election victory has forced India to reflect on how fawning coverage may have obscured a wave of opposition.
+* They had worked hard for years to make a life: “Now it’s over with the death of my dear daughter, wife and mother — in one single blow.”
+* The first indication of results on British election nights has earned an unusually high reputation. Those behind it say that’s because of a big decision 20 years ago.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Supporters say Leonard Peltier, 79, was unfairly blamed for the deaths of two F.B.I. agents in a shootout with activists.
-* The lawsuit was filed a year after the Supreme Court struck down the use of racial and gender preferences in college admissions.
+* Pro-Trump professionals aren’t just talking about remaking Western civilization. Some are uprooting their lives to show that they mean it.
+* Residents moved to Mountain House, Calif., to escape soaring housing costs near the coast. Now, they just have to survive the searing summer heat.
+* The most loyal, longstanding Democratic voters were perhaps the most shaken by President Biden’s performance. Some blamed the national party.
 * Federal pandemic aid helped keep school districts afloat, but that money is coming to an end.
-* Only four homicides have occurred in the city this year. Although luck has played a role, the city is bringing a high level of precision to its strategy to prevent violence.
-* Some of the president’s past supporters want a new candidate, but they are leery of going public.
-* Leading Democrats have lent legitimacy to questions about the president’s mental acuity, and made clear that the matter of his stepping aside is far from settled.
-* The Supreme Court’s conservative majority largely embraced Donald Trump’s dark view of tit-for-tat partisan prosecutions while liberals cited the prospect of power unchecked by legal accountability.
-* For Donald F. McGahn II, the former White House counsel, and Senator Mitch McConnell, the Kentucky Republican, sweeping anti-regulatory rulings are the big payoff of their drive to reshape the federal courts.
-* The Department of Homeland Security said it was working with Chinese authorities to arrange more flights as more migrants enter the United States.
-* Jack Smith plans to continue two criminal cases against Donald J. Trump until Inauguration Day if the former president wins, according to a person familiar with his thinking.
+* The former president has spent months painting President Biden as incapable of leading, but he has publicly appeared content to sit back and let Democrats do the doubting.
+* An election over the future of a United Nations-affiliated organization could determine whether the Pacific Ocean floor will soon be mined for metals used in electric vehicles.
+* Blockbuster decisions by the Supreme Court’s Republican-appointed supermajority — expanding presidential authority while undercutting that of executive branch agencies — were no contradiction.
+* With Ukraine clamoring for more air defenses, officials are trying to scrape together a Patriot battery from spare parts scattered across the continent.
+* Algae blooms in the Potomac River prompted a boil water advisory for nearly a million residents in Washington and Arlington County.
+* At a meeting with Democratic governors at the White House, the president was grilled about the path forward as he worked to solidify support from elected leaders.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The European Union took the next step toward collecting heavy tariffs on electric vehicles, ahead of a final decision in October.
+* Prime Minister Narendra Modi’s slim election victory has forced India to reflect on how fawning coverage may have obscured a wave of opposition.
+* Violent attacks on foreigners have prompted a debate about extreme nationalism online in a country that heavily censors information the government bans.
+* Plus, an ally said Biden is considering leaving the race.
+* They had worked hard for years to make a life: “Now it’s over with the death of my dear daughter, wife and mother — in one single blow.”
 * Legal experts say the U.S. Supreme Court ruling pushes past most of the norms in effect among American allies, adding more concern about the reliability of U.S. power.
 * China’s leader, Xi Jinping, and President Vladimir V. Putin of Russia are courting regional leaders and pushing an alternative to the U.S.-led order.
 * Family members streamed to hospitals in the Indian state of Uttar Pradesh to identify loved ones after at least 121 people — nearly all women — died in a stampede at a guru’s gathering.
 * The authorities in Taipei have demanded that Beijing release the boat and its five crew members, who are being held in custody.
 * Chinese state news and social media has been virtually silent about 23 swimmers secretly testing positive in 2021, even as the issue is being debated widely abroad, including in Congress.
-* As multinational brands shift factory production from China, Indian women — long shut out of the work force — could be prime beneficiaries.
-* Plus, Israel’s generals want a truce.
-* The crush happened in hot and crowded conditions in Uttar Pradesh State, in northern India, and a medical official said the death toll could rise.
-* With the introduction of the pin, Mr. Kim is said to be elevating his personality cult to the level once reserved for his father and grandfather.
-* The North said it tested a missile with a “super-large warhead” on Monday. The South has similar missiles, meant to target underground bunkers.
 
 ![Asian](./asian.png)
