@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* A departing Israeli military leader denounced Jewish settler violence in the occupied West Bank, in a swipe at the far right.
-* With the survivor generation shrinking and antisemitism on the rise around the world, Israel’s Holocaust memorial is stepping up efforts to safeguard its vast collection of artifacts and testimony.
-* When he takes over as secretary general in October, Mark Rutte will face strains over Russia, Ukraine and the potential return of Donald J. Trump.
-* Politically aligned, Joe Biden and the new U.K. prime minister agree on climate change, Ukraine and Northern Ireland. Donald Trump would be a different story.
-* “I’m just bringing the cool factor to it,” said the American hip-hop producer, who has spent millions of dollars on 48 camels for a team he calls “Saudi Bronx.”
-* About 400 Kenyan officers have deployed to Haiti as part of the first wave of a multinational contingent tasked with trying to restore order in the gang-plagued Caribbean nation.
-* Haiti’s new prime minister is a trained gynecologist who experts say is more policy expert than seasoned politician. Many Haitians are counting on him to quell rampant gang violence.
-* A theater director and playwright were sentenced to prison, a stark indication of the increasing suppression of free speech since Russia’s attack on Ukraine, their lawyers and critics say.
-* President Volodymyr Zelensky said Russia launched at least 40 missiles at targets across Ukraine, including the country’s largest children’s hospital.
-* Far from producing a “clarification,” President Emmanuel Macron’s snap election has yielded a muddle that could take months to sort out.
+* Health authorities in the territory said dozens more had been injured, many critically. Israel said it had targeted a Hamas member who took part in the Oct. 7 attacks.
+* Amos Hochstein, an energy policy official who was born in Israel, is playing diplomatic firefighter along the Israel-Lebanon border.
+* A coarsening of public discourse and contempt for mainstream parties have politicians on both sides denouncing what they say are extreme positions by their opponents, analysts say.
+* Archaeologists unearthed some 4,000 ancient skeletons from the heart of the city. After years of study, they were reinterred in a rare and solemn tribute.
+* Britain gave Rwanda hundreds of millions of pounds, even though no asylum seekers were deported to the Central African nation under the agreement.
+* A century ago, Alice Milliat fought for the inclusion of female athletes in the Olympics. Her contribution, long overlooked, is now being recognized.
+* With thousands of voices and a few well-choreographed dance moves, Dutch fans have transformed match days into pulsing, joyous celebrations. Their next one is Wednesday.
+* Many Venezuelans who left their homeland oppose the country’s autocratic president, but strict requirements will prevent most from voting in a closely watched election.
+* Lee Saedol was one of the world’s top Go players, and his shocking loss to an A.I. opponent was a harbinger of a new, unsettling era. “It may not be a happy ending,” he says.
+* China has invested billions in megaprojects across Pakistan. But a resurgence in militant violence is threatening to derail badly needed investment.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The storm hit Texas on Monday as a Category 1 hurricane. As the storm moved out of the state, officials warned it could take days to fully restore electricity.
-* Officials warned that it could take days to restore electricity. The storm has prompted tornado warnings in East Texas, Louisiana and Arkansas.
-* Haiti’s new prime minister is a trained gynecologist who experts say is more policy expert than seasoned politician. Many Haitians are counting on him to quell rampant gang violence.
-* Joshua Kindred was asked to leave his post after a committee of judges found his chambers to be a hostile and sexualized work environment.
-* Vice President Kamala Harris is set to speak in Las Vegas, aiming to focus on the stakes in President Biden’s fight against Donald J. Trump.
-* The Supreme Court decision granting former presidents broad protection from prosecution kicked to the trial court key rulings about how much of Donald Trump’s indictment on election charges can stand.
-* Russian forces continue to inflict pain, but NATO leaders gathering in Washington can say that their efforts to strengthen Ukraine are working.
-* A summit meant to convey confidence in the newly expanded alliance now faces uncertainty over President Biden’s future, and the looming possibility of the return of Donald Trump.
-* CenterPoint Energy said more than two million customers lost power in the storm, and that those in the hardest-hit areas should prepare for an extended period without electricity.
-* In private and in public, President Biden made clear he holds all the cards when determining his political future. Can he get his Democratic critics to fold?
+* With outages expected to last days, a top state official promised to look into whether the utility company could have done more to prepare for Hurricane Beryl.
+* Across the country, copper and other valuable materials have been stolen from streetlights, statues and even gravesites, costing millions to repair.
+* A donation from Bloomberg Philanthropies will provide free tuition for Johns Hopkins medical students, if their families make less than $300,000 a year.
+* With no working outage tracker from the Houston area’s main electricity provider, people are turning to the chain’s map of open restaurants after Hurricane Beryl.
+* Donald J. Trump’s monthslong search for a running mate, orchestrated to feed speculation and attention, is nearing an end, but questions of who, and when, remain.
+* Time is on President Biden’s side. Every day that he defies pressure to end his re-election campaign, replacing him becomes harder for Democrats.
+* Amos Hochstein, an energy policy official who was born in Israel, is playing diplomatic firefighter along the Israel-Lebanon border.
+* The Times wants to hear from patients and providers about medical practices affiliated with Optum, a subsidiary of UnitedHealth Group. Share your experience below.
+* “America doesn’t shy away from its friends,” Volodymyr Zelensky said in a speech in Washington as leaders gathered in the city for a NATO summit.
+* Speaking to nearly 200 Democratic mayors, the president again acknowledged he had a poor first debate and took softball questions about his campaign and second-term agenda.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Five questions for the director Nikhil Nagesh Bhat about his Indian action film, which takes an ultraviolent step away from Bollywood conventions.
+* Lee Saedol was one of the world’s top Go players, and his shocking loss to an A.I. opponent was a harbinger of a new, unsettling era. “It may not be a happy ending,” he says.
+* China has invested billions in megaprojects across Pakistan. But a resurgence in militant violence is threatening to derail badly needed investment.
+* The tech giant’s largest union escalated its dispute with management after failing to reach an agreement over pay and working policies.
+* Plus, the U.S. says Russia is struggling in Ukraine.
+* A special prosecutor said the decision not to pursue punishments against a group of Olympic swimmers was “indisputably reasonable,” even though agency scientists had expressed doubts.
+* The ex-regent had been accused of imprisoning hundreds of people under the guise of drug treatment and forcing them to work at his plantation and factory.
+* Prime Minister Narendra Modi of India made his first visit to Russia in five years, even as Ukraine reeled from an attack on a children’s hospital.
 * Plus, President Biden’s crucial week.
 * The Committee on Foreign Investment in the United States proposed a rule that would make it harder for foreigners to buy land near military bases.
-* The Biden administration is trying to get foreign companies to invest in chip-making in the United States and more countries to set up factories to do final assembly and packaging.
-* India is determined to keep its close ties to Russia despite pressure from the West. Russia sees the meeting as a chance to show it still has influential friends.
-* Japan is struggling to fund plans that would significantly bolster its military readiness amid rising regional threats.
-* Mr. Orban said his meeting with President Xi Jinping was part of a “peace mission” for Ukraine. But both leaders want to offset Western power.
-* Plus, a reformist will be Iran’s next president.
-* In this monsoon season, so far there have been more than 60 weather-related fatalities. With roads cut off and more rain expected, the toll could rise.
-* Karachi, Pakistan’s largest city, endured days of temperatures above 100 Fahrenheit, made worse by power cuts and high humidity.
-* A ridiculous number of candidates contended to be governor of Tokyo and its surrounding prefecture. Many were not even trying to win.
 
 ![Asian](./asian.png)
