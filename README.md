@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Health authorities in the territory said dozens more had been injured, many critically. Israel said it had targeted a Hamas member who took part in the Oct. 7 attacks.
-* Amos Hochstein, an energy policy official who was born in Israel, is playing diplomatic firefighter along the Israel-Lebanon border.
-* A coarsening of public discourse and contempt for mainstream parties have politicians on both sides denouncing what they say are extreme positions by their opponents, analysts say.
-* Archaeologists unearthed some 4,000 ancient skeletons from the heart of the city. After years of study, they were reinterred in a rare and solemn tribute.
-* Britain gave Rwanda hundreds of millions of pounds, even though no asylum seekers were deported to the Central African nation under the agreement.
-* A century ago, Alice Milliat fought for the inclusion of female athletes in the Olympics. Her contribution, long overlooked, is now being recognized.
-* With thousands of voices and a few well-choreographed dance moves, Dutch fans have transformed match days into pulsing, joyous celebrations. Their next one is Wednesday.
-* Many Venezuelans who left their homeland oppose the country’s autocratic president, but strict requirements will prevent most from voting in a closely watched election.
+* The militant group’s leader says “the only way” to stop the hostilities across the Lebanon-Israel border is to negotiate an end to the fighting in Gaza.
+* Cairo now houses tens of thousands of Palestinians who fled the war in Gaza, with few job prospects, dwindling savings and no way to put their children in the local public schools.
+* NATO’s rare rebuke of China could lead to actions pressuring the country to curb exports to Russia. Beijing denounced it as “prejudice, smears and provocation.”
+* The government promised housing elsewhere. We followed the buses and found a desperate situation.
+* British Columbia’s partial retreat from an experiment to decriminalize drug possession reveals a political shift in Canada over combating the opioid crisis.
+* Burkina Faso, Mali and Niger are withdrawing from a 49-year-old regional alliance that has allowed goods and nearly 400 million people to travel freely across a tightly connected region.
 * Lee Saedol was one of the world’s top Go players, and his shocking loss to an A.I. opponent was a harbinger of a new, unsettling era. “It may not be a happy ending,” he says.
-* China has invested billions in megaprojects across Pakistan. But a resurgence in militant violence is threatening to derail badly needed investment.
+* Britain gave Rwanda hundreds of millions of pounds, even though no asylum seekers were deported to the Central African nation under the agreement.
+* Amos Hochstein, an energy policy official who was born in Israel, is playing diplomatic firefighter along the Israel-Lebanon border.
+* In an open letter, the French president rejected any role in government for the far-left France Unbowed party, setting the stage for a heated showdown.
 
 ![Global](./global.png)
 ## New York Times United States News
-* With outages expected to last days, a top state official promised to look into whether the utility company could have done more to prepare for Hurricane Beryl.
-* Across the country, copper and other valuable materials have been stolen from streetlights, statues and even gravesites, costing millions to repair.
-* A donation from Bloomberg Philanthropies will provide free tuition for Johns Hopkins medical students, if their families make less than $300,000 a year.
-* With no working outage tracker from the Houston area’s main electricity provider, people are turning to the chain’s map of open restaurants after Hurricane Beryl.
-* Donald J. Trump’s monthslong search for a running mate, orchestrated to feed speculation and attention, is nearing an end, but questions of who, and when, remain.
-* Time is on President Biden’s side. Every day that he defies pressure to end his re-election campaign, replacing him becomes harder for Democrats.
-* Amos Hochstein, an energy policy official who was born in Israel, is playing diplomatic firefighter along the Israel-Lebanon border.
-* The Times wants to hear from patients and providers about medical practices affiliated with Optum, a subsidiary of UnitedHealth Group. Share your experience below.
-* “America doesn’t shy away from its friends,” Volodymyr Zelensky said in a speech in Washington as leaders gathered in the city for a NATO summit.
-* Speaking to nearly 200 Democratic mayors, the president again acknowledged he had a poor first debate and took softball questions about his campaign and second-term agenda.
+* The state has voted for the Democratic nominee for president for two decades. But a new poll shows a loss of support, and some fed-up voters are considering alternatives.
+* The health care system in Houston, where more than a million customers lack power, was overwhelmed because some patients couldn’t be discharged amid a punishing heat wave.
+* The state has had more than 3,500 wildfires this year, and the peak of the annual fire season has yet to arrive.
+* The Arkansas secretary of state said that the group collecting signatures to put an abortion-rights amendment on the ballot had failed to submit some of the necessary paperwork.
+* As leaders gathered in Washington to mark the anniversary of the organization, they heard starkly different messages from two American presidents on NATO’s future.
+* The president’s allies, doubters and enemies will be watching for any evidence of stumbles as he fields questions from reporters.
+* A set of conservative policy proposals called Project 2025 has put into words what a second term for Donald J. Trump could look like. Trump has distanced himself from the plan, but it aligns with many of his campaign promises. Political reporter, Jonathan Swan, explains.
+* The Biden campaign has attacked Donald J. Trump’s ties to the conservative policy plan that would amass power in the executive branch, though it is not his official platform.
+* ‘It’s a catastrophe,’ said the senator from Vermont, becoming the first Democrat from that chamber to publicly say the president should step aside.
+* A federal judge in Tennessee said that it was unconstitutional for the City of Lakeland, Tenn., to fine Julie Pereira for the sign she posted expressing disapproval of President Biden and Donald J. Trump.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Officials said they would start an investigation after a newspaper reported that a tanker used to carry liquefied coal was then used to transport soybean oil.
+* NATO’s rare rebuke of China could lead to actions pressuring the country to curb exports to Russia. Beijing denounced it as “prejudice, smears and provocation.”
+* Plus, Israel urges Gaza City to evacuate.
+* The specter of a second Donald J. Trump presidency injects new urgency into the NATO summit this week. President Biden and other leaders agree Ukraine should have an “irreversible” path to membership.
+* The measure aims to close a loophole that officials said allowed metals made partly in China to come into the United States duty free.
 * Five questions for the director Nikhil Nagesh Bhat about his Indian action film, which takes an ultraviolent step away from Bollywood conventions.
-* Lee Saedol was one of the world’s top Go players, and his shocking loss to an A.I. opponent was a harbinger of a new, unsettling era. “It may not be a happy ending,” he says.
 * China has invested billions in megaprojects across Pakistan. But a resurgence in militant violence is threatening to derail badly needed investment.
+* Lee Saedol was one of the world’s top Go players, and his shocking loss to an A.I. opponent was a harbinger of a new, unsettling era. “It may not be a happy ending,” he says.
 * The tech giant’s largest union escalated its dispute with management after failing to reach an agreement over pay and working policies.
 * Plus, the U.S. says Russia is struggling in Ukraine.
-* A special prosecutor said the decision not to pursue punishments against a group of Olympic swimmers was “indisputably reasonable,” even though agency scientists had expressed doubts.
-* The ex-regent had been accused of imprisoning hundreds of people under the guise of drug treatment and forcing them to work at his plantation and factory.
-* Prime Minister Narendra Modi of India made his first visit to Russia in five years, even as Ukraine reeled from an attack on a children’s hospital.
-* Plus, President Biden’s crucial week.
-* The Committee on Foreign Investment in the United States proposed a rule that would make it harder for foreigners to buy land near military bases.
 
 ![Asian](./asian.png)
