@@ -2,32 +2,33 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Hamas overwhelmed Israel’s border in October with something like a conventional military maneuver. Now, it acts as a guerrilla force, its fighters often disguised as civilians.
-* The commander, Muhammad Deif, is considered a mastermind of the Oct. 7 attacks. The Palestinian news media reported mass casualties in the attack in southern Gaza.
-* Newly armed with deep-strike missiles, Kyiv is trying to degrade Russian abilities on the peninsula, aiming at airfields, air defenses and logistics hubs.
+* After installing a Labour government for the first time in 14 years, the country is looking to a historical precedent as a presage to a long-awaited sporting success.
+* Boris Akunin, the creator of a hugely popular detective series, hopes that fomenting a vibrant Russian culture abroad might undermine President Vladimir V. Putin’s government at home.
+* Performing before a major match like the Euro 2024 final offers priceless visibility, and the nonzero chance that you’ll be booed.
+* The princess has stepped back from the public eye since her cancer diagnosis earlier this year.
+* Hamas overwhelmed Israel’s border in October with a coordinated, large-scale maneuver before committing atrocities. Now, it acts as a guerrilla force, its fighters often disguised as civilians.
+* The target, Muhammad Deif, was an architect of the Oct. 7 attacks and has been the object of repeated Israeli assassination attempts over decades.
+* Muhammad Deif, an architect of Hamas’s Oct. 7 attack and commander of the group’s military wing, was the focus of an Israeli strike on Saturday.
+* But Imran Khan, the popular former prime minister, remains incarcerated for now, and the authorities have indicated that new charges are likely.
 * Even as production surges, domestic and foreign shifts in the global drug industry have devastated many poor Colombians whose livelihood is tied to cocaine.
-* Lina Boussaha joined a team in Saudi Arabia so she could wear her head scarf while playing the sport she calls “a part of my soul.”
-* Henna artists’ elaborate designs are a hallmark of Indian weddings. They also highlight a disparity where some are fabulously rich and many earn very little.
-* Since the recent killing of a police officer, Mannheim has become the byword for a hard line on deporting those who are denied asylum and commit violent crime.
-* Andrey Kozlov was kept for six months in a family’s apartment by a Hamas operative who moonlighted as a journalist. Then Israeli commandos stormed in.
-* With Washington looking toward China, and the possibility of another Trump presidency, Europe should do more for its own defense. Here are four key areas to watch.
-* The Treasury secretary views food as a way to connect, and her dining decisions have become the subject of global intrigue.
+* Newly armed with deep-strike missiles, Kyiv is trying to degrade Russian abilities on the peninsula, aiming at airfields, air defenses and logistics hubs.
 
 ![Global](./global.png)
 ## New York Times United States News
+* The Supreme Court decided last month that cities could cite homeless campers. Some say ‘clear them all.’ Others are ramping up outreach.
 * The West will get a small break from record-breaking heat, while much of the Midwest and the East Coast swelter into next week.
 * Across the country, copper and other valuable materials have been stolen from streetlights, statues and even gravesites, costing millions to repair.
-* The Western United States has been sweltering for more than a week with little respite for those without air-conditioning. Cooling centers can help, but not everyone takes advantage of them.
-* Some people voiced indifference or regret that their city was hosting the Republican National Convention. Others welcomed the spotlight.
-* Without the protection of Chapter 11, the former mayor and Trump lawyer could have his assets seized and sold by creditors.
-* The Supreme Court decided last month that cities could cite homeless campers. Some say ‘clear them all.’ Others are ramping up outreach.
-* The Treasury secretary views food as a way to connect, and her dining decisions have become the subject of global intrigue.
-* These candidates say the issue cannot be avoided in 2024, and dismiss the notion that focusing on men, who typically prioritize the economy, is a risk.
-* Facing rising frustration in his party, the president brushed it off in an energetic speech in Michigan. Inside the room, at least, the Democratic mood was defiant, with cheers of “Don’t go, Joe.”
-* Robert F. Kennedy Jr. privately reached out last week to a woman who accused him of sexually assaulting her in the late 1990s, an account detailed in a recent magazine article.
+* A range of activists, energized over abortion limits, Israel’s military action in Gaza and immigration, say they plan to march in the city.
+* Few would argue there could be a more perfect setting for the final game of the Copa América soccer tournament on Sunday night.
+* The risk of serious contact burns is increasing as temperatures soar and as more people move to the desert Southwest.
+* Even hours after the shooting, some supporters gathered outside the Manhattan building, seeking solace among the shaken.
+* Authorities identified the gunman as a 20-year-old man from Bethel Park, a town about an hour’s drive from the site of the shooting.
+* The former president was holding a rally when he said he was shot in his ear. Two people, including the suspected gunman, were killed and two were critically injured.
+* Some began to cry and to pray. Others screamed, as law enforcement officers shouted for everyone to get down.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* But Imran Khan, the popular former prime minister, remains incarcerated for now, and the authorities have indicated that new charges are likely.
 * Henna artists’ elaborate designs are a hallmark of Indian weddings. They also highlight a disparity where some are fabulously rich and many earn very little.
 * The latest political upheaval comes as Nepal struggles to cope with deadly disasters like a landslide on Friday that left more than 60 people missing.
 * A ruling by Pakistan’s top court strips the governing coalition of its two-thirds majority, and thrusts the party of Imran Khan back onto the political main stage.
@@ -37,6 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * Plus, a U.S. plan to deploy missiles in Germany angered Russia.
 * University students oppose the reinstatement of a quota system for government jobs that was abolished in 2018.
 * Guo Wengui fled China and allied with the American right in a quixotic quest to end Communist rule. U.S. prosecutors say he stole over $1 billion from his followers.
-* Officials said they would start an investigation after a newspaper reported that a tanker used to carry liquefied coal was then used to transport soybean oil.
 
 ![Asian](./asian.png)
