@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Former President Donald J. Trump will address the final day of the Republican convention, delivering his first major televised speech since the assassination attempt on Saturday.
-* More than 40 European leaders, including President Volodymyr Zelensky of Ukraine, are meeting at Blenheim Palace on Thursday. Fears over the continent’s security, and the threat of Russia, loom large.
-* Marine Tondelier, leader of the Green Party, helped bring the left together to win France’s parliamentary elections. Now can she help keep it from falling apart?
-* Javier Milei has developed a public devotion to Judaism unusual for a leader of a predominantly Roman Catholic country.
-* Lawmakers gathered for the first time since an election produced a deadlocked Parliament to elect a new president of the National Assembly. It was unclear who would come out on top.
-* The country’s Supreme Court said same-sex couples qualify for dependent coverage under the national health insurance, a decision that could have wider ramifications.
-* Hwang Sunwoo and Kim Hana, who are single and live together, say South Korea’s laws should reflect the alternative unions that many of its people have chosen.
-* President Nicolás Maduro will appear over and over again on Venezuela’s presidential ballot. That is by design, government critics say.
-* As many as one-third of Venezuelans would consider migrating if the country’s authoritarian leader is given another six years in power in an election set for July 28, one poll showed.
-* The Silk and Great Value brand drinks made from nuts, oats and coconuts were pulled from stores last week.
+* After at least 10 sacks with body parts were found in a dump, a suspect was said to admit to 42 murders. But some doubt the case, and people with missing loved ones say the police were slow to help.
+* The Games brought billions to redevelop this Paris suburb. What will the thousands of homeless people who live there do?
+* To keep it from Russian forces, a writer hid his last manuscript under a cherry tree. Its rediscovery became part of a flowering of interest in Ukrainian literature.
+* The Biden administration helped prod the Venezuelan government to hold elections on July 28. Now, it is watching to see if the vote will be free and fair.
+* The mayor said preliminary data suggested that the experiment was a success. But the program brought in far more money than predicted, which critics called proof of failure.
+* For weeks, university students have been protesting a quota system for government jobs. Suppression led to a cycle of violence and now a paralyzing curfew.
+* The country’s political workings are notably opaque, but for now the president, who was until recently minister of public security, is carrying out the duties of general secretary.
+* Students, armed mainly with sticks, have been demonstrating for days against a quota system for government jobs they consider unfair. Dozens have died in the violence.
+* Overshadowed by fighting in the east of the Democratic Republic of Congo, a dispute in the west between two ethnic groups has resulted in thousands of civilians killed and more than 550,000 displaced near the capital, Kinshasa.
+* The Wall Street Journal reporter’s trial on espionage charges was widely viewed as a sham outside Russia. But the verdict could set the stage for a prisoner exchange.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Michele Fiore, a colorful figure in the state’s politics, took donations intended for a slain officer’s statue and used them for personal expenses, prosecutors said.
-* There is growing anxiety that the country’s political divide is nearly beyond repair, and the assassination attempt on Donald Trump only made things worse.
-* Donald Trump is calling for the biggest deportation program in American history. The costs and hurdles would be enormous.
-* The gunman who opened fire at a Trump rally grew up in an area where hunting and target shooting have long been popular pastimes. Now, there’s new talk of gun regulation.
-* The president’s Covid diagnosis, coming at a galvanizing moment for his opponent, resulted in starkly different images of the two campaigns at a pivotal moment in the race.
-* Over three days at the Republican National Convention, Donald J. Trump’s party has tried to soften his image. On Thursday, he’ll speak for himself.
-* Donald Trump and his team displayed a ruthless efficiency in the process of making a platform, confiscating delegates’ cellphones and stifling dissent and even debate.
-* Senator J.D. Vance denounced “Wall Street barons” and illegal immigration as the convention’s previous unity message shifted to more aggressive attacks on President Biden.
-* The Ohio senator officially accepted the Republican vice-presidential nomination.
-* The couple met while attending Yale Law School. Republicans hope Ms. Vance, the daughter of Indian immigrants, will become the second lady.
+* Thomas Crooks was a brainy and quiet young man who built computers and won honors at school, impressing his teachers. Then he became a would-be assassin.
+* Ms. Lee, a Democrat who represented a district in the Houston area, was an irrepressible presence since she was first elected to Congress in 1994.
+* Indian Americans are now the largest and most politically active group among Asian Americans. Among their recent milestones: Vice President Kamala Harris, two G.O.P. presidential candidates — and a possible second lady.
+* Former President Donald J. Trump and the Texas governor are calling for a “secure border.” But actions by Mexico and President Biden have led to a period of relative calm.
+* The man accused of planning the attacks was waterboarded 183 times. The now outlawed “enhanced interrogation” technique is considered a form of torture.
+* Donald Trump’s followers see more than a man divinely saved from a bullet. They see the rescue of a nation.
+* Patrick Byrne, Mike Lindell and other Trump supporters who made baseless assertions that Dominion Voting Systems rigged the 2020 election are using court cases to keep spreading lies about the company.
+* In two years, Texas has bused more than 119,000 people to Democrat-led cities, shifting both migration patterns and the debate over immigration. The list of cities keeps expanding.
+* The roof of a 19th-century part of the First Baptist Dallas Church in the city’s downtown appeared to have collapsed.
+* The former House speaker and fellow California lawmakers were discussing the Democratic Party’s stressful state of affairs.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* For weeks, university students have been protesting a quota system for government jobs. Suppression led to a cycle of violence and now a paralyzing curfew.
+* The country’s political workings are notably opaque, but for now the president, who was until recently minister of public security, is carrying out the duties of general secretary.
+* Known for his “blazing furnace” anticorruption campaign, Mr. Trong consolidated power in one of the world’s few remaining Communist dictatorships.
+* Whoever you are, we appreciate it.
+* Students, armed mainly with sticks, have been demonstrating for days against a quota system for government jobs they consider unfair. Dozens have died in the violence.
+* A trailblazer for women in Asian martial arts cinema, Ms. Cheng rose to fame in the 1960s in Hong Kong.
+* Plus, security failures at the Trump rally.
+* Violent clashes have erupted between the police and students protesting a quota system used to fill coveted civil service jobs.
 * The country’s Supreme Court said same-sex couples qualify for dependent coverage under the national health insurance, a decision that could have wider ramifications.
 * Hwang Sunwoo and Kim Hana, who are single and live together, say South Korea’s laws should reflect the alternative unions that many of its people have chosen.
-* Kazakhstan’s bounty has enriched the country and grabbed the attention of entrepreneurs scrambling to control the ingredients needed to fight climate change.
-* Plus, Israel estimates the toll on Hamas.
-* The journalist accused her former employer of failing to stand up for press freedom, a claim that the newspaper rejected.
-* Only six specimens of the spade-toothed whale have ever been identified. This carcass could be the first that scientists are able to dissect.
-* Trump also accused Taiwan of sinking the U.S. semiconductor sector, signaling he wants a more transactional approach to shielding the island from China.
-* Asian honeybees protect their hives by making insect intruders go airborne.
-* A case that shocked Thailand, the police indicated on Wednesday, was one of murder-suicide.
-* Plus, Israeli strikes killed more than 20 people in Gaza.
 
 ![Asian](./asian.png)
