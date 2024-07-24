@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The Israeli military warned Gazans to leave part of what it had previously designated as a relatively safe area in Khan Younis, saying Hamas had launched rockets from there.
-* About 500 top-level Ukrainian athletes and coaches have died in the war. Volodymyr Androshchuk promised his loved ones he would make it back.
-* President Biden’s stance on Ukraine was shaped by a deep commitment to America’s trans-Atlantic alliance. Some Europeans fear he may be among the last of his kind.
-* The Israeli prime minister could expect a freer hand if Donald J. Trump returns to the presidency. But he must rely on President Biden for another six months.
-* Daily power cuts have been plaguing Egypt during an extraordinarily hot summer. Now the blackouts may be temporarily suspended, but the damage to confidence in the government has already been done.
-* After nine months of low-level conflict between Israel and Hezbollah, the risk of all-out war is higher than ever. A cease-fire in Gaza would provide an offramp for both sides, diplomats say.
-* Ms. Kurmasheva, a Russian American working for Radio Free Europe/Radio Liberty, had been charged in relation to an antiwar book she edited.
-* The deal with private bondholders will help preserve Kyiv’s limited state budget, which is crucial to fund its military. An agreement to suspend debt payments was to expire on Aug. 1.
-* Britain’s last Conservative government spent almost a billion dollars on its controversial plan to send asylum seekers to Rwanda, the newly appointed minister for immigration said Monday.
-* President Zoran Milanovic called for stricter gun control after an attack that shook Croatia, where mass killings are rare. A suspect was arrested nearby.
+* Families of hostages in Gaza and many others in Israel and abroad will be watching the Israeli prime minister’s address on Wednesday to hear how he will handle competing demands on his approach to the war.
+* Parts of southern Italy and other countries in the region are experiencing one of their worst droughts in decades. The authorities say they are working to at least save tourism.
+* The Games will usher visitors through France’s history, with events at the Grand Palais and Versailles. But, as host, Paris is also becoming a new city.
+* Typhoon Gaemi, nearing the island with Category 4 winds, was expected to make landfall Wednesday night after killing at least five people in the region.
+* The pilot of the Saurya Airlines flight, which was departing from Kathmandu, was the only survivor, officials said.
+* The authorities also searched dozens of properties linked to the Islamic Center Hamburg, which has long faced accusations of being a front for the Iranian government.
+* The work of those who guide people coping with acute grief has grown in importance in war-torn Ukraine, where death has become a daily reality since the Russian invasion.
+* Prime Minister Sheikh Hasina’s response to protests has left at least 150 people dead and created the biggest challenge yet to her grip on power.
+* While most Georgians support closer integration with Western Europe, many people in industrial areas that collapsed along with Communism in the 1990s express nostalgia for the old Soviet prosperity.
+* Traders in Chaman have done business in Afghanistan for generations, but that stopped when officials made it much harder to cross.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Voters eager to elect the first female president pointed to anger over a loss of abortion rights, but also acknowledged a fear that sexism would remain difficult for Ms. Harris to overcome.
-* Shoplifting and fentanyl use have tested the patience of California voters, who will decide in November whether to impose stricter laws that would lead to more incarceration.
+* An assailant ran over the 80-year-old man with an all-terrain vehicle, leaving him badly injured, law enforcement officials said, decrying the act of political violence.
 * Many business owners said they were disappointed by a drop in customers during the Republican National Convention. Other places were packed.
-* Let us know how you feel about a woman running for president in 2024.
-* An estimated 15,000 gallons of sewage spilled into a creek near Venice and Dockweiler State beaches on Saturday, officials said, causing them to be shut down.
-* After years planning to face President Biden, Donald J. Trump and his team will be campaigning against Kamala Harris. He has attacked female rivals and critics in brutal and personal terms.
-* Much of President Biden’s agenda polls well, but voters roundly dislike his handling of the economy. That’s a campaign challenge for his vice president, as she mounts a presidential bid.
-* Donald J. Trump and his allies said President Biden’s primary voters were disenfranchised. Democrats noted Mr. Trump had once tried to toss out millions of ballots.
-* Bob Glynn Dean Jr. of Louisiana, who pleaded no contest to cruelty to the infirmed, Medicaid fraud and other criminal charges, will avoid prison time if he successfully completes probation.
-* On her first full day in the race, Kamala Harris drew endorsements from her final possible rivals, hauled in record sums of cash and attacked Donald Trump.
+* Investigators found lapses in the handling of a troubled reservist who went on to kill 18 people, but they rejected suggestions that his Army work had damaged his brain.
+* Shoplifting and fentanyl use have tested the patience of California voters, who will decide in November whether to impose stricter laws that would lead to more incarceration.
+* In interviews around the country, Black voters voiced enthusiasm for the reshaped campaign. They also worried about how a polarized country would see it.
+* A comparison of former President Donald J. Trump’s addresses before the Republican National Convention in 2016 and 2024 demonstrates how his relationship to the truth has changed.
+* A boycott by some Democrats of the Israeli prime minister’s speech will highlight the deep anger within the party’s base about his conduct of the war against Hamas.
+* Janet Yamanaka Mello, 57, stole over $100 million from a youth development grant program for children of military families, spending the money on a lavish lifestyle, prosecutors said.
+* President Biden is set to address the nation on Wednesday night from the Oval Office to discuss the end of his re-election bid.
+* The explosion at Biscuit Basin, which sent a column of boiling water, mud and rock shooting into the sky on Tuesday, was caught in dramatic videos.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The pilot of the Saurya Airlines flight, which was departing from Kathmandu, was the only survivor, officials said.
+* Officials found nothing hazardous in the balloons’ payloads, as the North’s slow barrage of airborne garbage showed few signs of letting up.
+* Typhoon Gaemi, nearing the island with Category 4 winds, was expected to make landfall Wednesday night after killing at least five people in the region.
+* Singapore, which subsists on imported food, is looking to secure its future with new ways of feeding its people.
+* Plus, the head of the Secret Service resigns.
+* Prime Minister Sheikh Hasina’s response to protests has left at least 150 people dead and created the biggest challenge yet to her grip on power.
+* A contestant on the reality show “Race to Survive: New Zealand” killed and ate a weka during filming. The contestant, who said he was hungry, has apologized for “disrespecting New Zealand.”
+* She starred in “Doraemon” and other animated shows watched by nearly every child in Japan, and her voice became widely recognized.
 * Neeraj Chopra’s triumph in Tokyo inspired athletes across the world’s most populous nation. Now his country is chasing a bigger prize: a chance to host the Games for the first time.
 * Traders in Chaman have done business in Afghanistan for generations, but that stopped when officials made it much harder to cross.
-* Plus, the head of the Secret Service testified before Congress about the assassination attempt on Donald Trump.
-* More than any election in decades, this one will be marked by starkly different approaches to an era of simultaneous confrontations, from China to Russia to the Middle East.
-* Foreign leaders did not wade into the turmoil of U.S. politics. Many opted instead for statements of empathy that lauded the president’s record.
-* The president endorsed Vice President Kamala Harris to continue the race against Donald Trump.
-* The Communist Party rebuffed calls from economists to shift away from investment-led growth and toward consumer spending.
-* A court ruling has sharply reduced a quota system for filling government jobs, after protests over the issue turned violent and were brutally suppressed.
-* Behind the scenes, China’s most celebrated and its most notorious billionaires were linked through investments worth at least $1 billion.
-* Inflatable replicas of famous monuments popped up in a park, raising questions about art and Hong Kong’s changing place in the world.
 
 ![Asian](./asian.png)
