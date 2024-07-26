@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The Israeli prime minister portrayed the war in Gaza as a “clash between barbarism and civilization” and declared “we will win.” He called antiwar protesters outside the Capitol “Iran’s useful idiots.”
-* In a move brokered by China, Fatah and Hamas endorsed a unified government for the West Bank and Gaza, but Palestinians are skeptical that the two parties can put aside their differences.
-* The head of a six-year investigation into mistreatment in orphanages, mental health institutions and elsewhere said it found an “unthinkable national catastrophe” unfolding over decades.
-* The work of those who guide people coping with acute grief has grown in importance in war-torn Ukraine, where death has become a daily reality since the Russian invasion.
-* Parts of southern Italy and other countries in the region are experiencing one of their worst droughts in decades. The authorities say they are working to at least save tourism.
-* The Games will usher visitors through France’s history, with events at the Grand Palais and Versailles. But, as host, Paris is also becoming a new city.
-* A visit by the foreign minister of Ukraine to Guangzhou this week signals Kyiv’s desire to involve Beijing in peace talks that China has thus far largely snubbed.
-* Spurned by the country’s authoritarian president and even her own colleagues in the opposition, María Corina Machado has built the most significant voter mobilization since Hugo Chávez.
-* Many Indian Americans see Kamala Harris as another example of the diaspora’s success and influence.
-* Singapore, which subsists on imported food, is looking to secure its future with new ways of feeding its people.
+* At least three high-speed links to Paris were disrupted, causing widespread delays affecting about 800,000 travelers, the French national rail company said.
+* A single image captures the change in fortunes for a wine cellar turned field hospital in Russian-occupied Ukraine.
+* A country torn apart by civil war could soon face one of the world’s worst famines in decades, experts said.
+* Two Russian and two Chinese bombers patrolled the airspace near American territory and were intercepted by U.S. and Canadian jets.
+* Polish divers think they have found cases of Champagne on a 19th-century merchant vessel that sank off Sweden.
+* The West African nation of Burkina Faso was once known for its lively arts scene. Now, it is a country torn apart by Islamist extremists and the government’s brutal effort to drive them out.
+* Each new disaster, including a crash that killed 18 people on Wednesday, leads to another investigation. A serious conflict of interest is always left unaddressed.
+* In a TV interview airing on Thursday, Harry said his dispute with British newspapers over illegal information gathering was a “central piece” of his estrangement from other royals.
+* Even if Paris weren’t scarred by terrorist attacks, protecting the opening ceremony, which will float down the Seine, offers a daunting challenge.
+* In seven years, Racheal Kundananji went from playing her first organized game to signing a multimillion-dollar contract. Her rise could have lasting effects.
 
 ![Global](./global.png)
 ## New York Times United States News
-* A 29-year-old intruder who smashed a glass door to enter Mayor Karen Bass’s official residence pleaded no contest to a vandalism charge.
-* A grand jury charged the officers with abandoning and endangering the children who were left holed up with a gunman at Robb Elementary School in Texas.
-* In interviews around the country, Black voters voiced enthusiasm for the reshaped campaign. They also worried about how a polarized country would see it.
-* An assailant ran over the 80-year-old man with an all-terrain vehicle, leaving him badly injured, law enforcement officials said, decrying the act of political violence.
-* In the days since President Biden ended his re-election bid and passed the torch to Vice President Kamala Harris, Donald Trump’s campaign has been crowded out of the headlines.
-* An analysis by the Council on Criminal Justice cautions that progress has been uneven, with the trend being driven by declines in a handful of big cities
-* The blazes have prompted air quality warnings in several states and Canada’s Alberta Province.
-* In a speech from the Oval Office, President Biden said it was time to “pass the torch to a new generation.” But he said nothing about his own age or capacity that led so many Democrats to desert him.
-* “The best way forward is to pass the torch to a new generation,” the president said in a rare Oval Office address. And he told voters, “History is in your hands.”
-* In an Oval Office address, President Biden praised Vice President Kamala Harris and said “it’s been the privilege of my life to serve this nation for over 50 years.”
+* The state superintendent said he would crack down on “rogue districts” opposing the mandate. The guidelines detail how the Bible should be taught by subject and grade levels from five to 12.
+* The Secret Service, which has been under scrutiny since the assassination attempt against Donald J. Trump, says it has reviewed its security plan for the convention in August.
+* Republicans are already seeking to link Vice President Kamala Harris to pandemic school closures, which local teachers’ unions pushed to extend.
+* An analysis by the Council on Criminal Justice cautions that progress has been uneven, with the trend being driven by declines in a handful of big cities.
+* One man is being held without bail after a witness saw him push a flaming vehicle down an embankment on Wednesday, the authorities said. The Park fire has burned more than 164,000 acres.
+* After years planning to face President Biden, Donald J. Trump and his team will now be campaigning against Kamala Harris. Maggie Haberman, a senior political correspondent for The New York Times, describes how Mr. Trump may try to frame his new opponent.
+* Lobbyists and lawyers are raising money for Vice President Kamala Harris, the likely Democratic presidential nominee, and assessing what her term might look like.
+* A review of JD Vance’s writings and interviews reveals the gradual, complicated process behind his conversion from anti-Trump author to pro-Trump senator.
+* Russia’s defense minister said he needed to talk to Defense Secretary Lloyd Austin about an alleged Ukrainian operation. What happened next remains murky.
+* An absence of medical records or official accounts has stirred confusion, but a Times video and trajectory analysis indicates a bullet, not debris, wounded the former president.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The use of artificial intelligence is exploding around the world, but the technology’s language models are primarily trained in English, leaving many speakers of other languages behind.
+* The storm has already left a trail of destruction in Taiwan and the Philippines, where it killed at least 15 people.
+* The country is famous for its hospitality. But businesses have had enough of people screaming at workers or tormenting them on social media.
+* Plus, a new poll shows Kamala Harris closing in on Donald Trump.
+* Each new disaster, including a crash that killed 18 people on Wednesday, leads to another investigation. A serious conflict of interest is always left unaddressed.
+* Two Russian and two Chinese bombers patrolled the airspace near American territory and were intercepted by U.S. and Canadian jets.
+* The solar sector shows how China conducts industrial policy: It chooses industries to dominate, floods them with loans and lets companies fight it out.
+* ShadowCam, a NASA instrument aboard a South Korean spacecraft, is taking pictures of the moon where the sun doesn’t shine.
 * The birthplace of anime, manga and, of course, Pokémon, has child-friendly attractions at every turn. Here, six spots your children will thank you for visiting.
 * The coast guard rescued 16 of the vessel’s 17 crew members, but Typhoon Gaemi’s remnants were complicating efforts to contain the oil spill in Manila Bay.
-* Nine sailors were missing after a cargo ship sank near the island. The storm was forecast to make landfall in China on Thursday.
-* A top Chinese university described the conduct of a professor accused of sexual harassment as a moral failing, language feminists say downplays harm to women.
-* Defying sanctions, Russia has obtained nearly $4 billion in restricted chips since the war began in Ukraine. Many were shipped through a cluster of shell companies in Hong Kong.
-* The central bank lowered a key rate in its latest effort to steady China’s economy, as Asian stock markets followed Wall Street down.
-* Plus, disinformation floods the internet during the U.S. presidential race.
-* Many Indian Americans see Kamala Harris as another example of the diaspora’s success and influence.
-* The head of a six-year investigation into mistreatment in orphanages, mental health institutions and elsewhere said it found an “unthinkable national catastrophe” unfolding over decades.
-* The pilot of the Saurya Airlines flight, which was departing from Kathmandu, was the only survivor, officials said.
 
 ![Asian](./asian.png)
