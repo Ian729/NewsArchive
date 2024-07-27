@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* At least three high-speed links to Paris were disrupted, causing widespread delays affecting about 800,000 travelers, the French national rail company said.
-* A single image captures the change in fortunes for a wine cellar turned field hospital in Russian-occupied Ukraine.
-* A country torn apart by civil war could soon face one of the world’s worst famines in decades, experts said.
-* Two Russian and two Chinese bombers patrolled the airspace near American territory and were intercepted by U.S. and Canadian jets.
-* Polish divers think they have found cases of Champagne on a 19th-century merchant vessel that sank off Sweden.
-* The West African nation of Burkina Faso was once known for its lively arts scene. Now, it is a country torn apart by Islamist extremists and the government’s brutal effort to drive them out.
-* Each new disaster, including a crash that killed 18 people on Wednesday, leads to another investigation. A serious conflict of interest is always left unaddressed.
-* In a TV interview airing on Thursday, Harry said his dispute with British newspapers over illegal information gathering was a “central piece” of his estrangement from other royals.
-* Even if Paris weren’t scarred by terrorist attacks, protecting the opening ceremony, which will float down the Seine, offers a daunting challenge.
-* In seven years, Racheal Kundananji went from playing her first organized game to signing a multimillion-dollar contract. Her rise could have lasting effects.
+* With the closure of checkpoints, Israeli Arabs cannot come to Jenin and Tulkarm to shop, and West Bank Palestinians cannot leave to work in Israel, cutting incomes and building militancy.
+* Prosecutors in Ukraine are pursuing cases of sexual assault by Russian soldiers, but survivors say more financial and psychological support is needed.
+* Heads of state and diplomats who have interacted with the presumptive Democratic presidential nominee say she uses humor, and talk of food, to help leaven hard discussions.
+* France’s national railway company said traffic was gradually returning to normal a day after arsonists disrupted three high-speed rail lines. No one has claimed responsibility for the attacks.
+* Léon Marchand, who has the potential to win medals in four individual events, bears much of the weight of France’s expectations. He is ready, he says, but adds, “it does feel weird.”
+* The sprawling ceremony was held under rainy skies and featured sports stars like Zinedine Zidane and Serena Williams. Earlier, coordinated arson attacks disrupted service on three high-speed links to Paris, causing severe delays.
+* Here is what we know about the presumptive Democratic presidential nominee’s views on issues like migration and the wars in Ukraine and Gaza.
+* In Paris, Chinese swimmers have been under extra scrutiny by doping watchdogs, but that hasn’t satisfied competitors like American star Caeleb Dressel.
+* The move underscored the wartime risks for the Kremlin as the government pumps enormous sums of money into the Russian economy.
+* Fast-moving fires have destroyed a third of the buildings in the picturesque town of Jasper, Alberta, and its national park. But the mayor hopes to rebuild.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The state superintendent said he would crack down on “rogue districts” opposing the mandate. The guidelines detail how the Bible should be taught by subject and grade levels from five to 12.
-* The Secret Service, which has been under scrutiny since the assassination attempt against Donald J. Trump, says it has reviewed its security plan for the convention in August.
-* Republicans are already seeking to link Vice President Kamala Harris to pandemic school closures, which local teachers’ unions pushed to extend.
-* An analysis by the Council on Criminal Justice cautions that progress has been uneven, with the trend being driven by declines in a handful of big cities.
-* One man is being held without bail after a witness saw him push a flaming vehicle down an embankment on Wednesday, the authorities said. The Park fire has burned more than 164,000 acres.
-* After years planning to face President Biden, Donald J. Trump and his team will now be campaigning against Kamala Harris. Maggie Haberman, a senior political correspondent for The New York Times, describes how Mr. Trump may try to frame his new opponent.
-* Lobbyists and lawyers are raising money for Vice President Kamala Harris, the likely Democratic presidential nominee, and assessing what her term might look like.
-* A review of JD Vance’s writings and interviews reveals the gradual, complicated process behind his conversion from anti-Trump author to pro-Trump senator.
-* Russia’s defense minister said he needed to talk to Defense Secretary Lloyd Austin about an alleged Ukrainian operation. What happened next remains murky.
-* An absence of medical records or official accounts has stirred confusion, but a Times video and trajectory analysis indicates a bullet, not debris, wounded the former president.
+* In California, the Park fire has charred more than 307,000 acres, becoming the country’s largest this year. The Durkee fire in Oregon has covered at least 288,000 acres.
+* The agreement, if approved by a federal judge, could deliver the final hammer blow to the amateur model of college athletics.
+* In California, Gov. Gavin Newsom’s declaration urging cities to clear homeless camps met its strongest opposition in Los Angeles.
+* The Park fire in Northern California quickly became the state’s largest and most destructive wildfire this year, not far from where Paradise, Calif., was decimated in 2018.
+* A former Yale Law School classmate shared with The Times about 90 emails and text messages with Mr. Vance. Here are some of the most revealing moments in their correspondence.
+* Andy Beshear, the Democratic governor of a deep-red state, is an intriguing Southern contender to become Kamala Harris’s running mate. He’s already straining to go after JD Vance.
+* His political views differed from a transgender classmate’s, but they forged a bond that lasted a decade — until Mr. Vance seemed to pivot, politically and personally.
+* Speaking to religious conservatives in Florida, former President Donald J. Trump accused Vice President Kamala Harris of wanting to use left-wing values to transform the United States.
+* The explanation was the most definitive to date after the bureau’s director had earlier suggested the former president might have been hit by shrapnel, igniting a political storm.
+* The vice president’s expressions of concern for Palestinian suffering marked a shift in emphasis from the president’s statements as she moved to establish herself as the leader of her party.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Zhang Yufei, one of 23 athletes who tested positive for a banned substance before the last Olympics, said China did not allow doping, and offered a window into the stress the accusations have caused.
+* Here is what we know about the presumptive Democratic presidential nominee’s views on issues like migration and the wars in Ukraine and Gaza.
+* The former president met with the Israeli leader in Florida, a day after his main opponent, Vice President Kamala Harris, and he both criticized Israel’s conduct of the war.
+* In Paris, Chinese swimmers have been under extra scrutiny by doping watchdogs, but that hasn’t satisfied competitors like American star Caeleb Dressel.
+* Asian officials will press Secretary of State Antony J. Blinken about the former president and about Kamala Harris as he visits the region.
 * The use of artificial intelligence is exploding around the world, but the technology’s language models are primarily trained in English, leaving many speakers of other languages behind.
 * The storm has already left a trail of destruction in Taiwan and the Philippines, where it killed at least 15 people.
 * The country is famous for its hospitality. But businesses have had enough of people screaming at workers or tormenting them on social media.
 * Plus, a new poll shows Kamala Harris closing in on Donald Trump.
 * Each new disaster, including a crash that killed 18 people on Wednesday, leads to another investigation. A serious conflict of interest is always left unaddressed.
-* Two Russian and two Chinese bombers patrolled the airspace near American territory and were intercepted by U.S. and Canadian jets.
-* The solar sector shows how China conducts industrial policy: It chooses industries to dominate, floods them with loans and lets companies fight it out.
-* ShadowCam, a NASA instrument aboard a South Korean spacecraft, is taking pictures of the moon where the sun doesn’t shine.
-* The birthplace of anime, manga and, of course, Pokémon, has child-friendly attractions at every turn. Here, six spots your children will thank you for visiting.
-* The coast guard rescued 16 of the vessel’s 17 crew members, but Typhoon Gaemi’s remnants were complicating efforts to contain the oil spill in Manila Bay.
 
 ![Asian](./asian.png)
