@@ -2,36 +2,36 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Hamas accused Israel of killing Ismail Haniyeh, who was in Tehran for the inauguration of Iran’s new president, though there was no response from Israel. His death raised further fears of a wider war in the region.
-* Boxing is a national passion in Thailand, offering a path to the Olympics and lucrative careers in a country with one of the world’s widest income divides.
-* Videos by influencers documenting their trips have been widely promoted on Chinese media — if they tell a certain story.
-* The former president says Venezuela’s crime rate has plunged because it is expelling criminals. But there is little evidence supporting the claim.
+* Hezbollah confirmed that one of its senior commanders, Fuad Shukr, had been killed in an Israeli strike on Beirut, and Hamas accused Israel of killing its political leader, Ismail Haniyeh, while he was in Tehran for the inauguration of Iran’s new president.
+* After Israeli soldiers were detained on suspicion of abusing a Palestinian, riots broke out that symbolize a wider struggle over Israel’s future that has divided the country.
 * Most Ukrainians still oppose ceding any territory to Russia. But polls and recent remarks by the country’s leaders highlight a palpable shift in the conversation around peace talks.
-* The strike was in retaliation for a deadly rocket attack this weekend in the Golan Heights. At least three civilians were killed and 74 others wounded on Tuesday, Lebanese officials said.
-* Huw Edwards, who was one of the BBC’s top television anchors, admitted to offenses in a London court on Wednesday.
-* Most of the world’s oldest leaders — in their 80s and even one in his 90s — are in Africa, which happens to have the youngest population of any continent.
-* Much of what consumers buy is marked “sustainable,” “humane” or “green.” In the sugar cane fields of India, that papered over the worst abuses.
-* In 1974, a radioactive cloud from a French nuclear test drifted over Teahupo’o, Tahiti, now the surfing venue for the Paris Games. Villagers still feel the effects.
+* For 15 months, Gen. Abdel Fattah al-Burhan has been leading a war for control of the country against his rival, Lt. Gen. Mohamed Hamdan, the head of the paramilitary Rapid Support Forces.
+* The Times analyzed partial voting tallies collected by the opposition. They cast further doubt on Nicolás Maduro’s declared victory.
+* Mr. Haniyeh, the Palestinian militant group’s exiled political chief, managed high-stakes negotiations, including the ongoing cease-fire talks to end the war in Gaza.
+* The West African nation’s former leader and some of his top aides were found guilty of crimes against humanity for mass murder and rapes committed during and after a pro-democracy protest in 2009.
+* The Carter Center, a leading pro-democracy organization, says Venezuela’s election violated the country’s own laws and was undemocratic.
+* From voter intimidation to refusing to provide paper tallies to verify the result claimed by the government, the election was riddled with problems.
+* Boxing is a national passion in Thailand, offering a path to the Olympics and lucrative careers in a country with one of the world’s widest income divides.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Leaders of Los Angeles County, where more than 75,000 homeless people live, voted on Tuesday to reaffirm that they would not criminalize homelessness.
-* In two years, Texas has bused more than 119,000 people to Democrat-led cities, shifting both migration patterns and the debate over immigration. The list of cities keeps expanding.
-* After months of roaring around the city in a souped-up Dodge Charger, drawing furious complaints and unpaid fines, Miles Hudson was led out of court on Monday in handcuffs.
-* “These guys are just weird,” Gov. Tim Walz, a former schoolteacher, has said of the opposition.
-* Democrats are buzzing, but sustaining the momentum is the next challenge. “How long does the honeymoon last?” one Republican pollster asked. “Who knows.”
-* Republicans blame Vice President Kamala Harris for the surge of migrants into the United States over the past several years. But a review of her involvement shows a more nuanced record.
-* Stephen Richer, the Maricopa County recorder in Phoenix, was widely criticized by Republicans for defending the state’s voting system against false claims about the 2020 election.
-* A new super PAC was formed to supplement the Trump-Vance campaign’s efforts to mobilize voters in swing states.
-* The Republican firebrand and fierce Trump ally prevailed over Mark Lamb, while Representative Ruben Gallego was unopposed in the Democratic primary.
-* Sean Patrick Cirillo called Ms. Greene’s office and told staff members about his plans to kill the politician, the F.B.I. said. He faces a maximum of five years in prison.
+* At least one person was killed this week by a wildfire in Colorado, and experts say hot, dry conditions are likely to spark more blazes.
+* A military report on suicide rates broken down by occupation finds the highest rates among categories of troops that often work and train around weapons blasts.
+* Dozens of homes were destroyed and damaged in the latest wave of extreme rainfall in the state, officials said.
+* The ruling said that because death row prisoners can choose from three methods of execution, none could be considered a cruel or unusual punishment.
+* Gov. Josh Shapiro of Pennsylvania, an observant Jew, is seen as bringing plenty of upsides to the Democratic ticket. But some worry about setting off opposition to the Democratic ticket from pro-Palestinian demonstrators.
+* The brazen appearance of white supremacist groups in Nashville left the city grappling with how to confront hateful speech without violating First Amendment protections.
+* White America has long sought to define racial categories — and who can belong to them.
+* Two tornadoes were also reported near the city, which was battered by winds of up to 80 m.p.h. on Wednesday. Other parts of the Midwest were under severe thunderstorm warnings.
+* The killing of Hamas’s political leader in Tehran was a humiliating security failure for the Iranian government.
+* The vice president’s calibrated rebuttal was perhaps an early indication of how she will respond to racist and crude attacks from Donald Trump.
 
 ![US](./usnews.png)
 ## New York Times Asia News
 * The government said the proposal would protect online privacy. Critics said it could further concentrate government control over the internet.
-* The death toll has risen to at least 126 in Kerala State after heavy rain sent huge mudslides through an area known as a tourist destination.
+* The death toll has steadily risen in Kerala state after heavy rain sent huge mudslides through a scenic area known as a tourist destination.
 * Boxing is a national passion in Thailand, offering a path to the Olympics and lucrative careers in a country with one of the world’s widest income divides.
-* The closely watched move by the Bank of Japan could bolster the country’s beleaguered currency.
+* The closely watched move by the Bank of Japan bolstered the country’s beleaguered currency.
 * China has been rolling out new visa-free programs and promising to make travel easier for foreigners. But challenges remain.
 * Videos by influencers documenting their trips have been widely promoted on Chinese media — if they tell a certain story.
 * Ragib Khan’s careful journey at the wheel of a long-haul truck revealed how far India’s infrastructure has come and how far it has to go.
