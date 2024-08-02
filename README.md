@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Hezbollah confirmed that one of its senior commanders, Fuad Shukr, had been killed in an Israeli strike on Beirut, and Hamas accused Israel of killing its political leader, Ismail Haniyeh, while he was in Tehran for the inauguration of Iran’s new president.
-* After Israeli soldiers were detained on suspicion of abusing a Palestinian, riots broke out that symbolize a wider struggle over Israel’s future that has divided the country.
-* Most Ukrainians still oppose ceding any territory to Russia. But polls and recent remarks by the country’s leaders highlight a palpable shift in the conversation around peace talks.
-* For 15 months, Gen. Abdel Fattah al-Burhan has been leading a war for control of the country against his rival, Lt. Gen. Mohamed Hamdan, the head of the paramilitary Rapid Support Forces.
-* The Times analyzed partial voting tallies collected by the opposition. They cast further doubt on Nicolás Maduro’s declared victory.
-* Mr. Haniyeh, the Palestinian militant group’s exiled political chief, managed high-stakes negotiations, including the ongoing cease-fire talks to end the war in Gaza.
-* The West African nation’s former leader and some of his top aides were found guilty of crimes against humanity for mass murder and rapes committed during and after a pro-democracy protest in 2009.
-* The Carter Center, a leading pro-democracy organization, says Venezuela’s election violated the country’s own laws and was undemocratic.
-* From voter intimidation to refusing to provide paper tallies to verify the result claimed by the government, the election was riddled with problems.
-* Boxing is a national passion in Thailand, offering a path to the Olympics and lucrative careers in a country with one of the world’s widest income divides.
+* Mourners were gathering for the funeral of Ismail Haniyeh, the political leader of Hamas who was assassinated earlier this week. President Biden expressed deep concern about the situation in the region, and called on Israel to agree to a cease-fire in Gaza.
+* The negotiations that led to the prisoner swap and the freeing of Americans wrongfully held in Russia required patience and creativity, but gave both sides what they wanted most.
+* Hundreds of prisoners — including Americans and Russian political activists — are hoping for a diplomatic agreement that might secure their release.
+* Winzar Kakiouea, a 100-meter runner, is the only competitor at the Paris Games from his Pacific island nation. His debut might be over in a flash.
+* Unrest over a range of economic and security issues threatens to deepen the political turmoil that has plagued Pakistan for years.
+* Out of a prewar total of about 20,000 health workers, 500 have been killed in the war, according to the W.H.O., and more than 300 are in Israeli detention, Gaza’s health ministry says.
+* American officials said they had no advance warning of the attack on the Hamas leader in Iran, raising worries of a power vacuum that could lead to a broader geopolitical crisis.
+* From the shooting range to the swimming pool, teens and preteens are grabbing medals and the spotlight. Nowhere is this truer than at the skateboard park.
+* A new program allows spectators at the Paris Games to upgrade their seats, eat tastier food, tip glasses of bubbly and avoid the throngs.
+* Vadim Krasikov was sentenced to life in prison in Germany for a brazen assassination in a downtown park in Berlin. Now he is free.
 
 ![Global](./global.png)
 ## New York Times United States News
-* At least one person was killed this week by a wildfire in Colorado, and experts say hot, dry conditions are likely to spark more blazes.
-* A military report on suicide rates broken down by occupation finds the highest rates among categories of troops that often work and train around weapons blasts.
-* Dozens of homes were destroyed and damaged in the latest wave of extreme rainfall in the state, officials said.
-* The ruling said that because death row prisoners can choose from three methods of execution, none could be considered a cruel or unusual punishment.
-* Gov. Josh Shapiro of Pennsylvania, an observant Jew, is seen as bringing plenty of upsides to the Democratic ticket. But some worry about setting off opposition to the Democratic ticket from pro-Palestinian demonstrators.
-* The brazen appearance of white supremacist groups in Nashville left the city grappling with how to confront hateful speech without violating First Amendment protections.
-* White America has long sought to define racial categories — and who can belong to them.
-* Two tornadoes were also reported near the city, which was battered by winds of up to 80 m.p.h. on Wednesday. Other parts of the Midwest were under severe thunderstorm warnings.
-* The killing of Hamas’s political leader in Tehran was a humiliating security failure for the Iranian government.
-* The vice president’s calibrated rebuttal was perhaps an early indication of how she will respond to racist and crude attacks from Donald Trump.
+* Demographers say that a growing number of Americans identify as more than one race, and that the number will continue expanding in the decades ahead.
+* Prosecutors said that Mathew Bowyer, a Southern California resident, was running an illegal sports gambling operation, and that one of his clients was the interpreter for the baseball star Shohei Ohtani.
+* Prosecutors said the inmate, Paul J. DeCologero, acted as a lookout in 2018 during the fatal beating of the notorious Boston underworld figure.
+* Utah cannot enforce its near-total ban on abortion while a challenge to the law proceeds in the courts, the State Supreme Court ruled on Thursday.
+* In the seven days after President Biden stepped down as the presumptive Democratic nominee, the Harris campaign raked in $200 million.
+* The vice president has a rare opportunity to reintroduce herself to the American public as a presidential candidate, armed with lessons from the first time.
+* A Biden aide hailed a complicated prisoner swap as an act of “vintage Joe Biden” diplomacy. As he greeted freed Americans, the president seemed intent on showing the world what that meant.
+* Nine prisoners were also injured in the fight on Tuesday, the Nevada Department of Corrections said.
+* The negotiations that led to the prisoner swap and the freeing of Americans wrongfully held in Russia required patience and creativity, but gave both sides what they wanted most.
+* The tossup districts currently held by Republican Representatives David Schweikert and Juan Ciscomani will play a key role in the fight for control. They got their Democratic challengers this week.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Some young people in China pretend to be birds on social media as way of escaping hustle culture. We can explain.
+* A rapidly strengthening yen and a sell-off in stocks in the United States pushed Japan’s markets to a second consecutive day of big losses on Friday.
+* An ancient hoard of Persian coins offers insights into the political landscape around the time of the Peloponnesian War.
+* The author Peter Hessler posed a question with an elusive answer: How could Chinese society open up so profoundly while its politics stagnated or even regressed?
+* An investigation determined that missed warning signals and the “catastrophic failure” of a gearbox led to the crash off the coast of Japan in November.
+* Plus, how a Hamas leader was assassinated in Iran and a look inside the Olympic Village.
+* Unrest over a range of economic and security issues threatens to deepen the political turmoil that has plagued Pakistan for years.
+* Turkey’s new law aimed at moving millions of stray dogs to shelters, and allowing some to be euthanized, has both cultural and political implications.
+* If accepted, the help could lead to the first official dialogue in years between the two Koreas, which have recently been sending each other trash balloons and propaganda.
 * The government said the proposal would protect online privacy. Critics said it could further concentrate government control over the internet.
-* The death toll has steadily risen in Kerala state after heavy rain sent huge mudslides through a scenic area known as a tourist destination.
-* Boxing is a national passion in Thailand, offering a path to the Olympics and lucrative careers in a country with one of the world’s widest income divides.
-* The closely watched move by the Bank of Japan bolstered the country’s beleaguered currency.
-* China has been rolling out new visa-free programs and promising to make travel easier for foreigners. But challenges remain.
-* Videos by influencers documenting their trips have been widely promoted on Chinese media — if they tell a certain story.
-* Ragib Khan’s careful journey at the wheel of a long-haul truck revealed how far India’s infrastructure has come and how far it has to go.
-* After a spate of positive tests for performance-enhancing drugs by athletes, the World Anti-Doping Agency is investigating why China and other countries are citing contaminated food as an explanation.
-* Plus, deadly street clashes in Venezuela and the Booker Prize longlist
-* Videos in India show that sloth bears seem unaware of being stalked by the ferocious felines. When the tigers try to strike, the bears often get the better of them.
 
 ![Asian](./asian.png)
