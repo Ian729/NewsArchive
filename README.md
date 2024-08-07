@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Tensions have risen sharply in the region, with Israel and its allies bracing for retaliation after the killings last week of Hamas and Hezbollah leaders.
-* Hezbollah’s conflict with Israel has already damaged south Lebanon. Now it could escalate, regardless of what anyone else in Lebanon thinks.
-* Ukrainian troops are engaged in a harsh struggle for Toretsk, a strategic city in eastern Ukraine that has been under relentless assault by Russian forces.
-* Facilities have been battered. Coaches are in short supply. Children have moved abroad. Ukraine faces a long hard road toward rebuilding its athletic programs.
-* A few blocks from the table tennis venue, a restaurant has become an unofficial (and unlikely) clubhouse for fans, team officials and athletes.
-* Hu Xijin’s tens of millions of followers have heard nothing from him since late July. Some think one of his posts praising Beijing may have backfired.
-* Like many South Korean cities, Jecheon is being eroded by rapid aging and rock-bottom birthrates. Can ethnic Korean migrants from Central Asia turn it around?
-* Prime Minister Sheikh Hasina, who once brought democratic hope to Bangladesh, turned increasingly autocratic and met her downfall in a crackdown on protesters.
-* The seizure of the military’s northeastern command post gives the resistance control of a city and airport on a crucial trade corridor to China.
-* The country begins a new week on edge after anti-immigrant riots, fanned by disinformation from the far right, broke out in cities across Britain.
+* Hamas announced that Yahya Sinwar would take over as the group’s political leader after the assassination of Ismail Haniyeh in Iran.
+* As tensions again escalate with Hezbollah, Israelis face the prospect of another “lost year” in the evacuated north.
+* There has long been a perception that the Hindu minority supports Sheikh Hasina, who resigned as prime minister and fled the country after a popular uprising.
+* While Belarus played a role in the sweeping prisoner exchange last week, none of the 1,400 people classified as political prisoners in the country by a human rights group were freed.
+* The country was bracing for more unrest, with fresh protests planned after a weekend of demonstrations turned into anti-immigrant riots.
+* Days after an angry crowd marauded through Sunderland, people in the industrial port city are trying to make sense of what just happened.
+* Experts say the arson attacks before the opening of the Paris Olympics bear the hallmarks of insurrectionary anarchists opposed to the state.
+* Since the Move Forward Party won the last election with a call for change, conservative forces have kept it out of power. Now, it no longer exists.
+* Venezuela’s government believed its control of all levers of power would give the country’s authoritarian president an Election Day victory. A rebellion by its supporters undid the plan.
+* With money from an oil boom, Norway, a force at the Winter Olympics for generations, is now churning out elite performers in track, soccer and other sports, too.
 
 ![Global](./global.png)
 ## New York Times United States News
+* The governor succeeded in projecting an avuncular image. But not all voters are convinced that he rose above partisanship or united the state.
+* Bloomberg Philanthropies gives what are thought to be record-breaking gifts to the endowments of Meharry Medical College, Morehouse and Howard University.
 * A blaze in San Bernardino burned suburban homes and threatened others nearby, adding to an already intense California fire season.
 * Ms. Ellis is the first of 18 defendants to reach a deal with prosecutors in a case that charges them with trying to overturn Arizona’s election results in 2020.
-* In Missouri, Attorney General Andrew Bailey is in a tough primary fight against a Trump lawyer who says Bailey is soft on crime.
-* Bishop Richard Henning will succeed Cardinal Seán P. O’Malley, one of the pope’s most trusted allies, who is retiring.
-* The discovery of ammunition from the 1700s has revived tales of fighting at the start of the Revolutionary War.
-* Bloomberg Philanthropies gives what are thought to be record-breaking gifts to the endowments of Meharry Medical College, Morehouse and Howard University.
-* The vice president won 99 percent of participating delegates in an unusual, virtual roll call vote that concluded Monday, the party said.
-* Economists blamed a variety of factors for Monday’s slide. But Donald Trump was trying to disrupt weeks of momentum for Vice President Kamala Harris and her party.
-* The vice president is expected to announce her choice on Tuesday morning. One prominent Democrat recounted being asked by a contender, “Will you please make sure you put in a good word for me?”
-* Six images that tell the story of Trump’s wild summer.
+* Authorities in the Indonesian territory have blamed the killing on a separatist rebel group, which last year was responsible for kidnapping another New Zealand pilot.
+* Marie Gluesenkamp Perez and Joe Kent will compete again in November, two years after she beat him by less than 3,000 votes.
+* The two leading candidates, one Democrat and one Republican, have each emphasized their work in law enforcement, in a state looking for solutions to overdoses and violent crime.
+* The winner of the Republican primary is likely to become Missouri’s next governor. But a ballot measure on abortion that is widely expected to appear in November could boost liberal turnout.
+* The ambitious Josh Shapiro asked about his role as vice president. The battle-tested Mark Kelly was already seen as a third option. And the go-lucky Mr. Walz promised to do anything for the team.
+* The company told regulators the changes in design and production of the door plugs would allow its warning systems to detect malfunctions.
 
 ![US](./usnews.png)
 ## New York Times Asia News
-* Muhammad Yunus, a Nobel Peace Prize recipient, has emerged as a central figure in talks about an interim government. The ousted prime minister largely saw him as a threat.
-* Hu Xijin’s tens of millions of followers have heard nothing from him since late July. Some think one of his posts praising Beijing may have backfired.
-* Like many South Korean cities, Jecheon is being eroded by rapid aging and rock-bottom birthrates. Can ethnic Korean migrants from Central Asia turn it around?
-* The Nikkei 225, the benchmark index in Japan, jumped 10.2 percent on Tuesday after a record decline. European markets rose in early trading, and U.S. stock futures point to a higher open.
-* Plus, LeBron James at the Olympics.
-* Prime Minister Sheikh Hasina, who once brought democratic hope to Bangladesh, turned increasingly autocratic and met her downfall in a crackdown on protesters.
-* Demonstrators defied a curfew, expecting another in a series of bloody crackdowns, but instead Prime Minister Sheikh Hasina fled.
-* Looters made off with furniture, bedding and potted plants.
-* The seizure of the military’s northeastern command post gives the resistance control of a city and airport on a crucial trade corridor to China.
-* The military has a history of coups and counter coups. But in this showdown, it has seemed uncomfortable with the police crackdown on protesters.
+* There has long been a perception that the Hindu minority supports Sheikh Hasina, who resigned as prime minister and fled the country after a popular uprising.
+* Since the Move Forward Party won the last election with a call for change, conservative forces have kept it out of power. Now, it no longer exists.
+* The fragility of a more-than-year-long stock rally in Japan, fueled in part by a weak yen, has been exposed by the sudden strengthening of the currency.
+* Authorities in the Indonesian territory have blamed the killing on a separatist rebel group, which last year was responsible for kidnapping another New Zealand pilot.
+* Indian officials said she failed to make her weight class by a few grams. Last year, she was the face of a protest against a powerful Indian sports official.
+* The artist had his driver’s license revoked and may face disciplinary action after failing a breath test, his agency said.
+* A weight lifter walked away from his sport after a bitter loss in 2012. He and other athletes, including a U.S. figure skating team, will receive their medals in Paris.
+* Plus, how breaking made it to the Olympics.
+* As masses of people converged, angry at the killing of protesters, Prime Minister Sheikh Hasina insisted that she could hold on, which military leaders said would mean spilling far more blood.
+* The new government was being formed a day after Bangladesh’s longtime leader, facing fierce protests, fled the country.
 
 ![Asian](./asian.png)
