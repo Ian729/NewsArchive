@@ -1,2 +1,4 @@
 feedparser
 wordcloud
+black
+isort
