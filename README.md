@@ -2,29 +2,29 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* A 9-year-old Palestinian boy lost his mother, father and two siblings in an Israeli airstrike early in the Gaza war. Within months, he, too, was killed.
+* The nation is in anguish as it buries its dead and enters a new era of authoritarianism.
+* In the regional capital, those who left their homes as Ukrainian forces tore into western Russia are uncertain whether they can ever return to their old lives.
+* Residents of the village in the Israeli-occupied West Bank say one Palestinian man was killed by rampaging settlers. Israel’s military confirmed the village was attacked.
+* A Rio Tinto mine that Europe sees as a critical source for electric vehicle batteries has been the target of enormous protests. “I don’t need green cars. I need green apples and green grass,” said one opponent.
+* The secretary of state’s trip comes days after negotiations in Qatar ended without a major breakthrough.
+* Prime Minister Giorgia Meloni has mostly shown a pragmatic streak abroad. But at home, her government is plunging many gay families into panic.
+* The incursion caught Russia by surprise and signified a shift in tactics for Kyiv after more than two years of war with Russia.
+* More than 300 have been processed in a prison in Ukraine, providing the country with a much-needed “exchange fund” for future swaps of prisoners of war.
 * Disillusioned with grad school, Nigel Braun dropped out to film chemistry videos in his parents’ garage in Montreal. Then millions began viewing his whimsical and occasionally dangerous experiments.
-* It would be one of the deadliest attacks in the country since Israel began fighting its war in Gaza. Negotiators have been pushing to reach a cease-fire in that war, hoping to avert a wider conflagration.
-* The bridge’s destruction is a setback for Russian supply lines as Ukraine seeks to consolidate its territorial gains in the Kursk region of western Russia.
-* Washington says it would defend the South against North Korea with nuclear arms, if need be. But more and more people in the South think it should rely on itself.
-* Ukraine’s forces could try advancing farther on Russian soil, or return to the front line, where Moscow is making gains. There are arguments for various options.
-* Experts expect more cases to surface in European countries because of frequent travel to and from Africa, with the threat of contracting the disease raised from “very low” to “low.”
-* The delay is meant to allow mediators time to make a high-stakes push for a cease-fire to end the war in Gaza, according to U.S., Iranian and Israeli officials, who warn
-* The militant group has vowed to retaliate against Israel for the assassination of a commander. But if that leads to an all-out war, Lebanon may turn against it.
-* The abrupt rise of the scion of a powerful and polarizing political family is widely seen as a continuation of the meddling that has undermined Thai democracy.
+* A 9-year-old Palestinian boy lost his mother, father and two siblings in an Israeli airstrike early in the Gaza war. Within months, he, too, was killed.
 
 ![Global](./global.png)
 ## New York Times United States News
 * John F. Manning has served as interim provost since March, and is considered a top contender for university president.
-* Nemat Shafik was vilified on almost all sides for her handling of the protests over the Israel-Hamas war. When given an offramp, she took it.
-* Conservatives have criticized Gov. Tim Walz over the law, but schools have not taken it as a mandate to put menstrual products into boys’ restrooms.
-* City Attorney David Chiu has filed a lawsuit seeking to permanently shutter 16 popular websites that turn images of real girls and women into pornography.
+* In Rodanthe, N.C., seven homes have been lost to the ocean in the last four years, as rising sea levels erode shorelines and put more buildings at risk.
 * Over her career, her rhetoric has tracked the national mood. So do Americans now want a prosecutor-in-chief?
-* Kamala Harris and Donald Trump are in close races across Arizona, Georgia, Nevada and North Carolina, crucial swing states that Mr. Trump had seemed en route to run away with just a few weeks ago.
-* The vice president’s brain trust is younger, more racially diverse and larger than President Biden’s. Her advisers can expect a lot of phone calls in the coming weeks.
-* We examine the two candidates’ criticisms of each other’s policies, promises and records.
-* About 50,000 people are expected in the nation’s third-largest city for the Democrats’ convention. Some Chicagoans are thrilled. Others are fleeing town.
-* The former president’s vision of using the military to enforce the law domestically would carry profound implications for civil liberties.
+* About 50,000 people are expected in the nation’s third-largest city for the Democrats’ convention. Some Chicagoans are thrilled. Others are skipping town.
+* An unusual and chaotic set of political circumstances forced Illinois’s billionaire governor to take the lead in securing the Democratic convention for Chicago.
+* A far-right plank on immigration that is rooted in a baseless theory has found purchase among Republicans and right-leaning independents in parts of Ohio.
+* The crisis continues to play out on the city’s streets, reminding Democrats of a potential liability — border crossings — ahead of the election.
+* Nearly 14 years ago, Kamala Harris’s opponent in the California attorney general’s race gave an answer at a little-watched debate that was frank — and fateful for the future Democratic presidential nominee.
+* As President Biden’s understudy, Ms. Harris did not often get to lead on signature issues. But she found roles to play on abortion rights, gun safety and a Supreme Court appointment.
+* At a rally in Pennsylvania, former President Donald J. Trump vacillated between criticisms of the economy and immigration and personal attacks on Vice President Kamala Harris.
 
 ![US](./usnews.png)
 ## New York Times Asia News
