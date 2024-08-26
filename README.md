@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The Israeli military said it had destroyed rocket launchers aimed at Israel. Hezbollah, the Lebanon-based armed group, later said it had fired rockets and drones, though Israel said there was “very little damage.”
-* Some think the drama, “Zero Day,” helps Taiwan confront an increasingly plausible scenario. Others say the show is alarmist and a tool of the government.
+* After heavy Israel-Hezbollah strikes, the conflicts in Gaza and Lebanon remain stuck, even if a wider Middle East war has been averted for now, analysts say.
+* In an interview with The New York Times, an electoral council official expressed grave doubts about claims to victory by the authoritarian president, Nicolás Maduro.
+* Kyiv and Kharkiv, the two biggest cities in Ukraine, were among those struck in what a top official called a “massive Russian attack” that also hit energy infrastructure.
+* A lobbying group is preparing a bid to define hunting with animals as a protected belief. Many experts have questions.
+* More than 200 firefighters were at the scene of a fire in the Dagenham neighborhood on Monday morning. The building had a number of fire safety issues, officials said.
+* The police say they have arrested a man they believe killed three people and wounded eight others at a festival in the town of Solingen, in western Germany.
 * The investigators searching for answers about the shipwreck, leaving seven dead, face questions about extreme weather and possible human error or problems with the yacht itself.
-* Five people were killed in a Russian town, the local authorities said, while Ukraine reported three dead in a mortar and drone attack.
-* The authorities announced the end of a manhunt, nearly a day after the attack, which happened Friday night at a festival in the city of Solingen.
-* As a teenager, Amine Kessaci confronted Emmanuel Macron, founded an environmental group and lost a brother to drug violence. At 20, he almost won a National Assembly seat.
-* Ukraine is a beta test for embedding artificial intelligence and other new technologies in drones and robots to find deadly land mines, saving lives and allowing military forces to advance more quickly.
-* Local residents say the animals are roaming the roads and hills around the lake, tearing up lawns and terrorizing sheep.
-* In Ein al-Hilweh, Lebanon, long mired in poverty and despair, Hamas recruitment is up and the downtrodden air has given way to defiance and celebration.
-* Politicians quickly condemned the attack, at a time when antisemitic incidents have been on the rise in France. A suspect has been arrested in the case.
+* Some think the drama, “Zero Day,” helps Taiwan confront an increasingly plausible scenario. Others say the show is alarmist and a tool of the government.
+* With verses that capture the raw emotions of the war and resonate deeply with the population, Ukrainian poets have emerged as some of the country’s most influential voices.
+* Hezbollah’s long-dreaded retaliation for the killing of a senior commander appeared to be over before it began. But analysts said tensions could yet escalate further.
 
 ![Global](./global.png)
 ## New York Times United States News
 * The city holds the record for hosting the most conventions and has been shaped by their outcomes.
-* The company, founded in the city as Twitter, is moving its headquarters to Texas as a shadow of its former self.
-* In his 30s, the Republican vice-presidential nominee read works on theology, mysticism, and political and moral philosophy. And he discovered his faith.
-* This month, significant breakthroughs were announced in several murder cases that had been dormant for decades. Investigators explained what cracking these can look like.
+* The organization said many of those targeted by the raids, conducted by a unit created by the Texas attorney general, Ken Paxton, were Democratic leaders and election volunteers.
+* State Republicans accused Dave Williams, who was ousted in a landslide vote, of dividing the party with “hateful narratives,” most recently against the L.G.B.T.Q. community.
+* More than 20,000 customers were without power by Sunday afternoon, but neither the winds nor the flooding from the storm were dramatic.
+* High heat and humidity could make it feel like 115 degrees Fahrenheit in parts of the country this week, forecasters warned.
+* The Warrior Games have become a symbol of the military’s changing perceptions about who is fit to serve. Some of the athletes make it to the Paralympics, which start this week in Paris.
+* 
+* The former director of the National Institute of Allergy and Infectious Diseases had been hospitalized and was expected to make a full recovery, a spokeswoman said.
+* The body was discovered on Sunday after days of searching, the authorities said. More than 100 people were also evacuated after the floods.
 * The four-day total includes one of the best fund-raising hours of Vice President Kamala Harris’s presidential bid, according to the campaign, which has now raised $540 million in the last month.
-* The vice president has virtually erased Berkeley, Calif., her hometown, from her campaign biography. The residents of “the People’s Republic” say they get it.
-* The message Democrats put forward at their convention last week, a tougher line than in decades, reflects how deeply immigration remains a political vulnerability for the party.
-* Yahya Sinwar’s ability to evade capture or death has denied Israel a military success in a war that began after he planned the Oct. 7 attacks.
-* The leader of Raheem AI had a plan to hold law enforcement accountable, but his lavish expenditures derailed the organization.
-* The former U.F.C. star apologized after Reddit users asked her about the video she shared 11 years ago. She called it “the single most regrettable decision of my life.”
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Beijing likely wants to signal to Myanmar’s junta leaders that they should return to peace talks and de-escalate the conflict, analysts said.
+* Top officials in the Chinese territory have defended new sex education guidance that critics call regressive. Young people are amused.
+* The proposed merger of Japanese and American industrial giants, which proponents say would benefit both countries, is ensnared by political and labor opposition.
+* Plus, DMZ honey.
+* One of the accidents killed 12 people who were returning from a religious pilgrimage to Iraq, officials said.
 * Some think the drama, “Zero Day,” helps Taiwan confront an increasingly plausible scenario. Others say the show is alarmist and a tool of the government.
 * Nepal, a poor and mountainous country, has long struggled with road safety.
 * The heavily fortified area separating North and South Korea is home to a biodiverse landscape and is a place of deep meaning for nearby farmers whose bees can fly freely through it.
 * Most people in Cambodia are under 30, born long after the horrific rule of the Khmer Rouge. A bus is touring the country to make sure it’s not forgotten.
 * Convenience stores are a part of the country’s culture, meaning that the foreign buyout bid for 7-Eleven, the largest chain, could be a hard sell in Japan.
-* Winning at the Games sometimes brings unexpected rewards.
-* A final meeting between President Biden and China’s leader, Xi Jinping, is also likely to come up.
-* Disaster has hit just weeks after mass protests led to a lethal crackdown and then prompted the abrupt flight of the long-serving prime minister.
-* A new government in Nepal formally asked for relief from a $216 million debt it incurred for construction of an airport in Pokhara that has been beset by problems.
-* The fire, one of the country’s worst industrial disasters in recent years, happened as the factory was rushing to fulfill a military contract, the authorities said.
 
 ![Asian](./asian.png)
