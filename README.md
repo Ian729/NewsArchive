@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* After heavy Israel-Hezbollah strikes, the conflicts in Gaza and Lebanon remain stuck, even if a wider Middle East war has been averted for now, analysts say.
-* In an interview with The New York Times, an electoral council official expressed grave doubts about claims to victory by the authoritarian president, Nicolás Maduro.
-* Kyiv and Kharkiv, the two biggest cities in Ukraine, were among those struck in what a top official called a “massive Russian attack” that also hit energy infrastructure.
-* A lobbying group is preparing a bid to define hunting with animals as a protected belief. Many experts have questions.
-* More than 200 firefighters were at the scene of a fire in the Dagenham neighborhood on Monday morning. The building had a number of fire safety issues, officials said.
-* The police say they have arrested a man they believe killed three people and wounded eight others at a festival in the town of Solingen, in western Germany.
-* The investigators searching for answers about the shipwreck, leaving seven dead, face questions about extreme weather and possible human error or problems with the yacht itself.
-* Some think the drama, “Zero Day,” helps Taiwan confront an increasingly plausible scenario. Others say the show is alarmist and a tool of the government.
-* With verses that capture the raw emotions of the war and resonate deeply with the population, Ukrainian poets have emerged as some of the country’s most influential voices.
-* Hezbollah’s long-dreaded retaliation for the killing of a senior commander appeared to be over before it began. But analysts said tensions could yet escalate further.
+* A senior United Nations official said the organization was working with the Israeli military to resume humanitarian work as soon as possible.
+* Like Kamala Harris, Prime Minister Keir Starmer was a prosecutor before embracing politics. The two share a few other traits.
+* The bombardment that began on Monday could have additional significance, coming three weeks after the Ukrainian military’s incursion into Russia’s Kursk region.
+* Powerful guided “glide bombs” have helped Russia raze entire towns with ever greater speed. “When you drive into a ruined town, it’s like hopelessness,” one soldier said.
+* In Brazil, wildfires have roared across the Pantanal, a maze of rivers, forests and marshlands that sprawl over an area 20 times the size of the Everglades.
+* The national security adviser, Jake Sullivan, will raise thorny issues like Taiwan and Russia with only months left before a new administration takes office.
+* The government is aggressively promoting electric cars. But a dramatic blaze in an underground lot has left some potential buyers worried about safety.
+* The detention of Telegram’s founder has highlighted the messaging app’s outsize status in Europe’s deadliest war since World War II.
+* The territorial violation by China is the latest in a series of events amplifying tensions between Beijing and Japan.
+* At least 38 people have been killed in several assaults across Baluchistan Province since Sunday in what appears to be part of a campaign by armed separatists in the region.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The city holds the record for hosting the most conventions and has been shaped by their outcomes.
-* The organization said many of those targeted by the raids, conducted by a unit created by the Texas attorney general, Ken Paxton, were Democratic leaders and election volunteers.
-* State Republicans accused Dave Williams, who was ousted in a landslide vote, of dividing the party with “hateful narratives,” most recently against the L.G.B.T.Q. community.
-* More than 20,000 customers were without power by Sunday afternoon, but neither the winds nor the flooding from the storm were dramatic.
-* High heat and humidity could make it feel like 115 degrees Fahrenheit in parts of the country this week, forecasters warned.
-* The Warrior Games have become a symbol of the military’s changing perceptions about who is fit to serve. Some of the athletes make it to the Paralympics, which start this week in Paris.
-* 
-* The former director of the National Institute of Allergy and Infectious Diseases had been hospitalized and was expected to make a full recovery, a spokeswoman said.
-* The body was discovered on Sunday after days of searching, the authorities said. More than 100 people were also evacuated after the floods.
-* The four-day total includes one of the best fund-raising hours of Vice President Kamala Harris’s presidential bid, according to the campaign, which has now raised $540 million in the last month.
+* Ruling in favor of 16 Republican-led states that sued the administration, a federal judge put the program on hold while the court considers the merits of the case.
+* Today, the U.S. Fifth Circuit Court of Appeals is an outlier. But a Trump victory in November could transform it into the standard-bearer of MAGA-era jurisprudence.
+* Pro-Palestinian protesters won council elections, and have refused to fund campus groups, like the men’s Ultimate Frisbee team, unless their divestment demands are met.
+* The New York Times Food team wants to hear your stories, to help inform our reporting.
+* Democrats once seriously worried that Robert F. Kennedy Jr. would be a spoiler. Now, after his endorsement of Donald Trump, they see a political opportunity.
+* A female student was fatally shot. A man who was not a student had a self-inflicted gunshot wound, the university president said.
+* The Thompson fire also burned over 3,700 acres and forced the evacuation of 26,000 residents.
+* The former Republican staffers’ support of the Democratic ticket reflects how former President Donald J. Trump has transformed the Republican Party.
+* The party is battling a squishy, often self-reinforcing concept about the perceived ability to win.
+* The board recently passed new rules aimed at altering the process for certifying elections. The lawsuit says such changes are illegal.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The national security adviser, Jake Sullivan, will raise thorny issues like Taiwan and Russia with only months left before a new administration takes office.
+* Japan’s southern islands were forecast to receive the most rain. The powerful storm has forced flight cancellations and disrupted high-speed rail travel.
+* The government is aggressively promoting electric cars. But a dramatic blaze in an underground lot has left some potential buyers worried about safety.
+* China has the world’s largest population of people 65 or older, and more and more of them are unattached.
+* Plus, badminton instead of sex.
+* The new tariffs announced by Prime Minister Justin Trudeau will match levies imposed by President Biden and could further strain relations between Canada and China.
+* At least 38 people have been killed in several assaults across Baluchistan Province since Sunday in what appears to be part of a campaign by armed separatists in the region.
+* The territorial violation by China is the latest in a series of events amplifying tensions between Beijing and Japan.
 * Beijing likely wants to signal to Myanmar’s junta leaders that they should return to peace talks and de-escalate the conflict, analysts said.
 * Top officials in the Chinese territory have defended new sex education guidance that critics call regressive. Young people are amused.
-* The proposed merger of Japanese and American industrial giants, which proponents say would benefit both countries, is ensnared by political and labor opposition.
-* Plus, DMZ honey.
-* One of the accidents killed 12 people who were returning from a religious pilgrimage to Iraq, officials said.
-* Some think the drama, “Zero Day,” helps Taiwan confront an increasingly plausible scenario. Others say the show is alarmist and a tool of the government.
-* Nepal, a poor and mountainous country, has long struggled with road safety.
-* The heavily fortified area separating North and South Korea is home to a biodiverse landscape and is a place of deep meaning for nearby farmers whose bees can fly freely through it.
-* Most people in Cambodia are under 30, born long after the horrific rule of the Khmer Rouge. A bus is touring the country to make sure it’s not forgotten.
-* Convenience stores are a part of the country’s culture, meaning that the foreign buyout bid for 7-Eleven, the largest chain, could be a hard sell in Japan.
 
 ![Asian](./asian.png)
