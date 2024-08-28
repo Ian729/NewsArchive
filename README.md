@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* A senior United Nations official said the organization was working with the Israeli military to resume humanitarian work as soon as possible.
-* Like Kamala Harris, Prime Minister Keir Starmer was a prosecutor before embracing politics. The two share a few other traits.
-* The bombardment that began on Monday could have additional significance, coming three weeks after the Ukrainian military’s incursion into Russia’s Kursk region.
+* Israel’s foreign minister said evacuations could be necessary in the West Bank as the military conducted an unusually large operation in the occupied territory.
+* After weeks of regional fears about a broader war, Hezbollah’s limited attack on Israel suggests that Iran, like its ally, wants to hem in the risk of escalation.
+* A showdown over plans to reshape the entire judiciary is raising fears over the effect on the rule of law in Mexico and trade with the United States.
+* Pavel Durov has been detained in France, as part of wide-ranging investigation into criminal activities on the messaging platform he runs.
+* Despite its overwhelming firepower, Russia has been unable for weeks to push Ukrainian troops back across the border, with the failure as much the result of priorities as a lack of personnel.
 * Powerful guided “glide bombs” have helped Russia raze entire towns with ever greater speed. “When you drive into a ruined town, it’s like hopelessness,” one soldier said.
+* Closely watched elections in the former East Germany are likely to reveal a still-divided country and yield a worrying challenge to Berlin.
 * In Brazil, wildfires have roared across the Pantanal, a maze of rivers, forests and marshlands that sprawl over an area 20 times the size of the Everglades.
-* The national security adviser, Jake Sullivan, will raise thorny issues like Taiwan and Russia with only months left before a new administration takes office.
-* The government is aggressively promoting electric cars. But a dramatic blaze in an underground lot has left some potential buyers worried about safety.
-* The detention of Telegram’s founder has highlighted the messaging app’s outsize status in Europe’s deadliest war since World War II.
-* The territorial violation by China is the latest in a series of events amplifying tensions between Beijing and Japan.
-* At least 38 people have been killed in several assaults across Baluchistan Province since Sunday in what appears to be part of a campaign by armed separatists in the region.
+* President Andrés Manuel López Obrador’s proposed changes to the judiciary are at the center of a diplomatic fight with the United States in the last weeks of his presidency.
+* Like Kamala Harris, Prime Minister Keir Starmer was a prosecutor before embracing politics. The two share a few other traits.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Ruling in favor of 16 Republican-led states that sued the administration, a federal judge put the program on hold while the court considers the merits of the case.
-* Today, the U.S. Fifth Circuit Court of Appeals is an outlier. But a Trump victory in November could transform it into the standard-bearer of MAGA-era jurisprudence.
+* The new guidance prohibits those pursuing gender transition from working with children, and bans baptism for those who have transitioned both medically and socially.
+* The nation’s largest dam removal project is nearly complete after a lengthy campaign by Native tribes to restore the river at the California-Oregon border.
 * Pro-Palestinian protesters won council elections, and have refused to fund campus groups, like the men’s Ultimate Frisbee team, unless their divestment demands are met.
-* The New York Times Food team wants to hear your stories, to help inform our reporting.
-* Democrats once seriously worried that Robert F. Kennedy Jr. would be a spoiler. Now, after his endorsement of Donald Trump, they see a political opportunity.
-* A female student was fatally shot. A man who was not a student had a self-inflicted gunshot wound, the university president said.
-* The Thompson fire also burned over 3,700 acres and forced the evacuation of 26,000 residents.
-* The former Republican staffers’ support of the Democratic ticket reflects how former President Donald J. Trump has transformed the Republican Party.
-* The party is battling a squishy, often self-reinforcing concept about the perceived ability to win.
-* The board recently passed new rules aimed at altering the process for certifying elections. The lawsuit says such changes are illegal.
+* Ruling in favor of 16 Republican-led states that sued the administration, a federal judge put the program on hold while the court considers the merits of the case.
+* After legal setbacks and long delays, Jack Smith, the special counsel, is signaling that he will pursue both the classified documents and election cases through the homestretch of the presidential campaign.
+* The Democrats’ presidential ticket will head to the Sun Belt, aiming to sway voters in more conservative areas to their side.
+* Mr. Kennedy’s recent alliance with Donald J. Trump represented a sharp reversal of a long-combative relationship.
+* Nebraska’s attorney general not only cast doubt on a newly enacted law, but also on the state’s longstanding policy of allowing many people who finished criminal sentences to vote.
+* More than eight million people across the Midwest were under a severe thunderstorm watch late Tuesday.
+* The military cemetery said in a statement that federal law prohibits political campaigning on the grounds, and that “there was an incident, and a report was filed.”
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The authorities issued rare emergency warnings and said the storm could produce a large-scale disaster as it approached the mainland. Toyota closed all its factories on Wednesday afternoon.
+* Plus, looking for love in Shanghai.
+* JD Vance, the Republican vice-presidential nominee, waded into a fight over plans by Gotion, a Chinese battery plant, to build a factory in Michigan.
+* Both Democrats and Republicans are expressing support for tariffs to protect American industry, reversing decades of trade thinking in Washington.
 * The national security adviser, Jake Sullivan, will raise thorny issues like Taiwan and Russia with only months left before a new administration takes office.
 * Japan’s southern islands were forecast to receive the most rain. The powerful storm has forced flight cancellations and disrupted high-speed rail travel.
 * The government is aggressively promoting electric cars. But a dramatic blaze in an underground lot has left some potential buyers worried about safety.
 * China has the world’s largest population of people 65 or older, and more and more of them are unattached.
 * Plus, badminton instead of sex.
 * The new tariffs announced by Prime Minister Justin Trudeau will match levies imposed by President Biden and could further strain relations between Canada and China.
-* At least 38 people have been killed in several assaults across Baluchistan Province since Sunday in what appears to be part of a campaign by armed separatists in the region.
-* The territorial violation by China is the latest in a series of events amplifying tensions between Beijing and Japan.
-* Beijing likely wants to signal to Myanmar’s junta leaders that they should return to peace talks and de-escalate the conflict, analysts said.
-* Top officials in the Chinese territory have defended new sex education guidance that critics call regressive. Young people are amused.
 
 ![Asian](./asian.png)
