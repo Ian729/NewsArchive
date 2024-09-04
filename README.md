@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* In strikes and protests, many Israelis are pushing their government to prioritize the release of hostages above the immediate defeat of Hamas. Prime Minister Benjamin Netanyahu has refused to change course.
-* Hamas leaders spent years developing an underground warfare plan. Records from the battlefield show the group’s preparations, including blast doors to protect against Israeli bombs and soldiers.
-* Watch out for Good Samaritans with ulterior motives, packages in your mail and college students looking to make a quick buck, China tells its people.
-* Indonesia is proud of its religious diversity and its reputation for tolerance, but minorities, including Catholics, still face discrimination.
-* Diplomat Karen Pierce has built alliances with Trump officials and the Biden-Harris administration. But with her term set to end next year, the U.K. government has a dilemma over her replacement.
-* “They are like a bleeding wound, and no one sees it,” a schoolteacher said of her pupils, many of whom have fled frontline areas or lost family members in the fighting.
-* The attack, the third large-scale bombardment in a week, coincided with intense fighting in eastern Ukraine and Russia.
-* The Russian president is making a state visit to a country that is heavily dependent on Moscow for oil.
-* A man is accused of drugging his wife and then inviting dozens of men to rape her over almost a decade. The questions raised by the case have unsettled the country.
-* The far-right Alternative for Germany, or AfD, had a very successful night in two states, despite its state chapters’ classification as “extremist” by German domestic intelligence.
+* President Volodymyr Zelensky was poised to carry out the biggest change to his government since Moscow’s 2022 invasion. Rescuers dug through the rubble of a deadly strike in eastern Ukraine, as Russia launched new attacks.
+* Russia attacked a number of cities a day after a devastating strike in the country’s east, Ukrainian officials said.
+* Some say they will reluctantly stomach a postwar Israeli military presence in the territory if that allows them to go home. Others worry about another long-term occupation.
+* A damning final report into Britain’s worst residential fire since World War II blamed a litany of cost-cutting, dishonest sales practices and lax regulation for the blaze that killed 72 people.
+* The pontiff said “mutual respect” was the key to harmony in the majority-Muslim country, where a pluralist tradition has been put to the test by extremist groups.
+* Millions of people still recovering from the devastation of 2022 are bracing for the possibility of losing what they’ve rebuilt.
+* A South African beauty pageant contestant with Nigerian heritage was forced to withdraw from the competition after her participation fueled anti-immigrant sentiments.
+* With the nation’s democracy in shambles, President Nicolás Maduro tries to inject some holiday cheer.
+* Over 60 people were crowded into a small boat that “rapidly and brutally” broke apart off the coast of France, authorities said.
+* Mr. Wine, a pop star turned politician who ran for president, is in the hospital, but his injuries are not life-threatening, one of his lawyers said.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The movement of the ground in Rancho Palos Verdes is threatening homes. But as the city searches for solutions, many residents are committed to staying.
-* Jobs attracted thousands of Haitians to Springfield, and employers were ecstatic. But then an immigrant driver was involved in a fatal school bus crash. And JD Vance entered the fray.
-* Experts say the case offers a window into how the Russian government tries to influence American elections and promote its own geopolitical agenda.
-* The nation’s largest dam removal project is nearly complete after a lengthy campaign by Native tribes to restore the river at the California-Oregon border.
-* The former New York governor, who has already testified behind closed doors to the Republican-led House panel investigating the coronavirus pandemic, has agreed to appear on Sept. 10.
-* JD Vance, as he was dipping his toe into politics, praised the Heritage Foundation report — 29 essays opposing abortion and seeking to instruct Americans on how to raise children — as “admirable.”
-* Democrats are tired of losing to Republicans on tax policy. They’re hoping to mount a comeback next year.
-* The Biden administration said the airplane had been illegally exported for Mr. Maduro. U.S. officials accuse him of undermining the results of a presidential election he lost.
-* The president introduced his No. 2, Kamala Harris, at a Labor Day event in Pittsburgh as the Democrats campaigned in crucial Midwestern “blue wall” states.
-* The authorities said four passengers were fatally shot as the train approached a station in Forest Park, Ill. It was unclear what led to the shooting.
+* “This was a random act of violence,” an official said. The man, 30, faces four counts of murder.
+* A new analysis of American elections finds that in half of all races for partisan offices, a candidate runs unopposed. Democrats are the biggest no-shows.
+* The defendant, Muhammad Syed, pleaded no contest to two murder charges. But his motive remains unknown.
+* Bob Garrison was determined to rescue his son from the streets. The path was more difficult than he had imagined.
+* If her record is any guide, Judge Tanya Chutkan will try to keep pretrial proceedings moving along after a lengthy hiatus and the Supreme Court’s decision granting former presidents broad immunity.
+* The chairman of the House Foreign Affairs Committee summoned the secretary of state for testimony just days before an expected report on the U.S. exit, in which 13 American service members were killed.
+* Mr. Sheehy, a Republican, is the nominee for a Senate seat in Montana, where Indigenous residents make up about 6 percent of the population.
+* Speaking to Sean Hannity, Donald Trump contradicted his campaign’s prior statements about a confrontation involving his campaign at Arlington National Cemetery last week.
+* A deputy constable was driving to work Tuesday when he was shot and killed at an intersection in Houston, the police said. A suspect was in custody Tuesday afternoon.
+* Republicans tied campus unrest to their party platform. But the intensity may have fizzled.
 
 ![US](./usnews.png)
 ## New York Times Asia News
-* Ukrainian officials expressed outrage over the Russian leader’s visit, warning it would seek to “ensure that this has consequences” for Mongolia.
+* The series, based on a 1999 plane hijacking, prompted backlash on social media. Critics claimed it wrongly portrayed the Islamist hijackers as Hindus.
+* The pontiff said “mutual respect” was the key to harmony in the majority-Muslim country, where a pluralist tradition has been put to the test by extremist groups.
+* Millions of people still recovering from the devastation of 2022 are bracing for the possibility of losing what they’ve rebuilt.
+* Homeowners are gearing up to pay more on their loans as the Bank of Japan’s rate increases signal the end of decades of ultralow interest rates.
+* A sharp decline in major U.S. stock indexes, led by tech stocks like Nvidia, reverberated through Asia and Europe on Wednesday.
+* Plus, a quiz to test healthy brain habits.
+* The country has been hit by a wave of sexually explicit videos and pictures that have spread online, prompting the authorities to launch a sweeping investigation.
+* John Podesta is expected to push for China to set more ambitious greenhouse gas targets.
+* Ukrainian officials expressed outrage over the Russian leader’s visit, warning they would seek to “ensure that this has consequences” for Mongolia.
 * The Hong Kong airline has canceled dozens of flights to inspect Airbus A350 planes since it found a problem with a Rolls-Royce engine in one of them.
-* Indonesia is proud of its religious diversity and its reputation for tolerance, but minorities, including Catholics, still face discrimination.
-* Both major presidential candidates now say they oppose the proposed takeover of the industrial giant by Nippon Steel of Japan.
-* Watch out for Good Samaritans with ulterior motives, packages in your mail and college students looking to make a quick buck, China tells its people.
-* A real estate collapse has made consumers cautious and businesses wary, as China confronts a crisis unlike any other since it opened its economy to the world.
-* Plus, Europe’s overwhelmed destinations.
-* Mr. Gao is being held on suspicion of slandering China’s heroes and martyrs, an offense punishable by up to three years in prison, his brother said.
-* The 11-day trip, a signal that Francis does not intend to slow down, requires nearly 45 hours of air travel and meetings in tropical climates.
-* This fall the Metropolitan Museum of Art’s facade will feature strange, humanoid sculptures. If they induce a feeling of nausea, that’s what Lee was going for.
 
 ![Asian](./asian.png)
