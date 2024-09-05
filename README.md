@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* President Volodymyr Zelensky was poised to carry out the biggest change to his government since Moscow’s 2022 invasion. Rescuers dug through the rubble of a deadly strike in eastern Ukraine, as Russia launched new attacks.
-* Russia attacked a number of cities a day after a devastating strike in the country’s east, Ukrainian officials said.
-* Some say they will reluctantly stomach a postwar Israeli military presence in the territory if that allows them to go home. Others worry about another long-term occupation.
-* A damning final report into Britain’s worst residential fire since World War II blamed a litany of cost-cutting, dishonest sales practices and lax regulation for the blaze that killed 72 people.
-* The pontiff said “mutual respect” was the key to harmony in the majority-Muslim country, where a pluralist tradition has been put to the test by extremist groups.
-* Millions of people still recovering from the devastation of 2022 are bracing for the possibility of losing what they’ve rebuilt.
-* A South African beauty pageant contestant with Nigerian heritage was forced to withdraw from the competition after her participation fueled anti-immigrant sentiments.
-* With the nation’s democracy in shambles, President Nicolás Maduro tries to inject some holiday cheer.
-* Over 60 people were crowded into a small boat that “rapidly and brutally” broke apart off the coast of France, authorities said.
-* Mr. Wine, a pop star turned politician who ran for president, is in the hospital, but his injuries are not life-threatening, one of his lawyers said.
+* When two Russian ballistic missiles struck a military academy in Poltava, debris blocked corridors and exits. Cadets near a bomb shelter survived. Others did not.
+* Yassin Fatty, a traditional practitioner of female genital cutting in the West African nation of Gambia, became the first to be convicted there. But her case led to a backlash and a popular campaign to make it legal again.
+* As the first phase of vaccinations ended, an Israeli strike hit a hospital courtyard in central Gaza where people were sheltering, Palestinian news media reported.
+* The athlete, who was set on fire in Kenya by a man with whom she was in a relationship, competed in the women’s marathon at the Paris Olympics this summer.
+* More than 50 African leaders have gathered in Beijing for a summit aimed at projecting the influence of China’s leader, Xi Jinping, in the developing world.
+* For years, a U.N. team has painstakingly exhumed mass graves, but now the Iraqi government is ordering it to leave. Many sites remain unexamined.
+* Repair technicians at the Paris Games fix everything from bent wheelchair frames to broken sunglasses.
+* Three years into its rule, the movement has codified its harsh Islamic decrees into law that now includes a ban on women’s voices in public.
+* The latest proposals to bridge the remaining gaps between Israel and Hamas have yet to be finalized. Both Israel and Hamas have expressed pessimism over the prospects for an agreement.
+* Seven survivors were rescued from the boat that sank after leaving Libya. A crackdown by Italy has reduced migration, but not the high death rates that come with crossing the Mediterranean.
 
 ![Global](./global.png)
 ## New York Times United States News
-* “This was a random act of violence,” an official said. The man, 30, faces four counts of murder.
+* Joshua Seal, a Deaf man killed in a mass shooting last fall, did not get to see the third season of the camp he started. But 22 Deaf or hard-of-hearing children did, including his own.
+* After students at the University of North Carolina shielded a U.S. flag from protesters, admirers raised money to throw a “rager” in their honor. Some didn’t want it.
+* The movement of the ground in Rancho Palos Verdes is threatening homes. But as the city searches for solutions, many residents are committed to staying.
 * A new analysis of American elections finds that in half of all races for partisan offices, a candidate runs unopposed. Democrats are the biggest no-shows.
-* The defendant, Muhammad Syed, pleaded no contest to two murder charges. But his motive remains unknown.
-* Bob Garrison was determined to rescue his son from the streets. The path was more difficult than he had imagined.
-* If her record is any guide, Judge Tanya Chutkan will try to keep pretrial proceedings moving along after a lengthy hiatus and the Supreme Court’s decision granting former presidents broad immunity.
-* The chairman of the House Foreign Affairs Committee summoned the secretary of state for testimony just days before an expected report on the U.S. exit, in which 13 American service members were killed.
-* Mr. Sheehy, a Republican, is the nominee for a Senate seat in Montana, where Indigenous residents make up about 6 percent of the population.
-* Speaking to Sean Hannity, Donald Trump contradicted his campaign’s prior statements about a confrontation involving his campaign at Arlington National Cemetery last week.
-* A deputy constable was driving to work Tuesday when he was shot and killed at an intersection in Houston, the police said. A suspect was in custody Tuesday afternoon.
-* Republicans tied campus unrest to their party platform. But the intensity may have fizzled.
+* The vice president is relying on tax proposals as a way to show she is different from both President Biden and her Republican rival, Donald Trump.
+* A hearing Thursday will include arguments on a proposal that would allow colleges to pay athletes directly. But detractors say the deal still doesn’t offer players enough.
+* Activists, party lawyers and state officials are mobilizing behind a crackdown on a supposed scourge of noncitizens’ casting ballots. Voting rights advocates say the effort is spreading misinformation.
+* American citizens whose spouses have been deported face wrenching decisions on what is best for their future, especially when they have children.
+* Two students and two teachers were shot dead at the high school in Winder, Ga. At least nine others were injured.
+* A photo widely circulating on social media shows “Walz’s for Trump” from a side of the family Gov. Tim Walz’s sister said the Walzes “don’t even know.”
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Officials have accused Alice Guo of helping criminal syndicates involved in online scams and human trafficking, and have questioned her about whether she was born in China.
+* For many trans women living on the fringes of the nation’s society, the Catholic Church is a haven, and Pope Francis a personal hero.
+* Nga Wai Hono i te Po, 27, is the second woman to assume the ceremonial role. She takes the throne as some of the country’s pro-Maori policies are being pared back.
+* The storm has killed at least 13 people in the Philippines and is forecast to be the strongest to hit Hainan Province in a decade.
+* More than 50 African leaders have gathered in Beijing for a summit aimed at projecting the influence of China’s leader, Xi Jinping, in the developing world.
+* Plus, Daniel Dae Kim takes a risk.
+* The Committee on Foreign Investment in the United States is expected to raise national security concerns about selling the iconic steel producer to Japan’s Nippon Steel.
+* Three years into its rule, the movement has codified its harsh Islamic decrees into law that now includes a ban on women’s voices in public.
+* Starting in the majority-Muslim nation, Francis is undertaking an 11-day journey through Asia and Oceania.
 * The series, based on a 1999 plane hijacking, prompted backlash on social media. Critics claimed it wrongly portrayed the Islamist hijackers as Hindus.
-* The pontiff said “mutual respect” was the key to harmony in the majority-Muslim country, where a pluralist tradition has been put to the test by extremist groups.
-* Millions of people still recovering from the devastation of 2022 are bracing for the possibility of losing what they’ve rebuilt.
-* Homeowners are gearing up to pay more on their loans as the Bank of Japan’s rate increases signal the end of decades of ultralow interest rates.
-* A sharp decline in major U.S. stock indexes, led by tech stocks like Nvidia, reverberated through Asia and Europe on Wednesday.
-* Plus, a quiz to test healthy brain habits.
-* The country has been hit by a wave of sexually explicit videos and pictures that have spread online, prompting the authorities to launch a sweeping investigation.
-* John Podesta is expected to push for China to set more ambitious greenhouse gas targets.
-* Ukrainian officials expressed outrage over the Russian leader’s visit, warning they would seek to “ensure that this has consequences” for Mongolia.
-* The Hong Kong airline has canceled dozens of flights to inspect Airbus A350 planes since it found a problem with a Rolls-Royce engine in one of them.
 
 ![Asian](./asian.png)
