@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* When two Russian ballistic missiles struck a military academy in Poltava, debris blocked corridors and exits. Cadets near a bomb shelter survived. Others did not.
-* Yassin Fatty, a traditional practitioner of female genital cutting in the West African nation of Gambia, became the first to be convicted there. But her case led to a backlash and a popular campaign to make it legal again.
-* As the first phase of vaccinations ended, an Israeli strike hit a hospital courtyard in central Gaza where people were sheltering, Palestinian news media reported.
-* The athlete, who was set on fire in Kenya by a man with whom she was in a relationship, competed in the women’s marathon at the Paris Olympics this summer.
-* More than 50 African leaders have gathered in Beijing for a summit aimed at projecting the influence of China’s leader, Xi Jinping, in the developing world.
-* For years, a U.N. team has painstakingly exhumed mass graves, but now the Iraqi government is ordering it to leave. Many sites remain unexamined.
-* Repair technicians at the Paris Games fix everything from bent wheelchair frames to broken sunglasses.
-* Three years into its rule, the movement has codified its harsh Islamic decrees into law that now includes a ban on women’s voices in public.
-* The latest proposals to bridge the remaining gaps between Israel and Hamas have yet to be finalized. Both Israel and Hamas have expressed pessimism over the prospects for an agreement.
-* Seven survivors were rescued from the boat that sank after leaving Libya. A crackdown by Italy has reduced migration, but not the high death rates that come with crossing the Mediterranean.
+* The emirate has used its influence with Hamas to press for a truce with Israel. But “the last word is with those on the battlefield,” one expert said.
+* Residents were taking stock of destruction from the 10-day Israeli raid, one of the deadliest in years in the occupied West Bank.
+* The Ukrainian offensive over the border caught Moscow’s intelligence agencies by surprise, experts say. It wasn’t the first time that has happened during the war.
+* Beijing said the move was in line with international trends, as more countries have limited such adoptions. Many would-be adoptive families were left in limbo.
+* Over a decades-long period, more than 30 Catholic priests and missionaries moved to remote island nations after they had allegedly abused children in the West, or had been found to do so.
+* President William Ruto called the news “devastating.” The blaze has brought renewed attention to concerns about the safety of Kenyan schools.
+* As hospitals struggle from a monthslong walkout, nurses have picked up some of the slack. A new law gives them more responsibilities and, they say, greater recognition.
+* Gisèle Pelicot spoke of the horror of being told by the police that they had evidence her husband had drugged her for years and brought men into their home to join him in raping her.
+* Boko Haram killed at least 170 villagers in northeastern Nigeria, community leaders say, in what is likely one of the deadliest attacks in recent years.
+* The shootout with an 18-year-old Austrian came on the anniversary of the attack on the Munich Olympics that left 11 Israelis dead, and was being investigated as a possible terrorist attack.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Joshua Seal, a Deaf man killed in a mass shooting last fall, did not get to see the third season of the camp he started. But 22 Deaf or hard-of-hearing children did, including his own.
-* After students at the University of North Carolina shielded a U.S. flag from protesters, admirers raised money to throw a “rager” in their honor. Some didn’t want it.
-* The movement of the ground in Rancho Palos Verdes is threatening homes. But as the city searches for solutions, many residents are committed to staying.
-* A new analysis of American elections finds that in half of all races for partisan offices, a candidate runs unopposed. Democrats are the biggest no-shows.
-* The vice president is relying on tax proposals as a way to show she is different from both President Biden and her Republican rival, Donald Trump.
-* A hearing Thursday will include arguments on a proposal that would allow colleges to pay athletes directly. But detractors say the deal still doesn’t offer players enough.
-* Activists, party lawyers and state officials are mobilizing behind a crackdown on a supposed scourge of noncitizens’ casting ballots. Voting rights advocates say the effort is spreading misinformation.
-* American citizens whose spouses have been deported face wrenching decisions on what is best for their future, especially when they have children.
-* Two students and two teachers were shot dead at the high school in Winder, Ga. At least nine others were injured.
-* A photo widely circulating on social media shows “Walz’s for Trump” from a side of the family Gov. Tim Walz’s sister said the Walzes “don’t even know.”
+* The concern over restrictions on some payments raises uncertainty on whether a landmark agreement on compensating athletes can be reached and approved.
+* A teenager is accused of killing two students and two teachers in the deadliest school shooting in Georgia’s history. His father was arrested, too.
+* A state agency claimed that the referendum “threatens women’s safety.” Critics say the website is unethical and may violate the law.
+* Along with Harvard University, the University of North Carolina at Chapel Hill was one of two schools defending affirmative action in Supreme Court cases last year.
+* Vice President Kamala Harris’s campaign reported raising $361 million in August, her first full month as the Democrats’ nominee, far surpassing the $130 million reported by Mr. Trump in the same month.
+* The battle over who Ms. Harris is — and what she stands for — will take center stage on Tuesday when she and Donald Trump debate for the first time.
+* Temperatures in the region were forecast to remain high into the weekend, with more than 31 million people under excessive heat warnings.
+* Democrats seized on his comments, arguing that JD Vance was resigned to the reality of school shootings.
+* He was also charged with four counts of involuntary manslaughter and eight counts of cruelty to children, all “directly connected with the actions of his son and allowing him to possess a weapon,” an official said.
+* Two brothers from Nigeria helped run an online sextortion operation that prosecutors said resulted in the death of a high school student.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* A looming decision in Washington to block Nippon Steel’s merger with U.S. Steel on national security grounds is raising sharp questions in Tokyo.
+* Yagi, one of 2024’s strongest storms, hit the southern Chinese island of Hainan. It is forecast to make landfall again in Vietnam on Saturday.
+* Beijing said the move was in line with international trends, as more countries have limited such adoptions. Many would-be adoptive families were left in limbo.
+* As hospitals struggle from a monthslong walkout, nurses have picked up some of the slack. A new law gives them more responsibilities and, they say, greater recognition.
+* Over a decades-long period, more than 30 Catholic priests and missionaries moved to remote island nations after they had allegedly abused children in the West, or had been found to do so.
+* Japanese chip companies are tapping billions of dollars and collaborating with foreign firms as part of new government policies that look outward.
+* Japan’s Seven & i Holdings, the operator of 7-Eleven, has rebuffed a buyout offer that would have been the largest foreign-led acquisition of a Japanese company.
+* Plus, the clothes that changed men’s fashion.
+* As the Biden administration nears a decision to block the proposed acquisition of U.S. Steel, the debate over national and economic security is being dwarfed by presidential politics.
 * Officials have accused Alice Guo of helping criminal syndicates involved in online scams and human trafficking, and have questioned her about whether she was born in China.
-* For many trans women living on the fringes of the nation’s society, the Catholic Church is a haven, and Pope Francis a personal hero.
-* Nga Wai Hono i te Po, 27, is the second woman to assume the ceremonial role. She takes the throne as some of the country’s pro-Maori policies are being pared back.
-* The storm has killed at least 13 people in the Philippines and is forecast to be the strongest to hit Hainan Province in a decade.
-* More than 50 African leaders have gathered in Beijing for a summit aimed at projecting the influence of China’s leader, Xi Jinping, in the developing world.
-* Plus, Daniel Dae Kim takes a risk.
-* The Committee on Foreign Investment in the United States is expected to raise national security concerns about selling the iconic steel producer to Japan’s Nippon Steel.
-* Three years into its rule, the movement has codified its harsh Islamic decrees into law that now includes a ban on women’s voices in public.
-* Starting in the majority-Muslim nation, Francis is undertaking an 11-day journey through Asia and Oceania.
-* The series, based on a 1999 plane hijacking, prompted backlash on social media. Critics claimed it wrongly portrayed the Islamist hijackers as Hindus.
 
 ![Asian](./asian.png)
