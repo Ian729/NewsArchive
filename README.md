@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Israel’s military said it had targeted militants who carried out attacks. A Civil Defense official in Gaza said at least 40 people were killed.
-* Residents, already forced to flee their homes by intense bombardment, want to avoid becoming a target for Israeli forces hunting Hamas.
-* A woman in the capital region was killed during the attack, officials said. Russian air defenses shot down 20 drones around Moscow and almost 150 nationwide, according to the Defense Ministry.
+* The Israeli military raided the occupied West Bank city of Tubas overnight, carrying out an airstrike that the Palestinian Authority’s Health Ministry said had killed five Palestinians.
+* The chamber’s approval clears away the last major hindrance to the sweeping proposals championed by the president, which have prompted nationwide strikes.
+* The U.S. secretary of state and his British counterpart, David Lammy, arrived in Kyiv on a trip aimed at showing solidarity for Ukraine as the American presidential elections loom.
+* In a region in turmoil, Tehran’s ties to its neighbor are more important than ever.
+* Days after the storm made landfall, northern Vietnam was being battered by incessant rain. A landslide buried a whole village in a mountainous province.
+* Dawn Michelle Hunt, who is serving a life sentence, says she was duped into carrying drugs. Her family says she is seriously ill and should be sent home.
+* Fatalities spiked 71 percent last year, far outpacing the 13 percent rise in cases, the World Health Organization said.
 * In Ukraine, even a visit for a manicure, which often involves navigating power outages and air-raid sirens, can turn into an act of defiance.
-* Ali Mohamed Kibao was beaten and acid had been poured on his face, according to an autopsy, his party said.
-* From his Illinois home, he champions guns for all. The Times confirmed his real name and linked the firearm he helped design to terrorists, drug dealers and freedom fighters in at least 15 countries.
-* The government is considering setting a minimum age for platforms like TikTok and Instagram that could be as high as 16.
-* Here is what to know about the powerful doomsday preacher Apollo Carreon Quiboloy and his arrest.
-* President Biden’s spokesman denounced the House Republican investigation of the chaotic 2021 withdrawal as partisan and one-sided.
-* The government said it would expand patrols as part of a ‘hard line’ on illegal migration following two deadly stabbings by rejected asylum seekers and a surge in support for the far right.
+* Residents, already forced to flee their homes by intense bombardment, want to avoid becoming a target for Israeli forces hunting Hamas.
+* Dominique Pelicot, 71, was due to testify on Tuesday over charges he invited dozens of men to his home to abuse his wife, Gisèle Pelicot. His condition was not immediately clear.
 
 ![Global](./global.png)
 ## New York Times United States News
-* A small brush fire in Southern California quickly grew to over 5,000 acres, threatening nearby suburban neighborhoods.
-* Body camera footage showed an officer pulling Tyreek Hill out of his car on Sunday after repeatedly ordering him to keep the window down during a traffic stop, apparently for speeding.
-* American citizens whose spouses have been deported face wrenching decisions on what is best for their future, especially when they have children.
-* Jobs attracted thousands of Haitians to Springfield, and employers were ecstatic. But then an immigrant driver was involved in a fatal school bus crash. And JD Vance entered the fray.
-* The Biden administration released data showing roughly one in seven U.S. residents had been covered by the Affordable Care Act at some point over the past decade.
-* The former president has proposed using tariffs to fund child care, boost manufacturing, quell immigration and encourage use of the dollar. Economists are skeptical.
-* In 2019, she attacked Joe Biden and was rattled by Tulsi Gabbard. In 2020, she cut off Mike Pence as he interrupted her. On Tuesday, some of the same strategies and weak points may come into play.
-* Ahead of Donald J. Trump’s debate against Vice President Kamala Harris, Jonathan Swan, a senior political correspondent for The New York Times, learned how Mr. Trump is preparing.
-* Donald Trump has argued he would use the department to further his priorities — or close it. But the agency has relatively limited power, and any plan to shutter it would face major hurdles.
-* The state footed a big bill for the owner of a hunting retreat to knock down trees on his and nearby properties. He made big environmental promises, but the science was lacking.
+* Sarah McBride, a Delaware state senator, is favored to win in November. She would become the first openly transgender member of Congress.
+* Maggie Goodlander, who has deep Washington ties, edged out Colin Van Ostern, who unsuccessfully ran for New Hampshire governor in 2016.
+* Voters said the vice president talked about a sweeping vision to fix the country’s most stubborn problems. But they wanted the fine print.
+* The court ruled hours before the state’s deadline for printing ballots for absentee voters, reversing the secretary of state who had invalidated the measure weeks after certifying it.
+* No state is battling more large fires than Oregon. The authorities have arrested a man suspected of starting one of the biggest blazes in California.
+* How the latest controversy in the long-running death-penalty case at Guantánamo Bay could play out.
+* Former President Donald J. Trump offered a dire portrait of America, often relying on false and debunked claims as he described “a failing nation.”
+* Tuesday’s debate was expected to center on defining Kamala Harris. Instead, with words and with body language, she turned it into a referendum on Donald Trump.
+* Vice President Kamala Harris largely deflected former President Donald J. Trump’s attempts to tie her to President Biden.
+* Laying out bait that Donald Trump eagerly snatched, the vice president owned much of the night, keeping him on the back foot and avoiding sustained attention on her own vulnerabilities.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Ethnic tensions have turned Manipur into an open war zone. Struggling to contain the unrest, the authorities have reimposed a curfew and internet blackout.
+* The Japanese city is famous for its temples and gardens, but it is laced with waterways that can offer a different, and no less enchanting, view.
+* Days after the storm made landfall, northern Vietnam was being battered by incessant rain. A landslide buried a whole village in a mountainous province.
+* Dawn Michelle Hunt, who is serving a life sentence, says she was duped into carrying drugs. Her family says she is seriously ill and should be sent home.
+* Plus, the great films of James Earl Jones.
+* In an overnight raid on the Parliament, police arrested at least 10 members of Khan’s party, deepening the political battle between the imprisoned ex-leader and the country’s powerful military.
 * The algorithm of entertainment was not built for ancient knowledge extracted from sacred spaces.
 * The government is considering setting a minimum age for platforms like TikTok and Instagram that could be as high as 16.
 * The latest announcement from Apple’s China rival came just hours after the unveiling of iPhone 16.
 * Plus, is it A.I. or real life?
-* Here is what to know about the powerful doomsday preacher Apollo Carreon Quiboloy and his arrest.
-* X-ray videos showed that some young Japanese eels demonstrated that they were not content to become a predator’s meal.
-* The Roman Catholic Church played an important part in East Timor’s independence struggle. But one of its heroes from that time has been accused of sexual abuse.
-* Plus, rural women in China fighting for land rights.
-* Weeks of tense standoff in the Philippines have ended in the capture of a pastor accused of leading an international ring of sex abuse and trafficking of young women and girls.
-* Hundreds of propaganda balloons ferrying trash have landed in South Korea in recent days, where officials say they typically do not pose a threat.
 
 ![Asian](./asian.png)
