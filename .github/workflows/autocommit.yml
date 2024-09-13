@@ -22,6 +22,8 @@ jobs:
 
       - name: Modify last update
         run: |
+          yesterday=$(date -d "yesterday" +%Y-%m-%d)
+          cp README.md ./archive/$yesterday.md
           d=`date '+%Y-%m-%dT%H:%M:%SZ'`
           echo $d > LAST_UPDATED
           pip install -r requirements.txt
