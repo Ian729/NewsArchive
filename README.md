@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The visit by the adviser, Amos Hochstein, comes as cross-border clashes between Israel’s military and the powerful Lebanese militia have intensified.
-* Linda Sun is just the latest member of the Chinese diaspora whom Beijing is accused of recruiting to influence Western democracies.
+* Dismissing the minister, Yoav Gallant, would remove a prominent voice of disagreement with Prime Minister Benjamin Netanyahu.
+* Khaled Meshal, one of Hamas’s most senior officials, said in an interview that the militant group expects to play a decisive role in the enclave when the war is over.
+* Dominique Pelicot, who is accused of inviting strangers to rape his wife while she was drugged and unconscious, took the stand for the first time.
+* Moscow’s troops have retaken a few villages in a border area that Kyiv’s forces invaded last month and are also advancing steadily in eastern Ukraine.
+* The election in Montreal had been seen as a referendum on Canada’s deeply unpopular prime minister, who has faced calls from within his party to quit.
+* Ursula von der Leyen, the president of the European Commission, gave the most influential portfolios to nominees from France, Italy and Spain.
+* At least 17 people have died and thousands have been displaced. “Relief is not expected to come before tomorrow, and more likely, the day after,” an official in Austria said.
 * The city canceled all flights at its two airports and closed major attractions, amid a three-day national holiday.
-* Hamas and the Houthis have opened offices in Baghdad, reflecting the two groups’ evolving relationship with Iraq as Tehran works to build a regional power bloc.
-* Europe’s public transit captains showed off their skills at an annual championship. “We have been practicing,” a Dutch competitor said. “But the other teams have also been practicing, too.”
 * Flooding caused by heavy rains has left more than 1,000 people dead and hundreds of thousands of homes destroyed.
-* The provocative artist once known as Kanye West has received approval that was denied to Maroon 5 and Bon Jovi. China’s economic woes might be why.
-* An inquiry into the deaths of three Israeli hostages determined that they probably died as a result of a military airstrike targeting a Hamas commander.
-* Costa Rica’s lush rainforests, which blanket a quarter of the country, are being infiltrated by cartels on a quest to find new trafficking routes to evade the authorities.
-* Going forward, Mexican voters will now elect judges at every level, dramatically restructuring the third branch of government.
+* The stunning attack on live television is likely to reorder the race to lead São Paulo, Latin America’s largest city.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Secret Service agents fired on a man who had a rifle and was hiding in bushes around a Trump golf club in Florida, officials said. Former President Donald J. Trump was unhurt.
-* Voters said the vice president talked about a sweeping vision to fix the country’s most stubborn problems. But they wanted the fine print.
-* A judge ruled that the State Constitution protected a woman’s right to abortion until the fetus was viable. The state’s attorney general said he would appeal.
-* Preliminary estimates said a 4.7-magnitude temblor was centered near Malibu. The authorities were determining whether there was any significant damage.
-* Mr. Jackson, alongside Michael and his other brothers, provided a soundtrack for a generation of young listeners in the 1970s.
-* With Vice President Kamala Harris at the top of the ticket and Senate seats open, Democrats could for the first time send two Black women to the chamber.
-* The deep-sea disaster killed all five people on board in 2023. The Coast Guard is set to hold its first public hearing on Monday to explore what led to the accident.
-* Investigations have singled out Pete Arredondo for the delayed police response to a 2022 school shooting in Texas. He is expected to appear in court for the first time on Monday.
+* After Donald J. Trump spread a debunked rumor about the city’s Haitian immigrants, schools have endured dozen of bomb threats.
+* Former employees of the company, OceanGate, said they worried about its practices long before a fatal implosion that killed five people. A Coast Guard hearing resumes on Tuesday.
 * As the idea of incorporating the Bible into classrooms gains traction, concerns about the mission of public schools — and differences across the faith — have led even some conservative Christians to push back.
-* Ryan Wesley Routh wanted to fly Afghan veterans to fight against Russia in Ukraine, an endeavor he seemed ill prepared to orchestrate.
+* Voters said the vice president talked about a sweeping vision to fix the country’s most stubborn problems. But they wanted the fine print.
+* The latest apparent assassination attempt against Donald J. Trump indicates how much the American political landscape has been shaped by anger stirred by Mr. Trump and against him. Peter Baker, chief White House correspondent for The New York Times, explains.
+* Donald Trump often finds comfort in Mr. Lewandowski’s feisty instincts and off-color humor. But some Trump aides worry about his penchant for making his own headlines.
+* Ryan W. Routh was charged with two federal gun crimes a day after Secret Service agents fired on him as he pointed a rifle toward the golf course where former President Donald Trump was playing.
+* The agency’s acting director, Ronald L. Rowe Jr., praised his agents’ actions but conceded that there was no sweep of the course at Donald Trump’s club that a gunman had staked out.
+* Interviews, records and a self-aggrandizing book suggest that Ryan Routh, a peripatetic builder, saw himself as an influential participant in momentous world events.
+* The man arrested after Secret Service agents opened fire while protecting Donald Trump was charged with two federal gun crimes on Monday.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The shrinking population poses threats to growth but has opened opportunities for businesses that serve seniors.
+* Plus, why you should binge “Shogun.”
+* Scientists from the United States, China and other nations called for an international authority to oversee artificial intelligence.
+* Efforts by the Beijing-backed Semiconductor Manufacturing International Corporation, or SMIC, to break through innovation barriers have landed it in a geopolitical tech battle.
+* David Lin had tried to open a Christian training center in Beijing. The United States considered him one of three Americans “wrongfully detained” by China.
 * The city canceled all flights at its two airports and closed major attractions, amid a three-day national holiday.
 * Linda Sun is just the latest member of the Chinese diaspora whom Beijing is accused of recruiting to influence Western democracies.
 * Plus, Ye performs in China.
 * More than 80,000 children from China were adopted by American families. While many appreciate how the adoptions reshaped their own lives, they are also glad to see the program conclude.
 * The provocative artist once known as Kanye West has received approval that was denied to Maroon 5 and Bon Jovi. China’s economic woes might be why.
-* Gibbons move with rhythm and intention. Dare we say style?
-* The administration moved to block off a popular tariff-free path for Chinese apparel coming into the United States, and added stiff levies on electric vehicles, solar panels and other products.
-* Rescuers in Myanmar reported finding bodies swept away by the powerful storm, which left a trail of destruction there and in neighboring countries.
-* The sports term refers to a time during a game when defeat becomes inevitable. Officialdom is warning against using it to take veiled jabs at the country’s political and economic system.
-* The move, made in the hope of addressing an aging population, was decidedly unpopular.
 
 ![Asian](./asian.png)
