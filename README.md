@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The Iranian-backed militant group, which uses pagers to safeguard communications, blamed Israel for the attacks in Lebanon. Israel declined to comment.
-* There is widespread concern that the November election will not end well and that American democracy has frayed to the breaking point.
-* Moscow’s troops have retaken a few villages in a border area that Kyiv’s forces invaded last month and are also advancing steadily in eastern Ukraine.
-* Thousands of residents of Nysa, in southern Poland, formed a human chain overnight to pass each other sandbags, building a wall along a river embankment to keep the raging waters at bay.
-* Dismissing the minister, Yoav Gallant, would remove a frequent critic of Prime Minister Benjamin Netanyahu at a time of mounting tensions with Hezbollah.
-* Dominique Pelicot, who is accused of inviting strangers to rape his wife while she was drugged and unconscious, took the stand for the first time.
-* The delicate rescue mission aimed to head off a major environmental disaster after the oil tanker was attacked by Houthi rebels off the coast of Yemen last month.
-* Khaled Meshal, one of Hamas’s most senior officials, said in an interview that the militant group expects to play a decisive role in the enclave when the war is over.
-* The world’s richest soccer league accused its champion of years of financial violations. A hearing that began this week could tarnish the club’s accomplishments and reshape the competition.
-* Prosecutors say that, for almost a decade, Dominique Pelicot drugged his wife to rape her, alongside dozens of other men he invited to abuse her.
+* The Israeli government did not tamper with the Hezbollah devices that exploded, defense and intelligence officials say. It manufactured them as part of an elaborate ruse.
+* Elon Musk’s social network used a technical maneuver to restore service for many Brazilians after a court blocked it. Regulators expected to restore the block soon.
+* Relationships between Ukrainians and Russians have long been common. Russia’s invasion has brought stigma, separation, legal troubles and a reconsideration of identity.
+* At least 20 people were killed and more than 450 others wounded, Lebanese officials said, a day after pagers exploded across the country and killed 12 people, in an attack widely attributed to Israel.
+* A 44-year-old man was in custody, the police said, after the child was attacked Wednesday. Other Japanese schools in China urged caution.
+* Two series of coordinated attacks targeting the group’s wireless devices caused thousands of injuries, piercing the group’s rank and file and raising questions about how it will respond.
+* The funeral of Bishop Eamonn Casey in 2017 seemed to draw a line under his scandalous affair years before. But this summer, disturbing new allegations emerged.
+* By targeting so many pagers at the same time, Israel demonstrated technical prowess and partly restored the aura of its intelligence agencies. But its long-term intent is unclear.
+* The Russian businesswoman Tatyana V. Bakalchuk has been locked in a dispute with her estranged husband for months over the fate of her company, Wildberries.
+* The seemingly coordinated blasts targeting Hezbollah members stoked fears of a broadening conflict.
 
 ![Global](./global.png)
 ## New York Times United States News
-* An election skeptic challenged hundreds of voter registrations, including one for a voting rights activist. A county official is dealing with the mess.
 * Voters said the vice president talked about a sweeping vision to fix the country’s most stubborn problems. But they wanted the fine print.
+* An election skeptic challenged hundreds of voter registrations, including one for a voting rights activist. A county official is dealing with the mess.
 * After Donald J. Trump spread a debunked rumor about the city’s Haitian immigrants, schools have endured dozens of bomb threats.
-* Former employees of the company, OceanGate, said they worried about its practices long before a fatal implosion that killed five people. A Coast Guard hearing resumes on Tuesday.
-* A 2013 provision to federal law was intended to ensure that domestic violence victims living in subsidized housing could move quickly to safer homes. But they often wait in fear.
-* They charged Donald J. Trump and JD Vance, who spread baseless rumors that Haitians in an Ohio city were eating pets, with imperiling their community for political gain.
-* American Mormon voters have traditionally voted Republican. But members of the Church of Jesus Christ of Latter-day Saints in Arizona have become increasingly disillusioned by former President Donald Trump. Kellen Browning, a New York Times reporter who is on assignment in the swing states of the 2024 election, explains how the division among Mormon voters could help deliver a key battleground state to Democrats in November.
-* Donald Trump has tried to link Democrats’ charge that he poses a “threat to democracy” to threats on his life. Meanwhile, he has heightened his own attacks on his rivals.
-* Improved data on borrowing costs and price growth has buoyed consumers, but it might be coming too late to significantly affect the presidential race
-* At his first campaign event since the apparent assassination attempt on Sunday, Donald J. Trump used dire language to insist that if he loses in November it would crush auto jobs.
+* After dropping out of the race and endorsing Donald Trump, Robert F. Kennedy Jr. has been fighting in court to remove his name from ballots in several states.
+* The president’s speech on Thursday won’t be a “victory lap,” officials said, but it will celebrate falling inflation and borrowing costs along with solid growth.
+* The pop star Taylor Swift has endorsed Vice President Kamala Harris — and is far more popular among Democrats and independents than Republicans.
+* Kamala Harris holds an edge over Donald J. Trump in the battleground state of Pennsylvania. But new surveys found that the race remains a tossup nationally.
+* Donald Trump’s running mate has been leaning in on the lessons of ultra-online political rabble rousing.
+* Donald Trump told a raucous crowd that he would soon visit Springfield, Ohio, and Aurora, Colo., two cities that are focal points of his exaggerated claims about migrants in America.
+* The emails were part of a sweeping effort by Iran to steal and disseminate sensitive internal communications between aides working for former President Donald J. Trump.
 
 ![US](./usnews.png)
 ## New York Times Asia News
-* The child was wounded and a 44-year-old man was in custody, the police said. Other Japanese schools in China warned parents and students to be cautious.
+* Pulasan was expected to make landfall near the Chinese financial hub by Friday morning. Forecasters warned of potential floods and landslides.
+* The Japanese electronics manufacturer Icom said it stopped making the walkie-talkie model in 2014 and has warned about fake versions for several years.
+* Plus, Kamala Harris courts Latino voters.
+* Flooding events around the world share a common factor of an atmosphere made warmer by climate change. What can be done to help citizens prepare?
+* The airline’s chief executive, Ben Minicucci, said in an interview that closing its acquisition of Hawaiian Airlines would allow it to expand, including on international routes.
+* Public disorder has continued in the country, weeks after its autocratic leader was driven out by protests. Many police officers have still not returned to work.
+* A 44-year-old man was in custody, the police said, after the child was attacked Wednesday. Other Japanese schools in China urged caution.
 * An election that began on Wednesday will restore some of the self-rule India took away in 2019. But a lasting chill has fallen over Kashmir.
 * The company, Gold Apollo, said it had not manufactured the devices, pointing to another company that it said was licensed to use its brand.
 * Three years after the military staged a coup, intensifying a civil war, civilians continue to pay the price, according to a coming United Nations report.
-* Plus, China’s “silver economy.”
-* U.S. Steel’s chief, David Burritt, expressed confidence on Tuesday that the sale of the American manufacturer to a Japanese owner would close “on its merits” despite bipartisan backlash.
-* There is widespread concern that the November election will not end well and that American democracy has frayed to the breaking point.
-* The shrinking population poses threats to growth but has opened opportunities for businesses that serve seniors.
-* Plus, why you should binge “Shogun.”
-* Scientists from the United States, China and other nations called for an international authority to oversee artificial intelligence.
 
 ![Asian](./asian.png)
