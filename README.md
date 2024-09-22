@@ -2,32 +2,35 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Hezbollah said a senior leader was among those killed, the day after confirming the death of a top commander wanted by the U.S. Lebanon’s Health Ministry said the death toll had risen to at least 31 and included women and children.
+* Anura Kumara Dissanayake’s strong showing reveals voter weariness with leadership that has led to a national economic crisis and crushing hardship for many people.
+* The far right and far left are poised to make significant gains in state voting on Sunday, possibly affecting the stability of the national government in Berlin.
+* The Fête de l’Humanité, a blend of Burning Man, Woodstock and a political convention, attracts the masses with bands, lectures and food, but here K.F.C. is C.F.K.: Communist Fried Kitchen.
+* The militant group targeted areas in Israel farther south than most of its previous attacks, reinforcing fears of broader regional conflict.
+* At least 129 people died when inmates tried to escape from Makala Prison, where conditions are abysmal and overcrowding is a major problem.
+* A methane leak set off the explosion, killing at least 51 people, the country’s official media said.
+* After years of failed deals and tit-for-tat violence, neither the Israelis nor the Palestinians believe their adversaries will ever negotiate in good faith.
+* Beginning Tuesday, world leaders will discuss three wars, climate change, rising sea levels and proposals to expand representation on the Security Council.
+* One person is dead and seven others are missing in Noto Peninsula, Japanese news media reported. The region is still recovering from a catastrophic earthquake.
 * The United Arab Emirates is expanding a covert campaign to back a winner in Sudan’s civil war. Waving the banner of the Red Crescent, it is also smuggling weapons and deploying drones.
-* Prime Minister Edi Rama says he wants to give members of the Bektashi, a Shiite Sufi order, their own Vatican-style enclave as a way of promoting religious tolerance.
-* The country will hold its first presidential election on Saturday since its strongman president fled the country two years ago. Here are the main contenders.
-* The attack, which Lebanese officials said killed at least 14 and injured more than 60, stoked fears Israel is driving toward a full-blown war on its northern border, even as the fight in Gaza goes on.
-* The Israeli military considers the force a major threat to its northern border and has portrayed Aqeel, whom it claimed to have killed on Friday, as its de facto commander.
-* After two days of exploding pagers and walkie-talkies, Beirut was a city on edge, with people worried there were bombs in their bags or pockets. Victims’ relatives vowed retribution.
-* Despite possible evidence of hundreds of graves at former schools for Indigenous children, challenges in making a clear conclusion have given rise to skeptics.
-* The European Union has vowed to enhance its military capability. But money is scarce, responsibilities overlap and the new job is less about soldiers than arms manufacturers.
-* Nigel Farage, a Trump ally and Brexit champion, thinks his Reform U.K. party can become a major political force. At a conference on Friday, he sought to explain how.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Explosive posts by the Republican candidate for governor, Mark Robinson, are sending waves of anxiety through a state party that has long been tactical and disciplined.
-* A Cal Fire employee was arrested Friday on suspicion of starting several blazes in Sonoma County.
-* Those still weighing their options are more likely  to be young, Black or Latino — and struggling. Many see their choice as the “lesser of two evils.”
-* The two men were seen getting ready to go to lunch on the day of the shooting. Hours later, Judge Kevin Mullins was dead from multiple gunshot wounds.
-* The issue of gender dominated the campaign over a week that included a scandal in North Carolina and reporting on the fatal fallout of abortion bans.
-* The decrease across the country is a major breakthrough in efforts to reverse the effects of fentanyl. Researchers and health officials say there is no easy explanation for the trend.
-* The allegiances of this group of voters — roughly three million people in seven battleground states — are up for grabs, and polling shows they’re pessimistic about the country’s future.
-* He has threatened to target his perceived enemies if elected again. A look at his time in the White House shows how readily he could do so.
-* The drafts were written to explain the limits of a president’s ability to go after rivals, invoking legal and constitutional factors and political norms.
-* Visiting Wisconsin after giving a speech in Georgia, the vice president signaled she would focus on the life-or-death risks of abortion bans in the final weeks of the race.
+* The California legislation comes amid growing concerns about the impact of cellphones and social media on adolescents’ mental health.
+* Voters said the vice president talked about a sweeping vision to fix the country’s most stubborn problems. But they wanted the fine print.
+* The move comes three days after the Justice Department’s civil lawsuit against the owner and operator of the Dali, which struck the Francis Scott Key Bridge in March.
+* Mayor Rob Rue, whose job is supposed to be part time, finds himself dealing with bomb threats, false rumors and added pressures on city resources.
+* The presidential race has exposed a fault line in American political culture over the deeply personal decision to have children.
+* After two apparent assassination attempts against Donald J. Trump, it’s easy to think our politics are becoming more violent. The research is not so clear.
+* Republicans are trying to seize control of the U.S. Senate by ousting Jon Tester, the last Democrat holding statewide office in a state that not long ago had many of them.
+* Democrats in the battleground state are counting on a sea change in the mood of young voters that could bolster their candidates in critical races that will determine who controls Congress.
+* Her record as a prosecutor navigating both paths has left her open to criticism that she either betrayed liberal ideals or prioritized them over law and order.
+* Multiple gunmen shot into a group of people in a popular entertainment district, the local police said. The authorities are still looking for the shooters.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* One person is dead and seven others are missing in Noto Peninsula, Japanese news media reported. The region is still recovering from a catastrophic earthquake.
+* Anura Kumara Dissanayake’s strong showing reveals voter weariness with leadership that has led to a national economic crisis and crushing hardship for many people.
+* Pvt. Travis King on Friday pleaded guilty before a military judge to desertion, among other charges, after he made an unauthorized crossing into North Korea in 2023.
 * The country will hold its first presidential election on Saturday since its strongman president fled the country two years ago. Here are the main contenders.
 * China imposed a ban last year after Japan began releasing treated water from the Fukushima nuclear plant into the sea. They have agreed to expand monitoring of the water.
 * Debris was found more than a day after the North’s latest balloon launch. South Korea says it’s essentially impossible to track every balloon.
@@ -35,8 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * Young practitioners are helping make stained glass, which fell out of fashion over two decades ago, a vibrant art form in Australia once again.
 * The firefighters were ending a 12-hour shift battling the Airport fire, one of the biggest blazes in California this year.
 * Plus, French drag is here to stay.
-* Pulasan made landfall near the Chinese megacity, days after it was hit by its strongest typhoon in decades, bringing flood and landslide risks.
-* The Japanese electronics manufacturer Icom said it stopped making the walkie-talkie model in 2014 and has warned about fake versions for several years.
-* Plus, Kamala Harris courts Latino voters.
 
 ![Asian](./asian.png)
