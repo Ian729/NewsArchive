@@ -2,29 +2,29 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* World leaders are urging a pause in fighting between Israel and Hezbollah in Lebanon. Israel’s prime minister, who will speak Friday at the U.N. General Assembly, has given mixed signals.
+* The Israeli military did not say how it knew that the leader, Hassan Nasrallah, had been killed in an attack on what it described as Hezbollah’s headquarters in Lebanon.
+* Italy, an aging country, badly needs migrant labor and immigration, but the government has admitted that the pathways for legal entry are rife with abuse.
+* Mexican drug cartels are turning thousands of Americans into fentanyl smugglers, sending an army of couriers who can easily cross between both countries.
+* Growing up in a Black township, Vusi Mdoyi found a sprinkle of joy under apartheid in a street-dancing style known as pantsula. As a choreographer, he has elevated it into high art, injected with ideas.
+* Most of the victims were women killed in one house, according to the police, who have started a manhunt for the gunmen.
 * The Bekaa Valley, a Hezbollah bastion in eastern Lebanon, had mostly been spared over 11 months of war. But The New York Times saw widespread devastation there after intense Israeli airstrikes this week.
-* Shigeru Ishiba, a former defense minister known for his plainspoken opinions, will replace Fumio Kishida next week.
-* The gathering in New York is part of a nearly weeklong U.S. visit by the Ukrainian president in which he has made appeals to both Democrats and Republicans.
 * Park Chae-so was so successful in infiltrating the North that Kim Jong-il, the enigmatic ruler, once gifted him blueberry wine. So why was the celebrated undercover agent later jailed by South Korea?
-* Austrians will head to the polls on Sunday to elect a new Parliament, with the Freedom Party in position to potentially form a far-right government for the first time since World War II.
-* During a trip to Luxembourg and Belgium, Francis will spend an hour meeting with 15 people who were abused by Roman Catholic clergy. Survivors say it is not enough.
-* Three men were the first to be convicted under the city’s recently expanded national security law, which has greatly curtailed political speech.
-* Though the offer was quickly rejected by several commanders of the opposition forces, it was still seen as a significant development in the three-year civil war.
-* With fall approaching, Ukraine says its forces in the eastern Donetsk region are facing battle more frequently than they have in months.
+* The United States has 2,500 troops in Iraq who served as a bulwark against attacks by a resurgent Islamic State.
+* During a trip to Luxembourg and Belgium, Francis spoke with 15 people who were abused by Roman Catholic clergy.
+* Punctuation delayed, but not denied: A memorial to Charlotte, Emily and Anne Brontë at Poets’ Corner in the celebrated London church finally gets its accent marks.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The Category 4 hurricane was expected to make landfall on the state’s gulf coast on Thursday evening.
-* Gov. Gavin Newsom signed several bills intended to atone for the state’s role in the oppression of Black Americans, but California legislators so far have sidelined proposals on cash reparations.
-* Alan E. Miller, convicted in three 1999 murders, appeared to shake and gasp after the gas began flowing, media witnesses said. The only other prisoner to be executed by nitrogen had a similar response.
-* Prosecutors called nearly 20 witnesses to make their case against three former Memphis police officers charged in connection with the fatal beating of Mr. Nichols.
-* Visiting the border on Friday in Arizona, the vice president will try to neutralize a key vulnerability, and will demonstrate her party’s harder line on immigration.
-* The fire was expected to burn for as long as 48 hours, forcing the authorities to close part of a highway where a truck carrying the batteries had overturned.
-* The president used a poignant White House ceremony to pass the baton to Vice President Kamala Harris, who has made gun safety an issue in her campaign.
-* After reading from prepared remarks on immigration for 10 minutes, Donald J. Trump used the rest of a news conference to talk about everything else on his mind.
-* The National Transportation Safety Board said it had found a defective part in the system that helps steer the aircraft after investigating an incident at Newark airport.
-* Control of the Senate could turn on Montana.
+* Eau Claire had a plan. But opponents, mostly from rural areas, were convinced that the newcomers would destroy their Midwestern way of life.
+* Residents of the booming region are confronting a new reality: Even when storms make landfall far away, their impact is being felt.
+* Former President Donald J. Trump turned his sights on Charleroi, Pa., where many Haitians have settled in recent years, and he fueled a fire that was already smoldering.
+* Helene made landfall on Florida’s Gulf Coast late Thursday, one year after the area was hit by Hurricane Idalia.
+* In its weird, shambolic spectacle, the record-setting game seemed to encapsulate the team’s entire dreadful season.
+* Specialized viewfinders installed across state parks let visitors with red-green colorblindness see more distinct colors.
+* Gov. Tim Walz is viewed more favorably than Senator JD Vance by likely voters in Michigan, Ohio and Wisconsin, according to New York Times/Siena College polls.
+* If Ms. Harris were to win the “blue wall” and lose the Sun Belt swing states, the single electoral vote in Greater Omaha could determine the winner of the presidential election.
+* Strong showings in new Times/Siena College polls leave a narrow path open for Democrats to keep hold of the chamber, but Republicans maintain an advantage with the map.
+* The race between Kamala Harris and Donald Trump has tightened in two of the Northern battlegrounds, New York Times/Siena College polls found.
 
 ![US](./usnews.png)
 ## New York Times Asia News
