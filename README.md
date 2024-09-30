@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
+* An airstrike killed the Hamas official and family members in a refugee camp for Palestinians, the group said. A separate deadly blast in Beirut damaged a residential building.
+* Iran united militias to take on Israel, but as the Israelis pummel one, Hezbollah, the rest have so far largely failed to come to its aid.
+* Sofia Malina and Polina Muzhychkova met in the Ukrainian city of Mariupol, but were separated after it came under brutal assault by Russian forces. They were reunited after a long and harrowing saga.
+* When several prominent journalists resigned this month from the British newspaper over false news articles, they also raised a broader question: Who owns it now?
+* Lee Im-jae, a former district chief, is the most senior official to be convicted in connection with the 2022 disaster that killed nearly 160 Halloween partygoers.
+* President Andrés Manuel López Obrador lifted millions out of poverty while eroding democratic norms, allowing his nationalist political movement to expand its sway.
 * Leaders in Tehran suggested it would be the Lebanese militia that would strike back at Israel after the killing of Hassan Nasrallah and bombings in Beirut.
-* Quebec says a new policy to charge some students higher tuition at top universities in Montreal is needed to preserve the province’s French identity.
-* The Freedom Party has made itself the country’s most popular party, with calls to bar asylum seekers. It is poised to come out on top in parliamentary elections for the first time.
 * Israel’s strike on Hassan Nasrallah was the culmination of several startling moves that suggest the Israeli prime minister feels unconstrained by foreign criticism.
-* The Israeli military said it had hit dozens of Hezbollah targets, a day after strikes near the capital killed more than 30 people. The cross-border conflict entered a new phase when Israel assassinated Hassan Nasrallah, the leader of the group, on Friday.
 * The United States’ ability to influence events in the Mideast has waned, and other major nations have essentially been onlookers.
-* His death is a blow to Hezbollah, the militia force and Iranian proxy he led. Whether it will cripple the group, or fuel another cycle of retribution, remains to be seen.
-* Mexican drug cartels are turning thousands of Americans into fentanyl smugglers, sending an army of couriers who can easily cross between both countries.
-* Disasters in the small Himalayan nation have become more frequent as the effects of climate change intensify.
-* Italy, an aging country, badly needs migrant labor and immigration, but the government has admitted that the pathways for legal entry are rife with abuse.
+* Quebec says a new policy to charge some students higher tuition at top universities in Montreal is needed to preserve the province’s French identity.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The legislation would have made California the first state in the nation to require intelligent speed assistance technology in vehicles.
-* Helene was the strongest storm to ever hit Florida’s Big Bend region. As it made its way across the Southeast, the storm inundated towns with floods and mudslides, killing at least 60.
-* These congregations are struggling to attract younger members. That has consequences for social cohesion and Black political power writ large.
-* Hundreds of universities have lent their names to online programs, plugging budgets but alienating students who feel misled.
-* A blizzard of voting lawsuits are landing in swing states in the final weeks before the election. Here’s a guide to the cases that could matter most.
-* The former president views JD Vance as a kindred political spirit, while Mr. Vance has spoken of Mr. Trump as a kind of father figure.
-* Republicans are filing a barrage of election lawsuits in the final weeks of the presidential campaign. The cases may be a road map for a legal battle over the results.
-* Though no bodies have been recovered in Unicoi County, authorities say they expect fatalities among about a half-dozen people who remain missing.
-* Senator JD Vance of Ohio, former President Donald J. Trump’s running mate, criticized President Volodymyr Zelensky of Ukraine during a campaign rally in Pennsylvania.
-* Former President Donald J. Trump assailed Vice President Kamala Harris in harshly personal terms in what he conceded was “a dark speech.”
+* Days after the Category 4 hurricane made landfall in Florida’s gulf coast, some victims’ portraits were coming into focus.
+* Thousands of people struggled to cope without basic necessities as authorities searched for the missing, and the overall death toll from the storm surpassed 90.
+* Scenes of devastation in the western part of the state, where the traces of Hurricane Helene destroyed some communities and stranded others.
+* The lifelong Republican employs fewer Haitians than others in Springfield, but his life has been upended since Donald J. Trump spread falsehoods about immigrants in his hometown.
+* Nineteen months after entering hospice care, the 39th president is set to turn 100 on Tuesday. His birthday wish? A chance to vote for his party’s candidate one more time.
+* Women from an insular North Carolina church — with a history of “blasting” members judged sinners — are helping to stage the former president’s campaign events.
+* At a rally in Las Vegas, Vice President Kamala Harris played up the vice-presidential debate set for Tuesday and pushed for another face-off with former President Donald J. Trump.
+* Vice President Kamala Harris vowed to combat the flow of fentanyl into the country when she visited the border on Friday. Former President Donald J. Trump ratcheted up his false claims in response.
+* After two assassination attempts, the former president seems to be relishing the dangers of his job. Some at the Georgia-Alabama football game wondered if his appearance was wise.
+* A fire in the plant caused water to interact with a chemical that set off the plume, prompting evacuations for large parts of Conyers, Ga., officials said.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Lee Im-jae, a former district chief, is the most senior official to be convicted in connection with the 2022 disaster that killed nearly 160 Halloween partygoers.
+* Stocks dropped after Japan’s governing party chose Shigeru Ishiba, a critic of the country’s longstanding ultralow interest rates, as its leader.
+* Plus, we retraced one of Mayor Eric Adams’s lavish trips to Istanbul.
+* The mountainous country is experiencing more extreme weather driven by climate change, including melting glaciers that add to the frequency and severity of flooding.
 * Disasters in the small Himalayan nation have become more frequent as the effects of climate change intensify.
 * Park Chae-so was so successful in infiltrating the North that Kim Jong-il, the enigmatic ruler, once gifted him blueberry wine. So why was the celebrated undercover agent later jailed by South Korea?
 * Shigeru Ishiba, a former defense minister known for his plainspoken opinions, will replace Fumio Kishida next week.
 * Economic stimulus moves triggered a broad rally in trading in Shanghai and Shenzhen.
 * Though the offer was quickly rejected by several commanders of the opposition forces, it was still seen as a significant development in the three-year civil war.
 * Three men were the first to be convicted under the city’s recently expanded national security law, which has greatly curtailed political speech.
-* Plus, the control behind K-pop goes public.
-* The two journalists for Stand News were convicted in August of conspiracy to publish seditious articles, in a case signaling new limits on press freedom.
-* At least 46 died in a ceremony that involves bathing in local rivers and streams in Bihar State, where recent rains had raised water levels.
-* Iwao Hakamada is believed to be the world’s longest-serving inmate given a death sentence.
 
 ![Asian](./asian.png)
