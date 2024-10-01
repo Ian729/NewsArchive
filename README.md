@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* An airstrike killed the Hamas official and family members in a refugee camp for Palestinians, the group said. A separate deadly blast in Beirut damaged a residential building.
-* Iran united militias to take on Israel, but as the Israelis pummel one, Hezbollah, the rest have so far largely failed to come to its aid.
+* Israeli troops crossed the border for the first time since 2006 in a ground operation targeting Hezbollah. The Israeli military called for evacuations of more than two dozen villages in southern Lebanon.
+* Already crippled by years of economic decline, political paralysis and other crises, Lebanon has little but its own citizens’ grit to survive the Israel-Hezbollah conflict.
+* Julian Assange, the WikiLeaks founder, said in public remarks in Strasbourg, France, that his imprisonment had set a dangerous precedent.
+* A climate scientist and former mayor, Claudia Sheinbaum will be inaugurated on Tuesday as the first woman to lead the country.
+* In London’s upmarket Primrose Hill, a Michelin-starred chef is employing people on the edge of homelessness as chefs, wait staff and cocktail makers.
+* The authorities did not give a reason for the action, but it came after the United States punished a tycoon for what it said was his role in the scam compounds.
+* When several journalists resigned this month from the British newspaper over false news articles, they also raised a broader question about its ownership.
 * Sofia Malina and Polina Muzhychkova met in the Ukrainian city of Mariupol, but were separated after it came under brutal assault by Russian forces. They were reunited after a long and harrowing saga.
-* When several prominent journalists resigned this month from the British newspaper over false news articles, they also raised a broader question: Who owns it now?
-* Lee Im-jae, a former district chief, is the most senior official to be convicted in connection with the 2022 disaster that killed nearly 160 Halloween partygoers.
-* President Andrés Manuel López Obrador lifted millions out of poverty while eroding democratic norms, allowing his nationalist political movement to expand its sway.
-* Leaders in Tehran suggested it would be the Lebanese militia that would strike back at Israel after the killing of Hassan Nasrallah and bombings in Beirut.
-* Israel’s strike on Hassan Nasrallah was the culmination of several startling moves that suggest the Israeli prime minister feels unconstrained by foreign criticism.
-* The United States’ ability to influence events in the Mideast has waned, and other major nations have essentially been onlookers.
-* Quebec says a new policy to charge some students higher tuition at top universities in Montreal is needed to preserve the province’s French identity.
+* Cities across Ukraine have suffered airstrikes in recent days, and Moscow is pressing a slow advance in the east. Kyiv has hit back against arms depots, trying to disrupt Russian logistics.
+* At least nine people are known to have died in a sinking off the Canary Islands and 48 more are missing, the latest disaster on the perilous Atlantic crossing from West Africa.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Days after the Category 4 hurricane made landfall in Florida’s gulf coast, some victims’ portraits were coming into focus.
-* Thousands of people struggled to cope without basic necessities as authorities searched for the missing, and the overall death toll from the storm surpassed 90.
-* Scenes of devastation in the western part of the state, where the traces of Hurricane Helene destroyed some communities and stranded others.
-* The lifelong Republican employs fewer Haitians than others in Springfield, but his life has been upended since Donald J. Trump spread falsehoods about immigrants in his hometown.
-* Nineteen months after entering hospice care, the 39th president is set to turn 100 on Tuesday. His birthday wish? A chance to vote for his party’s candidate one more time.
-* Women from an insular North Carolina church — with a history of “blasting” members judged sinners — are helping to stage the former president’s campaign events.
-* At a rally in Las Vegas, Vice President Kamala Harris played up the vice-presidential debate set for Tuesday and pushed for another face-off with former President Donald J. Trump.
-* Vice President Kamala Harris vowed to combat the flow of fentanyl into the country when she visited the border on Friday. Former President Donald J. Trump ratcheted up his false claims in response.
-* After two assassination attempts, the former president seems to be relishing the dangers of his job. Some at the Georgia-Alabama football game wondered if his appearance was wise.
-* A fire in the plant caused water to interact with a chemical that set off the plume, prompting evacuations for large parts of Conyers, Ga., officials said.
+* While Donald J. Trump has attacked California as too liberal for the nation, Gov. Gavin Newsom has vetoed several bills that could have become political fodder.
+* Worries of flooding had not been top of mind as the mountain-ringed city flourished in recent years as a haven for artists, chefs, brewmasters, entrepreneurs and retirees.
+* In southern Appalachia, blocked roads and bad cellphone service have made it hard to find hundreds of people who are still unaccounted for.
+* The ruling is unlikely to be the final word on abortion access in the state, with the expectation that the case will ultimately be decided by the Georgia Supreme Court.
+* Gov. Tim Walz of Minnesota has acted as attack dog for the Harris campaign, and Senator JD Vance of Ohio has stepped in to explain away former President Donald J. Trump’s incendiary remarks.
+* A Treasury official will call for greater transparency over emergency currency “swap” loans to struggling countries by China’s central bank.
+* As the two running mates hold their first debate in New York, here is what to be on the lookout for.
+* Senator JD Vance addressed some of the party’s biggest donors at a private sit-down before the American Opportunity Alliance.
+* Prosecutors said the Montanan illegally used tissue from a sheep from Central Asia and the testicles from a bighorn sheep to make large hybrids that he could sell at premium prices.
+* While the region hit hardest is largely rural, it holds a healthy share of the state’s nearly 7.7 million registered voters.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* A Treasury official will call for greater transparency over emergency currency “swap” loans to struggling countries by China’s central bank.
+* The rediscovery of the vessel, which was captured by the Japanese for a time during World War II, highlights the potential of underwater autonomous vehicles to map the ocean floor.
+* The authorities did not give a reason for the action, but it came after the United States punished a tycoon for what it said was his role in the scam compounds.
+* The storm is expected to bring torrential rain this week to Taiwan’s south, including Kaohsiung, the island’s third-largest city.
+* Plus, creating fashion in prison.
+* The Biden administration is struggling to halt cooperation among Russia, China, North Korea and Iran. It feels urgency over the wars in Ukraine and the Middle East while also aiming to protect Taiwan.
+* Researchers say that two rivers merged some 89,000 years ago and gave the mightiest peak in the Himalayas a huge growth spurt.
+* After seeing prices decline for years, Chinese officials have made a burst of policy changes aimed at making it easier to buy homes.
 * Lee Im-jae, a former district chief, is the most senior official to be convicted in connection with the 2022 disaster that killed nearly 160 Halloween partygoers.
 * Stocks dropped after Japan’s governing party chose Shigeru Ishiba, a critic of the country’s longstanding ultralow interest rates, as its leader.
-* Plus, we retraced one of Mayor Eric Adams’s lavish trips to Istanbul.
-* The mountainous country is experiencing more extreme weather driven by climate change, including melting glaciers that add to the frequency and severity of flooding.
-* Disasters in the small Himalayan nation have become more frequent as the effects of climate change intensify.
-* Park Chae-so was so successful in infiltrating the North that Kim Jong-il, the enigmatic ruler, once gifted him blueberry wine. So why was the celebrated undercover agent later jailed by South Korea?
-* Shigeru Ishiba, a former defense minister known for his plainspoken opinions, will replace Fumio Kishida next week.
-* Economic stimulus moves triggered a broad rally in trading in Shanghai and Shenzhen.
-* Though the offer was quickly rejected by several commanders of the opposition forces, it was still seen as a significant development in the three-year civil war.
-* Three men were the first to be convicted under the city’s recently expanded national security law, which has greatly curtailed political speech.
 
 ![Asian](./asian.png)
