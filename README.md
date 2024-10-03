@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The strike raised fears that two of the Middle East’s most powerful militaries could be drawn into direct conflict. Israel’s military said more troops would join its forces that have begun an invasion of southern Lebanon.
-* Already crippled by years of economic decline, political paralysis and other crises, Lebanon has little but its own citizens’ grit to survive the Israel-Hezbollah conflict.
+* The attack hit a health authority building, Lebanese officials said. The Israeli military expanded its evacuation warnings in southern Lebanon.
+* A year after perhaps the worst military and intelligence debacle in the country’s history, its armed forces have regained the momentum. Some ask: to what end?
+* A shadowy network of ships has registered in Gabon, highlighting how Vladimir V. Putin is building an economy beyond the reach of Western sanctions.
+* The sentence for S. Iswaran, the former transportation minister who pleaded guilty last week, was longer than what prosecutors had sought.
+* Israel seems ready to respond in a much more forceful and public way with Iran after Tehran launched its second massive missile attack on Israel this year, analysts and officials say.
+* Airstrikes targeting members of Hezbollah have brought the Dahiya neighborhoods south of Beirut to a standstill, its residents fleeing and businesses shuttering.
+* The grisly allegations have sparked debate over some of the country’s most explosive issues, including race, gender-based violence and farm ownership.
+* The country’s defense ministry said the military officers who opened fire might have mistaken the migrants for cartel members.
 * At its annual convention in Birmingham, the party is energized by a leadership contest and seems largely undisturbed by broader questions over its electability.
 * President Vladimir Putin is throwing ever more resources at two interlocked priorities: recruiting more soldiers and encouraging bigger families.
-* The ordination of female deacons is no longer on the agenda during a global assembly at the Vatican, but will be discussed separately.
-* The authorities said they were investigating after the explosions were heard early Wednesday morning near Copenhagen. Nobody was injured.
-* Julian Assange, the WikiLeaks founder, said in public remarks in Strasbourg, France, that his imprisonment had set a dangerous precedent.
-* A climate scientist and former mayor, Claudia Sheinbaum was inaugurated on Tuesday as the first woman to lead the country.
-* In London’s upmarket Primrose Hill, a Michelin-starred chef is employing people on the edge of homelessness as chefs, wait staff and cocktail makers.
-* The loss of Vuhledar, at the intersection of two fronts, would complicate the defense of a regional transit hub and strengthen Russian supply lines, Ukrainian soldiers say.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Officials are still uncovering the extent of the devastation in western North Carolina, which President Biden will view from the air. The storm killed more than 130 people in six states.
-* Blocked roads and bad cellphone service in remote mountain towns have made it hard to find people who are still unaccounted for after the storm.
-* A preliminary hearing in the case against a former sheriff yielded details about his interactions with the slain judge before he was killed.
-* JD Vance and Tim Walz each have roots in the Midwest, but how voters in the region will view the vice-presidential candidates’ different visions remains to be seen.
-* As rumors spin on social media, revelers in one of New York City’s most popular neighborhoods for nightlife are on higher alert.
-* Sentiment about the Hezbollah leader shifted after the Israeli strike that killed him, partly reflecting anger toward Israel, according to an analysis.
-* JD Vance gave a shout-out to his wife. Tim Walz sang the praises of Minnesota. Offstage, Donald Trump got distracted.
-* From the opening handshake, the Republican vice-presidential nominee sought to reinvent and repackage the record and views of the former president.
-* At three colleges, there were snacks, big screens and homework assignments. But energy and enthusiasm were sparse — and by the end, even more so.
-* The vice-presidential candidates largely avoided personal attacks, with JD Vance showing a knack for revising history while Tim Walz appeared to battle nerves.
+* Six days after Hurricane Helene, North Carolina was getting help from the Federal Emergency Management Agency and others. But officials still faced obstacles reaching some areas.
+* With no way for cars to get into Bat Cave, N.C., food and water have been dropped off by helicopters or carried over the river on foot or by a raft.
+* Modern technology has been slow to return to mountain towns after Helene. Whiteboards and gatherings are helping residents find missing people and much-needed supplies.
+* At Tuesday’s debate, Gov. Tim Walz said that his son, Gus Walz, witnessed a shooting at a community center. A volleyball coach said Gus helped other young players to safety.
+* The president’s planned visit on Thursday follows a day in the Carolinas, where he sought to reassure the hurricane’s victims that the federal government would support recovery efforts.
+* Ms. Cheney, the most prominent Republican to endorse the Democratic nominee, will appear alongside her in Ripon, Wis., where meetings in 1854 helped lead to the party’s formation.
+* Most of the deaths from Hurricane Helene occurred far from Florida, where the storm first made landfall. Experts say alerts and evacuation orders need to target inland residents too.
+* Business owners and foreign governments are preparing for high tariffs and trade disruptions, depending on the outcome of the election.
+* Federal investigators have concluded that hidden embers remained from a morning fire in the Hawaii town of Lahaina. They reignited later into a fire that destroyed much of the town.
+* The special counsel provided new details that help flesh out how Donald Trump sought to remain in power, while setting out his argument for the case to survive the Supreme Court’s immunity decision.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Business owners and foreign governments are preparing for high tariffs and trade disruptions, depending on the outcome of the election.
+* The sentence for S. Iswaran, the former transportation minister who pleaded guilty last week, was longer than what prosecutors had sought.
+* Two people have been killed and more than 10,000 evacuated, the authorities said. The downpour has triggered landslides and flooding.
+* Japan’s regional economies are facing severe labor shortages. Their survival depends on their ability to persuade foreign workers to stay.
+* Plus, what we learned from fashion month.
+* When 13 million people tried to buy tickets for the band’s Mumbai shows, the ticketing site crashed. Many who came up short cried foul, both online and to the authorities.
 * The storm has already injured 46 people and forced thousands of evacuations, the authorities said, warning that torrential rain could cause landslides and flooding.
 * She was said to have been involved in the first killing of an educator during the Cultural Revolution, drawing official praise. She later apologized for her actions.
 * Plus, Jimmy Carter turned 100.
 * Zoos around the world have occasionally used a little dye, or just brazenness, to pass off one animal as another.
-* The vehicle was returning from a field trip and caught fire outside Bangkok. Rescuers were still searching for bodies in the wreckage.
-* A Treasury official will call for greater transparency over emergency currency “swap” loans to struggling countries by China’s central bank.
-* The rediscovery of the vessel, which was captured by the Japanese for a time during World War II, highlights the potential of underwater autonomous vehicles to map the ocean floor.
-* The charge of incitement came after the United States punished a tycoon for what it said was his role in the scam compounds.
-* The storm is expected to bring torrential rain this week to Taiwan’s south, including Kaohsiung, the island’s third-largest city.
-* Plus, creating fashion in prison.
 
 ![Asian](./asian.png)
