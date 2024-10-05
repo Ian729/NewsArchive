@@ -2,32 +2,33 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* In Iran, Ayatollah Ali Khamenei delivered a rare sermon at the Friday Prayer, expressing solidarity with Hezbollah and warning of further attacks against Israel.
+* The idea is to use rope-a-dope tactics, letting Russian forces pound away until they have exhausted themselves. It’s far from clear if the Ukrainian strategy will succeed.
+* Introduced to the island 120 years ago, moose are involved in hundreds of collisions each year. But the huge animal is an accepted part of life here. “I suspect that they got squatters’ rights.”
+* A strike was reported in the Lebanese city of Tripoli, near the country’s northern edge.
+* The Health Ministry has reported that 80 percent of the infected are health care professionals.
+* In a crisis-racked country where sectarian tensions simmer, many worry that the conflict between Israel and the Shiite militia Hezbollah will end in more destruction for all.
+* Israel is drastically widening its fight against the Lebanese militant group that is backed by Iran, whose supreme leader said that “any strike on the Zionist regime is a service to humanity.”
+* The roots of Donald Trump’s animus toward Ukraine — an issue with profound consequences should he be elected again — can be found in a yearlong series of events spanning 2016 and 2017.
+* Gisèle Pelicot fought for the graphic videos made by her husband to be shown publicly in court, insisting they were essential evidence in a rape case against him and 50 other men.
+* A plan to place American-made reactors on a picturesque coastline has broad support in Poland — and in Washington — but the geopolitical calculations have run into local opposition.
 * Mourners reeled over lost loved ones after an Israeli strike on an apartment building killed at least 45 people.
-* Sonya Liakh was diagnosed with eye cancer at age 2. After Russia’s invasion of Ukraine disrupted her treatment, her family faced a desperate struggle.
-* Prime Minister Keir Starmer’s top team contains more lawmakers from poor backgrounds, and fewer from elite schools, than any in recent memory. Voters haven’t noticed.
-* A year after perhaps the worst military and intelligence debacle in the country’s history, its armed forces have regained the momentum. Some ask: to what end?
-* Israel seems ready to respond in a much more forceful and public way with Iran after Tehran launched its second massive missile attack on Israel this year, analysts and officials say.
-* Airstrikes targeting members of Hezbollah have brought the Dahiya neighborhoods south of Beirut to a standstill, its residents fleeing and businesses shuttering.
-* A shadowy network of ships has registered in Gabon, highlighting how Vladimir V. Putin is building an economy beyond the reach of Western sanctions.
-* President Vladimir Putin is throwing ever more resources at two interlocked priorities: recruiting more soldiers and encouraging bigger families.
-* The sentence for S. Iswaran, a former transportation minister who pleaded guilty last week, was longer than what prosecutors had sought.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The former officers were found guilty of witness tampering but not of the charge that would have held them responsible for causing his death.
-* Federal prosecutors painted a picture of officers who did not stop one another from pummeling Mr. Nichols even when he did not pose a threat.
-* Language and other barriers are hobbling the flow of assistance to hard-hit communities where affordable housing drew growing numbers of Hispanic migrants.
-* In this part of Texas, a pastor with a clean reputation is not to be taken for granted.
-* Ten years in, Fat Bear Week has drawn millions of viewers to a live webcam in Alaska to follow along and vote for the chonkiest brown bear at Katmai National Park.
-* Mr. Obama, the first Black president, had cast Vice President Kamala Harris as the inheritor of his political movement in a speech at the Democratic convention.
-* The question isn’t new. But seismic changes to college sports, embraced by Coach Deion Sanders and his University of Colorado Buffaloes, have made it more relevant than ever.
-* Donald J. Harris rarely speaks to his famous daughter, who lives nearby. But he helped shape who she became.
-* The drug, legal in much of the country, is widely seen as nonaddictive and safe. For some users, these assumptions are dangerously wrong.
-* Appearing for roughly 85 minutes onstage, the Republican nominee repeated false claims about the 2020 election and introduced a mischaracterization about disaster-relief money.
+* The storm’s death toll has climbed past 225, but many people remain unaccounted for and searching for them is complicated. Their families are desperate for answers.
+* City officials have refused to provide estimates of when the devastated water system in Asheville, N.C., will be back in operation.
+* Within Our Lifetime, a group formed by New York students, has galvanized pro-Palestinian activists who are calling for the end of Israel — and facing accusations of antisemitism.
+* Most of the deaths from Hurricane Helene occurred far from Florida, where the storm first made landfall. Experts say alerts and evacuation orders need to target inland residents too.
+* Downed trees and flooding have left the trail impassible in many of the 14 states on its route.
+* Even as President Biden recedes from view, some of the most consequential days of his term may be ahead of him.
+* With tight contests in all seven battleground states, the candidates are pressing for a few thousand votes that could sway the outcome of the entire election.
+* Donald J. Trump is returning to Butler, Pa., to hold another rally at the site where he was nearly assassinated in July in an attack that killed a man and wounded two others.
+* The Harris campaign is trying to transform women in battleground states into an organizing force who can drive their friends and family to the polls.
+* Representative Eli Crane, a first-term Arizona Republican, has emerged as the chief right-wing voice pushing conspiracy theories about the Trump assassination attempts.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* China has strategic reserves and alternatives like electric cars, should oil imports ever be interrupted.
 * Beijing’s investigation of the parent of Calvin Klein and Tommy Hilfiger, which stopped buying goods from Xinjiang, has put global firms in a difficult position.
 * Plus, paying countries to protect trees.
 * He was 23 years old when he took part in the attack that triggered America’s declaration of war against Japan. He rarely spoke publicly about it.
@@ -37,6 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * Japan’s regional economies are facing severe labor shortages. Their survival depends on their ability to persuade foreign workers to stay.
 * Plus, what we learned from fashion month.
 * When 13 million people tried to buy tickets for the band’s Mumbai shows, the ticketing site crashed. Many who came up short cried foul, both online and to the authorities.
-* The storm has already injured 46 people and forced thousands of evacuations, the authorities said, warning that torrential rain could cause landslides and flooding.
 
 ![Asian](./asian.png)
