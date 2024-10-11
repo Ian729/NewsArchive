@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
+* Nihon Hidankyo is a grass-roots movement of survivors from Hiroshima and Nagasaki. The group’s efforts have helped establish a “nuclear taboo,” the Nobel committee said.
+* While Han Kang’s victory was celebrated as a crowning cultural achievement for her country, her work also represents a form of rebellion against its culture.
+* Lebanese officials said at least 22 people were killed in an Israeli attack that reduced one of the capital city’s central intersections to a ruin.
+* Thousands have fled the town of Baalbek amid a barrage of Israeli airstrikes. For those who remain, Ali Jawad’s business is a critical piece of an informal safety net.
+* Politicians run most of the mills in the state of Maharashtra. They deny or downplay evidence of coerced hysterectomies, debt bondage and child labor in the fields.
+* Established to maintain peace in southern Lebanon, the UNIFIL forces have been increasingly caught in the middle of the Israeli-Hezbollah war.
 * Once lively and densely packed, the area on the edges of Beirut that was hit by an Israeli strike is now vacant.
-* The conversation carried the weight of the worst relationship between the United States and Israel in years.
+* The authorities are resorting to a politically unpopular move as they scramble to raise funds for the grueling military effort against Russia.
 * Motivated by the racial disparity she saw on trails, Rhiane Fatinikun founded Black Girls Hike to make Britain’s countryside more inclusive.
 * Tapping into a fast-growing economy, Prime Minister Narendra Modi has been offering financial help to India’s neighbors as he tries to counter China’s influence.
-* Some progressive members sang “Bella Ciao,” a song associated with antifascism, to show opposition to Prime Minister Viktor Orban, who’s been accused of authoritarianism at home.
-* After an epic election defeat in July, opposition lawmakers have presented their party’s dues-paying members with an unexpected choice of two candidates from the right.
-* Najia and Hammam Malaka have been stuck at opposite ends of the Gaza Strip, with their young children, for most of the yearlong conflict. The emotional toll has been devastating.
-* More than 300 American students have benefited from the George J. Mitchell program, founded after the Good Friday Agreement, but it has been halted indefinitely.
-* A top-level gathering in Germany intended to show support for Ukraine was put off after President Biden canceled his trip to deal with Hurricane Milton.
-* ‘We don’t want to send the message to the younger generation that we’re people who have to hide ourselves.’
 
 ![Global](./global.png)
 ## New York Times United States News
-* The university made a deal with pro-Palestinian students last spring to consider their demands if they ended a protest encampment. But the university board voted against divestment.
+* The storm made landfall Wednesday evening, devastating an area still recovering from Hurricane Helene, which tore through Florida’s western coast two weeks ago.
+* A young family came to love the city where they rebuilt their lives and bought a home. Since a false rumor spread, they have scrapped outings, even to the park.
+* An appeals court is considering a challenge that could end DACA, which has allowed hundreds of thousands of young undocumented immigrants to live and work in the United States.
 * In Arizona and other states, the activists are accusing Latino advocacy groups of registering undocumented immigrants. Canvassers are growing concerned about safety.
-* A federal appeals court will consider the future of DACA, which has allowed hundreds of thousands of undocumented young people to live and work in the United States.
-* In a fraught meeting, the student government rejected a plan to redirect its budget from campus activities to aid for Gaza. But the fight is not over.
-* The latest polling from The New York Times and Siena College shows Republicans leading in key Senate races in Montana, Texas and Florida.
-* The former president, one of the party’s most popular figures, will rally in Pittsburgh for Kamala Harris, as her campaign deploys its most influential surrogates in a push to get out the vote.
-* Eight years ago, he won over many white voters, who were often called the forgotten Americans. Now, he hopes to make inroads with Black and Latinos by stoking resentments and pointing to scapegoats.
-* Milton remained remarkably powerful as it roared through the state, forcing people in inland counties to seek shelter and prepare for damaging winds and rain.
-* In St. Lucie County on the state’s Atlantic coast, far from where the hurricane made landfall, one sheriff confirmed some loss of life without providing further details after a tornado struck.
-* The St. Petersburg stadium, home to M.L.B.’s Tampa Bay Rays, was being used to house emergency workers. Video showed parts of the fiberglass roof blowing in the wind.
+* For the first time in 13 years, Wisconsin Democrats are contesting a number of local races. Even a few thousand voters energized by the candidates at their door could make a difference in a tight presidential contest.
+* Elon Musk is planting himself in Pennsylvania, has brought his brain trust to help and may even knock on doors himself.
+* Legal maneuvers and an empire in tatters leave the ownership of the once grand Manhattan skyscraper up in the air.
+* Abortion is emerging as a major issue in this election, inspiring more women to show up to the polls and vote for Kamala Harris, while at the same time driving a wedge between some conservative women and Donald Trump. That dynamic is especially visible in Arizona, where abortion bans are being challenged on the ballot.
+* The event in Las Vegas featured emotional questions from voters on health care and the economy — and displayed the balance Kamala Harris is seeking on tough border rules and paths to citizenship.
+* Before speaking at a rally for Vice President Kamala Harris in Pittsburgh, the former president spoke directly to Black male voters in an effort to bolster flagging support.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Those who lived through the nuclear attacks of 1945 have dedicated their lives to recounting their experiences of loss and the physical and emotional toll.
+* The film captures the arduous work of South Korean haenyeo, who harvest seafood without diving gear, and whose traditions may be ending.
+* In 2018, Hong Kong received a record 65 million tourists. In 2023, it welcomed a little more than half that.
+* Her alto timbre, which led to teasing as a child, and radiant laughter shaped how millions experienced the blue cartoon robot in the quintessential children’s anime of the same name.
+* While Han Kang’s victory was celebrated as a crowning cultural achievement for her country, her work also represents a form of rebellion against its culture.
+* Taiwan’s government said that they had been accused of a breach of trust, but that their employer, Foxconn, had denied the company suffered any losses.
+* Plus, Han Kang receives the Nobel Prize in Literature.
 * What were Japan Airlines’ obligations when a first-class passenger asked to be rebooked onto a competitor’s flight?
 * Tapping into a fast-growing economy, Prime Minister Narendra Modi has been offering financial help to India’s neighbors as he tries to counter China’s influence.
 * Nima Rinji Sherpa’s achievement highlights the role of Sherpas in an activity where they shoulder much of the risk but receive little glory.
-* Plus, literature’s greatest prize.
-* The patriarch of a powerful family, his Tata Group put an indelible stamp on Indian life while acquiring British brand names like Tetley Tea and Jaguar.
-* Two people have died following the intense rains that inundated the city of Chiang Mai and surrounding areas that are popular with tourists.
-* ‘We don’t want to send the message to the younger generation that we’re people who have to hide ourselves.’
-* On paper, five South Korean officials are the governors of North Korean provinces. Their goal is reunification, but fewer and fewer Koreans share it.
-* Despite the risks of investing at a volatile time, investors see the recent stock rally as a rare opportunity to make money when China’s economy is sluggish.
-* Plus, revisiting Oppenheimer’s Communist ties.
 
 ![Asian](./asian.png)
