@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Nihon Hidankyo is a grass-roots movement of survivors from Hiroshima and Nagasaki. The group’s efforts have helped establish a “nuclear taboo,” the Nobel committee said.
-* While Han Kang’s victory was celebrated as a crowning cultural achievement for her country, her work also represents a form of rebellion against its culture.
+* They have become pampered family members in South Korea, which has the world’s lowest birthrate and where much of the population lives alone.
+* Drones are getting another new twist: Soldiers attach canisters to them to create weapons capable of spitting out molten metal that burns at 4,400 degrees.
+* Canada has long had one of the world’s most open immigration policies. Now, faced with a growing popular backlash, it’s changing the rules.
+* Israel’s military said it was “operating with great force” against Hamas and allied groups and issued new evacuation orders, as it also continued its campaign in Lebanon.
+* The finance minister said Beijing would sell bonds to supplement spending and help banks but did not detail how much.
+* Explaining the issues of sovereignty, self-defense and humanitarian safeguards.
+* Pyongyang threatened military action if the provocations continued, while the South advised its angry neighbor not to act “rashly.”
 * Lebanese officials said at least 22 people were killed in an Israeli attack that reduced one of the capital city’s central intersections to a ruin.
-* Thousands have fled the town of Baalbek amid a barrage of Israeli airstrikes. For those who remain, Ali Jawad’s business is a critical piece of an informal safety net.
-* Politicians run most of the mills in the state of Maharashtra. They deny or downplay evidence of coerced hysterectomies, debt bondage and child labor in the fields.
-* Established to maintain peace in southern Lebanon, the UNIFIL forces have been increasingly caught in the middle of the Israeli-Hezbollah war.
-* Once lively and densely packed, the area on the edges of Beirut that was hit by an Israeli strike is now vacant.
-* The authorities are resorting to a politically unpopular move as they scramble to raise funds for the grueling military effort against Russia.
-* Motivated by the racial disparity she saw on trails, Rhiane Fatinikun founded Black Girls Hike to make Britain’s countryside more inclusive.
-* Tapping into a fast-growing economy, Prime Minister Narendra Modi has been offering financial help to India’s neighbors as he tries to counter China’s influence.
+* While Han Kang’s victory was celebrated as a crowning cultural achievement for her country, her work also represents a form of rebellion against its culture.
+* Those who lived through the nuclear attacks of 1945 have dedicated their lives to recounting their experiences of loss and the physical and emotional toll.
 
 ![Global](./global.png)
 ## New York Times United States News
+* Hurricane Milton’s death toll was highest far from the coast where it made landfall, in a retirement community where few were braced for destructive tornadoes.
 * The storm made landfall Wednesday evening, devastating an area still recovering from Hurricane Helene, which tore through Florida’s western coast two weeks ago.
-* A young family came to love the city where they rebuilt their lives and bought a home. Since a false rumor spread, they have scrapped outings, even to the park.
-* An appeals court is considering a challenge that could end DACA, which has allowed hundreds of thousands of young undocumented immigrants to live and work in the United States.
-* In Arizona and other states, the activists are accusing Latino advocacy groups of registering undocumented immigrants. Canvassers are growing concerned about safety.
-* For the first time in 13 years, Wisconsin Democrats are contesting a number of local races. Even a few thousand voters energized by the candidates at their door could make a difference in a tight presidential contest.
-* Elon Musk is planting himself in Pennsylvania, has brought his brain trust to help and may even knock on doors himself.
-* Legal maneuvers and an empire in tatters leave the ownership of the once grand Manhattan skyscraper up in the air.
-* Abortion is emerging as a major issue in this election, inspiring more women to show up to the polls and vote for Kamala Harris, while at the same time driving a wedge between some conservative women and Donald Trump. That dynamic is especially visible in Arizona, where abortion bans are being challenged on the ballot.
-* The event in Las Vegas featured emotional questions from voters on health care and the economy — and displayed the balance Kamala Harris is seeking on tough border rules and paths to citizenship.
-* Before speaking at a rally for Vice President Kamala Harris in Pittsburgh, the former president spoke directly to Black male voters in an effort to bolster flagging support.
+* Over time, the question of whether to stay or go will likely become a question of whether to keep living in coastal or low-lying areas at all.
+* Alarmed by abortion and transgender rights, Christian activists are invoking the Old Testament story of Esther, the Jewish orphan who bravely saved her people.
+* More than 25 years after Mexico began recognizing dual nationals, some U.S.-born children of Mexican immigrants are claiming citizenship in the country that their parents once left.
+* Vice President Kamala Harris’s campaign is trying to capitalize on a lack of health information shared by her rival. Candidates are often selective about what they choose to share.
+* Pressed to say if he thought the 2020 election was stolen, JD Vance repeatedly sidestepped. And he defended the sentiment behind his “childless cat ladies” comment, even as he regretted his word choice.
+* The latest Times/Inquirer/Siena polls found Donald Trump with a six-point advantage in Arizona, and Kamala Harris with a four-point lead in Pennsylvania.
+* Donald J. Trump is feeling aggrieved, unappreciated by donors and fenced in by security concerns in the final stretch of the race.
+* Vice President Kamala Harris is on track to win a majority of Black voters, and has brought many back to her party since taking over for President Biden. Still, a significant gap in support persists.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* “Whenever I get inspiration or feel something,” the “Pachinko” star said, “I go to my Notes app and write it down.”
+* They have become pampered family members in South Korea, which has the world’s lowest birthrate and where much of the population lives alone.
+* The finance minister said Beijing would sell bonds to supplement spending and help banks but did not detail how much.
+* Toshiyuki Mimaki, the chairman of Nihon Hidankyo, which was awarded the Nobel Peace Prize, said his foremost wish was to “please abolish nuclear weapons while we are alive.”
+* Pyongyang threatened military action if the provocations continued, while the South advised its angry neighbor not to act “rashly.”
+* Many survivors of the Hiroshima and Nagasaki attacks have dedicated their lives to campaigning for nuclear disarmament. Their mission has grown more urgent as the number of living witnesses to the bombings has dwindled.
 * Those who lived through the nuclear attacks of 1945 have dedicated their lives to recounting their experiences of loss and the physical and emotional toll.
 * The film captures the arduous work of South Korean haenyeo, who harvest seafood without diving gear, and whose traditions may be ending.
 * In 2018, Hong Kong received a record 65 million tourists. In 2023, it welcomed a little more than half that.
-* Her alto timbre, which led to teasing as a child, and radiant laughter shaped how millions experienced the blue cartoon robot in the quintessential children’s anime of the same name.
-* While Han Kang’s victory was celebrated as a crowning cultural achievement for her country, her work also represents a form of rebellion against its culture.
-* Taiwan’s government said that they had been accused of a breach of trust, but that their employer, Foxconn, had denied the company suffered any losses.
-* Plus, Han Kang receives the Nobel Prize in Literature.
-* What were Japan Airlines’ obligations when a first-class passenger asked to be rebooked onto a competitor’s flight?
-* Tapping into a fast-growing economy, Prime Minister Narendra Modi has been offering financial help to India’s neighbors as he tries to counter China’s influence.
-* Nima Rinji Sherpa’s achievement highlights the role of Sherpas in an activity where they shoulder much of the risk but receive little glory.
+* Her alto timbre, for which she was teased as a child, and radiant laughter shaped how millions experienced the blue robot in the quintessential anime of the same name.
 
 ![Asian](./asian.png)
