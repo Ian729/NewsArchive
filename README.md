@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Several people were killed in the attack on the compound where displaced people were sheltering, Palestinian news media said. The Israeli military said Hamas fighters were embedded there.
+* The United Nations says “the targeting of health and relief operations is broadening” in Lebanon. Hospitals say they have been forced to close or are struggling to operate.
+* The diplomatic rift has suddenly grown more stark as Canada amplifies its accusations that India is directing lethal operations abroad.
+* Top energy officials have fallen and key energy policy decisions have been delayed because of political calculations, lawmakers and experts say, costing Ukraine valuable time in preparing for winter.
+* A generation that fled political persecution and economic hardship is finding a way to laugh amid the pain.
+* The plan was heralded by the Italian government as an innovative model to manage and deter immigration, and criticized by human rights groups.
+* Israel has one of the world’s best defenses against missiles and rockets, but struggles to detect slower-moving unmanned aircraft, experts said.
 * Israeli soldiers and Palestinian former detainees say troops have regularly forced captured Gazans to carry out life-threatening tasks, including inside Hamas tunnels.
-* Daron Acemoglu, Simon Johnson and James Robinson shared the award for their work on explaining the gaps in prosperity between nations.
-* Scientists fighting the spread of infectious diseases on the continent have been targeted online by pro-Russian activists, part of an effort to spread fear and mistrust of the West.
-* Scores of Chinese aircraft and dozens of ships surrounded Taiwan, after President Lai Ching-te rejected Beijing’s claim over the island.
-* With the strikes in the Odesa region, Russia appears to be trying again to prevent Ukraine from exporting grain, harming its economy and pushing up world prices.
-* Even as the conflict with Russia grinds on, a new generation of comics in Ukraine is trying to make people laugh — and raise money for the war effort.
-* The Times reviewed the minutes of 10 meetings among Hamas’s top leaders. The records show the militant group avoided several escalations since 2021 to falsely imply it had been deterred — while seeking Iranian support for a major attack.
-* The woman at the center of revelations of bacchanals at the former Italian prime minister’s villa is still fighting a court case, and a negative public image, 14 years later.
-* The activist Sonam Wangchuk is leading protests to demand more autonomy for India’s remote Ladakh region, which shares borders with China and Pakistan.
+* The Canadian police said the Indian government had orchestrated homicides and extortion in Canada to intimidate Sikh separatists. India, in return, kicked out Canadian diplomats.
+* The ruling sets the stage for yet another trial related to the scandal involving Silvio Berlusconi, the former prime minister of Italy who died last year.
+* Moscow’s forces have been recapturing some villages and land taken in a Ukrainian incursion into Russia. The advances could undermine Kyiv’s hopes of pushing Russia to the negotiating table.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The storm made landfall Wednesday evening, devastating an area still recovering from Hurricane Helene, which tore through Florida’s western coast two weeks ago.
+* William Jacob Parsons was arrested and charged in North Carolina after he was found with a handgun and a rifle at a supermarket where a federal aid vehicle was parked.
 * Weather experts say the spiraling falsehoods, especially claims that the government is creating or controlling storms, have gotten out of hand.
-* It is a reanimation story strange enough for a zombie movie, made possible by the fact that the original George trademark lapsed, only to be secured by a conservative lawyer.
-* The suit had accused the three women of wrongful death. It was part of a heated battle over the use of such pills in states with abortion bans.
-* The state’s legislative Black caucus have asked the attorney general and a county prosecutor to investigate Tom Barrett’s congressional campaign for potential voter disenfranchisement.
-* Defections from Black and Latino voters are making Kamala Harris more dependent on white, suburban voters — and complicating her path to victory.
-* The proposals include a new loan program and affordable banking options for entrepreneurs, apprenticeship and mentorship programs and expanded health screenings, too.
-* Conducting a poll isn’t an exact science. The process is susceptible to lots of common problems and baked-in biases — more than just the “margin of error.”
-* Mecklenburg County leans liberal but has broken Democrats’ hearts in past elections with low voter turnout. A new party leader wants to change that.
-* When the former president endorses violence and proposes using the government to attack his enemies, many of his supporters assume it’s just an act.
+* Several politicians and relatives, including her son Robert F. Kennedy Jr. and his wife, the actress Cheryl Hines, were in attendance.
+* Door County, Wis., has picked the presidential winner since 1996. Last time, the margin was 292 votes, so the campaigns are trying to reach every household.
+* A political nonprofit organization called Building America’s Future has raised and spent more than $100 million over the past four years.
+* Democrats have long won by wide margins in Detroit, but some party leaders said the vice president needed to do more to counter an assertive Trump campaign.
+* The former president’s sweeping immigration proposals face daunting challenges, but voters still trust his positions more than his opponent’s.
+* The sheer amount of money Kamala Harris has raised in her run for president has had unintended consequences.
+* It was a strange end to a Pennsylvania event that started with a Q&amp;A and ended after Donald Trump fired up his campaign playlist.
+* At a rally in Pennsylvania, in a swing county in a swing state, Vice President Kamala Harris played clips of Donald Trump describing critics as an “enemy from within,” drawing jeers from her crowd.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The appearance by Hanni, a member of NewJeans, was eagerly awaited, but she offered few revelations about her famously regimented industry.
+* The zoo partially closed after the deaths, which occurred over two days and included members of a critically endangered species.
+* The panda census methodology is widely seen as flawed, and China keeps the data shrouded in secrecy.
+* The diplomatic rift has suddenly grown more stark as Canada amplifies its accusations that India is directing lethal operations abroad.
+* Plus, an artist sues to reclaim his work.
 * Angry at what they view as China’s state-led xenophobia, taught in schools and prevalent online, some people are taking action, even at personal risk.
 * Assurances from government officials on plans to strengthen the private sector offset a lack of specifics about economic stimulus.
 * Scores of Chinese aircraft and dozens of ships surrounded Taiwan, after President Lai Ching-te rejected Beijing’s claim over the island.
 * Plus, 200,000 stories of Modern Love.
 * Japan has been trying to boost its fertility rate for 30 years. Now the rest of the rich world is, too.
-* The activist Sonam Wangchuk is leading protests to demand more autonomy for India’s remote Ladakh region, which shares borders with China and Pakistan.
-* When Sandy Irvine went on a pioneering expedition to Mount Everest’s summit in 1924, he and his partner vanished. The recent discovery may shed light on the ill-fated adventure.
-* “Whenever I get inspiration or feel something,” the “Pachinko” star said, “I go to my Notes app and write it down.”
-* They have become pampered family members in South Korea, which has the world’s lowest birthrate and where much of the population lives alone.
-* The finance minister said Beijing would sell bonds to supplement spending and help banks but did not detail how much.
 
 ![Asian](./asian.png)
