@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The attack on underground weapons facilities in areas of Yemen controlled by the Iranian-backed militia could also serve as a warning to Tehran.
+* President Biden congratulated Israel after the death of Yahya Sinwar and said he was sending the secretary of state to discuss plans for securing Gaza.
+* The killing of Hamas’s leader may allow Israel to claim victory and agree to a cease-fire, and new Hamas leadership could be more open to compromise. But neither side is likely to immediately change course.
+* The town of Mazan, where Gisèle Pelicot was drugged and raped by her husband and strangers, has been shaken by the revelations. “It feels a bit like it’s in our family,” one resident said.
+* Men who attended the Kyiv concert of a popular rock band had their papers checked on the way out. Some were detained. Tickets to subsequent shows suddenly became available.
+* The United States and its allies must work tirelessly, President Biden said, to “ensure that Ukraine prevails and Putin fails.”
+* The president’s hastily rescheduled trip to Berlin will last less than a day. The German government has trimmed back its celebrations accordingly.
+* The Justice Department has accused two Sudanese brothers of cyberattacks on U.S. infrastructure as well as preventing possibly lifesaving alerts from reaching Israelis as the Hamas attack unfolded.
+* New policies on surrogate births and the treatment of asylum seekers, while largely symbolic, are designed to shore up her right-wing flank in Italy, analysts say.
+* Gen. Abbas Kamel, a longtime confidant of Egypt’s president, oversaw the country’s most important international relationships and helped maintain the president’s authoritarian grip.
 * In the House of Mirrors, political captives were pushed to the brink of insanity and death. Some are telling their stories now that the woman who put them there, Sheikh Hasina, is gone.
-* Six were subsisting only on water and were admitted into the hospital after a multiday fast to demand justice for the brutal rape and killing of a medical resident.
-* Russia is behind a disinformation campaign in Moldova ahead of a presidential election and a referendum making E.U. membership a “strategic objective,” Moldovan officials and global media companies say.
-* Archaeologists have unearthed a richly decorated throne room and a “Hall of the Braided Serpents” from the Moche culture, with clues that a woman may have ruled there more than 1,300 years ago.
-* Kim Kwang-ho, the former head of the Seoul Metropolitan Police Agency, was the most senior official to face criminal charges over the 2022 disaster that killed 159 people.
-* The new law was pushed by the party of Giorgia Meloni, Italy’s conservative prime minister.
-* Schools, clubs and parks have become places of refuge as the displaced seek safety amid Israeli bombings.
-* The appointment of Thomas Tuchel to coach the England men’s national soccer team has provoked, well, some strong feelings.
-* China’s large-scale military exercises are encircling Taiwan and testing the island’s defenses. They also raise the risk of conflict, accidental or otherwise.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The settlement is the highest single payout by an archdiocese, experts said, and brings Los Angeles’s cumulative payout in sex abuse lawsuits to more than $1.5 billion.
-* The storm made landfall Wednesday evening, devastating an area still recovering from Hurricane Helene, which tore through Florida’s western coast two weeks ago.
-* The appeal filed on Tuesday disputes a judge’s ruling that six of the charges brought against Donald J. Trump and his allies in Georgia were not specific enough.
-* Robert Telles was sentenced to life in prison with the possibility of parole after 20 years for the murder of Jeff German. On Wednesday, a judge added eight years to that minimum.
-* An effort to revive and maximize use of the Public Service Loan Forgiveness program has resulted in student loan forgiveness for over one million people.
-* The Treasury secretary plans to criticize former President Donald J. Trump’s economic proposals in a speech.
-* As technology like doorbell cameras makes it easier to avoid unsolicited visitors, the Harris campaign is leaning on data-capturing apps to supplement the traditional work of canvassing.
-* Can you trust the polls this year? Kaleigh Rogers, a polling reporter at The New York Times, describes how pollsters have tried to fix past mistakes.
-* Future Forward has ascended to the top of the Democratic political universe, but it has also drawn suspicion and second-guessing.
-* Air Force B-2 bombers struck five underground weapons facilities in what may be a signal from the Biden administration to Iran.
+* Robert Roberson had been set to be executed on Thursday night for the death of his 2-year-old child. But after a bipartisan intervention by Texas lawmakers, the Supreme Court issued a stay.
+* Ashwin Ramaswami, a Democrat, was still in law school when he decided to run against State Senator Shawn Still, who was indicted with Donald Trump in the Georgia election interference case.
+* Ken Paxton, the attorney general, said it was the first enforcement action under a state ban on treatment.
+* The city relies on an army of case managers to help homeless people stay in motels and on the path toward finding an apartment.
+* From the geographic boundaries to the values and friendliness, people have debated what defines the region essentially since it was labeled the Midwest. It has taken on a renewed urgency this election year.
+* Barack and Michelle Obama will make their first campaign appearances alongside Kamala Harris at rallies in Georgia and Michigan.
+* Donald J. Trump has been talking up his economic record for Black voters. The legacy of the last eight years is complicated.
+* Donald J. Trump and Kamala Harris both delivered remarks, Ms. Harris via taped video and Mr. Trump in person in a ballroom in Manhattan.
+* Senator Jacky Rosen and her Republican challenger, Sam Brown, met for their only debate, focusing on the cost of living, abortion and other issues.
+* The billionaire is spending a fortune to support former President Donald J. Trump. But at a town hall event in Pennsylvania, he looked an awful lot like a politician himself.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* New data shows the challenges facing Chinese policymakers trying to stimulate an economy marked by falling prices, weak consumer spending and a housing market crash.
+* The United States and Canada have worked together to investigate what they say is the Indian government’s campaign against Sikh separatists.
+* David Lammy is set to meet China’s foreign minister in Beijing on Friday, in a trip the British government said would acknowledge “areas of contention as well as areas for cooperation.”
+* Plus, an interview with Hugh Grant.
+* Pentagon officials discuss whether the flow of assistance could be hurting the military’s ability to respond to a new conflict.
+* Fan was a megastar until 2018, when she was fined tens of millions of dollars over unpaid taxes and her career tanked. “Green Night” is her first film since the scandal.
 * Six were subsisting only on water and were admitted into the hospital after a multiday fast to demand justice for the brutal rape and killing of a medical resident.
 * Here are some basics from the Times investigation into Bangladesh’s secret military prison, the “House of Mirrors.”
 * In the House of Mirrors, political captives were pushed to the brink of insanity and death. Some are telling their stories now that the woman who put them there, Sheikh Hasina, is gone.
 * Kim Kwang-ho, the former head of the Seoul Metropolitan Police Agency, was the most senior official to face criminal charges over the 2022 disaster that killed 159 people.
-* Plus, the women of the world’s gnarliest mountain-bike competition.
-* Helping Russia in the war is an opportunity for North Korea to test its new weapons, and Ukrainian officials say the North’s troops are also gaining direct battle experience.
-* While observational flights have improved forecasts for many storms in the Americas, such flights have been far fewer for storms that have hit Asia.
-* China’s large-scale military exercises are encircling Taiwan and testing the island’s defenses. They also raise the risk of conflict, accidental or otherwise.
-* Plus, an investigation into China’s panda breeding program.
-* A motorcade through the capital revived “panda diplomacy” between Washington and Beijing for the first time in nearly a year.
 
 ![Asian](./asian.png)
