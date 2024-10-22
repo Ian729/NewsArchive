@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The Israeli military said it had conducted dozens of attacks overnight on the militia’s financial arm in Lebanon. Two top U.S. diplomats were working to calm Israel’s conflicts with Hezbollah and Hamas.
-* Mr. Gulen, who lived in self-imposed exile in the United States, was accused of plotting a failed coup against President Recep Tayyip Erdogan of Turkey in 2016.
-* The Sani family in northern Nigeria has six children, more than the parents can afford but fewer than their own parents had. Birthrates, and the decisions couples make about family size, are changing across Africa.
-* The trip by the U.S. defense secretary comes as Russian forces steadily gain territory in eastern Ukraine.
-* The Russian leader hopes to use the meeting of the so-called BRICS group, which includes China and India, as a counterweight to the West.
-* Supporters of the constitutional amendments said they would curb judicial activism. Critics said judicial independence had been damaged.
-* A video of Shaaban al-Dalou burning to death after an Israeli strike at a hospital has stoked criticism from Israel’s allies and highlighted the plight of people trapped in Gaza.
-* Before Hamas’s Oct. 7 attacks, Saudi Arabia was open to forging stronger ties with the Israelis. Now, a year into the war in Gaza, it is warming up to its traditional enemy, Iran.
-* American officials are trying to determine the source of the leak, which describes military drills and weapons placement, and how damaging it might be.
-* The role of chancellor at the University of Oxford has been around for 800 years. This year, a particularly broad range of people have applied.
+* The group said it had targeted a military base near the city, hours after Israeli attacks near Beirut. The U.S. secretary of state has meetings in Tel Aviv later on Tuesday.
+* Israel has decimated Hamas’s military wing, along with much of Gaza. But the group’s small-scale, hit-and-run approach poses a threat in the enclave’s north.
+* When a huge tract of land on the Somerset coast was deliberately flooded, the project was slammed as “ridiculous” by a local lawmaker. But the results have been transformative.
+* Four years ago, several soldiers from both sides were killed in a bloody melee. Any thaw between the countries could have global implications.
+* The drills were the latest show of force by China, which claims Taiwan as its territory and has protested Western support for the island.
+* President Recep Tayyip Erdogan and Fethullah Gulen, the powerful preacher who died this week, began as allies. But their falling out brought bloodshed and an Erdogan crackdown.
+* The former U.S. Marine describes the moment of his arrest and the long years waiting for his release.
+* The group, which seeks to rebalance the global order away from the West, will meet on Tuesday. Here’s a primer.
+* A referendum that constitutionally enshrines a national objective to join the E.U. passed by a thin margin. The incumbent pro-E.U. president won the most votes in a concurrent election, but faces a runoff.
+* A two-state solution remains the goal of the United States and the West, but many in the region say the devastation in Gaza and the lack of effective Palestinian leadership make it a remote prospect.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Investigators have begun looking for reasons behind the failure at a ferry dock on Sapelo Island, the site of a festival celebrating the heritage of descendants of enslaved people.
-* A write-in campaign appears to be Democrats’ only hope in a Georgia congressional district after a lawyer with extreme right-wing views won the party’s primary.
-* The Republican vice-presidential nominee is the only Catholic on either national ticket. His politics resonate with many white conservative Catholics.
-* Ashwin Ramaswami, a Democrat, was still in law school when he decided to run against State Senator Shawn Still, who was indicted with Donald Trump in the Georgia election interference case.
-* A House task force report included detailed accounts from law enforcement at the Butler, Pa., rally, including an officer who confronted the gunman.
-* A Georgetown law professor argues that five rulings by the justices in recent years have allowed behavior that is “sketchy as hell” and meant to make the judiciary look good by contrast.
-* Both campaigns are digging through troves of data to find these crucial Americans. They both think many are younger, Black or Latino. The Harris team is also eyeing white, college-educated women.
-* In the first presidential election since the Supreme Court overturned Roe v. Wade, Vice President Kamala Harris and former President Donald J. Trump bring sharply different records on abortion. Maggie Astor, a political reporter for The New York Times, describes where the candidates stand on the issue.
-* The new rules under the Affordable Care Act would include emergency contraception, a newly approved nonprescription birth control pill, spermicides and condoms.
-* A new court, a death penalty case and even the weather have contributed to the go-slow process at Guantánamo Bay.
+* The deaths of seven people on Sapelo Island have brought to the fore longstanding frustrations among its Gullah Geechee community.
+* As Kamala Harris toiled as a junior prosecutor in Alameda County, Calif., she developed important connections among San Francisco’s financial and social elite.
+* Disaster struck at the end of an annual cultural celebration on Sapelo Island. Twenty people went into the water, including seven people over the age of 70 who died.
+* Robert Roberson, whose execution was postponed last week, had been subpoenaed to appear before a committee of the State House. A juror from his trial says she now believes he is innocent.
+* In an interview, the Treasury secretary also highlighted progress at the World Bank and the International Monetary Fund ahead of annual meetings this week.
+* In a text message, Mitt Romney sounded down on the idea. John Bolton said his chances were “substantially less than zero.” Liz Cheney remained silent on the matter.
+* During JD Vance’s brief career as a venture capitalist, few startups attracted his support more than AppHarvest, a now bankrupt plan to build greenhouses across Appalachia.
+* In a nearly hourlong speech before a crowd that included evangelical leaders, he claimed that only he could protect Christian voters. He did not mention abortion once.
+* The family had filed a lawsuit against the Ohio city and its police department after Mr. Walker was fatally shot by eight police officers in 2022.
+* Since the pandemic, early voting has become a broadly accepted part of American elections. But it is difficult to glean partisan advantage.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Four years ago, several soldiers from both sides were killed in a bloody melee. Any thaw between the countries could have global implications.
+* In an interview, the Treasury secretary also highlighted progress at the World Bank and the International Monetary Fund ahead of annual meetings this week.
+* The alliance between Sara Duterte and President Ferdinand R. Marcos Jr., which brought two notorious dynasties together, has unraveled in spectacular fashion.
+* Scientists in Japan are mining DNA to try to make the country’s famous Koshihikari rice resistant to heat, after a broiling summer ravaged the crop.
+* The drills were the latest show of force by China, which claims Taiwan as its territory and has protested Western support for the island.
+* Forest City was an audacious $100 billion project by a top Chinese developer. Today, the project is a fraction of what had been planned and the developer is broke.
+* A Muslim protest leader has become a symbol of a wide-ranging clampdown on opponents of Prime Minister Narendra Modi’s government.
+* Plus, Aleksei Navalny’s memoir.
+* The move restores a “four pillar” government structure that divides top-level duties to avoid the rise of a single strongman.
 * Supporters of the constitutional amendments said they would curb judicial activism. Critics said judicial independence had been damaged.
-* Steps to bolster the economy have set off a stock buying frenzy. Our columnist spoke to Chinese investors about why they are jumping in knowing the risks.
-* Plus, the French town shaken by a rape trial.
-* Joko Widodo rose from a slum to the presidency. But with his tenure ending, he is being accused of undermining democracy by trying to install a political dynasty.
-* It was a major blow to the Everyman image cultivated by President Joko Widodo, who stepped down on Sunday.
-* Normally confidential contracts show that U.S. zoos are accepting increasingly strict terms governing panda cams and public statements.
-* An assailant tried to breach security at the office of the new prime minister, Shigeru Ishiba, the police in Tokyo said.
-* Four armed men shot and abducted a 26-year-old from Vermont in western Mindanao, the police said. He had been living in the area since May.
-* In both cases of plans targeting Sikh separatists, suspicions of New Delhi’s involvement have arisen. That has put India in a tight diplomatic position.
-* New data shows the challenges facing Chinese policymakers trying to stimulate an economy marked by falling prices, weak consumer spending and a housing market crash.
 
 ![Asian](./asian.png)
