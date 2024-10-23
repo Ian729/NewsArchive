@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The group said it had targeted a military base near the city, hours after Israeli attacks near Beirut. The U.S. secretary of state has meetings in Tel Aviv later on Tuesday.
+* Hashem Safieddine was widely seen as a potential successor to his cousin, Hassan Nasrallah, the armed group’s former leader whom Israel also killed in September. There was no immediate confirmation from Hezbollah.
+* The move, confirmed by a Pentagon official, is in line with a U.S. policy change aimed at shoring up Ukraine’s ability to fight the war against Russia with its own weapons.
 * Israel has decimated Hamas’s military wing, along with much of Gaza. But the group’s small-scale, hit-and-run approach poses a threat in the enclave’s north.
+* The Russian leader wants to cast himself as a global statesman, even as the U.S. and its Western allies try to isolate him.
 * When a huge tract of land on the Somerset coast was deliberately flooded, the project was slammed as “ridiculous” by a local lawmaker. But the results have been transformative.
+* The alliance between Sara Duterte and President Ferdinand R. Marcos Jr., which brought two notorious dynasties together, has unraveled in spectacular fashion.
+* Critics argue the pact legitimizes China’s control over church affairs, while defenders say it helps support Catholics faithful to the Vatican in the Communist country.
 * Four years ago, several soldiers from both sides were killed in a bloody melee. Any thaw between the countries could have global implications.
 * The drills were the latest show of force by China, which claims Taiwan as its territory and has protested Western support for the island.
 * President Recep Tayyip Erdogan and Fethullah Gulen, the powerful preacher who died this week, began as allies. But their falling out brought bloodshed and an Erdogan crackdown.
-* The former U.S. Marine describes the moment of his arrest and the long years waiting for his release.
-* The group, which seeks to rebalance the global order away from the West, will meet on Tuesday. Here’s a primer.
-* A referendum that constitutionally enshrines a national objective to join the E.U. passed by a thin margin. The incumbent pro-E.U. president won the most votes in a concurrent election, but faces a runoff.
-* A two-state solution remains the goal of the United States and the West, but many in the region say the devastation in Gaza and the lack of effective Palestinian leadership make it a remote prospect.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The deaths of seven people on Sapelo Island have brought to the fore longstanding frustrations among its Gullah Geechee community.
-* As Kamala Harris toiled as a junior prosecutor in Alameda County, Calif., she developed important connections among San Francisco’s financial and social elite.
-* Disaster struck at the end of an annual cultural celebration on Sapelo Island. Twenty people went into the water, including seven people over the age of 70 who died.
-* Robert Roberson, whose execution was postponed last week, had been subpoenaed to appear before a committee of the State House. A juror from his trial says she now believes he is innocent.
-* In an interview, the Treasury secretary also highlighted progress at the World Bank and the International Monetary Fund ahead of annual meetings this week.
-* In a text message, Mitt Romney sounded down on the idea. John Bolton said his chances were “substantially less than zero.” Liz Cheney remained silent on the matter.
-* During JD Vance’s brief career as a venture capitalist, few startups attracted his support more than AppHarvest, a now bankrupt plan to build greenhouses across Appalachia.
-* In a nearly hourlong speech before a crowd that included evangelical leaders, he claimed that only he could protect Christian voters. He did not mention abortion once.
-* The family had filed a lawsuit against the Ohio city and its police department after Mr. Walker was fatally shot by eight police officers in 2022.
-* Since the pandemic, early voting has become a broadly accepted part of American elections. But it is difficult to glean partisan advantage.
+* Universities have cracked down on professors for pro-Palestinian activism, saying they are protecting students and tamping down on hate speech. Faculty members say punishments have put a “chill in the air.”
+* Recklessness has characterized Mr. Robinson’s online persona, his personal life and his rocky campaign for governor in North Carolina.
+* A tightening in the polls for the Senate race, and millions from George Soros, has rekindled old hopes of turning Texas blue. But demographic changes alone may not be enough to flip the state, party organizers say.
+* Federal prosecutors said that Andrew Do, an Orange County supervisor, enriched himself and his family with federal pandemic aid meant for seniors.
+* What the soldiers are doing is “left to be seen,” the U.S. defense secretary said.
+* The issue is rarely directly addressed by either Vice President Kamala Harris or Donald Trump. But the 2024 contest is, in ways overt and subtle, a referendum on the role of women in American life.
+* A projected 5 percent drop in this year’s freshman class follows a number of disruptions last year, including persistent failures with the FAFSA form.
+* Donald Trump is escalating his attacks against Kamala Harris, turning more personal and derogatory, a pattern from his campaigns in 2016 and 2020.
+* The consumer review site temporarily disabled comments on the franchise’s page after the former president’s appearance prompted a flurry of reviews.
+* The two men railed against Donald Trump and urged voters to return their ballots early, as polls show a close race in the state.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* What the soldiers are doing is “left to be seen,” the U.S. defense secretary said.
+* Kyushu, often passed over by international visitors, is rich in crafts, history and culture. Here are four destinations to consider.
+* Thousands of people were evacuated from their homes as parts of the country experienced unprecedented flooding, the authorities said.
+* North Korea’s supply of munitions has already been critical to the Russian war effort. Now, there are growing fears that it is sending troops as well.
+* Tokyo Metro had raised over $2 billion in one of Japan’s largest initial public offerings in years.
+* Twenty years ago, a massacre in southern Thailand fueled an insurgency that has never stopped. If no one is prosecuted for it by Friday, no one ever will be.
+* Plus, saving Japan’s most popular rice.
+* The Russian leader wants to cast himself as a global statesman, even as the U.S. and its Western allies try to isolate him.
+* Lee Hsien Yang accused his brother, a former prime minister, of persecuting him politically, inflaming the feud in Singapore’s first family.
 * Four years ago, several soldiers from both sides were killed in a bloody melee. Any thaw between the countries could have global implications.
-* In an interview, the Treasury secretary also highlighted progress at the World Bank and the International Monetary Fund ahead of annual meetings this week.
-* The alliance between Sara Duterte and President Ferdinand R. Marcos Jr., which brought two notorious dynasties together, has unraveled in spectacular fashion.
-* Scientists in Japan are mining DNA to try to make the country’s famous Koshihikari rice resistant to heat, after a broiling summer ravaged the crop.
-* The drills were the latest show of force by China, which claims Taiwan as its territory and has protested Western support for the island.
-* Forest City was an audacious $100 billion project by a top Chinese developer. Today, the project is a fraction of what had been planned and the developer is broke.
-* A Muslim protest leader has become a symbol of a wide-ranging clampdown on opponents of Prime Minister Narendra Modi’s government.
-* Plus, Aleksei Navalny’s memoir.
-* The move restores a “four pillar” government structure that divides top-level duties to avoid the rise of a single strongman.
-* Supporters of the constitutional amendments said they would curb judicial activism. Critics said judicial independence had been damaged.
 
 ![Asian](./asian.png)
