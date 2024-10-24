@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Hashem Safieddine was widely seen as a potential successor to his cousin, Hassan Nasrallah, the armed group’s former leader whom Israel also killed in September. There was no immediate confirmation from Hezbollah.
-* The move, confirmed by a Pentagon official, is in line with a U.S. policy change aimed at shoring up Ukraine’s ability to fight the war against Russia with its own weapons.
-* Israel has decimated Hamas’s military wing, along with much of Gaza. But the group’s small-scale, hit-and-run approach poses a threat in the enclave’s north.
-* The Russian leader wants to cast himself as a global statesman, even as the U.S. and its Western allies try to isolate him.
-* When a huge tract of land on the Somerset coast was deliberately flooded, the project was slammed as “ridiculous” by a local lawmaker. But the results have been transformative.
-* The alliance between Sara Duterte and President Ferdinand R. Marcos Jr., which brought two notorious dynasties together, has unraveled in spectacular fashion.
-* Critics argue the pact legitimizes China’s control over church affairs, while defenders say it helps support Catholics faithful to the Vatican in the Communist country.
-* Four years ago, several soldiers from both sides were killed in a bloody melee. Any thaw between the countries could have global implications.
-* The drills were the latest show of force by China, which claims Taiwan as its territory and has protested Western support for the island.
-* President Recep Tayyip Erdogan and Fethullah Gulen, the powerful preacher who died this week, began as allies. But their falling out brought bloodshed and an Erdogan crackdown.
+* Secretary of State Antony J. Blinken sought to ease tensions on a visit to Israel, followed by a meeting with the Saudi crown prince in Riyadh. Israel is pressing on with its military campaigns in Lebanon and Gaza.
+* The two countries have been fighting a shadow war for years. But direct attacks are bringing direct reprisals, or at least plans for them.
+* Turkey’s interior minister said it was “most probably” the Kurdistan Worker’s Party that carried out the assault on the sprawling Turkish Aerospace Industries complex near Ankara.
+* A meeting between the two leaders comes just two days after they settled a tense border dispute in the Himalayas. But experts said their long-term geopolitical rivalry would persist.
+* A British court found that a man who called the 2017 attack at an Ariana Grande concert a “fake terrorist incident” had harassed victims and abused media freedom.
+* Defense Secretary Lloyd J. Austin III called the situation “very, very serious,” though he said that what the soldiers were doing in Russia was “left to be seen.”
+* Gisèle Pelicot’s ex-husband, Dominique Pelicot, is accused of inviting strangers to sexually assault her while she was drugged and unconscious. The trial has transformed how France discusses sexual violence.
+* North Korea’s supply of munitions has already been critical to the Russian war effort. Now, its troops appear to be poised to join the fight in Ukraine.
+* After a year of war, at least one million people are facing months in the cold. Some said tents, blankets and warm clothes now qualified as luxuries.
+* Twenty years ago, a massacre in southern Thailand fueled an insurgency that has never stopped. If no one is prosecuted for it by Friday, no one ever will be.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Universities have cracked down on professors for pro-Palestinian activism, saying they are protecting students and tamping down on hate speech. Faculty members say punishments have put a “chill in the air.”
-* Recklessness has characterized Mr. Robinson’s online persona, his personal life and his rocky campaign for governor in North Carolina.
-* A tightening in the polls for the Senate race, and millions from George Soros, has rekindled old hopes of turning Texas blue. But demographic changes alone may not be enough to flip the state, party organizers say.
-* Federal prosecutors said that Andrew Do, an Orange County supervisor, enriched himself and his family with federal pandemic aid meant for seniors.
-* What the soldiers are doing is “left to be seen,” the U.S. defense secretary said.
-* The issue is rarely directly addressed by either Vice President Kamala Harris or Donald Trump. But the 2024 contest is, in ways overt and subtle, a referendum on the role of women in American life.
-* A projected 5 percent drop in this year’s freshman class follows a number of disruptions last year, including persistent failures with the FAFSA form.
-* Donald Trump is escalating his attacks against Kamala Harris, turning more personal and derogatory, a pattern from his campaigns in 2016 and 2020.
-* The consumer review site temporarily disabled comments on the franchise’s page after the former president’s appearance prompted a flurry of reviews.
-* The two men railed against Donald Trump and urged voters to return their ballots early, as polls show a close race in the state.
+* Miguel Gomez, 21, leans Trump. His parents very much don’t. Their home is a miniature battleground, reflecting the fierce divides among Latino voters in Arizona.
+* Shawn Reilly, the mayor of Waukesha, Wis., said he had never thrown his support behind a Democrat before.
+* As Kamala Harris toiled as a junior prosecutor in Alameda County, Calif., she developed important connections among San Francisco’s financial and social elite.
+* Judges have vast influence over the biggest political questions. An analysis of President Biden and Donald J. Trump’s nominees found stark differences that could emerge again after November.
+* A national security memorandum detailed how agencies should streamline operations with artificial intelligence safely.
+* The veteran Michigan Republican called the former president “unfit to serve,” and said Vice President Kamala Harris would work to bring people together.
+* Facebook Marketplace, a platform often used for furniture and electronics, is an increasingly popular place to buy and sell home-cooked meals.
+* After an E. coli outbreak, McDonald’s stopped selling the Quarter Pounder in 12 states. The burger might take a hit for now, but its hold on customers will prevail, experts say.
+* With less than two weeks until Election Day, the richest person in the world is throwing himself into the effort to elect the former president.
+* Unions and their affiliates think they can still break through with the Democrats’ worst demographic, white working-class voters, by hustling on the ground. But it has been a slog.
 
 ![US](./usnews.png)
 ## New York Times Asia News
-* What the soldiers are doing is “left to be seen,” the U.S. defense secretary said.
-* Kyushu, often passed over by international visitors, is rich in crafts, history and culture. Here are four destinations to consider.
-* Thousands of people were evacuated from their homes as parts of the country experienced unprecedented flooding, the authorities said.
-* North Korea’s supply of munitions has already been critical to the Russian war effort. Now, there are growing fears that it is sending troops as well.
-* Tokyo Metro had raised over $2 billion in one of Japan’s largest initial public offerings in years.
-* Twenty years ago, a massacre in southern Thailand fueled an insurgency that has never stopped. If no one is prosecuted for it by Friday, no one ever will be.
-* Plus, saving Japan’s most popular rice.
-* The Russian leader wants to cast himself as a global statesman, even as the U.S. and its Western allies try to isolate him.
-* Lee Hsien Yang accused his brother, a former prime minister, of persecuting him politically, inflaming the feud in Singapore’s first family.
-* Four years ago, several soldiers from both sides were killed in a bloody melee. Any thaw between the countries could have global implications.
+* The North’s nuclear forces have been the focus of global concern. But its conventional military is vast and politically empowered — even if it is hobbled by shortages, corruption and isolation.
+* Mech Dara spent three weeks in detention after he was charged for posts he made online. He still faces a charge of “incitement to provoke social chaos.”
+* Sirajuddin Haqqani, who has a $10 million American bounty on his head, is now positioning himself as a figure of relative moderation.
+* Taliban officials have scored a series of diplomatic victories this year that have started a subtle shift toward normalizing their government.
+* Sirajuddin Haqqani has tried to remake himself from blood-soaked jihadist to pragmatic Taliban statesman. Western diplomats are shocked — and enticed.
+* “Black Box Diaries,” a documentary about Shiori Ito’s fight against Japan’s patriarchal justice system, opens on Friday in the United States.
+* European carriers are enduring higher costs because they have to avoid Russian airspace, while a sluggish economy and geopolitical tensions are hurting business travel to China.
+* Plus, the dark side of A.I. companionship apps.
+* North Korea’s decision to dispatch troops to help Russia subdue Ukraine may put another Kremlin ally, China, in a tough spot diplomatically.
+* The refugees, after weeks on a boat, will be able to disembark temporarily in a town in Indonesia, but residents have refused to let them stay.
 
 ![Asian](./asian.png)
