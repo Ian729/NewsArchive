@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Gaza’s health ministry reported that dozens of people had been killed in airstrikes in a residential area of Khan Younis, where Israel has said it is targeting Hamas.
+* Iran’s national air defense force said that Israel had struck sites in three provinces, including Tehran, causing “limited damage.”
+* Xi Jinping’s top adviser, Wang Huning, is credited with shaping the authoritarianism that steered China’s rise. But can he influence Taiwan?
+* The founder of the English Defence League, whose real name is Stephen Yaxley-Lennon, is at the forefront of a growing movement that was behind anti-immigrant riots this summer.
+* Voters cast ballots on Saturday in a parliamentary election that could derail the country’s pro-Western course.
+* Pope Francis has made clear that contentious issues like the ordination of women are not on his agenda, but that hasn’t stopped the demand for greater equality.
 * The small number of cancer patients from Gaza who are receiving care in Jordan’s capital, Amman, bear burdens beyond those of illness — deep feelings of guilt, along with fear and homesickness.
 * Tightly knit communities in Ontario and British Columbia have been rocked by violent events in the past 18 months. Now the authorities say the Indian government was behind them.
 * Sirajuddin Haqqani has tried to remake himself from blood-soaked jihadist to pragmatic Taliban statesman. Western diplomats are shocked — and enticed.
+* Military spending and recruitment are causing the country’s economy to overheat, leaving regulators in a struggle to rein in rising prices.
 * In Kurram, near the Afghan border, Pakistan has been helpless to stop the latest outbreaks of a sectarian conflict that goes back decades.
-* A parliamentary vote could decide whether the Caucasus nation will be oriented to the West or East for years to come. Here’s what to know.
-* Crime, child poverty and an aging population are top issues as voters in one of Latin America’s most stable democracies head to the polls on Sunday.
-* One of West Africa’s most tolerant societies has recently seen a string of assaults on L.G.B.T.Q. people after several social media influencers exhorted their followers to “hunt” gay men.
-* Recent gestures by Turkish leaders suggest the possibility of new peace talks with the group fighting for Kurdish autonomy.
-* Ms. Letby, a neonatal nurse in England found guilty of murdering seven babies, has lost a fresh appeal bid. A growing number of experts have raised concerns about the evidence.
 
 ![Global](./global.png)
 ## New York Times United States News
-* They hope the issue helps their candidates. But some voters may support Republican candidates as well as abortion-rights ballot measures.
-* Environmentalists and one of the world’s biggest oil companies support Washington State’s cap on carbon. But voters are deciding whether to repeal the law amid concerns about energy costs.
-* The request from George Gascón, the Los Angeles County district attorney, could lead to Lyle and Erik Menendez being released from prison, decades after they were convicted of murdering their parents.
-* The suit by the Justice Department was filed last month and laid out what investigators had learned about the ship’s short and catastrophic journey.
-* Appearing alongside a pop superstar and talking about abortion rights in a state with a strict ban, the vice president is hoping to deliver viral moments that will resound in faraway battlegrounds.
-* The electorate has rarely seemed so evenly divided. The latest New York Times/Siena College poll found Harris and Trump tied 48 to 48.
-* Proponents believe that having real money on the line, and a large crowd of investors, encourages a more accurate election forecast than polling data can provide.
-* Prosecutors said a 15-year-old killed his parents and three siblings, then tried to convince the authorities his brother was responsible.
-* With 12 days until Election Day, former President Donald J. Trump campaigned in Nevada and Arizona and sharpened his attacks on Vice President Kamala Harris about immigration.
-* Donald Trump has now raised $1 billion since announcing his run for president. And he has Elon Musk’s $119 million. But Kamala Harris has a huge cash advantage.
+* Activists on both sides say Trump could effectively ban abortion nationwide and establish fetal personhood, the longtime goal of the anti-abortion movement.
+* The two biggest cities in America have as many differences as similarities — including in public transportation, ballparks and payrolls
+* The endorsement has roiled Hamtramck, Mich., angering many in the Muslim community, as well as longtime residents who welcomed the newcomers.
+* Universities have cracked down on professors for pro-Palestinian activism, saying they are protecting students and tamping down on hate speech. Faculty members say punishments have put a “chill in the air.”
+* The former first lady, who is viewed warmly among some of the voters whom the Harris campaign is trying to reach, will appear alongside the vice president on Saturday in Michigan.
+* Policymakers brace for more protectionism and the demise of “neoliberalism” if Donald J. Trump is re-elected in the U.S.
+* Crypto. Big Oil. Tobacco. Vaping. The former president has been making overt promises to industry leaders, a level of explicitness rarely seen in modern presidential politics.
+* There are historical clues that pollsters and academics have been able to uncover, but it’s not a simple question to answer.
+* After two heat strokes and damaged kidneys, José Delgado remains stunned that Florida banned counties from enacting protections for outdoor workers.
+* Secretary of State Antony J. Blinken tried to get Prime Minister Benjamin Netanyahu of Israel to envision a U.S.-backed plan for ending the war in Gaza, but there was no sign of progress.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Already the dominant producer of rare minerals, Beijing is using export restrictions and its power over state-owned companies to further control access.
+* Xi Jinping’s top adviser, Wang Huning, is credited with shaping the authoritarianism that steered China’s rise. But can he influence Taiwan?
+* Thousands of soldiers from an elite unit of the Korean People’s Army began arriving on Wednesday and are expected to try to help expel Ukrainian forces from Russian territory.
+* Footage was filmed in the Russian Far East, which the United States says is hosting thousands of North Korean soldiers.
+* The targeting of the Republican presidential ticket’s phones is part of what appears to be a wide-ranging effort to gather information about American leaders.
+* At a meeting of emerging economies, Vladimir Putin positioned himself as a respected and powerful leader, ignoring the condemnation he receives from the West.
+* Joe Sheehan’s pieces, carved from stone, reflect his New Zealand heritage, as well as influences from around the world.
 * In Kurram, near the Afghan border, Pakistan has been helpless to stop the latest outbreaks of a sectarian conflict that goes back decades.
 * Plus, an interview with the Taliban’s most fearsome leader.
 * The move gives Kim Jong-un, the leader of North Korea, leverage to ask President Vladimir V. Putin of Russia for a lot in return.
-* With the storm forecast to make landfall by early Friday, residents in parts of West Bengal and Odisha States took shelter in thousands of camps.
-* The North’s nuclear forces have been the focus of global concern. But its conventional military is vast and empowered — even if it is hobbled by shortages, corruption and isolation.
-* Mech Dara spent three weeks in detention after he was charged for posts he made online. He still faces a charge of “incitement to provoke social chaos.”
-* Sirajuddin Haqqani, who has a $10 million American bounty on his head, is now positioning himself as a figure of relative moderation.
-* Taliban officials have scored a series of diplomatic victories this year that have started a subtle shift toward normalizing their government.
-* Sirajuddin Haqqani has tried to remake himself from blood-soaked jihadist to pragmatic Taliban statesman. Western diplomats are shocked — and enticed.
-* “Black Box Diaries,” a documentary about Shiori Ito’s fight against Japan’s patriarchal justice system, opens on Friday in the United States.
 
 ![Asian](./asian.png)
