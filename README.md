@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
+* The director of the C.I.A. was in Qatar for preliminary talks with Israeli officials aimed at reviving cease-fire negotiations with Hamas.
+* A once pivotal player has seen its influence become limited.
+* Cities in eastern and southern Ukraine are increasingly being hit by Russian glide bombs, converted gravity bombs that can be guided to targets, often landing without detection, residents and officials say.
+* Pluckley is said to count at least 12 spirits among its 1,000 residents. Come October, ghost hunters arrive in droves to a place where even nonbelievers concede they’ve had eerie encounters.
+* A violent attack on a Vietnamese fishing boat tests Hanoi’s muted but resolute approach to China’s aggression in the South China Sea.
+* Former President Rodrigo Duterte was defiant in Senate testimony about the years of bloodshed that left thousands dead. “I did it for my country,” he said.
+* Conservatives have often accused the Italian courts of overreach. The prime minister’s plan to outsource asylum requests is now part of that longstanding battle.
+* Yamandú Orsi, a center-left former mayor, finished first on Sunday but fell short of the 50 percent threshold needed to avoid another round of voting.
 * Russians in the area of Ukraine’s invasion have described seeing signs of violent encounters, as well as respectful treatment from Ukrainian troops.
 * The Italian authorities carried out a drill of their plan to save a half-million people from toxic fumes, deadly quakes or a full eruption. Vesuvius isn’t the volcano they’re worried about.
-* After a recent dam disaster, Nigerian officials blamed God, climate change and poor people. But experts had warned the dam was at risk well before it collapsed. The officials did nothing.
-* Ayatollah Khamenei, Iran’s supreme leader, appeared to strike a measured tone. He said Israel’s attack should not be “magnified or downplayed,” state media reported.
-* The storm made landfall near Danang on Sunday after leaving at least 80 people dead last week.
-* For Rome, the rare Christmas Eve rite of redemption is cause for celebration this year. For Bethlehem, it is another grim reminder of the generations of war and deprivation.
-* Crime, child poverty and an aging population are top issues as voters in one of Latin America’s most stable democracies head to the polls on Sunday.
-* Paramilitary forces ransacked villages and killed hundreds of people, activists said, hastening calls for the United Nations to deploy a mission to protect civilians.
-* Xi Jinping’s top adviser, Wang Huning, is credited with shaping the authoritarianism that steered China’s rise. But can he influence Taiwan?
-* A meeting four years in the making said the ordination of women required further study, but it called for women to have more leadership roles, even in seminaries.
 
 ![Global](./global.png)
 ## New York Times United States News
-* In Aliquippa, Pa., residents have long believed more in their high school football team than in many politicians. Can combining the two make a difference?
-* Democrats swept a school board election in Bucks County after Republicans instituted book bans and other changes. But the right-wing “parental rights” movement has left an indelible mark.
-* A ballot measure would do away with the requirement that high schoolers pass a test to graduate. Opponents say it could water down academics for struggling students.
-* After two heat strokes and damaged kidneys, José Delgado remains stunned that Florida banned counties from enacting protections for outdoor workers.
-* Sunday’s rally at Madison Square Garden, the self-styled “world’s most famous arena,” is a remarkable gambit, even by the former president’s standards — and a show of force.
-* Nearly half say it does not do a good job representing the people, and three-quarters say it is under threat, according to a Times/Siena poll.
-* Plenty of presidents have been called dictators by their political opponents, but none until now has been publicly accused of being a “fascist” by his own handpicked advisers.
-* Georgia has seen a flurry of activity underlining both parties’ recognition that, once again, the state is anyone’s to win.
-* If he wins the White House, Donald J. Trump, who has a sentencing hearing three weeks after Election Day, could disrupt or even dispose of the various cases he is facing.
-* After Aiden Clark was killed in a school bus accident in Springfield, Ohio, his death inspired conspiracy theories, campaign lies and  anti-immigrant hate. Now his family is the latest target.
+* Dozens of volunteer doctors, nurses and psychologists traveled to the region to treat people whose routines, including medical appointments, were disrupted by the storm.
+* Universities have cracked down on professors for pro-Palestinian activism, saying they are protecting students and tamping down on hate speech. Faculty members say punishments have put a “chill in the air.”
+* As Kamala Harris toiled as a junior prosecutor in Alameda County, Calif., she developed important connections among San Francisco’s financial and social elite.
+* Environmentalists and one of the world’s biggest oil companies support Washington State’s cap on carbon. But voters are deciding whether to repeal the law amid concerns about energy costs.
+* In Nebraska, Dan Osborn, an independent, is in a tight race with Senator Deb Fischer, and in Texas, Representative Colin Allred is four percentage points behind Senator Ted Cruz.
+* Local governments often face extra fees when employees get out-of-network medical care, but some don’t track the insurance charges or even know about them.
+* The inflammatory rally was a capstone for an increasingly aggrieved campaign for Donald Trump, whose rhetoric has grown darker and more menacing.
+* Her campaign moved swiftly to highlight that even as a speaker at Donald Trump’s rally in New York made offensive remarks about Puerto Rico and Latinos, she was visiting Puerto Rican voters in Philadelphia.
+* Donald J. Trump’s rally at Madison Square Garden began with warm-up speakers who made a litany of racist remarks, vulgar insults and profanity-laden comments.
+* Playing Madden football and Crazy Taxi, Mr. Walz discussed building coalitions and opposing the Senate’s filibuster with Ms. Ocasio-Cortez on Twitch.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Former President Rodrigo Duterte was defiant in Senate testimony about the years of bloodshed that left thousands dead. “I did it for my country,” he said.
+* State-controlled companies now run an industry once known for its acid pits, radioactive waste and smugglers.
+* A violent attack on a Vietnamese fishing boat tests Hanoi’s muted but resolute approach to China’s aggression in the South China Sea.
+* Plus, a long-lost Chopin waltz.
 * The storm made landfall near Danang on Sunday after leaving at least 80 people dead last week.
-* The Japanese electorate seemed poised to punish the Liberal Democrats, even if it does not go so far as to hand power to the opposition.
+* The Japanese electorate appeared to punish the Liberal Democrats, leaving it unclear whether the party would be forced to expand its coalition to stay in power.
 * A Hindu politician has accused his Christian predecessor of allowing a temple’s sanctity to be violated with an animal product.
 * Over the last month, North Korea’s role aiding Russia in its war in Ukraine has significantly escalated. U.S. officials reported that North Korean soldiers are already operating in the Kursk region in western Russia, where Ukrainian forces are staging a counteroffensive. Michael Shear, a White House correspondent for The New York Times, explains what the deeping relationship between Russia and North Korea means for the war in Ukraine and the world.
+* A group that experts call Salt Typhoon is believed to be behind a sophisticated breach of major telecommunication companies that has taken aim at American leaders.
 * Already the dominant producer of rare minerals, Beijing is using export restrictions and its power over state-owned companies to further control access.
-* Xi Jinping’s top adviser, Wang Huning, is credited with shaping the authoritarianism that steered China’s rise. But can he influence Taiwan?
-* Thousands of soldiers from an elite unit of the Korean People’s Army began arriving on Wednesday and are expected to try to help expel Ukrainian forces from Russian territory.
-* Footage was filmed in the Russian Far East, which the United States says is hosting thousands of North Korean soldiers.
-* The targeting of the Republican presidential ticket’s phones is part of what appears to be a wide-ranging effort to gather information about American leaders.
-* At a meeting of emerging economies, Vladimir Putin positioned himself as a respected and powerful leader, ignoring the condemnation he receives from the West.
 
 ![Asian](./asian.png)
