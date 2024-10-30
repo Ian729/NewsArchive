@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The Israeli military said it was looking into reports of the attack. The Palestinian Civil Defense, an emergency service, said at least 55 people were killed.
-* The Iran-backed Houthi militia has detained dozens of Yemenis linked to the U.S. Embassy or international organizations recently.
-* A muted response to Ukraine’s “victory plan” and steep challenges on the battlefield leave Kyiv searching for a Plan B.
+* Moscow is employing a variety of tactics, including torture and forced Russian citizenship, to try to obliterate Ukrainian identity, former detainees and human rights groups say.
+* In Ukraine, where war feels omnipresent, music is helping lift spirits and raise money for the military.
+* Israel’s military warned civilians to leave Baalbek in the Bekaa Valley via three routes. The city had largely been spared Israeli bombardment until this week.
+* Saudi Arabia and its Gulf neighbors are seeking to reassure foreign investors that it’s still safe to do business amid the turmoil around the Mideast.
+* More than 1,000 soldiers from Spain’s emergency response units have been deployed and the death toll is expected to rise from one of the worst natural disasters to hit the country in recent years.
+* The party that has governed the country since 1966 could lose power as the economy struggles from a slump in demand for diamonds, which made Botswana an African success story.
+* The storm prompted closures and raised the risk of landslides as it approached the island. It was expected to hit as the equivalent of a Category 4 hurricane.
+* Last year, the Shanghai government said Halloween celebrations were a sign of “cultural tolerance.” This year, the police rounded up people in costume.
+* When the government effectively forced TikTok to shut down its Shop feature, the company quickly struck an unusual deal with a local company to bring it back.
 * The band, Varihnaz, has gained fans by offering an alternative to China’s hyper-polished, fast-paced modern life, with songs about pesticides and poultry raising.
-* Authorities use satellites to track deforestation caused by chain saws or fire. Now criminals are using chemicals to degrade trees — and evade detection.
-* Cities in eastern and southern Ukraine are increasingly being hit by Russian glide bombs, converted gravity bombs that can be guided to targets, often landing without detection, residents and officials say.
-* Several thousand North Korean soldiers have arrived in Russia’s western Kursk region, where they are expected to support Moscow’s efforts to dislodge invading Ukrainian forces.
-* The French movie star’s lawyer said poor health kept his client from court on Monday.
-* Conservatives in the country have often accused the courts of overreach. Prime Minister Giorgia Meloni’s plan to outsource asylum requests is now part of that longstanding battle.
-* Pluckley is said to count at least 12 spirits among its 1,000 residents. Come October, ghost hunters arrive in droves to a place where even nonbelievers concede they’ve had eerie encounters.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Mr. Bannon, one of the most influential voices in hard-right American politics, predicted a legal battle after Election Day that could last weeks or months.
-* The New York Times unearthed transcripts from Kamala Harris’s years as a prosecutor. Her approach during trials offers hints about how she will make her final case to voters.
-* Seven years after a Trump policy ruptured his family and landed him in foster care, José is a star student. But he is still scarred. “I don’t trust anyone.”
-* Once a top presidential battleground, Florida is no longer competitive. Democrats made a series of missteps, and demographic changes helped Republicans.
-* Sales of Nerds have greatly increased in recent years, the company says. The secret? A multicolored orb.
-* With business ties to foreign governments and holdings in industries overseen by federal regulators, Donald Trump would likely be the most conflicted president in U.S. history.
-* After months of ignoring Snapchat, Donald Trump’s campaign has begun using the platform, urging people to vote by promoting a viral clip of him flashing a thumbs-up at a somber memorial service.
-* The island’s Catholic archbishop also wrote a letter to Donald Trump condemning a racist comedy routine during his Madison Square Garden rally.
-* At a rally in Atlanta, Donald Trump called the former first lady a “hater,” in response to her comments saying he had displayed “erratic behavior” and “obvious mental decline.”
-* In former President Donald J. Trump’s third campaign for the White House, his speeches have grown coarser and coarser.
+* The police said they had not determined a motive for the arson fires in Portland, Ore., and Vancouver, Wash. But the messages have heightened the sensitivity of the investigation.
+* David DePape broke into the San Francisco home of Nancy Pelosi, the former speaker of the House, in 2022 and beat her husband with a hammer.
+* Ms. Willis spoke of the fear she felt after a man made “vile” calls targeting her and another Black official in Georgia. The man was sentenced to almost two years in prison.
+* Mr. Bannon, the combative right-wing strategist, said if Trump’s vote totals on Election Day look like 2020, he should once again declare himself the winner.
+* Kamala Harris, in her closing argument to voters, acknowledged an inescapable political reality: Donald Trump is not a fringe figure within his own party or the nation.
+* The clerk had said he wanted to count votes by hand, as Trump-aligned activists push misinformation about problems with voting machines.
+* The ads seeking to define Donald Trump as “unhinged, unstable, unchecked” are running in smaller suburban newspapers.
+* Marc Elias, hired to help Kamala Harris in election-related fights, helped to pave the way for big money in politics.
+* Within minutes of the clip of President Biden’s remarks going viral, the Trump campaign and others were using it to attack Kamala Harris and Democrats.
+* In a posting on social media, President Biden said he was talking about racist language, not Trump supporters.
 
 ![US](./usnews.png)
 ## New York Times Asia News
-* The band, Varihnaz, has gained fans by offering an alternative to China’s hyper-polished, fast-paced modern life, with songs about pesticides and poultry raising.
-* Plus, the “Ketamine Queen.”
-* The presidential candidate’s mother, Shyamala Gopalan Harris, was a breast cancer researcher whose egalitarian politics often bucked a patriarchal lab culture.
-* The long-ruling Liberal Democratic Party has lost its parliamentary majority, raising questions about the policy stability that has lured investors.
-* Deep-seated grievance among Japanese voters has put the Liberal Democrats, longstanding custodians of the status quo, on notice.
-* Former President Rodrigo Duterte was defiant in Senate testimony about the years of bloodshed that left thousands dead. “I did it for my country,” he said.
-* State-controlled companies now run an industry once known for its acid pits, radioactive waste and smugglers.
-* A violent attack on a Vietnamese fishing boat tests Hanoi’s muted but resolute approach to China’s aggression in the South China Sea.
-* Plus, a long-lost Chopin waltz.
-* The storm made landfall near Danang on Sunday after leaving at least 80 people dead last week.
+* Recent earth science developments suggest that how we count our planet’s largest land masses is less clear than we learned in school.
+* The storm prompted closures and raised the risk of landslides as it approached the island. It was expected to hit as the equivalent of a Category 4 hurricane.
+* Spain is forging a path as a “connector” country, drawing Chinese investment as it abstained from taking a position on European tariffs on electric cars.
+* When TikTok needed an e-commerce partner in Indonesia, Tokopedia was an obvious candidate for the vast network of warehouses, motorbikes and “sprinters” it uses.
+* When the government effectively forced TikTok to shut down its Shop feature, the company quickly struck an unusual deal with a local company to bring it back.
+* Last year, the Shanghai government said Halloween celebrations were a sign of “cultural tolerance.” This year, the police rounded up people in costume.
+* Plus, what happened to repatriated art in Benin.
+* Phones used by Jared Kushner and Eric Trump were among those that hackers sought access to as part of a counterintelligence effort carried out by a hacking group associated with China.
+* The U.S. government has tried to keep Chinese companies from obtaining certain advanced technologies, but concerns have been growing that some products may have been routed to Huawei.
+* The big and cumbersome Army is trying to transform itself to deploy quickly to Asia, if needed. It is an inherently dangerous business.
 
 ![Asian](./asian.png)
