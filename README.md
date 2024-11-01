@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* At least 95 people have died, and others are still missing, though how many remains unclear. Rescuers feared finding more bodies, the defense minister said.
-* William Burns, the C.I.A. director, is making a last-ditch attempt to move Gaza talks along before U.S. elections next week.
-* Comedy has become a way for women to skewer China’s gender inequality. Some men aren’t happy about it.
-* The storm was the most powerful tropical cyclone to hit Taiwan in nearly 30 years, the government said. At least one person was killed on Thursday.
-* Moscow is employing a variety of tactics, including torture and forced Russian citizenship, to try to obliterate Ukrainian identity, former detainees and human rights groups say.
-* A Greek researcher says a piece of purple-and-white fabric discovered decades ago in a tomb in northern Greece may have belonged to Alexander. Others disagree.
-* Airstrikes on Monday targeted people who the military said were senior leaders of the group, which has sharply stepped up its attacks in Iraq and Syria.
-* Saudi Arabia and its Gulf neighbors are seeking to reassure foreign investors that it’s still safe to do business amid the turmoil around the Mideast.
-* Dozens of people were killed after the downpour, which some residents said was the worst they had ever witnessed.
-* In Ukraine, where war feels omnipresent, music is helping lift spirits and raise money for the military.
+* Rescuers in Paiporta, where more than 60 people died, were still pulling bodies from the mud. “We are alive,” a resident said. “But we have lost everything.”
+* Flash flooding across Spain killed more than 150 people after torrential rain left towns and villages submerged and turned streets into rivers.
+* After more than a year of war, farmers have lost land, equipment and sometimes their lives.
+* After Sheynnis Palacios won the Miss Universe title, her country’s government arrested the family members of the Miss Nicaragua contest director, and she hasn’t returned home since.
+* Human rights watchdogs say Azerbaijan is in the midst of a vicious campaign of repression. But in global geopolitics, this energy-rich Caucasus country now has a lot of leverage.
+* The Russian mercenary group operated with little pushback in the West African nation — until it launched one of its most ambitious missions.
+* After nearly 60 years, the Botswana Democratic Party lost its majority in Parliament, becoming the latest long-dominant party in southern Africa to fall from power.
+* A confrontation between the judiciary and the governing party will test Claudia Sheinbaum’s leadership and offer a window into how she will wield power.
+* It was unclear how or when Iran plans to respond, or whether the rhetoric could be bluster. Iranian officials had downplayed the damage of Israel’s last attack.
+* The launch, into waters west of Japan, came shortly after the United States and South Korea criticized the North for sending troops to join Russia’s war.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Both sides are trying to make their opponents sound extreme. Here is what studies and data show about when and why abortions happen later in pregnancy.
-* Donald Trump has a particularly fraught history with his party in Georgia. Some Republicans described their calculus in deciding whether to back him.
+* Messages among leaders at Harvard and other universities, published by House Republicans, reveal discussions on how to balance public statements about the war and how to negotiate with protesters.
+* Most Americans live in political bubbles, but not residents of this swing-state community, where President Biden won in 2020 by six votes.
 * Universities have cracked down on professors for pro-Palestinian activism, saying they are protecting students and tamping down on hate speech. Faculty members say punishments have put a “chill in the air.”
-* Polling place monitors have long provided oversight to elections. But this year, many are there to provide documentation for Donald J. Trump’s claims of fraud.
-* Skewed polls and anonymous betting markets are building up Republicans’ expectations. Donald Trump could use that to challenge the result.
-* The Vermont senator’s appearances on the trail to support Vice President Kamala Harris stand in stark contrast to her optimistic message.
-* London Breed is pointing to her difficult childhood as a reason she should win another term. Her opponents say her track record tells a different story.
-* Polls show Donald Trump is already facing a significant deficit with female voters in his race against Vice President Kamala Harris.
-* Prosecutors said that the “kingpin,” a high school basketball coach in Houston, had helped educators fraudulently pass more than 400 tests.
-* The disavowal of the former president reflects the damage inflicted by racist remarks against Puerto Rico and Latinos at a recent rally at Madison Square Garden.
+* John Carney of Delaware is set to become the first sitting governor to be elected a mayor. In some ways, he says, “it’s a step up.”
+* In the former president’s pitch to voters, historians hear echoes of the nation’s inescapable xenophobic history.
+* Riverside County, Calif., reported its highest detainee death count in decades, including multiple suicides that reveal deep institutional problems.
+* Troubling patterns across the Riverside County jail system put detainees at risk.
+* In an onstage interview in Arizona with Tucker Carlson, former President Donald J. Trump slammed a top Republican critic as he criticized U.S. involvement in foreign conflicts.
+* Travis John Branson was part of a conspiracy that killed 3,600 birds, prosecutors said. He also trafficked and sold bird parts on the black market.
+* Appearing on Joe Rogan’s podcast, Senator JD Vance also said that liberal women celebrate their abortions and that Donald Trump would win the “normal gay guy vote.”
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Communities that suffered the worst of plant closings in recent decades are now gaining an outsize share of fresh investment and new jobs.
+* Leading Republican politicians and lax social media controls have contributed to a proliferation of hate rhetoric and anti-immigrant sentiment.
+* The government, its makeup in flux after the governing party lost seats this week, will soon need to make decisions that will shape Japan’s future nuclear policy.
+* A second Donald J. Trump presidency would almost certainly mark a return to an era of foreign policy decrees, untethered to any policy process, at a moment of maximum international peril.
+* Plus, Japan's passion for the World Series.
+* American agencies have assessed that China dislikes the growing partnership between Russia and North Korea. The State Department has raised the troop issue with Chinese diplomats.
 * Shohei Ohtani, the Dodgers’ superstar, drove massive interest for the World Series in Japan, where more than 15 million people watched each of the first two games.
 * Comedy has become a way for women to skewer China’s gender inequality. Some men aren’t happy about it.
 * A brutal price war, sudden shifts in consumer demand and human rights issues in Xinjiang have left VW stumbling in a market it led for 40 years.
 * The launch, into waters west of Japan, came shortly after the United States and South Korea criticized the North for sending troops to join Russia’s war.
-* The storm was the most powerful tropical cyclone to hit Taiwan in nearly 30 years, the government said. At least one person was killed on Thursday.
-* Plus, what too much sugar does to your body.
-* His Pulitzer Prize-nominated history of the war was warmly received by the Pentagon, but rejected elsewhere for ignoring what many said made the war “unwinnable.”
-* Recent earth science developments suggest that how we count our planet’s largest land masses is less clear than we learned in school.
-* The storm prompted closures and raised the risk of landslides as it approached the island. It was expected to hit as the equivalent of a Category 4 hurricane.
-* Spain is forging a path as a “connector” country, drawing Chinese investment as it abstained from taking a position on European tariffs on electric cars.
 
 ![Asian](./asian.png)
