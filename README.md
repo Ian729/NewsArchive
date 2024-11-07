@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Tens of thousands of U.S. citizens live in the Israeli-occupied territory, on opposing sides of an entrenched conflict, where neither Palestinians nor Israelis have much enthusiasm for Kamala Harris.
-* Russian officials feel disrespected by the Democrats and betrayed by Donald J. Trump, who lavished praise on President Vladimir V. Putin but made decisions the Kremlin saw as benefiting Ukraine.
+* Donald J. Trump has said he would transform America’s relationship with allies and adversaries. He has pledged to end the war in Ukraine in 24 hours, increase tariffs and deport millions.
+* As U.S. president, Donald J. Trump will inherit a role as Ukraine’s chief benefactor. But he has been skeptical about continuing aid to Kyiv.
+* Prime Minister Benjamin Netanyahu’s dismissal of Yoav Gallant was seen as a risky step as Israel fights wars on two fronts. Opposition leaders said the move put national security at risk.
+* Tariffs, border crossings, mass deportations of migrants and military strikes on cartels: Mexico is in the firing line of the president-elect.
+* There is a belief in Prime Minister Benjamin Netanyahu’s right-wing Israeli government that a Trump administration will allow it to end its wars on favorable terms.
+* Yoav Gallant, the departing defense minister, opposed Prime Minister Benjamin Netanyahu on key policies. His dismissal has stirred public discontent.
 * The government says the city’s smallest apartments need more regulation. For some of Hong Kong’s poorest, that could mean higher rents or even eviction.
-* American politics have not been topmost in the minds of Gazans. “We only need one thing: for this war to come to an end,” one man said.
+* After months of disputes, Chancellor Olaf Scholz ousted one of his governing partners, adding to the challenges for Europe since Donald Trump’s election.
 * Kemi Badenoch’s ascent is partly the result of a deliberate diversifying of the party under David Cameron in the 2000s. In her politics, she exemplifies its more recent rightward turn.
 * Western officials are investigating whether devices planted at shipping hubs in Europe may have been a test run by Russian operatives for placing them on planes bound for the U.S.
-* The minister, Yoav Gallant, differed with Prime Minister Benjamin Netanyahu over the conduct of the war in Gaza and domestic political issues.
-* Dozens of teenagers had been accused of treason and faced possible death sentences, but indignation over their treatment, including lack of food, has the government backpedaling.
-* The military said the attacks were meant to reduce the transfer of weapons and intelligence from Iran through Syria to Hezbollah, the armed group in Lebanon.
-* Simon Harris, Ireland’s prime minister, said Tuesday that he would dissolve Parliament later this week, setting the stage for a general election by the end of the month.
 
 ![Global](./global.png)
 ## New York Times United States News
-* A competing ballot amendment, which would have established a right to abortion until fetal viability, failed to win more votes.
-* The two police officers, who are white, held down the man, who was Black, for seven minutes as he told them he could not breathe.
-* Graceann Toberman has been counting the votes in her Wisconsin town of 734 people for decades. “I try not to be in a mad dash,” she says.
-* Activists on both sides say Trump could effectively ban abortion nationwide and establish fetal personhood, the longtime goal of the anti-abortion movement.
-* The measure establishes an explicit right to abortion in the State Constitution.
-* This was a conquering of the nation not by force but with a permission slip. Now, America stands on the precipice of an authoritarian style of governance never before seen in its 248-year history.
-* After the Jan. 6 attack on the Capitol, even many Republicans believed the former president’s political career was over. He proved everyone wrong.
-* America’s democracy will again be put the test, and its government will veer sharply to the right. Kamala Harris and Democrats were dealt stunning defeats across the country.
-* Mr. Vance’s victory caps his ideological reversal from anti-Trump author to pro-Trump senator.
-* The candidates had fought hard for Wisconsin. In 2020, Joe Biden narrowly won the state.
+* Voters across party lines shifted to the right on immigration. They blamed Biden-Harris for failing to control the chaotic border.
+* In more than 200 interviews, voters worried not about an endangered country, but about paying rent.
+* Firefighters were working on Wednesday to contain fires in Ventura and Los Angeles Counties amid dangerous weather conditions.
+* A man with autism, his devoted mother and a seemingly endless race. A story of resilience and love.
+* The Republicans’ election dominance carried into state legislatures, where the party made gains in Minnesota, Michigan, Pennsylvania and Vermont. Democrats, though, broke the G.O.P. supermajority in North Carolina.
+* He made one essential bet: that his grievances would become the grievances of the MAGA movement, and then the G.O.P., and then more than half the country. It paid off.
+* Kamala Harris’s resounding defeat affirmed the worst of what many Black women believed about their country, even as some looked to the future with a wary determination.
+* The campaign season has been draining for not just the candidates, but also for many voters. Some are recharging by taking a trip abroad.
+* After supporting Joe Biden in 2020, the majority-Arab American city outside Detroit delivered an unlikely win for Donald Trump, who promised to bring peace to the Middle East.
+* The president-elect could reshape government and may dramatically transform foreign and domestic policy in a second term.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Beijing is expecting more volatility and competition with the United States, though a lackluster economy may limit China’s options for pushing back.
+* Shinzo Abe, then the prime minister of Japan, succeeded in making friends with Mr. Trump through golf, entertainment and appealing to his vanity.
+* The Japanese automaker is carving out its global operations as it struggles with a steep drop in sales.
+* The order, which will allow people to still use the app, cited concerns about TikTok’s owner, the Chinese tech giant ByteDance.
+* More than 160,000 people have been evacuated to prepare for the tropical cyclone.
+* The authorities in Lahore, home to 13 million people and the country’s second-biggest city, have told half the work force to stay home.
+* Plus, what to expect from his foreign policy.
+* Working with a group of talented collaborators, Eikoh Hosoe redefined what it meant to be a photographer.
+* Donald J. Trump has said he would transform America’s relationship with allies and adversaries. He has pledged to end the war in Ukraine in 24 hours, increase tariffs and deport millions.
 * Cheap flights. Fewer crowds. November can be one of the most affordable months for international travel, and travelers can still snag a choice deal.
-* Mount Fuji, the country’s tallest summit, is revered for its snowy peak. A snowfall reported on Wednesday ended its longest snowless period in 130 years.
-* Bitcoin hit a record, the dollar strengthened and stocks around the world rose as former President Donald J. Trump approached victory.
-* An anxious wait begins.
-* Scientists in Japan constructed the first satellite made of wood by blending age-old woodworking techniques with rocket science.
-* The government says the city’s smallest apartments need more regulation. For some of Hong Kong’s poorest, that could mean higher rents or even eviction.
-* Plus, remembering Quincy Jones.
-* The city of Lahore reported hazardous levels of air pollution on Sunday. Pakistani officials have blamed India for some of it.
-* When the housing market was flying high, mortgage defaults were almost nonexistent. But now the legal system is struggling to keep up with evictions.
-* The authorities warned of more volcanic activity at Mount Lewotobi Laki-laki, which has erupted dozens of times in the past few weeks.
 
 ![Asian](./asian.png)
