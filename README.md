@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
+* The move comes just before a Biden administration deadline for Israel to deliver more aid to the enclave or risk a cutoff of military supplies.
+* A day after the prime minister of Haiti was fired, the airport in Port-au-Prince was closed because of the attack on the aircraft. A JetBlue plane was also struck.
+* An independent report last week said that Justin Welby, the archbishop of Canterbury, took insufficient action after learning of alleged abuse decades ago at Christian summer camps.
+* Some in Iran’s new, more moderate government think the result of the presidential election provides an opportunity to make a lasting deal with the United States.
+* The widespread orders across southern Lebanon came amid what appeared to be intensifying efforts to reach a cease-fire.
+* Hundreds of thousands of Syrians who escaped civil war at home over the past decade have now fled the conflict in Lebanon, seeking safety in their own shattered country.
+* Leaders from across the Arab and Muslim world were in Riyadh for a meeting officially convened to discuss the fighting in Gaza and Lebanon.
+* Benjamin Netanyahu, the Israeli prime minister, is on trial for bribery and fraud. Now he wants to delay giving testimony.
+* Making the impromptu five-hour ride between two Chinese cities became a craze among young people. But as their numbers swelled, the authorities shut it down.
 * Antisemitic assaults on visiting Israeli soccer fans, and incendiary chants and attacks by some Israelis: Here’s what we know so far about the violence in Amsterdam last week.
-* The president-elect’s call for Taiwan to spend more on its own defense and his complaints about its semiconductor dominance may herald a tenser relationship.
-* The kingdom, which has been accused of trying to “sportswash” its human rights record, hosted the WTA Finals, part of its unstoppable advance into the world of sports.
-* Internal political squabbles — and the fallout from a global backlash to inflation, immigration and ruling elites — are hobbling Germany and France.
-* The strike hit a house in the city of Jabaliya, which has repeatedly come under attack as the Israeli military has pressed an offensive in northern Gaza.
-* The Palestinian leader Mahmoud Abbas has met with Tiffany Trump’s father-in-law and written conciliatory letters to the president-elect, a strong supporter of Israel.
-* The strike in the Jbeil district of Lebanon came amid an apparent diplomatic push for a cease-fire between Israel and Hezbollah.
-* Officials said more than 30 drones had been intercepted over suburban areas of the Russian capital in what was the biggest such attack since the invasion of Ukraine in 2022.
-* Neither jail nor exile to Hong Kong has stopped Han Dongfang, a former Tiananmen Square protest leader, from championing workers’ rights. “If you’re born stubborn, you go everywhere stubborn.”
-* Ukrainian officials expect a counteroffensive in western Russia to begin in the coming days as North Korea’s troops train with Russian forces.
 
 ![Global](./global.png)
 ## New York Times United States News
-* A man with autism, his devoted mother and a seemingly endless race. A story of resilience and love.
-* Nearly eight years after the first challenges to his immigration policies, Donald Trump is returning to the White House promising a more aggressive crackdown.
-* The agency said it was investigating the incident in the aftermath of the Category 3 hurricane that hit Florida in October.
-* After the Mountain fire ballooned to more than 20,000 acres in less than 24 hours, improving weather conditions helped crews contain more of the blaze on Saturday.
+* Nine of the 16 races that will determine which party controls the House of Representatives are in California. No state takes longer to tally votes.
 * Jeremiah P. Mahoney had been missing in action since 1945. His remains will be interred in Arlington National Cemetery in 2025.
-* From its founding nearly a century ago, LULAC encouraged Hispanic people to embrace American identity even as it fought discrimination. The 2024 election result presents a dilemma on both fronts.
-* Mr. Homan, a senior immigration official in the last Trump administration, has said that workplace raids would restart under the new government.
-* The judge asked defense and prosecution lawyers to settle on a date for the accused mastermind of the terrorist attacks to plead guilty.
-* The shooting, which wounded 12 people, happened early on Sunday as crowds gathered at the historically Black school to celebrate the final day of its 100th homecoming week.
-* Senators Rick Scott, John Thune and John Cornyn quickly responded to President-elect Donald J. Trump’s demand on social media, the latest example of his influence over Republican lawmakers.
+* A man with autism, his devoted mother and a seemingly endless race. A story of resilience and love.
+* Cleo Fields, a longtime Baton Rouge politician, won more than 50 percent of the vote in an open primary, negating the need for a runoff.
+* Kamala Harris would have been the first female president in the nation’s nearly 250-year history. But many women chose Donald Trump, despite his history of sexism and his support for the end of Roe v. Wade.
+* Chuck and Cathie Baldwin were caught in a flash flood as they drove to the polls. Known as “proud hippies,” they hosted a musical festival called Chuckstock on their Missouri farm.
+* Kamala Harris’s defeat is personal for Representative Barbara Lee, a California Democrat retiring this year. But after five decades in the fight, she says she is undaunted.
+* The pounding that sailors’ brains take from years of high-speed wave-slamming in the Special Boat Teams can cause symptoms that wreck their careers — and their lives.
+* The Democratic congressman had led Ms. Lake, a former television anchor and bombastic Trump ally, in most polls.
+* Advisers to the president-elect, who already has a strong hold on congressional Republicans, want him to tighten his grip by torpedoing the bid of the establishment front-runner for the post.
 
 ![US](./usnews.png)
 ## New York Times Asia News
-* Parliament voted Monday to stick with Ishiba, who will lead a minority government after his party suffered heavy losses in an election last month.
+* China’s economic downturn has not been kind to the ultrarich who made their wealth on its rise. In their haste to cough up cash, Hong Kong’s luxury property market has had some fire sales.
+* If you’re visiting the city-state, here’s where you can see some of the most vivid Peranakan designs, including decorative tiles, beaded shoes, embroidery and jewelry.
+* Hanako Okada was one of 73 women to win seats at the general election last month, a record number in a Parliament long dominated by men.
+* Plus, West African fine dining.
+* Parliament voted Monday to stick with Mr. Ishiba, who will lead a minority government after his party suffered heavy losses in an election last month.
 * A new HBO documentary about opposition to autocrats says a lot about the complex politics the president-elect inspires for people fleeing countries.
 * Making the impromptu five-hour ride between two Chinese cities became a craze among young people. But as their numbers swelled, the authorities shut it down.
 * Donald J. Trump’s second term brings uncertainty to the Korean Peninsula as nuclear tensions run high. North Korea’s leader may see a chance to re-engage.
 * Plus, does tech make us feel lonely?
 * Ukrainian officials expect a counteroffensive in western Russia to begin in the coming days as North Korea’s troops train with Russian forces.
-* Neither jail nor exile to Hong Kong has stopped Han Dongfang, a former Tiananmen Square protest leader, from championing workers’ rights. “If you’re born stubborn, you go everywhere stubborn.”
-* The president-elect’s call for Taiwan to spend more on its own defense and his complaints about its semiconductor dominance may herald a tenser relationship.
-* The Taiwanese chip giant will halt shipments to Chinese companies after some of its most advanced chips ended up with Huawei.
-* A banned ethnic separatist group in a restive province claimed responsibility for the deadly attack in Quetta, the provincial capital.
 
 ![Asian](./asian.png)
