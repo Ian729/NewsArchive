@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The attack occurred on the same day that Israel bombed sites in the Syrian capital that the Israeli military said were affiliated with a militant group. At least 15 people were killed, Syrian state media reported.
-* Aides to Benjamin Netanyahu are under investigation over accusations of leaks, record-doctoring and intimidation. The Israeli prime minister’s office denies the claims.
-* After the recent violence around an Israeli team’s game in Amsterdam, French leaders insisted on proceeding under security with a France-Israel match, and on showing up, themselves.
-* The Israeli military said it had been targeting a loaded weapons launcher in the area, where thousands of displaced people are sheltering in a tent camp.
-* Environmentalists have called on the pope to halt the chopping down of a tree destined for St. Peter’s Square this Christmas, but the town providing the tree says it was doomed anyway.
-* A researcher thinks he knows what has been coming ashore on miles of beaches. Canada’s environmental agency says it is still looking into it.
-* A policy of “Norwegianization” silenced the languages of Indigenous people and forced their children into boarding schools. The long-awaited apology avoided the issue of land rights.
-* The storm made landfall on the island of Luzon. Forecasters warned of torrential rain and landslides in the north of the country.
-* Police officials say two blasts near Brazil’s Supreme Court on Wednesday night are being treated as terrorist acts by a lone suicide bomber.
-* The country’s security situation has deteriorated even further since Monday when at least three planes were shot at, forcing the closure of its main airport.
+* The two leaders will meet in Peru, where China has steadily expanded its influence in a challenge to the United States in its own region.
+* Relations between the neighbors have sunk to the lowest level in years. Now, Pyongyang is blaring eerie sounds across the border that villagers say is making their lives hell.
+* The deadly episode was reportedly caused by a short circuit. Hospital fires are not uncommon in India, which lags in fire preparedness and building safety.
+* The president said stronger ties with South Korea and Japan are working, but did not address whether President-elect Donald J. Trump would continue his approach when he takes office in January.
+* The Biden administration had warned that the United States would consider any Iranian attempt on Mr. Trump’s life to be “an act of war,” officials said.
+* The region has changed dramatically since the Oct. 7 attacks.
+* Israel and Hezbollah indicated they were clashing deeper inside Lebanese territory. An escalation could undermine efforts to reach a cease-fire, as Iran’s leader signaled he supported ending the war with Israel.
+* Tensions among multiple sects in the country have long lurked just below the surface. As hundreds of thousands flee Israeli airstrikes in the south, those strains are worsening.
+* The hourlong call centered on what German officials said was a push to end the war in Ukraine. It was the first in two years between Mr. Putin and Chancellor Olaf Scholz
+* Institutions meant to promote civility, from soccer to song, have come under severe stress from rising antisemitism and anti-immigrant politics.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Five years ago the American ski racer left the sport, but a new right knee has her aiming to compete this year on the World Cup circuit, and possibly, in the 2026 Olympics.
-* The City Council is expected to vote on the settlement for residents of a neighborhood that burned more than 50 years ago. It could also consider another $21 million for community programs.
-* Regulators say the changes are essential to reducing carbon emissions. But political leaders in both parties are worried that gas prices could further increase.
-* Democrats knocked on a lot more doors in Pennsylvania than Republicans did. It wasn’t enough to overcome a wave of support for Donald Trump.
-* The case was swept up in the debate over immigration after investigators said the perpetrator was a migrant from Venezuela who entered the U.S. illegally.
-* Temporary Protected Status, created by a Republican president, has allowed thousands of people from Haiti, Venezuela, Ukraine and other nations to stay in the U.S.
-* The conservative legal group’s annual dinner featured a conversation between Justices Stephen G. Breyer and Neil M. Gorsuch, a conservative. Both stressed the importance of an independent judiciary.
-* President-elect Donald Trump’s nominee would oversee agencies that regulate food, vaccines and medicine and were instrumental during the pandemic.
-* If Senator Marco Rubio becomes secretary of state, Gov. Ron DeSantis of Florida will choose his replacement. Some lawmakers are pushing for the president-elect’s daughter-in-law.
-* Mr. Collins, a chaplain in the Air Force Reserve, became the face of the president-elect’s defense in his first impeachment inquiry in 2019.
+* The National Bible Bee competition, which is fast rising in popularity, demands feats of memorization that make the National Spelling Bee look like a game of tic-tac-toe.
+* Texas lawmakers exceeded their power when they intervened last month to stop the execution of Robert Roberson by summoning him to testify, the court found.
+* The pounding that sailors’ brains take from years of high-speed wave-slamming in the Special Boat Teams can cause symptoms that wreck their careers — and their lives.
+* Jeremiah P. Mahoney had been missing in action since 1945. His remains will be interred in Arlington National Cemetery in 2025.
+* President-elect Donald J. Trump is more contemptuous than ever of Washington expertise and determined to hire people based on loyalty.
+* The party’s early preparations to oppose the next Trump administration are heavily focused on legal fights and consolidating state power, rather than marching in the streets.
+* President-elect Donald J. Trump has tasked Elon Musk and Vivek Ramaswamy with identifying ways to cut the budget. The hard part comes next.
+* The progressive stronghold in California plans to target large encampments, relying on a Supreme Court decision handed down by a conservative majority.
+* No injuries were reported, and the aircraft safely returned to the terminal.
+* President-elect Donald J. Trump’s pick for health secretary opposes fluoride in water, promotes unproven Covid therapies and has threatened to prosecute medical journals.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The storm was packing destructive winds with speeds equivalent to a Category 5 hurricane. Forecasters warned of a “potentially catastrophic” situation.
+* The deadly episode was reportedly caused by a short circuit. Hospital fires are not uncommon in India, which lags in fire preparedness and building safety.
+* Relations between the neighbors have sunk to the lowest level in years. Now, Pyongyang is blaring eerie sounds across the border that villagers say is making their lives hell.
+* The two leaders will meet in Peru, where China has steadily expanded its influence in a challenge to the United States in its own region.
+* Her death reduces Japan’s rapidly dwindling imperial family to 16 people, and only 4 men, as the country faces questions about the future under a male-only succession law.
 * The National People’s Power won a parliamentary election that will allow the country’s new president to unroll his reform agenda, including broader welfare assistance.
-* Opposition lawmakers performed the traditional dance during a reading of a bill that would redefine the country’s founding treaty with its Indigenous people.
+* Opposition lawmakers performed the haka during a reading of a bill that would redefine the country’s founding treaty with its Indigenous people.
 * Analysts say the low-cost weapons are attractive to Mr. Kim, who is intent on modernizing North Korea’s military.
 * With Donald J. Trump promising tariffs, Malaysia hopes a deal with Singapore for greater economic integration will strengthen its role as a China alternative.
 * Plus, when shopping meets gambling.
-* President Biden will attend global summits in Peru and Brazil as world leaders prepare for the return of Donald Trump’s isolationist foreign policy.
-* In the Mekong Delta, farmers and locals still gather the flowers on wooden boats. Now, the ritual’s also become a photo op.
-* Originating in North America, the blossoms have become central to Hindu rituals in India.
-* The flower has developed a deep national importance, but what exactly it signifies depends on whom you ask.
-* The storm made landfall on the island of Luzon. Forecasters warned of torrential rain and landslides in the north of the country.
 
 ![Asian](./asian.png)
