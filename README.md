@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
+* Every night, dozens gather at the hillside to watch airstrikes rain down on the city’s southern suburbs. The ritual offers a window into the war — and proof that the once unimaginable is really happening.
+* The United States is pushing Israel to reach a deal with the Lebanese militia by Thanksgiving, even as key details remained unresolved, Israeli officials said.
+* The crash near Vilnius Airport sparked a fire in a residential area, officials said. One person on board was killed and three others were hospitalized.
+* A surge in gang violence over the past two weeks has led international aid organizations to rethink their staff levels in Haiti.
+* Israeli authorities say the abduction and killing of Rabbi Zvi Kogan was an act of antisemitic terrorism, but investigators have not yet stated a motive.
+* Supporters of the ex-prime minister marched toward Islamabad, the capital. Clashes with the police left at least one officer dead, the authorities said.
+* Calin Georgescu, who had been widely dismissed as a fringe candidate, won the most votes on Sunday with 22.9 percent. He will face a more centrist opponent in the second round on Dec. 8.
+* Political turmoil has escalated after Vice President Sara Duterte claimed to have arranged for President Ferdinand R. Marcos Jr.’s assassination if she is slain.
+* Russian state media reported that a British volunteer for the Ukrainian Army was captured amid fighting in the Kursk region.
 * Torrential rains in Valencia, in eastern Spain, caused flooding that killed more than 200 people. The deluge started inland. It took the authorities hours to warn those downstream.
-* West Bank residents say Israeli forces are adopting tactics similar to the ones they are deploying in Gaza, including airstrikes and the use of Palestinians as human shields.
-* When a blogger criticized Cairo’s airport, Egypt’s government fired back, citing security footage, threatening legal action and asking, “Is it reasonable for a passenger to visit two lounges before a single flight?”
-* The waves of attacks on Sunday came amid diplomatic efforts to reach a cease-fire in the conflict.
-* A recent song’s explicit lyrics have prompted criticism that the music promotes harmful stereotypes about Colombia.
-* Many have used an old word to refer to recent events. Is it accurate?
-* “Laapataa Ladies” and “All We Imagine as Light” have both captivated audiences at home. But only one was able to get India’s nod for the best foreign film Oscar.
-* Tragedies in Papua New Guinea are often followed by accusations of sorcery and unspeakable acts of violence. That cycle has become more brutal in recent years.
-* Operation Car Wash, which started in Brazil, revealed a bribery scheme that spanned at least 12 countries. Brazil’s Supreme Court has reversed much of its impact.
-* The Israeli authorities called the killing of Rabbi Zvi Kogan an act of terrorism. The Emirati government said it had arrested three people in connection with the murder.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Democrat-led states successfully challenged policies during the first Trump administration. Now, they worry the new White House will be more prepared and less restrained.
-* Donald Trump’s promise to carry out mass deportations has driven fearful immigrants to seek protections and advice.
-* After a decade of battles over voter ID, the law that finally went into effect landed with a whimper, not a bang.
-* When we met them a dozen years ago, they were teenagers in trouble, playing for a basketball team that always lost. Did they find a way to win at life?
-* A U.S. ruling set in motion the gem’s repatriation to Brazil, where it was first unearthed more than 20 years ago.
-* Justice Antonin Scalia, a conservative giant, said attempts to circumvent the Senate’s responsibility to vet nominees were “ignoble” and “just made up.”
-* Stricter rules and punishments over campus protests seem to be working. Universities have seen just under 950 protest events this semester, compared to 3,000 in the spring.
-* They said they believed that Donald J. Trump’s attacks on undocumented immigrants were directed at recent asylum seekers rather than their own community members.
-* The 20-year-old student died this summer after attending an off-campus party. The fraternity members and sorority were charged with offenses related to providing alcohol to minors.
-* One faction of prospective nominees appears focused on revenge, another on calming markets and a third on relentlessly — perhaps hopelessly — cutting people and budgets.
+* Stricter rules and punishments over campus protests seem to be working. Universities have seen just under 950 protest events this semester, compared with 3,000 in the spring.
+* A hearing scheduled for mid-December was pushed back to Jan. 30 so the judge and the new L.A. district attorney could have time to review filings in the case.
+* The former sheriff, Shawn Stines, was indicted last week after a local judge was shot to death in his chambers in September.
+* A federal judge ruled that the player, who is at the center of a controversy over transgender athletes, can participate in a women’s volleyball conference tournament this week.
+* Facing diminishing public support, some activists say all-or-nothing tactics are not working. “We have to make it OK for someone to change their minds.”
+* Marlena Velez, 22, stole the items by scanning false bar codes in the self-checkout to make the items cheaper, the police said.
+* President-elect Donald J. Trump ordered the investigation by his legal team into Boris Epshteyn, a powerful figure in the transition. Mr. Epshteyn denies the allegations.
+* Donald J. Trump is set to regain office without clarity on the scope of presidential immunity and with a lingering cloud over whether outside special counsels can investigate high-level wrongdoing.
+* The administration is pressing the World Anti-Doping Agency to allow an outside audit after it failed to suspend Chinese swimmers for positive tests.
+* Susan Lorincz, who shot Ajike Owens, was convicted of manslaughter. The case prompted national outrage.
 
 ![US](./usnews.png)
 ## New York Times Asia News
-* Political turmoil has escalated after Vice President Sara Duterte claimed to have arranged for President Ferdinand R. Marcos Jr.’s assassination if she is slain.
-* This Southeast Asian island, home to some of the world’s strangest and most iconic creatures, is a dream destination for a growing number of “mammal watchers.”
-* Plus, photographing the world’s food.
-* “Laapataa Ladies” and “All We Imagine as Light” have both captivated audiences at home. But only one was able to get India’s nod for the best foreign film Oscar.
-* Tragedies in Papua New Guinea are often followed by accusations of sorcery and unspeakable acts of violence. That cycle has become more brutal in recent years.
-* The clashes overnight between Sunni and Shiite tribes in Khyber Pakhtunkhwa Province came a day after gunmen ambushed a convoy of vehicles in the area.
-* With a tactic known as “resort politics,” Prime Minister Narendra Modi’s party has been accused of using brute force to take over Indian state governments.
-* From electric cars to solar panels, Mr. Musk has built businesses in high-tech manufacturing sectors now targeted by Beijing for Chinese dominance.
-* Pyongyang has long coveted an advanced air-defense system to guard against missiles and war planes from the United States and South Korea.
-* The chairman of the Senate Intelligence Committee said hackers listened to phone calls and read texts by exploiting aging equipment and seams in the networks that connect systems.
+* Scenes from the violent clashes between the security forces and protesters who are demanding the release of Imran Khan from prison.
+* While China could offset American tariffs by letting its currency fall, that might endanger Beijing’s recent efforts to stabilize the economy.
+* The president-elect’s pledge to use tariffs to stem the flow of opioids from China could backfire if Beijing responds by ending counternarcotics cooperation.
+* Long-running legal battles culminated in a ruling that preserves public housing benefits and inheritance rights in the territory.
+* Last year, a chip breakthrough put Huawei on top of the Chinese smartphone market. Now it is rolling out its newest phone, the Mate 70 series.
+* Soldiers were ordered to defend government buildings with gunfire, if needed, as supporters of former Prime Minister Imran Khan demanded his release from prison.
+* Japan is off to a shaky start in its efforts to break into the space rocket market dominated by Elon Musk’s SpaceX.
+* With localities facing budget holes, the police are crossing provincial borders to collect fines and draining company treasuries. Businesses call it a shakedown.
+* The president-elect said that he would impose the across-the-board tariffs on Day 1 and that they would stay in place until Canada, Mexico and China halted the flow of drugs and migrants.
+* Plus, a possible cease-fire deal in Lebanon.
 
 ![Asian](./asian.png)
