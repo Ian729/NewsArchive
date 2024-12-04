@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* In recent months, soldiers have demolished more than 600 buildings to create a buffer area and expanded a network of bases, a New York Times analysis of satellite imagery and video footage shows.
-* In just a few days, a patchwork of rebel forces has seized control of a broad stretch of land in the west and northwest of Syria. But it’s unclear just how much support Syria’s weakened allies can provide.
-* For days, pro-Western Georgians have clashed with police over the government’s plan to suspend plans for European Union membership.
-* President-elect Donald J. Trump said in a social media post on Monday that the hostages must be released before his inauguration in January.
-* Canada is losing its permafrost to climate change. The Indigenous residents of Tuktoyaktuk know they’ll have to move but don’t agree on when.
-* Both sides have accused each other of violating the deal; Hezbollah fired into Israel for the first time since the truce took effect, and Israel responded with airstrikes.
-* A groundbreaking law, which gives some sex workers greater labor protections and social benefits than similar legislation elsewhere in the world, is now in effect in the European country.
-* In a landmark case, a court ruled that the women, now in their 70s and 80s, who were taken from their parents in Belgian Congo, were victims of a crime against humanity.
-* The slowdown is worrying for the Kremlin but not serious enough to significantly hobble its war effort.
-* President-elect Donald J. Trump has selected Mr. Boulos, the businessman and father-in-law of Mr. Trump’s daughter, as a senior adviser on Arab and Middle Eastern affairs.
+* President Yoon Suk Yeol’s top aides offered to resign hours after he rescinded his extraordinary order. Protesters are calling for his resignation as lawmakers prepare to meet.
+* Iran and Russia, both stretched by conflicts of their own, have experienced setbacks in Syria after a rebel offensive in the northwest of the country.
+* Some violations of the truce, and some amount of violence, are to be expected, analysts say, and do not necessarily mean the deal will collapse and war will resume anytime soon.
+* In becoming the first American leader to visit Angola, President Biden said it was important not to forget the ugly legacy of the human trade that originally defined relations with Africa.
+* Years of war and a powerful earthquake had led to crushing poverty, displacement and breakdowns in services. But over the last several days, the region’s misery deepened.
+* Mark Rutte said it was up to Ukraine to decide when it was ready to begin negotiations with Russia — and that the West should help strengthen Kyiv’s position beforehand.
+* He had been hailed by Chinese state media as a model for his efforts to promote Beijing’s interests in the United States. He was in fact an F.B.I. informant.
+* The killing ignited national outrage and provoked calls for stronger measures to protect women.
+* Yale researchers traced hundreds of children taken to Russia in the war, finding what they described as “a higher level of crime than first understood.”
+* World leaders failed to focus on a permanent solution to the Israeli-Palestinian conflict and risk making the same mistake again, the departing United Nations’ envoy in the region says.
 
 ![Global](./global.png)
 ## New York Times United States News
-* President Biden has pardoned people convicted of some marijuana offenses, but advocates for prisoners say he has been slow to grant other requests.
-* The 2011 law stripped most government workers in the state of collective bargaining rights and set off protests that lasted weeks.
-* The judge who issued a death warrant for Robert Roberson voluntarily recused herself, adding the latest legal complication to a case that has drawn national scrutiny.
-* When we met them a dozen years ago, they were teenagers in trouble, playing for a basketball team that always lost. Did they find a way to win at life?
-* On Wednesday, the justices will hear the marquee case of the term, a challenge to a Tennessee law banning several forms of medical care for transgender youths.
-* In private meetings and memos, the justices made new rules for themselves — then split on whether they could, or should, be enforced.
+* Lawrence Hecker, who was indicted last year on charges related to a sexual assault in the 1970s, pleaded guilty on Tuesday just before jury selection for his trial was set to begin.
+* Ms. Willis, who charged Mr. Trump in connection with his efforts to cling to power after the 2020 election, came under scrutiny over her relationship with a lawyer she hired to lead the case.
+* The proposal would have effectively barred transgender women from using the State Capitol restroom for female lawmakers. Some Republicans joined Democrats in voting it down.
 * San Antonio has long had a high rate of family violence. An unusual court is trying to intervene before the violence turns deadly.
-* The announcement reiterated sentiments the president-elect expressed on the campaign trail, and further imperiled a deal that had already run into widespread political opposition.
-* The trip will be Donald J. Trump’s first foreign trip since last month’s election and offers a sign that global leaders are turning the page on the Biden presidency.
-* The Coast Guard received a mayday call from a fishing boat on Sunday just after midnight. Search crews looked for its passengers for almost 24 hours.
+* The school is one of higher education’s biggest supporters of D.E.I. Now it’s considering a new approach as critics question the program’s success and impact on campus life.
+* The justices will hear arguments on Wednesday over whether Tennessee and more than 20 other states can ban some medical treatments for transgender youth.
+* The Supreme Court is hearing a legal challenge on Wednesday to the state’s ban on several forms of medical care for transgender youth.
+* Adam Gray, a former state lawmaker, defeated Representative John Duarte, a Republican, in a reversal of their 2022 race.
+* Perks being offered to the top donors to the president-elect’s inaugural committee include dinners with Melania Trump and the next vice president, JD Vance.
+* The announcement by Chad Chronister, a Florida sheriff with virtually no experience in the kinds of complex international investigations the agency handles, comes just three days after his selection.
 
 ![US](./usnews.png)
 ## New York Times Asia News
-* The move comes a day after the Biden administration expanded curbs on the sale of advanced American technology to China.
-* He had been hailed by Chinese state media as a model for his efforts to promote Beijing’s interests in the United States. He was in fact an F.B.I. informant.
-* Two Americans and a Canadian were climbing Mount Cook before failing to show up to a prearranged flight on Monday.
-* Plus, Free North Korea Radio.
-* On Thanksgiving eve, U.S. diplomats reunited family members who had not seen each other in years because of China’s harsh policies on the ethnic group.
-* Kim Seongmin, who fled to South Korea in the 1990s, broadcasts to his homeland twice a day, delivering the kind of information Pyongyang is trying hard to suppress.
-* Plus, the vast network of undersea internet cables.
-* The sentencing of Dong Yuyu, a former Harvard Nieman fellow, signals that officials consider some exchanges between Chinese citizens and foreigners to be espionage.
-* Lai Ching-te is looking to shore up support from three island nations that are among a dwindling number to keep diplomatic ties with Taiwan.
-* We tracked $86 million in U.S. money that was supposed to go toward panda conservation in China.
+* Prime Minister Han Duck-soo would take over if President Yoon Suk Yeol steps down or is impeached.
+* “I immediately thought of 1980, and the fear and desperation we felt,” said a 60-year-old lawmaker who lived through the massacre of protesters in Gwangju.
+* Bangladesh’s currency was battered by what the new head of the central bank says was the looting of the banks under the deposed prime minister.
+* The National Assembly’s secretary general, Kim Min-ki, condemned what he called the “illegal, unconstitutional actions of the military.”
+* Officials pledged “unlimited” support to markets as traders digested the implications of South Korea’s brief declaration of martial law.
+* The president’s short-lived declaration of a military emergency late Tuesday was young South Koreans’ first exposure to a state of affairs their elders remember well.
+* Soon after President Yoon Suk Yeol’s declaration on Tuesday, lawmakers voted to defy him, prompting the president to say he was lifting his order.
+* As ambassador to Thailand and Turkey, and later as president of the Carnegie Endowment, he pushed for making human rights central to foreign policy.
+* Yoon Suk Yeol’s decree, and his reversal under pressure from lawmakers, were the culmination of years of feuding between the country’s two main political camps.
+* The opposition leader rallied lawmakers to vote down President Yoon Suk Yeol’s martial law decree.
 
 ![Asian](./asian.png)
