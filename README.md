@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* President Yoon Suk Yeol’s attempt to break a political deadlock by imposing military rule collapsed within hours, leaving him with few defenders. A vote to impeach him could come as soon as Friday.
-* Prime Minister Michel Barnier will most likely remain as a caretaker until a replacement is named. But the vote could create a wider opening for the far right.
-* The Soviet regime killed a generation of literary artists in the 1930s. Their legacy is being reclaimed as Ukraine fights to preserve its cultural heritage.
-* Even as Israel bombarded Syria, officials say the U.S. and Gulf countries were working to weaken its president’s alliance with Tehran. Rebels’ shock advance has dampened those hopes.
-* In his last announced trip abroad as president, Mr. Biden relished touring a U.S.-financed train line in Angola intended to transport goods and critical minerals to port.
-* The activist, whose health has deteriorated, had bone surgery last month. She was just 19 when Iran’s morality police detained her.
-* Mélanie Joly, Canada’s top diplomat, has already faced off against India and China, with Donald Trump up next. She’s also considered a top contender to replace Justin Trudeau.
-* The rebels have set their sights on the city of Hama, where President Bashar al-Assad’s government has long maintained strength.
-* The six hostages, whose bodies were found in Gaza over the summer, were probably shot in February by their captors as an Israeli strike hit close to the tunnel where they were held, the military said.
-* In a sign of a widening crackdown, security agents have searched the offices and homes of prominent activists and opposition leaders who are furious about the government’s position on Europe.
+* The military has spent decades trying to rehabilitate its image and win public trust after a brutal past. Its role in President Yoon’s martial law raised a specter from that era.
+* A family fled carrying a 9-year-old girl for hours on their backs. Sisters with visual impairments pleaded for help as Israeli airstrikes fell. “It’s a nightmare,” one wheelchair user said.
+* The 860-year-old cathedral has been repaired in a time frame many thought impossible. But rather than basking in success, President Emmanuel Macron is mired in political crisis.
+* Silva, the surname of presidents and soccer stars, has long carried stigma over its colonial links. Now, many see its legacy in new ways.
+* Opposition forces advanced on the city of Hama as their startling offensive moved quickly in the direction of the capital, Damascus.
+* Six leading opposition activists and advisers have taken refuge at the Argentine diplomatic residence for eight months. Now, the police are cutting off basic services.
+* Kyiv is feeling a sense of urgency leading up to the Jan. 20 inauguration, given the American president-elect’s vow to end the war quickly.
+* Edwin Chiloba’s body was found stuffed inside a metal box by the roadside last year. A high court judge did not give a motive but said his roommate carried out the murder.
+* Israel rejected the charge — the first of its kind by a major human rights organization — saying it was “based on lies.”
+* Encouraged by Senegal’s new president, teenagers and young adults, with social media tools in hand, have thronged an art exhibition that is usually the exclusive realm of the wealthy and elite.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The Police Department has been under scrutiny since Tyre Nichols’s death last year. The report noted that children in particular had experienced “aggressive and frightening encounters with officers.”
-* On the test, American fourth and eighth graders posted results similar to scores from 1995. It was a sign of notable stagnation, even as other countries saw improvements.
-* When we met them a dozen years ago, they were teenagers in trouble, playing for a basketball team that always lost. Did they find a way to win at life?
-* The incoming Trump administration’s new border czar said that Texas provided a “model” for border enforcement. State officials have offered to be a staging ground for mass deportations.
-* The family business of President-elect Donald J. Trump is expected to announce some restrictions on transactions but is not likely to accept as many limitations as it did eight years ago.
-* The president-elect’s choice for attorney general is known for her charm and fealty to him.
-* Frank Bisignano has spent his career at major Wall Street banks. He has a long history of political giving, mainly to Republicans.
-* During a brief stint as a senator from Georgia, she became a fervent supporter of the president-elect’s agenda near the end of his first term.
-* An interview with Senator Laphonza Butler, Democrat of California, during her final week in the Senate.
-* President-elect Donald J. Trump’s choice for defense secretary led two nonprofits into debt, and episodes of drinking continued into his days as a Fox News personality.
+* “Purity tests are not a recipe for long-term success,” the former president said in the speech in Chicago.
+* Two boys were rushed to hospitals on Wednesday after they were shot by a gunman on their rural school campus in Northern California. The authorities say the suspect had a history of crimes and mental illness.
+* The city’s mayor reiterated his reluctance to enter a consent decree after the Justice Department found a pattern of discrimination and excessive force by its officers.
+* State and local officials were working to assess the full scope of the damage, but early reports appeared to show that the quake did not cause major destruction.
+* Since leaving Congress in 2023, Billy Long has peddled a pandemic-era tax credit that the I.R.S. has warned is a magnet for fraud.
+* The public may have more nuanced views on issues like tariffs and mass deportations than it might seem at first blush.
+* For decades, the Navy has stated that brain injuries have mostly occurred during accidents or leisure activities. But now, a confidential new program is studying whether intense fighter jet operations can cause brain injuries as devastating as those from repeated blast exposure.
+* No one was injured or evacuated in the fire, which was made more challenging by the wind, the authorities said.
+* The president-elect picked Rodney S. Scott, an outspoken Border Patrol chief from his first term, to run Customs and Border Protection. And he chose Caleb Vitello to head Immigration and Customs Enforcement.
+* David Perdue would serve in the role at a time when the U.S.-China relationship is considered to be the most consequential in the world.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The last time South Korea imposed martial law, Gwangju endured a deadly crackdown. Han Kang, the Nobel Prize-winning author, told its story in “Human Acts.”
+* The police suspended their search for two Americans and a Canadian who went missing while trying to reach the summit of Aoraki/Mount Cook.
+* The leader of President Yoon Suk Yeol’s own party has backed impeachment, on which the National Assembly is set to vote on Saturday.
+* Plus, a celebration of art in Dakar.
+* The military has spent decades trying to rehabilitate its image and win public trust after a brutal past. Its role in President Yoon’s martial law raised a specter from that era.
+* The police said they believed Elliot Eastman, 26, from Vermont, was killed during the abduction in October. They cited testimony from a suspect in custody.
 * The largely symbolic move is in response to the Biden administration’s latest arms sales to Taiwan, the island democracy that China considers its own.
 * Clashes during President Yoon Suk Yeol’s brief imposition of martial law echoed the military’s actions during an earlier political crisis that lasted longer and turned deadly.
 * President Yoon Suk Yeol accepted the resignation of Kim Yong-hyun, who said he took responsibility for the crisis caused by the brief imposition of military rule.
 * Plus, what’s your favorite holiday tradition?
-* Donald J. Trump had been seen as the main risk factor for the partnership between Tokyo, Seoul and Washington. Then came martial law in South Korea.
-* President Yoon Suk Yeol’s attempt to break a political deadlock by imposing military rule collapsed within hours, leaving him with few defenders. A vote to impeach him could come as soon as Friday.
-* Faltering U.S. industrial leadership has allowed China to take a harder trade stance as President-elect Donald Trump prepares to take office.
-* ​A day after he declared — and then withdrew — martial law, President Yoon Suk Yeol was politically isolated as observers pondered his future in leadership.
-* General Motors and other foreign automakers are selling fewer cars and losing lots of money in China, where domestic electric and hybrid cars have taken off.
-* Prime Minister Han Duck-soo would take over if President Yoon Suk Yeol steps down or is impeached.
 
 ![Asian](./asian.png)
