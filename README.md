@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The military has spent decades trying to rehabilitate its image and win public trust after a brutal past. Its role in President Yoon’s martial law raised a specter from that era.
-* A family fled carrying a 9-year-old girl for hours on their backs. Sisters with visual impairments pleaded for help as Israeli airstrikes fell. “It’s a nightmare,” one wheelchair user said.
-* The 860-year-old cathedral has been repaired in a time frame many thought impossible. But rather than basking in success, President Emmanuel Macron is mired in political crisis.
-* Silva, the surname of presidents and soccer stars, has long carried stigma over its colonial links. Now, many see its legacy in new ways.
-* Opposition forces advanced on the city of Hama as their startling offensive moved quickly in the direction of the capital, Damascus.
-* Six leading opposition activists and advisers have taken refuge at the Argentine diplomatic residence for eight months. Now, the police are cutting off basic services.
-* Kyiv is feeling a sense of urgency leading up to the Jan. 20 inauguration, given the American president-elect’s vow to end the war quickly.
-* Edwin Chiloba’s body was found stuffed inside a metal box by the roadside last year. A high court judge did not give a motive but said his roommate carried out the murder.
-* Israel rejected the charge — the first of its kind by a major human rights organization — saying it was “based on lies.”
-* Encouraged by Senegal’s new president, teenagers and young adults, with social media tools in hand, have thronged an art exhibition that is usually the exclusive realm of the wealthy and elite.
+* The session took twists and turns as the opposition tried to convince members of President Yoon Suk Yeol’s party to return to the chamber and support the bill to remove him from office.
+* The longtime Syrian dictator Bashar al-Assad is facing threats from rebellions on multiple fronts and his key ally, Iran, is paring back support.
+* In a region “already on fire,” analysts say, rebels’ advance toward Damascus is a barometer of the shifting power dynamics that also affect nations like Iran, Turkey, Russia and the United States.
+* Hadrian’s Aqueduct supplied water to Greece’s capital for centuries but was then largely abandoned. It’s being revived to ease water scarcity amid global warming.
+* The leader of President Yoon Suk Yeol’s own party has backed impeachment, on which the National Assembly is set to vote on Saturday.
+* The decision came days after the government asserted that there had been “cyberattacks” meant to undermine the vote and security council documents indicated possible Russian meddling.
+* The withdrawals by one of President Bashar al-Assad’s key backers come amid a resurgent rebel offensive.
+* Ghanaians voting on Saturday are confronted with a choice familiar to Americans: Return a one-term former president to office, or promote the vice president, at a time when anger over the economy is widespread.
+* When equilibriums are disrupted, chaos can ensue.
+* It took about 250 companies, 2,000 workers, about $900 million, a tight deadline and a lot of national pride.
 
 ![Global](./global.png)
 ## New York Times United States News
-* “Purity tests are not a recipe for long-term success,” the former president said in the speech in Chicago.
-* Two boys were rushed to hospitals on Wednesday after they were shot by a gunman on their rural school campus in Northern California. The authorities say the suspect had a history of crimes and mental illness.
-* The city’s mayor reiterated his reluctance to enter a consent decree after the Justice Department found a pattern of discrimination and excessive force by its officers.
-* State and local officials were working to assess the full scope of the damage, but early reports appeared to show that the quake did not cause major destruction.
-* Since leaving Congress in 2023, Billy Long has peddled a pandemic-era tax credit that the I.R.S. has warned is a magnet for fraud.
-* The public may have more nuanced views on issues like tariffs and mass deportations than it might seem at first blush.
-* For decades, the Navy has stated that brain injuries have mostly occurred during accidents or leisure activities. But now, a confidential new program is studying whether intense fighter jet operations can cause brain injuries as devastating as those from repeated blast exposure.
-* No one was injured or evacuated in the fire, which was made more challenging by the wind, the authorities said.
-* The president-elect picked Rodney S. Scott, an outspoken Border Patrol chief from his first term, to run Customs and Border Protection. And he chose Caleb Vitello to head Immigration and Customs Enforcement.
-* David Perdue would serve in the role at a time when the U.S.-China relationship is considered to be the most consequential in the world.
+* A group that successfully challenged affirmative action at the Supreme Court had also sued the military academies. But, the judge said, “the U.S. Naval Academy is distinct from a civilian university.”
+* In the long-running war inside the Texas G.O.P., Dade Phelan survived a primary against a Trump-backed novice. But his increasingly conservative caucus turned against him.
+* The council member, Tania Fernandes Anderson, was arrested on public corruption charges involving an alleged kickback.
+* Northern California cities and residents seemed unsure on Thursday about the best response to an official tsunami warning that went out to five million Californians.
+* Worried that the campaign was neglecting voters of color in Philadelphia and other battleground cities, organizers secretly gathered at a Dunkin’ Donuts and elsewhere to get out the vote.
+* The desks came out of a dumpster, and the computers are hand-me-downs. But students say Abundance Academy is a haven from bullying and crowded classes.
+* Smartphone apps downloaded from Apple and Google can allow parents and other abusers to connect with pedophiles who pay to watch — and direct — criminal behavior.
+* Leaders of the Trump and Harris campaigns met this week to talk tactics. It wasn’t pretty.
+* The involvement of wealthy investors has made this presidential transition one of the most potentially conflict-ridden in modern history.
+* The United Nations chief inspector says production has quadrupled. But it is not clear whether Iran is trying to touch off a crisis or gather bargaining chips for negotiations with the United States.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* The art collective behind teamLab, which started in Japan, has expanded across the world, developing partnerships to pay for its immersive technology.
+* Demonstrations in the city and nationwide demanding the ouster of President Yoon Suk Yeol intensified through the week, and Saturday’s rally was the largest yet.
+* President Yoon Suk Yeol said his declaration of martial law was born out of “desperation,” and apologized for causing “anxiety.”
+* A perennial front-runner for the Nobel Prize in Literature, he was a revered figure in Japan, not just in literary circles but also among casual readers.
+* Europe’s new pact with South America, its largest deal to date, could be a sign of how countries will diversify trade relationships as Donald Trump threatens tariffs.
+* A diplomatic dispute over claims of persecution of Bangladeshi Hindus threatens to upend Bangladesh’s interim government.
 * The last time South Korea imposed martial law, Gwangju endured a deadly crackdown. Han Kang, the Nobel Prize-winning author, told its story in “Human Acts.”
 * The police suspended their search for two Americans and a Canadian who went missing while trying to reach the summit of Aoraki/Mount Cook.
 * The leader of President Yoon Suk Yeol’s own party has backed impeachment, on which the National Assembly is set to vote on Saturday.
 * Plus, a celebration of art in Dakar.
-* The military has spent decades trying to rehabilitate its image and win public trust after a brutal past. Its role in President Yoon’s martial law raised a specter from that era.
-* The police said they believed Elliot Eastman, 26, from Vermont, was killed during the abduction in October. They cited testimony from a suspect in custody.
-* The largely symbolic move is in response to the Biden administration’s latest arms sales to Taiwan, the island democracy that China considers its own.
-* Clashes during President Yoon Suk Yeol’s brief imposition of martial law echoed the military’s actions during an earlier political crisis that lasted longer and turned deadly.
-* President Yoon Suk Yeol accepted the resignation of Kim Yong-hyun, who said he took responsibility for the crisis caused by the brief imposition of military rule.
-* Plus, what’s your favorite holiday tradition?
 
 ![Asian](./asian.png)
