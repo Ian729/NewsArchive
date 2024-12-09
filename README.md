@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* After just a few days of rapid advances, the rebels appeared to control Syria’s capital. They said they would work with a top official in President Bashar al-Assad’s government. Mr. al-Assad’s location was unclear.
-* Prosecutors are investigating whether President Yoon Suk Yeol and his followers committed insurrection when they briefly put South Korea under martial law.
+* President Bashar al-Assad landed in Russia, according to state media outlets there and two Iranian officials, after fleeing the country as rebels took control of Syria’s capital.
+* President Bashar al-Assad had kept opposition forces at bay for a decade with help from Russia and Iran. But rebels struck at a moment of weakness for those countries.
+* While Israel asserts that the United Nations has tried to minimize the problem, the global organization says Israeli officials are waging an unfair campaign to discredit it.
+* After being left for dead by Russian soldiers, Mykola Kulichenko doesn’t think he should be forced to serve. His experience highlights the vagaries of Ukraine’s aggressive mobilization.
+* Tehran’s main regional allies are weakened or collapsing: Syria’s president, Bashar al-Assad, has fled his country, Hezbollah is battered by conflict with Israel, and Hamas is still at war.
+* Sunday was the first opportunity for worshipers to return to the cathedral, beloved by the faithful and secular alike, since the 2019 fire that devastated it.
+* John Dramani Mahama, who served as president from 2012 to 2017, is set to return to office after his main opponent, Mahamudu Bawumia, conceded defeat.
+* The tally differs sharply from estimates by U.S. officials and military analysts, who have said the number is closer to 70,000.
+* President Yoon Suk Yeol’s ill-fated bid to impose martial law has created a power vacuum in his governing camp, pushing the country deeper into what analysts call a constitutional crisis.
 * Ling’er won a settlement payout from the hospital where she was held for three months against her will and subjected to electroshock therapy.
-* Thoughts of loved ones dead or missing complicate joyous relief at the prospect of an end to the rule of Bashar al-Assad.
-* President Yoon Suk Yeol survived an opposition-led attempt to remove him by getting his party members to back him. But his troubles could now become theirs too.
-* A centuries-old bell rang and an archbishop knocked at the Gothic cathedral’s great doors, which reopened for a V.I.P. ceremony after its monumental reconstruction. It opens to the public on Sunday.
-* The country was thrown into deeper uncertainty after the governing party changed its stance and refused to oust him. Protesters vowed to keep the pressure on.
-* The Ukrainian leader planned to use the grand reopening of Notre-Dame Cathedral to lobby the president-elect and other world leaders attending the ceremony.
-* The longtime Syrian dictator Bashar al-Assad is facing threats from rebellions on numerous fronts as his key ally, Iran, is paring back support.
-* In a region “already on fire,” analysts say, rebels’ advance toward Damascus is a barometer of the shifting power dynamics that also affect nations like Iran, Turkey, Russia and the United States.
 
 ![Global](./global.png)
 ## New York Times United States News
+* Linda McMahon is accused of failing to stop abuse in the 1980s within W.W.E., which she led at the time. The suit is on hold pending a ruling over a state law related to such cases.
+* A confidential Navy program is studying whether intense fighter jet operations can cause devastating brain injuries in flight crews.
 * The Ohio city’s mayor and the family of the 15-year-old, Jazmir Tucker, raised concerns about how officers handled the incident.
 * The desks came out of a dumpster, and the computers are hand-me-downs. But students say Abundance Academy is a haven from bullying and crowded classes.
-* In the long-running war inside the Texas G.O.P., Dade Phelan survived a primary against a Trump-backed novice. But his increasingly conservative caucus turned against him.
-* Northern California cities and residents seemed unsure on Thursday about the best response to an official tsunami warning that went out to five million Californians.
-* Over the past four years, the department has confronted the challenge of China by restricting key exports, a policy that is likely to continue in the Trump administration.
-* As Democrats try to fire up their fatigued base, two contests for the Virginia legislature will serve as the first measure of partisan enthusiasm since Donald J. Trump’s victory.
-* A confidential Navy program is studying whether intense fighter jet operations can cause devastating brain injuries in flight crews.
-* The slippers, worn by Judy Garland in “The Wizard of Oz,” were stolen from the museum that bears her name in 2005 before investigators recovered them in 2018.
-* Applicants for government posts, including inside the Pentagon and the intelligence agencies, say they have been asked about their thoughts on Jan. 6 and who they believe won the 2020 election.
-* Herman Whitfield III had told officers “I’m dying” and that he couldn’t breathe after one of the officers deployed a Taser, according to body camera footage.
+* In 1925, Congress let the justices choose the cases they would decide. That change “continues to prompt political contention and crisis,” a scholar argues.
+* Christopher Landau is a longtime lawyer and the son of a veteran U.S. diplomat who served as ambassador to three nations in Latin America.
+* Liz Cheney, the former Republican representative, said President-elect Donald J. Trump “lied about” the bipartisan House committee that investigated his role in the Jan. 6, 2021, attack.
+* The overthrow of the Assad government could mean Russia’s bases in Syria are closed and Iran’s pathway to Hezbollah is cut off. Now Iran, newly vulnerable, will have to decide between negotiation and the bomb.
+* President Biden faces the challenge of deciding how to engage the main armed group that toppled President Bashar al-Assad, even though it remains designated a terrorist organization by the United States.
+* The president-elect has promoted the theory for more than a decade and said on Sunday that he was “open to anything” to address a nationwide rise in autism.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* President Yoon Suk Yeol cannot leave the country as an investigation unfolds into whether he led an insurrection last week when he briefly imposed martial law.
+* The Trump Organization finds a warm welcome in India, where status-hungry home buyers clamor for a famous American brand.
+* Plus, Notre-Dame reopens.
+* One of the most successful writers in the Chinese-speaking world, she filled her plots with twists and turns, but love always transcended all.
+* President Yoon Suk Yeol’s ill-fated bid to impose martial law has created a power vacuum in his governing camp, pushing the country deeper into what analysts call a constitutional crisis.
+* The department has confronted the challenge of China by restricting key exports, a policy that is likely to continue in the Trump administration.
 * Ling’er won a settlement payout from the hospital where she was held for three months against her will and subjected to electroshock therapy.
 * Prosecutors are investigating whether President Yoon Suk Yeol and his followers committed insurrection when they briefly put South Korea under martial law.
 * A top-selling pop singer as a teenager in the 1980s, she also had an award-winning career as a dramatic actress.
 * The country was thrown into deeper uncertainty after the governing party changed its stance and refused to oust him. Protesters vowed to keep the pressure on.
-* President Yoon Suk Yeol survived an opposition-led attempt to remove him by getting his party members to back him. But his troubles could now become theirs too.
-* The art collective behind teamLab, which started in Japan, has expanded across the world, developing partnerships to pay for its immersive technology.
-* Demonstrations in the city and nationwide demanding the president’s ouster intensified through the week, and Saturday’s rally was the largest yet.
-* President Yoon Suk Yeol said his declaration of martial law was born out of “desperation,” and apologized for causing “anxiety.”
-* A perennial front-runner for the Nobel Prize in Literature, he was a revered figure in Japan, not just in literary circles but also among casual readers.
-* Europe’s new pact with South America, its largest deal to date, could be a sign of how countries will diversify trade relationships as Donald Trump threatens tariffs.
 
 ![Asian](./asian.png)
