@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The fighters who forced Bashar al-Assad into exile began the complex task of governing the Syrian capital. On the road to Damascus, New York Times reporters saw evidence of lawlessness and relics of the deposed regime.
-* Bashar al-Assad’s downfall evokes memories of uprisings in Egypt, Libya, Tunisia and Yemen, each of which brought civil war or authoritarian rule. Syrians hope for better.
-* The killings in a Port-au-Prince slum, which appeared to target practitioners of Voodoo, were ordered by a gang leader, a Haitian human rights organization said.
-* After being left for dead by Russian soldiers, Mykola Kulichenko doesn’t think he should be forced to serve. His experience highlights the vagaries of Ukraine’s aggressive mobilization.
-* President Yoon Suk Yeol cannot leave the country as an investigation unfolds into whether he led an insurrection last week when he briefly imposed martial law.
-* Relations between the neighboring countries on the island of Hispaniola have long been frosty. They are now complicated by up to 10,000 deportations a week.
-* Only weeks ago, Arab nations had been working hard to bring Bashar al-Assad back into the fold, assuming he was there to last. They were badly mistaken.
-* The actress Adèle Haenel has accused the director Christophe Ruggia of grooming and sexually assaulting her when she was 12. If found guilty, he faces up to a decade in prison.
-* Officials said it would take time to determine the cause of the explosion. At least 26 people were injured in the blast.
-* While Israel asserts that the United Nations has tried to minimize the problem, the global organization says Israeli officials are waging an unfair campaign to discredit it.
+* Israel says it is striking Syrian military sites to keep them out of “the hands of extremists.” The rebels who toppled the Assad government began laying out their plans while rival groups fought fierce battles for territory.
+* A visual timeline of the stunning rebel advance in Syria
+* Prime Minister Benjamin Netanyahu of Israel is accused of bribery, fraud and breach of trust in a trial that began four years ago. He has denied the charges.
+* After helping to oust the prime minister last week, the far-right leader has made clear her next target is President Emmanuel Macron.
+* This former Soviet Republic has been rocked by anti-government demonstrations over the same issues that hurtled Ukraine into war — its relationship with Europe and Russia.
+* The televisions may be stripped away now, but a presidential residence still contains many remnants of a brutal reign.
+* U.S. and Guatemalan authorities said the arrests were linked to a human trafficking ring and a deadly 2021 traffic accident.
+* Critics have objected to the bidding process, and human rights groups have raised concerns about workplace safety for the migrants who will build the stadiums needed to host the event.
+* Amnesty International described it as a “human slaughterhouse,” where, other rights groups say, tens of thousands of people were detained, tortured and killed during the 13-year civil war.
+* Lee Jae-myung, the main opposition leader, is leading efforts to impeach President Yoon Suk Yeol over his declaration of martial law. He could also be the next president.
 
 ![Global](./global.png)
 ## New York Times United States News
+* Until the arrest this week of Luigi Mangione, the family was best known for building a business that has made them a force in local politics and charity.
+* No structures were damaged and no one was injured, but students spent a frantic night sheltering in place as thousands of nearby residents evacuated.
+* The agency found that the Police Department used excessive force and allowed undercover officers to have sexual contact with women suspected of being prostitutes.
 * The suspect, Luigi Mangione, was an Ivy League tech graduate from a prominent Maryland family who in recent months had suffered physical and psychological pain.
-* Preliminary estimates showed that the quake had a magnitude of 5.8, according to the U.S. Geological Survey.
-* A growing number of Chinese Americans, especially naturalized immigrants, say Democrats have become too lenient on crime and homelessness.
-* One of the closest state elections in North Carolina history now hinges on the latest power struggle between state Republicans and Democrats — and a voter form dating back 20 years.
-* The president-elect has made some of the most expansive campaign pledges in history. Some supporters fear that his bravado could undermine his ambitions.
-* When Donald J. Trump said Robert F. Kennedy Jr. could “go wild” on health, he might not have expected his pick for health secretary doing battle against the president-elect’s own voters.
-* Republican control of Washington and a tax bill next year have corporate America excited — and on edge.
-* The Franklin fire started Monday night and began to spread quickly, as large parts of Southern California braced for dangerous wildfire conditions.
-* Harmeet K. Dhillon has been a conservative activist so devoted to the president-elect that she was willing to attack not only Democrats but also fellow Republicans.
-* Samuel R. Bateman, 48, of Colorado City, Ariz., who claimed to have more than 20 “wives” including 10 “brides” under 18, pleaded guilty in April to two felony conspiracy charges.
+* As Republicans try to muscle through a bill that is nominally dedicated to hurricane relief but in fact erodes Democrats’ influence, residents of the areas hit hardest say they urgently need help.
+* Senior Treasury officials are holding a final round of talks with a new round of economic volatility on the horizon.
+* Erik Sparre was arrested earlier this week, more than two decades after Dennis Perry was wrongly sent to prison for the crime.
+* The president-elect faces hard choices about the country’s post-Assad future. His vows not to get involved might be hard to keep.
+* Thousands of people were told to flee their homes in Malibu, Calif., as the Franklin fire approached. But a few stayed behind, using garden hoses to protect their property and themselves.
+* The president also said his successor would face blowback from the Republican Party if he tried to unwind the Biden agenda.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Senior Treasury officials are holding a final round of talks with a new round of economic volatility on the horizon.
+* “Her Story” touches on sensitive topics in China, like censorship and gender inequality. But its humorous, nonconfrontational approach may have helped it pass censors.
+* The authorities are investigating whether President Yoon Suk Yeol committed an act of insurrection when he declared martial law last week, plunging the country into crisis.
+* In its first statement about the turmoil over President Yoon Suk Yeol’s martial law decree, the North said nothing about how inter-Korean relations might be affected.
+* Plus, how Netflix brought a magical town to life.
+* The president faces an accusation of insurrection and, in a first for a sitting leader, the possibility of arrest. Here’s what to know about his political future.
 * Lee Jae-myung, the main opposition leader, is leading efforts to impeach President Yoon Suk Yeol over his declaration of martial law. He could also be the next president.
 * This former Soviet Republic has been rocked by anti-government demonstrations over the same issues that hurtled Ukraine into war — its relationship with Europe and Russia.
-* President Luiz Inácio Lula da Silva of Brazil was in the hospital recovering from the procedure. Doctors said the bleeding appeared to be linked to a fall in October.
+* President Luiz Inácio Lula da Silva of Brazil was in the hospital following the procedure. Doctors said the bleeding appeared to be linked to a fall in October.
 * Taiwan is on high alert in response to China’s unannounced deployment of naval and Coast Guard ships, as tensions rise over U.S. support for the island.
-* In return for financial support, the Pacific island nation of Nauru pledged not to enter any security pacts without Australia’s assent.
-* Nearly 90,000 people on the island of Negros were ordered to seek shelter after Mount Kanlaon spewed deadly ash and lava.
-* Plus, a lawsuit for trans rights in China.
-* Beijing ordered companies around the world not to allow critical minerals mined in China to reach the U.S., while deepening its efforts to replace imports with domestic products.
-* The move by Chinese regulators came a week after the Biden administration expanded curbs on the sale of advanced U.S. technology to China.
-* President Yoon Suk Yeol cannot leave the country as an investigation unfolds into whether he led an insurrection last week when he briefly imposed martial law.
 
 ![Asian](./asian.png)
