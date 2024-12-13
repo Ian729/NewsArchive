@@ -2,32 +2,34 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* The rebel leader who helped oust the Assad regime called on countries to hand over “criminals” who fled Syria. A top Kurdish commander criticized the United States, saying it was risking an ISIS resurgence.
-* Famine and ethnic cleansing stalk Sudan. Yet the gold trade is booming, enriching generals and propelling the fight.
-* Syrians raced to newly emptied prisons to reunite with loved ones snatched away by the brutal regime of Bashar al-Assad, but their quest sometimes took them to the morgue.
-* An ultranationalist politician’s surge shows how many people would rather forget the country’s fascist past, experts say.
-* President Yoon Suk Yeol shows no sign of stepping down, as investigators raided his office and more members of his own party turned against him.
-* Rebels are asserting control in Damascus as Israel and other countries carry out military operations.
-* A meeting between President-elect Donald J. Trump and Prince William showed Britain’s hope that the Windsors could help safeguard relations with Washington.
-* A freeze placed this year on their use to treat gender dysphoria will remain in place for young people under 18, except in clinical trials, Britain’s government said.
-* Chancellor Olaf Scholz, who had few alternatives after his three-party coalition broke up, is widely expected to lose when Parliament takes up the measure on Monday.
-* “Her Story” touches on sensitive topics in China, like censorship and gender inequality. But its humorous, nonconfrontational approach may have helped it pass censors.
+* Israel said its forces would remain in Syrian territory until “a new force” filled the vacuum. Secretary of State Antony J. Blinken was in Jordan and Turkey for talks, and a top Turkish official appeared in Damascus.
+* The United States killed its own allies, sabotaging itself in a part of Afghanistan where it never needed to be.
+* An ally’s downfall has prompted calls in Russia for a definitive victory closer to home.
+* The lore around Massad Boulos, Tiffany Trump’s father-in-law, is that he is a billionaire dealmaker. Records show otherwise.
+* South Korea’s night of martial law was a jolt for some members of a generation accused of political apathy. They say they aren’t going away.
+* A year after becoming president, Javier Milei has been praised inside and outside Argentina for reining in galloping inflation. But his economic policies have inflicted widespread hardship.
+* The man told reporters that his name was Travis Timmerman and that he had entered Syria on a religious pilgrimage. He said he had been detained for months.
+* Guinness’s parent company has limited the amount of the beer that U.K. wholesalers and distributors can buy each week, after surging demand led to fears of shortages.
+* After fiber-optic cables under the Baltic Sea were cut last month, European officials hurried to stop the Yi Peng 3. It’s still at anchor there, with no update on three nations’ investigation.
+* Russia is pushing toward Pokrovsk, a strategic city for Ukraine’s army with important rail and road connections, in a rapid capturing of ground in the Donetsk region.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Harvard, Penn and U.S.C. were among the universities and colleges that issued advisories in anticipation of possible travel bans.
-* Employees at UnitedHealthcare and other companies described being anxious after an outpouring of online vitriol.
-* Flames threatened residential areas and forced thousands to flee, as firefighters fought to contain the Franklin fire.
-* Federal prosecutors said Lavante Wiggins of Pittsfield High School and another man had conspired to traffic “large quantities” of the drug in western Massachusetts.
-* It is unclear whether the rule, which could help save Americans billions in fees each year, will remain in place after President-elect Donald J. Trump returns to office.
-* Linda Qiu, a New York Times reporter, fact-checks some claims by three of President-elect Donald Trump’s cabinet picks: Pete Hegseth, Tulsi Gabbard and Robert F. Kennedy Jr.
+* Part of the gun that the police believe was used to kill the C.E.O. of UnitedHealthcare was made by a 3D printer using a popular design found online.
+* New details are emerging about Luigi Mangione’s growing impatience with “a capitalist society” and his search for refuge in the mountains of Japan.
+* The lawsuit was the latest in a series by a prominent anti-affirmative action group that is seeking to overturn the use of racial preferences in the nation’s military academies.
+* The official, an administrator of multicultural programs, was accused of making antisemitic remarks in a conversation. Her lawyer said that the school fired her this week, and vowed to sue.
 * The president-elect became convinced that letting Pete Hegseth fail would set off a feeding frenzy among senators. What followed was a MAGA swarm that helped salvage his bid, at least for now.
-* Ms. Lake, a former TV news anchor turned right-wing firebrand who has called journalists “monsters,” would be in charge of a federally funded news outlet with a huge global audience.
-* The rapper, whose real name is Kentrell Gaulden, admitted to possessing guns as a felon in Louisiana. He faced a maximum sentence of 25 years.
-* Amaryllis Fox Kennedy, a former C.I.A. officer who is married to the son of Robert F. Kennedy Jr., raised alarms for publishing a book about her work at the agency without going through a review process.
+* Residents voted to rein in a mayor who they say has a penchant for secrecy and is overly deferential to developers.
+* The indictment was the second time in a week that the Justice Department announced that it had charged top Syrian officials with human rights abuses.
+* The adult male swam more than 8,000 miles from South America to Africa, most likely in search of a mate, researchers said.
+* Among those whose sentences were commuted was Rebecca Parrett, an Arizona woman who now hopes to travel to meet her great-grandchildren for the first time.
+* Mr. Wray’s voluntary departure could usher in a new era at the nation’s premier law enforcement agency, one in which the job of director changes with the administration.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Plus, British pubs are scrambling for Guinness.
+* An intense struggle has unfolded in Washington between companies and officials over where to draw the line on selling technology to China.
 * Mullah Osman Jawhari led one of the deadliest assaults on American forces in Afghanistan, a battle that came to symbolize the war itself.
 * South Korea’s night of martial law was a jolt for some members of a generation accused of political apathy. They say they aren’t going away.
 * A father’s 25-year search for his missing daughter in South Korea made him a tragic national symbol of unwavering parental devotion.
@@ -36,7 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * Boris and Svetlaya were raised together as orphaned cubs, and then reintroduced to the wild separately. But Boris went on a trek that surprised the researchers who were monitoring him.
 * The government accused the Islamic State of being behind the attack, which struck at the heart of the Taliban’s power structure after years of essentially unchallenged dominance.
 * Senior Treasury officials are holding a final round of talks with a new round of economic volatility on the horizon.
-* “Her Story” touches on sensitive topics in China, like censorship and gender inequality. But its humorous, nonconfrontational approach may have helped it pass censors.
-* President Yoon Suk Yeol shows no sign of stepping down, as investigators raided his office and more members of his own party turned against him.
 
 ![Asian](./asian.png)
