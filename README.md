@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* In a society used to quiet consensus-building, Tokyo has made bold changes to its defense policy. “Did I contribute to that?” Mr. Emanuel asked. “Uh, yeah.”
-* The Islamist rebels who ousted Syria’s dictator ran a pragmatic and disciplined administration in the territory they controlled. They also jailed their critics.
-* Amid mounting international criticism of its military conduct in Gaza, Israel says it will deepen ties with countries it considers friendly toward it.
-* The Israeli military hit weapons depots and air defenses, according to the Syrian Observatory for Human Rights. Israel has said it aims to keep military equipment away from extremists.
-* Israel’s military said it carried out strikes and raids against Hamas targets in northern Gaza on Sunday. The actions followed days of deadly attacks across the territory.
-* The suspension of President Yoon Suk Yeol’s powers left a seasoned but unelected prime minister in charge of a country facing daunting challenges at home and abroad.
-* Elated residents are trickling home to their shattered Syrian town, a rebel stronghold controlled until recently by the government.
-* Protests in Bolivia triggered by a feud between the president and a political rival have caused turmoil. One fallout: fuel shortages that have left drivers lining up for gas for days.
-* By arming civilians who are poorly trained and have little to no respect for human rights, the military in Burkina Faso has brought the West African nation to the brink of civil war.
-* The prefect of Mayotte said the death toll could climb. The storm, the equivalent of a Category 3, made landfall in Mozambique on Sunday.
+* Ahmed al-Shara stressed diplomacy in an interview but criticized Israel’s advance into Syrian territory. A statement said to be from Bashar al-Assad, the ousted leader, defended his decision to leave for Russia.
+* Chancellor Olaf Scholz lost a confidence vote, deepening the political turbulence in one of the continent’s most powerful economies.
+* Officials on the archipelago off the eastern coast of Africa said the number of people killed by Tropical Cyclone Chido could be much higher than the 21 now confirmed dead.
+* The Kurds helped the United States contain the Islamic State. Now they fear a resurgent Turkey that has long considered them an adversary. Here’s a guide.
+* Nearly four years into a grinding civil conflict, the economy is in ruins, and people — even professionals with degrees — are desperate.
+* Chrystia Freeland, the deputy prime minister and finance minister, had been helping lead Canada’s response to the incoming Trump administration.
+* Prime Minister Sheikh Hasina and top officials are implicated in a centralized program that abducted dissidents and held them in secret prisons, an official commission’s preliminary report said.
+* In an hourlong televised meeting with his top military brass, Vladimir Putin left Syria unmentioned and made it clear that winning in Ukraine was his top priority.
+* Chancellor Olaf Scholz lost a confidence vote in the German Parliament, ending the unpopular three-party coalition government he has led since 2021.
+* The men were the last Australians still imprisoned in Indonesia for trying to smuggle heroin in 2005, in a case that became a diplomatic flashpoint between the countries.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The conviction is considered one of the first of its kind since Congress required the military to change how its legal system addresses sexual assault and harassment.
-* The storm upended the Christmas tree industry in the state’s western region. Now, farmers and residents are eager for the comfort of the season’s rituals.
-* The rampage on Thanksgiving Day killed one person and injured several others in Nevada and Arizona.
+* The police in Wisconsin are working to establish a motive for the attack, which left a student and teacher dead and six others injured.
+* Some Republicans have said that a constitutional convention is overdue. Many Democratic-led states have rescinded their long-ago calls for one, and California will soon consider whether to do the same.
+* After a Supreme Court decision ended race-based admissions, some law schools saw a decline in Black and Hispanic students entering this fall. Harvard appeared to have the steepest drop.
 * Harvard, Penn and U.S.C. were among the universities and colleges that issued advisories in anticipation of possible travel bans.
-* Unable to find effective treatments at home, veterans with brain-injury symptoms are going abroad for plant-based psychedelics like ibogaine that are illegal in the U.S.
-* Kirstin Blaise Lobato sued the Las Vegas Metropolitan Police Department and two detectives after she spent nearly 16 years in prison for a murder she did not commit.
-* Senator Lindsey Graham said that Pete Hegseth, President-elect Donald Trump’s defense secretary pick, promised to release his accuser from a settlement that his lawyer has said was already breached.
-* His friends and family members in Rome, Ga., voted to support mass deportation. Now he’s scrambling to stay in the country.
-* A combative loyalist and the president-elect’s former ambassador to Germany, Mr. Grenell had hoped to be secretary of state.
-* As chair of the House Intelligence Committee, he attacked the Russia inquiry and Donald J. Trump’s first impeachment. Now, Mr. Nunes runs Mr. Trump’s social media company.
+* Undocumented immigrants whose children or spouses are U.S. citizens are feeling particularly vulnerable to President-elect Donald J. Trump’s threats to push them out.
+* Some cars were submerged by the rising water. Emergency workers were working overnight to identify the source of the break.
+* Very few countries have experienced similar declines, typically in the wake of wrenching turmoil. Experts called the data, from a new Gallup poll, stunning and worrisome.
+* Natalie Rupnow was identified by the police as the shooter in the attack at Abundant Life Christian School. Investigators are still trying to piece together what led up to the shooting.
+* Training and precautions taken by the Christian school in Wisconsin may have prevented the shooter from harming even more people, officials said.
+* The men are accused of supplying key parts in Iranian drones that killed three U.S. service members and injured dozens of others at an American military base in Jordan.
 
 ![US](./usnews.png)
 ## New York Times Asia News
-* The official death toll so far is 14, but there are fears that the number killed in the French territory by Tropical Cyclone Chido could be much higher.
+* The north benefited from the global search for alternatives to Chinese manufacturing. No one knows whether a second Trump term will impede or accelerate that growth.
+* Sending troops to fight against Ukraine has gotten North Korea much-needed cash and diplomatic leverage. But there may be hidden costs, too.
+* A tsunami alert was lifted for the Pacific island nation, but government websites were offline after the quake. The U.S. Embassy building was seriously damaged, officials said.
+* Plus, the breakout stars of 2024.
+* Prime Minister Sheikh Hasina and top officials are implicated in a centralized program that abducted dissidents and held them in secret prisons, an official commission’s preliminary report said.
+* Officials on the archipelago off the eastern coast of Africa said the number of people killed by Tropical Cyclone Chido could be much higher than the 21 now confirmed dead.
 * President Yoon Suk Yeol shifted his country closer to Washington and stood up to Beijing. But that foreign policy could be recalibrated in the future.
 * The men were the last Australians still imprisoned in Indonesia for trying to smuggle heroin in 2005, in a case that became a diplomatic flashpoint between the countries.
 * Nearly four years into a grinding civil conflict, the economy is in ruins, and people — even professionals with degrees — are desperate.
-* Considered a national treasure in his homeland, the percussionist transcended genres and brought classical Indian music to a global audience.
-* Plus, how travel benefits us.
-* The suspension of President Yoon Suk Yeol’s powers left a seasoned but unelected prime minister in charge of a country facing daunting challenges at home and abroad.
-* In a society used to quiet consensus-building, Tokyo has made bold changes to its defense policy. “Did I contribute to that?” Mr. Emanuel asked. “Uh, yeah.”
-* In its second attempt, the National Assembly moved to force President Yoon Suk Yeol from office. But the troubles for him and his country are far from over.
-* Some members of President Yoon Suk Yeol’s own party helped remove him from office. But the political uncertainty is far from over.
+* His collaborators included John McLaughlin, Béla Fleck, Ravi Shankar, Herbie Hancock, Yo-Yo Ma and members of the Grateful Dead.
 
 ![Asian](./asian.png)
