@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* A Ukrainian official said Kyiv was responsible for the assassination in Moscow of Gen. Igor Kirillov, the chief of Russia’s radioactive, chemical and biological defense forces.
-* The Islamists who now lead Syria have ruled the city of Idlib for years. Residents say they imposed some strict laws, but also heeded some complaints and improved public services.
-* Hundreds are feared dead after the storm razed entire neighborhoods in Mayotte, a series of islands off the eastern coast of Africa, before unleashing its destructive force on Mozambique.
-* The Pentagon spokesman said the North Koreans had entered combat last week in the Russian region of Kursk, but he did not specify the number of casualties.
-* Ahmed al-Shara said that fighters would be brought under the defense ministry’s authority. The announcement came as Prime Minister Benjamin Netanyahu of Israel visited captured Syrian territory.
-* Sending troops to fight against Ukraine has gotten North Korea much-needed cash and diplomatic leverage. But there may be hidden costs, too.
-* The pace of peace talks has picked up, pushed by multiple factors, including wars in Lebanon and Syria that have seriously weakened Hamas’s allies and the election victory of Donald J. Trump.
-* The general had faced sanctions for using chemical weapons in Ukraine.
-* The leader of the rebel coalition that swept to power last week said that fighters would be brought under the defense ministry’s authority. It was not immediately clear how that would be achieved.
-* One of Europe’s powerhouses is losing its competitive edge, and the political class can’t agree on why — or what to do about it.
+* Syria’s new rulers say they will spare conscripts of Bashar al-Assad and pursue those who oversaw his regime’s abuses. Hundreds are lining up to learn which promise applies to them.
+* Funding its war against the United States, the Taliban reaped millions from boom towns trading opium, heroin and meth. Victorious, the group crushed the trade, leaving ghost towns in its wake.
+* The Russian prosecutor’s office said the suspect, a 29-year-old citizen of Uzbekistan, confessed to planting the bomb on the orders of Ukrainian agents.
+* If polls are correct, Olaf Scholz’s successor could be the 69-year-old leader of the Christian Democratic Union. He is offering to get the German economic engine humming again.
+* Ukraine’s forces are steadily losing ground on the battlefield. The assassination of a top general in Moscow won’t improve their war effort, analysts and Western officials say.
+* A Syrian Air flight from Damascus landed in Aleppo on Wednesday, as the transitional government tries to demonstrate its ability to run the war-shattered country.
+* For over three months, judges and lawyers have tried to grasp the true nature of Dominique Pelicot, who said he had invited dozens of strangers to join him in raping his drugged wife.
+* Corruption investigations may have shaken Beijing’s confidence in top commanders, but China’s military expansion hasn’t slowed, a report found.
+* U.S.-backed, Kurdish-led forces say they have come under fresh attack in several places by a Turkish-backed militia, even as Washington seeks a lasting cease-fire.
+* Police leaders waited too long — three days — to trigger a national mobilization to tackle the anti-immigrant violence that broke out in Britain this year, a report found.
 
 ![Global](./global.png)
 ## New York Times United States News
-* But mass shootings remain a rare occurrence. Only a small fraction of the nation’s nearly 130,000 schools report gun incidents each year.
-* Officials in Wisconsin gave little new information on Tuesday about a shooting that left a student and a teacher dead and six others injured.
-* Nima Momeni, 40, was convicted by a San Francisco jury in the fatal stabbing of Bob Lee, a well-known tech executive.
-* Lawyers for the victims said it was the largest deal of its kind reached with the federal Bureau of Prisons.
-* He rose to prominence in the 1980s, spending lavishly and befriending athletes, as the city was wracked by murders tied to the drug trade. He later became an informant.
-* The prisoners were airlifted from Guantánamo Bay in a secret operation nearly a year after they admitted to serving as foot soldiers for the accused Indonesian terrorist leader Hambali.
-* The president-elect tapped the former football star for the job two years after a failed run for a Senate seat in Georgia.
-* Ms. Cheney defended her work on the select committee in a detailed statement, and called the report “a malicious and cowardly assault on the truth.”
-* Senior officials discussed U.S. plans to announce additional support for Ukraine, and spoke about casualties among North Korean troops sent to help Russia.
-* Ohio’s senior Democratic senator told colleagues that despite his defeat, he was not done with politics just yet.
+* The official, Brian Williams, was appointed by the mayor last year to oversee public safety. He was immediately placed on administrative leave, the mayor’s office said.
+* The police in Madison, Wis., were working to establish a motive for the attack, which left a 14-year-old student and 42-year-old teacher dead and six others injured.
+* As Ryan W. Routh fled the scene, a highway was shut down and a car crash ensued. In charging him with attempted felony murder, the state defied federal prosecutors.
+* The hornet was discovered in a corner of Washington State. Five years later, a massive mobilization has eliminated the invasive species, at least for now.
+* President-elect Donald J. Trump’s denunciation of a bipartisan spending bill all but buried that deal while leaving unclear what form a new agreement could take.
+* Luigi Mangione, who is currently jailed in Pennsylvania, was charged in New York this week with first-degree murder in what prosecutors said was part of an “act of terrorism.”
+* The blinding light display in “National Lampoon’s Christmas Vacation” dazzled the Griswolds and nearly broke the power grid. What would it cost and how much power would it really need?
+* In an era of invective and distrust, two California candidates turned a tie over to chance.
+* The department had been trying to phase out the two plans in favor of a more generous new one that has been tied up by litigation since this summer.
+* Sotheby’s called the stone the world’s oldest inscribed with the Ten Commandments, but some experts had raised questions about its provenance and authenticity.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* American intelligence agencies have warned of influence operations targeting city halls and statehouses. But what’s in it for Beijing?
+* Records and interviews show that Beijing has used pandas as leverage to shape policy on Taiwan and to cultivate relationships with local U.S. politicians.
+* China said two of its astronauts spent nine hours outside the Tiangong Space Station. The longest previous spacewalk, by Americans, was eight hours and 56 minutes.
+* General Motors has gone from market leader to also-ran in the world’s largest car market, stymied by its own missteps and Chinese policies that favored its local rivals.
+* For years, Starbucks was the dominant coffee chain in China. Now rivals offering local flavors and cheaper prices are crushing the company’s bottom line in its second-largest market.
+* Sotheby’s called the stone the world’s oldest inscribed with the Ten Commandments, but some experts had raised questions about its provenance and authenticity.
+* Plus, the big stories of 2024 through our photographers’ eyes.
+* Corruption investigations may have shaken Beijing’s confidence in top commanders, but China’s military expansion hasn’t slowed, a report found.
 * Funding its war against the United States, the Taliban reaped millions from boom towns trading opium, heroin and meth. Victorious, the group crushed the trade, leaving ghost towns in its wake.
 * The merger talks between Japan’s second- and third-largest automakers highlight the intense upheaval within the world’s auto industry.
-* In its efforts to attract visitors, the country extended stays from less than a week to up to 10 days for visitors between destinations.
-* Plus, the search for a van Gogh masterpiece.
-* An analysis of Huawei’s latest series of smartphones, the Mate 70, found chips that showed little progress from those used in last year’s devices.
-* The north benefited from the global search for alternatives to Chinese manufacturing. No one knows whether a second Trump term will impede or accelerate that growth.
-* Sending troops to fight against Ukraine has gotten North Korea much-needed cash and diplomatic leverage. But there may be hidden costs, too.
-* A tsunami alert was lifted for the Pacific island nation, but government websites were offline after the quake. The U.S. Embassy building was seriously damaged, officials said.
-* Plus, the breakout stars of 2024.
-* Prime Minister Sheikh Hasina and top officials are implicated in a centralized program that abducted dissidents and held them in secret prisons, an official commission’s preliminary report said.
 
 ![Asian](./asian.png)
