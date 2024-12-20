@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Syria’s new rulers say they will spare conscripts of Bashar al-Assad and pursue those who oversaw his regime’s abuses. Hundreds are lining up to learn which promise applies to them.
-* Funding its war against the United States, the Taliban reaped millions from boom towns trading opium, heroin and meth. Victorious, the group crushed the trade, leaving ghost towns in its wake.
-* The Russian prosecutor’s office said the suspect, a 29-year-old citizen of Uzbekistan, confessed to planting the bomb on the orders of Ukrainian agents.
-* If polls are correct, Olaf Scholz’s successor could be the 69-year-old leader of the Christian Democratic Union. He is offering to get the German economic engine humming again.
-* Ukraine’s forces are steadily losing ground on the battlefield. The assassination of a top general in Moscow won’t improve their war effort, analysts and Western officials say.
-* A Syrian Air flight from Damascus landed in Aleppo on Wednesday, as the transitional government tries to demonstrate its ability to run the war-shattered country.
-* For over three months, judges and lawyers have tried to grasp the true nature of Dominique Pelicot, who said he had invited dozens of strangers to join him in raping his drugged wife.
-* Corruption investigations may have shaken Beijing’s confidence in top commanders, but China’s military expansion hasn’t slowed, a report found.
-* U.S.-backed, Kurdish-led forces say they have come under fresh attack in several places by a Turkish-backed militia, even as Washington seeks a lasting cease-fire.
-* Police leaders waited too long — three days — to trigger a national mobilization to tackle the anti-immigrant violence that broke out in Britain this year, a report found.
+* Dozens of men who abused Gisèle Pelicot were convicted, including the man who invited them to do so: her husband of 50 years. She wanted the public trial to show rape victims they were not alone.
+* A visit to the Indian Ocean islands of Mayotte, which were struck by Cyclone Chido last weekend, reveals the devastating toll of the storm on an impoverished territory that belongs to France.
+* The ancient city, an early stronghold of opposition to Bashar al-Assad’s oppressive regime, was ravaged by a government crackdown. New York Times correspondents in Homs spoke to people who were reacting to his fall with smiles and tears.
+* Records and interviews show that Beijing has used pandas as leverage to shape policy on Taiwan and to cultivate relationships with local U.S. politicians.
+* With Germany and France both in political turmoil, the new administration of Donald J. Trump will begin at a time of instability for the continent.
+* Dominique Pelicot received a 20-year sentence after he admitted to drugging and raping his wife, Gisèle. Here’s how the events unfolded.
+* Medical workers at one of the last functioning hospitals in the north of the territory say the facility has come under heavy attack by Israel this week.
+* The Russian president, in a marathon annual news conference, said that he had not yet met with Bashar al-Assad, the ousted Syrian leader who fled to Moscow, but that he planned to.
+* But many European leaders say that with no sign that Russia is interested in peace, it is too early to discuss the presence of peacekeeping forces.
+* Israeli fighter jets have launched hundreds of airstrikes, while soldiers have seized a buffer zone and captured military posts in territory formerly under Syrian control.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The official, Brian Williams, was appointed by the mayor last year to oversee public safety. He was immediately placed on administrative leave, the mayor’s office said.
-* The police in Madison, Wis., were working to establish a motive for the attack, which left a 14-year-old student and 42-year-old teacher dead and six others injured.
-* As Ryan W. Routh fled the scene, a highway was shut down and a car crash ensued. In charging him with attempted felony murder, the state defied federal prosecutors.
-* The hornet was discovered in a corner of Washington State. Five years later, a massive mobilization has eliminated the invasive species, at least for now.
-* President-elect Donald J. Trump’s denunciation of a bipartisan spending bill all but buried that deal while leaving unclear what form a new agreement could take.
-* Luigi Mangione, who is currently jailed in Pennsylvania, was charged in New York this week with first-degree murder in what prosecutors said was part of an “act of terrorism.”
-* The blinding light display in “National Lampoon’s Christmas Vacation” dazzled the Griswolds and nearly broke the power grid. What would it cost and how much power would it really need?
-* In an era of invective and distrust, two California candidates turned a tie over to chance.
-* The department had been trying to phase out the two plans in favor of a more generous new one that has been tied up by litigation since this summer.
-* Sotheby’s called the stone the world’s oldest inscribed with the Ten Commandments, but some experts had raised questions about its provenance and authenticity.
+* The panel overruled the trial judge, who had allowed Fani T. Willis to keep the case despite a romantic relationship that defendants said created a conflict of interest.
+* The mayor and labor unions touted the economic promise of the $1.3 billion project. Opponents said the arena would decimate the city’s storied Chinatown.
+* The virus has spread rapidly in California, the nation’s largest producer of milk. Farmers are frustrated that their herds are getting infected despite various precautions.
+* At the request of law enforcement officials, a judge ordered a man, who reportedly corresponded with the shooter about a second attack, to surrender his guns.
+* Politicians on both the left and the right have sought to change or limit what teachers can do inside classrooms. Teachers often ignore them.
+* Baltimore addiction programs draw patients with free housing while collecting millions. Some say one company offered little help.
+* The U.S. officials plan to look for signs of Austin Tice, a missing American journalist, as well as other U.S. citizens.
+* Thirty-eight Republican lawmakers resisted the president-elect’s command to support a spending and debt deal, showing that at least some of his followers are willing to buck his leadership in the right circumstances.
+* The man is charged with acting as an illegal foreign agent. The move is part of an effort by the authorities to prevent China from influencing American politicians.
+* Larry Allen Clay Jr., 58, of Fayetteville, W.Va., was also a sheriff’s deputy at the time of the crimes, which he tried to cover up, prosecutors said.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* In separate agreements with Nauru, Papua New Guinea and the Solomon Islands, Australia is attempting to edge out China’s influence in the region.
+* Pension funds and big investors are pressuring Coca-Cola, Pepsico and others over brutal working conditions in India’s cane fields. Some of the sugar buyers are tiptoeing toward change.
+* A quarter century after the former Portuguese colony was made a Chinese territory, Macau’s economic boundaries with the mainland are being blurred.
+* Plus, the year in viral moments.
 * American intelligence agencies have warned of influence operations targeting city halls and statehouses. But what’s in it for Beijing?
 * Records and interviews show that Beijing has used pandas as leverage to shape policy on Taiwan and to cultivate relationships with local U.S. politicians.
 * China said two of its astronauts spent nine hours outside the Tiangong Space Station. The longest previous spacewalk, by Americans, was eight hours and 56 minutes.
 * General Motors has gone from market leader to also-ran in the world’s largest car market, stymied by its own missteps and Chinese policies that favored its local rivals.
 * For years, Starbucks was the dominant coffee chain in China. Now rivals offering local flavors and cheaper prices are crushing the company’s bottom line in its second-largest market.
 * Sotheby’s called the stone the world’s oldest inscribed with the Ten Commandments, but some experts had raised questions about its provenance and authenticity.
-* Plus, the big stories of 2024 through our photographers’ eyes.
-* Corruption investigations may have shaken Beijing’s confidence in top commanders, but China’s military expansion hasn’t slowed, a report found.
-* Funding its war against the United States, the Taliban reaped millions from boom towns trading opium, heroin and meth. Victorious, the group crushed the trade, leaving ghost towns in its wake.
-* The merger talks between Japan’s second- and third-largest automakers highlight the intense upheaval within the world’s auto industry.
 
 ![Asian](./asian.png)
