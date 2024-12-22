@@ -2,29 +2,29 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* At least four people were killed and more than 200 others injured after a driver rammed an SUV into a crowded Christmas market in eastern Germany.
+* Christian Surfers, a group of missionaries who surf, have expanded to a remote part of Costa Rica, where people come from afar looking for the “perfect wave.” And maybe a little Jesus?
+* Lithuania’s national opera house had stopped showing Tchaikovsky’s 1892 masterpiece in solidarity with Ukraine over the war with Russia. Then a new minister expressed fondness for the Russian composer, igniting a furor.
+* President Bashar al-Assad, who wielded fear and force over Syria for more than two decades, fled the country under the cover of night — and a fake political address.
+* In the West African nation of Niger, killings by insurgents have surged since the military seized power in a coup, expelled U.S. and European troops and stopped negotiations with Islamist groups.
+* A U.S. Navy ship mistakenly fired at the F/A-18, whose two pilots were safely recovered, the military said.
+* At least five people, including a 9-year-old child, were killed in the attack, which took place in the eastern city of Magdeburg. The authorities are still seeking a motive.
+* Although Iran has one of the biggest supplies of natural gas and crude oil in the world, it finds itself in a full blown energy emergency, coming just as it also suffers major geopolitical setbacks.
 * Canada’s prime minister gained global renown 10 years ago for his unabashedly progressive politics. But at home, voters turned sour on him long ago.
 * A popular restaurant in Buenos Aires is staffed almost entirely by workers with neurological challenges, tapping into often-overlooked talent and harnessing their skills.
-* The Israeli military said several people were lightly injured after its air defenses failed to intercept the projectile, which struck a playground in the city.
-* The Ukrainian energy network has been so battered by Russian attacks that officials are seeking out new options to prevent a crisis, like renting floating power plants and scavenging scrapped ones from the region.
-* Political instability, dwindling public support and economic constraints are eroding the costly gains that the country made in combating militancy after a ghastly school attack in 2014.
-* Years of strife ruined the energy sector, battered the currency and strangled growth. The West must ease financial controls to help the economy, experts say.
-* Allies and opponents alike are calling for him to resign as prime minister.
-* The leader of the party that supported Prime Minister Justin Trudeau’s Liberal Party vowed to bring down the government, saying Mr. Trudeau had failed Canada.
-* Officials have said that the death toll in Mayotte, currently at 35, could end up in the thousands. But in the capital, there were no scenes of public mourning and little talk of searches for missing loved ones.
+* Francis urged the Vatican inner circle to bless more and talk less badly of others. It wasn’t the first time he had used the occasion to scold them.
 
 ![Global](./global.png)
 ## New York Times United States News
-* The job status of Pedro Martinez, the chief executive of Chicago Public Schools, had been in doubt for months amid tension with Mayor Brandon Johnson.
-* Eric J. DeValkenaere was convicted of involuntary manslaughter in the death of Cameron Lamb. Calls for clemency angered many in Kansas City, Mo.
-* A freshman at George Mason University, who is a citizen of Egypt, was arrested on Tuesday after being accused of planning an attack.
-* Harvard, Penn and U.S.C. were among the universities and colleges that issued advisories in anticipation of possible travel bans.
-* The first night of Hanukkah and Christmas Day converge for the first time since 2005. What are families who celebrate both to do?
-* Undocumented workers help feed America’s hunger for prepared foods, but some take jobs with staffing agencies that expose them to hazardous conditions.
-* The popular measure gives full benefits to millions of people who currently receive them at a reduced level. Critics warn the $196 billion cost will speed up the program’s insolvency.
-* Tired of real politics? Try the silver screen instead.
-* The Senate passed the measure, sending it to President Biden’s desk, shortly after the midnight deadline for funding to lapse.
-* With the vote, the Senate approved its 235th lifetime judge of President Biden’s tenure, besting his predecessor by a single judgeship.
+* Five schools agreed to changes after reports that they failed to protect students from antisemitism and anti-Arab and anti-Muslim discrimination.
+* Rubi Patricia Vergara was one of two victims killed in Madison this week. At a memorial service, she was remembered as an empathetic teenager with a passion for music and art.
+* Unable to find effective treatments at home, veterans with brain-injury symptoms are going abroad for psychedelics like ibogaine that are illegal in the U.S.
+* Some Republicans have said that a constitutional convention is overdue. Many Democratic-led states have rescinded their long-ago calls for one, and California will soon consider whether to do the same.
+* In a party that has grown less religious, some prominent Democrats say discussing their deepest beliefs can be a way to connect — when it’s authentic.
+* As Donald J. Trump returns to office, the rebuilt program is under threat. Many vulnerable people approved for resettlement in the U.S. could be stranded abroad.
+* First there was Christmas Eve … and then a new celebration was created.
+* A U.S. Navy ship mistakenly fired at the F/A-18, whose two pilots were safely recovered, the military said.
+* The police said the man was being investigated for possible drunken driving but instead of stopping, he smashed his pickup truck into a J.C. Penney.
+* Mark Burnett and President-elect Donald J. Trump had a long and successful collaboration that made Mr. Trump a household name.
 
 ![US](./usnews.png)
 ## New York Times Asia News
