@@ -2,41 +2,41 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
+* Trump blamed Biden. Biden blamed the Afghan military. Our investigation found that the U.S. unwittingly laid the groundwork for the Taliban’s victory long ago.
+* Some say that the community is in danger of losing its 1,600-year foothold in the enclave and that it is far from certain those who have fled will ever feel safe enough to return home.
+* The Catholic Jubilee in 2025 is expected to draw 32 million visitors. Officials are proud of the city’s accompanying makeover, but residents lament soaring housing costs and changes in Rome’s character.
+* It is a daunting task for Bangladesh. But an unusual mix of young people and seasoned technocrats are determined to make the most of their opening.
+* Reports of vandalism and mob violence are real, but wilder accusations emanating from India muddy the picture.
+* Hun Manet, who took over as prime minister last year, has followed in the steps of his father, who ran Cambodia for nearly 40 years.
+* The U.K. government has pledged to remove hereditary peers from Parliament in 2025. For Lord Cromwell and 87 others, it is a wistful departure.
+* President Aleksandr G. Lukashenko of Belarus keeps arresting political opponents, but analysts wonder if a string of unusual pardons is a bid to get sanctions eased.
 * After decades of silence, dozens of older men are talking about the sexual abuse they suffered at schools run by religious orders. We spoke to four of them.
-* Gangs are filling a power vacuum left by Israel in some parts of southern Gaza, hijacking desperately needed aid for Palestinian residents.
-* The North Korean army is one of the world’s largest.​ As it joins Russia’s war against Ukraine, its soldiers are paying a price for Kim Jong-un’s geopolitical maneuvers.
-* The authorities said they were struggling to understand the motives behind ramming a car into a Christmas market in the eastern city of Magdeburg, which left a 9-year-old boy among the five dead.
-* A group of missionaries who surf have expanded to a remote part of Costa Rica, where people come from afar looking for the “perfect wave.” And maybe a little Jesus?
-* At least 17 on the ground were hurt, officials said.
-* Lithuania’s national opera house had stopped showing Tchaikovsky’s 1892 masterpiece in solidarity with Ukraine over the war with Russia. Then a new minister expressed fondness for the Russian composer, igniting a furor.
-* President Bashar al-Assad, who wielded fear and force over Syria for more than two decades, fled the country under the cover of night — and a fake political address.
-* A U.S. Navy ship mistakenly fired at the F/A-18, whose two pilots were safely recovered, the military said.
-* In the West African nation of Niger, killings by insurgents have surged since the military seized power in a coup, expelled U.S. and European troops and stopped negotiations with Islamist groups.
+* After an assailant driving an S.U.V. killed five people, calls for solidarity have quickly given way to criticism by rival lawmakers, ahead of snap elections set for February.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Unable to find effective treatments at home, veterans with brain-injury symptoms are going abroad for psychedelics like ibogaine that are illegal in the U.S.
+* Millions of companies may have to report information about their owners to the Treasury Department by Jan. 1 under an appeals court ruling.
 * Harvard, Penn and U.S.C. were among the universities and colleges that issued advisories in anticipation of possible travel bans.
-* Some Republicans have said that a constitutional convention is overdue. Many Democratic-led states have rescinded their long-ago calls for one, and California will soon consider whether to do the same.
-* Would life in the Southwest be easier for someone doing gig work in the television and film industry?
-* Former Representative Matt Gaetz has been under investigation since 2021 over allegations that include sexual misconduct and illicit drug use.
-* The Supreme Court will hear arguments next month in First Amendment challenges to laws banning the app and shielding minors from sexual materials on the internet.
+* President Biden commuted the sentences of 37 men on federal death row but declined to save the lives of three men convicted of “hate-motivated mass murder” or “terrorism.”
 * Many Haitian immigrants work at an Amazon warehouse near Springfield, packaging thousands of holiday gifts. But after Donald Trump won the election, some worry about their future.
-* North Korean troops have now entered Russia’s war with Ukraine in a major way, and some have been killed, Western officials say.
-* Here is a full list of those granted commutations, as well as the three men remaining on death row.
-* Those affected by the president’s action on Monday are still subject to life imprisonment without the possibility of parole. Three men will remain on federal death row.
+* Employees of SpaceX have filed a formal petition to create the city of Starbase. Its first mayor would be a security manager for the company.
+* “Coercive diplomacy” could leave Tehran to choose either a negotiated disassembly of its nuclear capability, or a forced one.
+* As time runs out for the Biden administration, cities like Minneapolis — where an investigation found abuse and racial discrimination — may avoid oversight.
+* A modified Dodge Charger that blasted neighbors out of their sleep appears to have gone quiet, at least downtown, as its owner deals with legal problems.
+* China and the World Anti-Doping Agency say that positive tests for a banned drug among elite Chinese swimmers were a result of unwitting contamination. But the science behind that assertion is not so clear.
+* Reports and video footage newly released in Riverside County, Calif., indicate that a man was able to cover his cell window and camera without intervention.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Trump blamed Biden. Biden blamed the Afghan military. Our investigation found that the U.S. unwittingly laid the groundwork for the Taliban’s victory long ago.
+* Reports of vandalism and mob violence are real, but wilder accusations emanating from India muddy the picture.
+* It is a daunting task for Bangladesh. But an unusual mix of young people and seasoned technocrats are determined to make the most of their opening.
+* Hun Manet, who took over as prime minister last year, has followed in the steps of his father, who ran Cambodia for nearly 40 years.
+* The Japanese companies are considering joining forces to survive in a rapidly changing auto industry, but auto history is filled with troubled and failed marriages.
+* Plus, celebrating “Chrismukkah.”
 * The North Korean army is one of the world’s largest.​ As it joins Russia’s war against Ukraine, its soldiers are paying a price for Kim Jong-un’s geopolitical maneuvers.
 * With the next season of “Squid Game” about to air, a Korean American writer shares her experience of a group tour in Korea based on the popular streaming genre.
 * Japan’s second- and third-largest automakers hope the $50 billion deal would help them catch up with Tesla and China’s BYD in electric vehicles and advanced software.
 * Plus, parody as protest in South Korea.
-* Anh Sung-jae went to America as a 13-year-old, joined the Army, went to culinary school and opened a top restaurant in San Francisco. Now back home in South Korea, he’s a Netflix star.
-* Political instability, dwindling public support and economic constraints are eroding the costly gains that the country made in combating militancy after a  school attack in 2014.
-* In separate agreements with Nauru, Papua New Guinea and the Solomon Islands, Australia is attempting to edge out China’s influence in the region.
-* Pension funds and big investors are pressuring Coca-Cola, Pepsico and others over brutal working conditions in India’s cane fields. Some of the sugar buyers are tiptoeing toward change.
-* A quarter century after the former Portuguese colony was made a Chinese territory, Macau’s economic boundaries with the mainland are being blurred.
-* Plus, the year in viral moments.
 
 ![Asian](./asian.png)
