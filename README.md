@@ -2,32 +2,33 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
+* The ancient Christian community in the coastal city of Tyre has little cause for celebration this year, with many mourning their dead and still rattled by months of Israeli bombardment.
+* In southern Mexico, a city dazzles with a celebration of its rich culture and history through a radish-carving competition, a cherished tradition upheld by generations of families.
+* Russia’s state aviation authority said the Azerbaijan Airlines plane had been trying to make an emergency landing. The Kazakh authorities said that at least 28 people survived.
+* Vladimir Kara-Murza, a vehement critic of President Vladimir V. Putin, didn’t want to be part of a prisoner exchange. But he says more exchanges are needed.
+* In the ruins left by Cyclone Chido, people from Mayotte, off the eastern coast of Africa, are calling to deport the undocumented immigrants who had settled there from neighboring islands.
+* Hundreds of buildings were damaged or looted, including schools and hospitals, in a wave of unrest after Daniel Chapo was confirmed as the winner of the presidential election.
 * Trump blamed Biden. Biden blamed the Afghan military. Our investigation found that the U.S. unwittingly laid the groundwork for the Taliban’s victory long ago.
 * Some say that the community is in danger of losing its 1,600-year foothold in the enclave and that it is far from certain those who have fled will ever feel safe enough to return home.
 * The Catholic Jubilee in 2025 is expected to draw 32 million visitors. Officials are proud of the city’s accompanying makeover, but residents lament soaring housing costs and changes in Rome’s character.
 * It is a daunting task for Bangladesh. But an unusual mix of young people and seasoned technocrats are determined to make the most of their opening.
-* Reports of vandalism and mob violence are real, but wilder accusations emanating from India muddy the picture.
-* Hun Manet, who took over as prime minister last year, has followed in the steps of his father, who ran Cambodia for nearly 40 years.
-* The U.K. government has pledged to remove hereditary peers from Parliament in 2025. For Lord Cromwell and 87 others, it is a wistful departure.
-* President Aleksandr G. Lukashenko of Belarus keeps arresting political opponents, but analysts wonder if a string of unusual pardons is a bid to get sanctions eased.
-* After decades of silence, dozens of older men are talking about the sexual abuse they suffered at schools run by religious orders. We spoke to four of them.
-* After an assailant driving an S.U.V. killed five people, calls for solidarity have quickly given way to criticism by rival lawmakers, ahead of snap elections set for February.
 
 ![Global](./global.png)
 ## New York Times United States News
-* Millions of companies may have to report information about their owners to the Treasury Department by Jan. 1 under an appeals court ruling.
-* Harvard, Penn and U.S.C. were among the universities and colleges that issued advisories in anticipation of possible travel bans.
-* President Biden commuted the sentences of 37 men on federal death row but declined to save the lives of three men convicted of “hate-motivated mass murder” or “terrorism.”
-* Many Haitian immigrants work at an Amazon warehouse near Springfield, packaging thousands of holiday gifts. But after Donald Trump won the election, some worry about their future.
-* Employees of SpaceX have filed a formal petition to create the city of Starbase. Its first mayor would be a security manager for the company.
-* “Coercive diplomacy” could leave Tehran to choose either a negotiated disassembly of its nuclear capability, or a forced one.
+* Republicans passed the law in 2023, joining other conservative states and counties that have sought to restrict the availability of certain books.
+* An increasingly ferocious and volatile surf is raising questions about the future of the state’s piers, which have defined the coastline for generations.
+* The president and vice president of the University of Michigan’s student assembly were impeached after they demanded divestment and stopped funding campus activities.
 * As time runs out for the Biden administration, cities like Minneapolis — where an investigation found abuse and racial discrimination — may avoid oversight.
-* A modified Dodge Charger that blasted neighbors out of their sleep appears to have gone quiet, at least downtown, as its owner deals with legal problems.
-* China and the World Anti-Doping Agency say that positive tests for a banned drug among elite Chinese swimmers were a result of unwitting contamination. But the science behind that assertion is not so clear.
-* Reports and video footage newly released in Riverside County, Calif., indicate that a man was able to cover his cell window and camera without intervention.
+* Communities are divided on how much to cooperate with immigration agents. In San Diego, the sheriff has vowed to defy a new policy protecting migrants.
+* More than half of the cats at the sanctuary in Shelton, Wash., died of the virus over the past several weeks.
+* He laid the foundation for sociolinguistics, and he showed that structures like class and race shaped speech as much as where someone lives.
+* Children and the young at heart can see where in the world Santa is and how many gifts have been delivered.
+* Past efforts to shrink the federal bureaucracy, including basic things like selling off unused government buildings, have come up short. Republicans are set to try again.
+* The former president was discharged Tuesday morning after being admitted to a hospital on Monday after developing a fever.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Around the world, people found ways to show their holiday spirit.
 * Trump blamed Biden. Biden blamed the Afghan military. Our investigation found that the U.S. unwittingly laid the groundwork for the Taliban’s victory long ago.
 * Reports of vandalism and mob violence are real, but wilder accusations emanating from India muddy the picture.
 * It is a daunting task for Bangladesh. But an unusual mix of young people and seasoned technocrats are determined to make the most of their opening.
@@ -37,6 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * The North Korean army is one of the world’s largest.​ As it joins Russia’s war against Ukraine, its soldiers are paying a price for Kim Jong-un’s geopolitical maneuvers.
 * With the next season of “Squid Game” about to air, a Korean American writer shares her experience of a group tour in Korea based on the popular streaming genre.
 * Japan’s second- and third-largest automakers hope the $50 billion deal would help them catch up with Tesla and China’s BYD in electric vehicles and advanced software.
-* Plus, parody as protest in South Korea.
 
 ![Asian](./asian.png)
