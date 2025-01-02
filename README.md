@@ -2,32 +2,34 @@
 Auto RSS New York Times and Generate Word Cloud
 
 ## New York Times Global News
-* Speaking on the 25th anniversary of his rule, President Vladimir V. Putin delivered an upbeat and vague New Year’s Eve message that did not address casualties in Ukraine or rising inflation at home.
-* The Houthis, who are backed by Iran, have targeted commercial ships in the Red Sea in solidarity with Hamas in Gaza. They launched a missile at Israel overnight.
-* Chancellor Olaf Scholz said Germany’s election would “not be decided by the owners of social media channels” in his annual New Year’s Eve address.
-* Stepped up attacks by Russia are heightening longstanding concerns over how Ukraine manages its military and countering assumptions that Moscow’s offensive would slow, soldiers and military analysts say.
-* Oh Jaejin’s father, 64, had not told Mr. Oh he was flying, because he didn’t want his son to worry. They had been looking forward to his becoming a grandfather.
-* On Rio de Janeiro’s fringes, partygoers have been dancing “charme” to the sounds of R&amp;B for decades. Now, a new crop of dancers is reviving — and transforming — the scene.
-* The more than one million Syrians who fled to Germany have celebrated the end of war in their homeland, but some fear it could mean losing their refugee status.
-* The police are investigating whether President Yoon Suk Yeol tried to lead an insurrection when he declared martial law and plunged the country into crisis.
-* In his own words, a restaurant owner described recording videos of the Jeju Air plane crash as it happened. “Every time I closed my eyes, I kept seeing afterimages of the blast.”
-* The time between when the pilot reported a bird strike and when it crashed could be key to unraveling one of the world’s worst aviation disasters in years.
+* “Povo no Poder,” or “People in Power,” by the rap star Azagaia, has become the unofficial anthem of the protests over a disputed election.
+* A transnational pipeline was shut down on Wednesday after Kyiv refused to renew a prewar agreement that allowed for the transit of Russian gas through its territory.
+* ​The rebels’ path to victory is littered with evidence of Syria’s defeated military. It also reflects the sizable task of trying to put the country back together.
+* Pakistani leaders were once friends of the Taliban in Afghanistan. Now, cross-border violence has become alarmingly frequent.
+* A former undocumented resident of California who now runs a town in Mexico, Crispín Agustín Mendoza has survived one assassination attempt. But he says, “I have to learn how to survive.”
+* Who gets to spend the millions of euros in change tossed into the Roman landmark?
+* The troops are expected to leave Ivory Coast this month as France, a former colonial power in West Africa, fast loses influence there.
+* Several people were killed in an Israeli airstrike on the city of Jabaliya, according to the Palestinian Civil Defense. Israel’s military said it was targeting Hamas.
+* In his New Year’s address, President Volodymyr Zelensky of Ukraine urged continued U.S. support.
+* And why didn’t it cut off Russia’s natural gas earlier?
 
 ![Global](./global.png)
 ## New York Times United States News
+* The attack that left 15 dead and about three dozen injured followed a distressingly familiar pattern of assailants turning vehicles into weapons.
 * The decision to withdraw the petition appeared to be an effort to preserve a favorable federal ruling that could have been in jeopardy under President-elect Donald J. Trump.
-* Other state laws going into effect in 2025 will boost wages, restrict social media for children and make insulin cheaper.
-* Untreated water enthusiasts swear by natural springs. Their movement has parallels with raw milk drinkers and vaccine skeptics.
-* Items from his family, the military, his political career and long post-presidency — and two he made himself.
 * Scientists want to create breathalyzers that show how recently a driver used marijuana. Researchers also are studying how cannabis impairs motor skills and reflexes for habitual and occasional users.
-* Justin Baldoni claims that The Times defamed him and his team in an article about the actress Blake Lively’s allegations that she had been the victim of a smear campaign.
-* In wide-ranging remarks at a New Year’s Eve party at Mar-a-Lago, the president-elect also predicted that Mike Johnson would secure enough votes to be re-elected as House speaker.
-* The Iran hostage crisis became a symbol of a failed presidency, but for some of those who lived it, Jimmy Carter was the one who brought them home at the expense of his political career.
-* In his year-end report on the federal judiciary, the chief justice decried violence, intimidation and disinformation and warned against defiance of court rulings.
-* Investigators discovered more than 150 devices, mostly pipe bombs, on a property outside Norfolk, court papers say.
+* Other state laws going into effect in 2025 will boost wages, restrict social media for children and make insulin cheaper.
+* Two close advisers to President Biden will also be honored, in addition to career lawmakers who have worked across the aisle and advocates for liberal causes.
+* The two episodes have superficial similarities, including that both suspects used the same car rental app.
+* Renters of both vehicles had used Turo, a peer-to-peer app. Officials are investigating possible connections between the two cases.
+* This is what we have learned about a few of the 15 people who died when a man slammed a pickup into crowds on Bourbon Street.
+* The president-elect said on social media that he was right about fearing criminals on the other side of the border. Officials later identified the suspect as a U.S.-born citizen and Army veteran.
+* Bollards that normally protect pedestrians from vehicles were to be replaced as part of the city’s preparations for the Super Bowl next month. The attacker drove his pickup around a police vehicle parked to block traffic from the street he struck.
 
 ![US](./usnews.png)
 ## New York Times Asia News
+* Plus, fitness goals beyond weight loss.
+* Here are some key events to look forward to in space and astronomy in the year ahead.
 * Pakistani leaders were once friends of the Taliban in Afghanistan. Now, cross-border violence has become alarmingly frequent.
 * The Southeast Asian country has lagged behind Vietnam and Thailand when it comes to tourism. The government hopes new hotels, roads and a train system will put Laos on visitors’ lists.
 * In a New Year’s address, Xi Jinping made a rare acknowledgment of the flagging economy while reiterating the government’s growth targets.
@@ -36,7 +38,5 @@ Auto RSS New York Times and Generate Word Cloud
 * Oh Jaejin’s father, 64, had not told Mr. Oh he was flying, because he didn’t want his son to worry. They had been looking forward to his becoming a grandfather.
 * The companies have found plenty of new channels to the U.S. market — demonstrating the potential limits of the tariffs Donald Trump has promised to impose.
 * A mysterious rice cooker and a rainstorm combine to convey what a woman doesn’t speak of.
-* In his own words, a restaurant owner described recording videos of the Jeju Air plane crash as it happened. “Every time I closed my eyes, I kept seeing afterimages of the blast.”
-* At a shelter in the Flushing area of New York, Hui Muslims who fled oppression in China are concerned about the president-elect’s vows to tighten asylum policy.
 
 ![Asian](./asian.png)
