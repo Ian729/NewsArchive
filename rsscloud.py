@@ -11,6 +11,8 @@ for ent in ents[:10]:
     global_news += "* "
     current = ent.get("summary", "")
     global_news += current
+    global_news += "\n"
+    global_news += "* "
     trans = T.translate(current)
     global_news += trans
     global_news += "\n"
@@ -23,6 +25,8 @@ for ent in ents[:10]:
     us_news += "* "
     current = ent.get("summary", "")
     us_news += current
+    us_news += "\n"
+    us_news += "* "
     trans = T.translate(current)
     us_news += trans
     us_news += "\n"
@@ -37,6 +41,8 @@ for ent in ents[:10]:
     asian_news += "* "
     current = ent.get("summary", "")
     asian_news += current
+    asian_news += "\n"
+    asian_news += "* "
     asian_news += T.translate(current)
     asian_news += "\n"
 
