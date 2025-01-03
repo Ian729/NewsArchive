@@ -1,4 +1,4 @@
 feedparser
-wordcloud
 black
 isort
+translate
