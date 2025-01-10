@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* After Donald Trump suggested he might take over Greenland by force, the consensus among the island’s population appears to be bewilderment and anxiety.
-* 在唐纳德·特朗普（ Donald Trump ）建议他可能以武力接管格陵兰岛之后，该岛人口之间的共识似乎是困惑和焦虑。
-* Despite pressure by the United States and others to elect a president in order to receive financial support, a consensus candidate has yet to emerge who can clearly end Lebanon’s political gridlock.
-* 尽管美国和其他国家施加压力，要求选举总统以获得财政支持，但尚未出现能够明显结束黎巴嫩政治僵局的共识候选人。
-* For weeks, Iranian officials have downplayed the fall of their ally in Syria. But an important general has offered a remarkably candid view of the blow to Iran, and its military’s prospects.
-* 几周来，伊朗官员一直淡化其盟友在叙利亚的垮台。但一位重要的将军对伊朗遭受的打击及其军事前景提出了非常坦率的看法。
-* The attack, which also wounded dozens of people, came hours after Ukraine’s military attacked an oil depot deep inside Russia.
-* 这次袭击也造成数十人受伤，几小时前，乌克兰军方袭击了俄罗斯境内的一个油库。
-* For years, the far-right National Rally tried to distance itself from Mr. Le Pen’s racist and antisemitic remarks. But after his death Tuesday, it hailed him as a visionary.
-* 多年来，极右翼的全国拉力赛试图与勒庞的种族主义和反犹太主义言论保持距离。但在他周二去世后，它称赞他是一个有远见的人。
-* A distant era of global politics, when nations scrambled to grab territory, suddenly seems less distant.
-* 一个遥远的全球政治时代，当各国争相争夺领土时，似乎突然变得不那么遥远了。
-* Rescuers rushed to distribute blankets and tents to those displaced by the magnitude-7.1 quake that struck Tibetan villages near Nepal, toppling over 3,000 homes.
-* 救援人员急忙向尼泊尔附近的藏族村庄发生7.1级地震，推翻了3000多所房屋，造成流离失所者分发毯子和帐篷。
-* The Freedom Party and its leader, Herbert Kickl, have steadily built support by demonizing immigrants, while entering Austria’s political mainstream.
-* 自由党及其领导人赫伯特·基克尔（ Herbert Kickl ）通过妖魔化移民稳步建立支持，同时进入奥地利的政治主流。
-* Violence has escalated in the occupied territory over the last year and a half, as Israel conducts raids targeting armed fighters with Hamas and Palestinian Islamic Jihad.
-* 在过去一年半的时间里，随着以色列与哈马斯和巴勒斯坦伊斯兰圣战组织一起对武装战斗人员进行袭击，被占领土上的暴力升级。
-* In Paris, the two officials acknowledged potential strains on alliances with the return of Donald J. Trump to power, but said their countries would try to maintain strong ties.
-* 在巴黎，两位官员承认，随着唐纳德· J ·特朗普(Donald J. Trump)重新掌权，联盟可能面临压力，但表示他们的国家将努力保持牢固的关系。
+* As the country endured economic crisis and a devastating war, lawmakers failed 12 times to pick a head of state. They have now settled on Joseph Aoun, the leader of the military.
+* 由于该国经历了经济危机和毁灭性的战争，立法者12次未能选出国家元首。他们现在已经找到了军队领导人约瑟夫·奥恩（ Joseph Aoun ）。
+* During her detention, an aide said, Maria Corina Machado “was forced to record several videos.” She has garnered enormous support for her opposition to Nicolás Maduro.
+* 一名助手说，在被拘留期间，玛丽亚·科里纳·马查多（ Maria Corina Machado ） “被迫录制了几“她在反对尼古拉斯·马杜罗（ Nicolás Maduro ）方面获得了巨大的支持。
+* The Russian president celebrated his 50th birthday at a winery in Moldova. After the invasion of Ukraine, it moved the bottles he was given away from public view.
+* 俄罗斯总统在摩尔多瓦的一家酒庄庆祝了他的50岁生日。入侵乌克兰后，它将他收到的瓶子从公众视线中移开。
+* Palestinians, Sudanese and Syrians fleeing war have found a home in the country. But Cairo says newcomers are straining resources and is seeking financial help from the West.
+* 逃离战争的巴勒斯坦人、苏丹人和叙利亚人在该国找到了家园。但开罗表示，新移民正在耗尽资源，并寻求西方的财政援助。
+* The site, coco.fr, was shut down in June after being linked to more than 23,000 sexual abuse and other cases in France alone, including the rape trial that shocked the country last year.
+* 该网站coco.fr在6月份被关闭，此前仅在法国就有超过23,000起性虐待和其他案件，包括去年震惊该国的强奸案。
+* Pierre Poilievre, the Conservative leader, enjoys a commanding lead in the polls as Canadians look to the next general election.
+* 保守党领袖皮埃尔·波利耶夫尔（ Pierre Poilievre ）在民意调查中处于领先地位，因为加拿大人期待下一次大选。
+* In an impassioned address to officials from countries supporting Ukraine, Mr. Zelensky said “a new chapter” would be starting for Europe and the rest of the world, requiring even more cooperation.
+* 泽伦斯基在向支持乌克兰的国家的官员发表的慷慨激昂的讲话中表示，欧洲和世界其他地区将开启“新篇章” ，需要更多的合作。
+* Political leaders have shunned the Alternative for Germany. But on his social media platform X, Mr. Musk is pitching the party as mainstream.
+* 政治领导人避开了德国的替代方案。但在他的社交媒体平台X上，马斯克正在将该党推向主流。
+* The White House seized a rare chance to undermine Russia and build up regional allies as it built a coalition to support the Ukrainians.
+* 白宫抓住了一个难得的机会来破坏俄罗斯并建立地区盟友，因为它建立了一个联盟来支持乌克兰人。
+* The case, involving an inquiry into a marine’s death, had stoked political tensions long before President Yoon Suk Yeol’s impeachment last month.
+* 此案涉及对海军陆战队员死亡的调查，早在上个月总统尹淑烈被弹劾之前就引发了政治紧张局势。
 
 ## New York Times United States News
-* Some Pacific Palisades residents said the community had long asked for more detailed fire preparation plans. When a fire raged through the community this week, gridlock ensued.
-* 一些太平洋帕利塞兹居民表示，社区长期以来一直要求提供更详细的防火计划。本周，当一场大火席卷整个社区时，僵局随之而来。
-* Daniel Lurie, an heir to the Levi Strauss fortune, became the city’s 46th mayor on Wednesday and laid out a path to restoring the battered city’s luster.
-* 利维·施特劳斯（ Levi Strauss ）财富的继承人丹尼尔·卢里（ Daniel Lurie ）周三成为该市第46任市长，并为恢复这座遭受重创的城市的光彩铺平了道路。
+* As wildfires roar into residential neighborhoods, firefighters in California and elsewhere are finding that water systems can’t keep up with the demand.
+* 随着野火肆虐居民区，加利福尼亚州和其他地方的消防员发现供水系统无法满足需求。
 * The huge, fast-moving fires are stretching the region’s firefighting resources and have become the most destructive in the history of Los Angeles.
 * 巨大而快速的火灾正在延伸该地区的消防资源，并已成为洛杉矶历史上最具破坏性的火灾。
 * In a filing late Wednesday, Fani Willis petitioned the Georgia Supreme Court to allow her to keep prosecuting Donald J. Trump over efforts to overturn his 2020 election defeat.
 * 在周三晚些时候提交的一份文件中，法尼·威利斯（ Fani Willis ）向佐治亚州最高法院请愿，允许她继续起诉唐纳德· J ·特朗普（ Donald J. Trump ） ，因为他试图推翻他2020
-* A state funeral for the 39th president on Thursday will bring together all five living presidents and feature a eulogy from President Biden.
-* 周四举行的第39任总统国葬将汇集所有五位在世总统，并以拜登总统的悼词为特色。
-* The Minnesota governor and 2024 vice-presidential contender became the highest-profile Democrat to back Mr. Martin, one of the front-runners vying to run the party’s national committee.
-* 这位明尼苏达州州长和2024年副总统候选人成为支持马丁的最高知名度的民主党人，马丁是竞选该党全国委员会的领跑者之一。
-* Some who fled wealthy Los Angeles neighborhoods ended up at a hotel known for entertainment industry power lunches.
-* 一些逃离洛杉矶富裕社区的人最终来到了一家以娱乐业午餐而闻名的酒店。
-* The court, which hears arguments on Friday in a challenge to a law banning the app, has issued varying rulings when those two interests clashed.
-* 法院周五听取了对禁止该应用程序的法律提出质疑的论点，当这两个利益冲突时，法院发布了不同的裁决。
-* The White House seized a rare chance to undermine Russia and build up regional allies as it built a coalition to support the Ukrainians.
-* 白宫抓住了一个难得的机会来破坏俄罗斯并建立地区盟友，因为它建立了一个联盟来支持乌克兰人。
-* Some residents said Mayor Karen Bass should have canceled her trip to Ghana when weather warnings in Los Angeles grew increasingly dire.
-* 一些居民表示，当洛杉矶的天气警报越来越严重时，市长Karen Bass应该取消她的加纳之行。
+* Daniel Lurie, an heir to the Levi Strauss fortune, became the city’s 46th mayor on Wednesday and laid out a path to restoring the battered city’s luster.
+* 利维·施特劳斯（ Levi Strauss ）财富的继承人丹尼尔·卢里（ Daniel Lurie ）周三成为该市第46任市长，并为恢复这座遭受重创的城市的光彩铺平了道路。
+* The devastating wildfires have raised concerns about the safety of the water supply in some places. Here’s a list of the warnings and instructions for residents.
+* 毁灭性的野火引发了对一些地方供水安全的担忧。以下是对住户的警告和说明。
+* Democrats are demanding that Republicans slow consideration of picks for the new administration until they can review background checks, as the G.O.P. faces major pressure to quickly confirm them.
+* 民主党人要求共和党人慢慢考虑新政府的人选，直到他们能够审查背景调查，因为共和党面临着迅速确认他们的重大压力。
+* The justices are expected to rule quickly in the case, which pits national security concerns about China against the First Amendment’s protection of free speech.
+* 预计法官将在此案中迅速做出裁决，这使得对中国的国家安全担忧与第一修正案对言论自由的保护背道而驰。
+* As the Eaton fire retreated into the foothills, people who had fled their homes came back for a look. For many, the news was as bad as it could be.
+* 随着伊顿大火撤退到山麓，逃离家园的人们回来看一看。对许多人来说，这个消息非常糟糕。
+* The plane landed safely but is out of service because the collision damaged its wing, a Cal Fire spokesman said.
+* 加州消防局发言人说，这架飞机安全着陆，但由于碰撞损坏了机翼而无法使用。
+* The blaze threatened the observatory and communications infrastructure at the peak. Later, an observatory official said it appeared to be under control.
+* 大火在高峰期威胁到了天文台和通信基础设施。后来，一名天文台官员表示，它似乎得到了控制。
 
 ## New York Times Asia News
+* A social worker and teacher imprisoned for his activism, he later wrote about the toll of incarceration and worked to help others behind bars.
+* 作为一名因积极行动而被监禁的社会工作者和教师，他后来写了有关监禁代价的文章，并努力帮助其他人入狱。
+* Shujun Wang seemed to be a Chinese democracy activist, but an F.B.I. investigation showed just how far China will go to repress citizens abroad.
+* 王树军似乎是中国的民主活动家，但联邦调查局的一项调查显示，中国将在多大程度上压制海外公民。
+* The unexpected action is intended to tamp down a potential bubble in the bond market fueled by investors shunning riskier assets like stocks and real estate.
+* 这一意外行动旨在遏制债券市场的潜在泡沫，这种泡沫是由投资者回避股票和房地产等风险较高的资产推动的。
+* R. Nicholas Burns, the top U.S. diplomat in Beijing, says the Biden administration is making a final push to urge China to reconsider its tilt toward Russia, Iran and North Korea.
+* 美国驻北京高级外交官R ·尼古拉斯·伯恩斯(R. Nicholas Burns)表示，拜登政府正在做出最后努力，敦促中国重新考虑其对俄罗斯、伊朗和朝鲜的倾向。
+* Plus, renovating a wrecked palazzo.
+* 此外，您还可以翻修一座失事的宫殿。
 * The case, involving an inquiry into a marine’s death, had stoked political tensions long before President Yoon Suk Yeol’s impeachment last month.
 * 此案涉及对海军陆战队员死亡的调查，早在上个月总统尹淑烈被弹劾之前就引发了政治紧张局势。
 * TikTok is challenging a possible ban or forced sale to new owners in the United States, but has for several years been waging other fights in at least 20 countries.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 一个遥远的全球政治时代，当各国争相争夺领土时，似乎突然变得不那么遥远了。
 * Evidence released by an official inquiry into alleged war crimes painted a disturbing picture of an elite fighting force with a culture of impunity.
 * 对战争罪指控的官方调查公布的证据描绘了一幅令人不安的精锐作战部队有罪不罚文化的画面。
-* After Donald Trump suggested he might take over Greenland by force, the consensus among the island’s population appears to be bewilderment and anxiety.
-* 在唐纳德·特朗普（ Donald Trump ）建议他可能以武力接管格陵兰岛之后，该岛人口之间的共识似乎是困惑和焦虑。
-* The killing of a former Cambodian politician stoked safety fears that Thailand is no refuge for those fleeing autocracy.
-* 杀害一名前柬埔寨政治家引发了安全担忧，即泰国不是那些逃离独裁统治的人的避难所。
-* President Yoon Suk Yeol’s security service stopped an effort to detain him on insurrection charges and has vowed to do so again. Its roots are in the era of military dictatorships.
-* Yoon Suk Yeol总统的安全部门停止了以叛乱罪名拘留他的努力，并发誓要再次这样做。其根源在于军事独裁时代。
-* Rescuers rushed to distribute blankets and tents to those displaced by the magnitude-7.1 quake that struck Tibetan villages near Nepal, toppling over 3,000 homes.
-* 救援人员急忙向尼泊尔附近的藏族村庄发生7.1级地震，推翻了3000多所房屋，造成流离失所者分发毯子和帐篷。
-* The White House has discussed a possible swap with the Taliban for a prisoner at Guantánamo Bay, according to people familiar with the matter.
-* 据知情人士透露，白宫已经讨论了与塔利班交换关塔那摩湾一名囚犯的可能性。
 
