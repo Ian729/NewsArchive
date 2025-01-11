@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* As the country endured economic crisis and a devastating war, lawmakers failed 12 times to pick a head of state. They have now settled on Joseph Aoun, the leader of the military.
-* 由于该国经历了经济危机和毁灭性的战争，立法者12次未能选出国家元首。他们现在已经找到了军队领导人约瑟夫·奥恩（ Joseph Aoun ）。
-* During her detention, an aide said, Maria Corina Machado “was forced to record several videos.” She has garnered enormous support for her opposition to Nicolás Maduro.
-* 一名助手说，在被拘留期间，玛丽亚·科里纳·马查多（ Maria Corina Machado ） “被迫录制了几“她在反对尼古拉斯·马杜罗（ Nicolás Maduro ）方面获得了巨大的支持。
-* The Russian president celebrated his 50th birthday at a winery in Moldova. After the invasion of Ukraine, it moved the bottles he was given away from public view.
-* 俄罗斯总统在摩尔多瓦的一家酒庄庆祝了他的50岁生日。入侵乌克兰后，它将他收到的瓶子从公众视线中移开。
-* Palestinians, Sudanese and Syrians fleeing war have found a home in the country. But Cairo says newcomers are straining resources and is seeking financial help from the West.
-* 逃离战争的巴勒斯坦人、苏丹人和叙利亚人在该国找到了家园。但开罗表示，新移民正在耗尽资源，并寻求西方的财政援助。
-* The site, coco.fr, was shut down in June after being linked to more than 23,000 sexual abuse and other cases in France alone, including the rape trial that shocked the country last year.
-* 该网站coco.fr在6月份被关闭，此前仅在法国就有超过23,000起性虐待和其他案件，包括去年震惊该国的强奸案。
-* Pierre Poilievre, the Conservative leader, enjoys a commanding lead in the polls as Canadians look to the next general election.
-* 保守党领袖皮埃尔·波利耶夫尔（ Pierre Poilievre ）在民意调查中处于领先地位，因为加拿大人期待下一次大选。
-* In an impassioned address to officials from countries supporting Ukraine, Mr. Zelensky said “a new chapter” would be starting for Europe and the rest of the world, requiring even more cooperation.
-* 泽伦斯基在向支持乌克兰的国家的官员发表的慷慨激昂的讲话中表示，欧洲和世界其他地区将开启“新篇章” ，需要更多的合作。
-* Political leaders have shunned the Alternative for Germany. But on his social media platform X, Mr. Musk is pitching the party as mainstream.
-* 政治领导人避开了德国的替代方案。但在他的社交媒体平台X上，马斯克正在将该党推向主流。
-* The White House seized a rare chance to undermine Russia and build up regional allies as it built a coalition to support the Ukrainians.
-* 白宫抓住了一个难得的机会来破坏俄罗斯并建立地区盟友，因为它建立了一个联盟来支持乌克兰人。
-* The case, involving an inquiry into a marine’s death, had stoked political tensions long before President Yoon Suk Yeol’s impeachment last month.
-* 此案涉及对海军陆战队员死亡的调查，早在上个月总统尹淑烈被弹劾之前就引发了政治紧张局势。
+* A son of the country’s founding father says he has been persecuted by the government because of a feud with his older brother, who until May was prime minister.
+* 该国开国元勋的儿子说，由于与他的哥哥不和，他一直受到政府的迫害，他的哥哥直到5月份担任总理。
+* An image depicting a famous 19th-century painting of Cossacks, with current Ukrainian soldiers standing in for the warriors, has struck a chord as Kyiv battles to assert its identity.
+* 一幅描绘一幅著名的19世纪哥萨克绘画的图像，现役乌克兰士兵站在战士身边，在基辅为维护其身份而战时引起了共鸣。
+* Prime Minister Benjamin Netanyahu’s order for Israeli troops to “take over” a buffer zone with Syria upended decades of relative calm along the de facto border between the two countries.
+* 以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）命令以色列军队“接管”与叙利亚的缓冲区，颠覆了两国之间事实上的边界数十年的相对平静。
+* The missing data deepens the puzzle of what caused the deadly air disaster in Muan, South Korea, late last month.
+* 缺失的数据加深了上个月底韩国牧安发生致命空难的原因之谜。
+* Israel and its allies have escalated strikes against the Houthis, trying to force the Iran-backed group to stop firing on Israel and Red Sea shipping.
+* 以色列及其盟国加大了对胡塞武装的打击力度，试图迫使伊朗支持的组织停止向以色列和红海航运开火。
+* The president-elect had said Russia’s leader wanted to meet him to discuss the war in Ukraine. The Kremlin said it welcomed such dialogue, but a meeting could occur only after Mr. Trump took office.
+* 这位当选总统曾表示，俄罗斯领导人希望与他会面，讨论乌克兰战争。克里姆林宫表示，它欢迎这种对话，但只有在特朗普上任后才能举行会议。
+* President Nicolás Maduro was sworn in for another six years on Friday, despite evidence that he lost a July election decisively.
+* 尼古拉斯·马杜罗（ Nicolás Maduro ）总统周五宣誓就职六年，尽管有证据表明他果断地输掉了7月份的选举。
+* A stinging defeat in war has left the once untouchable group on its most uncertain footing in years.
+* 战争中惨痛的失败让这个曾经不可触碰的群体处于多年来最不确定的地位。
+* A social worker and teacher imprisoned for his activism, he later wrote about the toll of incarceration and worked to help others behind bars.
+* 作为一名因积极行动而被监禁的社会工作者和教师，他后来写了有关监禁代价的文章，并努力帮助其他人入狱。
+* The United States will also extend temporary protections for roughly 600,000 Venezuelan migrants in the United States.
+* 美国还将为在美国的约60万委内瑞拉移民提供临时保护。
 
 ## New York Times United States News
-* As wildfires roar into residential neighborhoods, firefighters in California and elsewhere are finding that water systems can’t keep up with the demand.
-* 随着野火肆虐居民区，加利福尼亚州和其他地方的消防员发现供水系统无法满足需求。
+* An incumbent Democrat narrowly won re-election to the state’s highest court. But the Republican-controlled court is considering an unusual protest from her challenger that could flip the result.
+* 一位现任民主党人以微弱优势赢得了该州最高法院的连任。但共和党控制的法院正在考虑她的挑战者的不寻常的抗议，这可能会推翻结果。
+* Katherine Franke, a law professor and vocal advocate of pro-Palestinian students, had been under investigation over remarks she made about Israeli students.
+* 法学教授、亲巴勒斯坦学生的积极倡导者凯瑟琳·弗兰克（ Katherine Franke ）因其对以色列学生的言论而受到调查。
 * The huge, fast-moving fires are stretching the region’s firefighting resources and have become the most destructive in the history of Los Angeles.
 * 巨大而快速的火灾正在延伸该地区的消防资源，并已成为洛杉矶历史上最具破坏性的火灾。
-* In a filing late Wednesday, Fani Willis petitioned the Georgia Supreme Court to allow her to keep prosecuting Donald J. Trump over efforts to overturn his 2020 election defeat.
-* 在周三晚些时候提交的一份文件中，法尼·威利斯（ Fani Willis ）向佐治亚州最高法院请愿，允许她继续起诉唐纳德· J ·特朗普（ Donald J. Trump ） ，因为他试图推翻他2020
-* Daniel Lurie, an heir to the Levi Strauss fortune, became the city’s 46th mayor on Wednesday and laid out a path to restoring the battered city’s luster.
-* 利维·施特劳斯（ Levi Strauss ）财富的继承人丹尼尔·卢里（ Daniel Lurie ）周三成为该市第46任市长，并为恢复这座遭受重创的城市的光彩铺平了道路。
-* The devastating wildfires have raised concerns about the safety of the water supply in some places. Here’s a list of the warnings and instructions for residents.
-* 毁灭性的野火引发了对一些地方供水安全的担忧。以下是对住户的警告和说明。
-* Democrats are demanding that Republicans slow consideration of picks for the new administration until they can review background checks, as the G.O.P. faces major pressure to quickly confirm them.
-* 民主党人要求共和党人慢慢考虑新政府的人选，直到他们能够审查背景调查，因为共和党面临着迅速确认他们的重大压力。
-* The justices are expected to rule quickly in the case, which pits national security concerns about China against the First Amendment’s protection of free speech.
-* 预计法官将在此案中迅速做出裁决，这使得对中国的国家安全担忧与第一修正案对言论自由的保护背道而驰。
-* As the Eaton fire retreated into the foothills, people who had fled their homes came back for a look. For many, the news was as bad as it could be.
-* 随着伊顿大火撤退到山麓，逃离家园的人们回来看一看。对许多人来说，这个消息非常糟糕。
-* The plane landed safely but is out of service because the collision damaged its wing, a Cal Fire spokesman said.
-* 加州消防局发言人说，这架飞机安全着陆，但由于碰撞损坏了机翼而无法使用。
-* The blaze threatened the observatory and communications infrastructure at the peak. Later, an observatory official said it appeared to be under control.
-* 大火在高峰期威胁到了天文台和通信基础设施。后来，一名天文台官员表示，它似乎得到了控制。
+* Across the country, educators described widespread anxiety about President-elect Donald J. Trump’s promises to deport immigrants and what it could mean for their students.
+* 在全国各地，教育工作者描述了对当选总统唐纳德· J ·特朗普(Donald J. Trump)承诺驱逐移民的普遍担忧，以及这对他们的学生意味着什么。
+* The Justice Department’s conclusion follows an investigation of the 1921 atrocity in Oklahoma in which up to 300 Black residents were killed.
+* 司法部的结论是在对1921年俄克拉荷马州的暴行进行调查之后得出的，当时有多达300名黑人居民被杀。
+* California’s Democratic governor, Gavin Newsom, and President-elect Donald J. Trump have long feuded. Can the rancor be set aside to help a devastated city recover?
+* 加利福尼亚州民主党州长加文·纽森(Gavin Newsom)和当选总统唐纳德· J ·特朗普(Donald J. Trump)可以将仇恨放在一边，帮助被摧毁的城市恢复吗？
+* “There were too many houses to protect, and not enough engines,” one fire captain in Los Angeles said. Though fire officials say they were well-prepared and simply overwhelmed by the elements, questions are being raised about whether the intensity of modern fires requires a new playbook.
+* 洛杉矶的一名消防队长说： “有太多的房屋需要保护，也没有足够的引擎。”尽管消防官员表示他们做好了充分的准备，只是被这些元素所淹没，但人们对现代火灾的强度是否需要一个新的剧本提出了疑问。
+* Clearing the toxic remnants of burned buildings around Los Angeles will require a complex and expensive mobilization. California has been there before.
+* 清除洛杉矶周围被烧毁的建筑物的有毒残留物将需要复杂而昂贵的动员。加利福尼亚州以前也去过。
+* A group of younger lawmakers is pressing to change House rules to allow members who are new parents to vote remotely.
+* 一群年轻的立法者正在敦促改变众议院规则，允许新父母的成员远程投票。
+* As Republican voters embraced a practice that Donald J. Trump railed against for years, softening his tone only slightly in 2024, the party eroded a key Democratic advantage across the country.
+* 随着共和党选民接受唐纳德· J ·特朗普(Donald J. Trump)多年来抨击的做法， 2024年他的语气仅略有缓和，该党侵蚀了民主党在全国的关键优势。
 
 ## New York Times Asia News
+* The missing data deepens the puzzle of what caused the deadly air disaster in Muan, South Korea, late last month.
+* 缺失的数据加深了上个月底韩国牧安发生致命空难的原因之谜。
+* A son of the country’s founding father says he has been persecuted by the government because of a feud with his older brother, who until May was prime minister.
+* 该国开国元勋的儿子说，由于与他的哥哥不和，他一直受到政府的迫害，他的哥哥直到5月份担任总理。
 * A social worker and teacher imprisoned for his activism, he later wrote about the toll of incarceration and worked to help others behind bars.
 * 作为一名因积极行动而被监禁的社会工作者和教师，他后来写了有关监禁代价的文章，并努力帮助其他人入狱。
 * Shujun Wang seemed to be a Chinese democracy activist, but an F.B.I. investigation showed just how far China will go to repress citizens abroad.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * TikTok正在挑战美国可能的禁令或强制向新所有者出售，但几年来一直在至少20个国家/地区进行其他斗争。
 * Plus, how genetics factor into longevity.
 * 此外，遗传因素如何影响长寿。
-* A distant era of global politics, when nations scrambled to grab territory, suddenly seems less distant.
-* 一个遥远的全球政治时代，当各国争相争夺领土时，似乎突然变得不那么遥远了。
-* Evidence released by an official inquiry into alleged war crimes painted a disturbing picture of an elite fighting force with a culture of impunity.
-* 对战争罪指控的官方调查公布的证据描绘了一幅令人不安的精锐作战部队有罪不罚文化的画面。
 
