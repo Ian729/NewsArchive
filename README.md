@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* While major ruptures are not expected, Gulf states are urging a tougher stance on Israel and a softening toward Iran, positions that differ greatly from the president-elect’s first term.
+* 虽然预计不会出现重大分裂，但海湾国家正在敦促对以色列采取更强硬的立场，并对伊朗采取软化立场，这些立场与当选总统的第一个任期大不相同。
+* Ukrainian soldiers are describing fierce clashes as Russian forces try to retake territory in the Kursk region that could be key in eventual cease-fire talks.
+* 乌克兰士兵正在描述激烈的冲突，因为俄罗斯军队试图重新夺回库尔斯克地区的领土，这可能是最终停火谈判的关键。
+* Elon Musk and MAGA are already disrupting the status quo, and Europe seems ill-prepared.
+* 埃隆·马斯克（ Elon Musk ）和马加（ MAGA ）已经在破坏现状，而欧洲似乎准备不足。
+* The Constitutional Court, an arbiter in a polarized nation, is about to consider whether Yoon Suk Yeol’s impeachment for declaring martial law was justified.
+* 宪法法院是一个两极分化的国家的仲裁者，即将考虑Yoon Suk Yeol因宣布戒严而被弹劾是否合理。
+* President Biden said negotiators appeared to be on “the brink” of an agreement to end the fighting and free the hostages held by Hamas.
+* 拜登总统表示，谈判代表似乎处于达成协议的“边缘” ，以结束战斗并释放哈马斯劫持的人质。
+* Ukraine’s president released a video of the two soldiers being interrogated, revealing they knew little about the war they were sent to fight in.
+* 乌克兰总统发布了两名士兵接受审讯的视频，显示他们对被派去参加的战争知之甚少。
 * Islamic State militants have rampaged across the northern Cabo Delgado Province for more than seven years. The government says the situation has stabilized. Residents tell a different story.
 * 七年多来，伊斯兰国武装分子在卡波德尔加多省北部肆虐。政府表示，局势已经稳定下来。住户讲述不同的故事。
+* A photographer and art director, he broke the boundaries of advertising in the 1980s and ’90s, embracing activism with images evoking AIDS and racial and sexual diversity.
+* 作为一名摄影师和艺术总监，他在20世纪80年代和90年代打破了广告的界限，通过唤起艾滋病以及种族和性多样性的图像来拥抱行动主义。
 * The request to revoke the man’s arrest came only days after Iran released an Italian journalist. Iranian state news said the man was now in Tehran, but Italy has not confirmed that.
 * 就在伊朗释放一名意大利记者几天后，要求撤销对该男子的逮捕。伊朗国家新闻说，这名男子现在在德黑兰，但意大利尚未证实这一点。
-* A dispute over a project to cure hams in a bell tower underscored the difficulties that churches in France face trying to pay for restorations.
-* 一场关于修复钟楼火腿项目的争议凸显了法国教堂在试图支付修复费用时所面临的困难。
-* The rebel alliance that took power has vowed to prosecute senior figures from the ousted government, but accountability will be hard to achieve in a vulnerable, divided and battered country.
-* 夺取政权的反叛联盟发誓要起诉被罢免政府的高级官员，但在一个脆弱、分裂和遭受重创的国家，问责制将很难实现。
-* Pressure is on to reach a deal that would see Hamas release at least some hostages before President-elect Donald J. Trump takes office.
-* 达成协议的压力正在施加，该协议将使哈马斯在当选总统唐纳德· J ·特朗普(Donald J. Trump)就职前至少释放一些人质。
 * Digital gambling could spell the end for a lottery run by criminal gangs that has been a fixture of Brazilian life for decades.
 * 数字赌博可能意味着犯罪团伙经营的彩票的终结，几十年来，这种彩票一直是巴西人的生活必需品。
-* An image depicting a famous 19th-century painting of Cossacks, with current Ukrainian soldiers standing in for the warriors, has struck a chord as Kyiv battles to assert its identity.
-* 一幅描绘一幅著名的19世纪哥萨克绘画的图像，现役乌克兰士兵站在战士身边，在基辅为维护其身份而战时引起了共鸣。
-* Celebrations erupted in military-controlled areas, stoking hopes the victory might be a turning point in Sudan’s ruinous civil war.
-* 军方控制地区爆发了庆祝活动，引发了人们对这场胜利的希望，这可能是苏丹毁灭性内战的转折点。
-* A son of the country’s founding father says he has been persecuted by the government because of a feud with his older brother, who until May was prime minister.
-* 该国开国元勋的儿子说，由于与他的哥哥不和，他一直受到政府的迫害，他的哥哥直到5月份担任总理。
-* Prime Minister Benjamin Netanyahu’s order for Israeli troops to “take over” a buffer zone with Syria upended decades of relative calm along the de facto border between the two countries.
-* 以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）命令以色列军队“接管”与叙利亚的缓冲区，颠覆了两国之间事实上的边界数十年的相对平静。
 
 ## New York Times United States News
-* Plains, Ga., joins a collection of other small towns known for their part in presidential history. That can provide a steady source of tourism.
-* 佐治亚州的平原市加入了其他小城镇的集合，这些小城镇以其在总统历史中的角色而闻名。这可以为旅游业提供稳定的来源。
-* Across the country, educators described widespread anxiety about President-elect Donald J. Trump’s promises to deport immigrants and what it could mean for their students.
-* 在全国各地，教育工作者描述了对当选总统唐纳德· J ·特朗普(Donald J. Trump)承诺驱逐移民的普遍担忧，以及这对他们的学生意味着什么。
-* The huge, fast-moving fires are stretching the region’s firefighting resources and have become the most destructive in the history of Los Angeles.
-* 巨大而快速的火灾正在延伸该地区的消防资源，并已成为洛杉矶历史上最具破坏性的火灾。
-* Days after a devastating wildfire, residents of Pacific Palisades have started sifting through the ruins, and their memories.
-* 在毁灭性的野火发生几天后，太平洋帕利塞德（ Pacific Palisades ）的居民开始在废墟和他们的记忆中进行筛选。
-* New rules aim to keep advanced technology out of China and to ensure that cutting-edge artificial intelligence is developed by the United States and its allies.
-* 新规则旨在将先进技术排除在中国之外，并确保美国及其盟国开发尖端的人工智能。
-* The president-elect is set to arrive in the Washington area on Saturday and begin a series of events that includes a party at Trump National Golf Club and a rally at Capital One Arena.
-* 当选总统将于周六抵达华盛顿地区，开始一系列活动，包括特朗普国家高尔夫俱乐部的派对和Capital One Arena的集会。
-* Opposition to prospective nominees, along with time-consuming Senate rules, will slow floor action despite the Republican push for approval of some of President-elect Donald J. Trump’s picks as soon as Jan. 20.
-* 尽管共和党最早在1月20日推动批准当选总统唐纳德· J ·特朗普(Donald J. Trump)的部分人选，但对潜在提名人的反对，以及耗时的参议院规则，将减缓议会行动。
+* The city had approved a plan for a new arena in a struggling part of downtown. But on Monday, the Sixers said a new venue would be built near their current one instead.
+* 该市已经批准了一项在市中心挣扎地区建造新竞技场的计划。但在周一， 76人队表示将在他们目前的场地附近建造一个新的场地。
+* The man and his son, who both used wheelchairs, called for help in evacuating from the Eaton fire in California. They were found dead later that day, and now their family is asking what happened.
+* 这名男子和他的儿子都使用轮椅，他们在加利福尼亚州伊顿大火中寻求帮助。他们当天晚些时候被发现死亡，现在他们的家人正在询问发生了什么。
+* It was a once-in-a-lifetime chance to pay their respects to a president. They were not going to miss it, even if meant waking up in the middle of the night.
+* 这是向总统致敬的千载难逢的机会。他们不会错过的，即使这意味着在半夜醒来。
 * As state legislatures convene, they face the same political polarization seen in Congress. Some are in near-deadlock.
 * 随着州立法机构的召开，他们面临着与国会相同的政治两极分化。有些人几乎陷入了僵局。
-* A 2008 fire gutted a mobile home park in the suburb of Sylmar. Last week, the Hurst fire came frighteningly close, and residents still haven’t let their guard down.
-* 2008年的一场大火摧毁了西尔马郊区的一个移动房屋公园。上周，赫斯特大火以惊人的速度逼近，居民们仍然没有放松警惕。
-* Tejal Rao, a Times food critic who lives in Los Angeles, explores the fleeting nature of safety after the fires.
-* 居住在洛杉矶的《泰晤士报》美食评论家Tejal Rao探讨了火灾后安全的短暂本质。
+* Governor Walz’s party has lost control of the Minnesota Legislature and faces mounting criticism as a budget deficit looms.
+* 瓦尔兹州长的政党已经失去了对明尼苏达州立法机构的控制权，并且由于预算赤字迫在眉睫而面临越来越多的批评。
+* President-elect Donald J. Trump’s choice to lead the Pentagon will field questions on Tuesday on a range of issues, including a sexual assault allegation and his lack of management experience.
+* 当选总统唐纳德· J ·特朗普（ Donald J. Trump ）选择领导五角大楼将在周二就一系列问题提出问题，包括性侵犯指控以及他缺乏管理经验。
+* President-elect Donald J. Trump’s pick for Defense Secretary has spoken candidly about his alcohol use in interviews over the past few years.
+* 当选总统唐纳德· J ·特朗普（ Donald J. Trump ）的国防部长人选在过去几年的采访中坦率地谈到了他的酒精使用情况。
+* The leadership fight in Austin follows months of all-out political warfare between Republican factions and could further empower the state’s most strident conservatives.
+* 奥斯汀的领导层斗争是在共和党派别之间数月全面政治斗争之后发生的，可能会进一步增强该州最尖锐的保守派的权能。
+* President-elect Donald J. Trump’s defense secretary pick will almost surely be asked about his alcohol use and an accusation of sexual assault when he appears before a Senate committee.
+* 当选总统唐纳德· J ·特朗普(Donald J. Trump)的国防部长人选在参议院委员会出庭时，几乎肯定会被问及他的酗酒和性侵犯指控。
+* A lack of state standards leaves Mississippi police and sheriff’s departments on their own to decide when to use stun guns, and many give officers a free hand.
+* 由于缺乏州标准，密西西比州警察和治安部门可以自行决定何时使用电击枪，许多警察可以自由支配。
 
 ## New York Times Asia News
+* The Constitutional Court began hearings on whether to unseat Yoon Suk Yeol. But he remained in his fortified residence as investigators drew up plans to detain him.
+* 宪法法院开始就是否罢免Yoon Suk Yeol举行听证会。但当调查人员制定拘留他的计划时，他仍留在他的加固住所。
+* Only a third of China’s trade surplus was with the United States, and only a third of the U.S. deficit was with China. That makes for tricky math for the president-elect.
+* 中国对美国的贸易顺差仅占三分之一，美国对中国的贸易逆差仅占三分之一。这给当选总统带来了棘手的数学难题。
+* The nation’s transport ministry reviewed structures near airport runways following the deadly crash of a Jeju Air flight late last month.
+* 在上个月底济州航空公司的一架航班发生致命事故后，国家交通部对机场跑道附近的建筑进行了审查。
+* Plus, what’s going on with TV credits?
+* 另外，电视节目是怎么回事？
 * Ukraine’s president released a video of the two soldiers being interrogated, revealing they knew little about the war they were sent to fight in.
 * 乌克兰总统发布了两名士兵接受审讯的视频，显示他们对被派去参加的战争知之甚少。
 * The Constitutional Court, an arbiter in a polarized nation, is about to consider whether Yoon Suk Yeol’s impeachment for declaring martial law was justified.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 缺失的数据加深了上个月底韩国牧安发生致命空难的原因之谜。
 * A son of the country’s founding father says he has been persecuted by the government because of a feud with his older brother, who until May was prime minister.
 * 该国开国元勋的儿子说，由于与他的哥哥不和，他一直受到政府的迫害，他的哥哥直到5月份担任总理。
-* A social worker and teacher imprisoned for his activism, he later wrote about the toll of incarceration and worked to help others behind bars.
-* 作为一名因积极行动而被监禁的社会工作者和教师，他后来写了有关监禁代价的文章，并努力帮助其他人入狱。
-* Shujun Wang seemed to be a Chinese democracy activist, but an F.B.I. investigation showed just how far China will go to repress citizens abroad.
-* 王树军似乎是中国的民主活动家，但联邦调查局的一项调查显示，中国将在多大程度上压制海外公民。
-* The unexpected action is intended to tamp down a potential bubble in the bond market fueled by investors shunning riskier assets like stocks and real estate.
-* 这一意外行动旨在遏制债券市场的潜在泡沫，这种泡沫是由投资者回避股票和房地产等风险较高的资产推动的。
-* R. Nicholas Burns, the top U.S. diplomat in Beijing, says the Biden administration is making a final push to urge China to reconsider its tilt toward Russia, Iran and North Korea.
-* 美国驻北京高级外交官R ·尼古拉斯·伯恩斯(R. Nicholas Burns)表示，拜登政府正在做出最后努力，敦促中国重新考虑其对俄罗斯、伊朗和朝鲜的倾向。
 
