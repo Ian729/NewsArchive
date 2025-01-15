@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* While major ruptures are not expected, Gulf states are urging a tougher stance on Israel and a softening toward Iran, positions that differ greatly from the president-elect’s first term.
-* 虽然预计不会出现重大分裂，但海湾国家正在敦促对以色列采取更强硬的立场，并对伊朗采取软化立场，这些立场与当选总统的第一个任期大不相同。
-* Ukrainian soldiers are describing fierce clashes as Russian forces try to retake territory in the Kursk region that could be key in eventual cease-fire talks.
-* 乌克兰士兵正在描述激烈的冲突，因为俄罗斯军队试图重新夺回库尔斯克地区的领土，这可能是最终停火谈判的关键。
-* Elon Musk and MAGA are already disrupting the status quo, and Europe seems ill-prepared.
-* 埃隆·马斯克（ Elon Musk ）和马加（ MAGA ）已经在破坏现状，而欧洲似乎准备不足。
-* The Constitutional Court, an arbiter in a polarized nation, is about to consider whether Yoon Suk Yeol’s impeachment for declaring martial law was justified.
-* 宪法法院是一个两极分化的国家的仲裁者，即将考虑Yoon Suk Yeol因宣布戒严而被弹劾是否合理。
-* President Biden said negotiators appeared to be on “the brink” of an agreement to end the fighting and free the hostages held by Hamas.
-* 拜登总统表示，谈判代表似乎处于达成协议的“边缘” ，以结束战斗并释放哈马斯劫持的人质。
-* Ukraine’s president released a video of the two soldiers being interrogated, revealing they knew little about the war they were sent to fight in.
-* 乌克兰总统发布了两名士兵接受审讯的视频，显示他们对被派去参加的战争知之甚少。
-* Islamic State militants have rampaged across the northern Cabo Delgado Province for more than seven years. The government says the situation has stabilized. Residents tell a different story.
-* 七年多来，伊斯兰国武装分子在卡波德尔加多省北部肆虐。政府表示，局势已经稳定下来。住户讲述不同的故事。
-* A photographer and art director, he broke the boundaries of advertising in the 1980s and ’90s, embracing activism with images evoking AIDS and racial and sexual diversity.
-* 作为一名摄影师和艺术总监，他在20世纪80年代和90年代打破了广告的界限，通过唤起艾滋病以及种族和性多样性的图像来拥抱行动主义。
-* The request to revoke the man’s arrest came only days after Iran released an Italian journalist. Iranian state news said the man was now in Tehran, but Italy has not confirmed that.
-* 就在伊朗释放一名意大利记者几天后，要求撤销对该男子的逮捕。伊朗国家新闻说，这名男子现在在德黑兰，但意大利尚未证实这一点。
-* Digital gambling could spell the end for a lottery run by criminal gangs that has been a fixture of Brazilian life for decades.
-* 数字赌博可能意味着犯罪团伙经营的彩票的终结，几十年来，这种彩票一直是巴西人的生活必需品。
-
-## New York Times United States News
-* The city had approved a plan for a new arena in a struggling part of downtown. But on Monday, the Sixers said a new venue would be built near their current one instead.
-* 该市已经批准了一项在市中心挣扎地区建造新竞技场的计划。但在周一， 76人队表示将在他们目前的场地附近建造一个新的场地。
-* The man and his son, who both used wheelchairs, called for help in evacuating from the Eaton fire in California. They were found dead later that day, and now their family is asking what happened.
-* 这名男子和他的儿子都使用轮椅，他们在加利福尼亚州伊顿大火中寻求帮助。他们当天晚些时候被发现死亡，现在他们的家人正在询问发生了什么。
-* It was a once-in-a-lifetime chance to pay their respects to a president. They were not going to miss it, even if meant waking up in the middle of the night.
-* 这是向总统致敬的千载难逢的机会。他们不会错过的，即使这意味着在半夜醒来。
-* As state legislatures convene, they face the same political polarization seen in Congress. Some are in near-deadlock.
-* 随着州立法机构的召开，他们面临着与国会相同的政治两极分化。有些人几乎陷入了僵局。
-* Governor Walz’s party has lost control of the Minnesota Legislature and faces mounting criticism as a budget deficit looms.
-* 瓦尔兹州长的政党已经失去了对明尼苏达州立法机构的控制权，并且由于预算赤字迫在眉睫而面临越来越多的批评。
-* President-elect Donald J. Trump’s choice to lead the Pentagon will field questions on Tuesday on a range of issues, including a sexual assault allegation and his lack of management experience.
-* 当选总统唐纳德· J ·特朗普（ Donald J. Trump ）选择领导五角大楼将在周二就一系列问题提出问题，包括性侵犯指控以及他缺乏管理经验。
-* President-elect Donald J. Trump’s pick for Defense Secretary has spoken candidly about his alcohol use in interviews over the past few years.
-* 当选总统唐纳德· J ·特朗普（ Donald J. Trump ）的国防部长人选在过去几年的采访中坦率地谈到了他的酒精使用情况。
-* The leadership fight in Austin follows months of all-out political warfare between Republican factions and could further empower the state’s most strident conservatives.
-* 奥斯汀的领导层斗争是在共和党派别之间数月全面政治斗争之后发生的，可能会进一步增强该州最尖锐的保守派的权能。
-* President-elect Donald J. Trump’s defense secretary pick will almost surely be asked about his alcohol use and an accusation of sexual assault when he appears before a Senate committee.
-* 当选总统唐纳德· J ·特朗普(Donald J. Trump)的国防部长人选在参议院委员会出庭时，几乎肯定会被问及他的酗酒和性侵犯指控。
-* A lack of state standards leaves Mississippi police and sheriff’s departments on their own to decide when to use stun guns, and many give officers a free hand.
-* 由于缺乏州标准，密西西比州警察和治安部门可以自行决定何时使用电击枪，许多警察可以自由支配。
-
-## New York Times Asia News
+* The negotiations, mediated by Qatar, Egypt and the United States, appear to be making progress after months of failed attempts to achieve a breakthrough.
+* 由卡塔尔、埃及和美国调解的谈判，在数月来试图取得突破的努力失败后，似乎正在取得进展。
+* When border crossings grew out of control in 2023, the U.S. pressured Mexico to do something. Officials rebuked the immigration chief and stripped him of a key power, an investigation shows.
+* 2023年，当过境点失控时，美国迫使墨西哥采取行动。调查显示，官员们斥责了这位移民局局长，并剥夺了他的一项关键权力。
+* The barrage appeared to be one of the largest recent assaults in Ukraine’s campaign to damage Russia’s war machine on its home territory.
+* 这次袭击似乎是乌克兰最近在其本国领土上破坏俄罗斯战争机器的行动中规模最大的袭击之一。
+* Yoon Suk Yeol became the first South Korean leader to be held by criminal investigators, ending a long standoff after he imposed martial law.
+* Yoon Suk Yeol成为第一位被刑事调查人员拘留的韩国领导人，结束了他实施戒严令后的长期对峙。
+* His influence is partly the result of a very online political establishment, and partly thanks to a right-leaning media that is hostile to Keir Starmer’s Labour government.
+* 他的影响力部分归功于一个非常在线的政治机构，部分归功于对Keir Starmer的工党政府持敌对态度的右翼媒体。
+* The students in a summer acting course performed a play set in America, called, “It’s okay!” And it gave them hope that their lives would be OK, too.
+* 参加暑期表演课程的学生在美国表演了一场戏剧，名为“没关系！“这给了他们希望，他们的生活也会好起来的。
+* Tulip Siddiq, the niece of former Prime Minister Sheikh Hasina of Bangladesh, had been named in an embezzlement investigation in the Asian country in December.
+* 去年12月，孟加拉国前总理谢赫·哈西娜（ Sheikh Hasina ）的侄女郁金香·西迪克（ Tulip Siddiq ）在这个亚洲国家的贪污调查中被点名。
+* The prime minister said that while Greenlanders do not want to become Americans, “the reality is we are going to work with the U.S. — yesterday, today and tomorrow.”
+* 总理说，虽然格陵兰人不想成为美国人，但“现实是我们将与美国合作—昨天，今天和明天。”
+* Andrew McIntyre, a British extremist who played a key role in fomenting last summer’s unrest, was sentenced last week to seven years in jail.
+* 安德鲁·麦金太尔（ Andrew McIntyre ）是一名英国极端主义分子，他在煽动去年夏天的骚乱中发挥了关键作用，上周被判处七年徒刑。
 * The Constitutional Court began hearings on whether to unseat Yoon Suk Yeol. But he remained in his fortified residence as investigators drew up plans to detain him.
 * 宪法法院开始就是否罢免Yoon Suk Yeol举行听证会。但当调查人员制定拘留他的计划时，他仍留在他的加固住所。
-* Only a third of China’s trade surplus was with the United States, and only a third of the U.S. deficit was with China. That makes for tricky math for the president-elect.
-* 中国对美国的贸易顺差仅占三分之一，美国对中国的贸易逆差仅占三分之一。这给当选总统带来了棘手的数学难题。
-* The nation’s transport ministry reviewed structures near airport runways following the deadly crash of a Jeju Air flight late last month.
-* 在上个月底济州航空公司的一架航班发生致命事故后，国家交通部对机场跑道附近的建筑进行了审查。
-* Plus, what’s going on with TV credits?
-* 另外，电视节目是怎么回事？
-* Ukraine’s president released a video of the two soldiers being interrogated, revealing they knew little about the war they were sent to fight in.
-* 乌克兰总统发布了两名士兵接受审讯的视频，显示他们对被派去参加的战争知之甚少。
-* The Constitutional Court, an arbiter in a polarized nation, is about to consider whether Yoon Suk Yeol’s impeachment for declaring martial law was justified.
-* 宪法法院是一个两极分化的国家的仲裁者，即将考虑Yoon Suk Yeol因宣布戒严而被弹劾是否合理。
-* China’s vast exports in 2024 exceeded its imports on a scale seldom seen anywhere except during or immediately after the two world wars.
-* 除了两次世界大战期间或两次世界大战之后，中国2024年的大量出口超过了进口，其规模在任何地方都很少见。
-* Plus, how cured ham fixed an antique organ in France.
-* 此外，腌制火腿如何修复法国的古董器官。
-* The missing data deepens the puzzle of what caused the deadly air disaster in Muan, South Korea, late last month.
-* 缺失的数据加深了上个月底韩国牧安发生致命空难的原因之谜。
-* A son of the country’s founding father says he has been persecuted by the government because of a feud with his older brother, who until May was prime minister.
-* 该国开国元勋的儿子说，由于与他的哥哥不和，他一直受到政府的迫害，他的哥哥直到5月份担任总理。
+
+## New York Times United States News
+* For Black residents, Altadena represented something more than suburban living. It was a foothold in generational prosperity.
+* 对于黑人居民来说，阿尔塔迪纳不仅仅是郊区生活。这是世代繁荣的立足点。
+* The man and his son, who both used wheelchairs, called for help in evacuating from the Eaton fire in California. They were found dead later that day, and now their family is asking what happened.
+* 这名男子和他的儿子都使用轮椅，他们在加利福尼亚州伊顿大火中寻求帮助。他们当天晚些时候被发现死亡，现在他们的家人正在询问发生了什么。
+* Days after a devastating wildfire, residents of Pacific Palisades have started sifting through the ruins, and their memories.
+* 在毁灭性的野火发生几天后，太平洋帕利塞德（ Pacific Palisades ）的居民开始在废墟和他们的记忆中进行筛选。
+* A one-seat Republican majority in the Statehouse and a looming special election made for a tense start to a new era of divided government.
+* 众议院的一席共和党多数席位和迫在眉睫的特别选举是分裂政府新时代的紧张开端。
+* The people flying planes and tankers involved in dousing blazes face hot, sweaty, turbulent conditions — and the risk that fire retardant won’t land where it’s needed.
+* 扑灭大火的飞机和油轮飞行员面临炎热、出汗和动荡的条件，以及阻燃剂无法降落在需要的地方的风险。
+* The president has issued policy decisions in a number of areas in the final days of his term, including environmental justice, prison reform and immigration.
+* 在他任期的最后几天，总统在许多领域发布了政策决定，包括环境正义、监狱改革和移民。
+* Pam Bondi, a former Florida attorney general, will be asked if she can stand up to Donald Trump, who has made it clear that he wants the government’s top lawyer to execute his commands.
+* 前佛罗里达州总检察长帕姆·邦迪（ Pam Bondi ）将被问及她是否能够站出来对抗唐纳德·特朗普（ Donald Trump ） ，唐纳德·特朗普已明确表示，他希望政府高级律师执行他的命令。
+* The president has sought to portray his administration as transformative, but his speech on Wednesday night comes amid a backdrop in which he is not leaving on his own terms.
+* 总统一直试图将他的政府描绘成具有变革性的政府，但他在周三晚上的演讲是在他不会以自己的方式离开的背景下进行的。
+* Sean Duffy, a Fox News host and former Wisconsin congressmen, would oversee a sprawling Transportation Department that oversees aviation, rail and transit.
+* 福克斯新闻主持人、前威斯康星州国会议员肖恩·达菲（ Sean Duffy ）将监督一个庞大的交通部门，该部门负责监督航空、铁路和公共交通。
+* In a hearing that stretched more than four hours, Democrats pressed Pete Hegseth, President-elect Donald J. Trump’s pick for defense secretary, on numerous allegations of misconduct, his views about women in combat and his ability to lead the department. Eric Schmitt, national security correspondent for The New York Times, explains a moment that stood out in the hearing.
+* 在一场长达四个多小时的听证会上，民主党人向当选总统唐纳德· J ·特朗普(Donald J. Trump)挑选的国防部长皮特·黑格塞斯(Pete Hegseth)施压，内容涉及众多不当行为的指控、他对女性参战的看法以及他领导国防部的能力。《纽约时报》国家安全记者埃里克·施密特（ Eric Schmitt ）解释了在听证会上脱颖而出的一个时刻。
+
+## New York Times Asia News
+* Beijing’s efforts to expand its reach in the country have hit several obstacles, in part because of American pressure.
+* 北京方面扩大在中国的影响力的努力遇到了几个障碍，部分原因是美国的压力。
+* President-elect Donald J. Trump’s threat to take back the Panama Canal may be posturing, but it could dampen the Panamanian government’s wish to broaden relations with the United States, analysts say.
+* 分析人士称，当选总统唐纳德· J ·特朗普(Donald J. Trump)威胁收回巴拿马运河，这可能是一种姿态，但可能会削弱巴拿马政府扩大与美国关系的愿望。
+* The Thai authorities accused an adviser to Hun Sen of hiring the gunman who killed a former Cambodian opposition figure in Bangkok last week.
+* 泰国当局指控洪森的一名顾问雇用了上周在曼谷杀害一名前柬埔寨反对派人物的枪手。
+* The brief abduction of a Chinese actor who was trafficked into Myanmar to work in a scam camp has rattled travelers from a country that Thailand relies on for tourism.
+* 一名被贩运到缅甸在诈骗营工作的中国演员被短暂绑架，这让来自泰国旅游业所依赖的国家的旅行者感到不安。
+* Investigators have detained South Korea’s impeached leader, Yoon Suk Yeol. This is the first time a sitting South Korean president has been detained on criminal charges. Choe Sang-Hun, the ​Seoul bureau chief for The New York Times​, explains how we got here and what it may mean for South Korea moving forward.
+* 调查人员拘留了韩国被弹劾的领导人Yoon Suk Yeol。这是韩国现任总统首次因刑事指控被拘留。《纽约时报》首尔分社社长崔相勋（ Choe Sang-Hun ）解释了我们如何走到这一步，以及这对韩国前进的意义。
+* Plus, mapping “The Lord of the Rings”
+* 此外，还绘制了“指环王”地图
+* Yoon Suk Yeol became the first South Korean leader to be held by criminal investigators, ending a long standoff after he imposed martial law.
+* Yoon Suk Yeol成为第一位被刑事调查人员拘留的韩国领导人，结束了他实施戒严令后的长期对峙。
+* Tulip Siddiq, the niece of former Prime Minister Sheikh Hasina of Bangladesh, had been named in an embezzlement investigation in the Asian country in December.
+* 去年12月，孟加拉国前总理谢赫·哈西娜（ Sheikh Hasina ）的侄女郁金香·西迪克（ Tulip Siddiq ）在这个亚洲国家的贪污调查中被点名。
+* An advertisement meant to celebrate the resumption of flights to Paris showed a jet pointed toward the Eiffel Tower.
+* 一则旨在庆祝飞往巴黎的航班恢复的广告显示，一架喷气式飞机指向埃菲尔铁塔。
+* To show how little they care about TikTok’s ties to Beijing, people in the United States are downloading one of China’s most popular apps.
+* 为了表明他们对TikTok与北京的关系漠不关心，美国人正在下载中国最受欢迎的应用程序之一。
 
