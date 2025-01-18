@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Rifts with Hamas and a far-right minister’s threat to resign complicated progress toward the Israeli cabinet’s vote on the deal, which includes the release of hostages.
-* 与哈马斯的分歧以及极右翼部长辞职的威胁使以色列内阁对该协议的投票进展复杂化，其中包括释放人质。
-* The determination came as the United States announced sanctions against the Sudanese military chief, saying there was strong evidence of atrocities in the country.
-* 这一决定是在美国宣布对苏丹军事首领实施制裁之际做出的，称有强有力的证据表明该国存在暴行。
-* Russia’s president is said to have blamed birds or a Ukrainian drone for a Dec. 25 crash of an Azerbaijani plane. Azerbaijan says Russian air defenses were at fault.
-* 据称，俄罗斯总统将12月25日一架阿塞拜疆飞机坠毁归咎于鸟类或乌克兰无人机。阿塞拜疆表示，俄罗斯的防空系统有过错。
-* The former Brazilian president, squeezed by criminal investigations, looks to the United States to shift his nation’s politics — and maybe keep him a free man.
-* 这位前巴西总统受到刑事调查的挤压，希望美国改变他的国家的政治—也许让他成为一个自由人。
-* Police are checking on safety at schools and visiting karaoke bars and rental homes to root out perceived malcontents, after several mass killings alarmed the public.
-* 在几起大规模屠杀事件震惊了公众之后，警方正在检查学校的安全，并参观卡拉OK酒吧和出租屋，以根除感知到的不满情绪。
-* An agreement offers Gazans at least some respite, and for Israelis it means the release of hostages. But the deal’s ambiguity leaves open the possibility that fighting could resume within weeks.
-* 一项协议至少为加沙人提供了一些喘息的机会，对以色列人来说，这意味着释放人质。但这笔交易的模棱两可使得战斗有可能在几周内恢复。
-* The former governor of the Canadian and British central banks announced he was running to become head of the Liberal Party and prime minister.
-* 这位前加拿大和英国央行行长宣布，他将竞选自由党党魁和总理。
-* The memorial for Jean-Marie Le Pen, who was known for his racist and antisemitic remarks, comes as the National Rally has become the driving force in French politics.
-* 纪念以种族主义和反犹太主义言论而闻名的让-玛丽·勒庞（ Jean-Marie Le Pen ）之际，全国集会已成为法国政治的推动力。
-* A damning report on overcrowded hospitals added fuel to a painful debate over the crises at the National Health Service.
-* 一份关于过度拥挤的医院的诅咒性报告加剧了关于国家卫生服务危机的痛苦辩论。
-* Britain’s Labour government came under pressure to act after Elon Musk reignited a decade-old scandal involving child sexual abuse mainly by men of Pakistani heritage.
-* 在埃隆·马斯克（ Elon Musk ）重新点燃了长达十年的丑闻之后，英国工党政府面临着采取行动的压力，该丑闻涉及主要由巴基斯坦血统的男性实施的儿童性虐待。
+* The truce will begin at 8:30 a.m., according to the Foreign Ministry of Qatar, a mediator in the talks. U.S. and other diplomats see the deal as the best chance to end the 15-month war that has devastated Gaza.
+* 据会谈调解人卡塔尔外交部称，停火将于上午8:30开始。美国和其他外交官认为，该协议是结束摧毁加沙的15个月战争的最佳机会。
+* Barring a late settlement, Harry’s lawsuit against News Group Newspapers will begin Monday, with potential consequences for the royal family, the media baron and even The Washington Post.
+* 除非达成较晚的和解，否则哈利对新闻集团报纸的诉讼将于周一开始，这对王室、媒体大亨甚至《华盛顿邮报》都有潜在的影响。
+* At least four people were killed in the attack on the capital, which Ukrainian officials said involved ballistic missiles and drones.
+* 乌克兰官员称，袭击首都时至少有4人丧生，其中包括弹道导弹和无人机。
+* The Qatari prime minister, working with both President Biden’s envoy and President-elect Donald J. Trump’s representative, formed an unlikely partnership.
+* 卡塔尔首相与拜登总统的特使和当选总统唐纳德· J ·特朗普的代表合作，形成了一种不太可能的伙伴关系。
+* The president-elect’s vow to impose 25 percent duties on Canadian imports could ravage Canada’s auto industry and decimate Windsor, a city deeply tied to the U.S.
+* 这位当选总统誓言对加拿大进口商品征收25%的关税，这可能会破坏加拿大的汽车工业，并摧毁与美国紧密相连的温莎市。
+* Hospitals and health officials have been preparing isolated areas where the hostages can begin recuperating, and there are concerns that the returning captives may be malnourished.
+* 医院和卫生官员一直在准备孤立的地区，人质可以在那里开始康复，人们担心返回的俘虏可能营养不良。
+* The full Israeli cabinet passed the agreement during a meeting that continued into the Jewish Sabbath, setting up the first reprieve in Gaza in over a year.
+* 以色列全体内阁在犹太人安息日的一次会议上通过了该协议，这是一年多来加沙的第一次缓刑。
+* They daydreamed about the people they would hug as soon as the truce took hold, the graves they would visit and the homes they would rebuild.
+* 他们幻想着休战后会拥抱的人们，他们将参观的坟墓以及他们将重建的房屋。
+* Isaac Steidl founded the Coco platform, which authorities tied to criminal activity for years. The effort to hold Mr. Steidl accountable tests a new legal frontier.
+* Isaac Steidl创立了Coco平台，当局多年来一直将其与犯罪活动联系在一起。追究Steidl先生责任的努力考验了一个新的法律前沿。
+* Mexican officials and other leaders in the region have not been able to meet with the incoming administration about its migration and deportation plans.
+* 墨西哥官员和该地区的其他领导人未能就其移民和驱逐计划与即将上任的政府会面。
 
 ## New York Times United States News
-* Days before Trump returns to office, the legal fight with Democratic state officials over his agenda has begun.
-* 特朗普上任前几天，与民主党州官员就其议程展开的法律斗争已经开始。
-* With the Super Bowl and Mardi Gras coming, Gov. Jeff Landry is using the emergency order from the New Year’s attack on Bourbon Street to remove the homeless from downtown.
-* 随着超级碗(Super Bowl)和狂欢节(Mardi Gras)的到来，州长杰夫·兰德里(Jeff Landry)正在利用新年袭击波旁街(Bourbon Street)的紧急命令，将无家可归者从市中心带走
-* Days after a devastating wildfire, residents of Pacific Palisades have started sifting through the ruins, and their memories.
-* 在毁灭性的野火发生几天后，太平洋帕利塞德（ Pacific Palisades ）的居民开始在废墟和他们的记忆中进行筛选。
-* The dispute, which some critics say tests the church’s autonomy, reached the Texas Supreme Court on Wednesday for arguments.
-* 一些批评人士说，这场争议考验了教会的自治权，于周三提交给德克萨斯州最高法院进行辩论。
-* The development of a new generation of drones has revolutionized how wars are fought, according to U.S. officials.
-* 据美国官员称，新一代无人机的发展彻底改变了战争的方式。
-* As a disastrous fire continues to burn on the city’s west side, some are calling Chief Kristin Crowley to account: Why wasn’t the city better prepared?
-* 随着这座城市西侧一场灾难性的大火继续燃烧，一些人打电话给克里斯汀·克劳利酋长：为什么这座城市没有做好更充分的准备？
+* Sheng Thao, who was recalled by voters in the California city in November, said last year that she had done nothing wrong. She pleaded not guilty to the charges on Friday.
+* 去年11月被加利福尼亚州加利福尼亚市选民召回的盛涛去年表示，她没有做错任何事。她周五对这些指控表示不认罪。
+* Many Californians thought wildfires couldn’t reach deep into their cities. But the Los Angeles fires showed how older homes became fuel that fed the fires.
+* 许多加利福尼亚人认为野火无法深入他们的城市。但洛杉矶大火表明，老房子如何成为火灾的燃料。
 * A former Army pilot. An aging helicopter. Furious winds. The race to put out the Eaton fire tested Los Angeles County’s night-flying firefighters like never before.
 * 前陆军飞行员。一架老化的直升机，狂风。扑灭伊顿火灾的比赛前所未有地考验了洛杉矶县夜间飞行的消防员。
-* The action, aimed at inmates who received harsher sentences based on old disparities in drug laws, will be the broadest commutation of individual sentences ever issued by a U.S. president.
-* 这项行动针对的是因毒品法律上的旧差异而受到更严厉刑罚的囚犯，将是美国总统有史以来对个人刑罚进行的最广泛的减刑。
-* The department that the South Dakota governor seeks to lead will be critical to fulfilling the incoming administration’s promises to quickly crack down on immigration.
-* 南达科他州州长寻求领导的部门对于履行即将上任的政府迅速打击移民的承诺至关重要。
-* The Carrs have made their life’s work honoring the dreams of their precocious son, who died suddenly at 16. They rescued some mementos and others survived when their Altadena home burned to the ground.
-* Carrs夫妇毕生致力于实现他们早熟儿子的梦想，他在16岁时突然去世。他们救出了一些纪念品，其他人在阿尔塔迪纳的家被烧毁时幸免于难。
+* But the judges stayed their ruling and for now, hundreds of thousands of DACA recipients will continue to have protection from deportation.
+* 但法官们坚持他们的裁决，目前，成千上万的DACA受助人将继续免于被驱逐出境。
+* Donald J. Trump won his battle with establishment Republicans. Now, it’s disputes over immigration, taxes and foreign policy that will test his party’s unity.
+* 唐纳德· J ·特朗普（ Donald J. Trump ）赢得了与共和党建制派的斗争。现在，关于移民、税收和外交政策的争端将考验他的政党的团结。
+* A new poll found the public is sympathetic to the president-elect’s plans to deport migrants and reduce America’s presence overseas.
+* 一项新的民意调查发现，公众同情当选总统驱逐移民和减少美国在海外存在的计划。
+* A unanimous Supreme Court on Friday upheld a law that effectively bans the wildly popular app TikTok in the United States starting on Sunday, Jan. 19. Adam Liptak, who covers the Supreme Court for The New York Times, explains how free speech and national security collided in this decision.
+* 周五，最高法院一致维持了一项法律，该法律从1月19日（周日）开始在美国有效禁止广受欢迎的应用程序TikTok。为《纽约时报》报道最高法院的亚当·利普塔克（ Adam Liptak ）解释了言论自由和国家安全在这一决定中的冲突。
+* The spy agency is trying to give its teams better tools and make it easier for the private sector to develop technology for their secretive work.
+* 间谍机构正试图为其团队提供更好的工具，并使私营部门更容易为他们的秘密工作开发技术。
+* As C.I.A. director, William J. Burns was deeply focused on China and Russia when the Middle East conflict plunged him back into his old life.
+* 作为中情局局长，威廉· J ·伯恩斯（ William J. Burns ）在中东冲突使他回到旧生活中时，非常关注中国和俄罗斯。
+* The hard-line policies in his first term were a significant shift that reframed the national conversation on immigration and helped return him to the White House.
+* 他第一个任期的强硬政策是一个重大转变，重新构建了有关移民的全国对话，并帮助他重返白宫。
 
 ## New York Times Asia News
+* Start-ups with Chinese ties have found it increasingly difficult to do business and list shares in the United States.
+* 与中国有联系的初创企业发现，在美国开展业务和上市越来越困难。
+* President Biden’s longtime aide rallied scores of nations to defend Ukraine but then became a villain to the many critics of U.S. support for Israel’s war in Gaza.
+* 拜登总统的长期助手团结了数十个国家来保卫乌克兰，但随后却成为许多批评美国支持以色列在加沙战争的恶棍。
+* While TikTok remains hugely popular in Brazil, Indonesia and other markets, its 170 million users in the United States are its most valuable.
+* 虽然TikTok在巴西、印度尼西亚和其他市场仍然非常受欢迎，但其在美国的1.7亿用户是其最有价值的用户。
 * Airlines have been increasingly outsourcing repair and upkeep work to other countries, but experts and consumer groups disagree about its impact on safety.
 * 航空公司越来越多地将维修和保养工作外包给其他国家，但专家和消费者团体对其对安全的影响持不同意见。
 * A Trump ally has called on Pakistan to release the former prime minister from prison, inspiring fervent hope among his supporters.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 此外，还记得大卫·林奇。
 * The police said Mr. Khan was recovering in the hospital after an intruder attacked him. He sustained a major injury to his spinal cord, a doctor said.
 * 警方称， Khan先生在一名入侵者袭击他后正在医院康复。医生说，他的脊髓严重受伤。
-* Police are checking on safety at schools and visiting karaoke bars and rental homes to root out perceived malcontents, after several mass killings alarmed the public.
-* 在几起大规模屠杀事件震惊了公众之后，警方正在检查学校的安全，并参观卡拉OK酒吧和出租屋，以根除感知到的不满情绪。
-* Before Marie Kondo stormed into the global consciousness, Hideko Yamashita taught Japan the art of creating tidier spaces.
-* 在Marie Kondo冲进全球意识之前， Hideko Yamashita向日本传授了创造更整洁空间的艺术。
-* Plus, ancient Celtic gender roles.
-* 此外，还有古老的凯尔特性别角色。
 
