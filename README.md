@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The announcement came shortly after President Trump rescinded Biden-era sanctions on Israeli settlers and Jewish extremists raided Palestinian villages in protest against the cease-fire in Gaza.
-* 在特朗普总统取消拜登时代对以色列定居者的制裁后不久，犹太极端分子袭击了巴勒斯坦村庄，以抗议加沙的停火。
-* On Monday, President Trump took action to close the nation’s southern border and terminate a widely used app. Many migrants expressed despair, and some moved to cross the border anyway.
-* 周一，特朗普总统采取行动关闭了该国南部边境，并终止了一个广泛使用的应用程序。许多移民表达了绝望，有些人还是搬到了边境。
-* Axel Rudakubana, who killed three young girls in the Southport attack, appeared to have no particular ideology but was obsessed by violence and genocide, investigators said.
-* 调查人员说，在南港袭击中杀害三名年轻女孩的阿克塞尔·鲁达库巴纳（ Axel Rudakubana ）似乎没有特定的意识形态，但对暴力和种族灭绝着迷。
-* The pre-dawn blaze broke out at a popular resort during a school break. Some survivors spoke of terrifying escapes.
-* 黎明前的大火在学校放假期间在一个受欢迎的度假胜地爆发。一些幸存者谈到了可怕的逃跑。
-* President Trump appears willing to shake up almost every policy area, and a behind-the-scenes E.U. task force has been trying to prepare. But is Europe ready?
-* 特朗普总统似乎愿意动摇几乎所有的政策领域，欧盟的幕后工作队一直在努力准备。但欧洲准备好了吗？
-* While much about the threatened tariffs is still unclear, experts predict they would be bad news for all three economies, with few winners.
-* 虽然有关关税威胁的很多信息仍不清楚，但专家预测，这对所有三个经济体来说都是坏消息，几乎没有赢家。
-* The case of Guatemala reveals how President Trump’s promised sweeps could change life outside the United States, too.
-* 危地马拉的案例揭示了特朗普总统承诺的扫荡也可能改变美国以外的生活。
-* More than 30 hostages are set to be released during the cease-fire in Gaza. But many Israelis have mixed feelings about the deal because they feel it came at a high price.
-* 在加沙停火期间， 30多名人质将被释放。但许多以色列人对这笔交易的看法喜忧参半，因为他们觉得这笔交易的代价很高。
-* Speaking a day after Trump’s inauguration, Ukraine’s president told world leaders at Davos that Europe needs to remain united and “learn how to take care of itself.”
-* 在特朗普就职后的第二天，乌克兰总统在达沃斯对世界领导人说，欧洲需要保持团结， “学会如何照顾自己”。
-* Han Kang’s latest novel, about a South Korean massacre, delves into why atrocities must be remembered. “It’s pain and it is blood, but it’s the current of life,” she said.
-* 韩康的最新小说，关于韩国大屠杀，深入探讨了为什么必须记住暴行。“这是痛苦和血液，但这是生命的潮流，”她说。
+* “It took us a few minutes to accept that this pile of rubble was our home,” said Islam Dahliz, whose family was ordered by Israeli forces to evacuate Rafah in May.
+* 伊斯兰·达利兹（ Islam Dahliz ）说： “我们花了几分钟才接受这堆废墟是我们的家。”他的家人在5月份被以色列军队命令撤离拉法。
+* Ukrainian forces described a different kind of enemy, fighting with unfamiliar tactics and little option to retreat.
+* 乌克兰军队描述了一种不同类型的敌人，以陌生的战术和几乎没有撤退的选择进行战斗。
+* Rupert Murdoch’s News Group Newspapers gave Harry an “unequivocal apology,” admitting for the first time to unlawful activities at The Sun and agreeing to pay what it called substantial damages.
+* 鲁珀特·默多克（ Rupert Murdoch ）的新闻集团报纸向哈利“明确道歉” ，首次承认在太阳报的非法活动，并同意支付所谓的重大损害赔偿。
+* Isolating U.S. companies from cartel activities could be almost impossible given that the criminal groups operate in sectors like agriculture and tourism, leaving some American businesses vulnerable to sanctions.
+* 将美国公司与卡特尔活动隔离开来几乎是不可能的，因为犯罪集团在农业和旅游业等部门开展业务，使一些美国企业容易受到制裁。
+* Libya deported more than 600 men from Niger last month as North African countries — financed by the European Union to tackle migration — have ramped up expulsions of sub-Saharan Africans.
+* 利比亚上个月从尼日尔驱逐了600多名男子，因为北非国家—由欧盟资助解决移民问题—加大了对撒哈拉以南非洲人的驱逐力度。
+* Whether it is over TikTok, fentanyl or trade, Beijing might welcome a compromise to buy time to address its ailing economy and bolster its position globally.
+* 无论是TikTok、芬太尼还是贸易，北京都可能欢迎妥协，以争取时间来应对其陷入困境的经济，并巩固其在全球的地位。
+* At least 10 people have been killed in the raids, and more than 40 wounded, according to the Palestinian Health Ministry. Dozens have been arrested, Palestinian officials told the Wafa news agency.
+* 据巴勒斯坦卫生部称，至少有10人在袭击中丧生， 40多人受伤。巴勒斯坦官员告诉WAFA通讯社，已有数十人被捕。
+* Some had returned to the hotel year after year. Their deaths — amid dozens of others at the hotel — have stirred grief and outrage.
+* 有些人年复一年地回到了酒店。他们的死亡—在酒店的其他几十人中—引发了悲伤和愤怒。
+* The British defense secretary told Parliament that the Yantar, which he described as a Russian spy ship, had come near Britain’s coast for the second time in a few months.
+* 英国国防大臣告诉议会，他称之为俄罗斯间谍船的Yantar在几个月内第二次接近英国海岸。
+* Son Chang-wan was in office while works were undertaken at Muan International Airport. Last month, a plane crashed into a concrete barrier there, killing 179 people.
+* Son Chang-wan在Muan国际机场工作期间任职。上个月，一架飞机在那里的混凝土路障上坠毁，造成179人死亡。
 
 ## New York Times United States News
-* President Trump’s executive order seeking to end birthright citizenship is already facing lawsuits, but that has been little comfort to women who expect to give birth after the order goes into effect.
-* 特朗普总统寻求终止出生公民权的行政命令已经面临诉讼，但对于那些希望在该命令生效后分娩的妇女来说，这并不是什么安慰。
-* Officials said the agent was shot on Interstate 91, which was closed for several hours near the border with Canada.
-* 官员说，这名特工是在91号州际公路上被枪杀的，该公路在加拿大边境附近关闭了几个小时。
-* For many residents, a set of wheels is an extension of their home, a key to their income or a source of priceless memories.
-* 对于许多居民来说，一套轮子是他们家的延伸，是他们收入的关键或无价回忆的来源。
+* Bishop Budde locked eyes with President Trump and made a plea for mercy — and the war over spiritual authority in America was ignited anew.
+* 布德主教与特朗普总统目不转睛，恳求怜悯—美国的精神权威之战重新点燃。
+* Weakened by cancer and nagged by his conscience, a former Georgia prosecutor wants the courts to reverse the sentence he demanded for a man who didn’t physically harm anyone in his crimes.
+* 一名前格鲁吉亚检察官被癌症削弱并被自己的良心所困扰，他希望法院撤销他对一名没有在犯罪中对任何人造成身体伤害的男子所要求的判决。
+* States, counties and cities across the U.S. have adopted policies to limit cooperation with immigration agents who seek to deport undocumented immigrants.
+* 美国各州、县和市已采取政策，限制与寻求驱逐无证移民的移民代理人的合作。
 * Many universities have been reluctant to embrace a definition that, among other things, considers some criticisms of Israel as antisemitic. The university’s decision was part of a lawsuit settlement.
 * 许多大学一直不愿意接受这样一个定义，即除其他外，认为一些对以色列的批评是反犹太主义的。该大学的决定是诉讼和解的一部分。
-* It is unclear how much is left in Washington to restrain him.
-* 目前尚不清楚华盛顿还剩下多少钱来约束他。
-* In a flurry of unilateral executive actions, Mr. Trump revived disputed claims of broad presidential authority from his first term — and made some new ones. Court battles seem likely.
-* 在一系列单方面的行政行动中，特朗普从第一个任期开始就恢复了有争议的广泛的总统权威主张，并提出了一些新的主张。似乎有可能发生宫廷大战。
-* The Little Red Hen Coffee Shop offered grits and community for decades before it was lost in the Eaton fire.
-* 几十年来，小红母鸡咖啡店一直提供砂砾和社区，然后在伊顿大火中丢失。
-* All 17 people who died in the Eaton fire lived in an area where evacuation orders came hours later than others, even as homes nearby were already burning. Some people never received warnings at all.
-* 在伊顿大火中死亡的所有17人都生活在一个疏散命令比其他人晚几个小时到达的地区，即使附近的房屋已经在燃烧。有些人从未收到过警告。
-* Republicans are hunting for ways to pay for President Trump’s expensive plans while avoiding a freakout on Wall Street.
-* 共和党人正在寻找支付特朗普总统昂贵计划的方法，同时避免华尔街的恐慌。
-* The latest closure means that nearly three-quarters of Louisiana’s portion of the coast-to-coast highway is shut. A rare winter storm brought record snowfall to the state on Tuesday.
-* 最新的关闭意味着路易斯安那州近四分之三的海岸到海岸高速公路被关闭。周二，一场罕见的冬季风暴给该州带来了创纪录的降雪量。
+* The blaze temporarily closed parts of Interstate 5 and prompted evacuation orders and warnings for more than 50,000 people.
+* 大火暂时关闭了5号州际公路的部分地区，并促使5万多人发出疏散命令和警告。
+* Officials throughout much of the South have echoed the same message: The effects from the rare winter storm are not over, and driving remains a hazard.
+* 南方大部分地区的官员也发出了同样的信息：罕见的冬季风暴的影响还没有结束，驾驶仍然是一种危险。
+* Altadena residents were allowed back into their neighborhoods this week. Most were prepared for the worst but needed to find closure in their own way.
+* 本周，阿尔塔迪纳居民被允许回到他们的街区。大多数人都为最坏的情况做好了准备，但需要以自己的方式找到解决办法。
+* President Trump wants a massive tax cut and immigration crackdown bill. Now Republicans must decide what to cut to help pay for it.
+* 特朗普总统希望通过大规模减税和打击移民法案。现在，共和党人必须决定削减什么来帮助支付费用。
+* Devotees of Mt. Bachelor are putting together a bid to rescue the ski area — and their way of life — from the titans of the industry.
+* Mt. Bachelor的忠实爱好者正在共同努力，从该行业的巨头手中拯救滑雪场及其生活方式。
+* Firefighters stopped the progress of the 40-acre fire, which broke out late Wednesday in the Sepulveda Pass, officials said.
+* 官员说，消防员阻止了周三晚些时候在塞普尔韦达山口爆发的40英亩大火的进展。
 
 ## New York Times Asia News
+* Following the deadly Jeju Air accident, the government ordered low cost carriers to reduce flight times, boost pilot training and expand maintenance crews.
+* 在致命的济州航空事故发生后，政府下令低成本航空公司减少飞行时间，加强飞行员培训并扩大维修人员。
+* Hundreds of people began registering their marriages at a mall in Bangkok, as Thailand became one of the few places in Asia to legalize same-sex unions.
+* 随着泰国成为亚洲少数几个将同性结合合法化的地方之一，数百人开始在曼谷的一家购物中心登记他们的婚姻。
+* Plus, predictions for today’s Oscar nominations.
+* 此外，还有对今天奥斯卡提名的预测。
+* The police said they were investigating whether “overseas actors” were involved in the vandalizing of synagogues and a day care center.
+* 警方表示，他们正在调查“海外演员”是否参与破坏犹太教堂和日托中心。
+* Whether it is over TikTok, fentanyl or trade, Beijing might welcome a compromise to buy time to address its ailing economy and bolster its position globally.
+* 无论是TikTok、芬太尼还是贸易，北京都可能欢迎妥协，以争取时间来应对其陷入困境的经济，并巩固其在全球的地位。
 * Ukrainian forces described a different kind of enemy, fighting with unfamiliar tactics and little option to retreat.
 * 乌克兰军队描述了一种不同类型的敌人，以陌生的战术和几乎没有撤退的选择进行战斗。
 * Son Chang-wan was in office while works were undertaken at Muan International Airport. Last month, a plane crashed into a concrete barrier there, killing 179 people.
 * Son Chang-wan在Muan国际机场工作期间任职。上个月，一架飞机在那里的混凝土路障上坠毁，造成179人死亡。
 * Control of Korea Zinc, the world’s largest producer of zinc, is at stake in a battle challenging the country’s entrenched chaebol system of powerful conglomerates.
 * 对世界上最大的锌生产国韩国锌的控制权正处于一场挑战该国根深蒂固的强大企业集团财阀系统的战斗中。
+* The president said the planned duties were a response to China’s failure to curb fentanyl exports.
+* 总统表示，计划中的关税是对中国未能遏制芬太尼出口的回应。
 * Plus, an interview with the Nobel laureate Han Kang.
 * 此外，还有对诺贝尔奖获得者韩康的采访。
-* Marco Rubio told State Department employees that changes under President Trump “are not meant to be destructive, they’re not meant to be punitive.”
-* 马可·卢比奥（ Marco Rubio ）告诉国务院员工，特朗普总统领导下的变化“并不意味着具有破坏性，也不意味着具有惩罚性。”
-* Her home drew generations of heads of state, diplomats, journalists and artists, who relied on her for her political acumen and were buoyed by her friendship.
-* 她的家吸引了几代国家元首、外交官、记者和艺术家，他们依靠她的政治敏锐度，并被她的友谊所鼓舞。
-* In exchange, the Biden administration released an Afghan man convicted on narcotics charges in 2008.
-* 作为交换，拜登政府释放了一名2008年因毒品指控而被定罪的阿富汗男子。
-* Han Kang’s latest novel, about a South Korean massacre, delves into why atrocities must be remembered. “It’s pain and it is blood, but it’s the current of life,” she said.
-* 韩康的最新小说，关于韩国大屠杀，深入探讨了为什么必须记住暴行。“这是痛苦和血液，但这是生命的潮流，”她说。
-* Industrial growth, the stock market and the rupee are sinking, and most consumers earn too little to buoy them, stymieing India’s drive to become a developed economy.
-* 工业增长、股市和卢比正在下跌，大多数消费者的收入太少，无法支撑他们，阻碍了印度成为发达经济体的动力。
-* The order “risks abandoning thousands of Afghan wartime allies” who worked with Americans before the Taliban takeover, the head of a resettlement group said.
-* 重新安置组织负责人表示，该命令“有可能放弃数千名阿富汗战时盟友” ，这些盟友在塔利班接管之前曾与美国人合作。
 
