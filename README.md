@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* “It took us a few minutes to accept that this pile of rubble was our home,” said Islam Dahliz, whose family was ordered by Israeli forces to evacuate Rafah in May.
-* 伊斯兰·达利兹（ Islam Dahliz ）说： “我们花了几分钟才接受这堆废墟是我们的家。”他的家人在5月份被以色列军队命令撤离拉法。
-* Ukrainian forces described a different kind of enemy, fighting with unfamiliar tactics and little option to retreat.
-* 乌克兰军队描述了一种不同类型的敌人，以陌生的战术和几乎没有撤退的选择进行战斗。
-* Rupert Murdoch’s News Group Newspapers gave Harry an “unequivocal apology,” admitting for the first time to unlawful activities at The Sun and agreeing to pay what it called substantial damages.
-* 鲁珀特·默多克（ Rupert Murdoch ）的新闻集团报纸向哈利“明确道歉” ，首次承认在太阳报的非法活动，并同意支付所谓的重大损害赔偿。
-* Isolating U.S. companies from cartel activities could be almost impossible given that the criminal groups operate in sectors like agriculture and tourism, leaving some American businesses vulnerable to sanctions.
-* 将美国公司与卡特尔活动隔离开来几乎是不可能的，因为犯罪集团在农业和旅游业等部门开展业务，使一些美国企业容易受到制裁。
-* Libya deported more than 600 men from Niger last month as North African countries — financed by the European Union to tackle migration — have ramped up expulsions of sub-Saharan Africans.
-* 利比亚上个月从尼日尔驱逐了600多名男子，因为北非国家—由欧盟资助解决移民问题—加大了对撒哈拉以南非洲人的驱逐力度。
-* Whether it is over TikTok, fentanyl or trade, Beijing might welcome a compromise to buy time to address its ailing economy and bolster its position globally.
-* 无论是TikTok、芬太尼还是贸易，北京都可能欢迎妥协，以争取时间来应对其陷入困境的经济，并巩固其在全球的地位。
-* At least 10 people have been killed in the raids, and more than 40 wounded, according to the Palestinian Health Ministry. Dozens have been arrested, Palestinian officials told the Wafa news agency.
-* 据巴勒斯坦卫生部称，至少有10人在袭击中丧生， 40多人受伤。巴勒斯坦官员告诉WAFA通讯社，已有数十人被捕。
-* Some had returned to the hotel year after year. Their deaths — amid dozens of others at the hotel — have stirred grief and outrage.
-* 有些人年复一年地回到了酒店。他们的死亡—在酒店的其他几十人中—引发了悲伤和愤怒。
-* The British defense secretary told Parliament that the Yantar, which he described as a Russian spy ship, had come near Britain’s coast for the second time in a few months.
-* 英国国防大臣告诉议会，他称之为俄罗斯间谍船的Yantar在几个月内第二次接近英国海岸。
-* Son Chang-wan was in office while works were undertaken at Muan International Airport. Last month, a plane crashed into a concrete barrier there, killing 179 people.
-* Son Chang-wan在Muan国际机场工作期间任职。上个月，一架飞机在那里的混凝土路障上坠毁，造成179人死亡。
+* But not all of the leading conservative populist parties in the world are the same — in rhetoric or on policy.
+* 但并非世界上所有主要的保守民粹主义政党在言论或政策上都是一样的。
+* The contractors have been enlisted to do weapons checks on vehicles carrying displaced Palestinians back to their homes in the north under the terms of the new cease-fire.
+* 根据新的停火协议条款，承包商已被征召对运送流离失所的巴勒斯坦人返回北部家园的车辆进行武器检查。
+* Many Congolese see the rebel advance as an invasion of their country by a foreign power in an attempt to seize land and Congo’s valuable rare minerals.
+* 许多刚果人认为叛军的进攻是外国势力入侵他们的国家，企图夺取土地和刚果珍贵的稀有矿产。
+* Russia has lost about twice as many men to death and serious injury as Ukraine. But the trends favor the Kremlin.
+* 俄罗斯死亡和严重受伤的人数是乌克兰的两倍。但这种趋势有利于克里姆林宫。
+* Hundreds of people began registering their marriages at a mall in Bangkok, as Thailand became one of the few places in Asia to legalize same-sex unions.
+* 随着泰国成为亚洲少数几个将同性结合合法化的地方之一，数百人开始在曼谷的一家购物中心登记他们的婚姻。
+* The plan, called “Mexico Embraces You,” seeks to reassure undocumented migrants facing expulsion. Some experts question if the government is really ready to reabsorb them.
+* 这项名为“墨西哥拥抱你”的计划旨在安抚面临驱逐的无证移民。一些专家质疑政府是否真的准备好重新吸收它们。
+* Israel says it has killed thousands of the armed group’s members and destroyed much of its infrastructure, but since the cease-fire started Hamas has shown it still holds power in the enclave.
+* 以色列表示，它已经杀死了数千名武装团体成员，并摧毁了其大部分基础设施，但自停火开始以来，哈马斯已经表明它仍然在该飞地掌权。
+* Harry won an apology and damages from Rupert Murdoch’s U.K. tabloids. Could the lawsuit’s end also help heal the rift with his brother, William, and his father, King Charles III?
+* 哈利赢得了鲁珀特·默多克（ Rupert Murdoch ）的英国小报的道歉和损害赔偿。诉讼的结束是否有助于治愈与他的兄弟威廉和他的父亲查理三世之间的裂痕？
+* The move will authorize harsher penalties on the Iran-backed group, which has attacked Israel and disrupted global shipping trade in the Red Sea for over a year.
+* 此举将授权对伊朗支持的集团进行更严厉的惩罚，该集团袭击了以色列并扰乱了红海的全球航运贸易一年多。
+* The high popularity that the Ukrainian president had in the early days of the Russian invasion, with an approval rating of about 90 percent, has dipped badly.
+* 乌克兰总统在俄罗斯入侵初期的支持率约为90 ％ ，支持率已经大幅下降。
 
 ## New York Times United States News
-* Bishop Budde locked eyes with President Trump and made a plea for mercy — and the war over spiritual authority in America was ignited anew.
-* 布德主教与特朗普总统目不转睛，恳求怜悯—美国的精神权威之战重新点燃。
+* Many leaders say their policies to limit local cooperation with federal immigration officials stand. But signs of division have emerged.
+* 许多领导人表示，他们限制当地与联邦移民官员合作的政策是站得住脚的。但分裂的迹象已经出现。
 * Weakened by cancer and nagged by his conscience, a former Georgia prosecutor wants the courts to reverse the sentence he demanded for a man who didn’t physically harm anyone in his crimes.
 * 一名前格鲁吉亚检察官被癌症削弱并被自己的良心所困扰，他希望法院撤销他对一名没有在犯罪中对任何人造成身体伤害的男子所要求的判决。
-* States, counties and cities across the U.S. have adopted policies to limit cooperation with immigration agents who seek to deport undocumented immigrants.
-* 美国各州、县和市已采取政策，限制与寻求驱逐无证移民的移民代理人的合作。
-* Many universities have been reluctant to embrace a definition that, among other things, considers some criticisms of Israel as antisemitic. The university’s decision was part of a lawsuit settlement.
-* 许多大学一直不愿意接受这样一个定义，即除其他外，认为一些对以色列的批评是反犹太主义的。该大学的决定是诉讼和解的一部分。
-* The blaze temporarily closed parts of Interstate 5 and prompted evacuation orders and warnings for more than 50,000 people.
-* 大火暂时关闭了5号州际公路的部分地区，并促使5万多人发出疏散命令和警告。
-* Officials throughout much of the South have echoed the same message: The effects from the rare winter storm are not over, and driving remains a hazard.
-* 南方大部分地区的官员也发出了同样的信息：罕见的冬季风暴的影响还没有结束，驾驶仍然是一种危险。
-* Altadena residents were allowed back into their neighborhoods this week. Most were prepared for the worst but needed to find closure in their own way.
-* 本周，阿尔塔迪纳居民被允许回到他们的街区。大多数人都为最坏的情况做好了准备，但需要以自己的方式找到解决办法。
-* President Trump wants a massive tax cut and immigration crackdown bill. Now Republicans must decide what to cut to help pay for it.
-* 特朗普总统希望通过大规模减税和打击移民法案。现在，共和党人必须决定削减什么来帮助支付费用。
-* Devotees of Mt. Bachelor are putting together a bid to rescue the ski area — and their way of life — from the titans of the industry.
-* Mt. Bachelor的忠实爱好者正在共同努力，从该行业的巨头手中拯救滑雪场及其生活方式。
-* Firefighters stopped the progress of the 40-acre fire, which broke out late Wednesday in the Sepulveda Pass, officials said.
-* 官员说，消防员阻止了周三晚些时候在塞普尔韦达山口爆发的40英亩大火的进展。
+* Officials warned residents across the South that the effects of a major winter storm were not over, and that driving remained a hazard on roads frozen with slippery ice.
+* 官员们警告南方各地的居民，一场大型冬季风暴的影响还没有结束，在被滑冰冻结的道路上，驾驶仍然是一种危险。
+* Some students and professors are questioning whether campus diversity, equity and inclusion offices should do more to combat antisemitism, or whether D.E.I. itself is the problem.
+* 一些学生和教授质疑校园多样性、公平性和包容性办公室是否应该采取更多措施来打击反犹太主义，还是D.E.I.本身就是问题所在。
+* While he has expressed support for North Carolina residents, the president has criticized California’s Democratic leaders and threatened to withhold federal aid from the state.
+* 虽然他表示支持北卡罗来纳州居民，但总统批评了加利福尼亚州的民主党领导人，并威胁要拒绝向该州提供联邦援助。
+* Ahead of his trip, the president threatened to withhold aid from California, which he said had mismanaged its water during firefighting efforts.
+* 在访问之前，总统威胁要停止向加利福尼亚州提供援助，他说加利福尼亚州在消防工作中对水的管理不善。
+* Gov. Gavin Newsom faces what may be his greatest political test and leadership challenge. He planned to greet President Trump upon his arrival in Southern California on Friday.
+* 加文·纽森（ Gavin Newsom ）州长面临着可能是他最大的政治考验和领导力挑战。他计划在周五抵达南加州时迎接特朗普总统。
+* The March for Life on Friday will bring together a movement invigorated by some early moves of the second Trump administration.
+* 周五的生命游行将汇集第二届特朗普政府的一些早期行动所激发的运动。
+* In place of the state, a nonprofit association has regulatory authority over about two dozen of the facilities.
+* 代替国家，非营利性协会对大约二十多个设施拥有监管权。
+* Officials said the fire, which had spread to more than 500 acres by Thursday night, was miles away from threatening any homes or buildings.
+* 官员说，这场火灾到周四晚上已经蔓延到500多英亩，距离任何房屋或建筑物都只有几英里远。
 
 ## New York Times Asia News
+* North Korea’s leader has grown more assertive since their last efforts at diplomacy ended in failure — and now has Russia at his side.
+* 自从他们最后一次外交努力以失败告终以来，朝鲜领导人变得更加自信—现在俄罗斯站在他一边。
+* Panda fan culture once flourished in China. But Beijing is tightening control of discussion of a national symbol.
+* 熊猫迷文化曾在中国蓬勃发展。但北京正在加强对国家象征讨论的控制。
+* The return of inflation and wage growth is giving the Bank of Japan room to raise interest rates and declare the end of a long period of stagnation.
+* 通货膨胀和工资增长的回归为日本央行提供了提高利率并宣布结束长期停滞的空间。
+* A culinary star familiar on TV, he married local ingredients with the food he grew up on in running an acclaimed San Francisco restaurant and its offshoots.
+* 作为电视上熟悉的烹饪明星，他将当地食材与他在经营一家备受赞誉的旧金山餐厅及其分支机构中长大的食物相结合。
+* Karim Khan said that a crime against humanity was being committed by top officials against “Afghan women and girls, as well as the LGBTQI+ community.”
+* 卡里姆·汗（ Karim Khan ）表示，高级官员正在对“阿富汗妇女和女孩以及LGBTQI +社区”犯下危害人类罪。
+* Plus, the Oscar nominations.
+* 此外，还有奥斯卡提名。
+* Twelve people were killed in India after they disembarked a train bound for Mumbai, only to be struck by another train, the authorities said.
+* 当局表示，在印度，有12人在下了一列开往孟买的火车后被杀，但却被另一列火车撞倒。
+* An eventful shareholder meeting provided the latest twist in the dispute between the families whose deceased patriarchs founded the company 50 years ago.
+* 多事的股东大会为50年前已故家长创立该公司的家族之间的纠纷提供了最新的转折。
 * Following the deadly Jeju Air accident, the government ordered low cost carriers to reduce flight times, boost pilot training and expand maintenance crews.
 * 在致命的济州航空事故发生后，政府下令低成本航空公司减少飞行时间，加强飞行员培训并扩大维修人员。
 * Hundreds of people began registering their marriages at a mall in Bangkok, as Thailand became one of the few places in Asia to legalize same-sex unions.
 * 随着泰国成为亚洲少数几个将同性结合合法化的地方之一，数百人开始在曼谷的一家购物中心登记他们的婚姻。
-* Plus, predictions for today’s Oscar nominations.
-* 此外，还有对今天奥斯卡提名的预测。
-* The police said they were investigating whether “overseas actors” were involved in the vandalizing of synagogues and a day care center.
-* 警方表示，他们正在调查“海外演员”是否参与破坏犹太教堂和日托中心。
-* Whether it is over TikTok, fentanyl or trade, Beijing might welcome a compromise to buy time to address its ailing economy and bolster its position globally.
-* 无论是TikTok、芬太尼还是贸易，北京都可能欢迎妥协，以争取时间来应对其陷入困境的经济，并巩固其在全球的地位。
-* Ukrainian forces described a different kind of enemy, fighting with unfamiliar tactics and little option to retreat.
-* 乌克兰军队描述了一种不同类型的敌人，以陌生的战术和几乎没有撤退的选择进行战斗。
-* Son Chang-wan was in office while works were undertaken at Muan International Airport. Last month, a plane crashed into a concrete barrier there, killing 179 people.
-* Son Chang-wan在Muan国际机场工作期间任职。上个月，一架飞机在那里的混凝土路障上坠毁，造成179人死亡。
-* Control of Korea Zinc, the world’s largest producer of zinc, is at stake in a battle challenging the country’s entrenched chaebol system of powerful conglomerates.
-* 对世界上最大的锌生产国韩国锌的控制权正处于一场挑战该国根深蒂固的强大企业集团财阀系统的战斗中。
-* The president said the planned duties were a response to China’s failure to curb fentanyl exports.
-* 总统表示，计划中的关税是对中国未能遏制芬太尼出口的回应。
-* Plus, an interview with the Nobel laureate Han Kang.
-* 此外，还有对诺贝尔奖获得者韩康的采访。
 
