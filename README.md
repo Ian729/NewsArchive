@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* But not all of the leading conservative populist parties in the world are the same — in rhetoric or on policy.
-* 但并非世界上所有主要的保守民粹主义政党在言论或政策上都是一样的。
-* The contractors have been enlisted to do weapons checks on vehicles carrying displaced Palestinians back to their homes in the north under the terms of the new cease-fire.
-* 根据新的停火协议条款，承包商已被征召对运送流离失所的巴勒斯坦人返回北部家园的车辆进行武器检查。
-* Many Congolese see the rebel advance as an invasion of their country by a foreign power in an attempt to seize land and Congo’s valuable rare minerals.
-* 许多刚果人认为叛军的进攻是外国势力入侵他们的国家，企图夺取土地和刚果珍贵的稀有矿产。
-* Russia has lost about twice as many men to death and serious injury as Ukraine. But the trends favor the Kremlin.
-* 俄罗斯死亡和严重受伤的人数是乌克兰的两倍。但这种趋势有利于克里姆林宫。
-* Hundreds of people began registering their marriages at a mall in Bangkok, as Thailand became one of the few places in Asia to legalize same-sex unions.
-* 随着泰国成为亚洲少数几个将同性结合合法化的地方之一，数百人开始在曼谷的一家购物中心登记他们的婚姻。
-* The plan, called “Mexico Embraces You,” seeks to reassure undocumented migrants facing expulsion. Some experts question if the government is really ready to reabsorb them.
-* 这项名为“墨西哥拥抱你”的计划旨在安抚面临驱逐的无证移民。一些专家质疑政府是否真的准备好重新吸收它们。
-* Israel says it has killed thousands of the armed group’s members and destroyed much of its infrastructure, but since the cease-fire started Hamas has shown it still holds power in the enclave.
-* 以色列表示，它已经杀死了数千名武装团体成员，并摧毁了其大部分基础设施，但自停火开始以来，哈马斯已经表明它仍然在该飞地掌权。
-* Harry won an apology and damages from Rupert Murdoch’s U.K. tabloids. Could the lawsuit’s end also help heal the rift with his brother, William, and his father, King Charles III?
-* 哈利赢得了鲁珀特·默多克（ Rupert Murdoch ）的英国小报的道歉和损害赔偿。诉讼的结束是否有助于治愈与他的兄弟威廉和他的父亲查理三世之间的裂痕？
-* The move will authorize harsher penalties on the Iran-backed group, which has attacked Israel and disrupted global shipping trade in the Red Sea for over a year.
-* 此举将授权对伊朗支持的集团进行更严厉的惩罚，该集团袭击了以色列并扰乱了红海的全球航运贸易一年多。
-* The high popularity that the Ukrainian president had in the early days of the Russian invasion, with an approval rating of about 90 percent, has dipped badly.
-* 乌克兰总统在俄罗斯入侵初期的支持率约为90 ％ ，支持率已经大幅下降。
+* Israel’s military said the four hostages, all female soldiers, were being brought back to Israel from Gaza. Israel is now expected to release around 200 Palestinian prisoners.
+* 以色列军方表示，这四名人质都是女兵，从加沙被带回以色列。预计以色列将释放约200名巴勒斯坦囚犯。
+* President Aleksandr G. Lukashenko, a close ally of Russia’s leader, Vladimir V. Putin, has been making signs of reaching out to the West. He is all but certain to win an election on Sunday.
+* 俄罗斯总统亚历山大·卢卡申科（ Aleksandr G. Lukashenko ）是俄罗斯领导人弗拉基米尔· V ·普京（ Vladimir V. Putin ）的亲密盟友，他一直在表现出与西方接触的迹象他几乎肯定会在周日的选举中获胜。
+* Some school buildings are in gang-occupied territory or have become de facto shelters for those forced from their homes, leaving hundreds of thousands with no chance for formal learning.
+* 一些学校建筑位于帮派占领区，或已成为被迫离开家园者的事实上的庇护所，使数十万人没有机会接受正规教育。
+* Young female “spotters” for Israel’s army reported suspicious activity across the border. When Hamas attacked, 15 were killed and seven abducted. Four came home on Saturday.
+* 以色列军队的年轻女性“观察员”报告了跨越边境的可疑活动。哈马斯发动袭击时，有15人被打死， 7人被绑架。周六有四人回家。
+* As Myanmar’s civil war heads into a fifth year, anti-junta forces are opening universities and colleges as part of their pursuit of a federal democracy.
+* 随着缅甸内战进入第五个年头，反军政府部队正在开放大学和学院，作为他们追求联邦民主的一部分。
+* The directive came in a letter to the U.N., after the Israeli Parliament banned the relief agency that has aided Palestinian refugees for decades.
+* 在以色列议会禁止援助巴勒斯坦难民数十年的救济机构之后，该指令是在给联合国的一封信中发布的。
+* Hundreds of truckloads of food, fuel and other supplies have arrived in Gaza each day since the cease-fire took effect. But the need is vast after 15 months of war.
+* 自停火生效以来，每天都有数百卡车的粮食、燃料和其他物资运抵加沙。但经过15个月的战争，需求是巨大的。
+* Riad Sattouf’s saga of his parents’ failed bicultural marriage, with its harsh depiction of life in rural Syria, has become a literary sensation.
+* 里亚德·萨图夫（ Riad Sattouf ）关于他父母失败的双文化婚姻的传奇故事，以及对叙利亚农村生活的严厉描述，已经成为一种文学轰动。
+* North Korea’s leader has grown more assertive since their last efforts at diplomacy ended in failure — and now has Russia at his side.
+* 自从他们最后一次外交努力以失败告终以来，朝鲜领导人变得更加自信—现在俄罗斯站在他一边。
+* Israel and Hezbollah agreed to withdraw from southern Lebanon, but Israel says that Hezbollah hasn’t upheld its promise and that the Lebanese Army isn’t ready to fill the void.
+* 以色列和真主党同意从黎巴嫩南部撤军，但以色列表示，真主党没有兑现承诺，黎巴嫩军队还没有准备好填补这一空白。
 
 ## New York Times United States News
-* Many leaders say their policies to limit local cooperation with federal immigration officials stand. But signs of division have emerged.
-* 许多领导人表示，他们限制当地与联邦移民官员合作的政策是站得住脚的。但分裂的迹象已经出现。
+* We want to know how workers are processing President Trump’s decision to end hiring practices meant to further diversity, equity and inclusion in the federal work force.
+* 我们想知道工人们如何处理特朗普总统的决定，即终止旨在促进联邦劳动力多元化、公平和包容性的招聘做法。
+* The March for Life on Friday brought together a movement invigorated by some early moves of the second Trump administration.
+* 周五的“生命游行”汇集了第二届特朗普政府的一些早期行动所激发的运动。
 * Weakened by cancer and nagged by his conscience, a former Georgia prosecutor wants the courts to reverse the sentence he demanded for a man who didn’t physically harm anyone in his crimes.
 * 一名前格鲁吉亚检察官被癌症削弱并被自己的良心所困扰，他希望法院撤销他对一名没有在犯罪中对任何人造成身体伤害的男子所要求的判决。
-* Officials warned residents across the South that the effects of a major winter storm were not over, and that driving remained a hazard on roads frozen with slippery ice.
-* 官员们警告南方各地的居民，一场大型冬季风暴的影响还没有结束，在被滑冰冻结的道路上，驾驶仍然是一种危险。
-* Some students and professors are questioning whether campus diversity, equity and inclusion offices should do more to combat antisemitism, or whether D.E.I. itself is the problem.
-* 一些学生和教授质疑校园多样性、公平性和包容性办公室是否应该采取更多措施来打击反犹太主义，还是D.E.I.本身就是问题所在。
-* While he has expressed support for North Carolina residents, the president has criticized California’s Democratic leaders and threatened to withhold federal aid from the state.
-* 虽然他表示支持北卡罗来纳州居民，但总统批评了加利福尼亚州的民主党领导人，并威胁要拒绝向该州提供联邦援助。
-* Ahead of his trip, the president threatened to withhold aid from California, which he said had mismanaged its water during firefighting efforts.
-* 在访问之前，总统威胁要停止向加利福尼亚州提供援助，他说加利福尼亚州在消防工作中对水的管理不善。
 * Gov. Gavin Newsom faces what may be his greatest political test and leadership challenge. He planned to greet President Trump upon his arrival in Southern California on Friday.
 * 加文·纽森（ Gavin Newsom ）州长面临着可能是他最大的政治考验和领导力挑战。他计划在周五抵达南加州时迎接特朗普总统。
-* The March for Life on Friday will bring together a movement invigorated by some early moves of the second Trump administration.
-* 周五的生命游行将汇集第二届特朗普政府的一些早期行动所激发的运动。
-* In place of the state, a nonprofit association has regulatory authority over about two dozen of the facilities.
-* 代替国家，非营利性协会对大约二十多个设施拥有监管权。
-* Officials said the fire, which had spread to more than 500 acres by Thursday night, was miles away from threatening any homes or buildings.
-* 官员说，这场火灾到周四晚上已经蔓延到500多英亩，距离任何房屋或建筑物都只有几英里远。
+* Through a flurry of orders, the new president quickly began driving the country in a different direction on many contentious issues.
+* 通过一连串的命令，新总统迅速开始在许多有争议的问题上推动国家朝着不同的方向前进。
+* The president’s promotion of a speculative digital coin left some crypto investors feeling blindsided, while others saw it as a gimmick that undermined the industry’s credibility.
+* 总统推广投机性数字硬币让一些加密投资者感到不知所措，而其他人则认为这是一种噱头，破坏了该行业的信誉。
+* Inside the $32 billion industry transforming marijuana, its consumption and beliefs about its ability to heal.
+* 价值320亿美元的行业正在改变大麻，其消费和对其愈合能力的信念。
+* The internal government watchdogs were believed to have been dismissed at several major agencies, though the Justice Department’s was not said to have been among them.
+* 据信，几家主要机构已经解雇了政府内部监督机构，但据说司法部并不在其中。
+* In 2017, Betsy DeVos barely survived her confirmation vote to become President Trump’s secretary of education.
+* 2017年，贝琪·德沃斯（ Betsy DeVos ）勉强通过确认投票，成为特朗普总统的教育部长。
+* President Trump is targeting people who have been living in the country under Biden immigration programs that shielded them from deportation and allowed them to work.
+* 特朗普总统的目标是根据拜登移民计划生活在该国的人，这些计划保护他们免于被驱逐出境并允许他们工作。
 
 ## New York Times Asia News
+* Japanese collectors spent billions on European paintings during the bubble economy of the 1980s. Officials today hope to inspire a new generation of art lovers.
+* 在20世纪80年代的泡沫经济时期，日本收藏家在欧洲绘画上花费了数十亿美元。今天的官员们希望激励新一代的艺术爱好者。
+* As Myanmar’s civil war heads into a fifth year, anti-junta forces are opening universities and colleges as part of their pursuit of a federal democracy.
+* 随着缅甸内战进入第五个年头，反军政府部队正在开放大学和学院，作为他们追求联邦民主的一部分。
+* Top doctors raised concerns about domestically made drugs, saying Beijing’s effort to lower costs is sacrificing quality.
+* 顶级医生对国产药品表示担忧，称北京降低成本的努力正在牺牲质量。
+* A popular TV host admitted trying to conceal a sexual assault complaint. This time, the reaction was swift and harsh, and aimed not only at him but also his employers.
+* 一位受欢迎的电视节目主持人承认试图隐瞒性侵犯投诉。这一次，反应迅速而严厉，不仅针对他，也针对他的雇主。
 * North Korea’s leader has grown more assertive since their last efforts at diplomacy ended in failure — and now has Russia at his side.
 * 自从他们最后一次外交努力以失败告终以来，朝鲜领导人变得更加自信—现在俄罗斯站在他一边。
 * Panda fan culture once flourished in China. But Beijing is tightening control of discussion of a national symbol.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 卡里姆·汗（ Karim Khan ）表示，高级官员正在对“阿富汗妇女和女孩以及LGBTQI +社区”犯下危害人类罪。
 * Plus, the Oscar nominations.
 * 此外，还有奥斯卡提名。
-* Twelve people were killed in India after they disembarked a train bound for Mumbai, only to be struck by another train, the authorities said.
-* 当局表示，在印度，有12人在下了一列开往孟买的火车后被杀，但却被另一列火车撞倒。
-* An eventful shareholder meeting provided the latest twist in the dispute between the families whose deceased patriarchs founded the company 50 years ago.
-* 多事的股东大会为50年前已故家长创立该公司的家族之间的纠纷提供了最新的转折。
-* Following the deadly Jeju Air accident, the government ordered low cost carriers to reduce flight times, boost pilot training and expand maintenance crews.
-* 在致命的济州航空事故发生后，政府下令低成本航空公司减少飞行时间，加强飞行员培训并扩大维修人员。
-* Hundreds of people began registering their marriages at a mall in Bangkok, as Thailand became one of the few places in Asia to legalize same-sex unions.
-* 随着泰国成为亚洲少数几个将同性结合合法化的地方之一，数百人开始在曼谷的一家购物中心登记他们的婚姻。
 
