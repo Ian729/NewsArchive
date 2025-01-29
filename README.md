@@ -2,68 +2,48 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Tens of thousands of Palestinians began arriving in northern Gaza, months after Israel ordered them out. The Israel-Hamas cease-fire was holding after faltering over the weekend.
-* 在以色列命令他们离开几个月后，成千上万的巴勒斯坦人开始抵达加沙北部。以色列-哈马斯停火在上周末步履蹒跚后得以维持。
-* Bloodshed over the weekend highlighted the brittleness of the cease-fires in both places. Still, Israel, Hamas and Hezbollah each have reasons to postpone a new escalation, at least for a few weeks.
-* 周末的流血事件凸显了两地停火的脆弱性。尽管如此，以色列、哈马斯和真主党都有理由推迟新的升级，至少推迟几周。
-* People who fled M23 rebels around Goma, in the eastern Democratic Republic of Congo, have found themselves with nowhere left to go.
-* 逃离刚果民主共和国东部戈马附近的“3 · 23”运动叛乱分子的人发现自己无处可去。
-* World leaders and a dwindling group of survivors joined in a ceremony to mark the 80th anniversary of the liberation of the Nazi death camp by the Red Army.
-* 世界各国领导人和不断减少的幸存者参加了纪念红军解放纳粹死亡集中营80周年的仪式。
-* The M23 militia, funded and directed by Rwanda, said it had seized the city of Goma, terrifying its people, many of whom sought shelter there after fleeing the rebel advance.
-* 由卢旺达资助和指挥的“3 · 23”运动民兵表示，他们占领了戈马市，吓坏了戈马人民，其中许多人在逃离反叛分子的推进后在那里寻求庇护。
-* The hydropower dam, in quake-prone Tibet, is set to be the world’s biggest. But China has said little about the project, which could affect nearby countries.
-* 地震多发的西藏水电站大坝将成为世界上最大的水电站大坝。但中国对该项目几乎没有说什么，这可能会影响到周边国家。
-* President Trump jabs at the Russian leader with threats; Vladimir Putin responds with flattery. But there are notable signals in their jousting, including a revived discussion about nuclear arms control.
-* 特朗普总统用威胁来抨击俄罗斯领导人；弗拉基米尔·普京用奉承来回应。但他们的争夺中有明显的信号，包括重新讨论核军备控制。
-* His comments to the hard-right Alternative for Germany party escalated efforts by the billionaire to influence the country’s election for chancellor next month.
-* 他对极右翼的德国替代党的言论加剧了这位亿万富翁影响该国下个月总理选举的努力。
-* European foreign ministers agreed on a “road map” to lift financial restrictions, but the change will happen in stages.
-* 欧洲各国外长就取消金融限制的“路线图”达成一致，但这一变化将分阶段进行。
-* Ukraine’s defense minister fired the head of a state agency that acquired over $7 billion in armaments last year, citing “unsatisfactory” results. But, the official vowed to remain.
-* 乌克兰国防部长以“不令人满意”的结果为由，解雇了一家国家机构的负责人，该机构去年获得了超过70亿美元的军备。但是，这位官员发誓要留下来。
+* The conflict between Israel and Hezbollah has left behind lots of rubble. Some experts fear that much of it will be dumped into the environment without controls.
+* 以色列和真主党之间的冲突留下了许多废墟。一些专家担心，其中大部分会在没有控制的情况下被倾倒到环境中。
+* Russians who fought in Chechnya and Afghanistan came home to silence and stigma. There’s a very public push to make things different this time.
+* 在车臣和阿富汗作战的俄罗斯人回到家中，保持沉默和耻辱。这次有一个非常公开的推动，让事情变得与众不同。
+* Large swaths of land in Southeast Asia are littered with unexploded bombs dropped by American forces during the Vietnam War.
+* 东南亚的大片土地上布满了美国军队在越南战争期间投下的未爆炸弹。
+* When Colombia’s president, Gustavo Petro, refused military planes carrying deportees, infuriating President Trump, he revealed how heated the question of deportations has become.
+* 当哥伦比亚总统古斯塔沃·佩特罗（ Gustavo Petro ）拒绝运载被驱逐出境者的军用飞机时，激怒了特朗普总统，他透露了驱逐出境问题变得多么激烈。
+* Many blame the United States, France and other allies for allowing neighboring Rwanda to fuel a conflict in the country’s east.
+* 许多人指责美国、法国和其他盟国允许邻国卢旺达为该国东部的冲突火上浇油。
+* Nigel Farage’s party is reshaping British conservatism and showing that it can raise money to do so.
+* Nigel Farage的政党正在重塑英国的保守主义，并表明它可以为此筹集资金。
+* A conflict that has raged for decades reached a flashpoint this week when rebels backed by Rwanda marched on a key Congolese city in a bid to occupy territory and exploit minerals.
+* 几十年来肆虐的冲突本周达到了一个爆发点，当时卢旺达支持的叛乱分子在一个关键的刚果城市游行，企图占领领土并开采矿产。
+* Steven Witkoff played an important role in brokering the cease-fire deal between Israel and Hamas.
+* Steven Witkoff在促成以色列和哈马斯之间的停火协议方面发挥了重要作用。
+* The Trump administration’s orders have sent a chill through humanitarian organizations in Ukraine, which depend heavily on such assistance.
+* 特朗普政府的命令给乌克兰的人道主义组织带来了寒意，这些组织严重依赖这种援助。
+* The Italian prime minister announced the investigation on social media, saying, “I cannot be blackmailed.”
+* 意大利总理在社交媒体上宣布了这项调查，称“我不能被勒索。”
 
 ## New York Times United States News
-* In a special session on Monday, leaders seemed to be declaring their independence from a governor who has wielded so much power that legislative sessions have become largely predictable rubber stamps.
-* 在周一的一次特别会议上，领导人似乎宣布他们独立于一位掌握如此多权力的州长，以至于立法会议在很大程度上已经成为可预测的橡皮图章。
-* State university officials began the effort in response to social media outrage over test questions about terrorism. The effort has infuriated professors.
-* 州立大学官员开始努力应对社交媒体对有关恐怖主义的测试问题的愤怒。这一努力激怒了教授们。
-* A special session that began on Monday pairs disaster aid with two priorities for both the president and Gov. Bill Lee of Tennessee: tougher immigration laws and school vouchers.
-* 周一开始的特别会议将灾难援助与总统和田纳西州州长比尔·李的两个优先事项结合起来：更严格的移民法和学校代金券。
-* The decision by federal prosecutors came at a time when President Trump was rolling back protections for transgender people.
-* 联邦检察官的决定是在特朗普总统取消对变性人的保护之际做出的。
-* In positioning himself as a junior partner to the president and doing his bidding on matters large and small, the Louisiana Republican is diminishing a job that involves leading a coequal branch of government.
-* 这位路易斯安那州共和党人将自己定位为总统的初级合伙人，并在大小事务上尽心尽力，正在削弱领导平等政府部门的工作。
-* The president is increasingly threatening other countries with tariffs for issues that have little to do with trade.
-* 总统越来越多地威胁其他国家，对与贸易无关的问题征收关税。
-* During President Trump’s first term, demanding personal loyalty didn’t always work; stocking top jobs with loyalists is the tack now. At the F.B.I., this entails bucking its institutional history.
-* 在特朗普总统的第一个任期内，要求个人忠诚度并不总是奏效；向忠诚者提供顶级工作是现在的策略。在联邦调查局，这需要打破其机构历史。
-* These parents believe in home-schooling and distrust food and drug companies. In Kennedy, they see “a bull in the china shop.”
-* 这些家长相信在家上学，不信任食品和制药公司。在肯尼迪，他们看到“瓷器店里的一头公牛”。
-* The president also ordered the Pentagon to end diversity programs, reinstate many service members dismissed for refusing the coronavirus vaccine and create a new missile defense system.
-* 总统还下令五角大楼终止多元化计划，恢复许多因拒绝接种冠状病毒疫苗而被解雇的服务人员，并建立新的导弹防御系统。
-* The full extent of the order was not immediately clear, but the directive sent to government agencies on Monday threatened to paralyze a vast swath of federal programs.
-* 该命令的全部范围尚不清楚，但周一发送给政府机构的指令有可能使大量联邦计划陷入瘫痪。
 
 ## New York Times Asia News
-* A new photography book showcases idiosyncratic locations, including a “ski-through” window in Sweden, and local menu offerings that some see as an entry point into an unfamiliar cuisine.
-* 一本新的摄影书展示了独特的地理位置，包括瑞典的「滑雪通道」窗口，以及一些人认为是进入陌生美食的切入点的当地菜单。
-* It was the latest thaw in relations between the two countries, whose troops were involved in deadly skirmishes high in the Himalayas in 2020.
-* 这是两国关系的最新解冻，其军队参与了2020年喜马拉雅山脉的致命冲突。
-* Steep new fines — more than many people make in a month — have made the streets of Ho Chi Minh City and Hanoi less freewheeling than they used to be.
-* 高额的新罚款--超过许多人一个月的收入--使得胡志明市和河内的街道不再像以前那样随心所欲。
-* Plus, Venice in the winter.
-* 此外，还有冬天的威尼斯。
-* A French Catholic priest, he wrote a book recounting horrors committed by the Khmer Rouge that were responsible for the deaths of almost two million people.
-* 作为一名法国天主教神父，他写了一本书，讲述了红色高棉犯下的恐怖事件，这些事件导致近200万人死亡。
-* The country, which sank into a recession last year, is trying to entice highly skilled “digital nomads” to work in the island nation for up to nine months.
-* 该国去年陷入经济衰退，正试图吸引高技能的“数字游牧民”在这个岛国工作长达9个月。
-* By declaring he’d put tariffs on goods from the South American country, the president imperiled a growing influx of foreign investment there.
-* 通过宣布对来自南美国家的商品征收关税，总统危及了越来越多的外国投资涌入。
-* China Vanke, one of the country’s largest developers, cleared out its top executives and said it anticipates a $6.2 billion loss, a sign the property meltdown is still raging.
-* 中国最大的开发商之一万科清理了其高管，并表示预计将亏损62亿美元，这表明房地产崩溃仍在肆虐。
-* Criticism over how the Chinese government buys drugs for its public health care system has ignited frustration over the quality of medicine.
-* 对中国政府如何为其公共卫生保健系统购买药品的批评引发了对药品质量的沮丧。
-* The hydropower dam, in quake-prone Tibet, is set to be the world’s biggest. But China has said little about the project, which could affect nearby countries.
-* 地震多发的西藏水电站大坝将成为世界上最大的水电站大坝。但中国对该项目几乎没有说什么，这可能会影响到周边国家。
+* Many were feared dead after millions of Hindu pilgrims at a huge Hindu festival in India rushed to bathe in holy river waters.
+* 在印度一个巨大的印度教节日上，数百万印度教朝圣者冲进圣河水域沐浴，许多人担心死亡。
+* Asked about sensitive topics, the bot would begin to answer, then stop and delete its own work. It refused to answer questions like: “Who is Xi Jinping?”
+* 当被问及敏感话题时，机器人会开始回答，然后停止并删除自己的工作。它拒绝回答这样的问题： “习近平是谁？”
+* Armed with measuring devices, groups of citizens are embracing science to monitor radioactive fallout — and regain control of lives upended by the 2011 meltdowns in Fukushima.
+* 配备测量设备的公民团体正在拥抱科学，以监测放射性尘埃—并重新控制因2011年福岛核事故而颠覆的生活。
+* More than a billion people around the world are celebrating the Lunar New Year.
+* 全世界有超过10亿人正在庆祝农历新年。
+* People were trampled as pilgrims at the Maha Kumbh Mela, one of the world’s biggest gatherings, gathered at the confluence of two sacred rivers, officials said.
+* 官员说，人们在Maha Kumbh Mela被践踏，这是世界上最大的集会之一，聚集在两条神圣河流的交汇处。
+* Kenichiro Yoshida, who has led Sony since 2018, will be succeeded as chief executive by the company’s chief financial officer.
+* 自2018年以来一直领导索尼的吉田健一郎将由公司首席财务官接任首席执行官。
+* A typhoon and extreme heat dramatically affected prices for the kumquat trees that are ubiquitous during the holiday.
+* 台风和极端炎热严重影响了金桔树的价格，金桔树在假期中无处不在。
+* Plus, renovations at the Louvre.
+* 此外，还有卢浮宫的装修。
+* Social media exploded in a celebration after the news that a Chinese start-up had made an artificial intelligence tool that was more efficient than any in the United States.
+* 在一家中国初创企业制造了一种比美国任何国家都高效的人工智能工具的消息传出后，社交媒体在一场庆祝活动中爆发。
+* The little-known artificial intelligence firm has emphasized research, even as it emerged as the brainchild of a hedge fund.
+* 这家鲜为人知的人工智能公司一直强调研究，尽管它是作为对冲基金的创意而出现的。
 
