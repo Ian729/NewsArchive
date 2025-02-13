@@ -2,48 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Hamas and President Trump have threatened to upend the cease-fire. Analysts say those words could prove hollow, but the deal still may not last beyond early March.
-* 哈马斯和特朗普总统威胁要推翻停火协议。分析师表示，这些话可能被证明是空洞的，但这笔交易可能不会持续到3月初之后。
-* Prime Minister Benjamin Netanyahu of Israel said the cease-fire would end if Hamas did not release captives held in Gaza. But he did not say how many hostages had to be freed.
-* 以色列总理内塔尼亚胡表示，如果哈马斯不释放被关押在加沙的俘虏，停火将结束。但他没有说要释放多少人质。
-* Deterring Russia from re-invading Ukraine, once this war ends, could require 150,000 troops and American help with air cover, intelligence and missile defense, experts say.
-* 专家说，一旦这场战争结束，阻止俄罗斯再次入侵乌克兰可能需要15万军队和美国在空中掩护、情报和导弹防御方面的帮助。
-* Luis Alberto Castillo arrived in the United States so that he could “give everything to his son,” said his sister. Then, while scrolling on TikTok, she found out he was headed to Guantánamo.
-* 他的姐姐说，路易斯·阿尔贝托·卡斯蒂略（ Luis Alberto Castillo ）来到美国是为了“把一切都给他的儿子”。然后，在TikTok上滚动时，她发现他正前往关塔那摩。
-* Dogged by protesters, but apparently safe from damage in the polls, Friedrich Merz is putting a failed immigration gambit behind him.
-* 弗里德里希·默茨（ Friedrich Merz ）受到抗议者的困扰，但显然在民意调查中免受损害，他正在把失败的移民策略抛在脑后。
-* Canada, Mexico and European countries criticized President Trump’s levies on steel and aluminum with fears that they could ignite a global trade war.
-* 加拿大、墨西哥和欧洲国家批评特朗普总统对钢铁和铝征税，担心这可能引发全球贸易战。
-* The United States and Israel have long condemned the payment of stipends to families of Palestinian prisoners involved in attacks on Israel.
-* 美国和以色列长期以来一直谴责向参与袭击以色列的巴勒斯坦囚犯的家属支付津贴。
-* Scores of people suspected of being affiliated with the resurgent mob were arrested Tuesday during overnight raids in Palermo and the surrounding area.
-* 周二，在巴勒莫及周边地区的夜间突袭中，数十名涉嫌与复兴暴徒有关联的人被捕。
-* Speaking in Paris at an artificial intelligence summit, the vice president gave an America First vision of the technology — with the U.S. dominating the chips, the software and the rules.
-* 在巴黎举行的人工智能峰会上，这位副总统提出了“美国优先”的技术愿景--美国在芯片、软件和规则方面占据主导地位。
-* Opponents of the project say it is costly, will take far too long to strengthen Ukraine’s battered power supply and opens the door to corruption.
-* 该项目的反对者表示，该项目代价高昂，需要很长时间才能加强乌克兰遭受重创的电力供应，并为腐败打开大门。
+* The Times interviewed Russian soldiers who said they face a brutal fight to dislodge determined Ukrainian forces from a sliver of Russian land. Trapped civilians fear catastrophe.
+* “泰晤士报”采访了俄罗斯士兵，他们说他们面临着一场残酷的战斗，将坚定的乌克兰军队赶出俄罗斯的一小块土地。被困平民害怕灾难。
+* The U.S. president has repeatedly asked the two Mideast allies to take in two million Palestinians from Gaza. Both Egypt and Jordan have been trying to offer Mr. Trump help in other ways.
+* 美国总统一再要求这两个中东盟国从加沙接收200万巴勒斯坦人。埃及和约旦都试图以其他方式向特朗普提供帮助。
+* After finding refuge and building power in Venezuela, a decades-old rebel group has waged the worst violence in Colombia in a generation, setting off troubling regional tensions.
+* 在委内瑞拉寻求庇护并建立权力后，一个拥有数十年历史的反叛组织在哥伦比亚发动了一代人以来最严重的暴力事件，引发了令人不安的地区紧张局势。
+* India is acutely aware that trade and immigration issues are a potential double whammy. But it believes it can preserve growing ties.
+* 印度敏锐地意识到，贸易和移民问题是一个潜在的双重打击。但它认为它可以保持不断增长的联系。
+* The release is part of a swap with the Kremlin that freed an American schoolteacher being held in a Russian prison.
+* 此次释放是与克里姆林宫交换的一部分，该交换释放了一名被关押在俄罗斯监狱的美国教师。
+* In his first trip abroad, the new U.S. defense secretary told allies, including NATO officials, that a durable peace could only come “with a realistic assessment of the battlefield.”
+* 在他第一次出国时，美国新任国防部长告诉包括北约官员在内的盟友，只有“对战场进行现实的评估” ，才能实现持久和平。
+* Aleksandr G. Lukashenko, Belarus’s autocratic president and Russia’s closest ally, has taken steps to soften his country’s isolation from the West.
+* 白俄罗斯专制总统、俄罗斯最亲密的盟友亚历山大·卢卡申科（ Aleksandr G. Lukashenko ）已采取措施软化白俄罗斯对西方的孤立。
+* President Trump’s moves to pause refugee resettlement, freeze foreign aid and suspend funds to promote democracy have added more chaos to one of the world’s most urgent humanitarian crises.
+* 特朗普总统暂停难民安置、冻结外国援助和暂停资金以促进民主的举动，给世界上最紧迫的人道主义危机之一增加了更多的混乱。
+* As many as 1,400 people were killed in former Prime Minister Sheikh Hasina’s violent response to a student-led revolt, according to a U.N. inquiry.
+* 根据联合国的一项调查，多达1,400人在前总理谢赫·哈西娜（ Sheikh Hasina ）对学生领导的叛乱的暴力回应中丧生。
+* Russia’s ambassador to North Korea said that its Asian ally is also hosting Russian children orphaned by its war against Ukraine, as the two nations deepen ties.
+* 俄罗斯驻朝鲜大使表示，随着两国关系的深化，其亚洲盟友也在收容因对乌克兰的战争而成为孤儿的俄罗斯儿童。
 
 ## New York Times United States News
+* Prime Minister Narendra Modi of India, who has a warm relationship with President Trump, may try to ease friction over migrants and trade.
+* 与特朗普总统关系密切的印度总理纳伦德拉·莫迪（ Narendra Modi ）可能会试图缓解移民和贸易摩擦。
+* President Trump and Elon Musk, who is leading the administration’s downsizing efforts, are pushing for quick and widespread layoffs. But the blitz has run into a complicated set of restrictions.
+* 特朗普总统和领导政府裁员工作的埃隆·马斯克（ Elon Musk ）正在推动迅速而广泛的裁员。但这次闪电战遇到了一系列复杂的限制。
+* A mounting wave of lawsuits and court orders is slowing a dizzying effort to tear apart basic structures of the administrative state.
+* 越来越多的诉讼和法院命令正在减缓破坏行政国家基本结构的令人眼花缭乱的努力。
+* The $500,000 donation to the campaign of Abigail Spanberger, a former representative and C.I.A. officer, is the largest direct contribution in VoteVets’ 20-year history.
+* 前代表兼中情局官员阿比盖尔·斯潘伯格（ Abigail Spanberger ）为该活动捐赠了50万美元，这是VoteVets 20年历史上最大的直接捐款。
+* Bored troops are standing watch, shelters have emptied from McAllen, Texas, to Tucson, Ariz., and border patrols speed through miles of frontier, finding no one in sight.
+* 无聊的部队正在站岗，从德克萨斯州麦卡伦到亚利桑那州图森的避难所已经空无一人，边境巡逻队快速穿越数英里的边境，看不到任何人。
+* The former wrestling executive will speak about her priorities for the Department of Education. But she will also likely be questioned on White House discussions to close it.
+* 这位前摔跤高管将谈论她在教育部的优先事项。但她也可能会在白宫结束谈判的讨论中受到质疑。
+* The move against a half-dozen organizations followed an executive order from President Trump that said the United States would ensure their “total elimination.”
+* 针对六个组织的行动遵循了特朗普总统的行政命令，该命令称美国将确保“彻底消除”这些组织。
+* A new directive puts further exemptions on hold. Aid workers also say the U.S. government has made it impossible to pay partners around the world.
+* 一项新指令搁置了进一步的豁免。援助工作者还表示，美国政府已经无法向世界各地的合作伙伴付款。
+* The Times has obtained a list of the names of the men, whom the U.S. government has described as Venezuelan citizens under final deportation orders.
+* 《纽约时报》获得了这些人的名单，美国政府根据最终的驱逐令将其描述为委内瑞拉公民。
+* The Times has obtained a list of 53 Venezuelan men the Trump administration has put in a wartime prison built to hold Al Qaeda suspects.
+* 《纽约时报》获得了特朗普政府为关押基地组织嫌疑人而建造的战时监狱中53名委内瑞拉男子的名单。
 
 ## New York Times Asia News
+* Prime Minister Narendra Modi of India, who has a warm relationship with President Trump, may try to ease friction over migrants and trade.
+* 与特朗普总统关系密切的印度总理纳伦德拉·莫迪（ Narendra Modi ）可能会试图缓解移民和贸易摩擦。
+* Taiwanese officials, facing a more transactional U.S. relationship, have traveled to Washington to float energy deals and defend the island’s semiconductors.
+* 面对更具交易性的美国关系，台湾官员已前往华盛顿，以达成能源交易并捍卫台湾的半导体。
+* The Japanese companies’ decision to call off negotiations highlights the challenges legacy automakers face in partnering to tackle new technologies.
+* 两家日本公司取消谈判的决定凸显了传统汽车制造商在合作应对新技术方面所面临的挑战。
+* A new directive puts further exemptions on hold. Aid workers also say the U.S. government has made it impossible to pay partners around the world.
+* 一项新指令搁置了进一步的豁免。援助工作者还表示，美国政府已经无法向世界各地的合作伙伴付款。
+* Plus, Thailand braces for the “White Lotus” effect.
+* 此外，泰国支持“白莲花”效果。
+* As many as 1,400 people were killed in former Prime Minister Sheikh Hasina’s violent response to a student-led revolt, according to a U.N. inquiry.
+* 根据联合国的一项调查，多达1,400人在前总理谢赫·哈西娜（ Sheikh Hasina ）对学生领导的叛乱的暴力回应中丧生。
+* Russia’s ambassador to North Korea said that its Asian ally is also hosting Russian children orphaned by its war against Ukraine, as the two nations deepen ties.
+* 俄罗斯驻朝鲜大使表示，随着两国关系的深化，其亚洲盟友也在收容因对乌克兰的战争而成为孤儿的俄罗斯儿童。
 * President Trump’s moves to pause refugee resettlement, freeze foreign aid and suspend funds to promote democracy have added more chaos to one of the world’s most urgent humanitarian crises.
 * 特朗普总统暂停难民安置、冻结外国援助和暂停资金以促进民主的举动，给世界上最紧迫的人道主义危机之一增加了更多的混乱。
 * Crowds of visitors descended on Maui and Sicily after the HBO show’s first two seasons. Is the tropical resort island of Koh Samui ready for Season 3?
 * 在HBO节目的前两个赛季之后，成群的游客来到了毛伊岛和西西里岛。热带度假胜地苏梅岛准备好迎接第3季了吗？
 * Xi Jinping seems to be in no rush to engage with President Trump, who has sent mixed signals about when a call might happen (or whether it already has).
 * 习近平似乎并不急于与特朗普总统接触，特朗普总统对通话何时可能发生（或是否已经发生）发出了不同的信号。
-* As two-way trade expands, India’s surplus is growing. President Trump is expected to press Prime Minister Narendra Modi to lower tariffs.
-* 随着双向贸易的扩大，印度的顺差正在增长。预计特朗普总统将敦促总理纳伦德拉·莫迪（ Narendra Modi ）降低关税。
-* India is acutely aware that trade and immigration issues are a potential double whammy. But it believes it can preserve growing ties.
-* 印度敏锐地意识到，贸易和移民问题是一个潜在的双重打击。但它认为它可以保持不断增长的联系。
-* Plus, New York Fashion Week.
-* 此外，还有纽约时装周。
-* Don’t expect raucous party scenes or over-the-top après-ski. In Japan, it’s all about the snow. Here’s a primer on where to go, stay and eat.
-* 不要期待喧闹的派对场景或过度的滑雪场景。在日本，一切都与雪有关。以下是前往、住宿和用餐的入门指南。
-* The runaway success of “Ne Zha 2” is another sign that Chinese audiences are choosing domestic movies over Hollywood blockbusters.
-* “Ne Zha 2”的失控成功是中国观众选择国内电影而不是好莱坞大片的另一个迹象。
-* Plus, Kendrick Lamar’s Super Bowl show.
-* 此外，还有肯德里克·拉马尔（ Kendrick Lamar ）的超级
-* President Trump is tough on China when it comes to trade. He especially points to one number to say we’re being ripped off: our trade deficit. Ana Swanson, who covers trade and international economics for The New York Times, explains Trump’s approach to lowering the trade deficit with China and why some economists question his strategy.
-* 在贸易方面，特朗普总统对中国很强硬。他特别指出一个数字，说我们正在被敲诈：我们的贸易逆差。为《纽约时报》报道贸易和国际经济学的安娜·斯旺森（ Ana Swanson ）解释了特朗普降低对华贸易逆差的方法，以及为什么一些经济学家质疑他的战略。
 
