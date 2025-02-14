@@ -2,68 +2,48 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The Times interviewed Russian soldiers who said they face a brutal fight to dislodge determined Ukrainian forces from a sliver of Russian land. Trapped civilians fear catastrophe.
-* “泰晤士报”采访了俄罗斯士兵，他们说他们面临着一场残酷的战斗，将坚定的乌克兰军队赶出俄罗斯的一小块土地。被困平民害怕灾难。
-* The U.S. president has repeatedly asked the two Mideast allies to take in two million Palestinians from Gaza. Both Egypt and Jordan have been trying to offer Mr. Trump help in other ways.
-* 美国总统一再要求这两个中东盟国从加沙接收200万巴勒斯坦人。埃及和约旦都试图以其他方式向特朗普提供帮助。
-* After finding refuge and building power in Venezuela, a decades-old rebel group has waged the worst violence in Colombia in a generation, setting off troubling regional tensions.
-* 在委内瑞拉寻求庇护并建立权力后，一个拥有数十年历史的反叛组织在哥伦比亚发动了一代人以来最严重的暴力事件，引发了令人不安的地区紧张局势。
-* India is acutely aware that trade and immigration issues are a potential double whammy. But it believes it can preserve growing ties.
-* 印度敏锐地意识到，贸易和移民问题是一个潜在的双重打击。但它认为它可以保持不断增长的联系。
-* The release is part of a swap with the Kremlin that freed an American schoolteacher being held in a Russian prison.
-* 此次释放是与克里姆林宫交换的一部分，该交换释放了一名被关押在俄罗斯监狱的美国教师。
-* In his first trip abroad, the new U.S. defense secretary told allies, including NATO officials, that a durable peace could only come “with a realistic assessment of the battlefield.”
-* 在他第一次出国时，美国新任国防部长告诉包括北约官员在内的盟友，只有“对战场进行现实的评估” ，才能实现持久和平。
-* Aleksandr G. Lukashenko, Belarus’s autocratic president and Russia’s closest ally, has taken steps to soften his country’s isolation from the West.
-* 白俄罗斯专制总统、俄罗斯最亲密的盟友亚历山大·卢卡申科（ Aleksandr G. Lukashenko ）已采取措施软化白俄罗斯对西方的孤立。
-* President Trump’s moves to pause refugee resettlement, freeze foreign aid and suspend funds to promote democracy have added more chaos to one of the world’s most urgent humanitarian crises.
-* 特朗普总统暂停难民安置、冻结外国援助和暂停资金以促进民主的举动，给世界上最紧迫的人道主义危机之一增加了更多的混乱。
-* As many as 1,400 people were killed in former Prime Minister Sheikh Hasina’s violent response to a student-led revolt, according to a U.N. inquiry.
-* 根据联合国的一项调查，多达1,400人在前总理谢赫·哈西娜（ Sheikh Hasina ）对学生领导的叛乱的暴力回应中丧生。
-* Russia’s ambassador to North Korea said that its Asian ally is also hosting Russian children orphaned by its war against Ukraine, as the two nations deepen ties.
-* 俄罗斯驻朝鲜大使表示，随着两国关系的深化，其亚洲盟友也在收容因对乌克兰的战争而成为孤儿的俄罗斯儿童。
+* Asked whether Ukraine would be part of the negotiations, the president said on Thursday, “Of course they would.” A day earlier, he had suggested otherwise, and appeared ready to make concessions that Ukraine has flatly rejected.
+* 当被问及乌克兰是否会参与谈判时，总统周四表示， “他们当然会。“前一天，他提出了不同的建议，似乎准备做出乌克兰断然拒绝的让步。
+* The centuries-old tradition of wassailing is making a comeback in rural England, with rituals and revelry meant to chase away evil spirits and the winter blues.
+* 几个世纪以来的帆船运动传统正在英格兰农村卷土重来，其仪式和狂欢旨在驱散邪恶的灵魂和冬季忧郁。
+* The authorities believe the crash, into a union’s strike-day demonstration, was a deliberate attack. The suspect is a 24-year-old Afghan asylum seeker who was known to the police.
+* 当局认为，工会罢工日示威活动发生的坠机事件是蓄意袭击。嫌疑人是一名24岁的阿富汗寻求庇护者，警方认识他。
+* The group said that mediators were working “to remove obstacles and close gaps” after the cease-fire deal with Israel hit a roadblock. Israel has yet to comment.
+* 该组织表示，在与以色列达成停火协议后，调解人正在努力“消除障碍并缩小差距”。以色列尚未置评。
+* Vladimir Putin’s call with President Trump reinforced the Russian leader’s view that Moscow and Washington should decide the fate of Ukraine — and other weighty matters.
+* 弗拉基米尔·普京(Vladimir Putin)与特朗普总统的通话强化了这位俄罗斯领导人的观点，即莫斯科和华盛顿应该决定乌克兰的命运--以及其他重要问题。
+* Trump’s recent moves, including a conversation with Putin and a demand for Ukrainian mineral rights, are worrisome signs for Zelensky.
+* 特朗普最近的举动，包括与普京的谈话和对乌克兰矿产权的要求，对泽伦斯基来说是令人担忧的迹象。
+* Taiwanese officials, facing a more transactional U.S. relationship, have traveled to Washington to float energy deals and defend the island’s semiconductors.
+* 面对更具交易性的美国关系，台湾官员已前往华盛顿，以达成能源交易并捍卫台湾的半导体。
+* Only three weeks into the Trump administration’s suspension of money for foreign aid, those who work in women’s health say the impact has already been devastating.
+* 在特朗普政府暂停对外援助资金仅三周后，从事妇女健康工作的人士表示，这种影响已经是毁灭性的。
+* In the first major European vote since President Trump’s re-election, influence campaigns are targeting Germany from two sides.
+* 在特朗普总统连任以来的首次重大欧洲投票中，影响力竞选活动从两方面针对德国。
+* The new Trump foreign policy team has brought a dizzying message to European allies on A.I., Ukraine and more. It has already left many angered and chagrined.
+* 新的特朗普外交政策团队就人工智能、乌克兰等问题向欧洲盟友发出了令人眼花缭乱的信息。它已经让许多人感到愤怒和懊恼。
 
 ## New York Times United States News
-* Prime Minister Narendra Modi of India, who has a warm relationship with President Trump, may try to ease friction over migrants and trade.
-* 与特朗普总统关系密切的印度总理纳伦德拉·莫迪（ Narendra Modi ）可能会试图缓解移民和贸易摩擦。
-* President Trump and Elon Musk, who is leading the administration’s downsizing efforts, are pushing for quick and widespread layoffs. But the blitz has run into a complicated set of restrictions.
-* 特朗普总统和领导政府裁员工作的埃隆·马斯克（ Elon Musk ）正在推动迅速而广泛的裁员。但这次闪电战遇到了一系列复杂的限制。
-* A mounting wave of lawsuits and court orders is slowing a dizzying effort to tear apart basic structures of the administrative state.
-* 越来越多的诉讼和法院命令正在减缓破坏行政国家基本结构的令人眼花缭乱的努力。
-* The $500,000 donation to the campaign of Abigail Spanberger, a former representative and C.I.A. officer, is the largest direct contribution in VoteVets’ 20-year history.
-* 前代表兼中情局官员阿比盖尔·斯潘伯格（ Abigail Spanberger ）为该活动捐赠了50万美元，这是VoteVets 20年历史上最大的直接捐款。
-* Bored troops are standing watch, shelters have emptied from McAllen, Texas, to Tucson, Ariz., and border patrols speed through miles of frontier, finding no one in sight.
-* 无聊的部队正在站岗，从德克萨斯州麦卡伦到亚利桑那州图森的避难所已经空无一人，边境巡逻队快速穿越数英里的边境，看不到任何人。
-* The former wrestling executive will speak about her priorities for the Department of Education. But she will also likely be questioned on White House discussions to close it.
-* 这位前摔跤高管将谈论她在教育部的优先事项。但她也可能会在白宫结束谈判的讨论中受到质疑。
-* The move against a half-dozen organizations followed an executive order from President Trump that said the United States would ensure their “total elimination.”
-* 针对六个组织的行动遵循了特朗普总统的行政命令，该命令称美国将确保“彻底消除”这些组织。
-* A new directive puts further exemptions on hold. Aid workers also say the U.S. government has made it impossible to pay partners around the world.
-* 一项新指令搁置了进一步的豁免。援助工作者还表示，美国政府已经无法向世界各地的合作伙伴付款。
-* The Times has obtained a list of the names of the men, whom the U.S. government has described as Venezuelan citizens under final deportation orders.
-* 《纽约时报》获得了这些人的名单，美国政府根据最终的驱逐令将其描述为委内瑞拉公民。
-* The Times has obtained a list of 53 Venezuelan men the Trump administration has put in a wartime prison built to hold Al Qaeda suspects.
-* 《纽约时报》获得了特朗普政府为关押基地组织嫌疑人而建造的战时监狱中53名委内瑞拉男子的名单。
 
 ## New York Times Asia News
+* President Trump, who disabled the World Trade Organization during his first term, is going after international free trade rules in place since the 1940s.
+* 特朗普总统在他的第一个任期内禁止了世界贸易组织，他正在遵循自20世纪40年代以来的国际自由贸易规则。
+* The fire at an unfinished Banyan Tree resort in the southeastern port city of Busan spread quickly, leaving 25 others injured.
+* 东南部港口城市釜山一处未完工的悦榕庄大火迅速蔓延，另有25人受伤。
+* Along the Pearl River in southern China, a fast-growing industry is churning out cheap clothes and toys that are flooding the world duty-free.
+* 沿着中国南方的珠江，一个快速发展的行业正在生产廉价的服装和玩具，这些服装和玩具正在涌入世界免税区。
+* India’s prime minister sought to placate President Trump in public even as Mr. Trump pushed for major tariffs on his country.
+* 印度总理试图在公开场合安抚特朗普总统，尽管特朗普推动对印度征收重大关税。
+* Plus, “Saturday Night Live” turns 50.
+* 此外，「周六夜现场」已满50周岁。
+* The deadly blast occurred in a food court. The island’s president ordered an investigation into the cause.
+* 致命爆炸发生在美食广场。岛上的总统下令对此事进行调查。
 * Prime Minister Narendra Modi of India, who has a warm relationship with President Trump, may try to ease friction over migrants and trade.
 * 与特朗普总统关系密切的印度总理纳伦德拉·莫迪（ Narendra Modi ）可能会试图缓解移民和贸易摩擦。
+* As India’s prime minister, Narendra Modi, meets with President Trump, issues around immigration are likely to be a source of tension, including a U.S. military flight that returned shackled migrants to India.
+* 随着印度总理纳伦德拉·莫迪（ Narendra Modi ）会见特朗普总统，围绕移民的问题可能成为紧张局势的根源，包括美国军方将带着镣铐的移民送回印度的航班。
 * Taiwanese officials, facing a more transactional U.S. relationship, have traveled to Washington to float energy deals and defend the island’s semiconductors.
 * 面对更具交易性的美国关系，台湾官员已前往华盛顿，以达成能源交易并捍卫台湾的半导体。
 * The Japanese companies’ decision to call off negotiations highlights the challenges legacy automakers face in partnering to tackle new technologies.
 * 两家日本公司取消谈判的决定凸显了传统汽车制造商在合作应对新技术方面所面临的挑战。
-* A new directive puts further exemptions on hold. Aid workers also say the U.S. government has made it impossible to pay partners around the world.
-* 一项新指令搁置了进一步的豁免。援助工作者还表示，美国政府已经无法向世界各地的合作伙伴付款。
-* Plus, Thailand braces for the “White Lotus” effect.
-* 此外，泰国支持“白莲花”效果。
-* As many as 1,400 people were killed in former Prime Minister Sheikh Hasina’s violent response to a student-led revolt, according to a U.N. inquiry.
-* 根据联合国的一项调查，多达1,400人在前总理谢赫·哈西娜（ Sheikh Hasina ）对学生领导的叛乱的暴力回应中丧生。
-* Russia’s ambassador to North Korea said that its Asian ally is also hosting Russian children orphaned by its war against Ukraine, as the two nations deepen ties.
-* 俄罗斯驻朝鲜大使表示，随着两国关系的深化，其亚洲盟友也在收容因对乌克兰的战争而成为孤儿的俄罗斯儿童。
-* President Trump’s moves to pause refugee resettlement, freeze foreign aid and suspend funds to promote democracy have added more chaos to one of the world’s most urgent humanitarian crises.
-* 特朗普总统暂停难民安置、冻结外国援助和暂停资金以促进民主的举动，给世界上最紧迫的人道主义危机之一增加了更多的混乱。
-* Crowds of visitors descended on Maui and Sicily after the HBO show’s first two seasons. Is the tropical resort island of Koh Samui ready for Season 3?
-* 在HBO节目的前两个赛季之后，成群的游客来到了毛伊岛和西西里岛。热带度假胜地苏梅岛准备好迎接第3季了吗？
-* Xi Jinping seems to be in no rush to engage with President Trump, who has sent mixed signals about when a call might happen (or whether it already has).
-* 习近平似乎并不急于与特朗普总统接触，特朗普总统对通话何时可能发生（或是否已经发生）发出了不同的信号。
 
