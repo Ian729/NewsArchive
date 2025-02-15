@@ -2,48 +2,48 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Asked whether Ukraine would be part of the negotiations, the president said on Thursday, “Of course they would.” A day earlier, he had suggested otherwise, and appeared ready to make concessions that Ukraine has flatly rejected.
-* 当被问及乌克兰是否会参与谈判时，总统周四表示， “他们当然会。“前一天，他提出了不同的建议，似乎准备做出乌克兰断然拒绝的让步。
-* The centuries-old tradition of wassailing is making a comeback in rural England, with rituals and revelry meant to chase away evil spirits and the winter blues.
-* 几个世纪以来的帆船运动传统正在英格兰农村卷土重来，其仪式和狂欢旨在驱散邪恶的灵魂和冬季忧郁。
-* The authorities believe the crash, into a union’s strike-day demonstration, was a deliberate attack. The suspect is a 24-year-old Afghan asylum seeker who was known to the police.
-* 当局认为，工会罢工日示威活动发生的坠机事件是蓄意袭击。嫌疑人是一名24岁的阿富汗寻求庇护者，警方认识他。
-* The group said that mediators were working “to remove obstacles and close gaps” after the cease-fire deal with Israel hit a roadblock. Israel has yet to comment.
-* 该组织表示，在与以色列达成停火协议后，调解人正在努力“消除障碍并缩小差距”。以色列尚未置评。
-* Vladimir Putin’s call with President Trump reinforced the Russian leader’s view that Moscow and Washington should decide the fate of Ukraine — and other weighty matters.
-* 弗拉基米尔·普京(Vladimir Putin)与特朗普总统的通话强化了这位俄罗斯领导人的观点，即莫斯科和华盛顿应该决定乌克兰的命运--以及其他重要问题。
-* Trump’s recent moves, including a conversation with Putin and a demand for Ukrainian mineral rights, are worrisome signs for Zelensky.
-* 特朗普最近的举动，包括与普京的谈话和对乌克兰矿产权的要求，对泽伦斯基来说是令人担忧的迹象。
-* Taiwanese officials, facing a more transactional U.S. relationship, have traveled to Washington to float energy deals and defend the island’s semiconductors.
-* 面对更具交易性的美国关系，台湾官员已前往华盛顿，以达成能源交易并捍卫台湾的半导体。
-* Only three weeks into the Trump administration’s suspension of money for foreign aid, those who work in women’s health say the impact has already been devastating.
-* 在特朗普政府暂停对外援助资金仅三周后，从事妇女健康工作的人士表示，这种影响已经是毁灭性的。
-* In the first major European vote since President Trump’s re-election, influence campaigns are targeting Germany from two sides.
-* 在特朗普总统连任以来的首次重大欧洲投票中，影响力竞选活动从两方面针对德国。
-* The new Trump foreign policy team has brought a dizzying message to European allies on A.I., Ukraine and more. It has already left many angered and chagrined.
-* 新的特朗普外交政策团队就人工智能、乌克兰等问题向欧洲盟友发出了令人眼花缭乱的信息。它已经让许多人感到愤怒和懊恼。
+* In return, Israel is expected to free hundreds of Palestinian prisoners. The exchange would extend a fragile cease-fire that appeared on the brink of collapse earlier this week.
+* 作为回报，预计以色列将释放数百名巴勒斯坦囚犯。该交易所将延长本周早些时候出现在崩溃边缘的脆弱停火。
+* After years of the U.S. trying to isolate Russia’s closest ally, a meeting with Belarus’s president points to better relations, raising hopes of loosening his repression and his embrace of Moscow.
+* 在美国试图孤立俄罗斯最亲密的盟友多年后，与白俄罗斯总统的会晤表明两国关系有所改善，这增加了他放松镇压和拥抱莫斯科的希望。
+* At the Munich Security Conference, Olaf Scholz accused the U.S. vice president of unacceptable interference in Germany’s coming elections.
+* 在慕尼黑安全会议上，奥拉夫·肖尔茨（ Olaf Scholz ）指责美国副总统对德国即将举行的选举进行不可接受的干涉。
+* Russian authorities have zealously prosecuted people with links to Aleksei A. Navalny’s organization inside Russia in the year since he died.
+* 自阿列克谢·纳瓦尔尼（ Aleksei A. Navalny ）去世以来，俄罗斯当局一直积极起诉与他在俄罗斯境内的组织有联系的人。
+* Criminals are targeting pharmacies and stealing weight-loss medication in a country with body image insecurities and where many cannot afford the drugs.
+* 在一个身体形象不安全且许多人负担不起药物的国家，犯罪分子正在瞄准药店并偷窃减肥药物。
+* The lost-and-found center at the world’s largest religious gathering attends to the faithful’s earthly needs as they perform rituals intended to purify the soul.
+* 在世界上最大的宗教聚会上，失物招领中心在进行旨在净化灵魂的仪式时，满足了信徒的世俗需求。
+* U.S. funding for the promotion of democracy has been frozen, disrupting the work of groups that expose abuses in China. Chinese nationalists are celebrating.
+* 美国用于促进民主的资金已被冻结，扰乱了揭露中国虐待行为的团体的工作。中国民族主义者正在庆祝。
+* His comments shocked attendees at the Munich Security Conference and seemed to target efforts to sideline the hard-right party the Alternative for Germany.
+* 他的言论震惊了慕尼黑安全会议的与会者，似乎瞄准了将极右翼政党德国替代方案置于边缘地位的努力。
+* His comments came on the first day of the Munich Security Conference, where anxious European officials had hoped to learn more about U.S. plans to broker peace talks.
+* 他的评论是在慕尼黑安全会议的第一天发表的，焦虑的欧洲官员希望更多地了解美国促成和平谈判的计划。
+* After an apparent drone strike blew a hole in the protective shell, there is an urgent need to patch what covers the wreckage of the world’s worst nuclear accident.
+* 在明显的无人机袭击在保护壳上炸了一个洞之后，迫切需要修补世界上最严重的核事故的残骸。
 
 ## New York Times United States News
 
 ## New York Times Asia News
+* The lost-and-found center at the world’s largest religious gathering attends to the faithful’s earthly needs as they perform rituals intended to purify the soul.
+* 在世界上最大的宗教聚会上，失物招领中心在进行旨在净化灵魂的仪式时，满足了信徒的世俗需求。
+* U.S. funding for the promotion of democracy has been frozen, disrupting the work of groups that expose abuses in China. Chinese nationalists are celebrating.
+* 美国用于促进民主的资金已被冻结，扰乱了揭露中国虐待行为的团体的工作。中国民族主义者正在庆祝。
+* This month, Vishvaa Rajakumar won the Memory League World Championship, which tests memorization skills. He shared some of his techniques with The Times.
+* 本月， Vishvaa Rajakumar赢得了记忆联盟世界锦标赛，该锦标赛测试了记忆技能。他与《泰晤士报》分享了他的一些技巧。
+* Her role in the teen drama catapulted her to fame as a pop idol. She was also a TV host and appeared in films.
+* 她在青少年戏剧中的角色使她成为流行偶像。她也是一名电视节目主持人，并出现在电影中。
+* President Trump said China and Russia should halve their military spending and limit nuclear weapons. You first, China said.
+* 特朗普总统表示，中国和俄罗斯应该将军费开支减半，并限制核武器。中国说，你先。
 * President Trump, who disabled the World Trade Organization during his first term, is going after international free trade rules in place since the 1940s.
 * 特朗普总统在他的第一个任期内禁止了世界贸易组织，他正在遵循自20世纪40年代以来的国际自由贸易规则。
-* The fire at an unfinished Banyan Tree resort in the southeastern port city of Busan spread quickly, leaving 25 others injured.
-* 东南部港口城市釜山一处未完工的悦榕庄大火迅速蔓延，另有25人受伤。
+* The fire at an unfinished hotel in the southeastern port city of Busan spread quickly, leaving 25 others injured.
+* 东南部港口城市釜山的一家未完工的酒店发生火灾，火势迅速蔓延，另有25人受伤。
 * Along the Pearl River in southern China, a fast-growing industry is churning out cheap clothes and toys that are flooding the world duty-free.
 * 沿着中国南方的珠江，一个快速发展的行业正在生产廉价的服装和玩具，这些服装和玩具正在涌入世界免税区。
 * India’s prime minister sought to placate President Trump in public even as Mr. Trump pushed for major tariffs on his country.
 * 印度总理试图在公开场合安抚特朗普总统，尽管特朗普推动对印度征收重大关税。
 * Plus, “Saturday Night Live” turns 50.
 * 此外，「周六夜现场」已满50周岁。
-* The deadly blast occurred in a food court. The island’s president ordered an investigation into the cause.
-* 致命爆炸发生在美食广场。岛上的总统下令对此事进行调查。
-* Prime Minister Narendra Modi of India, who has a warm relationship with President Trump, may try to ease friction over migrants and trade.
-* 与特朗普总统关系密切的印度总理纳伦德拉·莫迪（ Narendra Modi ）可能会试图缓解移民和贸易摩擦。
-* As India’s prime minister, Narendra Modi, meets with President Trump, issues around immigration are likely to be a source of tension, including a U.S. military flight that returned shackled migrants to India.
-* 随着印度总理纳伦德拉·莫迪（ Narendra Modi ）会见特朗普总统，围绕移民的问题可能成为紧张局势的根源，包括美国军方将带着镣铐的移民送回印度的航班。
-* Taiwanese officials, facing a more transactional U.S. relationship, have traveled to Washington to float energy deals and defend the island’s semiconductors.
-* 面对更具交易性的美国关系，台湾官员已前往华盛顿，以达成能源交易并捍卫台湾的半导体。
-* The Japanese companies’ decision to call off negotiations highlights the challenges legacy automakers face in partnering to tackle new technologies.
-* 两家日本公司取消谈判的决定凸显了传统汽车制造商在合作应对新技术方面所面临的挑战。
 
