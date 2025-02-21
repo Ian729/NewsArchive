@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Trump called Volodymyr Zelensky a “dictator without elections” after the Ukrainian president said Mr. Trump was in a “web of disinformation.”
-* 特朗普总统称沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）是“没有选举的独裁者” ，此前乌克兰总统称特朗普处于“虚假信息的网络”中。
-* The group of unauthorized migrants, which includes children, were bused to the camp late Tuesday night. “It looks like a zoo, there are fenced cages,” said one of the detainees.
-* 这群未经授权的移民，包括儿童，于周二深夜被送往营地。其中一名被拘留者说： “它看起来像一个动物园，有围栏笼子。”
-* Since President Trump suggested depopulating Gaza, Arab officials have offered other ideas for reconstruction. But the emerging consensus repackages old plans as new ones.
-* 自特朗普总统建议减少加沙的人口以来，阿拉伯官员提出了其他重建想法。但新出现的共识将旧计划重新包装为新计划。
-* The Rwandan shore of Lake Kivu offers leisure and relaxation. Across the border in the Democratic Republic of Congo, the same lake was recently the site of devastation and misery after a rebel offensive.
-* 基伍湖（ Lake Kivu ）的卢旺达海岸提供休闲和放松。在刚果民主共和国的边界对面，同一个湖泊最近在叛乱分子发动攻势后成为破坏和痛苦的地点。
-* Many people in Russia expressed relief that an end to the conflict in Ukraine seemed nearer and that the hardships of war, and the shunning of their country by much of the world, may soon end.
-* 许多俄罗斯人感到欣慰的是，乌克兰的冲突似乎即将结束，战争的苦难以及世界大部分地区对他们国家的回避可能很快就会结束。
-* In contrast to the joyful scenes of living hostages returning home over the past few weeks, the transfer of bodies on Thursday, potentially including those of two children, will be somber.
-* 与过去几周活着的人质回家的欢乐场面相反，周四的尸体转移，可能包括两个孩子的尸体，将变得阴沉。
-* A look at how the war in Ukraine began, the state of the peace talks and why the country isn’t holding elections.
-* 看看乌克兰战争是如何开始的，和平谈判的状况以及为什么该国没有举行选举。
-* President Trump’s claim that Ukraine was responsible for its war with Russia has left many Ukrainians disillusioned.
-* 特朗普总统声称乌克兰应对与俄罗斯的战争负责，这让许多乌克兰人感到失望。
-* Lawyers representing one of the soldiers said they have presented arguments that deny the charges against the reservists.
-* 代表其中一名士兵的律师表示，他们提出的论据否认了对预备役人员的指控。
-* Alice Weidel of the nationalist, anti-immigrant Alternative for Germany lives in Switzerland and is married to a Sri Lankan-born woman. She had led her party to second place before Sunday’s election.
-* 爱丽丝·魏德尔（ Alice Weidel ）是德国反移民的民族主义者，她居住在瑞士，与斯里兰卡出生的女性结婚。在周日的选举之前，她带领她的政党获得了第二名。
+* Ignored for most of its existence, the huge ice-bound island has been thrust into a geopolitical maelstrom. It’s trying to make the most of it.
+* 这座巨大的冰封岛屿大部分时间都被忽视，已被推入地缘政治漩涡。它正在努力充分利用它。
+* Riyadh is hosting U.S., Russian and Arab officials for high-stakes talks on Ukraine and Gaza, more proof of its regional clout and warm relations with President Trump.
+* 利雅得正在接待美国、俄罗斯和阿拉伯官员就乌克兰和加沙问题进行高风险会谈，这进一步证明了其地区影响力以及与特朗普总统的友好关系。
+* Residents of a Ukrainian suburb that was the site of notorious attacks on civilians after Russia invaded are alarmed by President Trump’s warm words for Moscow.
+* 在俄罗斯入侵后发生了臭名昭著的平民袭击事件的乌克兰郊区的居民对特朗普总统对莫斯科的温暖言辞感到震惊。
+* Friedrich Merz, whose conservative party is ahead in polls before Sunday’s election, sees an “epochal rupture” with a United States that is more aligned with Russia.
+* 弗里德里希·默茨（ Friedrich Merz ）的保守党在周日大选前的民意调查中处于领先地位，他认为与一个与俄罗斯更加结盟的美国将出现“划时代的破裂”。
+* Hamas said it handed over four hostages to Israel in a display a senior U.N. official called “abhorrent and cruel.” Israel later said only three bodies belonged to captives.
+* 哈马斯表示，它向以色列移交了四名人质，一名联合国高级官员称之为“令人憎恶和残忍”。以色列后来表示，只有三具尸体属于俘虏。
+* Luis Rubiales forcibly kissed Jennifer Hermoso on the lips after the country’s national team won the 2023 Women’s World Cup.
+* 在国家队赢得2023年女足世界杯后， Luis Rubiales强吻了Jennifer Hermoso的嘴唇。
+* President Trump’s description of President Volodymyr Zelensky of Ukraine as a “Dictator without Elections” echoes the Kremlin’s messaging.
+* 特朗普总统将乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）描述为“没有选举的独裁者” ，这与克里姆林宫的信息相呼应。
+* Britain appears ready to approve what would be the largest diplomatic outpost in Europe, but neighbors and activists fear tapped phone lines and suppressed protests.
+* 英国似乎准备批准这个欧洲最大的外交前哨基地，但邻国和活动人士担心电话线被窃听，抗议活动受到压制。
+* The absence of Secretary of State Marco Rubio hung over the year’s first high-level meeting of the world’s largest economies, with diplomats fretting over turbulent times.
+* 美国国务卿马可·卢比奥（ Marco Rubio ）缺席了今年全球最大经济体的首次高级别会议，外交官们对动荡时期感到担忧。
+* A senior Ukrainian intelligence official confirmed the plot to blow up drone goggles. But it was unclear how much effect the scheme had on Russian forces.
+* 一名乌克兰高级情报官员证实了炸毁无人机护目镜的阴谋。但目前尚不清楚该计划对俄罗斯军队有多大影响。
 
 ## New York Times United States News
-* Will President Trump’s decision to end Temporary Protected Status for 300,000 Venezuelan immigrants dim Venezuelan Americans’ strong support for him?
-* 特朗普总统终止30万委内瑞拉移民临时保护地位的决定会削弱委内瑞拉裔美国人对他的强烈支持吗？
-* President Trump said the federal government should control the nation’s capital. Democrats and most local residents have long argued that Washington, D.C., should be a state.
-* 特朗普总统表示，联邦政府应该控制国家的首都。民主党人和大多数当地居民长期以来一直主张华盛顿特区应该是一个州。
-* President Trump’s executive order also directed federal departments and agencies to ensure that federal funds do not encourage people to come to the United States illegally.
-* 特朗普总统的行政命令还指示联邦部门和机构确保联邦资金不会鼓励人们非法来美国。
-* Leonard Peltier, the American Indian Movement activist, returned to North Dakota, where, under home confinement, he will serve the remainder of his life sentence for the murders of two F.B.I. agents.
-* 美国印第安人运动活动家伦纳德·佩尔蒂埃（ Leonard Peltier ）回到北达科他州，在家中被监禁，他将因谋杀两名联邦调查局特工而终身监禁。
-* The president said a plan to return money culled from budget cuts and work force reductions to taxpayers was “under consideration,” but he offered no details about how or if it could be done.
-* 总统表示，正在“考虑”将预算削减和裁减劳动力所剔除的资金返还给纳税人的计划，但他没有提供有关如何或是否可以这样做的细节。
-* The grand jury said that the Hanceville Police Department, which had eight officers as of last August, had been operating “as more of a criminal enterprise.”
-* 大陪审团表示，截至去年8月，汉斯维尔警察局有8名警官，一直以来“更像是一个犯罪集团”。
-* The president’s remarks were a surprisingly public acknowledgment that he had campaigned for his freedom as much as for the White House itself.
-* 总统的言论令人惊讶地公开承认，他为自己的自由而战，也为白宫本身而战。
-* We want to hear your perspective on the circumstances that led to the Jan. 29 midair collision near Reagan National Airport, and on air safety and regulation in general. What works and what does not?
-* 我们想听听您对导致1月29日里根国家机场附近发生空中碰撞的情况以及一般航空安全和监管的看法。哪些有效，哪些无效？
-* After a string of deadly plane crashes, lawmakers and union members are urging the president to protect the transportation department from further personnel cuts.
-* 在一系列致命的飞机失事后，立法者和工会成员敦促总统保护交通部门免受进一步的人员裁减。
-* Even as the billionaire tech executive Elon Musk is seemingly everywhere in Washington, his role remains murky.
-* 尽管这位亿万富翁科技高管埃隆·马斯克(Elon Musk)在华盛顿似乎无处不在，但他的角色仍然模糊不清。
+* The senator worries that too many Democrats remain reluctant to shake up the system. But he does not regret defending Joseph R. Biden Jr. until the very end.
+* 这位参议员担心，太多的民主党人仍然不愿意动摇这个体系。但他并不后悔为小约瑟夫· R ·拜登辩护，直到最后。
+* From a prison cell, one former deputy recounted how illegal searches and brutal beatings were used for years to help make drug convictions in his suburban county.
+* 一名前副手在监狱牢房中讲述了多年来非法搜查和野蛮殴打如何帮助他在郊区县进行毒品定罪。
+* Though victory in the state feels farther away than ever, some Democrats, including their new leader, say Texas could still be a key part of their party’s future.
+* 尽管德克萨斯州的胜利比以往任何时候都更加遥远，但包括他们的新领导人在内的一些民主党人表示，德克萨斯州仍然可能是他们党的未来的关键部分。
+* Popular social media accounts share the best mirror sales fails on the internet. A photographer helped us learn from the mistakes.
+* 热门社交媒体账户在互联网上分享最好的镜像销售失败。一位摄影师帮助我们从错误中吸取教训。
+* President Trump commuted Alice Johnson’s life sentence during his first term, and later pardoned her for her drug conviction. She will advise him on similar cases.
+* 特朗普总统在第一个任期内对爱丽丝·约翰逊的终身监禁进行了减刑，后来又赦免了她对毒品的定罪。她将就类似案件向他提供建议。
+* Before adopting Republicans’ budget resolution, senators engaged in an all-night parliamentary marathon that Democrats used to try to force the G.O.P. into politically damaging votes.
+* 在通过共和党的预算决议之前，参议员们参加了一场通宵的议会马拉松，民主党曾试图迫使共和党进行具有政治破坏性的投票。
+* The Justice Department said a law protecting the officials from arbitrary removal is an unconstitutional intrusion on presidential authority.
+* 司法部表示，保护官员免遭任意罢免的法律是对总统权力的违宪侵犯。
+* The Justice Department had sued SpaceX in 2023, accusing the company of violating federal law by refusing to hire refugees and people granted asylum in the United States.
+* 美国司法部于2023年起诉SpaceX ，指控该公司拒绝雇用难民和在美国获得庇护的人，从而违反了联邦法律。
+* The flight from San Diego landed in San José, the Costa Rican capital, on Thursday evening. The group of migrants on board included dozens of children, officials said.
+* 星期四晚上，从圣地亚哥起飞的航班降落在哥斯达黎加首都圣何塞。官员说，船上的移民群体包括数十名儿童。
+* Andrew Buen was found guilty of criminally negligent homicide in the 2022 killing of Christian Glass, who was experiencing a mental health crisis on a mountain road.
+* 安德鲁·布恩（ Andrew Buen ）在2022年杀害克里斯蒂安·格拉斯（ Christian Glass ）时被判犯有刑事过失杀人罪，他在山路上经历了精神健康危机。
 
 ## New York Times Asia News
+* Luke Ching has made a name for himself with creative campaigns to improve working conditions for menial laborers, even as the scope for political protests in the city has narrowed.
+* Luke Ching通过创造性运动为自己树立了名声，以改善卑微劳动者的工作条件，尽管该市政治抗议的范围已经缩小。
+* The World Anti-Doping Agency withdrew a defamation lawsuit and an ethics case against American officials critical of its handling of failed tests by members of China’s Olympic swimming squad.
+* 世界反兴奋剂机构撤回了一项针对美国官员的诽谤诉讼和道德案件，该案件批评中国奥运游泳队成员处理失败的测试。
+* Plus, volcano tourism in Sicily.
+* 此外，还有西西里岛的火山旅游。
+* The Trump administration appears to be flouting a judge’s order pausing the dismantling of U.S.A.I.D.
+* 特朗普政府似乎无视法官暂停美国移民局解散的命令
+* Still recovering from heavy spending during the pandemic, hospitals are squeezed by a slumping economy and government efforts to curb health care spending.
+* 在疫情期间，医院仍在从巨额支出中恢复过来，但经济衰退和政府遏制医疗保健支出的努力给医院造成了压力。
 * Sailing in Australia’s exclusive economic zone, the three vessels were not breaking international law, but they were unusually far south on an undeclared mission.
 * 这三艘船在澳大利亚的专属经济区航行，并未违反国际法，但它们异常偏南，执行未申报的任务。
 * Ignored for most of its existence, the huge ice-bound island has been thrust into a geopolitical maelstrom. It’s trying to make the most of it.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 再加上，柬埔寨归还的宝藏。
 * The case of two North Korean fishermen, who murdered 16 compatriots before they sought asylum, has become a political minefield in the South.
 * 两名朝鲜渔民在寻求庇护前杀害了16名同胞，此案已成为韩国的一个政治雷区。
-* India has refused to play its Champions Trophy matches in Pakistan, which is hosting its first major global tournament in almost 30 years.
-* 印度拒绝在巴基斯坦举行冠军杯比赛，巴基斯坦正在举办近30年来的首次重大全球锦标赛。
-* Foreign institutions and collectors are returning artifacts with deep spiritual meaning for Cambodians. Where and how to display them remain open questions.
-* 外国机构和收藏家正在归还对柬埔寨人具有深刻精神意义的文物。在哪里以及如何展示它们仍然是一个悬而未决的问题。
-* A court found the assailant guilty of attempted murder in the 2023 attack on Fumio Kishida, then prime minister.
-* 一家法院判定袭击者在2023年对当时的总理岸田文雄的袭击中犯有谋杀未遂罪。
-* President Trump’s freezing of foreign aid provides an opening for China to portray America as an unreliable partner.
-* 特朗普总统冻结对外援助为中国将美国描绘成一个不可靠的伙伴提供了机会。
-* Plus, the women leading R&amp;B’s new wave.
-* 此外，还有引领R&amp;B新浪潮的女性。
 
