@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Ignored for most of its existence, the huge ice-bound island has been thrust into a geopolitical maelstrom. It’s trying to make the most of it.
-* 这座巨大的冰封岛屿大部分时间都被忽视，已被推入地缘政治漩涡。它正在努力充分利用它。
-* Riyadh is hosting U.S., Russian and Arab officials for high-stakes talks on Ukraine and Gaza, more proof of its regional clout and warm relations with President Trump.
-* 利雅得正在接待美国、俄罗斯和阿拉伯官员就乌克兰和加沙问题进行高风险会谈，这进一步证明了其地区影响力以及与特朗普总统的友好关系。
-* Residents of a Ukrainian suburb that was the site of notorious attacks on civilians after Russia invaded are alarmed by President Trump’s warm words for Moscow.
-* 在俄罗斯入侵后发生了臭名昭著的平民袭击事件的乌克兰郊区的居民对特朗普总统对莫斯科的温暖言辞感到震惊。
-* Friedrich Merz, whose conservative party is ahead in polls before Sunday’s election, sees an “epochal rupture” with a United States that is more aligned with Russia.
-* 弗里德里希·默茨（ Friedrich Merz ）的保守党在周日大选前的民意调查中处于领先地位，他认为与一个与俄罗斯更加结盟的美国将出现“划时代的破裂”。
-* Hamas said it handed over four hostages to Israel in a display a senior U.N. official called “abhorrent and cruel.” Israel later said only three bodies belonged to captives.
-* 哈马斯表示，它向以色列移交了四名人质，一名联合国高级官员称之为“令人憎恶和残忍”。以色列后来表示，只有三具尸体属于俘虏。
-* Luis Rubiales forcibly kissed Jennifer Hermoso on the lips after the country’s national team won the 2023 Women’s World Cup.
-* 在国家队赢得2023年女足世界杯后， Luis Rubiales强吻了Jennifer Hermoso的嘴唇。
-* President Trump’s description of President Volodymyr Zelensky of Ukraine as a “Dictator without Elections” echoes the Kremlin’s messaging.
-* 特朗普总统将乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）描述为“没有选举的独裁者” ，这与克里姆林宫的信息相呼应。
-* Britain appears ready to approve what would be the largest diplomatic outpost in Europe, but neighbors and activists fear tapped phone lines and suppressed protests.
-* 英国似乎准备批准这个欧洲最大的外交前哨基地，但邻国和活动人士担心电话线被窃听，抗议活动受到压制。
-* The absence of Secretary of State Marco Rubio hung over the year’s first high-level meeting of the world’s largest economies, with diplomats fretting over turbulent times.
-* 美国国务卿马可·卢比奥（ Marco Rubio ）缺席了今年全球最大经济体的首次高级别会议，外交官们对动荡时期感到担忧。
-* A senior Ukrainian intelligence official confirmed the plot to blow up drone goggles. But it was unclear how much effect the scheme had on Russian forces.
-* 一名乌克兰高级情报官员证实了炸毁无人机护目镜的阴谋。但目前尚不清楚该计划对俄罗斯军队有多大影响。
+* Two of the six hostages slated to be freed as part of a swap for Palestinian prisoners are back in Israel. Earlier, Hamas handed over the body of Shiri Bibas, easing tensions that it had raised by releasing the wrong body.
+* 作为交换巴勒斯坦囚犯的一部分，计划释放的六名人质中有两名回到以色列。早些时候，哈马斯移交了Shiri Bibas的尸体，通过释放错误的尸体缓解了紧张局势。
+* A new band of influencers unafraid of confrontation has helped elevate the Alternative for Germany party to second in pre-election polls.
+* 一群不害怕对抗的新影响者帮助德国另类选择党在选举前的民意调查中排名第二。
+* Villagers say they worry that incursions into border areas of Syria by Israel’s military could turn into a prolonged occupation. Israel says the raids are needed to protect the border.
+* 村民们说，他们担心以色列军队入侵叙利亚边境地区可能会变成长期占领。以色列表示，需要突袭来保护边境。
+* As vast swaths of Congolese territory are seized by a Rwandan-backed armed group, Congo’s president looks to make a minerals deal with the United States.
+* 由于卢旺达支持的武装团体占领了大片刚果领土，刚果总统希望与美国达成矿产交易。
+* The legal onslaught on Moscow’s second-largest airport has been seen as part of the Kremlin’s wartime drive to seize control of key assets still in private hands.
+* 对莫斯科第二大机场的法律冲击被视为克里姆林宫战时控制仍在私人手中的关键资产的一部分。
+* A joke made by Ranveer Allahbadia, a Joe Rogan for online Indians, has brought him death threats and criminal charges.
+* 乔·罗根（ Joe Rogan ）为在线印第安人开的一个玩笑给他带来了死亡威胁和刑事指控。
+* DNA testing had found that remains returned a day earlier purportedly of Ms. Bibas, a dead Israeli hostage, were in fact not hers, stirring outrage in Israel.
+* DNA检测发现，前一天归还的遗骸据称是死去的以色列人质比巴斯女士的遗骸，实际上不是她的遗骸，激起了以色列的愤怒。
+* Hamas said it had returned the bodies of Shiri Bibas and her two sons. The Israeli military announced that the boys were murdered in Gaza and that Ms. Bibas’s body was that of someone else.
+* 哈马斯说，它已经归还了Shiri Bibas和她的两个儿子的尸体。以色列军方宣布，这些男孩是在加沙被谋杀的， Bibas女士的尸体是其他人的。
+* President Trump on Friday continued to bash President Volodymyr Zelensky of Ukraine and pressure him for mineral rights.
+* 特朗普总统周五继续抨击乌克兰总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ） ，并向他施压，要求矿产权
+* The police said they had detained a suspect in the assault, which occurred among the labyrinth of concrete slabs at one of the German capital’s most sacrosanct sites.
+* 警方表示，他们在袭击中拘留了一名嫌疑人，袭击发生在德国首都最神圣的地点之一的混凝土板迷宫中。
 
 ## New York Times United States News
-* The senator worries that too many Democrats remain reluctant to shake up the system. But he does not regret defending Joseph R. Biden Jr. until the very end.
-* 这位参议员担心，太多的民主党人仍然不愿意动摇这个体系。但他并不后悔为小约瑟夫· R ·拜登辩护，直到最后。
-* From a prison cell, one former deputy recounted how illegal searches and brutal beatings were used for years to help make drug convictions in his suburban county.
-* 一名前副手在监狱牢房中讲述了多年来非法搜查和野蛮殴打如何帮助他在郊区县进行毒品定罪。
-* Though victory in the state feels farther away than ever, some Democrats, including their new leader, say Texas could still be a key part of their party’s future.
-* 尽管德克萨斯州的胜利比以往任何时候都更加遥远，但包括他们的新领导人在内的一些民主党人表示，德克萨斯州仍然可能是他们党的未来的关键部分。
-* Popular social media accounts share the best mirror sales fails on the internet. A photographer helped us learn from the mistakes.
-* 热门社交媒体账户在互联网上分享最好的镜像销售失败。一位摄影师帮助我们从错误中吸取教训。
-* President Trump commuted Alice Johnson’s life sentence during his first term, and later pardoned her for her drug conviction. She will advise him on similar cases.
-* 特朗普总统在第一个任期内对爱丽丝·约翰逊的终身监禁进行了减刑，后来又赦免了她对毒品的定罪。她将就类似案件向他提供建议。
-* Before adopting Republicans’ budget resolution, senators engaged in an all-night parliamentary marathon that Democrats used to try to force the G.O.P. into politically damaging votes.
-* 在通过共和党的预算决议之前，参议员们参加了一场通宵的议会马拉松，民主党曾试图迫使共和党进行具有政治破坏性的投票。
-* The Justice Department said a law protecting the officials from arbitrary removal is an unconstitutional intrusion on presidential authority.
-* 司法部表示，保护官员免遭任意罢免的法律是对总统权力的违宪侵犯。
-* The Justice Department had sued SpaceX in 2023, accusing the company of violating federal law by refusing to hire refugees and people granted asylum in the United States.
-* 美国司法部于2023年起诉SpaceX ，指控该公司拒绝雇用难民和在美国获得庇护的人，从而违反了联邦法律。
-* The flight from San Diego landed in San José, the Costa Rican capital, on Thursday evening. The group of migrants on board included dozens of children, officials said.
-* 星期四晚上，从圣地亚哥起飞的航班降落在哥斯达黎加首都圣何塞。官员说，船上的移民群体包括数十名儿童。
-* Andrew Buen was found guilty of criminally negligent homicide in the 2022 killing of Christian Glass, who was experiencing a mental health crisis on a mountain road.
-* 安德鲁·布恩（ Andrew Buen ）在2022年杀害克里斯蒂安·格拉斯（ Christian Glass ）时被判犯有刑事过失杀人罪，他在山路上经历了精神健康危机。
+* The jurists are grappling with how to handle a different sort of bid for power by Mr. Trump, sometimes halting his blizzard of executive orders and sometimes letting them move forward.
+* 法学家们正在努力解决如何处理特朗普不同类型的权力争夺，有时会阻止他的暴风雪般的行政命令，有时会让他们向前迈进。
+* Emissaries of right-wing parties overseas who gathered at the flagship conservative conference described a fight spanning continents, supercharged by the new American president.
+* 聚集在旗舰保守派会议上的海外右翼政党的使者们描述了一场由美国新总统推动的横跨大陆的战斗。
+* Voters, activists and even some governors, like Josh Shapiro of Pennsylvania, are growing exasperated with congressional Democrats’ restrained approach.
+* 选民、活动人士甚至一些州长，如宾夕法尼亚州的乔希·夏皮罗（ Josh Shapiro ） ，都对国会民主党的克制态度感到愤怒。
+* The violent deaths, including of a Border Patrol agent in Vermont, a landlord in California, and a couple in Pennsylvania, have led law enforcement to a group with obscure ideas.
+* 包括佛蒙特州的一名边境巡逻人员、加利福尼亚州的一名房东和宾夕法尼亚州的一对夫妇在内的暴力死亡事件，导致执法部门成为一个想法晦涩难懂的团体。
+* Some civil servants are using whatever levers they have to resist the orders of the world’s richest man, both in public and behind closed doors.
+* 一些公务员正在使用他们所拥有的任何杠杆来抵制世界上最富有的人的命令，无论是在公共场合还是在闭门造车。
+* The 43-year-old woman was arrested in Mexico after a “romance scam on steroids,” an F.B.I. agent said.
+* 一名联邦调查局特工说，这名43岁的女子在墨西哥因“类固醇浪漫骗局”而被捕。
+* Adm. Lisa Franchetti spent roughly half of her 40-year career at sea, commanding a destroyer, two carrier strike groups and the U.S. Sixth Fleet.
+* 海军上将丽莎·弗兰切蒂（ Lisa Franchetti ） 40年职业生涯的大约一半时间都在海上度过，指挥一艘驱逐舰、两个航母战斗群和美国第六舰队。
+* The victim was traveling on a terrain feature known as The Nose near Silverton, Colo., when the avalanche occurred on Thursday, officials said.
+* 官员说，周四雪崩发生时，受害者正在科罗拉多州西尔弗顿附近被称为The Nose的地形特征上旅行。
+* The general made an impression in 2018 when he said, according to the president, that the Islamic State could be defeated in a week.
+* 据总统称，这位将军在2018年给人留下了深刻的印象，他说伊斯兰国可能在一周内被击败。
+* The decision to fire Gen. Charles Q. Brown Jr., a four-star fighter pilot, upends a tradition in which the Joint Chiefs chairman traditionally remains in place as administrations change.
+* 解雇四星级战斗机飞行员小查尔斯· Q ·布朗（ Charles Q. Brown Jr. ）将军的决定颠覆了一种传统，即随着政府的变革，参谋长联席会议主席传统上仍然存在。
 
 ## New York Times Asia News
+* A joke made by Ranveer Allahbadia, a Joe Rogan for online Indians, has brought him death threats and criminal charges.
+* 乔·罗根（ Joe Rogan ）为在线印第安人开的一个玩笑给他带来了死亡威胁和刑事指控。
+* The uncertain reaction to Xi Jinping’s display of warmth made sense: Executives are eager for a reset after years in the cold but ever wary of meddling.
+* 对习近平表现出的热情的不确定反应是有道理的：在多年的寒冷中，高管们渴望重置，但始终对干预保持警惕。
+* Asian countries are among the most vulnerable to President Trump’s economic grievances. But they are also best placed to make deals to minimize their exposure.
+* 亚洲国家是最容易受到特朗普总统经济不满影响的国家之一。但他们也最适合进行交易，以尽量减少其风险敞口。
+* The vessels were sailing in the Tasman Sea, and their announced intent to perform exercises prompted a call for commercial flights to divert course.
+* 这些船只在塔斯曼海航行，他们宣布进行演习的意图促使商业航班改变航线。
 * Luke Ching has made a name for himself with creative campaigns to improve working conditions for menial laborers, even as the scope for political protests in the city has narrowed.
 * Luke Ching通过创造性运动为自己树立了名声，以改善卑微劳动者的工作条件，尽管该市政治抗议的范围已经缩小。
 * The World Anti-Doping Agency withdrew a defamation lawsuit and an ethics case against American officials critical of its handling of failed tests by members of China’s Olympic swimming squad.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 在疫情期间，医院仍在从巨额支出中恢复过来，但经济衰退和政府遏制医疗保健支出的努力给医院造成了压力。
 * Sailing in Australia’s exclusive economic zone, the three vessels were not breaking international law, but they were unusually far south on an undeclared mission.
 * 这三艘船在澳大利亚的专属经济区航行，并未违反国际法，但它们异常偏南，执行未申报的任务。
-* Ignored for most of its existence, the huge ice-bound island has been thrust into a geopolitical maelstrom. It’s trying to make the most of it.
-* 这座巨大的冰封岛屿大部分时间都被忽视，已被推入地缘政治漩涡。它正在努力充分利用它。
-* Local governments are handing out “snail awards” to underperforming employees. But, for many, doing as little as possible seems like the safest bet.
-* 地方政府正在向表现不佳的员工颁发“蜗牛奖”。但是，对许多人来说，尽可能少地做似乎是最安全的选择。
-* Plus, Cambodia’s returned treasures.
-* 再加上，柬埔寨归还的宝藏。
-* The case of two North Korean fishermen, who murdered 16 compatriots before they sought asylum, has become a political minefield in the South.
-* 两名朝鲜渔民在寻求庇护前杀害了16名同胞，此案已成为韩国的一个政治雷区。
 
