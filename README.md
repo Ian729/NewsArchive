@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* What Germans decide in national elections that are likely to produce a new chancellor will be of critical importance as Europe re-evaluates relations with the Trump administration.
-* 随着欧洲重新评估与特朗普政府的关系，德国人在全国选举中做出的可能产生新总理的决定将至关重要。
-* The Vatican did not provide further details about the condition of the pope, who has been in the hospital for more than a week.
-* 梵蒂冈没有提供有关教皇病情的进一步细节，教皇已经在医院住了一个多星期。
-* The leaders of France and Britain are both due to meet with President Trump this week. Approaches previously tried with him may no longer work.
-* 法国和英国领导人本周都将与特朗普总统会面。以前和他一起尝试的方法可能不再有效。
+* Exit polls suggest that Friedrich Merz, the candidate for the conservative Christian Democrats who has vowed to bring stronger leadership in Europe, will be Germany’s next leader. The hard-right AfD party was in second place.
+* 出口民意调查显示，发誓要在欧洲发挥更强大领导力的保守派基督教民主党候选人弗里德里希·默茨（ Friedrich Merz ）将成为德国的下一任领导人。极右翼的AfD党排在第二位。
+* The Ukrainian leader also said he would step down if Ukraine was allowed to join NATO, though it was unclear if he was serious or not.
+* 这位乌克兰领导人还表示，如果乌克兰获准加入北约，他将辞职，但目前尚不清楚他是否认真。
+* The kidney ailment appears to be in an early stage, the Vatican said, adding that the pontiff is still receiving high flows of oxygen for his respiratory illness.
+* 梵蒂冈说，肾脏疾病似乎处于早期阶段，并补充说，教皇仍在为他的呼吸系统疾病接受高流量的氧气。
 * Artemis Ghasemzadeh is among a group of migrants being held in a jungle camp in Panama.
 * Artemis Ghasemzadeh是一群被关押在巴拿马丛林营地的移民之一。
-* President Trump stepped up pressure on Kyiv to agree to a deal at talks. Russia later launched more than 250 drones at Ukraine, Kyiv said.
-* 特朗普总统加大了对基辅的压力，要求其在谈判中达成协议。基辅说，俄罗斯后来向乌克兰发射了250多架无人机。
-* The Iran-backed Lebanese militant group is staging an elaborate commemoration for its longtime leader, Hassan Nasrallah, who was killed by Israel in September.
-* 伊朗支持的黎巴嫩激进组织正在为其长期领导人哈桑·纳斯鲁拉（ Hassan Nasrallah ）举行精心纪念活动，纳斯鲁拉于9月被以色列杀害。
-* 
-* 
-* U.S. Marines raised an American flag on the Japanese island’s highest peak exactly 80 years ago. But the fighting, some of the deadliest of World War II, would rage on for a month.
-* 整整80年前，美国海军陆战队在日本岛最高峰上升起了美国国旗。但是，第二次世界大战中最致命的战斗将持续一个月。
-* The 88-year-old pontiff, who has been hospitalized for more than a week, had a restful night after receiving oxygen and a blood transfusion on Saturday, the Vatican said.
-* 梵蒂冈说，这位88岁的教皇已经住院一周多，在周六接受氧气和输血后度过了一个安静的夜晚。
-* The suspect, a Syrian refugee, told the police that a plan had come into his mind to kill Jews. The attack raises tensions just before an election in which immigration is a big issue.
-* 这名嫌疑人是一名叙利亚难民，他告诉警方，他想到了一个杀害犹太人的计划。这次袭击在选举前加剧了紧张局势，而移民是一个大问题。
+* Israel’s defense minister, Israel Katz, said that 40,000 Palestinian residents displaced from militant hotbeds would not be allowed to return to their homes.
+* 以色列国防部长以色列·卡茨（ Israel Katz ）表示， 4万名从激进温床流离失所的巴勒斯坦居民将不被允许返回家园。
+* Hamas criticized Israel’s decision to delay the release of hundreds of Palestinian prisoners, amid growing tensions and concerns for the future of the truce in Gaza.
+* 哈马斯批评以色列决定推迟释放数百名巴勒斯坦囚犯，因为加沙的紧张局势日益加剧，人们对停火的未来感到担忧。
+* The leaders of France and Britain are both due to meet with President Trump this week. Approaches previously tried with him may no longer work.
+* 法国和英国领导人本周都将与特朗普总统会面。以前和他一起尝试的方法可能不再有效。
+* The Rapid Support Forces said it was paving the way to an end to the civil war. Critics called it an audacious gambit by a group that the United States has accused of genocide.
+* 快速支援部队表示，它正在为结束内战铺平道路。批评人士称，这是一个被美国指责为种族灭绝的组织的大胆策略。
+* The Iran-backed Lebanese militant group held an elaborate commemoration for its longtime leader, Hassan Nasrallah, who was killed by Israel in September.
+* 伊朗支持的黎巴嫩激进组织为其长期领导人哈桑·纳斯鲁拉（ Hassan Nasrallah ）举行了精心纪念活动，纳斯鲁拉于9月被以色列杀害。
+* About 300 migrants from all around the world were deported from the United States to Panama. There, they were trapped in a hotel, facing a choice of whether to return to places they had fled.
+* 来自世界各地的约300名移民被从美国驱逐到巴拿马。在那里，他们被困在一家酒店，面临着是否返回他们逃离的地方的选择。
 
 ## New York Times United States News
-* The second-term senator from Connecticut is eschewing caution and throwing out the traditional political playbook as he seeks a broader audience for his critiques of the president and his agenda.
-* 这位来自康涅狄格州的第二任参议员回避谨慎，抛弃了传统的政治剧本，因为他寻求更广泛的受众来批评总统及其议程。
-* Last month, President Trump announced plans to construct a migrant holding facility in Guantanamo Bay, Cuba. Carol Rosenberg breaks down what we know about the operation, along with New York Times photographer Doug Mills, who captured the first independent images of the facility.
-* 上个月，特朗普总统宣布计划在古巴关塔那摩湾建造一个移民拘留设施。卡罗尔·罗森伯格（ Carol Rosenberg ）与《纽约时报》摄影师道格·米尔斯（ Doug Mills ）详细介绍了我们对该设施的了解，道格·米尔斯（ Doug Mills ）
-* A vast majority of 2024 races for Congress and state legislatures were decided by low-turnout or meaningless primaries. The trend is making politics more polarized and eroding public trust.
-* 2024年的国会和州议会竞选绝大多数是由低投票率或毫无意义的初选决定的。这种趋势正在使政治更加两极分化，并侵蚀公众的信任。
-* Distributed by a legal aid group, the “red card” lays out key rights and protections. Demand for them has surged since President Trump returned to office.
-* 由法律援助团体分发的“红牌”列出了关键的权利和保护措施。自特朗普总统重新执政以来，对他们的需求激增。
-* Condoms for Gaza? Ukraine started the war with Russia? The president’s manipulations of the truth lay the groundwork for radical change.
-* 加沙避孕套？乌克兰挑起了与俄罗斯的战争？总统对真相的操纵为彻底变革奠定了基础。
-* The firings added to doubts about whether Secretary of State Marco Rubio, the agency’s acting head, supports lifesaving humanitarian assistance, as he has said he does.
-* 解雇增加了对该机构代理负责人国务卿马可·卢比奥（ Marco Rubio ）是否像他说的那样支持拯救生命的人道主义援助的怀疑。
-* The defense secretary has repeatedly derided the military lawyers for war crime prosecutions and battlefield rules of engagement.
-* 国防部长一再嘲笑军事律师起诉战争罪和战场交战规则。
-* Speaking to a crowd of supporters that included pardoned Jan. 6 rioters, the president gleefully recounted his efforts to purge the government of his political enemies.
-* 总统在向包括1月6日赦免的暴徒在内的一群支持者发表讲话时，兴高采烈地讲述了他为清除政府的政治敌人所做的努力。
-* Elon Musk has drawn inspiration from his 2022 takeover of Twitter with the tactic. His threat on social media of termination did not appear in an email to federal workers requesting the work summaries.
-* 伊隆·马斯克（ Elon Musk ）从2022年收购Twitter的策略中汲取了灵感。他在社交媒体上的解雇威胁没有出现在向联邦工作人员发送的电子邮件中，该电子邮件要求提供工作摘要。
-* The state’s first female governor and first female district attorney, the longtime Democratic politician has a history of supporting law enforcement.
-* 作为该州第一位女性州长和第一位女性地区检察官，这位长期的民主党政治家有支持执法的历史。
+* Gordon Cordeiro, 51, who was serving a life sentence for a 1994 murder on Maui, was released on Friday after DNA evidence was presented in his case.
+* 51岁的戈登·科代罗（ Gordon Cordeiro ）因1994年毛伊岛谋杀案而被判无期徒刑，在他的案件中提出DNA证据后，他于周五获释。
+* The justices have all but stopped issuing summary reversals, which are unsigned decisions used to correct clear errors by lower courts.
+* 法官们几乎已经停止发布即决驳回令，即下级法院用来纠正明显错误的未经签署的决定。
+* The choice of Dan Bongino is a radical departure from the bureau’s history of having a veteran agent serve in the key role that oversees operations.
+* Dan Bongino的选择与该局让资深代理人担任监督运营的关键角色的历史截然不同。
+* The base had been cleared of migrants since Thursday, after the government sent 177 to Venezuela and one back to the United States.
+* 自周四以来，该基地已经清除了移民，此前政府向委内瑞拉派遣了177名移民，并向美国派遣了一名移民。
+* The announcement, by email, came two days after a judge said the Trump administration could proceed with plans that amount to dismantling the aid agency.
+* 在一名法官表示特朗普政府可以继续实施拆除援助机构的计划两天后，通过电子邮件宣布了这一消息。
+* Lt. Gen. Dan Caine, a retired three-star Air Force officer, quickly moved up the list of candidates to be the next chairman of the Joint Chiefs of Staff.
+* 退役的三星空军军官丹·凯恩中将（ Lt. Gen. Dan Caine ）迅速提升了候选人名单，成为参谋长联席会议的下一任主席。
+* The F.B.I. director, Kash Patel, the director of national intelligence, Tulsi Gabbard, and others told employees not to respond to a directive from Mr. Musk to summarize their accomplishments.
+* 联邦调查局局长卡什·帕特尔(Kash Patel)、国家情报局局长图尔西·加巴德(Tulsi Gabbard)和其他人告诉员工，不要回应马斯克总结自己成就的指令。
+* The frozen supplemental drinks have been linked to an outbreak of listeria that has killed at least 11 people and hospitalized 37.
+* 冷冻补充饮料与李斯特菌的爆发有关，李斯特菌已造成至少11人死亡， 37人住院治疗。
+* Defense Secretary Pete Hegseth said in an interview on Sunday that Gen. Charles Q. Brown Jr. was “not the right man for the moment” and praised President Trump’s handling of the war in Ukraine.
+* 美国国防部长皮特·黑格塞斯（ Pete Hegseth ）周日在接受采访时表示，小查尔斯· Q ·布朗（ Charles Q. Brown Jr. ）将军“目前不是合适的人选” ，并赞扬特朗普总统对乌克兰战争的处理方式。
+* After a monthlong honeymoon for the G.O.P. at the start of President Trump’s term, lawmakers are confronting a groundswell of fear and disaffection in districts around the country.
+* 在特朗普总统任期开始时，共和党度过了为期一个月的蜜月后，立法者在全国各地都面临着恐惧和不满情绪的激增。
 
 ## New York Times Asia News
+* Thousands of miles from home, North Koreans work on Chinese tuna longliners in the Indian Ocean for pay that goes to their leader, a new study says.
+* 一项新的研究表明，在离家数千英里的地方，朝鲜人在印度洋的中国金枪鱼延绳钓船上工作，以获得领头人的报酬。
+* Plus, a pharaoh’s tomb was unearthed.
+* 此外，还出土了一座法老的坟墓。
 * The 88-year-old pontiff, who has been hospitalized for more than a week, had a restful night after receiving oxygen and a blood transfusion on Saturday, the Vatican said.
 * 梵蒂冈说，这位88岁的教皇已经住院一周多，在周六接受氧气和输血后度过了一个安静的夜晚。
 * U.S. Marines raised an American flag on the Japanese island’s highest peak exactly 80 years ago. But the fighting, some of the deadliest of World War II, would rage on for a month.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 亚洲国家是最容易受到特朗普总统经济不满影响的国家之一。但他们也最适合进行交易，以尽量减少其风险敞口。
 * The vessels were sailing in the Tasman Sea, and their announced intent to perform exercises prompted a call for commercial flights to divert course.
 * 这些船只在塔斯曼海航行，他们宣布进行演习的意图促使商业航班改变航线。
-* Luke Ching has made a name for himself with creative campaigns to improve working conditions for menial laborers, even as the scope for political protests in the city has narrowed.
-* Luke Ching通过创造性运动为自己树立了名声，以改善卑微劳动者的工作条件，尽管该市政治抗议的范围已经缩小。
-* The World Anti-Doping Agency withdrew a defamation lawsuit and an ethics case against American officials critical of its handling of failed tests by members of China’s Olympic swimming squad.
-* 世界反兴奋剂机构撤回了一项针对美国官员的诽谤诉讼和道德案件，该案件批评中国奥运游泳队成员处理失败的测试。
 
