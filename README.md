@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Fresh possibilities have emerged for President Vladimir V. Putin of Russia with a change of power in Washington.
-* 随着华盛顿权力的变化，俄罗斯总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）出现了新的可能性。
-* The likely next chancellor is unpopular, and his country’s economy has stalled. But his penchant for risks could help lead to a European showdown with President Trump.
-* 可能的下一任总理不受欢迎，他的国家的经济已经停滞不前。但他对风险的偏好可能有助于导致欧洲与特朗普总统的对决。
-* Deporting migrants to Central American countries removes many political and legal hurdles for the Trump administration. How far can the practice go before these nations reach a breaking point?
-* 将移民驱逐到中美洲国家为特朗普政府消除了许多政治和法律障碍。在这些国家达到临界点之前，这种做法还能走多远？
-* European leaders visited Kyiv to mark the war’s third anniversary. The show of solidarity in Ukraine on Monday comes at a head-spinning moment for the continent.
-* 欧洲领导人访问了基辅，以纪念战争三周年。周一在乌克兰举行的团结表演正值非洲大陆轰轰烈烈的时刻。
-* Time-honored rituals, drafted and refined over centuries, allow time for mourning and provide order at a dramatic moment of transition.
-* 历史悠久的仪式，经过几个世纪的起草和完善，有时间哀悼，并在戏剧性的转变时刻提供秩序。
-* The Chinese and Russian leaders reaffirmed their relationship in a video call on Monday, an apparent rebuff to the idea that the Trump administration could drive a wedge between them.
-* 中国和俄罗斯领导人在周一的视频通话中重申了他们的关系，这显然是对特朗普政府可能会在他们之间制造分歧的想法的拒绝。
-* Through three years of wartime leadership, Ukraine’s president has mostly played weak hands wisely. But his approach has fallen flat with the Trump administration.
-* 通过三年的战时领导，乌克兰总统大多明智地扮演了软弱的角色。但他的做法与特朗普政府持平。
-* Friedrich Merz and his party won, Elon Musk didn’t seem to move voters, and more lessons from an early German vote with big implications for Europe.
-* 弗里德里希·默茨（ Friedrich Merz ）和他的政党赢了，埃隆·马斯克（ Elon Musk ）似乎并没有打动选民，而是从德国早期投票中吸取了更多教训，
-* Mousa Abu Marzouk, the head of Hamas’s foreign relations office, said he would not have supported such an attack on Israel had he known of the devastation it would wreak on Gaza.
-* 哈马斯外交关系办公室负责人穆萨·阿布·马祖克（ Mousa Abu Marzouk ）表示，如果他知道这会对加沙造成破坏，他就不会支持对以色列发动这样的袭击。
-* Less than a week before it expires, Israel and Hamas have failed to agree to extend the cease-fire in Gaza. Here’s how the deal could still continue — and what happens if it doesn’t.
-* 在停火到期前不到一周，以色列和哈马斯未能同意延长加沙的停火。以下是交易仍然可以继续的方式，如果不继续，会发生什么。
+* There is a broad reckoning in Ukraine: Washington can no longer be relied upon as a supporter. But Kyiv still has agency on the battlefield and can seek increased support from Europe.
+* 在乌克兰，人们普遍认为：不能再依赖华盛顿作为支持者。但基辅仍然在战场上拥有代理权，可以寻求欧洲的更多支持。
+* Eleven days after the pope was hospitalized, speculation is mounting and prayers for his recovery verge on a vigil.
+* 教皇住院11天后，猜测越来越多，为他的康复祈祷濒临守夜。
+* Ahmed al-Shara’s unlikely path from membership in Al Qaeda to head of state has raised questions about how he intends to govern Syria.
+* 艾哈迈德·沙雷（ Ahmed al-Shara ）不太可能从基地组织成员转变为国家元首，这引发了人们对他打算如何治理叙利亚的质疑。
+* The former East Germany still votes virtually as a separate country — and increasingly for a party that has been linked to neo-Nazis.
+* 这个前东德仍然作为一个独立的国家进行投票，并且越来越多地投票给一个与新纳粹有联系的政党。
+* As President Trump turns toward Russia, Taiwan grapples with its reliance on U.S. support in the face of conflict with China.
+* 随着特朗普总统转向俄罗斯，面对与中国的冲突，台湾正在努力应对其对美国支持的依赖。
+* Although the conference was called to chart the country’s future, the Kurdish-led militia that controls much of Syria’s northeast was not invited.
+* 尽管召开这次会议是为了规划该国的未来，但控制叙利亚东北部大部分地区的库尔德人领导的民兵没有受到邀请。
+* Sandra Demontigny, 45, pushed Quebec to become one of the few places in the world to allow people to choose a medically assisted death sometimes years in advance.
+* 45岁的桑德拉·德蒙蒂尼（ Sandra Demontigny ）推动魁北克成为世界上少数几个允许人们提前数年选择医学辅助死亡的地方之一。
+* Prime Minister Keir Starmer, who is set to meet with President Trump on Thursday, said he would increase British spending on defense to 2.5 percent of G.D.P. by 2027.
+* 定于周四与特朗普总统会面的英国首相凯尔·斯塔默(Keir Starmer)表示，到2027年，他将把英国的国防开支增加到GDP的2.5%。
+* The central bank’s president said it was “not possible to rule out” a third year of no economic growth.
+* 央行行长表示， “不可能排除”没有经济增长的第三年。
+* The Coast Guard said it was investigating how the cable was severed and said it could not rule out the possibility of sabotage.
+* 海岸警卫队表示正在调查电缆是如何被切断的，并表示不能排除破坏的可能性。
 
 ## New York Times United States News
-* The forceful approach that Emil Bove III has taken toward the Southern District of New York underscores his own fraught relationship with the office that gave him the expertise to do so.
-* 埃米尔·博夫三世（ Emil Bove III ）对纽约南区采取了强有力的方法，这凸显了他与办公室之间令人担忧的关系，这使他具备了这样做的专业知识。
-* Doug O’Donnell, a 40-year veteran of the I.R.S., was elevated last month after the last commissioner stepped down at the beginning of President Trump’s term.
-* 曾在美国国税局任职40年的道格·奥唐纳（ Doug O’Donnell ）上个月在特朗普总统任期开始时卸任后被提升。
-* Hampton Dellinger, the head of the Office of Special Counsel, recommended pausing the mass firings of some probationary federal employees.
-* 特别顾问办公室负责人汉普顿·德林格（ Hampton Dellinger ）建议暂停大规模解雇一些试用联邦雇员。
-* MAGA references on a library plaque have divided the Southern California surf town and thrust it into the national spotlight.
-* 图书馆牌匾上的MAGA参考文献将南加州的冲浪小镇分割开来，并使其成为全国的焦点。
-* The post of deputy director will give Dan Bongino access to vast amounts of highly sensitive intelligence, as well as rumor, speculation and false accusations that F.B.I. agents regularly receive.
-* 副局长一职将使Dan Bongino能够获得大量高度敏感的情报，以及联邦调查局特工经常收到的谣言、猜测和虚假指控。
-* Some cabinet officials are showing a glimmer of willingness to check the billionaire’s power.
-* 一些内阁官员表示愿意检查这位亿万富翁的权力。
-* A psychiatrist at Harvard and an adviser to Jesse Jackson and Bill Cosby, he challenged Black Americans to stand up to systemic racism.
-* 他是哈佛大学的精神病学家，也是杰西·杰克逊（ Jesse Jackson ）和比尔·科斯比（ Bill Cosby ）的顾问，他挑战美国黑人反对系统性种族主义。
-* The judge expressed concern over the unresolved issues about who is in charge of Elon Musk’s so-called Department of Government Efficiency, if it is not Mr. Musk, as the White House has claimed.
-* 法官对谁负责埃隆·马斯克(Elon Musk)所谓的政府效率部(Department of Government Efficiency)的未决问题表示担忧，如果不是马斯克的话，正如白宫所声称的那样。
-* But the judge hinted that future rulings in the suit could go differently, cautioning the White House to “think about whether what they’re doing is really appropriate.”
-* 但法官暗示，该诉讼的未来裁决可能会有所不同，并警告白宫“考虑他们正在做的事情是否真正合适”。
-* The justices heard arguments in the case of a man on death row in Texas who claims DNA testing could spare his life.
-* 法官听取了德克萨斯州一名死囚的论点，该男子声称DNA测试可以挽救他的生命。
+* President Trump’s attacks on diversity, equity and inclusion efforts are making life difficult for some public health officials, who view eliminating racial disparities as part of their mission.
+* 特朗普总统对多样性、公平性和包容性的攻击使一些公共卫生官员的生活变得困难，他们认为消除种族差异是他们使命的一部分。
+* The administration is positioning itself to clamp down on Chinese investment and access to technology. But the wild card may be the president himself.
+* 政府正在定位自己，以压制中国的投资和获得技术。但外卡可能是总统本人。
+* Prominent conservative activists with a presence online have appeared to wield extraordinary access to Elon Musk’s team, and the power to sway policy through it.
+* 在网上有影响力的著名保守派活动家似乎对埃隆·马斯克（ Elon Musk ）的团队有着非凡的接触权，并有权通过它来影响政策。
+* Dr. Bryant Lin, who teaches medicine at Stanford University, was given a terminal diagnosis. He wanted his students to understand the humanity at the core of medicine.
+* 在斯坦福大学教授医学的Bryant Lin博士被诊断为终末期。他希望他的学生了解医学的核心人性。
+* Surveillance video at Perfect Pets in the Denver area showed a man opening dog kennels and running off with two bulldog puppies as another man appeared to create a diversion.
+* 丹佛地区完美宠物的监控视频显示，一名男子打开狗窝，带着两只斗牛犬小狗跑开，另一名男子似乎制造了消遣。
+* The name, which appeared to be generated by a computer, was meant to be temporary after the mother surrendered the child. But two years later, the nonsensical name remains.
+* 这个名字似乎是由电脑生成的，在母亲交出孩子后，这个名字本来是暂时的。但两年后，这个荒谬的名字仍然存在。
+* The chats had been set up to discuss sensitive security matters. But a group of employees used it for discussions that contained sexual themes, intelligence officials said this week.
+* 这些聊天是为了讨论敏感的安全问题而建立的。但情报官员本周表示，一群员工将其用于包含性主题的讨论。
+* The case of Mr. Syed, who spent decades in prison for the murder of his high school girlfriend, was chronicled in the hit podcast “Serial.”
+* 赛义德因谋杀高中女友而入狱数十年的案件在热门播客“Serial”中被记录下来。
+* The move, which could expose unregistered migrants to criminal prosecution, represents a drastic escalation of the administration’s efforts to push millions of immigrants to leave on their own.
+* 此举可能使未登记的移民面临刑事起诉，代表了政府推动数百万移民自行离开的努力急剧升级。
+* Workers at a handful of agencies have begun receiving notifications that they are part of the “reduction in force” directed by the president, after a wave of firings that targeted probationary workers.
+* 在针对试用工人的一波解雇行动之后，少数机构的工人已经开始收到通知，称他们是总统指示的“削减武力”的一部分。
 
 ## New York Times Asia News
+* South Korea reported a rare increase in births last year as the country grapples with a dwindling population. Its fertility rate remains the world’s lowest.
+* 韩国去年报告了罕见的出生率增长，因为该国正在努力应对人口减少的问题。它的生育率仍然是世界上最低的。
+* A new proposal would impose steep levies on Chinese-made ships arriving at U.S. ports, threatening to increase costs for imports.
+* 一项新提案将对抵达美国港口的中国制造船舶征收高额关税，这有可能增加进口成本。
+* The administration is positioning itself to clamp down on Chinese investment and access to technology. But the wild card may be the president himself.
+* 政府正在定位自己，以压制中国的投资和获得技术。但外卡可能是总统本人。
+* Plus, the microphone turns 100.
+* 另外，麦克风变成了100。
+* The Coast Guard said it was investigating how the cable was severed and said it could not rule out the possibility of sabotage.
+* 海岸警卫队表示正在调查电缆是如何被切断的，并表示不能排除破坏的可能性。
 * The development marked a breakthrough for Tesla’s chief executive, Elon Musk, in a country where his company has faced increasingly tough competition.
 * 这一发展标志着特斯拉首席执行官埃隆·马斯克(Elon Musk)在一个公司面临日益激烈竞争的国家取得了突破。
 * As President Trump turns toward Russia, Taiwan grapples with its reliance on U.S. support in the face of conflict with China.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 此外，让度假村肆无忌惮。
 * Local officials have been unable to make contact with eight people after wall of silt and water caused the ceiling to collapse.
 * 由于淤泥墙和水导致天花板坍塌，当地官员无法与8人接触。
-* The Chinese and Russian leaders reaffirmed their relationship in a video call on Monday, an apparent rebuff to the idea that the Trump administration could drive a wedge between them.
-* 中国和俄罗斯领导人在周一的视频通话中重申了他们的关系，这显然是对特朗普政府可能会在他们之间制造分歧的想法的拒绝。
-* He headed U.S. embassies around the world and relished the role, bringing a gregarious style to promoting American interests. But he clashed with the Obama White House.
-* 他领导了美国驻世界各地的大使馆，并欣赏这一角色，为促进美国的利益带来了一种群居风格。但他与奥巴马的白宫发生冲突。
-* Thousands of miles from home, North Koreans work on Chinese tuna longliners in the Indian Ocean for pay that goes to their leader, a new study says.
-* 一项新的研究表明，在离家数千英里的地方，朝鲜人在印度洋的中国金枪鱼延绳钓船上工作，以获得领头人的报酬。
-* Plus, a pharaoh’s tomb was unearthed.
-* 此外，还出土了一座法老的坟墓。
-* The 88-year-old pontiff, who has been hospitalized for more than a week, had a restful night after receiving oxygen and a blood transfusion on Saturday, the Vatican said.
-* 梵蒂冈说，这位88岁的教皇已经住院一周多，在周六接受氧气和输血后度过了一个安静的夜晚。
 
