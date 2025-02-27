@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* There is a broad reckoning in Ukraine: Washington can no longer be relied upon as a supporter. But Kyiv still has agency on the battlefield and can seek increased support from Europe.
-* 在乌克兰，人们普遍认为：不能再依赖华盛顿作为支持者。但基辅仍然在战场上拥有代理权，可以寻求欧洲的更多支持。
-* Eleven days after the pope was hospitalized, speculation is mounting and prayers for his recovery verge on a vigil.
-* 教皇住院11天后，猜测越来越多，为他的康复祈祷濒临守夜。
-* Ahmed al-Shara’s unlikely path from membership in Al Qaeda to head of state has raised questions about how he intends to govern Syria.
-* 艾哈迈德·沙雷（ Ahmed al-Shara ）不太可能从基地组织成员转变为国家元首，这引发了人们对他打算如何治理叙利亚的质疑。
-* The former East Germany still votes virtually as a separate country — and increasingly for a party that has been linked to neo-Nazis.
-* 这个前东德仍然作为一个独立的国家进行投票，并且越来越多地投票给一个与新纳粹有联系的政党。
-* As President Trump turns toward Russia, Taiwan grapples with its reliance on U.S. support in the face of conflict with China.
-* 随着特朗普总统转向俄罗斯，面对与中国的冲突，台湾正在努力应对其对美国支持的依赖。
-* Although the conference was called to chart the country’s future, the Kurdish-led militia that controls much of Syria’s northeast was not invited.
-* 尽管召开这次会议是为了规划该国的未来，但控制叙利亚东北部大部分地区的库尔德人领导的民兵没有受到邀请。
-* Sandra Demontigny, 45, pushed Quebec to become one of the few places in the world to allow people to choose a medically assisted death sometimes years in advance.
-* 45岁的桑德拉·德蒙蒂尼（ Sandra Demontigny ）推动魁北克成为世界上少数几个允许人们提前数年选择医学辅助死亡的地方之一。
-* Prime Minister Keir Starmer, who is set to meet with President Trump on Thursday, said he would increase British spending on defense to 2.5 percent of G.D.P. by 2027.
-* 定于周四与特朗普总统会面的英国首相凯尔·斯塔默(Keir Starmer)表示，到2027年，他将把英国的国防开支增加到GDP的2.5%。
-* The central bank’s president said it was “not possible to rule out” a third year of no economic growth.
-* 央行行长表示， “不可能排除”没有经济增长的第三年。
-* The Coast Guard said it was investigating how the cable was severed and said it could not rule out the possibility of sabotage.
-* 海岸警卫队表示正在调查电缆是如何被切断的，并表示不能排除破坏的可能性。
+* A copy of the agreement obtained by The New York Times says that the United States “supports Ukraine’s effort to obtain security guarantees needed to establish lasting peace.”
+* 《纽约时报》获得的协议副本称，美国“支持乌克兰努力获得建立持久和平所需的安全保障”。
+* While Canadians are not generally known for flag waving, President Trump’s threats have led to a surge in flag sales and buffed up the national symbol’s image.
+* 虽然加拿大人一般不以挥舞国旗而闻名，但特朗普总统的威胁导致国旗销售激增，并提升了国家象征的形象。
+* The country’s new leaders had billed a two-day “national dialogue” in Damascus as the start of a process to build an inclusive government. But some who attended came away disappointed.
+* 该国新领导人宣布在大马士革举行为期两天的“全国对话” ，作为建立包容性政府的进程的开始。但有些参加者失望地离开了。
+* The militant group turned over four coffins it said contained the bodies of Israeli captives, and Israel began releasing Palestinian prisoners.
+* 该激进组织移交了四具据称载有以色列俘虏尸体的棺材，以色列开始释放巴勒斯坦囚犯。
+* South Korea reported a rare increase in births last year as the country grapples with a dwindling population. Its fertility rate remains the world’s lowest.
+* 韩国去年报告了罕见的出生率增长，因为该国正在努力应对人口减少的问题。它的生育率仍然是世界上最低的。
+* Prime Minister Keir Starmer of Britain cut international aid to raise military spending. He’s hoping to make a case for Ukraine at the White House.
+* 英国首相凯尔·斯塔默（ Keir Starmer ）削减国际援助以增加军费开支。他希望在白宫为乌克兰辩护。
+* The demonstration drew only a handful of people, but showed how some Ukrainians fear that Washington is drifting away from backing Ukraine now that President Trump is in power.
+* 这次示威活动只吸引了少数人，但展示了一些乌克兰人如何担心华盛顿在特朗普总统执政后不再支持乌克兰。
+* Thousands of Israelis lined the streets to mourn the Bibases, who were taken hostage in the Hamas-led attack on Oct. 7, 2023, and had become a symbol of the country’s trauma.
+* 成千上万的以色列人在街道上哀悼Bibases ，他们在2023年10月7日哈马斯领导的袭击中被劫持为人质，并已成为该国创伤的象征。
+* One scene from the video, whose origins are unclear, shows President Trump and Prime Minister Benjamin Netanyahu sitting shirtless at a pool with drinks. Hamas condemned it as “disgraceful.”
+* 视频中的一个场景，其起源尚不清楚，显示特朗普总统和内塔尼亚胡总理赤裸裸地坐在游泳池边喝酒。哈马斯谴责这是“可耻的”。
+* Firefighters have battled a blaze on the slopes in the national park for days. The fire spread overnight toward Cape Town’s central business district.
+* 几天来，消防员在国家公园的山坡上与大火作斗争。大火一夜之间蔓延到开普敦的中央商务区。
 
 ## New York Times United States News
-* President Trump’s attacks on diversity, equity and inclusion efforts are making life difficult for some public health officials, who view eliminating racial disparities as part of their mission.
-* 特朗普总统对多样性、公平性和包容性的攻击使一些公共卫生官员的生活变得困难，他们认为消除种族差异是他们使命的一部分。
-* The administration is positioning itself to clamp down on Chinese investment and access to technology. But the wild card may be the president himself.
-* 政府正在定位自己，以压制中国的投资和获得技术。但外卡可能是总统本人。
-* Prominent conservative activists with a presence online have appeared to wield extraordinary access to Elon Musk’s team, and the power to sway policy through it.
-* 在网上有影响力的著名保守派活动家似乎对埃隆·马斯克（ Elon Musk ）的团队有着非凡的接触权，并有权通过它来影响政策。
-* Dr. Bryant Lin, who teaches medicine at Stanford University, was given a terminal diagnosis. He wanted his students to understand the humanity at the core of medicine.
-* 在斯坦福大学教授医学的Bryant Lin博士被诊断为终末期。他希望他的学生了解医学的核心人性。
-* Surveillance video at Perfect Pets in the Denver area showed a man opening dog kennels and running off with two bulldog puppies as another man appeared to create a diversion.
-* 丹佛地区完美宠物的监控视频显示，一名男子打开狗窝，带着两只斗牛犬小狗跑开，另一名男子似乎制造了消遣。
-* The name, which appeared to be generated by a computer, was meant to be temporary after the mother surrendered the child. But two years later, the nonsensical name remains.
-* 这个名字似乎是由电脑生成的，在母亲交出孩子后，这个名字本来是暂时的。但两年后，这个荒谬的名字仍然存在。
-* The chats had been set up to discuss sensitive security matters. But a group of employees used it for discussions that contained sexual themes, intelligence officials said this week.
-* 这些聊天是为了讨论敏感的安全问题而建立的。但情报官员本周表示，一群员工将其用于包含性主题的讨论。
-* The case of Mr. Syed, who spent decades in prison for the murder of his high school girlfriend, was chronicled in the hit podcast “Serial.”
-* 赛义德因谋杀高中女友而入狱数十年的案件在热门播客“Serial”中被记录下来。
-* The move, which could expose unregistered migrants to criminal prosecution, represents a drastic escalation of the administration’s efforts to push millions of immigrants to leave on their own.
-* 此举可能使未登记的移民面临刑事起诉，代表了政府推动数百万移民自行离开的努力急剧升级。
-* Workers at a handful of agencies have begun receiving notifications that they are part of the “reduction in force” directed by the president, after a wave of firings that targeted probationary workers.
-* 在针对试用工人的一波解雇行动之后，少数机构的工人已经开始收到通知，称他们是总统指示的“削减武力”的一部分。
+* The House Republican budget plan would pair tax cuts that primarily benefit the rich with cuts to programs that help the poor.
+* 众议院的共和党预算计划将把主要使富人受益的减税措施与帮助穷人的计划相结合。
+* Federal officials circulated a memo asking agency leaders to plan even more job reductions after thousands of federal workers were fired in recent weeks.
+* 在最近几周数千名联邦工作人员被解雇后，联邦官员分发了一份备忘录，要求机构领导人计划进一步裁员。
+* The justices ruled last week that the president could not, for now, remove a government lawyer who leads the watchdog agency that protects whistle-blowers.
+* 法官们上周裁定，总统目前不能撤换一名领导保护举报人的监督机构的政府律师。
+* The bay looked “like it was boiling,” said a boat captain with a whale-watching company in Monterey Bay, Calif. He captured video of the dolphins swimming off the coast.
+* 加利福尼亚州蒙特利湾一家观鲸公司的一名船长说，海湾看起来“好像在沸腾”。他拍摄了海豚在海岸游泳的视频。
+* President Trump’s first cabinet meeting was a display of deference to Elon Musk.
+* 特朗普总统的首次内阁会议是对埃隆·马斯克的尊重。
+* Lawyers for the government had said it would miss a deadline to release more than $1.5 billion in payments for past aid work and sought a late intervention from the Supreme Court.
+* 政府律师曾表示，将错过为过去的援助工作发放超过15亿美元款项的最后期限，并寻求最高法院的迟到干预。
+* A new administration’s efforts to pressure the news media, punish political opponents and tame the nation’s tycoons evoke the early days of President Vladimir V. Putin’s reign in Russia.
+* 新政府向新闻媒体施压、惩罚政治对手和驯服国家大亨的努力让人想起弗拉基米尔· V ·普京(Vladimir V. Putin)总统在俄罗斯统治的早期。
+* The cancellation plays into fears among scientists who worry that Robert F. Kennedy Jr. will use his position as health secretary to sow doubts about vaccines.
+* 这一取消引起了科学家的担忧，他们担心小罗伯特· F ·肯尼迪（ Robert F. Kennedy Jr. ）将利用他作为卫生部长的职位来播下对疫苗的怀疑。
+* At the first cabinet meeting of his second term, President Trump asked Elon Musk to speak first. The man tasked with slashing the federal government spoke far more than anyone else, other than Mr. Trump.
+* 在第二任期的第一次内阁会议上，特朗普总统要求埃隆·马斯克首先发言。负责削减联邦政府的人说话比特朗普以外的任何人都多。
+* The administration’s changes to the pool come at a moment when the White House is chipping away at the ability of major news organizations to cover it.
+* 白宫正在削弱主要新闻机构对其进行报道的能力，此时此刻，政府对人才库进行了调整。
 
 ## New York Times Asia News
+* The fresh deployment comes after North Korea suffered heavy casualties on the front lines in Russia’s war against Ukraine, the South’s spy agency says.
+* 韩国间谍机构表示，新部署是在朝鲜在俄罗斯对乌克兰的战争前线遭受重大伤亡之后进行的。
+* Rights groups criticized the Thai government for sending the Uyghurs, a persecuted Muslim minority, back to China, where they face the risk of torture and imprisonment.
+* 人权组织批评泰国政府将受迫害的穆斯林少数民族维吾尔人遣返回中国，他们在那里面临酷刑和监禁的风险。
+* The proposal worth over $50 billion by Junro Ito, the son of the founder of Seven & i Holdings, was aimed at fending off a takeover bid from Canada’s Alimentation Couche-Tard.
+* Seven & i Holdings创始人的儿子Junro Ito提出的价值超过500亿美元的提议，旨在抵御加拿大Alimentation Couche-Tard的收购要约。
+* A China-led crackdown on online fraud rescued thousands from Myanmar this month. But this massive business of grift keeps growing.
+* 中国领导的打击网络欺诈行动本月从缅甸救出了数千人。但这项庞大的GRIFT业务仍在不断增长。
+* Tens of thousands of people from dozens of nations have been trafficked to cyberfraud hubs in Myanmar, where they must con victims or endure brutal punishment.
+* 来自数十个国家的数万人被贩运到缅甸的网络欺诈中心，在那里他们必须欺骗受害者或忍受残酷的惩罚。
+* Plus, the female gaze behind the camera.
+* 另外，镜头后面的女性目光。
+* China dominates in critical minerals, and President Trump has turned to high-pressure tactics to acquire them.
+* 中国在关键矿产领域占据主导地位，特朗普总统已转向高压战术来获取这些矿产。
+* Dates for Brisbane, Sydney and Auckland were postponed for a “scheduling conflict,” representatives for the rapper said. The tour coincided with the release of his latest album.
+* 这位说唱歌手的代表说，布里斯班、悉尼和奥克兰的日期因“日程安排冲突”而被推迟。这次巡演恰逢他的最新专辑发行。
 * South Korea reported a rare increase in births last year as the country grapples with a dwindling population. Its fertility rate remains the world’s lowest.
 * 韩国去年报告了罕见的出生率增长，因为该国正在努力应对人口减少的问题。它的生育率仍然是世界上最低的。
 * A new proposal would impose steep levies on Chinese-made ships arriving at U.S. ports, threatening to increase costs for imports.
 * 一项新提案将对抵达美国港口的中国制造船舶征收高额关税，这有可能增加进口成本。
-* The administration is positioning itself to clamp down on Chinese investment and access to technology. But the wild card may be the president himself.
-* 政府正在定位自己，以压制中国的投资和获得技术。但外卡可能是总统本人。
-* Plus, the microphone turns 100.
-* 另外，麦克风变成了100。
-* The Coast Guard said it was investigating how the cable was severed and said it could not rule out the possibility of sabotage.
-* 海岸警卫队表示正在调查电缆是如何被切断的，并表示不能排除破坏的可能性。
-* The development marked a breakthrough for Tesla’s chief executive, Elon Musk, in a country where his company has faced increasingly tough competition.
-* 这一发展标志着特斯拉首席执行官埃隆·马斯克(Elon Musk)在一个公司面临日益激烈竞争的国家取得了突破。
-* As President Trump turns toward Russia, Taiwan grapples with its reliance on U.S. support in the face of conflict with China.
-* 随着特朗普总统转向俄罗斯，面对与中国的冲突，台湾正在努力应对其对美国支持的依赖。
-* Six others were injured when part of a highway construction site broke apart on Tuesday morning, officials said.
-* 官员说，周二早上，高速公路施工现场的一部分破裂，另有6人受伤。
-* Plus, letting resorts run wild.
-* 此外，让度假村肆无忌惮。
-* Local officials have been unable to make contact with eight people after wall of silt and water caused the ceiling to collapse.
-* 由于淤泥墙和水导致天花板坍塌，当地官员无法与8人接触。
 
