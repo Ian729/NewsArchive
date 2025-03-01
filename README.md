@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Debate is building over just how deep the Trump administration’s antagonism runs, and whether the real goal is to destroy the European Union.
-* 围绕特朗普政府的对抗有多深，以及真正的目标是否是摧毁欧盟的争论越来越激烈。
-* Abdullah Ocalan, the leader of the Kurdish insurgent group P.K.K., called on his fighters to lay down their arms after decades of battling the Turkish state.
-* 库尔德叛乱组织P.K.K.的领导人阿卜杜拉·奥贾兰（ Abdullah Ocalan ）在与土耳其国家作战数十年后，呼吁他的战士放下武器。
-* The fresh deployment comes after North Korea suffered heavy casualties on the front lines in Russia’s war against Ukraine, the South’s spy agency says.
-* 韩国间谍机构表示，新部署是在朝鲜在俄罗斯对乌克兰的战争前线遭受重大伤亡之后进行的。
-* A China-led crackdown on online fraud rescued thousands from Myanmar this month. But this massive business of grift keeps growing.
-* 中国领导的打击网络欺诈行动本月从缅甸救出了数千人。但这项庞大的GRIFT业务仍在不断增长。
-* A series of hostage-for-prisoner swaps agreed under the first phase of the cease-fire is complete, and no one knows how long the uneasy calm will last.
-* 在停火第一阶段达成的一系列人质换囚犯协议已经完成，没有人知道不安的平静会持续多久。
-* The announcement was a victory for mainstream political parties, after earlier talks involving the hard-right Freedom Party broke down.
-* 在早些时候涉及极右翼自由党的谈判破裂后，这一宣布是主流政党的胜利。
-* Comics had already been trying to foster stand-up in Syria before Bashar al-Assad’s fall. Now, they are telling jokes in a liberated country, while warily eyeing the new government.
-* 在巴沙尔·阿萨德（ Bashar al-Assad ）垮台之前，漫画已经试图在叙利亚促进站立。现在，他们在一个解放的国家讲笑话，同时小心翼翼地盯着新政府。
-* The fighting has taken more than 40,000 lives over the past four decades. The group’s leader is now calling for its fighters to put down their arms.
-* 在过去的四十年里，这场战斗夺去了4万多人的生命。该组织的领导人现在呼吁其战斗人员放下武器。
-* The highly anticipated public findings, the first from its internal inquiries into the devastating Hamas-led attack, do not apportion individual responsibility, though officials said that may come later.
-* 备受期待的公开调查结果是其对哈马斯领导的破坏性袭击的内部调查的首次调查，并未分摊个人责任，尽管官员们表示这可能会在稍后进行。
-* Tens of thousands of people from dozens of nations have been trafficked to cyberfraud hubs in Myanmar, where they must con victims or endure brutal punishment.
-* 来自数十个国家的数万人被贩运到缅甸的网络欺诈中心，在那里他们必须欺骗受害者或忍受残酷的惩罚。
+* The Canadian government has reinforced border operations to stop migrants going to the United States, a major Trump complaint.But early data shows people are, instead, starting to flee the United States for Canada.
+* 加拿大政府加强了边境行动，以阻止移民前往美国，这是特朗普的一项重大投诉。但早期数据显示，人们开始逃离美国前往加拿大。
+* “This Ramadan is nothing like the ones before,” said one resident as the holy fasting month for Muslims began. “The war has drained it of meaning.”
+* 一位穆斯林开始斋戒月时，一位居民说： “这个斋月与以前的斋月完全不同。” “战争已经耗尽了它的意义。”
+* Zero-sum thinking has spread like a mind virus, from geopolitics to pop culture.
+* 零和思维像心灵病毒一样从地缘政治传播到流行文化。
+* The group, the P.K.K., made its declaration days after its long-imprisoned leader urged the movement to disarm and disband.
+* 该组织P.K.K.在其长期被监禁的领导人敦促该运动解除武装和解散几天后发表了声明。
+* “The Seed of the Sacred Fig,” an Oscar-nominated movie filmed in secret in Iran, highlights the Iranian film world’s groundbreaking new work, inspired by the women-led protests in 2022.
+* 在伊朗秘密拍摄的奥斯卡提名电影《神圣无花果的种子》（ The Seed of the Sacred Fig ）重点介绍了伊朗电影界的开创性新作，其灵感来自2022年女性领导的抗议活动。
+* Shiori Ito’s searing indictment of Japan’s justice system in handling sexual assault cases is nominated for best documentary feature at Sunday’s Academy Awards.
+* 伊藤诗织（ Shiori Ito ）对日本司法系统处理性侵犯案件的严厉指控在周日的奥斯卡颁奖典礼上被提名为最佳纪录片。
+* The Biden administration saw the $67 billion in military assistance it provided to Kyiv as essential. Trump sees any further aid as leverage.
+* 拜登政府认为，它向基辅提供的670亿美元军事援助至关重要。特朗普将任何进一步的援助视为筹码。
+* Some said they felt the U.S. president was disrespectful and that they were proud of their leader for standing up to him.
+* 一些人说，他们觉得美国总统不尊重他，并为他们的领导人挺身而出而感到自豪。
+* President Volodymyr Zelensky of Ukraine had hoped to secure U.S. support in any cease-fire talks with Russia. Instead, his curdled relationship with President Trump was revealed in the Oval Office.
+* 乌克兰总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）曾希望在与俄罗斯的任何停火谈判中获得美国的支持。相反，他与特朗普总统的冷淡关系在椭圆形办公室被曝光。
+* A new cryptocurrency called $Libra bilked investors out of $250 million. It had been promoted by President Javier Milei.
+* 一种名为$ Libra的新加密货币使投资者损失了2.5亿美元。它是由总统哈维尔·米莱（ Javier Milei ）推动的。
 
 ## New York Times United States News
-* President Trump will meet with President Volodymyr Zelensky of Ukraine on Friday after falsely asserting that Ukraine started the war with Russia and calling him a “dictator without elections.”
-* 特朗普总统将于周五会见乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ） ，此前他错误地声称乌克兰与俄罗斯发动了战争，并称他为“没有选举的独裁者”。
-* The New York Times interviewed more than 60 people familiar with Mr. Musk’s effort to piece together new details about it.
-* 《纽约时报》采访了60多名熟悉马斯克努力拼凑新细节的人。
-* The operation was driven with a frenetic focus by the billionaire, who channeled his resentment of regulatory oversight into a drastic overhaul of government agencies.
-* 这位亿万富翁以疯狂的焦点推动了这次行动，他将自己对监管监督的不满转化为对政府机构的彻底改革。
-* Mr. Hackman was found dead inside his home, along with his wife and a dog. The sheriff’s office in Santa Fe, N.M., is investigating.
-* 哈克曼先生被发现死在家里，还有他的妻子和一只狗。新墨西哥州圣达菲的治安官办公室正在进行调查。
-* Only two people were watching “Captain America: Brave New World” when the ceiling fell. Neither person was injured.
-* 天花板掉下来的时候，只有两个人在看《美国队长：勇敢的新世界》。两人都没有受伤。
-* A federal judge in California ordered the retraction of the memos. He suggested, but did not order, that the layoffs be stopped.
-* 加利福尼亚州的一名联邦法官下令撤回备忘录。他建议停止裁员，但没有下令。
-* The newly released requirements for agencies to move forward with mass cuts to the federal work force have employees even more on edge.
-* 新发布的要求各机构推进大规模削减联邦劳动力的要求使员工更加紧张。
-* The appeal came less than a week after Mayor Karen Bass removed the chief from her job. She blamed her for a lack of preparation as a blaze destroyed the Pacific Palisades neighborhood.
-* 该上诉是在市长凯伦·巴斯（ Karen Bass ）解除其职务后不到一周的时间内提出的。她指责自己缺乏准备，因为大火摧毁了太平洋帕利塞兹社区。
-* Democrats said a review mandated by executive order was “not a serious effort or attempt at reform.”
-* 民主党人表示，行政命令规定的审查“不是认真的努力或改革尝试”。
-* The Defense Department said 4,240 service members, or about 0.2 percent of those in uniform, have a diagnosis of gender dysphoria. Previous estimates had put the number at triple that figure.
-* 国防部表示， 4,240名现役军人（约占军人的0.2 ％ ）被诊断为性别焦虑症。之前的估计数字是这个数字的三倍。
+* Tensions over cost-cutting and maintaining Yosemite have been building, as fired federal workers stage protests at the country’s third-oldest national park.
+* 由于被解雇的联邦工作人员在该国第三古老的国家公园举行抗议活动，削减成本和维护优胜美地的紧张局势一直在加剧。
+* The fortunes of Fayetteville, N.C., are tied to the nearby Army base. What should the city expect with the Trump administration firing top leaders and planning budget cuts?
+* 北卡罗来纳州费耶特维尔的命运与附近的陆军基地息息相关。随着特朗普政府解雇高层领导人并计划削减预算，这座城市应该期待什么？
+* Democrats say the calls to remove judges who block Trump administration initiatives amount to intimidation. Some senior Republicans were also skeptical of the effort.
+* 民主党人表示，要求罢免阻止特朗普政府举措的法官的呼吁相当于恐吓。一些资深共和党人也对这一努力持怀疑态度。
+* The party’s storehouse of everything it knows about American voters required an extraordinary intervention to keep it running, people involved said. A meltdown could have crippled its campaigns nationwide.
+* 有关人士说，该党对美国选民的一切了解都需要进行非凡的干预，以保持其运转。崩溃可能使其在全国范围内的竞选活动陷入瘫痪。
+* Many Republicans have made a reversal on Russia and Ukraine, falling in line behind President Trump. No turnabout has been more striking than that of the Republican speaker.
+* 许多共和党人在俄罗斯和乌克兰问题上做出了逆转，落后于特朗普总统。没有比这位共和党议长更引人注目的了。
+* A new crop of retailers is profiting more from limited-edition accessories that sell out in minutes, and promoting lifestyle gear to women, minority gun owners and the L.G.B.T.Q. community.
+* 一批新的零售商从几分钟内售罄的限量版配件中获利更多，并向女性、少数族裔枪支拥有者和LGBTQ社区推广生活方式装备。
+* Democrats are rerunning the playbook that won them control of Congress in 2018, focusing on the cost of the G.O.P.’s tax cut plan for ordinary Americans, particularly when it comes to health care.
+* 民主党人正在重新制定2018年赢得国会控制权的剧本，重点关注共和党对普通美国人的减税计划的成本，特别是在医疗保健方面。
+* Never in the past few decades at least has an American president engaged in such an angry, scathing attack on a visiting foreign leader in the Oval Office.
+* 在过去的几十年里，至少从来没有一位美国总统对来访的椭圆形办公室外国领导人进行过如此愤怒、严厉的攻击。
+* The tax collector has so far denied the request because of concerns it violates taxpayer privacy laws.
+* 到目前为止，收税员拒绝了该申请，因为他们担心该申请违反了纳税人隐私法。
+* Officials confirmed that the N.S.A. managed a system that had been used for sexually explicit chats and L.G.B.T.Q. discussions. An order to fire dozens after the chats were revealed drew scrutiny amid a military purge of transgender soldiers.
+* 官员们证实，国家安全局管理着一个用于色情聊天和LGBTQ讨论的系统。在跨性别士兵的军事清洗中，在聊天被揭露后，一项解雇数十人的命令受到了仔细审查。
 
 ## New York Times Asia News
+* Business owners told The Times that President Trump’s tariffs could lead to higher costs and expressed frustration at the sudden uncertainty about policy.
+* 企业主告诉《泰晤士报》，特朗普总统的关税可能导致成本上升，并对政策的突然不确定性表示沮丧。
+* Zero-sum thinking has spread like a mind virus, from geopolitics to pop culture.
+* 零和思维像心灵病毒一样从地缘政治传播到流行文化。
+* Shiori Ito’s searing indictment of Japan’s justice system in handling sexual assault cases is nominated for best documentary feature at Sunday’s Academy Awards.
+* 伊藤诗织（ Shiori Ito ）对日本司法系统处理性侵犯案件的严厉指控在周日的奥斯卡颁奖典礼上被提名为最佳纪录片。
+* The Vatican said Francis, 88, who has been hospitalized for pneumonia, was responding well to treatment and that it was too soon to say how serious the incident was.
+* 梵蒂冈表示， 88岁的弗朗西斯因肺炎住院治疗，对治疗反应良好，现在说这起事件有多严重还为时过早。
+* Xiaomi, which produces smartphones and consumer electronics, delivered 135,000 E.V.s last year after tapping China’s robust manufacturing supply chain.
+* 生产智能手机和消费电子产品的小米在利用中国强大的制造业供应链后，去年交付了135,000辆电动汽车。
+* The sentence for Truong Huy San, an influential reporter, was the latest crackdown on speech by Vietnam, a rising regional power.
+* 对有影响力的记者Truong Huy San的判决是越南最近对言论的镇压，越南是一个崛起的地区大国。
 * Some of the students who took part in last year’s uprising that ousted the nation’s autocratic leader are leaving the interim government to start a political party.
 * 一些参加去年推翻国家专制领导人的起义的学生正在离开临时政府成立一个政党。
 * ​The woman was accused of kissing him without his consent during an event the K-pop idol held in Seoul last year.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 中国正在该地区展示其军事力量，以表明它不会等待特朗普政府决定它想要对抗北京的难度。
 * Plus, remembering Gene Hackman.
 * 此外，还记得Gene Hackman。
-* She fled Nazi Germany in 1939 with her husband and baby only to be forced into a Jewish ghetto in Shanghai. Still, she would often say, “Aren’t we lucky?”
-* 1939年，她带着丈夫和孩子逃离纳粹德国，被迫进入上海的一个犹太人聚居区。尽管如此，她还是经常说： “我们不是很幸运吗？”
-* On a nearly two-week reporting trip to the island, one Times reporter made time for exercise and ice fishing.
-* 在近两周的岛上报道之旅中，一位Times记者抽出时间进行锻炼和冰上钓鱼。
-* As the president pressures countries to buy more American energy, Asian officials and investors are reconsidering a hugely expensive plan stalled for decades.
-* 随着奥巴马总统向各国施压要求购买更多美国能源，亚洲官员和投资者正在重新考虑一项停滞数十年的昂贵计划。
-* The fresh deployment comes after North Korea suffered heavy casualties on the front lines in Russia’s war against Ukraine, the South’s spy agency says.
-* 韩国间谍机构表示，新部署是在朝鲜在俄罗斯对乌克兰的战争前线遭受重大伤亡之后进行的。
-* Rights groups criticized the Thai government for sending the Uyghurs, a persecuted Muslim minority, back to China, where they face the risk of torture and imprisonment.
-* 人权组织批评泰国政府将受迫害的穆斯林少数民族维吾尔人遣返回中国，他们在那里面临酷刑和监禁的风险。
-* The proposal worth over $50 billion by Junro Ito, the son of the founder of Seven & i Holdings, was aimed at fending off a takeover bid from Canada’s Alimentation Couche-Tard.
-* Seven & i Holdings创始人的儿子Junro Ito提出的价值超过500亿美元的提议，旨在抵御加拿大Alimentation Couche-Tard的收购要约。
 
