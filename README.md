@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* European leaders are gathering in Brussels to discuss how to support Ukraine and fend more for themselves on defense.
-* 欧洲领导人正在布鲁塞尔聚会，讨论如何支持乌克兰，并在防务方面为自己争取更多利益。
-* As Ukrainian casualties spiral after years of war, a military band has the melancholy but key task of bidding farewell to troops and raising morale.
-* 随着乌克兰伤亡人数在多年战争后螺旋式上升，一个军乐队肩负着向部队告别和提高士气的忧郁但关键的任务。
-* A New York Times analysis of campaign finance data shows an influx of funding to Nigel Farage’s anti-immigration Reform U.K. party from fossil fuel investors, climate skeptics and multimillionaires.
-* 《纽约时报》对竞选财务数据的分析显示，来自化石燃料投资者、气候怀疑论者和百万富翁的资金涌入了Nigel Farage的反移民改革英国党。
-* The Taiwanese chip giant TSMC’s plan to invest $100 billion in the United States has been met with anxiety and criticism in its home country.
-* 台湾芯片巨头台积电(TSMC)在美国投资1000亿美元的计划在本国遭到了焦虑和批评。
-* President Trump suspended tariffs for both countries after Mexico’s leader presented her security successes, and after U.S. markets fell and business leaders urged the White House to change course.
-* 在墨西哥领导人展示了她的安全成就之后，以及在美国市场下跌和商界领袖敦促白宫改变路线之后，特朗普总统暂停了对两国的关税。
-* As negotiators hold discussions on several tracks, Palestinians and Israelis are in limbo.
-* 随着谈判人员在几个轨道上进行讨论，巴勒斯坦人和以色列人陷入了困境。
-* At least four people were killed in a Russian attack, Ukraine said, amid concerns about air defenses after the U.S. said it was suspending military and intelligence aid.
-* 乌克兰表示，在美国表示暂停军事和情报援助后，由于对防空系统的担忧，至少有4人在俄罗斯袭击中丧生。
-* Fifteen people in the South Korean village of Nogok, near the North Korean border, were injured in the bombing, which happened during a joint drill with the U.S. military.
-* 在与美国军方的联合演习中，朝鲜边境附近的韩国村庄Nogok有15人在轰炸中受伤。
-* Mehdi Yarrahi, a popular Iranian musician, was arrested in a 2023 crackdown after releasing a song that praised women who rejected the mandatory hijab rule.
-* 伊朗流行音乐家迈赫迪·亚拉希（ Mehdi Yarrahi ）在发布一首赞扬拒绝强制性头巾规定的女性的歌曲后，于2023年在一次镇压中被捕。
-* The envoy, Phil Goff, questioned President Trump’s understanding of history at a public event about the war in Ukraine.
-* 特使菲尔·戈夫（ Phil Goff ）在一次关于乌克兰战争的公开活动中质疑特朗普总统对历史的理解。
+* It remains to be seen how far President Trump’s embrace of Russia and abandonment of traditional allies will go. But “the West” may be gone.
+* 特朗普总统在多大程度上拥抱俄罗斯和放弃传统盟友还有待观察。但“西方”可能会消失。
+* Russia has retaken about two-thirds of the territory Ukraine seized last summer in the Kursk region of Russia, but at a fearful cost in lives.
+* 俄罗斯已经夺回了乌克兰去年夏天在俄罗斯库尔斯克地区占领的大约三分之二的领土，但付出了可怕的生命代价。
+* Israel’s leaders promised that their military campaign in Gaza would help save the lives of hostages. At least 41 have died in captivity, some killed by Hamas and others in Israeli airstrikes.
+* 以色列领导人承诺，他们在加沙的军事行动将有助于挽救人质的生命。至少有41人在囚禁中丧生，其中一些人被哈马斯杀害，另一些人则在以色列的空袭中丧生。
+* From beaches to hilltops, young people are driving a boom in literary events as they read more in India’s dozens of native languages.
+* 从海滩到山顶，年轻人正在推动文学活动的繁荣，他们用印度数十种本土语言阅读更多内容。
+* Some 80 percent of white, evangelical Christians voted for President Trump. Now, some want a policy change that could undermine a future Palestinian state.
+* 大约80%的白人福音派基督徒投票支持特朗普总统。现在，有些人希望改变政策，这可能会破坏未来的巴勒斯坦国。
+* The move followed a court ruling that the detention of President Yoon Suk Yeol was invalid, but it won’t affect the insurrection and other charges he faces for declaring martial law.
+* 此举是在法院裁定对Yoon Suk Yeol总统的拘留无效之后作出的，但这不会影响他因宣布戒严而面临的叛乱和其他指控。
+* The United States spent decades responding to conflicts and disease in Africa. The continent is now expected to be the hardest hit by the Trump administration’s aid cuts.
+* 美国花了几十年的时间来应对非洲的冲突和疾病。预计非洲大陆现在将成为受特朗普政府削减援助影响最严重的地区。
+* The electric car company led by Elon Musk builds all the cars it sells in the United States in California and Texas, shielding it from tariffs that could devastate competitors.
+* 这家由埃隆·马斯克（ Elon Musk ）领导的电动汽车公司在加利福尼亚州和德克萨斯州生产其在美国销售的所有汽车，使其免受可能摧毁竞争对手的关税的影响。
+* The decision to search a landfill near Winnipeg had become a political issue in the western Canadian province, largely because the victims were all Indigenous women.
+* 在加拿大西部省份，搜索温尼伯附近垃圾填埋场的决定已成为一个政治问题，主要是因为受害者都是土著妇女。
+* One man died in floodwaters, and officials said parts of the country’s east coast south of Brisbane were still at risk.
+* 一名男子在洪水中丧生，官员表示，该国布里斯班以南东海岸的部分地区仍处于危险之中。
 
 ## New York Times United States News
-* The Trump administration is expected to use thousands more beds in these facilities as part of its mass deportation effort.
-* 预计特朗普政府将在这些设施中使用数千张床位，作为其大规模驱逐工作的一部分。
-* The last time such an execution took place was in 2010, in Utah. The inmate chose the method because of his concerns about lethal injection, according to his lawyer.
-* 最后一次这样的处决发生在2010年，在犹他州。据他的律师说，这名囚犯之所以选择这种方法，是因为他担心注射死刑。
-* One of the soldiers was accused in a federal indictment of selling sensitive information to people in China. A former soldier was also arrested.
-* 其中一名士兵在联邦起诉书中被指控向中国人出售敏感信息。一名前士兵也被捕。
-* The judges, who are part of the Justice Department, make decisions about asylum claims and have the power to order someone removed from the country.
-* 法官是司法部的一部分，负责就庇护申请做出决定，并有权下令将某人驱逐出境。
-* The ruling, which the Trump administration immediately moved to appeal, was a rebuke of Mr. Trump’s expansive view of executive power.
-* 特朗普政府立即提出上诉的裁决是对特朗普对行政权力的广泛看法的谴责。
-* Investors sent stock prices down on Thursday amid the uncertainty over what President Trump’s inconstancy means for the global economy.
-* 由于特朗普总统的不稳定对全球经济意味着什么的不确定性，投资者周四下调了股价。
-* President Trump’s fixation reinvigorated the debate over the role of the federal government in education, and created a powerful point of unity between the factions of his party.
-* 特朗普总统的执着重振了关于联邦政府在教育中的作用的辩论，并在其党派之间创造了一个强大的团结点。
-* Amtrak, after investing more than $4 billion in a year to improve its creaky infrastructure and aging fleet, said it expected to make a profit for the first time under President Trump.
-* Amtrak在一年内投资超过40亿美元用于改善其破旧的基础设施和老化的车队后表示，预计在特朗普总统执政期间将首次盈利。
-* Newly released messages reveal that two roommates in the home where four college students were murdered were alarmed by a masked person in the house that night.
-* 新发布的消息显示，当晚，四名大学生被谋杀的家中的两名室友被家中的一名蒙面人惊醒。
-* The officials plan to meet next week to discuss the first steps of an agreement, after President Trump cast doubt on U.S. support for Ukraine in recent days.
-* 在特朗普总统最近几天对美国支持乌克兰表示怀疑之后，官员们计划下周举行会议，讨论达成协议的第一步。
+* The exact details may never be known, but Mr. Hackman, 95 with advanced Alzheimer’s, was alone for about a week after his wife and sole caregiver died.
+* 确切的细节可能永远不会知道，但95岁的哈克曼先生患有晚期阿尔茨海默氏症，在他的妻子和唯一的照顾者去世后一周左右独自一人。
+* His unusual governing arrangement with President Trump is opening Republicans up to being yoked politically to Mr. Musk, who polls show is broadly unpopular.
+* 他与特朗普总统的不同寻常的执政安排让共和党人在政治上受到马斯克的束缚，马斯克的民意调查显示，马斯克在很大程度上不受欢迎。
+* President Trump’s admiration for President Vladimir Putin of Russia has been endlessly dissected, but the American leader’s policy shifts since taking office again could have profound effects.
+* 特朗普总统对俄罗斯总统弗拉基米尔·普京（ Vladimir Putin ）的钦佩已被无休止地解剖，但这位美国领导人自再次上任以来的政策转变可能会产生深远的影响。
+* President Trump’s willingness to pardon allies has spawned a brisk market for executive clemency. Kenneth P. Vogel, a Times reporter who investigates money, politics and influence, looks at some of the people who want pardons.
+* 特朗普总统赦免盟友的意愿催生了一个充满活力的行政赦免市场。调查金钱、政治和影响力的《泰晤士报》记者肯尼思· P ·沃格尔（ Kenneth P. Vogel ）审视了一些要求赦免的人。
+* President Trump’s shifting positions and outright lies have presented the American public with dueling narratives at every turn.
+* 特朗普总统不断变化的立场和赤裸裸的谎言在每一个转折点都向美国公众展示了决斗的叙述。
+* The new administration has created a system for awarding clemency that underscores the president’s grievances about what he sees as the political weaponization of the justice system.
+* 新政府建立了一个赦免制度，凸显了总统对司法系统政治武器化的不满。
+* The realities of construction costs and insurance payments after the Eaton fire have set in for residents.
+* 伊顿大火之后的建筑成本和保险支付的现实已经为居民带来了好处。
+* Two evacuees took items with them that allowed them to play songs and paint after losing their homes.
+* 两名撤离人员携带了物品，让他们在失去家园后可以播放歌曲和绘画。
+* The president signed an order that would deny loan forgiveness to workers for groups engaged in “substantial illegal activities,” which it indicated included things like diversity initiatives.
+* 总统签署了一项命令，拒绝向从事“重大非法活动”的团体的工人提供贷款豁免，其中包括多元化举措等。
+* The case of the Martin family’s disappearance has bewildered local residents and investigators for more than six decades — until Friday.
+* 60多年来，马丁家族的失踪案一直困扰着当地居民和调查人员，直到周五。
 
 ## New York Times Asia News
+* While the country is having a banner ski season, exceptionally heavy snowfall has created challenges for resort workers.
+* 虽然该国正处于横幅滑雪季节，但异常大雪给度假村工作人员带来了挑战。
+* The play’s cast members wrestle, slap and toss one another in ambitiously choreographed fight sequences that took months of training to learn.
+* 该剧的演员们在雄心勃勃的精心编排的战斗序列中摔跤、扇耳光和互相抛掷，这些序列需要数月的训练才能学习。
+* The move followed a court ruling that the detention of President Yoon Suk Yeol was invalid, but it won’t affect the insurrection and other charges he faces for declaring martial law.
+* 此举是在法院裁定对Yoon Suk Yeol总统的拘留无效之后作出的，但这不会影响他因宣布戒严而面临的叛乱和其他指控。
+* Russia has retaken about two-thirds of the territory Ukraine seized last summer in the Kursk region of Russia, but at a fearful cost in lives.
+* 俄罗斯已经夺回了乌克兰去年夏天在俄罗斯库尔斯克地区占领的大约三分之二的领土，但付出了可怕的生命代价。
+* From beaches to hilltops, young people are driving a boom in literary events as they read more in India’s dozens of native languages.
+* 从海滩到山顶，年轻人正在推动文学活动的繁荣，他们用印度数十种本土语言阅读更多内容。
+* The electric car company led by Elon Musk builds all the cars it sells in the United States in California and Texas, shielding it from tariffs that could devastate competitors.
+* 这家由埃隆·马斯克（ Elon Musk ）领导的电动汽车公司在加利福尼亚州和德克萨斯州生产其在美国销售的所有汽车，使其免受可能摧毁竞争对手的关税的影响。
+* Beijing, which set steep duties on canola, peas and pork, wants Canada and Mexico to resist U.S. pressure to raise tariffs on Chinese goods.
+* 北京对菜籽油、豌豆和猪肉征收高额关税，希望加拿大和墨西哥抵制美国提高中国商品关税的压力。
 * President Yoon Suk Yeol was not immediately freed, and the ruling does not affect the insurrection charges he faces for declaring martial law.
 * Yoon Suk Yeol总统没有立即获释，该裁决不影响他因宣布戒严而面临的叛乱指控。
 * China’s top foreign affairs official, Wang Yi, cast his country as a force for peace and order even as Beijing provokes its neighbors and fuels trade tensions.
 * 中国最高外交官王毅将中国视为和平与秩序的力量，尽管北京挑衅邻国并加剧了贸易紧张局势。
 * Plus, Bong Joon Ho’s “Mickey 17.”
 * 此外， Bong Joon Ho的《Mickey 17》。
-* American officials, including in the C.I.A., are concerned about mass closures hampering national security work. And China has overtaken the United States in global diplomatic footprint.
-* 包括中央情报局在内的美国官员担心大规模关闭会妨碍国家安全工作。中国在全球外交足迹方面已经超过了美国。
-* The envoy, Phil Goff, questioned President Trump’s understanding of history at a public event about the war in Ukraine.
-* 特使菲尔·戈夫（ Phil Goff ）在一次关于乌克兰战争的公开活动中质疑特朗普总统对历史的理解。
-* The Taiwanese chip giant TSMC’s plan to invest $100 billion in the United States has been met with anxiety and criticism in its home country.
-* 台湾芯片巨头台积电(TSMC)在美国投资1000亿美元的计划在本国遭到了焦虑和批评。
-* Mina Watanabe has made it her life’s work to tell the stories of the women who were sexually enslaved by the Japanese military before and during World War II.
-* 渡边美娜一生的工作就是讲述二战前和二战期间被日本军队性奴役的妇女的故事。
-* The Japanese owner of the chain also announced a plan to list its U.S. convenience store business as it tries to fend off a Canadian retailer’s $47 billion takeover bid.
-* 这家连锁店的日本所有者还宣布了一项计划，将其在美国的便利店业务上市，因为它试图抵御一家加拿大零售商470亿美元的收购要约。
-* Fifteen people in the South Korean village of Nogok, near the North Korean border, were injured in the bombing, which happened during a joint drill with the U.S. military.
-* 在与美国军方的联合演习中，朝鲜边境附近的韩国村庄Nogok有15人在轰炸中受伤。
-* The slow-moving tropical storm, named Alfred, is on track to bring dangerous winds and flooding along the coast of Queensland and New South Wales, including Brisbane.
-* 这场名为阿尔弗雷德（ Alfred ）的缓慢移动的热带风暴正在昆士兰州和新南威尔士州（包括布里斯班）沿海带来危险的风和洪水。
 
