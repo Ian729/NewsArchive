@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The assault, which the mayor called the largest on Russia’s capital since the war began, was a reminder of Ukraine’s power to strike as its president proposes an air truce.
-* 这次袭击被市长称为自战争开始以来对俄罗斯首都的最大袭击，这提醒人们，乌克兰总统提出空中休战时，乌克兰有权发动罢工。
-* The deal announced on Tuesday delivered new momentum to efforts to halt the fighting, with the ball for any truce now in Russia’s court, said Secretary of State Marco Rubio.
-* 美国国务卿马尔科·卢比奥（ Marco Rubio ）表示，周二宣布的这项协议为停止战斗的努力提供了新的动力，现在俄罗斯法院可以休战。
-* An Israeli military operation has uprooted tens of thousands of Palestinians who can’t break their fast in their own homes and don’t know when, or if, they will ever return.
-* 以色列的军事行动使成千上万的巴勒斯坦人背井离乡，他们无法在自己的家中斋戒，也不知道他们何时或是否会返回。
-* Rodrigo Duterte, the former Philippine president, was arrested on Tuesday in Manila and was flown to The Hague to face International Criminal Court charges of crimes against humanity.
-* 菲律宾前总统罗德里戈·杜特尔特（ Rodrigo Duterte ）周二在马尼拉被捕，并被飞往海牙，面临国际刑事法院的危害人类罪指控。
-* The militants, Baloch ethnic fighters, said they would kill dozens of seized security personnel if the Pakistani government did not agree to a prisoner exchange.
-* 武装分子俾路支族战斗人员表示，如果巴基斯坦政府不同意交换囚犯，他们将杀死数十名被扣押的安全人员。
-* The deeper discussion of a European force comes amid rising anger and dismay over President Trump’s embrace of Russia and abandonment of traditional allies.
-* 对欧洲部队的更深入讨论是在对特朗普总统拥抱俄罗斯和放弃传统盟友的愤怒和沮丧日益加剧之际进行的。
-* Footage and satellite images reviewed by The Times show civilians in the compound. Thousands have fled violent unrest in the country’s coastal region.
-* 《泰晤士报》审查的镜头和卫星图像显示，大院内有平民。成千上万的人逃离了该国沿海地区的暴力骚乱。
-* Officials say negotiations would also include the future of Israeli military outposts in Lebanon and of Lebanese prisoners still held in Israel.
-* 官员们表示，谈判还将包括以色列在黎巴嫩的军事前哨和仍被关押在以色列的黎巴嫩囚犯的未来。
-* Xi Jinping wants China to surpass rivals as a tech superpower, undeterred by economic woes or trade wars. Critics ask if this focus neglects struggling citizens.
-* 习近平希望中国超越竞争对手，成为科技超级大国，不受经济困境或贸易战的阻碍。批评者问，这种关注是否忽视了陷入困境的公民。
-* Discovered outside Rome, the bath, which is thought to be a mikvah, could be more than 1,600 years old.
-* 这座被认为是密克瓦的浴池在罗马郊外被发现，可能有1600多年的历史。
+* President Vladimir V. Putin of Russia is weighing a 30-day cease-fire proposal from the United States and Ukraine.
+* 俄罗斯总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）正在权衡美国和乌克兰为期30天的停火提案。
+* Europe had been banking on a United States that wanted to make a deal on tariffs and trade. With little progress in that direction, it’s reluctantly starting to hit back.
+* 欧洲一直指望美国能就关税和贸易达成协议。在这个方向上几乎没有进展，它不情愿地开始反击。
+* Syria’s interim president has said that millions would return after President Bashar al-Assad’s ouster, but many houses and other buildings were destroyed in 13 years of civil war.
+* 叙利亚临时总统表示，在巴沙尔·阿萨德总统下台后，数百万人将返回，但许多房屋和其他建筑物在13年的内战中被摧毁。
+* People who endured the longest Covid restrictions in the world are still grappling with what they lost: their loved ones, their livelihoods, their dignity.
+* 经历了世界上最长时间新冠疫情限制的人们仍在努力应对他们失去的东西：他们的亲人，他们的生计，他们的尊严。
+* The French president’s prescriptions for “strategic autonomy” and a European force for Ukraine are suddenly timely in a world with a less dependable America.
+* 在一个美国不太可靠的世界里，法国总统关于“战略自治”和乌克兰欧洲部队的处方突然变得及时。
+* Georgia’s government sparked an uproar by announcing that a port project on the Black Sea will be awarded to a company from China after canceling a contract with a consortium that included Western firms.
+* 格鲁吉亚政府宣布，在取消与包括西方公司在内的财团签订的合同后，将把黑海港口项目授予一家来自中国的公司，这引发了轩然大波。
+* As President Trump’s “shock and awe” policies radiate around the world, they are galvanizing support for moderate leaders and unifying Europe.
+* 随着特朗普总统的“震惊和敬畏”政策辐射到世界各地，它们正在激发对温和领导人的支持，并统一欧洲。
+* Employees at the Aviano Air Base who serve American forces got a familiar demand to list their achievements. Unions say Italy “is not the Wild West like the U.S.”
+* 为美国军队服务的阿维亚诺空军基地的员工熟悉地要求列出他们的成就。工会表示，意大利“不像美国那样是狂野的西部”
+* Running parallel to Rodrigo Duterte’s transfer to the International Criminal Court in The Hague is a monthslong feud with the Philippines’ current president.
+* 与罗德里戈·杜特尔特（ Rodrigo Duterte ）移交给海牙国际刑事法院平行的是与菲律宾现任总统长达一个月的争执。
+* Russia’s leader recently rejected the idea of an interim truce in Ukraine. But he wants to maintain his relationship with President Trump.
+* 俄罗斯领导人最近拒绝了乌克兰临时停火的想法。但他希望保持与特朗普总统的关系。
 
 ## New York Times United States News
-* The man also kicked a flight attendant, an arrest affidavit said. He and his sister said they were traveling to Haiti to escape “religious attacks of a spiritual nature.”
-* 一份逮捕宣誓书称，这名男子还踢了一名空乘人员。他和妹妹说，他们前往海地是为了逃避“精神性质的宗教攻击”。
-* President Trump imposed a 25 percent tariff on metal imports. The move is expected to raise costs for U.S. manufacturers of cars, solar panels and other products, potentially slowing the economy.
-* 特朗普总统对金属进口征收25%的关税。此举预计将提高美国汽车、太阳能电池板和其他产品制造商的成本，可能使经济放缓。
-* John Fulton and Anthony Mitchell were teenagers when they were coerced into giving false confessions in a 2003 murder in Chicago.
-* 约翰·富尔顿（ John Fulton ）和安东尼·米切尔（ Anthony Mitchell ）在2003年芝加哥的一起谋杀案中被迫提供虚假供词时是青少年。
-* Republicans in the Minnesota House lost a one-seat edge in the Capitol, where tensions over party dominance have simmered for weeks.
-* 明尼苏达州众议院的共和党人在国会大厦失去了一席之地，因为党派主导地位的紧张局势已经酝酿了数周。
-* Cameron M. Smith, 50, a Canadian who wanted to bring more attention to climate change, was also ordered to pay $2.1 million in restitution for damage he caused in the Dakotas.
-* 50岁的卡梅伦· M ·史密斯（ Cameron M. Smith ）是一名加拿大人，他希望更多地关注气候变化，他还被命令为他在达科他州造成的损失支付210万美元的赔偿金。
-* Elon Musk has signaled he wants to make some donations not just to his own super PAC, which is called America PAC and has spent heavily on President Trump in the past, but to an outside entity.
-* 埃隆·马斯克（ Elon Musk ）表示，他不仅想向自己的超级PAC （称为美国PAC ，过去曾在特朗普总统身上花费巨资）捐款，还想向外部实体捐款。
-* Representative Keith Self of Texas insisted on calling Representative Sarah McBride, the first openly transgender member of Congress, “Mr. McBride,” and adjourned the session when challenged about it.
-* 德克萨斯州众议员基思·塞尔夫（ Keith Self ）坚持要给国会第一位公开变性议员莎拉·麦克布莱德（ Sarah McBride ）打电话， “麦克布莱德先生” ，并在会议受到质疑时休会。
-* President Trump has spent years bashing electric vehicles. But with Elon Musk by his side, he said he would buy a bright red one.
-* 特朗普总统多年来一直在抨击电动汽车。但在埃隆·马斯克(Elon Musk)的陪伴下，他说他会买一个鲜红色的。
-* Slater, a longtime Washington lawyer, has been particularly critical of power in the tech industry.
-* 斯莱特是华盛顿的长期律师，他对科技行业的权力持特别批评的态度。
-* More than two dozen G.O.P. members of the House and Senate called on the International Olympic Committee to align its eligibility rules with President Trump’s transgender sports ban.
-* 众议院和参议院的二十多名共和党议员呼吁国际奥林匹克委员会将其资格规则与特朗普总统的跨性别体育禁令保持一致。
+* Many of the office’s cases over the decades have served as a catalyst for broader policy change and social reforms.
+* 几十年来，该办公室的许多案例已成为更广泛的政策变革和社会改革的催化剂。
+* The nonprofit No One Left Behind has raised millions of dollars for flights and other assistance to prevent Afghans from being stranded abroad and face retribution from the Taliban.
+* 非营利组织“不让任何人掉队” （ No One Left Behind ）筹集了数百万美元用于航班和其他援助，以防止阿富汗人被困在国外并面临塔利班的报复。
+* Elon Musk’s group obscured the details of some new claims on its website, despite promises of transparency. But The Times was still able to detect another batch of mistakes.
+* 埃隆·马斯克（ Elon Musk ）的团队在其网站上隐瞒了一些新声明的细节，尽管有透明度的承诺。但《纽约时报》仍然能够发现另一批错误。
+* Five years after the global Covid pandemic was declared, there is widespread agreement that closing classrooms was devastating for children. Here is what leaders say they may do next time.
+* 在全球新冠肺炎疫情宣布五年后，人们普遍认为，关闭教室对儿童来说是毁灭性的。以下是领导者表示他们下次可能会做的事情。
+* Five years after the pandemic began, many local health officials say that the politicization of Covid has left them with fewer tools and fresh challenges.
+* 疫情爆发五年后，许多地方卫生官员表示，新冠肺炎疫情的政治化给他们带来了更少的工具和新的挑战。
+* The president offers many reasons for imposing tariffs, including revenue, leverage over competitors and job creation. But history suggests a more complex history.
+* 总统提出了征收关税的许多理由，包括收入、对竞争对手的杠杆作用和创造就业机会。但历史暗示了一个更复杂的历史。
+* Robert Morris, the former senior pastor of the Dallas-based Gateway Church, abused a girl over several years in the 1980s, the Oklahoma Attorney General’s Office said.
+* 俄克拉荷马州总检察长办公室表示，总部位于达拉斯的盖特威教会的前高级牧师罗伯特·莫里斯（ Robert Morris ）在20世纪80年代的几年中虐待了一名女孩。
+* In a meeting with Ireland’s prime minister, President Trump gave no hint of backing down from actions that have caused fissures in the trans-Atlantic alliance.
+* 在与爱尔兰总理的会晤中，特朗普总统没有暗示会放弃导致跨大西洋联盟分裂的行动。
+* The Justice Department dropped a Biden-era lawsuit against Southwest Key, the largest provider of housing for unaccompanied minors, after the Health and Human Services Department said it stopped sending children to those shelters.
+* 在卫生和公共服务部表示停止将儿童送往这些庇护所之后，司法部放弃了对西南关键的拜登时代的诉讼。西南关键是为无人陪伴的未成年人提供住房的最大供应商。
+* A lot has changed since former President Joseph R. Biden Jr. snubbed Elon Musk at an event in 2021.
+* 自从前总统小约瑟夫· R ·拜登（ Joseph R. Biden Jr. ）在2021年的一次活动中冷落埃隆·马斯克（ Elon Musk ）
 
 ## New York Times Asia News
-* Police in Japan have charged a man with the murder, saying he was a follower who had tracked her location by the buildings behind her as she filmed herself.
-* 日本警方指控一名男子犯有谋杀罪，称他是一名追随者，在她拍摄自己时追踪了她身后建筑物的位置。
-* The unusual deployment by three navy ships over the past month has prompted a debate in Australia about its aging fleet and reliance on the United States.
-* 过去一个月，三艘海军舰艇的不寻常部署引发了澳大利亚关于其舰队老化和对美国依赖的辩论。
-* Plus, a tale of two Rwandas.
-* 另外，还有两个卢旺达人的故事。
-* The arrest represents a significant victory for the I.C.C., but only a narrow set of circumstances made it possible.
-* 这次逮捕是国际刑事法院的一次重大胜利，但只有少数几种情况才有可能。
-* Union representatives demanded that the aid agency follow the law stated in the Federal Records Act. Defense lawyers argued that officials had not destroyed personnel records and would not destroy any more documents without notification.
-* 工会代表要求援助机构遵守《联邦记录法》中规定的法律。辩护律师辩称，官员没有销毁人事记录，也不会在没有通知的情况下销毁更多文件。
-* The militants, Baloch ethnic fighters, said they would kill dozens of seized security personnel if the Pakistani government did not agree to a prisoner exchange.
-* 武装分子俾路支族战斗人员表示，如果巴基斯坦政府不同意交换囚犯，他们将杀死数十名被扣押的安全人员。
-* Rodrigo Duterte, the former president of the Philippines, was arrested on a warrant issued by the International Criminal Court. But questions of jurisdiction complicate the matter.
-* 菲律宾前总统罗德里戈·杜特尔特（ Rodrigo Duterte ）因国际刑事法院签发的逮捕令而被捕。但管辖权问题使问题复杂化。
-* The artist was known for popularizing the musical genre in the country, but convictions for drug abuse damaged his image.
-* 这位艺术家因在该国推广音乐流派而闻名，但因滥用药物而被定罪损害了他的形象。
-* Xi Jinping wants China to surpass rivals as a tech superpower, undeterred by economic woes or trade wars. Critics ask if this focus neglects struggling citizens.
-* 习近平希望中国超越竞争对手，成为科技超级大国，不受经济困境或贸易战的阻碍。批评者问，这种关注是否忽视了陷入困境的公民。
-* Rodrigo Duterte, the former Philippine president, was arrested on Tuesday in Manila and was flown to The Hague to face International Criminal Court charges of crimes against humanity.
-* 菲律宾前总统罗德里戈·杜特尔特（ Rodrigo Duterte ）周二在马尼拉被捕，并被飞往海牙，面临国际刑事法院的危害人类罪指控。
+* The Japanese government held a rare auction this week to make up for a rice shortage that an official called “truly unthinkable.”
+* 日本政府本周举行了一场罕见的拍卖会，以弥补一位官员称之为“真正不可想象”的大米短缺。
+* By signing deals with India’s two biggest telecom players, the tech tycoon and Trump adviser has improved his odds of breaking into an enormous market.
+* 通过与印度最大的两家电信公司签订协议，这位科技大亨和特朗普顾问提高了打入巨大市场的几率。
+* People who endured the longest Covid restrictions in the world are still grappling with what they lost: their loved ones, their livelihoods, their dignity.
+* 经历了世界上最长时间新冠疫情限制的人们仍在努力应对他们失去的东西：他们的亲人，他们的生计，他们的尊严。
+* Elon Musk, the company’s chief executive, is fast losing out to Chinese electric carmakers in Tesla’s second-most-important market.
+* 该公司首席执行官埃隆·马斯克(Elon Musk)在特斯拉第二大市场迅速输给了中国电动汽车制造商。
+* A dramatic escalation in the tactics by a Baloch separatist group came with the hijacking of a passenger train on Tuesday.
+* 俾路支分离主义团体的策略急剧升级，周二一列客运列车被劫持。
+* Plus, a new season of books.
+* 此外，还有新一季的书籍。
+* Secretary of State Marco Rubio said top diplomats from the Group of 7 allies meeting in Canada should focus on ending the war. And he shrugged off President Trump’s threats to annex Canada.
+* 美国国务卿马尔科·卢比奥（ Marco Rubio ）表示，在加拿大举行的七国集团（ G7 ）盟国会议的高级外交官应该专注于结束战争。他对特朗普总统吞并加拿大的威胁不屑一顾。
+* Running parallel to Rodrigo Duterte’s transfer to the International Criminal Court in The Hague is a monthslong feud with the Philippines’ current president.
+* 与罗德里戈·杜特尔特（ Rodrigo Duterte ）移交给海牙国际刑事法院平行的是与菲律宾现任总统长达一个月的争执。
+* Pakistani security forces declared an end to ethnic separatists’ seizure of a train carrying more than 400 people.
+* 巴基斯坦安全部队宣布结束种族分裂分子对一列载有400多人的火车的扣押。
+* Companies like East Goes Global serve as social media surrogates for players, expanding their reach, creating business opportunities and pushing for All-Star votes.
+* 像East Goes Global这样的公司充当玩家的社交媒体代理，扩大他们的影响力，创造商业机会并推动全明星投票。
 
