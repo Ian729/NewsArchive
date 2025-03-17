@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Sectarian-driven killings of civilians this month displayed the government’s weak control over both its own forces and affiliated fighters, experts said.
+* 专家表示，本月由教派驱动的对平民的杀戮表明，政府对自己的部队和附属战斗人员的控制力都很弱。
+* An attack on a U.N. helicopter has highlighted rising tensions in the world’s youngest country, where a seven-year-old peace deal looks ever more fragile.
+* 对联合国直升机的袭击凸显了这个世界上最年轻的国家紧张局势的加剧，在那里，一项已有七年历史的和平协议看起来更加脆弱。
+* President Biden spoke by telephone to President Volodymyr Zelensky of Ukraine about the security package, which includes munitions, armored vehicles and other weapons.
+* 拜登总统通过电话与乌克兰总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）谈到了安全一揽子计划，其中包括弹药、装甲车和其他武器。
+* The decision is the latest indication of the Trump administration’s move away from holding President Vladimir V. Putin of Russia accountable for crimes committed against Ukrainians.
+* 这一决定是特朗普政府放弃追究俄罗斯总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）对乌克兰人所犯罪行的最新迹象。
+* The relationship between the billionaire philanthropist and the Indian leader helps both men meet their missions. But it also papers over the erosion of rights under Mr. Modi.
+* 这位亿万富翁慈善家与印度领导人之间的关系有助于两人完成使命。但它也论述了莫迪领导下的权利受到侵蚀。
+* Gathering at the airport, relatives of those who died are turning themselves into aviation experts to explore what caused the country’s worst air disaster.
+* 遇难者的亲属聚集在机场，将自己变成航空专家，探索导致该国最严重空难的原因。
 * East African leaders and Saudi royals are among those profiting off a lucrative, deadly trade in domestic workers.
 * 东非领导人和沙特王室从家政工人的利润丰厚、致命的贸易中获利。
 * Iichi Marumo started competing in his late 80s, after a life spent farming, publishing poetry and volunteering to fly in a kamikaze mission during World War II.
 * 丸茂一一（ Iichi Marumo ）在80年代末开始参赛，此前他一生都在从事农业、出版诗歌和志愿参加二战期间的神风特攻队飞行任务。
+* The Iranian-backed rebels, who have targeted Israel and shipping in the Red Sea, said children were among those killed in the strikes ordered by President Trump.
+* 伊朗支持的叛乱分子瞄准了以色列并在红海航运，他们表示，在特朗普总统下令的罢工中，儿童被杀害。
 * Building on Biden-era policies, President Trump is strong-arming regional leaders, deploying military force and shredding decades of precedents when it comes to the U.S.-Mexico border.
 * 在拜登时代政策的基础上，特朗普总统是强有力的地区领导人，部署军事力量，并在美墨边境问题上粉碎了数十年的先例。
-* Israel’s Newest Army Recruits: the Ultra-Orthodox
-* 以色列最新陆军新兵：超正统派
-* Housekeepers from East Africa suffer beatings, starvation and sexual assault in Saudi Arabia. Here’s what else we learned about the cross-border trade in domestic workers.
-* 来自东非的管家在沙特阿拉伯遭受殴打、饥饿和性侵犯。以下是我们对家政工人跨境贸易的其他了解。
-* The Iran-backed rebels, who have targeted Israel and shipping in the Red Sea, said children were among those killed in the strikes ordered by President Trump.
-* 伊朗支持的叛乱分子以以色列和红海航运为目标，他们表示，在特朗普总统下令的罢工中，儿童是被杀害的人之一。
-* A fire set by gangs at the country’s largest public hospital underscores long-simmering problems in Haiti, which is heavily dependent on international aid.
-* 帮派在该国最大的公立医院纵火，凸显了海地长期以来酝酿的问题，该国严重依赖国际援助。
-* Shipments surged into Gaza after Israel and Hamas reached a cease-fire, even if they weren’t enough. Then Israel blocked the border again to pressure Hamas in truce talks.
-* 在以色列和哈马斯达成停火协议后，货物涌入加沙，即使这些货物还不够。然后，以色列再次封锁边境，在停战谈判中向哈马斯施压。
-* Thousands of women may have been raped by Russian soldiers, experts say, but have kept quiet for fear of the stigma. But that is changing.
-* 专家说，成千上万的妇女可能被俄罗斯士兵强奸，但由于害怕蒙受耻辱，她们一直保持沉默。但这种情况正在发生变化。
-* Talk of replacing the American nuclear umbrella over Europe with the small British and French nuclear armories is in the air, however vague and fanciful.
-* 关于用英国和法国的小型核武库取代美国在欧洲的核保护伞的言论，无论多么模糊和幻想。
 
 ## New York Times United States News
-* Mr. Waltz has worked hard to burnish his credentials among the president’s supporters, in the process dismaying his former associates while not convincing his new ones.
-* 华尔兹一直在总统的支持者中努力提高自己的资历，在这个过程中，他让他的前同事感到沮丧，同时又没有说服他的新同事。
-* The movement that prompted “Black Lives Matter” to be painted in bold yellow near the White House is in retreat. Its leaders are asking what comes next for social justice.
-* 促使“Black Lives Matter”在白宫附近被涂成粗体黄色的运动正在撤退。其领导人正在询问社会正义的下一步是什么。
-* As President Trump and Elon Musk cut federal programs, they often equate political and policy differences with corruption.
-* 随着特朗普总统和埃隆·马斯克（ Elon Musk ）削减联邦计划，他们经常将政治和政策差异等同于腐败。
-* But President Trump wasn’t around to hear any of the barbs thrown at the annual D.C. event.
-* 但特朗普总统没有听到在每年一度的华盛顿特区活动中扔出的任何倒钩。
-* The order declared that unauthorized Venezuelan immigrants who are at least 14 years old and part of the Tren de Aragua gang can be “apprehended, restrained, secured and removed.”
-* 该命令宣布，至少14岁且属于Tren de Aragua帮派的未经授权的委内瑞拉移民可以被“逮捕、约束、保护和驱逐”。
-* Hundreds of homes and other buildings were destroyed in Oklahoma, as fierce winds and wildfires swept the region.
-* 由于狂风和野火席卷该地区，俄克拉荷马州数百所房屋和其他建筑物被摧毁。
-* Seeking to serve as a counterweight to the Trump administration, a flurry of mostly blue states has created initiatives — and ad campaigns — to lure federal employees to state government jobs.
-* 为了对抗特朗普政府，一系列以蓝色为主的州发起了各种举措和广告活动，以吸引联邦雇员到州政府工作。
-* The move means almost all top agents in the field will no longer answer to the deputy director, a significant departure from the way the F.B.I. has worked.
-* 此举意味着几乎所有现场顶级特工都不再向副局长负责，这与FBI的工作方式大不相同。
-* The bill was passed just hours before a midnight deadline to avoid a lapse in funding, which would have shut down the government.
-* 该法案在午夜截止日期前几个小时通过，以避免资金失效，这将导致政府关闭。
-* The air and naval strikes on targets controlled by the Iran-backed Houthi fighters were intended to open up international shipping lanes in the Red Sea.
-* 对伊朗支持的胡塞武装分子控制的目标进行空中和海上打击的目的是在红海开辟国际航道。
+* The chaotic effort to reduce the government’s real estate portfolio is another example of the setbacks the administration has faced as officials try to carry out President Trump’s agenda.
+* 减少政府房地产投资组合的混乱努力是政府在官员试图执行特朗普总统议程时面临的挫折的另一个例子。
+* Two facilities in South Texas are being readied for undocumented parents and their children. One site began receiving them earlier this month.
+* 德克萨斯州南部的两个设施正在为无证父母及其子女做好准备。本月早些时候，一个网站开始收到它们。
+* Firings and buyouts hit the top-secret National Nuclear Safety Administration amid a major effort to upgrade America’s nuclear arsenal. Critics say it shows the consequences of heedlessly cutting the federal work force.
+* 在升级美国核武库的重大努力中，解雇和收购打击了绝密的国家核安全管理局。批评人士说，这显示了不顾一切地削减联邦劳动力的后果。
+* An organization in Chicago is trying to apply a strategy used for fighting drug addiction to reduce gun violence.
+* 芝加哥的一个组织正试图应用一种用于打击吸毒成瘾的策略来减少枪支暴力。
+* President Trump said negotiations over a U.S.-backed cease-fire proposal had continued over the weekend and that discussions had included “dividing up certain assets.”
+* 特朗普总统表示，关于美国支持的停火提案的谈判在周末继续进行，讨论包括“分割某些资产”。
+* The decision is the latest indication of the Trump administration’s move away from holding President Vladimir V. Putin of Russia accountable for crimes committed against Ukrainians.
+* 这一决定是特朗普政府放弃追究俄罗斯总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）对乌克兰人所犯罪行的最新迹象。
+* “Oopsie … Too late,” El Salvador’s president said, mocking a court order that deportation flights to his country turn back to the United States. Top administration officials thanked him.
+* “哎呀……太晚了，”萨尔瓦多总统嘲笑法院命令将遣返航班送回美国。政府高级官员向他表示感谢。
+* A survey of the damage from a cross-country storm system that tore through the South and Midwest over the weekend.
+* 对周末席卷南部和中西部的越野风暴系统造成的破坏的调查。
+* President Trump and most members of his administration steered clear of the annual Gridiron Club dinner on Saturday, where politicians and the press usually toast and lightly roast one another.
+* 特朗普总统和他的大多数政府成员避开了周六举行的年度Gridiron俱乐部晚宴，政客和媒体通常在晚宴上互相敬酒和轻轻烘烤。
+* Senator Chuck Schumer, the minority leader, continued to face criticism from members of his own party after he reversed course and allowed the stopgap spending bill to come to a vote.
+* 少数党领袖、参议员查克·舒默（ Chuck Schumer ）在改变路线并允许对权宜之计支出法案进行投票后，继续面临来自自己党派成员的批评。
 
 ## New York Times Asia News
+* Gathering at the airport, relatives of those who died are turning themselves into aviation experts to explore what caused the country’s worst air disaster.
+* 遇难者的亲属聚集在机场，将自己变成航空专家，探索导致该国最严重空难的原因。
+* The relationship between the billionaire philanthropist and the Indian leader helps both men meet their missions. But it also papers over the erosion of rights under Mr. Modi.
+* 这位亿万富翁慈善家与印度领导人之间的关系有助于两人完成使命。但它也论述了莫迪领导下的权利受到侵蚀。
+* Plus, shadows light up Iranian history.
+* 此外，阴影照亮了伊朗的历史。
+* Beijing’s leaders are ordering fiscally strapped local governments to spend more to help workers, consumers and businesses.
+* 北京领导人正在命令财政拮据的地方政府增加支出，以帮助工人、消费者和企业。
 * Iichi Marumo started competing in his late 80s, after a life spent farming, publishing poetry and volunteering to fly in a kamikaze mission during World War II.
 * 丸茂一一（ Iichi Marumo ）在80年代末开始参赛，此前他一生都在从事农业、出版诗歌和志愿参加二战期间的神风特攻队飞行任务。
 * Seeing land rights as the key to lifting up the impoverished, he pushed authoritarian governments as well as emerging democratic ones to distribute farmland.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 这位菲律宾前领导人在任职期间有数千名平民被杀害，此后被指控犯有危害人类罪。
 * For many Filipinos, Rodrigo Duterte’s transfer to the International Criminal Court was a milestone in their quest for justice. But some were conflicted.
 * 对许多菲律宾人来说，将罗德里戈·杜特尔特移交给国际刑事法院是他们寻求正义的一个里程碑。但有些是矛盾的。
-* Beijing sought to position itself as a key player in negotiations with Iran over its nuclear program, as President Trump called for talks with Tehran.
-* 北京试图将自己定位为与伊朗就其核计划进行谈判的关键参与者，因为特朗普总统呼吁与德黑兰进行谈判。
-* The Hong Kong conglomerate CK Hutchison’s planned sale of ports in Panama to a group led by BlackRock, the American finance giant, is under fire from Beijing.
-* 香港企业集团长江和记实业(CK Hutchison)计划将巴拿马港口出售给美国金融巨头贝莱德(BlackRock)领导的集团，正受到北京方面的抨击。
-* A video of the online influencer snatching the joey from the side of its mother drew calls for her to be deported. She left the country Friday.
-* 网红从乔伊母亲身边抢走乔伊的视频吸引了她被驱逐出境的呼声。她星期五出国了。
-* Makoto Watanabe quit a major newspaper after it retracted a scoop. Now he runs an investigative nonprofit that does not shy away from challenging authority.
-* 渡边诚（ Makoto Watanabe ）在收回独家新闻后退出了一家主要报纸。现在，他经营着一个调查性的非营利组织，不回避挑战权威。
 
