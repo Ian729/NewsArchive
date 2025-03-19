@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Prime Minister Benjamin Netanyahu’s office said he had ordered the attack, the first major strikes in Gaza since the cease-fire with Hamas began in January. The health ministry in Gaza said that hundreds had been killed.
-* 内塔尼亚胡总理办公室表示，他已下令发动袭击，这是自1月与哈马斯停火以来加沙的首次大规模罢工。加沙卫生部表示，已有数百人丧生。
-* The call will be the first known conversation between the two leaders since Ukraine agreed to support a U.S.-backed monthlong cease-fire, as long as Russia does the same
-* 此次通话将是自乌克兰同意支持美国支持的为期一个月的停火以来两国领导人之间的首次已知对话，只要俄罗斯也这样做
-* Her mother, Gisèle, was at the center of a trial that gripped France and made her a feminist icon. But it left Caroline Darian with her own pains and suspicions unanswered.
-* 她的母亲吉赛尔（ Gisèle ）正处于一场审判的中心，这场审判席卷了法国，使她成为女权主义偶像。但这让卡罗琳·达里安（ Caroline Darian ）自己的痛苦和怀疑没有得到回应。
-* They were American tourists hoping for a good time, they said. Then they became captives of an autocratic government.
-* 他们说，他们是希望度过美好时光的美国游客。然后他们成为专制政府的俘虏。
-* The devices will be used to airlift heavy, dangerous loads normally carried by mountain guides. They might even deliver a hot meal or two.
-* 这些装置将用于空运通常由山地导游携带的重型危险载荷。他们甚至可能会送一两顿热餐。
-* Beijing has long criticized the outlet, as well as Radio Free Asia, for highlighting human rights abuses in China.
-* 北京长期以来一直批评该媒体和自由亚洲电台曝光中国的侵犯人权行为。
-* The police said five people had survived the crash off Roatán Island, a tourist destination known for its diving spots.
-* 警方称，五人在罗阿坦岛（ Roatán Island ）坠毁事故中幸存下来，罗阿坦岛是一个以潜水点而闻名的旅游目的地。
-* Sectarian-driven killings of civilians this month displayed the government’s weak control over both its own forces and affiliated fighters, experts said.
-* 专家表示，本月由教派驱动的对平民的杀戮表明，政府对自己的部队和附属战斗人员的控制力都很弱。
-* An attack on a U.N. helicopter has highlighted rising tensions in the world’s youngest country, where a seven-year-old peace deal looks ever more fragile.
-* 对联合国直升机的袭击凸显了这个世界上最年轻的国家紧张局势的加剧，在那里，一项已有七年历史的和平协议看起来更加脆弱。
-* The relationship between the billionaire philanthropist and the Indian leader helps both men meet their missions. But it also papers over the erosion of rights under Mr. Modi.
-* 这位亿万富翁慈善家与印度领导人之间的关系有助于两人完成使命。但它也论述了莫迪领导下的权利受到侵蚀。
+* Although much of what Vladimir V. Putin agreed to during his call with President Trump was spun as a concession, the Russian leader stuck to the positions he has long held.
+* 尽管弗拉基米尔· V ·普京(Vladimir V. Putin)在与特朗普总统通话期间同意的大部分内容都是让步，但这位俄罗斯领导人坚持了他长期担任的职位。
+* The continent’s leaders hope a surge of investment, to fill a security void left by the United States, can ignite growth. It won’t be easy.
+* 非洲大陆的领导人希望投资激增，填补美国留下的安全空白，可以点燃增长。这并不容易。
+* An agreement to suspend attacks against energy infrastructure would halt a strategy employed by Ukraine and Russia. Kyiv has tried to hit at Russian oil revenues, and Moscow has tried to break Ukrainian morale.
+* 暂停对能源基础设施的攻击的协议将停止乌克兰和俄罗斯采用的战略。基辅试图打击俄罗斯的石油收入，莫斯科试图打破乌克兰的士气。
+* The Kremlin said that President Vladimir V. Putin had agreed in a call with President Trump to temporarily stop strikes on Ukrainian energy infrastructure.
+* 克里姆林宫表示，俄罗斯总统弗拉基米尔· V ·普京(Vladimir V. Putin)在与特朗普总统的通话中同意暂时停止对乌克兰能源基础设施的打击。
+* Audio, a photo, medical reports: The truth may be out there, but when it comes to the health of the pontiff, many people prefer more fanciful tales.
+* 音频、照片、医疗报告：真相可能就在那里，但谈到教皇的健康，许多人更喜欢更奇特的故事。
+* Ekrem Imamoglu was detained at his home, according to prosecutors, who said the charges against him were related to corruption and terrorism.
+* 根据检察官的说法， Ekrem Imamoglu被拘留在家中，他说对他的指控与腐败和恐怖主义有关。
+* A researcher at a South African base in Antarctica has been accused of physical assault and sexual harassment. South Africa said it had no immediate plans to remove the accused or any colleagues.
+* 南非南极洲基地的一名研究人员被指控人身攻击和性骚扰。南非表示，它没有立即驱逐被告或任何同事的计划。
+* Israeli protests are converging over national security and domestic politics amid concerns about the government’s renewed push to reduce the power of state watchdogs.
+* 由于担心政府重新推动削弱国家监管机构的权力，以色列的抗议活动正在聚集在国家安全和国内政治上。
+* Attacks by the group, the Arakan Rohingya Salvation Army, were used as a pretext by the Myanmar military to launch a campaign of ethnic cleansing that set off a massive refugee crisis.
+* 缅甸军方以若开罗兴亚救世军（ Arakan Rohingya Salvation Army ）的袭击为借口，发动了一场引发大规模难民危机的种族清洗运动。
+* In rural India, guarantees of equal representation on village councils are easily thwarted. But some women are pushing back against “boss husbands.”
+* 在印度农村，村委会平等代表权的保障很容易被挫败。但一些女性正在反对“老板丈夫”。
 
 ## New York Times United States News
-* Jasmine Mooney, 35, said she was put “in chains” after immigration enforcement officers flagged her visa application paperwork. The former actress was finally allowed to return to Vancouver.
-* 35岁的茉莉·穆尼（ Jasmine Mooney ）说，在移民执法官员举报她的签证申请文件后，她被“锁链”。这位前女演员终于被允许回到温哥华。
-* Anger at Russia’s covert efforts, which included targeting undersea cables, warehouses and railways, has the potential to influence European reactions to the U.S.-led push for an end to the war.
-* 对俄罗斯秘密行动的愤怒，包括针对海底电缆、仓库和铁路，有可能影响欧洲对美国主导的结束战争的反应。
-* A bubbling dispute broke into a dramatic standoff that ended with police involvement and the Department of Government Efficiency taking up residence at the independent agency.
-* 一场沸腾的纠纷爆发了一场戏剧性的对峙，最终警方介入，政府效率部(Department of Government Efficiency)在独立机构驻扎。
-* Among other appointees were Charlie Kirk, Sean Spicer and the daughter of Steve Bannon. President Trump purged several of the military oversight boards last month.
-* 其他被任命者包括查理·柯克（ Charlie Kirk ）、肖恩·斯派塞（ Sean Spicer ）和史蒂夫·班特朗普总统上个月清除了几个军事监督委员会。
-* Trump administration officials said the company donated the internet service, saying the gift had been vetted by the lawyer overseeing ethics issues in the White House Counsel’s Office.
-* 特朗普政府官员表示，该公司捐赠了互联网服务，并表示这份礼物已经过白宫法律顾问办公室道德问题律师的审查。
-* The move by the Equal Employment Opportunity Commission comes as the administration is taking aggressive steps to intimidate law firms.
-* 平等就业机会委员会此举之际，政府正在采取积极措施恐吓律师事务所。
-* A New York Times review of flight data showed that at the time of a federal judge’s order, two flights were in the air, and one had not yet taken off.
-* 《纽约时报》对航班数据的审查显示，在联邦法官下令时，有两架航班在空中，一架尚未起飞。
-* In a video posted to social media, Gov. Kevin Stitt of Oklahoma said he had experienced the “total loss” of his farmhouse over the weekend.
-* 在社交媒体上发布的一段视频中，俄克拉荷马州州长凯文·斯蒂特（ Kevin Stitt ）表示，他在周末经历了农舍的“完全损失”。
-* The president posted on social media that Hunter Biden would lose his security detail “effective immediately” and also identified the country he was vacationing in.
-* 总统在社交媒体上发布消息称，亨特·拜登（ Hunter Biden ）将“立即生效” ，并确定他正在度假的国家。
-* The agency faces an air traffic controller shortage and the need to upgrade outdated systems that are critical to its operations.
-* 该机构面临空中交通管制员短缺以及升级对其运营至关重要的过时系统的需求。
+* Legal scholars say that the nation has reached a tipping point and that the right question is not whether there is a crisis, but rather how much damage it will cause.
+* 法律学者说，这个国家已经到了一个临界点，正确的问题不是是否存在危机，而是危机将造成多大的破坏。
+* The president and his allies in Congress are targeting the financial, digital and legal machinery that powers the Democratic Party and much of the progressive political world.
+* 总统及其在国会的盟友正在瞄准为民主党和许多进步政治世界提供动力的金融、数字和法律机制。
+* Blowing dust reduced visibility to near zero in some parts of New Mexico, prompting road closures. Forecasters say dangerous fire conditions will persist until Thursday.
+* 吹灰将新墨西哥州部分地区的能见度降至接近零，导致道路封闭。预报员表示，危险的火灾状况将持续到周四。
+* A Democratic lawmaker is drafting a letter to Secretary of State Marco Rubio asking whether a database on thousands of children has been deleted.
+* 一位民主党议员正在起草一封致国务卿马可·卢比奥（ Marco Rubio ）的信，询问是否有数千名儿童的数据库已被删除。
+* The attorney general echoed remarks by President Trump, as protesters against Elon Musk and his efforts to shrink the government have defaced and destroyed Tesla vehicles.
+* 司法部长回应了特朗普总统的言论，因为抗议者反对埃隆·马斯克（ Elon Musk ）及其缩小政府的努力已经污染并摧毁了特斯拉汽车。
+* The director of the Central Intelligence Agency emphasized that some documents had nothing to do with the assassinated president, according to people familiar with the discussions.
+* 据知情人士透露，中央情报局局长强调，一些文件与被暗杀的总统无关。
+* Families and immigration lawyers argue not all of the deportees sent to a prison in El Salvador over the weekend had ties to gangs.
+* 家人和移民律师争辩说，并非所有在周末被送往萨尔瓦多监狱的被驱逐者都与帮派有联系。
+* Judge Theodore D. Chuang also blocked high-profile measures during President Trump’s first term.
+* 西奥多· D ·庄（ Theodore D. Chuang ）法官在特朗普总统的第一个任期内也阻止了高调的措施。
+* About 99 percent of the government documents related to President John F. Kennedy’s assassination have long been available to the public under a 1992 law.
+* 根据1992年的一项法律，大约99%与约翰· F ·肯尼迪总统遇刺有关的政府文件长期以来一直向公众开放。
+* Scholars say the papers are unlikely to include dramatic revelations but could shed light on lingering questions — including about the intelligence agencies.
+* 学者们表示，这些论文不太可能包括戏剧性的启示，但可能会揭示挥之不去的问题，包括有关情报机构的问题。
 
 ## New York Times Asia News
+* Chinese experts say Beijing is open to talks but is being stonewalled by the State Department and other official channels.
+* 中国专家表示，北京方面对谈判持开放态度，但受到国务院和其他官方渠道的阻挠。
+* Attacks by the group, the Arakan Rohingya Salvation Army, were used as a pretext by the Myanmar military to launch a campaign of ethnic cleansing that set off a massive refugee crisis.
+* 缅甸军方以若开罗兴亚救世军（ Arakan Rohingya Salvation Army ）的袭击为借口，发动了一场引发大规模难民危机的种族清洗运动。
+* In rural India, guarantees of equal representation on village councils are easily thwarted. But some women are pushing back against “boss husbands.”
+* 在印度农村，村委会平等代表权的保障很容易被挫败。但一些女性正在反对“老板丈夫”。
+* Plus, Ohtani’s star power in Japan.
+* 此外， Ohtani在日本的明星力量。
 * The city’s chief executive said a deal between the Hong Kong conglomerate CK Hutchison and BlackRock, a major American investment firm, requires “serious attention.”
 * 该市首席执行官表示，香港企业集团CK Hutchison与美国主要投资公司贝莱德(BlackRock)之间的交易需要“认真关注”。
 * Beijing has long criticized the outlet, as well as Radio Free Asia, for highlighting human rights abuses in China.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 此外，还有企鹅的“养老院”。
 * Genetic evidence suggests that the reptiles somehow managed millions of years ago to make an ocean crossing from North America to Fiji.
 * 遗传证据表明，爬行动物在数百万年前以某种方式设法使海洋从北美穿越到斐济。
-* Sometimes called the Warren Buffett of Hong Kong, he made his billions by initially building apartments for middle-class descendants of mainland refugees.
-* 他有时被称为香港的沃伦·巴菲特(Warren Buffett) ，他最初通过为大陆难民的中产阶级后裔建造公寓来赚取数十亿美元。
-* Some relatives of the 179 people killed in the worst aviation disaster in South Korea regularly return to the airport where it happened. “Only here can we cry,” one said.
-* 在韩国最严重的航空灾难中丧生的179人的一些亲属定期返回机场。“只有在这里我们才能哭，”一个人说。
-* The relationship between the billionaire philanthropist and the Indian leader helps both men meet their missions. But it also papers over the erosion of rights under Mr. Modi.
-* 这位亿万富翁慈善家与印度领导人之间的关系有助于两人完成使命。但它也论述了莫迪领导下的权利受到侵蚀。
-* Plus, shadows light up Iranian history.
-* 此外，阴影照亮了伊朗的历史。
 
