@@ -2,6 +2,18 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* A tour led by an 88-year-old guide in Bastogne, Belgium, scene of a critical battle of World War II, offers a snapshot into the way President Trump’s second term is shifting perceptions of America abroad.
+* 由一位88岁的导游在比利时巴斯托涅率领的二战关键战场之旅，为特朗普总统的第二个任期如何改变美国在国外的看法提供了一个快照。
+* Moscow sees economic and geopolitical benefits in humoring President Trump’s push for a cease-fire in Ukraine. But the Kremlin’s war aims haven’t shifted.
+* 莫斯科认为，幽默特朗普总统推动乌克兰停火有经济和地缘政治上的好处。但克里姆林宫的战争目标并没有改变。
+* American envoys began talks with Russian officials on Monday, a day after meeting with a Ukrainian delegation. The discussions were expected to focus on halting attacks on energy facilities.
+* 美国特使在与乌克兰代表团会晤一天后，于周一开始与俄罗斯官员会谈。预计讨论的重点是停止对能源设施的攻击。
+* For years, the country has failed to enact financial and governance overhauls required by lenders. The recent fighting has made that problem urgent.
+* 多年来，该国一直未能实施贷款人要求的金融和治理改革。最近的战斗使这个问题变得紧迫。
+* For four decades, a U.S.-financed broadcaster provoked the ire of the communist government in Cuba. President Trump dismantled it in a matter of days.
+* 四十年来，一家由美国资助的广播公司激起了古巴共产党政府的愤怒。特朗普总统在几天内将其拆除。
+* The legislature impeached Han Duck-soo in December, soon after impeaching President Yoon Suk Yeol for declaring martial law. Mr. Yoon’s fate is still unclear.
+* 去年12月，立法机关弹劾韩鸭秀，此前不久，韩国总统尹淑烈因宣布戒严而被弹劾。尹先生的命运还不清楚。
 * The British prime minister said in a series of conversations that the tectonic shifts in America’s relationship with Europe and Russia had to be a ‘galvanizing moment.’
 * 这位英国首相在一系列对话中表示，美国与欧洲和俄罗斯关系的构造转变必须是一个“激励人心的时刻”。
 * Documents and insiders reveal how one of the world’s major money laundering networks operates.
@@ -10,46 +22,38 @@ Auto RSS New York Times and Translate
 * 数十名滞留的移民睡在学校体育馆的床垫上。在采访中，来自世界各地的25名被驱逐者表示，他们陷入了困境。
 * Supporters of the mayor, Ekrem Imamoglu, said that corruption charges against him were a ploy to hobble the main political rival of President Recep Tayyip Erdogan.
 * 市长埃克雷姆·伊马莫格鲁（ Ekrem Imamoglu ）的支持者表示，针对他的腐败指控是挫败总统雷杰普·塔伊普·埃尔多安（ Recep Tayyip Erdogan ）的主要政治对手的伎俩。
-* The British authorities ordered an urgent investigation, but some experts said that any airport would be crippled by being cut from the electrical grid.
-* 英国当局下令进行紧急调查，但一些专家表示，任何机场都将因切断电网而瘫痪。
-* As President Trump promotes renewed business ties with Russia, an American investor has a warning: Anyone there can become a pawn.
-* 随着特朗普总统推动与俄罗斯恢复商业关系，一位美国投资者发出警告：那里的任何人都可能成为棋子。
-* Lai Ching-te, the president of Taiwan, may be betting that China’s appetite for retaliation will be limited by Beijing’s interest in containing tensions with the Trump administration.
-* 台湾总统赖清德(Lai Ching-te)可能押注，中国的报复意愿将受到北京方面遏制与特朗普政府紧张关系的兴趣的限制。
-* Our reporters went into a notorious refuge for scammers and fraudsters, and emerged with a how-to guide.
-* 我们的记者进入了一个臭名昭著的骗子和欺诈者的避难所，并获得了操作指南。
-* The British prime minister said Putin would break any peace deal unless Ukraine gets robust security guarantees and that preserving the U.S.-British relationship was crucial.
-* 这位英国首相表示，除非乌克兰获得强有力的安全保障，否则普京将破坏任何和平协议，而维护美英关系至关重要。
-* The assault underscored the deep mistrust between Russia and Ukraine. U.S.-mediated talks about a partial cease-fire are set to begin in Saudi Arabia later on Sunday.
-* 这次袭击凸显了俄罗斯和乌克兰之间的深刻不信任。美国调解的关于部分停火的谈判将于周日晚些时候在沙特阿拉伯开始。
 
 ## New York Times United States News
-* With Bernie Sanders unlikely to run for president again and Democratic voters fuming at party leaders, many progressives see an open lane. But who will fill it?
-* 随着伯尼·桑德斯(Bernie Sanders)不太可能再次竞选总统，民主党选民对党内领导人感到愤怒，许多进步人士看到了一条开放的道路。但谁来填补它呢？
-* The Democratic party is still grasping for a coherent response to the new Trump administration. Lisa Lerer, national politics correspondent for The New York Times, breaks Democrats into four categories to explain how to make sense of the fractured Democratic opposition.
-* 民主党仍在努力对特朗普新政府作出一致的回应。《纽约时报》国家政治记者丽莎·莱勒（ Lisa Lerer ）将民主党人分为四类，以解释如何理解破碎的民主党反对派。
-* Nancy Pelosi has represented San Francisco in Congress for nearly four decades. Challengers are lining up as she weighs running again or retiring.
-* 南希·佩洛西（ Nancy Pelosi ）在国会代表旧金山近四十年。挑战者正在排队，因为她体重再次运行或退休。
-* Elon Musk’s role in the White House allows him to cancel contracts and influence policy, potentially benefiting his companies. Supporters say he has the best technology.
-* 埃隆·马斯克（ Elon Musk ）在白宫的角色使他能够取消合同并影响政策，这可能使他的公司受益。支持者说他拥有最好的技术。
-* Salvage experts are rushing to save handmade tiles from fireplaces that survived the Eaton fire before they are demolished.
-* 打捞专家正在争先恐后地从伊顿大火中幸存下来的壁炉中拯救手工瓷砖，直到它们被拆除。
-* The tax agency is nearing an agreement to verify whether ICE officials have the right address for people they are trying to deport.
-* 税务机构正在接近达成协议，以核实ICE官员是否为他们试图驱逐的人提供了正确的地址。
-* A presidential memorandum aimed at lawyers everywhere struck a menacing tone.
-* 一份针对各地律师的总统备忘录发出了威胁的语气。
-* The Venezuelan government attributed a willingness to receive the flights to the plight of Venezuelan migrants sent to notorious prisons in El Salvador with little to no due process.
-* 委内瑞拉政府将接受这些航班的意愿归因于委内瑞拉移民被送往萨尔瓦多臭名昭著的监狱，几乎没有正当程序。
-* The agency was looking for an adult and two children on a river near Jacksonville, Fla. One person was found dead in the water, and four others were rescued.
-* 该机构正在佛罗里达州杰克逊维尔附近的一条河上寻找一名成人和两名儿童。一人被发现死在水中，另有四人获救。
-* The snack sticks included in the recall were packaged at a single facility in Idaho from Jan. 16 through Jan. 23, the company said.
-* 该公司表示，召回中包含的零食棒于1月16日至1月23日在爱达荷州的一家工厂进行包装。
+* Judge Maryanne Trump Barry ruled that the law invoked against Mr. Khalil violated the Constitution by giving unfettered discretion to the secretary of state.
+* 玛丽安·特朗普·巴里（ Maryanne Trump Barry ）法官裁定，针对哈利勒的法律赋予国务卿不受约束的自由裁量权，违反了宪法。
+* The Bipartisan Policy Center estimates that the so-called X-date could fall between mid-July and early October if Congress does not lift or suspend the nation’s debt limit.
+* 两党政策中心估计，如果国会不取消或暂停国家的债务上限，所谓的X日期可能会在7月中旬至10月初之间。
+* Mr. Brown, the Ohio Democrat who lost his race for re-election last year, is forming the Dignity of Work Institute, which will highlight workers’ struggles.
+* 去年竞选连任的俄亥俄州民主党人布朗先生正在组建工作尊严研究所，该研究所将突出工人的斗争。
+* Nearly 350,000 people could soon face deportation after the Trump administration moved to end Temporary Protected Status, or T.P.S., for immigrants from that country.
+* 在特朗普政府采取行动结束对来自该国的移民的临时保护身份（ T.P.S. ）后，近35万人可能很快就会被驱逐出境。
+* A 911 call. A lockdown. A master key. Here’s what happened when the Trump administration seized control of a Washington institution.
+* 911报警，封锁万能钥匙。这是特朗普政府控制华盛顿机构时发生的事情。
+* The case, which centers on whether Louisiana’s congressional districts are an illegal racial gerrymander, tests the leeway that states have in drawing voting maps.
+* 该案件以路易斯安那州的国会选区是否是非法的种族划线者为中心，测试了各州在绘制投票地图方面的回旋余地。
+* Republicans in Montana and other states complain that liberal judges are tossing out the laws they pass. Now, conservative legislators are trying to change the rules, and the judges.
+* 蒙大拿州和其他州的共和党人抱怨说，自由派法官正在抛弃他们通过的法律。现在，保守的立法者正试图改变规则和法官。
+* Ms. Love, who represented Utah in Congress from 2015 to 2019, was diagnosed with brain cancer in 2022.
+* Love女士于2015年至2019年代表犹他州参加国会，于2022年被诊断出患有脑癌。
+* The beloved bald eagle was found dead in his enclosure at the World Bird Sanctuary in Missouri after severe weather pounded the region on March 14, sanctuary officials said.
+* 保护区官员说，在3月14日恶劣天气袭击该地区后，这只心爱的秃鹰被发现死在密苏里州世界鸟类保护区的围栏里。
+* The Department of Homeland Security said that a deportation flight to Venezuela carrying 199 people had landed.
+* 美国国土安全部表示，一架载有199人的驱逐出境航班已降落。
 
 ## New York Times Asia News
+* The legislature impeached Han Duck-soo in December, soon after impeaching President Yoon Suk Yeol for declaring martial law. Mr. Yoon’s fate is still unclear.
+* 去年12月，立法机关弹劾韩鸭秀，此前不久，韩国总统尹淑烈因宣布戒严而被弹劾。尹先生的命运还不清楚。
+* Plus, how scammers make money vanish.
+* 此外，诈骗者如何赚钱也会消失。
 * Lai Ching-te, the president of Taiwan, may be betting that China’s appetite for retaliation will be limited by Beijing’s interest in containing tensions with the Trump administration.
 * 台湾总统赖清德(Lai Ching-te)可能押注，中国的报复意愿将受到北京方面遏制与特朗普政府紧张关系的兴趣的限制。
-* Firefighters confronted the forest fires in the country’s southeast over the weekend. Most had been extinguished by Sunday, but dry and windy conditions persisted.
-* 上周末，消防员与该国东南部的森林大火作斗争。大多数已于周日熄灭，但干燥和多风的条件仍然存在。
+* Firefighters confronted the blazes in the country’s southeast over the weekend. Most had been extinguished by Monday, but dry and windy conditions persisted.
+* 上周末，消防队员在该国东南部对抗大火。大多数已于周一熄灭，但干燥和多风的条件仍然存在。
 * Documents and insiders reveal how one of the world’s major money laundering networks operates.
 * 文件和内部人士揭示了世界上主要洗钱网络之一的运作方式。
 * Our reporters went into a notorious refuge for scammers and fraudsters, and emerged with a how-to guide.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 该国与阿富汗接壤的前部落地区受到不断升级的激进主义的困扰，导致广泛的幻想破灭。
 * Mass rallies for and against Yoon Suk Yeol filled the streets on Saturday as the Constitutional Court prepared to rule on whether his ill-fated imposition of martial law justified removal.
 * 周六，支持和反对Yoon Suk Yeol的群众集会充斥着街道，因为宪法法院准备裁定他命中注定的戒严法是否有理由撤职。
-* The court sided with the girl group’s record label, Ador, barring the quintet from planning commercial pursuits after trying to cut ties. The band vowed to appeal.
-* 法院支持女子组合的唱片公司Ador ，禁止五重奏在试图切断关系后计划商业活动。乐队发誓要上诉。
-* Amid dizzying changes caused by a warming climate and global attention, Greenlanders don’t want to have to choose between embracing the future and honoring their heritage.
-* 在气候变暖和全球关注导致的令人眼花缭乱的变化中，格陵兰人不想在拥抱未来和尊重他们的遗产之间做出选择。
 
