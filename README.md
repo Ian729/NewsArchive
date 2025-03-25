@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* A tour led by an 88-year-old guide in Bastogne, Belgium, scene of a critical battle of World War II, offers a snapshot into the way President Trump’s second term is shifting perceptions of America abroad.
-* 由一位88岁的导游在比利时巴斯托涅率领的二战关键战场之旅，为特朗普总统的第二个任期如何改变美国在国外的看法提供了一个快照。
-* Moscow sees economic and geopolitical benefits in humoring President Trump’s push for a cease-fire in Ukraine. But the Kremlin’s war aims haven’t shifted.
-* 莫斯科认为，幽默特朗普总统推动乌克兰停火有经济和地缘政治上的好处。但克里姆林宫的战争目标并没有改变。
-* American envoys began talks with Russian officials on Monday, a day after meeting with a Ukrainian delegation. The discussions were expected to focus on halting attacks on energy facilities.
-* 美国特使在与乌克兰代表团会晤一天后，于周一开始与俄罗斯官员会谈。预计讨论的重点是停止对能源设施的攻击。
+* It’s no Bondi Beach, but Pondi, or Penrith Beach, has been a welcome relief to the city’s sweltering western suburbs.
+* 这里不是邦迪海滩（ Bondi Beach ） ，但庞迪海滩（ Pondi ）或彭里斯海滩（ Penrith Beach ）让这座城市闷热的西部郊区松了一口气。
+* The steel shell that encloses the site of the world’s worst nuclear disaster was built to endure for a century. But war was a scenario its engineers never envisioned.
+* 围绕着世界上最严重的核灾难遗址的钢壳是为了承受一个世纪而建造的。但战争是其工程师从未设想过的情景。
+* The class of lawmakers taking office is noticeably more male and less diverse than the constituents it will represent.
+* 与它将代表的选民相比，就职的立法者阶层明显更具男性性，多样性更少。
+* European universities have begun recruiting researchers who lost their jobs in the administration’s cost-cutting efforts, or are anxious over perceived threats to academic freedom.
+* 欧洲大学已经开始招募在政府削减成本的努力中失去工作的研究人员，或者对学术自由受到威胁感到焦虑的研究人员。
+* American envoys talked with Russian officials on Monday, a day after meeting with a Ukrainian delegation. The initial discussions were expected to focus on halting attacks on energy facilities.
+* 美国特使在与乌克兰代表团会晤一天后，于周一与俄罗斯官员进行了会谈。最初的讨论预计将侧重于制止对能源设施的攻击。
+* The move was a significant shift toward leaders of the Haqqani network, which was behind some of the deadliest attacks during the war in Afghanistan.
+* 此举是向哈卡尼网络领导人的重大转变，该网络是阿富汗战争期间一些最致命袭击的幕后黑手。
+* Trepidation over the fate of other captives has left Ilana Gritzewsky little time for self-healing after her own violent abduction.
+* 对其他俘虏命运的担忧让伊拉娜·格里切夫斯基（ Ilana Gritzewsky ）在遭受暴力绑架后几乎没有时间自我愈合。
+* The arrest of Istanbul’s mayor on corruption charges has stoked worries that President Recep Tayyip Erdogan is becoming more authoritarian in seeking to sideline a top rival.
+* 伊斯坦布尔市长因腐败指控被捕，引发了人们的担忧，即总统雷杰普·塔伊普·埃尔多安（ Recep Tayyip Erdogan ）在寻求排挤一个最大竞争对手时变得更加专制。
 * For years, the country has failed to enact financial and governance overhauls required by lenders. The recent fighting has made that problem urgent.
 * 多年来，该国一直未能实施贷款人要求的金融和治理改革。最近的战斗使这个问题变得紧迫。
 * For four decades, a U.S.-financed broadcaster provoked the ire of the communist government in Cuba. President Trump dismantled it in a matter of days.
 * 四十年来，一家由美国资助的广播公司激起了古巴共产党政府的愤怒。特朗普总统在几天内将其拆除。
-* The legislature impeached Han Duck-soo in December, soon after impeaching President Yoon Suk Yeol for declaring martial law. Mr. Yoon’s fate is still unclear.
-* 去年12月，立法机关弹劾韩鸭秀，此前不久，韩国总统尹淑烈因宣布戒严而被弹劾。尹先生的命运还不清楚。
-* The British prime minister said in a series of conversations that the tectonic shifts in America’s relationship with Europe and Russia had to be a ‘galvanizing moment.’
-* 这位英国首相在一系列对话中表示，美国与欧洲和俄罗斯关系的构造转变必须是一个“激励人心的时刻”。
-* Documents and insiders reveal how one of the world’s major money laundering networks operates.
-* 文件和内部人士揭示了世界上主要洗钱网络之一的运作方式。
-* Dozens of stranded migrants sleep on mattresses in a school gymnasium. In interviews, 25 deportees from around the world said they were stuck in limbo.
-* 数十名滞留的移民睡在学校体育馆的床垫上。在采访中，来自世界各地的25名被驱逐者表示，他们陷入了困境。
-* Supporters of the mayor, Ekrem Imamoglu, said that corruption charges against him were a ploy to hobble the main political rival of President Recep Tayyip Erdogan.
-* 市长埃克雷姆·伊马莫格鲁（ Ekrem Imamoglu ）的支持者表示，针对他的腐败指控是挫败总统雷杰普·塔伊普·埃尔多安（ Recep Tayyip Erdogan ）的主要政治对手的伎俩。
 
 ## New York Times United States News
-* Judge Maryanne Trump Barry ruled that the law invoked against Mr. Khalil violated the Constitution by giving unfettered discretion to the secretary of state.
-* 玛丽安·特朗普·巴里（ Maryanne Trump Barry ）法官裁定，针对哈利勒的法律赋予国务卿不受约束的自由裁量权，违反了宪法。
-* The Bipartisan Policy Center estimates that the so-called X-date could fall between mid-July and early October if Congress does not lift or suspend the nation’s debt limit.
-* 两党政策中心估计，如果国会不取消或暂停国家的债务上限，所谓的X日期可能会在7月中旬至10月初之间。
-* Mr. Brown, the Ohio Democrat who lost his race for re-election last year, is forming the Dignity of Work Institute, which will highlight workers’ struggles.
-* 去年竞选连任的俄亥俄州民主党人布朗先生正在组建工作尊严研究所，该研究所将突出工人的斗争。
-* Nearly 350,000 people could soon face deportation after the Trump administration moved to end Temporary Protected Status, or T.P.S., for immigrants from that country.
-* 在特朗普政府采取行动结束对来自该国的移民的临时保护身份（ T.P.S. ）后，近35万人可能很快就会被驱逐出境。
-* A 911 call. A lockdown. A master key. Here’s what happened when the Trump administration seized control of a Washington institution.
-* 911报警，封锁万能钥匙。这是特朗普政府控制华盛顿机构时发生的事情。
-* The case, which centers on whether Louisiana’s congressional districts are an illegal racial gerrymander, tests the leeway that states have in drawing voting maps.
-* 该案件以路易斯安那州的国会选区是否是非法的种族划线者为中心，测试了各州在绘制投票地图方面的回旋余地。
-* Republicans in Montana and other states complain that liberal judges are tossing out the laws they pass. Now, conservative legislators are trying to change the rules, and the judges.
-* 蒙大拿州和其他州的共和党人抱怨说，自由派法官正在抛弃他们通过的法律。现在，保守的立法者正试图改变规则和法官。
-* Ms. Love, who represented Utah in Congress from 2015 to 2019, was diagnosed with brain cancer in 2022.
-* Love女士于2015年至2019年代表犹他州参加国会，于2022年被诊断出患有脑癌。
-* The beloved bald eagle was found dead in his enclosure at the World Bird Sanctuary in Missouri after severe weather pounded the region on March 14, sanctuary officials said.
-* 保护区官员说，在3月14日恶劣天气袭击该地区后，这只心爱的秃鹰被发现死在密苏里州世界鸟类保护区的围栏里。
-* The Department of Homeland Security said that a deportation flight to Venezuela carrying 199 people had landed.
-* 美国国土安全部表示，一架载有199人的驱逐出境航班已降落。
+* Iwao Hakamada, 89, who is believed to have been the world’s longest-serving death row inmate, was exonerated last year of a 1966 murder conviction.
+* 89岁的Iwao Hakamada被认为是世界上服刑时间最长的死刑犯，去年因1966年的谋杀罪被免除。
+* The largest-ever class of high school seniors is about to graduate, just as colleges are facing massive upheaval. Here’s what they could face as they head to campus.
+* 有史以来规模最大的高中毕业生即将毕业，而大学也面临着巨大的动荡。以下是他们前往校园时可能面临的问题。
+* Public health leaders are horrified by Robert F. Kennedy Jr.’s approach to measles, but government and industry are responding to him.
+* 公共卫生领导人对小罗伯特· F ·肯尼迪（ Robert F. Kennedy Jr. ）应对麻疹的方法感到震惊，但政府和行业正在回应他。
+* People in Maverick County spend months in jail waiting to be charged with minor crimes. Some are simply lost in the system.
+* 马弗里克县的人们在监狱里呆了几个月，等待被指控犯有轻微罪行。有些只是在系统中丢失。
+* The war in Gaza brought more students into the Hillel fold, but has sown divisions among Jewish students over the group’s mission.
+* 加沙的战争将更多的学生带入了希勒尔家族，但在犹太学生中对该组织的使命产生了分歧。
+* On Tuesday, America’s top intelligence officials will release their current assessment of Russia. They are caught between what their analysts say and what President Trump wants to hear.
+* 周二，美国最高情报官员将公布他们目前对俄罗斯的评估。他们陷入了分析师所说的话和特朗普总统想听到的话之间。
+* Tesla might be suffering, but SpaceX is poised to profit off billions in new government contracts
+* 特斯拉可能正在遭受损失，但SpaceX有望从新的政府合同中获利数十亿美元
+* Law enforcement agencies were encouraged to pursue vandals but should not investigate “constitutionally protected activity” directed at Elon Musk, the assessment found.
+* 评估发现，执法机构被鼓励追查破坏者，但不应调查针对伊隆·马斯克的“受宪法保护的活动”。
+* A 16-year-old was riding a snowmobile in the Kenai Mountains when he was swept away and buried, officials said.
+* 官员说，一名16岁的男孩在基奈山脉乘坐雪地摩托车时被扫走并埋葬。
+* The billionaire Elon Musk has become fixated on finding fraud inside the agency, which provides retirement, survivor and disability payments to 73 million Americans each month.
+* 亿万富翁埃隆·马斯克（ Elon Musk ）已经开始关注该机构内部的欺诈行为，该机构每月向7300万美国人提供退休、幸存者和残疾补助金。
 
 ## New York Times Asia News
+* It’s no Bondi Beach, but Pondi, or Penrith Beach, has been a welcome relief to the city’s sweltering western suburbs.
+* 这里不是邦迪海滩（ Bondi Beach ） ，但庞迪海滩（ Pondi ）或彭里斯海滩（ Penrith Beach ）让这座城市闷热的西部郊区松了一口气。
+* The release of the five employees, detained during a crackdown on foreign due diligence, comes as Beijing is trying to bring back overseas investment.
+* 在打击外国尽职调查期间被拘留的五名员工获释之际，北京正试图带回海外投资。
+* Mr. Han, a longtime Samsung executive, oversaw the company’s consumer electronics business since 2021.
+* 韩先生是三星的长期高管，自2021年以来一直负责监管该公司的消费电子业务。
+* Plus, the practical magic of “speedcubing.”
+* 此外，还有“Speedcubing”的实用魔力。
+* K-pop’s most imaginative group has been battling its powerhouse label. Our critic watched as its first concert in months was upended by a court ruling.
+* 韩国流行乐最富有想象力的乐队一直在与其强大的品牌作斗争。我们的评论家观看了几个月来的第一场音乐会，结果被法院裁决颠覆了。
+* The move was a significant shift toward leaders of the Haqqani network, which was behind some of the deadliest attacks during the war in Afghanistan.
+* 此举是向哈卡尼网络领导人的重大转变，该网络是阿富汗战争期间一些最致命袭击的幕后黑手。
+* The city-state, where it costs up to $84,000 just for the right to own a car, is one of the most expensive places to drive. That is by design.
+* 这座城市州仅拥有一辆汽车的权利就要花费高达84,000美元，是最昂贵的驾驶场所之一。这是精心设计的。
+* Japanese automakers, initially optimistic about some of President Trump’s policies, are reckoning with potentially devastating U.S. taxes on foreign-made cars.
+* 最初对特朗普总统的一些政策持乐观态度的日本汽车制造商正在考虑美国对外国制造汽车征收潜在的破坏性税收。
+* Makers of a vast array of American products are weighing the risks, and potential payoffs, of the sweeping tariffs the president has promised on April 2.
+* 大量美国产品的制造商正在权衡总统4月2日承诺的全面关税的风险和潜在回报。
 * The legislature impeached Han Duck-soo in December, soon after impeaching President Yoon Suk Yeol for declaring martial law. Mr. Yoon’s fate is still unclear.
 * 去年12月，立法机关弹劾韩鸭秀，此前不久，韩国总统尹淑烈因宣布戒严而被弹劾。尹先生的命运还不清楚。
-* Plus, how scammers make money vanish.
-* 此外，诈骗者如何赚钱也会消失。
-* Lai Ching-te, the president of Taiwan, may be betting that China’s appetite for retaliation will be limited by Beijing’s interest in containing tensions with the Trump administration.
-* 台湾总统赖清德(Lai Ching-te)可能押注，中国的报复意愿将受到北京方面遏制与特朗普政府紧张关系的兴趣的限制。
-* Firefighters confronted the blazes in the country’s southeast over the weekend. Most had been extinguished by Monday, but dry and windy conditions persisted.
-* 上周末，消防队员在该国东南部对抗大火。大多数已于周一熄灭，但干燥和多风的条件仍然存在。
-* Documents and insiders reveal how one of the world’s major money laundering networks operates.
-* 文件和内部人士揭示了世界上主要洗钱网络之一的运作方式。
-* Our reporters went into a notorious refuge for scammers and fraudsters, and emerged with a how-to guide.
-* 我们的记者进入了一个臭名昭著的骗子和欺诈者的避难所，并获得了操作指南。
-* Senator Steve Daines said in an interview that in meetings with Chinese officials, he called for talks between President Trump and China’s leader, Xi Jinping.
-* 参议员史蒂夫·戴恩斯（ Steve Daines ）在接受采访时表示，在与中国官员的会晤中，他呼吁特朗普总统与中国领导人习近平进行会谈。
-* Over the years, the Taiwanese art world has blossomed, thanks partly to the gallerists Tina Keng and Shelly Wu, who have championed Chinese and Taiwanese artists.
-* 多年来，台湾艺术界蓬勃发展，部分归功于画廊主Tina Keng和Shelly Wu ，他们一直支持中国和台湾艺术家。
-* The country’s former tribal areas bordering Afghanistan are plagued by escalating militancy, leading to widespread disillusionment.
-* 该国与阿富汗接壤的前部落地区受到不断升级的激进主义的困扰，导致广泛的幻想破灭。
-* Mass rallies for and against Yoon Suk Yeol filled the streets on Saturday as the Constitutional Court prepared to rule on whether his ill-fated imposition of martial law justified removal.
-* 周六，支持和反对Yoon Suk Yeol的群众集会充斥着街道，因为宪法法院准备裁定他命中注定的戒严法是否有理由撤职。
 
