@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* European leaders are struggling to find the money and the political will to replace the bulk of the U.S. contribution to Ukraine and to their own defense.
+* 欧洲领导人正在努力寻找资金和政治意愿，以取代美国对乌克兰和自身防御的大部分贡献。
+* The residents of Fanalei Island, in the Solomon Islands, say the lucrative hunts will help them buy land elsewhere and move off their sinking home.
+* 所罗门群岛法纳莱伊岛的居民表示，利润丰厚的狩猎活动将帮助他们在其他地方购买土地，并搬离他们下沉的家园。
+* It could cost $100 million and take years to install the backup generators to prevent another hourslong power loss like the one at Britain’s biggest airport last week.
+* 安装备用发电机可能需要花费1亿美元和数年时间，以防止上周在英国最大的机场再次发生长达数小时的电力损失。
+* It remains unclear if a deal to ensure safe shipping in the Black Sea, which came with many caveats, could come into effect soon.
+* 目前尚不清楚确保黑海安全航运的协议是否会很快生效，该协议附带许多警告。
+* Since World War II, American forces have been stationed on the island. Today, from a remote outpost, they watch the skies.
+* 自第二次世界大战以来，美军一直驻扎在岛上。如今，他们从一个偏远的前哨站俯瞰天空。
+* Marook, a sweet bread eaten during Ramadan in Syria, used to be a simple loaf, but now the list of choices can be as long as the lines of customers.
+* Marook是一种在叙利亚斋月期间吃的甜面包，曾经是一种简单的面包，但现在的选择清单可以和顾客一样长。
+* Trump officials have demanded more European military spending and questioned the continent’s values. Leaked messages show the depth of the rift.
+* 特朗普官员要求增加欧洲军费开支，并对欧洲大陆的价值观提出质疑。泄露的消息显示了裂缝的深度。
+* Hamdan Ballal said he was struck as he guarded his home during an attack by settlers. The Israeli authorities said he had been detained on suspicion of throwing stones, which he denied.
+* Hamdan Ballal说，他在定居者的袭击中守卫家园时被击中。以色列当局说，他因涉嫌投掷石块而被拘留，但他否认了这一指控。
 * It’s no Bondi Beach, but Pondi, or Penrith Beach, has been a welcome relief to the city’s sweltering western suburbs.
 * 这里不是邦迪海滩（ Bondi Beach ） ，但庞迪海滩（ Pondi ）或彭里斯海滩（ Penrith Beach ）让这座城市闷热的西部郊区松了一口气。
 * The steel shell that encloses the site of the world’s worst nuclear disaster was built to endure for a century. But war was a scenario its engineers never envisioned.
 * 围绕着世界上最严重的核灾难遗址的钢壳是为了承受一个世纪而建造的。但战争是其工程师从未设想过的情景。
-* The class of lawmakers taking office is noticeably more male and less diverse than the constituents it will represent.
-* 与它将代表的选民相比，就职的立法者阶层明显更具男性性，多样性更少。
-* European universities have begun recruiting researchers who lost their jobs in the administration’s cost-cutting efforts, or are anxious over perceived threats to academic freedom.
-* 欧洲大学已经开始招募在政府削减成本的努力中失去工作的研究人员，或者对学术自由受到威胁感到焦虑的研究人员。
-* American envoys talked with Russian officials on Monday, a day after meeting with a Ukrainian delegation. The initial discussions were expected to focus on halting attacks on energy facilities.
-* 美国特使在与乌克兰代表团会晤一天后，于周一与俄罗斯官员进行了会谈。最初的讨论预计将侧重于制止对能源设施的攻击。
-* The move was a significant shift toward leaders of the Haqqani network, which was behind some of the deadliest attacks during the war in Afghanistan.
-* 此举是向哈卡尼网络领导人的重大转变，该网络是阿富汗战争期间一些最致命袭击的幕后黑手。
-* Trepidation over the fate of other captives has left Ilana Gritzewsky little time for self-healing after her own violent abduction.
-* 对其他俘虏命运的担忧让伊拉娜·格里切夫斯基（ Ilana Gritzewsky ）在遭受暴力绑架后几乎没有时间自我愈合。
-* The arrest of Istanbul’s mayor on corruption charges has stoked worries that President Recep Tayyip Erdogan is becoming more authoritarian in seeking to sideline a top rival.
-* 伊斯坦布尔市长因腐败指控被捕，引发了人们的担忧，即总统雷杰普·塔伊普·埃尔多安（ Recep Tayyip Erdogan ）在寻求排挤一个最大竞争对手时变得更加专制。
-* For years, the country has failed to enact financial and governance overhauls required by lenders. The recent fighting has made that problem urgent.
-* 多年来，该国一直未能实施贷款人要求的金融和治理改革。最近的战斗使这个问题变得紧迫。
-* For four decades, a U.S.-financed broadcaster provoked the ire of the communist government in Cuba. President Trump dismantled it in a matter of days.
-* 四十年来，一家由美国资助的广播公司激起了古巴共产党政府的愤怒。特朗普总统在几天内将其拆除。
 
 ## New York Times United States News
-* Iwao Hakamada, 89, who is believed to have been the world’s longest-serving death row inmate, was exonerated last year of a 1966 murder conviction.
-* 89岁的Iwao Hakamada被认为是世界上服刑时间最长的死刑犯，去年因1966年的谋杀罪被免除。
-* The largest-ever class of high school seniors is about to graduate, just as colleges are facing massive upheaval. Here’s what they could face as they head to campus.
-* 有史以来规模最大的高中毕业生即将毕业，而大学也面临着巨大的动荡。以下是他们前往校园时可能面临的问题。
-* Public health leaders are horrified by Robert F. Kennedy Jr.’s approach to measles, but government and industry are responding to him.
-* 公共卫生领导人对小罗伯特· F ·肯尼迪（ Robert F. Kennedy Jr. ）应对麻疹的方法感到震惊，但政府和行业正在回应他。
-* People in Maverick County spend months in jail waiting to be charged with minor crimes. Some are simply lost in the system.
-* 马弗里克县的人们在监狱里呆了几个月，等待被指控犯有轻微罪行。有些只是在系统中丢失。
-* The war in Gaza brought more students into the Hillel fold, but has sown divisions among Jewish students over the group’s mission.
-* 加沙的战争将更多的学生带入了希勒尔家族，但在犹太学生中对该组织的使命产生了分歧。
-* On Tuesday, America’s top intelligence officials will release their current assessment of Russia. They are caught between what their analysts say and what President Trump wants to hear.
-* 周二，美国最高情报官员将公布他们目前对俄罗斯的评估。他们陷入了分析师所说的话和特朗普总统想听到的话之间。
-* Tesla might be suffering, but SpaceX is poised to profit off billions in new government contracts
-* 特斯拉可能正在遭受损失，但SpaceX有望从新的政府合同中获利数十亿美元
-* Law enforcement agencies were encouraged to pursue vandals but should not investigate “constitutionally protected activity” directed at Elon Musk, the assessment found.
-* 评估发现，执法机构被鼓励追查破坏者，但不应调查针对伊隆·马斯克的“受宪法保护的活动”。
-* A 16-year-old was riding a snowmobile in the Kenai Mountains when he was swept away and buried, officials said.
-* 官员说，一名16岁的男孩在基奈山脉乘坐雪地摩托车时被扫走并埋葬。
-* The billionaire Elon Musk has become fixated on finding fraud inside the agency, which provides retirement, survivor and disability payments to 73 million Americans each month.
-* 亿万富翁埃隆·马斯克（ Elon Musk ）已经开始关注该机构内部的欺诈行为，该机构每月向7300万美国人提供退休、幸存者和残疾补助金。
+* Top lawmakers say the White House must provide a full accounting of actions surrounding sensitive military information shared on a text chain that included a journalist.
+* 高级立法者表示，白宫必须全面说明围绕在包括记者在内的文本链上共享的敏感军事信息的行动。
+* Pride organizers say major longtime backers are reducing their support as corporate America retreats from diversity initiatives under President Trump.
+* PRIDE组织者表示，随着美国企业退出特朗普总统的多元化举措，主要的长期支持者正在减少他们的支持。
+* A four-term Democratic senator from Louisiana, he pushed for nuclear power and ending the nation’s reliance on foreign oil.
+* 作为路易斯安那州四届民主党参议员，他推动核电，并结束了该国对外国石油的依赖。
+* The judge’s temporary restraining order will allow the federally funded broadcaster to stay open at least until March 28.
+* 法官的临时限制令将允许联邦政府资助的广播公司至少在3月28日之前保持开放。
+* The gunman, who killed 23 people at a Walmart in 2019, was previously sentenced to 90 consecutive life terms after pleading guilty to federal hate crimes.
+* 这名枪手于2019年在沃尔玛杀害了23人，此前在承认犯有联邦仇恨罪后被判处连续90年无期徒刑。
+* Administration officials cited cracking down on immigrants illegally on voter rolls as one of the executive order’s main goals, amplifying Mr. Trump’s grievances about electoral integrity.
+* 政府官员将打击选民名册上的非法移民列为行政命令的主要目标之一，这加剧了特朗普对选举诚信的不满。
+* Devon Archer had won fans on the right for cooperating with congressional Republicans investigating the Biden family.
+* 德文·阿切尔（ Devon Archer ）赢得了右翼的粉丝，因为他与国会共和党人合作调查拜登家族。
+* An executive order underscored the extent to which the president, who faced four indictments after he left office, aims to exact a price from anyone associated with past investigations of him.
+* 一项行政命令强调了总统在离任后面临四项起诉的程度，旨在向与过去对他的调查有关的任何人收取费用。
+* The disclosure of battle plans on a chat app created a new predicament for the defense secretary.
+* 在聊天应用程序上披露作战计划给国防部长带来了新的困境。
+* The ruling is a victory for the publishers and free speech advocates who challenged the law, but the judge’s decision is far from final.
+* 这项裁决是挑战法律的出版商和言论自由倡导者的胜利，但法官的裁决远非最终决定。
 
 ## New York Times Asia News
+* Masaki Kashiwara received the honor, often regarded as the Nobel Prize in mathematics, for work that combined different mathematical fields to solve challenging problems.
+* 柏原正树（ Masaki Kashiwara ）因其将不同的数学领域结合起来解决具有挑战性的问题的工作而获得了这一荣誉，通常被认为是诺贝尔数学奖。
+* A South Korean truth commission called for the country to apologize to those who were sent abroad “like luggage” so that adoption agencies could profit.
+* 一个韩国真相委员会呼吁该国向那些“像行李一样”被送往国外的人道歉，以便收养机构可以获利。
+* At least 24 people are dead, including the pilot of a helicopter that crashed during efforts to contain fires that have burned for days, fueled by strong winds.
+* 至少有24人死亡，其中包括一架直升机的飞行员，该直升机在试图遏制因强风而燃烧数天的大火时坠毁。
+* The residents of Fanalei Island, in the Solomon Islands, say the lucrative hunts will help them buy land elsewhere and move off their sinking home.
+* 所罗门群岛法纳莱伊岛的居民表示，利润丰厚的狩猎活动将帮助他们在其他地方购买土地，并搬离他们下沉的家园。
+* An abundance of motivated young professionals is luring American businesses to base their global operations in Indian cities.
+* 大量充满活力的年轻专业人士正在吸引美国企业将其全球业务设在印度城市。
+* Plus, the hit series “Adolescence.”
+* 此外，还有热门剧集《青春期》。
+* Indian agents raised money and helped organize support in 2022 for Pierre Poilievre, the Conservative leader, news outlets reported, citing intelligence officials.
+* 据新闻媒体报道，印度特工在2022年筹集资金并帮助组织对保守党领袖皮埃尔·波利耶夫尔（ Pierre Poilievre ）的支持，并援引情报官员的话说。
+* Prime Minister Narendra Modi has said criticism is “the soul” of Indian democracy. But his allies unleashed vigilantes after a comic who called a politician a “traitor.”
+* 印度总理纳伦德拉·莫迪（ Narendra Modi ）曾表示，批评是印度民主的“灵魂”。但他的盟友在一位称政治家为“叛徒”的漫画之后释放了治安维持者。
+* The assassination in 2022 of Shinzo Abe, the country’s former prime minister, led to an investigation into the group’s political ties and manipulation of its followers to raise funds.
+* 2022年，该国前首相安倍晋三遇刺身亡，导致对该组织的政治关系进行调查，并操纵其追随者筹集资金。
 * It’s no Bondi Beach, but Pondi, or Penrith Beach, has been a welcome relief to the city’s sweltering western suburbs.
 * 这里不是邦迪海滩（ Bondi Beach ） ，但庞迪海滩（ Pondi ）或彭里斯海滩（ Penrith Beach ）让这座城市闷热的西部郊区松了一口气。
-* The release of the five employees, detained during a crackdown on foreign due diligence, comes as Beijing is trying to bring back overseas investment.
-* 在打击外国尽职调查期间被拘留的五名员工获释之际，北京正试图带回海外投资。
-* Mr. Han, a longtime Samsung executive, oversaw the company’s consumer electronics business since 2021.
-* 韩先生是三星的长期高管，自2021年以来一直负责监管该公司的消费电子业务。
-* Plus, the practical magic of “speedcubing.”
-* 此外，还有“Speedcubing”的实用魔力。
-* K-pop’s most imaginative group has been battling its powerhouse label. Our critic watched as its first concert in months was upended by a court ruling.
-* 韩国流行乐最富有想象力的乐队一直在与其强大的品牌作斗争。我们的评论家观看了几个月来的第一场音乐会，结果被法院裁决颠覆了。
-* The move was a significant shift toward leaders of the Haqqani network, which was behind some of the deadliest attacks during the war in Afghanistan.
-* 此举是向哈卡尼网络领导人的重大转变，该网络是阿富汗战争期间一些最致命袭击的幕后黑手。
-* The city-state, where it costs up to $84,000 just for the right to own a car, is one of the most expensive places to drive. That is by design.
-* 这座城市州仅拥有一辆汽车的权利就要花费高达84,000美元，是最昂贵的驾驶场所之一。这是精心设计的。
-* Japanese automakers, initially optimistic about some of President Trump’s policies, are reckoning with potentially devastating U.S. taxes on foreign-made cars.
-* 最初对特朗普总统的一些政策持乐观态度的日本汽车制造商正在考虑美国对外国制造汽车征收潜在的破坏性税收。
-* Makers of a vast array of American products are weighing the risks, and potential payoffs, of the sweeping tariffs the president has promised on April 2.
-* 大量美国产品的制造商正在权衡总统4月2日承诺的全面关税的风险和潜在回报。
-* The legislature impeached Han Duck-soo in December, soon after impeaching President Yoon Suk Yeol for declaring martial law. Mr. Yoon’s fate is still unclear.
-* 去年12月，立法机关弹劾韩鸭秀，此前不久，韩国总统尹淑烈因宣布戒严而被弹劾。尹先生的命运还不清楚。
 
