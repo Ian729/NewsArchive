@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The Abu Teirs thought the Israel-Hamas cease-fire might mean they could start to rebuilding their lives. But a new round of Israeli airstrikes dashed those dreams.
+* Investors’ shock at the size of the levies sent markets in Asia sharply lower. Experts warned that the global economy could be upended.
+* 投资者对征税规模的震惊导致亚洲市场大幅下跌。专家警告说，全球经济可能会被颠覆。
+* In spite of a prolonged charm offensive by Prime Minister Keir Starmer, President Trump said that Britain would be hit with the universal base rate levied on all countries.
+* 尽管英国首相基尔·斯塔默(Keir Starmer)长期发动魅力攻势，但特朗普总统表示，英国将受到对所有国家征收的普遍基本税率的打击。
+* The announcement came hours after Prime Minister Benjamin Netanyahu of Israel arrived in the country for a visit despite facing an international arrest warrant.
+* 以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）在面临国际逮捕令的情况下抵达该国进行访问，几小时后宣布了这一消息。
+* This week, the police questioned Prime Minister Benjamin Netanyahu amid claims that members of his team worked simultaneously for the state of Qatar. He is not a suspect, but two of his media advisers have been arrested.
+* 本周，警方对总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）进行了质询，声称他的团队成员同时为卡塔尔国工作。他不是嫌疑人，但他的两名媒体顾问已被捕。
+* Senior General Min Aung Hlaing, who has long been treated like a pariah on the global stage, is visiting Bangkok barely a week after an earthquake that killed at least 3,000 people in his country.
+* 长期以来，在全球舞台上被当作贱民对待的敏昂莱大将（ Min Aung Hlaing ）在曼谷发生地震后不到一周就访问了曼谷，地震造成该国至少3000人死亡。
+* Emissaries of the “United States of Kailasa,” led by a fugitive holy man, were deported after negotiating 1,000-year deals with Indigenous groups.
+* 由一名在逃圣人领导的“凯拉萨合众国”的使者在与土著群体谈判千年协议后被驱逐出境。
+* The scene in the Chinese territory is concentrated at a few beaches with inconsistent swell. One intrepid surfer says it’s all about “turning nothing into something.”
+* 中国领土上的景象集中在几个海滩，涌浪不一致。一位勇敢的冲浪者说，这一切都是为了“把什么都变成什么”。
+* The death of the actress Kim Sae-ron has plunged her former boyfriend, the superstar actor Kim Soo-hyun, into the biggest crisis of his career.
+* 女演员Kim Sae-ron的去世使她的前男友，超级明星演员Kim Soo-hyun陷入了他职业生涯中最大的危机。
+* The Abu Teirs thought the Israel-Hamas cease-fire might mean they could start to rebuild their lives. But a new round of Israeli airstrikes dashed those dreams.
 * 阿布提尔人认为，以色列-哈马斯停火可能意味着他们可以开始重建生活。但新一轮的以色列空袭粉碎了这些梦想。
-* Israel Katz warned that “large areas” of the enclave would be seized and added to security zones controlled by the military.
-* 以色列卡茨警告说，飞地的“大片区域”将被没收，并增加到军方控制的安全区。
-* Workers said poor-quality materials were used during construction by a Chinese developer as it sought to cut costs. Investigators also said they found substandard steel bars in the rubble.
-* 工人们说，一家中国开发商在施工期间使用了劣质材料，因为它试图削减成本。调查人员还表示，他们在瓦砾中发现了不合格的钢筋。
 * The $4 billion project was the Biden administration’s signature initiative in Africa. Early signs are that the Trump team supports it, too, for mineral access if nothing else.
 * 这个耗资40亿美元的项目是拜登政府在非洲的标志性举措。早期迹象表明，特朗普团队也支持采矿权。
-* The ruling junta has vowed to continue military operations that include airstrikes against rebel groups, even as aid organizations struggle to reach devastated areas.
-* 执政的军政府已发誓要继续军事行动，包括对反叛组织的空袭，即使援助组织正在努力到达受灾地区。
-* The barges, which link up to form a bridge, could give China a way to land large numbers of vehicles and troops on Taiwan, solving a major logistical problem.
-* 这些驳船连接起来形成一座桥梁，可以为中国提供一种在台湾降落大量车辆和部队的方法，解决一个重大的后勤问题。
-* The Irving family businesses dominate Saint John, New Brunswick. They are a major employer, but residents say those jobs have come with a steep cost.
-* 欧文家族企业主导着新不伦瑞克省的圣约翰。他们是一个主要的雇主，但居民说，这些工作的成本很高。
-* After dozens of men were convicted of raping a drugged Gisèle Pelicot, lawmakers moved to require that consent be given for sex to be considered consensual.
-* 在数十名男子因强奸吸毒的Gisèle Pelicot而被定罪后，立法者采取行动，要求同意将性行为视为双方同意。
-* The militias that control the Druse religious minority’s heartland in southwestern Syria have resisted the new government’s attempts to bring all armed groups under its control.
-* 控制叙利亚西南部德鲁兹宗教少数群体腹地的民兵抵制了新政府试图将所有武装团体置于其控制之下的企图。
-* The Russian government has unleashed a wave of repression against L.G.B.T.Q. people, with the police raiding gay night clubs and investigators targeting people they suspect of being gay.
-* 俄罗斯政府对LGBTQ人群发动了一波镇压，警方突袭了同性恋夜总会和调查人员，针对的是他们怀疑是同性恋者的人。
 
 ## New York Times United States News
-* In an interview, the Texas attorney general attacked Senator John Cornyn as out of touch, and said he had talked to people close to President Trump about an endorsement.
-* 在一次采访中，德克萨斯州总检察长抨击参议员约翰·科宁（ John Cornyn ）脱节，并表示他曾与特朗普总统亲近的人就代言事宜进行过交谈。
-* The party’s position remains dire. But a judicial victory in Wisconsin and closer-than-expected losses in Florida suggest a once-demoralized Democratic base is animated again.
-* 该党的立场仍然严峻。但威斯康星州的司法胜利和佛罗里达州接近于预期的失利表明，曾经士气低落的民主党基础再次变得活跃起来。
-* Óscar Arias Sánchez, twice president of Costa Rica, has been a vocal critic of President Trump, describing him as acting like a “Roman emperor.”
-* 两次担任哥斯达黎加总统的奥斯卡·阿里亚斯·桑切斯（ Óscar Arias Sánchez ）一直直言不讳地批评特朗普总统，称他表现得像个“罗马皇帝”。
-* T. Elliot Gaiser will be nominated to lead the influential Office of Legal Counsel, a department official said.
-* 一位部门官员表示， T. Elliot Gaiser将被提名领导有影响力的法律顾问办公室。
-* Energized against the new Trump era, and against Elon Musk, Democrats pulled off a crucial judicial victory in Wisconsin and cut into Republican margins in two Florida congressional races.
-* 民主党人对特朗普新时代和埃隆·马斯克（ Elon Musk ）充满活力，在威斯康星州取得了关键的司法胜利，并在佛罗里达州的两次国会竞选中削减了共和党的优势。
-* The pause is limited to certain states while the case proceeds, narrowing the scope of an earlier order that had paused firings nationwide and led to the reinstatement of thousands of federal employees.
-* 在案件进行期间，暂停仅限于某些州，缩小了先前在全国范围内暂停解雇并导致数千名联邦雇员复职的命令的范围。
-* Susan Crawford defeated Brad Schimel for a State Supreme Court seat in a race that shattered spending records and maintained a liberal majority on the court.
-* 苏珊·克劳福德（ Susan Crawford ）在一场比赛中击败了布拉德·施梅尔（ Brad Schimel ） ，获得了州最高法院的席位，这场比赛打破了支出记录，
-* The state has required voters to use photograph identification for nearly a decade, but an amendment to the Wisconsin Constitution was seen as making it more difficult to roll back that rule.
-* 近十年来，威斯康星州一直要求选民使用带照片的身份证件，但威斯康星州宪法的修正案被认为使该规则更难以推翻。
-* Another round of “deferred resignation” offers is part of the Trump administration’s stepped-up effort to rapidly downsize the government.
-* 另一轮“推迟辞职”提议是特朗普政府加紧努力迅速缩减政府规模的一部分。
-* California Democrats rejected two Republican bills that would have banned transgender athletes from female sports. In a rare turn, Republicans tried to use the Democratic governor’s own words to challenge Democrats.
-* 加利福尼亚州民主党人拒绝了两项禁止跨性别运动员参加女子运动的共和党法案。在罕见的转变中，共和党人试图用民主党州长自己的话来挑战民主党人。
+* President Trump’s announcement went beyond most predictions, showing a greater willingness to follow his instincts even when critics — and some allies — consider failure a likely outcome.
+* 特朗普总统的声明超出了大多数预测，表明即使在批评者和一些盟友认为失败是可能的结果时，他也更愿意遵循自己的直觉。
+* The lawyer of the white supremacist who slaughtered 23 people in 2019 said his client was inspired by President Trump’s words, the same the president is using today.
+* 这位白人至上主义者的律师在2019年屠杀了23人，他说他的当事人受到特朗普总统的话的启发，就像总统今天所使用的那样。
+* The secretary of state’s trip comes amid an abrupt shift in relations between the United States and Europe after close cooperation during the Biden era.
+* 这位国务卿的访问是在拜登时代密切合作后美国和欧洲关系突然转变之际进行的。
+* Mark Green, a Republican who once worked under President Trump, stepped down as head of the Wilson Center after employees of Elon Musk’s team visited the think tank.
+* 曾在特朗普总统手下工作的共和党人马克·格林（ Mark Green ）在埃隆·马斯克（ Elon Musk ）团队的员工访问该智囊团后辞去了威尔逊中心的负责人职务。
+* G.O.P. leaders are planning to use the “nuclear option” to steer around the Senate’s in-house referee and allow the use of a gimmick that makes trillions of dollars in tax cuts appear to be free.
+* 共和党领导人正计划使用“核选项”来绕过参议院的内部裁判，并允许使用一种噱头，使数万亿美元的减税看起来是免费的。
+* Republicans began investigating ActBlue, the Democratic Party’s main fund-raising platform, last year in part of a broader bid to target key Democratic organizations.
+* 共和党人去年开始调查民主党的主要筹款平台ActBlue ，这是针对民主党关键组织的更广泛努力的一部分。
+* In February, security camera footage showed a masked figure spraying the reindeer with an unknown liquid. The police have no leads.
+* 今年2月，监控录像显示，一个蒙面人物在驯鹿身上喷洒了一种不明液体。警方没有任何线索。
+* After a failed $20 million effort to tilt a State Supreme Court race, Elon Musk joins the ranks of billionaires frustrated by the laws of politics.
+* 在2000万美元的州最高法院竞选失败后，埃隆·马斯克(Elon Musk)加入了因政治法律而受挫的亿万富翁行列。
+* The administration concluded last month that Maine had violated federal law by allowing transgender athletes to play on girls’ or women’s teams.
+* 政府上个月得出结论，缅因州允许跨性别运动员参加女子或女子球队，违反了联邦法律。
+* The former president was taking a morning walk just as two young siblings posed with the Washington Monument and cherry blossoms serving as a perfect backdrop.
+* 这位前总统正在早上散步，就像两个年轻的兄弟姐妹摆出华盛顿纪念碑和樱花作为完美背景的姿势一样。
 
 ## New York Times Asia News
+* Senior General Min Aung Hlaing, who has long been treated like a pariah on the global stage, is visiting Bangkok barely a week after an earthquake that killed at least 3,000 people in his country.
+* 长期以来，在全球舞台上被当作贱民对待的敏昂莱大将（ Min Aung Hlaing ）在曼谷发生地震后不到一周就访问了曼谷，地震造成该国至少3000人死亡。
+* Not even America’s closest trading partners were spared by a policy broadside that spooked investors and left policymakers scrambling to formulate responses.
+* 即使是美国最亲密的贸易伙伴也未能幸免于政策宽边，这吓坏了投资者，并使政策制定者争先恐后地制定应对措施。
+* Japan has refrained from talk of striking back at U.S. tariffs. Trade experts say that is because its inflation-strained economy limits its options.
+* 日本一直没有反击美国关税的言论。贸易专家表示，这是因为其通货膨胀紧张的经济限制了其选择。
+* The scene in the Chinese territory is concentrated at a few beaches with inconsistent swell. One intrepid surfer says it’s all about “turning nothing into something.”
+* 中国领土上的景象集中在几个海滩，涌浪不一致。一位勇敢的冲浪者说，这一切都是为了“把什么都变成什么”。
+* Emissaries of the “United States of Kailasa,” led by a fugitive holy man, were deported after negotiating 1,000-year deals with Indigenous groups.
+* 由一名在逃圣人领导的“凯拉萨合众国”的使者在与土著群体谈判千年协议后被驱逐出境。
+* The death of the actress Kim Sae-ron has plunged her former boyfriend, the superstar actor Kim Soo-hyun, into the biggest crisis of his career.
+* 女演员Kim Sae-ron的去世使她的前男友，超级明星演员Kim Soo-hyun陷入了他职业生涯中最大的危机。
+* Plus, David Hockney’s biggest show.
+* 此外，还有大卫·霍克尼（ David Hockney ）最盛大的
+* Democratic senators said in a letter that the administration was failing its first test of humanitarian aid as China and Russia send teams to help.
+* 民主党参议员在一封信中表示，随着中国和俄罗斯派遣团队提供帮助，政府未能通过首次人道主义援助测试。
 * Workers said poor-quality materials were used during construction by a Chinese developer as it sought to cut costs. Investigators also said they found substandard steel bars in the rubble.
 * 工人们说，一家中国开发商在施工期间使用了劣质材料，因为它试图削减成本。调查人员还表示，他们在瓦砾中发现了不合格的钢筋。
 * A family business in Ottawa that makes special shoulder rests for violins is imperiled by both Trump’s tariffs on Canada and potential Canadian retaliation.
 * 渥太华一家为小提琴制造特殊肩托的家族企业受到特朗普对加拿大的关税和加拿大潜在报复的威胁。
-* We found restaurants (and one amazing sausage stand) in stations in Paris, New York, Kyoto and beyond, where travelers can eat well before or after their journeys.
-* 我们在巴黎、纽约、京都及其他地方的车站找到了餐厅（和一个令人惊叹的香肠摊） ，旅行者可以在旅程开始前或结束后在那里享用美食。
-* A longtime visitor returns to the post-pandemic city, finding it as varied and sophisticated as ever, and newly powered by digital commerce, with challenges for travelers.
-* 一位长期游客回到疫情后的城市，发现它一如既往地多样化和复杂化，并且新近由数字商务驱动，给旅行者带来了挑战。
-* The ruling junta has vowed to continue military operations that include airstrikes against rebel groups, even as aid organizations struggle to reach devastated areas.
-* 执政的军政府已发誓要继续军事行动，包括对反叛组织的空袭，即使援助组织正在努力到达受灾地区。
-* The barges, which link up to form a bridge, could give China a way to land large numbers of vehicles and troops on Taiwan, solving a major logistical problem.
-* 这些驳船连接起来形成一座桥梁，可以为中国提供一种在台湾降落大量车辆和部队的方法，解决一个重大的后勤问题。
-* Plus, the enigmatic “goddess” of the piano.
-* 此外，还有神秘的钢琴“女神”。
-* Mohammad Rahim Wahidi, a lawful permanent resident of the United States, was detained for more than 30 hours upon returning to the country over the weekend.
-* 美国合法永久居民穆罕默德·拉希姆·瓦希迪（ Mohammad Rahim Wahidi ）在周末返回美国后被拘留了30多个小时。
-* The order comes as President Trump expands deportation efforts, including of students who have spoken out in support of Palestinians during Israel’s war in Gaza.
-* 这项命令是在特朗普总统扩大驱逐行动之际发布的，其中包括在以色列加沙战争期间为支持巴勒斯坦人而大声疾呼的学生。
-* Large quakes produce shaking at a variety of frequencies. Some waves can travel hundreds of miles, and are amplified by local geological conditions.
-* 大地震会产生各种频率的震动。有些海浪可以行进数百英里，并因当地地质条件而放大。
 
