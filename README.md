@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Investors’ shock at the size of the levies sent markets in Asia sharply lower. Experts warned that the global economy could be upended.
-* 投资者对征税规模的震惊导致亚洲市场大幅下跌。专家警告说，全球经济可能会被颠覆。
-* In spite of a prolonged charm offensive by Prime Minister Keir Starmer, President Trump said that Britain would be hit with the universal base rate levied on all countries.
-* 尽管英国首相基尔·斯塔默(Keir Starmer)长期发动魅力攻势，但特朗普总统表示，英国将受到对所有国家征收的普遍基本税率的打击。
-* The announcement came hours after Prime Minister Benjamin Netanyahu of Israel arrived in the country for a visit despite facing an international arrest warrant.
-* 以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）在面临国际逮捕令的情况下抵达该国进行访问，几小时后宣布了这一消息。
-* This week, the police questioned Prime Minister Benjamin Netanyahu amid claims that members of his team worked simultaneously for the state of Qatar. He is not a suspect, but two of his media advisers have been arrested.
-* 本周，警方对总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）进行了质询，声称他的团队成员同时为卡塔尔国工作。他不是嫌疑人，但他的两名媒体顾问已被捕。
-* Senior General Min Aung Hlaing, who has long been treated like a pariah on the global stage, is visiting Bangkok barely a week after an earthquake that killed at least 3,000 people in his country.
-* 长期以来，在全球舞台上被当作贱民对待的敏昂莱大将（ Min Aung Hlaing ）在曼谷发生地震后不到一周就访问了曼谷，地震造成该国至少3000人死亡。
-* Emissaries of the “United States of Kailasa,” led by a fugitive holy man, were deported after negotiating 1,000-year deals with Indigenous groups.
-* 由一名在逃圣人领导的“凯拉萨合众国”的使者在与土著群体谈判千年协议后被驱逐出境。
-* The scene in the Chinese territory is concentrated at a few beaches with inconsistent swell. One intrepid surfer says it’s all about “turning nothing into something.”
-* 中国领土上的景象集中在几个海滩，涌浪不一致。一位勇敢的冲浪者说，这一切都是为了“把什么都变成什么”。
-* The death of the actress Kim Sae-ron has plunged her former boyfriend, the superstar actor Kim Soo-hyun, into the biggest crisis of his career.
-* 女演员Kim Sae-ron的去世使她的前男友，超级明星演员Kim Soo-hyun陷入了他职业生涯中最大的危机。
-* The Abu Teirs thought the Israel-Hamas cease-fire might mean they could start to rebuild their lives. But a new round of Israeli airstrikes dashed those dreams.
-* 阿布提尔人认为，以色列-哈马斯停火可能意味着他们可以开始重建生活。但新一轮的以色列空袭粉碎了这些梦想。
-* The $4 billion project was the Biden administration’s signature initiative in Africa. Early signs are that the Trump team supports it, too, for mineral access if nothing else.
-* 这个耗资40亿美元的项目是拜登政府在非洲的标志性举措。早期迹象表明，特朗普团队也支持采矿权。
+* The nation’s top court unanimously upheld the impeachment of Yoon Suk Yeol, clearing the way for the election of a new president.
+* 国家最高法院一致支持弹劾Yoon Suk Yeol ，为选举新总统扫清了道路。
+* The Chinese government said it would match President Trump’s tariff, and also barred a group of American companies from doing business in China.
+* 中国政府表示，它将与特朗普总统的关税相匹配，并禁止一群美国公司在中国开展业务。
+* Women say that embassy officials added a new level of indignity to the abuse they suffered while working abroad.
+* 妇女说，大使馆官员给她们在国外工作时遭受的虐待增添了一种新的侮辱。
+* A standoff between garbage collectors and municipal officials in Britain’s second largest city has left an estimated 17,000 tons of trash on the streets.
+* 英国第二大城市垃圾收集者和市政官员之间的对峙导致街道上约有17,000吨垃圾。
+* Demanding an end to the war, hundreds pressed the militants to relinquish control of the enclave, a rare demonstration against a group that has suppressed dissent with violence.
+* 数百人要求结束战争，迫使武装分子放弃对飞地的控制，这是一次罕见的示威活动，反对一个以暴力镇压异议的团体。
+* The Greek island was shaken by thousands of mostly smaller-scale temblors. Now, residents have returned, and they hope visitors will, too.
+* 这座希腊岛屿被数千个规模较小的地震震撼。现在，居民们已经回来了，他们希望游客也能回来。
+* As Canada faces an election defined by President Trump’s threats, its progressive party, the New Democrats, finds itself losing support and confronting an existential crisis.
+* 在加拿大面临由特朗普总统威胁所定义的选举之际，其进步党派新民主党发现自己失去了支持，面临着生存危机。
+* The city said it would provide stewards for its statue of the folk song figure — and repair its bust, which has been damaged by excessive touching.
+* 该市表示将为其民歌雕像提供管家，并修复因过度触摸而受损的半身像。
+* The country has doubled down on its defense relationship with the United States in recent years. President Trump’s treatment of allies is prompting some to question the wisdom of that path.
+* 近年来，该国与美国的防务关系翻了一番。特朗普总统对待盟友的态度促使一些人质疑这条道路的智慧。
+* Live drone footage allows Ukraine to observe what it views as war crimes unfold in real time, soldiers say.
+* 士兵们说，实时无人机录像使乌克兰能够实时观察它所认为的战争罪行。
 
 ## New York Times United States News
-* President Trump’s announcement went beyond most predictions, showing a greater willingness to follow his instincts even when critics — and some allies — consider failure a likely outcome.
-* 特朗普总统的声明超出了大多数预测，表明即使在批评者和一些盟友认为失败是可能的结果时，他也更愿意遵循自己的直觉。
-* The lawyer of the white supremacist who slaughtered 23 people in 2019 said his client was inspired by President Trump’s words, the same the president is using today.
-* 这位白人至上主义者的律师在2019年屠杀了23人，他说他的当事人受到特朗普总统的话的启发，就像总统今天所使用的那样。
-* The secretary of state’s trip comes amid an abrupt shift in relations between the United States and Europe after close cooperation during the Biden era.
-* 这位国务卿的访问是在拜登时代密切合作后美国和欧洲关系突然转变之际进行的。
-* Mark Green, a Republican who once worked under President Trump, stepped down as head of the Wilson Center after employees of Elon Musk’s team visited the think tank.
-* 曾在特朗普总统手下工作的共和党人马克·格林（ Mark Green ）在埃隆·马斯克（ Elon Musk ）团队的员工访问该智囊团后辞去了威尔逊中心的负责人职务。
-* G.O.P. leaders are planning to use the “nuclear option” to steer around the Senate’s in-house referee and allow the use of a gimmick that makes trillions of dollars in tax cuts appear to be free.
-* 共和党领导人正计划使用“核选项”来绕过参议院的内部裁判，并允许使用一种噱头，使数万亿美元的减税看起来是免费的。
-* Republicans began investigating ActBlue, the Democratic Party’s main fund-raising platform, last year in part of a broader bid to target key Democratic organizations.
-* 共和党人去年开始调查民主党的主要筹款平台ActBlue ，这是针对民主党关键组织的更广泛努力的一部分。
-* In February, security camera footage showed a masked figure spraying the reindeer with an unknown liquid. The police have no leads.
-* 今年2月，监控录像显示，一个蒙面人物在驯鹿身上喷洒了一种不明液体。警方没有任何线索。
-* After a failed $20 million effort to tilt a State Supreme Court race, Elon Musk joins the ranks of billionaires frustrated by the laws of politics.
-* 在2000万美元的州最高法院竞选失败后，埃隆·马斯克(Elon Musk)加入了因政治法律而受挫的亿万富翁行列。
-* The administration concluded last month that Maine had violated federal law by allowing transgender athletes to play on girls’ or women’s teams.
-* 政府上个月得出结论，缅因州允许跨性别运动员参加女子或女子球队，违反了联邦法律。
-* The former president was taking a morning walk just as two young siblings posed with the Washington Monument and cherry blossoms serving as a perfect backdrop.
-* 这位前总统正在早上散步，就像两个年轻的兄弟姐妹摆出华盛顿纪念碑和樱花作为完美背景的姿势一样。
+* Immigration officers asked Kilmar Armando Abrego Garcia if he was a gang member, and refused to believe him when he denied it, according to court papers.
+* 根据法庭文件，移民官员询问Kilmar Armando Abrego Garcia是否是帮派成员，当他否认时拒绝相信他。
+* The president’s aides insist the fallout will be short and ultimately result in a better economy, as economists warn of higher inflation and slower growth.
+* 总统的助手坚持认为，正如经济学家警告通货膨胀率上升和经济增长放缓一样，后果将是短暂的，并最终导致经济好转。
+* In recent days, Kash Patel, the F.B.I. director, and Dan Bongino, his deputy, have promised to bring change to what they have called a broken institution.
+* 最近几天，联邦调查局局长卡什·帕特尔（ Kash Patel ）和他的副手丹·邦吉诺（ Dan Bongino ）承诺将改变他们所谓的破碎机构。
+* The Office of Legal Counsel issues opinions that are supposed to bind the executive branch. The Trump administration has taken steps and made claims in tension with several of them.
+* 法律顾问办公室发布的意见应该对行政部门具有约束力。特朗普政府已采取步骤，并与其中一些人提出了紧张的主张。
+* The ancient weapons, found in a cave near Marfa, could be among the oldest near-complete set of wood and stone hunting tools found in North America.
+* 在Marfa附近的一个洞穴中发现的古代武器可能是北美发现的最古老的近乎完整的木材和石头狩猎工具之一。
+* As President Trump claims expansive and disputed powers, his administration has curbed the influential Office of Legal Counsel.
+* 由于特朗普总统声称拥有扩张性和有争议的权力，他的政府已经遏制了有影响力的法律顾问办公室。
+* In some parts of the state, misdemeanor defendants routinely face charges without representation.
+* 在该州的一些地方，轻罪被告通常在没有代理的情况下面临指控。
+* Democratic primary voters won’t see the mayor’s name on the ballot in June. He plans to run in the general election in November, when ranked-choice voting is not in use.
+* 民主党初选选民不会在6月的选票上看到市长的名字。他计划参加11月的大选，届时排名投票将不再使用。
+* The delay in disbursement has forced the news organization, which relies almost exclusively on congressional funding, to furlough some of its staff and cut parts of its programming.
+* 付款的延迟迫使这家几乎完全依赖国会资金的新闻机构暂停了一些工作人员的工作，并削减了部分节目。
+* In just three weeks, the Pentagon has used $200 million worth of munitions in Operation Rough Rider against the Houthi militia, officials said.
+* 官员说，在短短三周内，五角大楼在针对胡塞民兵的“粗糙骑士”行动中使用了价值2亿美元的弹药。
 
 ## New York Times Asia News
-* Senior General Min Aung Hlaing, who has long been treated like a pariah on the global stage, is visiting Bangkok barely a week after an earthquake that killed at least 3,000 people in his country.
-* 长期以来，在全球舞台上被当作贱民对待的敏昂莱大将（ Min Aung Hlaing ）在曼谷发生地震后不到一周就访问了曼谷，地震造成该国至少3000人死亡。
-* Not even America’s closest trading partners were spared by a policy broadside that spooked investors and left policymakers scrambling to formulate responses.
-* 即使是美国最亲密的贸易伙伴也未能幸免于政策宽边，这吓坏了投资者，并使政策制定者争先恐后地制定应对措施。
-* Japan has refrained from talk of striking back at U.S. tariffs. Trade experts say that is because its inflation-strained economy limits its options.
-* 日本一直没有反击美国关税的言论。贸易专家表示，这是因为其通货膨胀紧张的经济限制了其选择。
-* The scene in the Chinese territory is concentrated at a few beaches with inconsistent swell. One intrepid surfer says it’s all about “turning nothing into something.”
-* 中国领土上的景象集中在几个海滩，涌浪不一致。一位勇敢的冲浪者说，这一切都是为了“把什么都变成什么”。
-* Emissaries of the “United States of Kailasa,” led by a fugitive holy man, were deported after negotiating 1,000-year deals with Indigenous groups.
-* 由一名在逃圣人领导的“凯拉萨合众国”的使者在与土著群体谈判千年协议后被驱逐出境。
-* The death of the actress Kim Sae-ron has plunged her former boyfriend, the superstar actor Kim Soo-hyun, into the biggest crisis of his career.
-* 女演员Kim Sae-ron的去世使她的前男友，超级明星演员Kim Soo-hyun陷入了他职业生涯中最大的危机。
-* Plus, David Hockney’s biggest show.
-* 此外，还有大卫·霍克尼（ David Hockney ）最盛大的
-* Democratic senators said in a letter that the administration was failing its first test of humanitarian aid as China and Russia send teams to help.
-* 民主党参议员在一封信中表示，随着中国和俄罗斯派遣团队提供帮助，政府未能通过首次人道主义援助测试。
-* Workers said poor-quality materials were used during construction by a Chinese developer as it sought to cut costs. Investigators also said they found substandard steel bars in the rubble.
-* 工人们说，一家中国开发商在施工期间使用了劣质材料，因为它试图削减成本。调查人员还表示，他们在瓦砾中发现了不合格的钢筋。
-* A family business in Ottawa that makes special shoulder rests for violins is imperiled by both Trump’s tariffs on Canada and potential Canadian retaliation.
-* 渥太华一家为小提琴制造特殊肩托的家族企业受到特朗普对加拿大的关税和加拿大潜在报复的威胁。
+* The legislation passed by Parliament on Friday would allow non-Muslims to help administer so-called Waqfs. The move fueled concerns that the rights of Muslims are being infringed on.
+* 议会周五通过的立法将允许非穆斯林帮助管理所谓的宗教基金。此举引发了人们对穆斯林权利受到侵犯的担忧。
+* The Chinese government said it would match President Trump’s tariff, and also barred a group of American companies from doing business in China.
+* 中国政府表示，它将与特朗普总统的关税相匹配，并禁止一群美国公司在中国开展业务。
+* The U.S. tariffs on transshipment countries like Vietnam and Cambodia are so steep that they could force a major reassessment of global supply chains.
+* 美国对越南和柬埔寨等转运国的关税如此之高，可能迫使对全球供应链进行重大重新评估。
+* Venezuela owes China’s banks about $10 billion, and its oil is about the only legal way it has to pay them back.
+* 委内瑞拉欠中国银行约100亿美元，其石油是唯一合法的偿还方式。
+* South Korea’s former president still faces criminal charges of leading an insurrection when he declared martial law. If found guilty, he could be imprisoned for life.
+* 韩国前总统在宣布戒严时仍面临领导叛乱的刑事指控。如果被判有罪，他可能会被判终身监禁。
+* The country has doubled down on its defense relationship with the United States in recent years. President Trump’s treatment of allies is prompting some to question the wisdom of that path.
+* 近年来，该国与美国的防务关系翻了一番。特朗普总统对待盟友的态度促使一些人质疑这条道路的智慧。
+* Markets reflected investors’ continued worries about the economic disruption of President Trump’s trade policies and retaliation by major trading partners. U.S. stocks are poised to open sharply lower.
+* 市场反映出投资者对特朗普总统贸易政策的经济中断和主要贸易伙伴报复的持续担忧。美国股市有望大幅下跌。
+* Still, after four months of political uncertainty, many people expressed apprehension about what lies ahead for the country.
+* 尽管如此，在经历了四个月的政治不确定性之后，许多人对该国未来的发展表示担忧。
+* The country’s Constitutional Court on Friday upheld the impeachment of Yoon Suk Yeol, dismissing him from office four months after his short-lived imposition of martial law.
+* 该国宪法法院周五维持了对Yoon Suk Yeol的弹劾，在他短暂实施戒严令四个月后解雇了他。
+* Five friends defied the junta to care for people injured in the military coup. One returned from the battlefield to find his four friends among the dead in the March 28 earthquake.
+* 五个朋友藐视军政府，照顾在军事政变中受伤的人。一个人从战场上回来，在3月28日的地震中找到了他的四个朋友。
 
