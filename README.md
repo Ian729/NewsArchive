@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Free trade has been so beneficial to so many countries that the world may find a way to live without its biggest player.
+* 自由贸易对许多国家如此有益，以至于世界可能会找到一种没有最大参与者的生活方式。
+* Humor and art have been used to mock the powerful in Britain for centuries. Now Elon Musk is on the receiving end.
+* 几个世纪以来，幽默和艺术一直被用来嘲笑英国的强者。现在，埃隆·马斯克（ Elon Musk ）处于接收端。
+* Just two months ago, Pierre Poilievre seemed destined to become Canada’s next prime minister. But his double digit polling lead vanished with President Trump's threat to annex Canada.
+* 就在两个月前，皮埃尔·波利耶夫尔（ Pierre Poilievre ）似乎注定要成为加拿大的下一任总理。但随着特朗普总统威胁要吞并加拿大，他的两位数民意调查领先优势消失了。
+* The number, far higher than any previous estimate, poses a test for the new government. Experts fear that sarin, chlorine and mustard gas stockpiles could be unsecured.
+* 这一数字远高于以往任何估计，对新政府构成了考验。专家担心沙林毒气、氯气和芥子气库存可能没有安全保障。
+* In recent years, Vietnam has forged strategic and economic links with the United States, its former foe, making the steep tariff rate all the more of a shock.
+* 近年来，越南与其以前的敌人美国建立了战略和经济联系，使高关税率更加令人震惊。
+* The Liberal Party, which not long ago seemed destined to crash in federal elections under Justin Trudeau, is experiencing a reversal of fortune. Here’s what a close review of polls shows.
+* 不久前似乎注定要在贾斯汀·特鲁多（ Justin Trudeau ）领导的联邦选举中崩溃的自由党正在经历命运的逆转。以下是对民意调查的详细回顾。
+* Hundreds of thousands fled Russia after the Ukraine invasion, fearing the draft and widening repression. Talks toward a possible truce have done little to allay their fears.
+* 成千上万的人在乌克兰入侵后逃离了俄罗斯，担心征兵和扩大镇压。为达成可能的停火协议而进行的谈判几乎没有缓解他们的恐惧。
 * President Trump has shown a willingness to fracture the trans-Atlantic alliance with his tariffs and demands for higher military spending.
 * 特朗普总统表示愿意以关税和更高军费开支的要求来破坏跨大西洋联盟。
+* The Israeli military had previously asserted that the workers had been “advancing suspiciously” toward its troops. A video obtained by The New York Times on Friday appeared to contradict that account.
+* 以色列军方此前曾断言，这些工人一直在向其部队“可疑地推进”。《纽约时报》周五获得的一段视频似乎与该说法相矛盾。
 * The rise and fall of Yoon Suk Yeol exposed a vulnerability in South Korean democracy, but also a resilience. Its people were always ready to fight for it.
 * Yoon Suk Yeol的兴衰暴露了韩国民主的脆弱性，但也暴露了韧性。它的人民随时准备为它而战。
-* In a major mining region of Ukraine, President Trump’s proposal to collect profits from mineral wealth is meeting with a mix of skepticism and weary acceptance.
-* 在乌克兰的一个主要矿区，特朗普总统从矿产财富中获取利润的提议遭到了怀疑和疲惫的接受。
-* Senator Natasha Akpoti-Uduaghan said Nigeria’s third most powerful politician punished her for not heeding his advances, but that she won’t be stopped.
-* 参议员娜塔莎·阿克波蒂-乌杜阿汉（ Natasha Akpoti-Uduaghan ）表示，尼日利亚第三大政客惩罚了她，因为她不听从他的劝告，但她不会被阻止。
-* Morgan Ortagus, President Trump’s deputy Middle East envoy, met with senior officials as tensions with Israel threaten the truce.
-* 特朗普总统的中东副特使摩根·奥尔塔古斯（ Morgan Ortagus ）会见了高级官员，因为与以色列的紧张关系威胁到休战。
-* A group of Jews who left Syria decades ago wants sanctions relief for a government with former ties to Al Qaeda, despite wariness from other Jewish groups and from Israel.
-* 几十年前离开叙利亚的一群犹太人希望解除对一个曾与基地组织有联系的政府的制裁，尽管其他犹太团体和以色列对此持谨慎态度。
-* Rodrigo Duterte, the former Philippine president who is facing charges of crimes against humanity, is running for mayor in a race analysts say he could win.
-* 菲律宾前总统罗德里戈·杜特尔特（ Rodrigo Duterte ）面临危害人类罪的指控，他正在竞选市长，种族分析师表示他可能会获胜。
-* The U.N. has said Israel killed the workers. The video appears to contradict Israel’s version of events, which said the vehicles were “advancing suspiciously” without headlights or emergency signals.
-* 联合国表示，以色列杀害了这些工人。该视频似乎与以色列的事件版本相矛盾，后者称车辆在没有前灯或紧急信号的情况下“可疑地前进”。
-* The city said it would provide stewards for its statue of the folk song figure — and repair its bust, which has been damaged by excessive touching.
-* 该市表示将为其民歌雕像提供管家，并修复因过度触摸而受损的半身像。
-* Women say that embassy officials added a new level of indignity to the abuse they suffered while working abroad.
-* 妇女说，大使馆官员给她们在国外工作时遭受的虐待增添了一种新的侮辱。
 
 ## New York Times United States News
-* The rallies on Saturday are being held all over the country and emphasize cuts to health care, Social Security and education.
-* 周六的集会在全国各地举行，强调削减医疗保健、社会保障和教育经费。
-* Voters were bracing for the effects of President Trump’s recent tariffs in their own lives, but some said they were, for now, waiting and watching to see how all of this plays out.
-* 选民们正在为特朗普总统最近的关税在他们自己生活中的影响做准备，但一些人表示，他们现在正在等待并观望这一切如何发展。
-* Job and program cuts at the Department of Health and Human Services have teed up court challenges and prompted bipartisan criticism in Congress.
-* 卫生和公共服务部的裁员和计划削减了法庭的挑战，并引发了国会两党的批评。
-* This week, President Trump unveiled sweeping tariffs on dozens of countries, dismantling decades of global trade agreements and sending shock waves around the world.
-* 本周，特朗普总统公布了对数十个国家的全面关税，废除了数十年的全球贸易协定，并在世界各地引发了冲击波。
-* The firing of the head of the National Security Agency was only the latest move that has eroded the country’s fortifications against cyberattacks, especially those targeting elections.
-* 解雇国家安全局局长只是侵蚀该国防御网络攻击，特别是针对选举的网络攻击的最新举措。
-* The businessman has won supporters and detractors as he considers running for mayor or governor of California as Los Angeles rebuilds from the wildfires in January.
-* 这位商人在考虑竞选加州市长或州长时赢得了支持者和批评者，因为洛杉矶在1月份从野火中重建。
-* Republicans pushed through their blueprint for tax and spending cuts after Democrats forced them to cast politically painful votes into the early morning on every element of President Trump’s agenda.
-* 在民主党人迫使他们在特朗普总统议程的每个元素上进行政治痛苦的投票后，共和党人推动了他们的减税和支出蓝图。
-* The decision came as an initial win for a broad coalition of academic institutions that had argued the policy jeopardized ongoing research, but it set up an almost certain appeal.
-* 这一决定是学术机构广泛联盟的初步胜利，他们认为该政策危及正在进行的研究，但它几乎确立了吸引力。
-* The office of Defense Secretary Pete Hegseth ordered the college to adhere to an executive order from President Trump banning educational material related to diversity, equity and inclusion topics.
-* 国防部长皮特·黑格塞斯（ Pete Hegseth ）办公室命令学院遵守特朗普总统的行政命令，禁止与多元化、公平和包容性主题相关的教育材料。
-* As the Trump administration threatens universities, the former president suggested schools shouldn’t be intimidated. But he also offered a critique of campus culture, saying it had too often shut out opposing voices.
-* 随着特朗普政府威胁大学，这位前总统建议学校不应受到恐吓。但他也对校园文化提出了批评，称校园文化常常排斥对立的声音。
+* The 22nd Amendment is clear: President Trump has to give up his office after his second term. But his refusal to accept that underscores how far he is willing to consider going to consolidate power.
+* 第二十二条修正案很明确：特朗普总统必须在第二个任期结束后辞职。但他拒绝接受这一点，这凸显了他愿意考虑在多大程度上巩固权力。
+* Senate Republicans are hoping to ice Democrats out from deciding the fate of President Trump’s 2017 tax cuts, a move that Democrats could eventually use against them.
+* 参议院共和党人希望阻止民主党人决定特朗普总统2017年减税的命运，民主党人最终可能会利用这一举措来对付他们。
+* Colleges and teaching hospitals are the cornerstones of the city’s economy — and identity. But federal funding cuts to higher education could change that.
+* 学院和教学医院是城市经济和身份认同的基石。但联邦政府削减高等教育经费可能会改变这种情况。
+* A dozen teachers in Pasadena, Calif., whose homes burned were told they’ll lose their jobs at the end of the school year, a crisis for educators and students alike.
+* 加利福尼亚州帕萨迪纳的十几名教师的房屋被烧毁，他们被告知他们将在学年结束时失去工作，这对教育工作者和学生来说都是一场危机。
+* The tariffs-are-a-tax messages are targeting residents in places like Pittsburgh that count on Canadian trade.
+* 关税是税收信息的目标是匹兹堡等依赖加拿大贸易的地方的居民。
+* The verdict will likely influence similar lawsuits against other oil companies over coastal damage in the state.
+* 该判决可能会影响对其他石油公司就该州沿海损害提起的类似诉讼。
+* Secretary of State Marco Rubio said he was making the move because the transitional government of South Sudan had refused to accept its citizens in a timely manner.
+* 国务卿马尔科·卢比奥（ Marco Rubio ）表示，他之所以采取行动，是因为南苏丹过渡政府拒绝及时接纳其公民。
+* Erez Reuveni conceded in court that the deportation last month of Kilmar Armando Abrego Garcia, who had a court order allowing him to stay in the United States, should never have taken place.
+* 埃雷兹·鲁韦尼（ Erez Reuveni ）在法庭上承认，上个月Kilmar Armando Abrego Garcia被驱逐出境的事件本不应该发生，因为法院命令允许他留在美国。
+* The billionaire adviser to the Trump administration appeared to part ways with the president in a videoconference appearance with Italy’s far-right League party.
+* 这位特朗普政府的亿万富翁顾问似乎在与意大利极右翼联盟党的视频会议中与总统分道扬镳。
+* A judge found that four whistle-blowers who accused Ken Paxton, the Texas attorney general, of corruption and reported him to the F.B.I. were unjustly fired.
+* 一名法官发现，四名指控德克萨斯州总检察长肯·帕克斯顿腐败并向联邦调查局举报的举报人被不公正地解雇。
 
 ## New York Times Asia News
+* In recent years, Vietnam has forged strategic and economic links with the United States, its former foe, making the steep tariff rate all the more of a shock.
+* 近年来，越南与其以前的敌人美国建立了战略和经济联系，使高关税率更加令人震惊。
+* The Rev. Arul Carasala was found outside his parish rectory with gunshot wounds on Thursday, officials said. An Oklahoma man was arrested, though a motive remained unknown.
+* 官员说， Arul Carasala牧师周四在他的教区教区外被发现有枪伤。俄克拉荷马州的一名男子被捕，但动机仍不明。
 * The rise and fall of Yoon Suk Yeol exposed a vulnerability in South Korean democracy, but also a resilience. Its people were always ready to fight for it.
 * Yoon Suk Yeol的兴衰暴露了韩国民主的脆弱性，但也暴露了韧性。它的人民随时准备为它而战。
 * Rodrigo Duterte, the former Philippine president who is facing charges of crimes against humanity, is running for mayor in a race analysts say he could win.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 中国政府表示，它将与特朗普总统的关税相匹配，并禁止一群美国公司在中国开展业务。
 * The U.S. tariffs on transshipment countries like Vietnam and Cambodia are so steep that they could force a major reassessment of global supply chains.
 * 美国对越南和柬埔寨等转运国的关税如此之高，可能迫使对全球供应链进行重大重新评估。
-* Venezuela owes China’s banks about $10 billion, and its oil is about the only legal way it has to pay them back.
-* 委内瑞拉欠中国银行约100亿美元，其石油是唯一合法的偿还方式。
-* South Korea’s former president still faces criminal charges of leading an insurrection when he declared martial law. If found guilty, he could be imprisoned for life.
-* 韩国前总统在宣布戒严时仍面临领导叛乱的刑事指控。如果被判有罪，他可能会被判终身监禁。
 
