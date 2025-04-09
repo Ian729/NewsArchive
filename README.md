@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* China sees little to gain in capitulating to President Trump’s tariff threats, labeling them “blackmail” and vowing to “fight to the end.”
-* 中国认为，屈服于特朗普总统的关税威胁、将其贴上“敲诈勒索”的标签并发誓要“战斗到底” ，收效甚微。
-* The hearing on the move opened with unruly scenes, as hecklers forced judges to pause the proceedings before resuming them without a public audience.
-* 听证会以不守规矩的场景开场，因为质问者迫使法官暂停诉讼程序，然后在没有公众观众的情况下恢复诉讼程序。
-* Ms. Truss, Britain’s prime minister for 44 days, was forced out after her radical policies caused a market meltdown. But there are some key differences with President Trump.
-* 在她的激进政策导致市场崩溃后，英国首相特拉斯被迫离开了44天。但与特朗普总统有一些关键的分歧。
-* For over 40 years, Capt. Efrain Hallax, 73, has been steering vessels through the canal, and he has seen it all, from a dictator’s fall to the rise of U.S. interest in retaking the waterway.
-* 40多年来， 73岁的Efrain Hallax上尉一直在引导船只通过运河，他亲眼目睹了这一切，从独裁者的垮台到美国对重新夺回水道的兴趣的崛起。
-* Harry arrived at London’s Court of Appeal on Tuesday for the start of a two-day hearing in his case over his police protection in Britain.
-* 哈利于周二抵达伦敦上诉法院，开始为期两天的听证会，审理他在英国的警察保护案件。
-* The leaders of Israel, Hungary and the United States have moved to neutralize the judiciary both at home and abroad.
-* 以色列、匈牙利和美国的领导人已经开始在国内外中立化司法机构。
-* As Japan’s population shrinks, maintaining rail service in remote small towns is becoming a challenge. Is this the answer?
-* 随着日本人口的减少，在偏远的小城镇维持铁路服务正成为一项挑战。这就是答案吗？
-* Polls show the main opposition leader, Lee Jae-myung, is the front-runner to replace Yoon Suk Yeol, who was removed from office for declaring martial law.
-* 民意调查显示，主要反对党领袖李在明（ Lee Jae-myung ）是接替因宣布戒严而被免职的尹淑烈（ Yoon Suk Yeol ）的领跑者。
-* European Union officials will vet and vote on a list of retaliatory tariffs this week, while contemplating what comes next.
-* 欧盟官员本周将对报复性关税清单进行审查和投票，同时考虑接下来会发生什么。
-* The Palestine Red Crescent released a video made by a paramedic before he was killed, and called the deaths of 15 rescue workers “a full-fledged war crime.” Israel has said it is investigating.
-* 巴勒斯坦红新月会在一名护理人员被杀前发布了一段视频，称15名救援人员的死亡是“全面的战争罪行”。“以色列表示正在进行调查。
+* President Trump’s latest moves included a 104 percent tariff on Chinese goods. Stocks and bonds slumped as Beijing hit back with its own levies and European leaders prepared retaliation measures.
+* 特朗普总统的最新举措包括对中国商品征收104%的关税。随着北京以自己的征税进行反击，以及欧洲领导人准备采取报复措施，股票和债券下跌。
+* Neither side wants to look weak by backing down on tariffs. But if their trade relationship collapses, the global consequences could be profound.
+* 双方都不希望通过降低关税来显得软弱无力。但如果他们的贸易关系崩溃，全球后果可能是深远的。
+* As its trade negotiators headed to Washington for talks, South Korea announced measures to support the country’s carmakers who were badly hit by the levies announced by President Trump.
+* 随着韩国贸易谈判代表前往华盛顿进行谈判，韩国宣布了支持该国汽车制造商的措施，这些汽车制造商受到特朗普总统宣布的关税的严重打击。
+* The European Union is poised to approve a plan to hit back at President Trump’s steel and aluminum levies. Further measures could come next.
+* 欧盟准备批准一项计划，以反击特朗普总统的钢铁和铝关税。接下来可能会采取进一步措施。
+* The new levies come as nations on the continent continue to struggle with the fallout of the Trump administration’s dismantling of the U.S. Agency for International Development.
+* 随着特朗普政府解散美国国际开发署的影响，非洲大陆各国继续苦苦挣扎。
+* Nicolas Puech agreed to sell his multibillion-dollar stake in his family’s luxury goods empire to the royal family of Qatar, but then said he couldn’t gain access to his shares.
+* Nicolas Puech同意将他家族奢侈品帝国的数十亿美元股份出售给卡塔尔王室，但随后表示他无法获得他的股份。
+* A Russian missile strike near a playground in central Ukraine killed 19 people, including nine children. The attack was a painful reminder that a cease-fire remains as distant as ever.
+* 俄罗斯导弹袭击乌克兰中部游乐场附近，造成19人死亡，其中包括9名儿童。这次袭击痛苦地提醒人们，停火仍然与以往一样遥不可及。
+* The U.S. State Department said it was alarmed at the arrest of Paul Chambers, a lecturer in civil-military relations, under Thailand’s strict lèse-majesté laws.
+* 美国国务院表示，它对根据泰国严格的亵渎君主法逮捕军民关系讲师保罗·钱伯斯感到震惊。
+* The U.S. has sent more forces to Syria, tamping down on the immediate threat, but experts warn that the extremist group could break thousands of hardened fighters out of prison.
+* 美国已向叙利亚派遣了更多部队，遏制了眼前的威胁，但专家警告说，极端主义组织可能会将数千名顽强的战士从监狱中解救出来。
+* For over 40 years, Capt. Efraín Hallax, 73, has been steering vessels through the canal, and he has seen it all, from a dictator’s fall to the rise of U.S. interest in retaking the waterway.
+* 40多年来， 73岁的埃弗拉因·哈拉克斯（ Efraín Hallax ）上尉一直在引导船只通过运河，他亲眼目睹了从独裁者的垮台到美国重新夺回水道的兴趣的崛起。
 
 ## New York Times United States News
-* The billionaire’s gun control group plans to spend $10 million to help elect Democratic attorneys general, who are on the front lines of legal clashes with the president.
-* 这位亿万富翁的枪支管制小组计划花费1000万美元帮助选举民主党总检察长，他们处于与总统发生法律冲突的前线。
-* A man abused as a child at a Missouri Christian camp agreed to remain silent, and took his own life. His sister is pushing several states to ban such nondisclosure agreements.
-* 一名男子小时候在密苏里州的基督教营地受到虐待，他同意保持沉默，并自杀。他的姐姐正在敦促几个州禁止此类保密协议。
-* A video showed the former British prime minister yelping and uttering a profanity after the ostrich pecked him through a window at what appeared to be a wildlife park.
-* 一段视频显示，这位前英国首相在鸵鸟从似乎是一个野生动物园的窗户啄他之后，大喊大叫并说了一句亵渎的话。
-* The authorities said that the killings appeared to have stemmed from a domestic dispute. Investigators in Perry, Ga., said the four victims, who ranged in age from 2 to 82, were related.
-* 当局表示，这些杀人事件似乎源于国内纠纷。佐治亚州佩里的调查人员表示，这四名年龄在2岁至82岁之间的受害者是亲属。
-* Taken together, they signal an abrupt reversal from efforts by the Biden administration to stem the flood of unregulated semiautomatic handguns and rifles.
-* 总而言之，它们标志着拜登政府为遏制不受管制的半自动手枪和步枪的泛滥而做出的努力的突然逆转。
-* A majority of the justices concluded that the Venezuelan migrants had brought their cases in the wrong court but that they were entitled to an opportunity to challenge their removal.
-* 大多数法官的结论是，委内瑞拉移民将他们的案件提交给了错误的法庭，但他们有权有机会对他们的遣返提出质疑。
-* Democrats have argued that Gov. Greg Abbott, a Republican, did not act faster to fill the vacant seat because he didn’t want the narrow Republicans majority in Congress to shrink.
-* 民主党人认为，共和党州长格雷格·阿博特（ Greg Abbott ）没有更快地采取行动填补空缺席位，因为他不希望国会中狭隘的共和党多数席位缩小。
-* The Republican congressman joins a crowded field vying to replace Gov. Gretchen Whitmer, who is term-limited.
-* 这位共和党国会议员加入了一个拥挤的领域，争相取代任期有限的州长格雷琴·惠特默（ Gretchen Whitmer ）。
-* Vice Adm. Shoshana Chatfield has joined a list of several leaders who have been purged from the military’s highest ranks.
-* 海军中将肖莎娜·查特菲尔德（ Shoshana Chatfield ）加入了几名被军方最高级别清除的领导人名单。
-* Elon Musk has been criticizing Trump’s tariff policy — and publicly. Could there be a strategy?
-* 埃隆·马斯克（ Elon Musk ）一直在批评特朗普的关税政策--并公开批评。有没有什么策略？
+* The U.S. State Department said it was alarmed at the arrest of Paul Chambers, a lecturer in civil-military relations, under Thailand’s strict lèse-majesté laws.
+* 美国国务院表示，它对根据泰国严格的亵渎君主法逮捕军民关系讲师保罗·钱伯斯感到震惊。
+* Hard-line conservatives concerned about the deficit are among President Trump’s most stalwart supporters in Congress. But they say they cannot in good conscience back the budget plan he has endorsed.
+* 担心赤字的强硬保守派是特朗普总统在国会中最坚定的支持者之一。但他们说，出于良心，他们不能支持他批准的预算计划。
+* As Willkie Farr & Gallagher learned, cutting a deal with the White House can avert a financially punitive executive order. But doing so can draw internal rebukes and external criticism.
+* 正如Willkie Farr ＆ Gallagher所了解到的那样，与白宫达成协议可以避免经济惩罚性的行政命令。但这样做会招致内部指责和外部批评。
+* An autistic young man loses his caretaker as the Trump administration’s immigration crackdown expands to permanent U.S. residents convicted of minor crimes years ago.
+* 随着特朗普政府的移民镇压扩大到多年前被判犯有轻微罪行的美国永久居民，一名自闭症年轻人失去了他的看护人。
+* Leo Schofield maintained his innocence all along in his wife’s 1987 murder. For “Bone Valley,” a podcast about the case, he connected with the man who said he did it.
+* 利奥·斯科菲尔德（ Leo Schofield ）在妻子1987年的谋杀案中一直坚持自己的清白。关于此案的播客《骨谷》（ Bone Valley ） ，他与说自己做了这件事的男人建立了联系。
+* Sheriff Dale Wagner of Adams County sees his department as David fighting Goliath. But he has the support of some of President Trump’s most influential allies.
+* 亚当斯县的Dale Wagner警长认为他的部门是David与Goliath作战。但他得到了特朗普总统一些最有影响力的盟友的支持。
+* Once thought of as a fringe mind-set, the prepared citizen movement is gaining traction in a world shaped by war, the pandemic and extreme weather.
+* 曾经被认为是一种边缘思维模式，准备好的公民运动在一个由战争、大流行和极端天气塑造的世界中获得了牵引力。
+* Nuclear talks between the United States and Iran are set for Saturday. President Trump has set a high bar for success.
+* 美国和伊朗之间的核谈判定于周六举行。特朗普总统为成功设定了很高的标准。
+* The announcement by Mr. Paxton, the attorney general of Texas and a firebrand conservative, set up what is expected to be a blockbuster showdown in Texas.
+* 德克萨斯州总检察长、煽动性保守派帕克斯顿的宣布，预料将在德克萨斯州引发一场轰动一时的摊牌。
+* Three others were injured in the shooting, which occurred on a suburban street in Spotsylvania County, about 60 miles southwest of Washington, D.C.
+* 另外三人在枪击事件中受伤，枪击事件发生在华盛顿特区西南约60英里的斯波西瓦尼亚县的郊区街道上。
 
 ## New York Times Asia News
-* As Japan’s population shrinks, maintaining rail service in remote small towns is becoming a challenge. Is this the answer?
-* 随着日本人口的减少，在偏远的小城镇维持铁路服务正成为一项挑战。这就是答案吗？
-* Polls show the main opposition leader, Lee Jae-myung, is the front-runner to replace Yoon Suk Yeol, who was removed from office for declaring martial law.
-* 民意调查显示，主要反对党领袖李在明（ Lee Jae-myung ）是接替因宣布戒严而被免职的尹淑烈（ Yoon Suk Yeol ）的领跑者。
-* Stocks around the world recouped some of the losses triggered by President Trump’s tariffs. China announced new measures to lift its markets.
-* 世界各地的股票弥补了特朗普总统关税引发的部分损失。中国宣布了提升市场的新措施。
-* China sees little to gain in capitulating to President Trump’s tariff threats, labeling them “blackmail” and vowing to “fight to the end.”
-* 中国认为，屈服于特朗普总统的关税威胁、将其贴上“敲诈勒索”的标签并发誓要“战斗到底” ，收效甚微。
-* Plus, “The White Lotus” finale.
-* 此外，还有《白莲花》结局。
-* Dozens of foreign governments were trying to appeal to the president to have steep tariffs rolled back, but the president and his advisers have indicated negotiations could be difficult.
-* 数十个外国政府试图呼吁总统取消高额关税，但总统及其顾问表示，谈判可能很困难。
-* The president said he would counter Beijing’s tariffs, which came in response to Mr. Trump’s own levies, with even more tariffs on Chinese imports.
-* 特朗普表示，他将反击北京方面针对特朗普征收的关税，对中国进口商品征收更多关税。
-* Critics say the country’s often-incompetent military government has delayed and restricted the arrival and distribution of crucial aid.
-* 批评人士说，该国经常无能的军政府推迟并限制了重要援助的到达和分发。
-* A staggering $1.9 trillion in extra industrial lending is fueling a continued flood of exports that could be spread even wider across the world by the Trump tariffs.
-* 令人震惊的1.9万亿美元额外工业贷款正在助长持续不断的出口洪流，而特朗普的关税可能会在全球范围内扩大。
-* Faced with economic disruption, Beijing is presenting itself as too powerful to succumb to U.S. pressure. It is also censoring criticism at home.
-* 面对经济混乱，北京表现得太强大，无法屈服于美国的压力。它还在审查国内的批评。
+* President Volodymyr Zelensky of Ukraine said that two Chinese men fighting alongside Russian troops had been captured and that there were “many more” on the battlefield.
+* 乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）表示，两名与俄罗斯军队并肩作战的中国男子已被俘虏，战场上还有“更多”。
+* Beijing issued a lengthy denunciation of U.S. trade policies and accused Washington of violating a trade deal the countries reached in President Trump’s first term.
+* 北京长期谴责美国的贸易政策，并指责华盛顿违反了特朗普总统第一任期内达成的贸易协议。
+* Neither side wants to look weak by backing down on tariffs. But if their trade relationship collapses, the global consequences could be profound.
+* 双方都不希望通过降低关税来显得软弱无力。但如果他们的贸易关系崩溃，全球后果可能是深远的。
+* The United States is India’s biggest market for pharmaceutical exports, which are its most successful industrial exports.
+* 美国是印度最大的药品出口市场，也是印度最成功的工业出口市场。
+* Factory-led economies are panicking about the steep new tariffs. Not the Philippines, which believes its role as a manufacturing alternative to China can expand.
+* 工厂主导的经济体对陡峭的新关税感到恐慌。不是菲律宾，菲律宾认为其作为中国制造业替代品的角色可以扩大。
+* State media drove social media discussions around phrases like: “America is fighting a trade war while begging for eggs.”
+* 官方媒体围绕诸如“美国在打贸易战的同时乞讨鸡蛋”之类的短语推动了社交媒体的讨论。
+* As its trade negotiators headed to Washington for talks, South Korea announced measures to support the country’s carmakers who were badly hit by the levies announced by President Trump.
+* 随着韩国贸易谈判代表前往华盛顿进行谈判，韩国宣布了支持该国汽车制造商的措施，这些汽车制造商受到特朗普总统宣布的关税的严重打击。
+* With the S&amp;P 500 nearing a bear market, shares in Europe and Asia fell as China and other major U.S. trading partners confronted significantly higher tariffs. Investors also sold U.S. bonds.
+* 随着标准普尔500指数接近熊市，随着中国和其他主要美国贸易伙伴面临更高的关税，欧洲和亚洲的股票下跌。投资者还出售了美国债券。
+* An advisory says that foreign agencies are posing as consulting firms, think tanks and other organizations to connect with former government employees.
+* 一份公告称，外国机构正在冒充咨询公司、智囊团和其他组织，与前政府雇员建立联系。
+* American military officials say the Pentagon might need to dip into stockpiles in Asia to replenish supplies in the Middle East, congressional aides say.
+* 国会助手说，美国军方官员说，五角大楼可能需要减少在亚洲的储备，以补充在中东的供应。
 
