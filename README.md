@@ -2,53 +2,57 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The island’s many small factories have thrived by being frugal — and flexible. But President Trump’s unpredictability is testing their limits.
-* 岛上的许多小工厂因节俭和灵活而蓬勃发展。但特朗普总统的不可预测性正在考验他们的极限。
-* Xi Jinping, who rules with absolute authority, has shown he is willing to let the Chinese people endure hardship. President Trump revealed he has limits.
-* 以绝对权威统治的习近平已经表明，他愿意让中国人民忍受艰难困苦。特朗普总统透露他有局限性。
-* Moscow is hinting that the company would be welcomed back as part of a thaw under President Trump. Industry skepticism runs deep.
-* 莫斯科暗示，作为特朗普总统解冻的一部分，该公司将受到欢迎。业界的怀疑情绪根深蒂固。
-* The two sides are set to negotiate on Saturday, but expectations for a breakthrough are modest, and distrust is high.
-* 双方定于周六进行谈判，但对突破的期望不大，不信任感也很高。
-* A military officer who seized power but promised to step down is expected to win the presidential vote on Saturday.
-* 一名夺取政权但承诺辞职的军官预计将在周六赢得总统选举。
-* Xi Jinping has refused to back down in China’s tariff confrontation with President Trump. But he’ll have to persuade his people that the pain is worth it.
-* 习近平拒绝退缩中国与特朗普总统的关税对抗。但他必须说服他的人民，痛苦是值得的。
-* In the usually steady government bond market, the yield on the 10-year Treasury has risen to about 4.5 percent from less than 4 percent at the end of last week.
-* 在通常稳定的政府债券市场中， 10年期美国国债收益率已从上周末的不到4%上升至约4.5%。
-* Top Iranian officials pressed the country’s leader to reverse his position, arguing that the risk of war with the United States and the worsening economic crisis could topple the regime.
-* 伊朗高级官员敦促该国领导人改变立场，认为与美国的战争风险和不断恶化的经济危机可能会推翻该政权。
-* A new declaration targeted eastern Gaza City, including several areas that had been declared evacuation zones. The United Nations said 390,000 people had been displaced in recent weeks.
-* 新宣布的目标是加沙市东部，包括已宣布疏散区的几个地区。联合国表示，最近几周有39万人流离失所。
-* After years trying to moderate her party’s image, the far-right leader, convicted of embezzlement, now voices Trump-like outrage, at some risk.
-* 这位被判犯有贪污罪的极右翼领导人多年来一直试图缓和党的形象，但现在却冒着一定的风险表达了特朗普的愤怒。
+* Britain’s decision to leave the European Union in 2016 was sold to voters as a magic bullet that would revitalize the country’s economy. Its impact is still reverberating.
+* 英国在2016年退出欧盟的决定被卖给了选民，作为振兴该国经济的神奇子弹。其影响仍在回荡。
+* In a first meeting, the United States and Iran show signs of pragmatism and limited aims, which would make success more likely. But hard-liners on both sides — and Israel — are bound to balk.
+* 在第一次会议上，美国和伊朗表现出务实和目标有限的迹象，这将使成功更有可能。但双方和以色列的强硬派势必会犹豫不决。
+* The strikes were the latest in a string of attacks on urban centers that have caused heavy civilian casualties even as the Trump administration pushes for a cease-fire.
+* 这次罢工是对城市中心的一系列袭击中的最新一起，这些袭击造成了严重的平民伤亡，尽管特朗普政府正在推动停火。
+* China’s leader is on a charm offensive in the region, but some of Beijing’s neighbors are wary of being caught in the crossfire of a superpower rivalry.
+* 中国领导人正在该地区进行魅力攻势，但北京的一些邻国对陷入超级大国竞争的交火持谨慎态度。
+* The party, once the city’s largest opposition force, long championed a moderate approach. It ended up squeezed between a discontented populace and a repressive Beijing.
+* 该党曾经是该市最大的反对派力量，长期以来一直倡导温和的方法。它最终被挤在不满的民众和镇压的北京之间。
+* Voters are in a standoff over which candidate can better address persistent violence linked to drug trafficking.
+* 选民们就哪位候选人可以更好地解决与毒品贩运有关的持续暴力问题陷入了僵局。
+* Relief International said nine employees were killed when gunmen stormed the Zamzam camp in El Fasher, in the western Darfur region.
+* 国际救济组织（ Relief International ）说，枪手袭击了达尔富尔西部地区法希尔的扎姆扎姆营地，造成9名员工死亡。
+* Petro O. Poroshenko, who led the country before Volodymyr Zelensky, said that peace talks could be smoothed if opposition figures were included in the government.
+* 在Volodymyr Zelensky之前领导该国的Petro O. Poroshenko表示，如果政府中包括反对派人士，和平谈判可能会顺利进行。
+* Hashem Abedi allegedly stabbed the officers with homemade weapons inside a high-security prison.
+* 据称， Hashem Abedi在一所戒备森严的监狱内用自制武器刺伤了这些军官。
+* President Trump may be turning relations with NATO and Russia inside out, but winter war games revealed that two militaries’ cooperation was unchanged.
+* 特朗普总统可能正在彻底改变与北约和俄罗斯的关系，但冬季战争游戏显示，两军的合作没有改变。
 
 ## New York Times United States News
-* More than two dozen are joining a legal effort to free a Tufts University student the Trump administration is trying to deport because of her pro-Palestinian views.
-* 二十多名学生正在参加一项法律工作，以释放一名塔夫茨大学的学生，特朗普政府正试图将她驱逐出境，因为她持有亲巴勒斯坦的观点。
-* The Michigan governor’s awkward Oval Office appearance reflected how several Democratic state leaders are cultivating cordial but politically risky relationships with the president.
-* 密歇根州州长尴尬的椭圆形办公室外观反映了几位民主党州领导人如何与总统建立亲切但具有政治风险的关系。
-* Many Americans have purchased foreign-made products out of fears that companies could start to raise prices soon.
-* 由于担心公司可能很快开始提高价格，许多美国人购买了外国制造的产品。
-* The Treasury secretary received counsel and criticism from some of his predecessors over President Trump’s policies.
-* 财政部长收到了一些前任对特朗普总统政策的咨询和批评。
-* After a week of court challenges — and market swings — The New York Times journalists Zolan Kanno-Youngs, Hamed Aleaziz and Jonathan Swan discuss how President Trump is consolidating power in his second term.
-* 经过一周的法庭挑战和市场波动，《纽约时报》记者Zolan Kanno-Youngs、Hamed Aleaziz和Jonathan Swan讨论了特朗普总统如何在第二个任期内巩固权力。
-* The Upstate region of South Carolina was saved by foreign companies after the fall of its textile industry. Now, tariffs pose another round of uncertainty.
-* 南卡罗来纳州北部地区在纺织业衰落后被外国公司拯救。现在，关税带来了另一轮不确定性。
-* California’s governor has diagnosed one problem for Democrats — connecting with young men — and he sees his podcast as a way to address that. Other Democrats aren’t so sure.
-* 加利福尼亚州州长为民主党人诊断出了一个问题--与年轻人的联系--他认为他的播客是解决这个问题的一种方式。其他民主党人不太确定。
-* Heightened immigration enforcement is stirring anxiety among children whose parents are vulnerable to deportation. “Every day I worry they could take my mom.”
-* 移民执法力度的加强激起了父母容易被驱逐出境的儿童的焦虑。“我每天都担心他们会带走我的妈妈。”
-* The founding LIV Golf commissioner talked with The Times soon after stepping down as chief executive of the Saudi-backed tour that fractured the sport.
-* 创始人LIV高尔夫专员在辞去沙特支持的巡回赛首席执行官一职后不久就与《纽约时报》进行了交谈，这次巡回赛使这项运动分崩离析。
-* Southern California Edison is echoing calls from homeowners to move spark-prone electrical equipment underground. Company officials estimated the cost at more than $650 million.
-* 南加州爱迪生公司正在响应房主的呼吁，将容易产生火花的电气设备转移到地下。公司官员估计成本超过6.5亿美元。
+* The Trump administration is in a standoff with the Chinese government as trade tensions escalate, leaving U.S. businesses in the cross hairs
+* 随着贸易紧张局势升级，特朗普政府与中国政府陷入僵局，使美国企业陷入困境
+* Former Representative Barbara Lee entered the campaign for mayor of the Bay Area city as the favorite. But her main challenger has gained traction after positioning himself as the change candidate.
+* 前众议员芭芭拉·李（ Barbara Lee ）参加了湾区市长的竞选活动。但她的主要挑战者在将自己定位为变革候选人后获得了牵引力。
+* Gov. Greg Abbott of Texas is trying to stop a planned community near Dallas that has fueled anti-Muslim hostility and divided locals.
+* 德克萨斯州州长格雷格·阿博特（ Greg Abbott ）正试图阻止达拉斯附近的一个计划中的社区，该社区助长了反穆斯林的敌意并分裂了当地人。
+* Elon Musk now says his group will produce only 15 percent of the savings it promised. But even that estimate is inflated with errors and guesswork.
+* 埃隆·马斯克（ Elon Musk ）现在表示，他的团队只会节省其承诺的15%。但即使是这个估计也被错误和猜测夸大了。
+* Buoyed by the interests of the family behind Walmart, Bentonville has become an unexpected hub for cycling.
+* 受沃尔玛背后家庭利益的鼓舞，本顿维尔已成为一个意想不到的自行车中心。
+* The spectacle at the mixed martial arts event was emblematic of an emboldened president who increasingly encourages displays of force to carry out his agenda.
+* 混合武术活动的奇观象征着一位大胆的总统，他越来越多地鼓励展示武力来执行他的议程。
+* In situations where a mother faces risk of death, the decision allows for abortions even when death isn’t imminent.
+* 在母亲面临死亡风险的情况下，即使死亡并非迫在眉睫，该决定也允许堕胎。
+* The administration is reviewing about $9 billion in federal funding that the university receives.
+* 政府正在审查该大学收到的大约90亿美元的联邦资金。
+* Two to five inches of snow fell over an area stretching from Albany, N.Y., to Maine overnight Friday into Saturday morning, forecasters said.
+* 天气预报员说，从纽约州奥尔巴尼到缅因州，从周五晚上到周六早上，一片区域降下了2到5英寸的积雪。
+* The weekend weather at the Masters Tournament is expected to be perfect for golf, and the third round began with the leader Justin Rose in a familiar position.
+* 大师赛的周末天气预计将非常适合打高尔夫球，第三轮开始时，领跑者贾斯汀·罗斯（ Justin Rose ）处于熟悉的位置。
 
 ## New York Times Asia News
-* President Trump may be turning relations with NATO and Russian inside out, but winter war games revealed that two militaries’ cooperation was unchanged.
+* The party, once the city’s largest opposition force, long championed a moderate approach. It ended up squeezed between a discontented populace and a repressive Beijing.
+* 该党曾经是该市最大的反对派力量，长期以来一直倡导温和的方法。它最终被挤在不满的民众和镇压的北京之间。
+* China’s leader is on a charm offensive in the region, but some of Beijing’s neighbors are wary of being caught in the crossfire of a superpower rivalry.
+* 中国领导人正在该地区进行魅力攻势，但北京的一些邻国对陷入超级大国竞争的交火持谨慎态度。
+* President Trump may be turning relations with NATO and Russia inside out, but winter war games revealed that two militaries’ cooperation was unchanged.
 * 特朗普总统可能正在彻底改变与北约和俄罗斯的关系，但冬季战争游戏显示，两军的合作没有改变。
-* Beijing residents were told to stay home, tourists sites were closed and thousands of flights were canceled across the country.
+* Beijing residents were told to stay home, tourist sites were closed and thousands of flights were canceled across the country.
 * 北京居民被告知留在家中，旅游景点被关闭，全国数千个航班被取消。
 * The island’s many small factories have thrived by being frugal — and flexible. But President Trump’s unpredictability is testing their limits.
 * 岛上的许多小工厂因节俭和灵活而蓬勃发展。但特朗普总统的不可预测性正在考验他们的极限。
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 在北京针对特朗普总统对美国征收关税而提高美国进口关税后，特斯拉的中国网站上删除了一个“订单”按钮。
 * Beijing’s retaliation came after the White House ratcheted up its tariff on Chinese goods to 125 percent, on top of an existing 20 percent tax.
 * 北京的报复是在白宫将对中国商品的关税提高到125%之后进行的，此前白宫对中国商品征收了20%的关税。
-* The people of Myanmar have often turned to the clergy for aid during natural disasters. But last month’s earthquake was also devastating for monks, many of whom died under the rubble of collapsed monasteries.
-* 在自然灾害期间，缅甸人民经常向神职人员寻求援助。但上个月的地震对僧侣来说也是毁灭性的，其中许多人死于倒塌的寺院废墟下。
-* A set of popular apps helped China’s ByteDance develop a key component of advanced artificial intelligence: information on how a billion people use the internet.
-* 一系列流行的应用程序帮助中国的字节跳动开发了先进人工智能的一个关键组成部分：关于10亿人如何使用互联网的信息。
 
