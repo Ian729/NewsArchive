@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Keith Siegel, who spent 484 days as a hostage, described the physical and psychological distress he endured, in an interview with The New York Times.
-* 基思·西格尔（ Keith Siegel ）作为人质度过了484天，他在接受《纽约时报》采访时描述了他所遭受的身心痛苦。
-* Journalists at Radio Free Europe/Radio Liberty who have been imprisoned for their work are dismayed by the effort to close the outlet.
-* 自由欧洲电台/自由电台的记者因其工作而被监禁，他们对关闭电台的努力感到沮丧。
-* Britain’s Supreme Court ruled that the word “woman” referred to biological sex under the country’s anti-discrimination law, in a blow to trans rights activists.
-* 英国最高法院裁定，根据该国的反歧视法， “女性”一词指的是生理性别，这对跨性别权利活动人士来说是一个打击。
+* Despite Europe’s size, economic might and longstanding alliances with Washington, Trump officials have made clear it is not a priority, European officials say.
+* 欧洲官员表示，尽管欧洲的规模、经济实力和与华盛顿的长期联盟，但特朗普官员已明确表示，这不是优先事项。
+* Beijing is using a mix of carrots and sticks to try to prevent other countries from siding with the United States in isolating China.
+* 北京正在使用胡萝卜和大棒的混合物，试图防止其他国家站在美国一边孤立中国。
+* As it faces the possibility of a 25 percent tariff on its exports, South Korea has taken notice of President Trump’s stated goal to revive U.S. shipbuilding.
+* 由于面临着对其出口征收25%关税的可能性，韩国已经注意到特朗普总统宣布的振兴美国造船业的目标。
+* The world’s largest rodent is multiplying in — and dividing — one of Argentina’s most exclusive gated communities.
+* 世界上最大的啮齿动物正在繁殖，并将阿根廷最独特的门禁社区之一分割开来。
+* Israel developed plans for attacking Iranian nuclear facilities that would have required U.S. assistance. But some administration officials had doubts.
+* 以色列制定了攻击需要美国援助的伊朗核设施的计划。但一些政府官员对此表示怀疑。
+* But Iran’s foreign minister said Tehran planned to participate “calmly and coolly” in the negotiations. Both sides will meet in Rome on Saturday for a second round, Iran’s Foreign Ministry said.
+* 但伊朗外交部长表示，德黑兰计划“冷静而冷静地”参与谈判。伊朗外交部表示，双方将于周六在罗马举行第二轮会谈。
 * The stakes are high as Giorgia Meloni, a conservative who shares some of Mr. Trump’s nationalist ideology, meets with him on Thursday as his trade war has frayed nerves worldwide.
 * 乔治亚•梅洛尼(Giorgia Meloni)是一名保守派人士，与特朗普有着同样的民族主义意识形态，他在周四与他会面，因为他的贸易战已经在全球范围内磨损了神经。
-* A Times investigation shows Therme, a European firm, exaggerated its track record in securing a deal with Ontario, and government auditors found that the process had been unfair and opaque.
-* 《泰晤士报》的一项调查显示，欧洲公司Therme夸大了与安大略省达成协议的记录，政府审计员发现这一过程是不公平和不透明的。
-* Generations of visitors have loved the little island complex called Ontario Place in downtown Toronto. It’s about to change forever.
-* 几代游客都喜欢多伦多市中心名为安大略广场的小岛综合体。它将永远改变。
-* Mexico’s imports of U.S. natural gas are surging, kindling fears that the Trump administration could weaponize this trade.
-* 墨西哥对美国天然气的进口正在飙升，引发了人们对特朗普政府可能将这种贸易武器化的担忧。
-* People in the Ukrainian city struck on Palm Sunday have little hope of a cease-fire.
-* 这座乌克兰城市在棕榈周日发生罢工的人们对停火的希望渺茫。
-* Images of Bashar al-Assad and his family were emblematic of the dynasty’s grip on Syria. Though remnants linger after the regime’s ouster, the removal of the once ubiquitous relics has offered catharsis.
-* 巴沙尔·阿萨德（ Bashar al-Assad ）及其家人的照片象征着王朝对叙利亚的控制。尽管在政权被赶下台后，遗迹仍然存在，但移除曾经无处不在的遗迹提供了宣泄作用。
-* With travel warnings and revoked visas, the two superpowers locked in a bruising trade war may make students and tourists their bargaining chips.
-* 由于旅行警告和吊销签证，陷入激烈贸易战的两个超级大国可能会让学生和游客成为讨价还价的筹码。
+* Experts say President Nayib Bukele has the power but not the interest to return a man deported from Maryland to El Salvador in error.
+* 专家表示，总统纳伊布·布克莱（ Nayib Bukele ）有权但无意将一名被错误地从马里兰州驱逐到萨尔瓦多的男子遣返。
+* Journalists at Radio Free Europe/Radio Liberty who have been imprisoned for their work are dismayed by the effort to close the outlet.
+* 自由欧洲电台/自由电台的记者因其工作而被监禁，他们对关闭电台的努力感到沮丧。
+* Vitalii Dribnytsia engages with Russians online to correct Kremlin propaganda about Ukraine. Over time, he has come to realize his more important audience is Ukrainians themselves.
+* Vitalii Dribnytsia在网上与俄罗斯人接触，纠正克里姆林宫关于乌克兰的宣传。随着时间的推移，他逐渐意识到他更重要的听众是乌克兰人自己。
 
 ## New York Times United States News
-* State officials argue in a lawsuit that the U.S. Constitution expressly gives the authority to impose tariffs to Congress.
-* 州政府官员在一项诉讼中辩称，美国宪法明确授权国会征收关税。
-* The new U.C.L.A. survey found that many adults in Los Angeles County had lost jobs or incomes to the fires, or knew someone who had been personally affected by the disaster.
-* 加州大学洛杉矶分校的新调查发现，洛杉矶县的许多成年人因火灾而失去工作或收入，或者认识一些受灾难影响的人。
-* The Trump administration is considering taking control of the seating in the White House press briefing room from the independent White House Correspondents’ Association. Ashley Wu, a graphics reporter for The New York Times, explains why this matters and notes how questions at the briefings have already started to change.
-* 特朗普政府正在考虑从独立的白宫记者协会手中接管白宫新闻发布室的座位。《纽约时报》的图形记者Ashley Wu解释了为什么这很重要，并指出了简报会上的问题已经开始发生变化。
-* An arcane Senate tradition effectively gives senators veto power over nominees for U.S. attorney in their home states, providing Democrats a potential opening to stop President Trump’s picks.
-* 参议院的神秘传统有效地赋予了参议员否决本州美国检察官提名人的权力，为民主党人提供了阻止特朗普总统当选的潜在机会。
-* Another service member was seriously wounded, the military said. The cause of the accident is under investigation.
-* 军方表示，另一名军人受重伤。事故原因正在调查中。
-* Three people, including the two who were subdued with stun guns, were arrested.
-* 包括两名被电击枪制服的人在内的三人被捕。
-* The Trump administration will freeze over $2 billion in federal funds because Harvard refused to comply with a list of demands. Harvard leaders believed saying no was worth the risk.
-* 特朗普政府将冻结超过20亿美元的联邦资金，因为哈佛拒绝遵守一系列要求。哈佛大学的领导人认为，说“不”是值得冒险的。
-* David Hogg, a young liberal activist and now a vice chair of the Democratic National Committee, is leading an effort to unseat the party’s older lawmakers in primaries.
-* 大卫·霍格（ David Hogg ）是一位年轻的自由主义活动家，现在是民主党全国委员会的副主席，他正在领导一项努力，以推翻该党在初选中的老议员。
-* In Joseph R. Biden Jr.’s first extensive speech since he left office, he accused the Trump administration of “taking a hatchet” to the Social Security Administration.
-* 在小约瑟夫· R ·拜登（ Joseph R. Biden Jr. ）离任后的首次广泛演讲中，他指责特朗普政府向社会保障局“挥舞斧头”。
-* President Trump is trying to influence which colleges receive federal financial support, a practice that began around the time of World War II.
-* 特朗普总统正试图影响哪些大学获得联邦财政支持，这种做法始于二战期间。
+* Dr. Abdul El-Sayed, a progressive former public health official, is joining the Democratic race to succeed Senator Gary Peters, who is retiring.
+* 进步的前公共卫生官员Abdul El-Sayed博士正在加入民主党竞选，以接替即将退休的参议员Gary Peters。
+* Despite some attempts to create controlled environments aimed at thwarting disruptions by protesters, congressional Republicans who are holding town halls are catching continued heat from their constituents.
+* 尽管有人试图创造控制环境，以挫败抗议者的干扰，但控制市政厅的国会共和党人正在从选民那里获得持续的热量。
+* Can President Trump withhold federal money for low-income students? A brewing fight over diversity, equity and inclusion programs may force the courts to decide.
+* 特朗普总统能否为低收入学生扣留联邦资金？围绕多元化、公平和包容性计划的酝酿中的斗争可能会迫使法院做出决定。
+* The Menendez brothers were sentenced to life in prison without the possibility of parole, but after recent documentaries and TV shows, new evidence has been introduced, and some are pushing for the case to be revisited. Matt Stevens and Tim Arango, reporters for The New York Times, explain the Menendez brothers’ legal avenues to freedom.
+* 梅嫩德斯兄弟被判处终身监禁，不得假释，但在最近的纪录片和电视节目之后，引入了新的证据，有些人正在推动重新审理案件。《纽约时报》的记者马特·史蒂文斯（ Matt Stevens ）和蒂姆·阿兰戈（ Tim Arango ）解释了梅嫩德斯兄弟获得自由的法律途径。
+* The Texas House approved the plan, part of a push by President Trump’s allies to offer up to about $10,000 for private school, home-school or virtual learning.
+* 德克萨斯州众议院批准了该计划，这是特朗普总统的盟友推动为私立学校、家庭学校或虚拟学习提供高达约1万美元资金的一部分。
+* The move would be a major escalation of the Trump administration’s attempts to choke off federal money and support for the leading research university.
+* 此举将是特朗普政府试图扼杀联邦资金和对领先研究型大学的支持的重大升级。
+* The appearance by Patty Morin came as a federal judge threatened the Trump administration with a contempt-of-court investigation over its deportation flights to El Salvador.
+* 帕蒂·莫林（ Patty Morin ）的出庭正值一名联邦法官威胁特朗普政府对其前往萨尔瓦多的驱逐航班进行藐视法庭调查之际。
+* The men were thrown overboard when two boats collided in Lewis Smith Lake on Wednesday morning, the authorities said.
+* 当局称，周三早上两艘船在刘易斯史密斯湖相撞时，这些人被扔下船。
+* Researchers who have lost funds warned of long-term repercussions, but several said their school should still refuse to comply with the federal government.
+* 失去资金的研究人员警告说，这会产生长期影响，但有几位研究人员表示，他们的学校仍应拒绝遵守联邦政府的规定。
+* Israel developed plans for attacking Iranian nuclear facilities that would have required U.S. assistance. But some administration officials had doubts.
+* 以色列制定了攻击需要美国援助的伊朗核设施的计划。但一些政府官员对此表示怀疑。
 
 ## New York Times Asia News
+* The day before the visit by Jensen Huang, lawmakers in Washington said they were investigating whether the chipmaker’s sales in China violated U.S. rules.
+* 在黄延森访问的前一天，华盛顿的立法者表示，他们正在调查这家芯片制造商在中国的销售是否违反了美国的规定。
+* China is facing a double whammy: corrosive deflation and tariffs that threaten to block trade. Chinese workers will be the biggest casualties.
+* 中国正面临双重打击：腐蚀性通货紧缩和威胁阻止贸易的关税。中国工人将是最大的伤亡者。
+* As it faces the possibility of a 25 percent tariff on its exports, South Korea has taken notice of President Trump’s stated goal to revive U.S. shipbuilding.
+* 由于面临着对其出口征收25%关税的可能性，韩国已经注意到特朗普总统宣布的振兴美国造船业的目标。
+* Beijing is using a mix of carrots and sticks to try to prevent other countries from siding with the United States in isolating China.
+* 北京正在使用胡萝卜和大棒的混合物，试图防止其他国家站在美国一边孤立中国。
+* Plus, a look at the Grand Egyptian Museum.
+* 此外，还可以参观大埃及博物馆。
+* Secretary of State Marco Rubio put about 40 employees on leave who had tracked disinformation by China, Russia, Iran and terrorist groups.
+* 国务卿马可·卢比奥（ Marco Rubio ）让大约40名员工休假，他们追踪了中国、俄罗斯、伊朗和恐怖组织的虚假信息。
+* China seized mines and built factories. Japan took note and invested in Australia. But the United States did little despite concerns about control of supplies.
+* 中国没收了矿山并建造了工厂。日本注意到并投资于澳大利亚。但尽管对供应控制感到担忧，但美国几乎没有采取任何行动。
 * The actress, who stars in the new Apple TV+ series “Your Friends & Neighbors,” guides a treasure hunt though the city where she spent much of her childhood.
 * 这位女演员在新的Apple TV +系列“你的朋友和邻居”中出演，指导她在童年大部分时间都在这个城市寻宝。
 * With travel warnings and revoked visas, the two superpowers locked in a bruising trade war may make students and tourists their bargaining chips.
 * 由于旅行警告和吊销签证，陷入激烈贸易战的两个超级大国可能会让学生和游客成为讨价还价的筹码。
-* The president at turns praises and criticizes Japan, a U.S. ally that decades ago stirred his anger over the unequal balance of trade and his penchant for tariffs.
-* 总统反过来赞扬和批评日本，日本是美国的盟友，几十年前引发了他对不平等贸易平衡和对关税的偏好的愤怒。
-* President Trump has threatened tariffs on Taiwan and the chip industry. China has signaled it will not let the trade war keep it from the technology it needs.
-* 特朗普总统威胁要对台湾和芯片行业征收关税。中国已表示不会让贸易战阻碍其获得所需的技术。
-* The economy grew steadily from January through March, but U.S. tariffs pose a risk for China in the coming weeks and months.
-* 经济从1月到3月稳步增长，但美国的关税在未来几周和几个月对中国构成风险。
-* The move comes before President Trump’s planned imposition of new tariffs on small packages sent to the United States from Hong Kong and China.
-* 此举是在特朗普总统计划对从香港和中国运往美国的小包裹征收新关税之前采取的。
-* Plus, the fight over Van Gogh’s roots.
-* 此外，梵高的根源之争。
-* A tourist season that stretches from October to March has been anything but jolly for some residents of the “Official Hometown of Santa Claus.”
-* 对于「圣诞老人官方家乡」的一些居民来说，从10月到3月的旅游旺季一点也不愉快。
-* Levies on Americans’ daily prescriptions and other medicines could raise costs, spur rationing and lead to shortages of critical drugs.
-* 对美国人的日常处方和其他药物征税可能会提高成本，刺激配给，并导致关键药物短缺。
-* Operators of the airport where Jeju Air Flight 2216 crashed in December, killing 179, failed to meet both international and South Korean guidelines intended to prevent such strikes.
-* 济州航空2216号班机去年12月坠毁，造成179人死亡，该机场的运营商未能达到旨在防止此类罢工的国际和韩国准则。
+* For his first face-to-face talks on tariffs, the president chose Japan, a U.S. ally that decades ago stirred his anger over the unequal balance of trade and his penchant for tariffs.
+* 在他的首次面对面关税谈判中，总统选择了日本，几十年前，这个美国盟友激起了他对不平等贸易平衡和对关税的偏好的愤怒。
 
