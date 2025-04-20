@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Thierno Agne left behind studying law to grow strawberries, a shocking move in Senegal, where farming is considered work for the old, poor and uneducated. His success is making the profession “sexy.”
+* 蒂尔诺·阿涅（ Thierno Agne ）离开了学习法律种植草莓，这在塞内加尔是一个令人震惊的举动，在那里，农业被认为是为老年人、穷人和未受过教育的人工作。他的成功让这个职业变得“性感”。
+* President Zelensky of Ukraine said the front lines had seen artillery fire and drone attacks, and that his troops were responding in kind.
+* 乌克兰总统泽伦斯基（ Zelensky ）表示，前线已经看到炮火和无人机袭击，他的部队正在以实物回应。
+* A sectarian-fueled killing spree exposed how fragile peace is in Syria, where the government’s control is limited and tension runs deep after nearly 14 years of civil war.
+* 一场由教派引发的杀戮狂潮暴露了叙利亚的和平是多么脆弱，政府对叙利亚的控制是有限的，经过近14年的内战，紧张局势仍然很严重。
+* The agreements are shaping up to be very similar. But Gulf support for a nuclear deal shows how much the region has changed.
+* 这些协议正在形成非常相似的形式。但海湾地区对核协议的支持表明该地区已经发生了多大变化。
 * The stark consequences of the rollback are evident in few places as clearly as in Sudan, where a brutal civil war has combined with a staggering humanitarian catastrophe.
 * 在苏丹，残酷的内战加上惊人的人道主义灾难，这种倒退的严重后果在很少的地方显而易见。
-* The Trump administration has sent mixed messages about its goal for the negotiations.
-* 特朗普政府就其谈判目标发出了不同的信息。
+* The two sides set an agenda for additional negotiations in the coming days, which could include technical details on uranium enrichment.
+* 双方为未来几天的额外谈判制定了一个议程，其中可能包括有关铀浓缩的技术细节。
 * Voters are overlooking Mark Carney’s linguistic gaffes and lack of knowledge about the French-speaking province, viewing him as the most capable candidate to deal with President Trump.
 * 选民们忽视了马克·卡尼（ Mark Carney ）的语言失误和对法语区缺乏了解，认为他是与特朗普总统打交道的最有能力的候选人。
+* President Vladimir V. Putin of Russia said that he had ordered his forces to “stop all military activity” from Saturday evening through Sunday. Ukraine’s leader said Putin was trying to “play with people’s lives.”
+* 俄罗斯总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）表示，他已命令其部队从周六晚上到周日“停止所有军事活动”。乌克兰领导人表示，普京试图“玩弄人民的生活”。
+* Many thought President Trump would be able to finish the war. Now they are not so sure.
+* 许多人认为特朗普总统能够结束战争。现在他们不太确定了。
 * As the North African nation continues to slide toward authoritarianism, a court sentenced about 40 people, including high-profile rivals of the president, to up to 66 years in prison.
 * 随着北非国家继续走向威权主义，法院判处约40人入狱，其中包括总统的高调对手，最高可达66年。
-* The April 28 election will come down to two candidates with starkly different personalities and experience: Mark Carney and Pierre Poilievre.
-* 4月28日的选举将归结为两位性格和经验截然不同的候选人： Mark Carney和Pierre Poilievre。
-* A U.S. senator was allowed to meet with Kilmar Armando Abrego Garcia, but he was denied access to where Mr. Abrego Garcia had been held. What is that prison like?
-* 一名美国参议员被允许与Kilmar Armando Abrego Garcia会面，但他被拒绝进入Abrego Garcia先生被关押的地方。那监狱是什么样的？
-* “If it is not possible to end the war in Ukraine, we need to move on,” Secretary of State Marco Rubio said as he departed meetings in Paris.
-* “如果不可能结束乌克兰战争，我们需要继续前进，”国务卿马可·卢比奥在巴黎开会时表示。
-* China is the biggest foreign patron of Cambodia, where Mr. Xi concluded a tour of Southeast Asia. But the region also needs to curry favor with President Trump.
-* 中国是柬埔寨最大的外国赞助者，习近平结束了对东南亚的访问。但该地区也需要讨好特朗普总统。
-* Syria’s ousted dictator, Bashar al-Assad, unleashed a Sarin gas strike on the suburbs of Damascus in 2013, killing at least 1,500. Now, the survivors want justice.
-* 叙利亚被驱逐的独裁者巴沙尔·阿萨德（ Bashar al-Assad ）于2013年在大马士革郊区发动了沙林毒气袭击，造成至少1,500人死亡。现在，幸存者想要正义。
-* In Washington, President Trump lavished praise on Prime Minister Giorgia Meloni of Italy. He also accepted her invitation to visit Rome.
-* 在华盛顿，特朗普总统对意大利总理乔治亚·梅洛尼（ Giorgia Meloni ）大加赞扬。他还接受了她访问罗马的邀请。
 
 ## New York Times United States News
-* The president is trying to rewrite the narrative of Kilmar Armando Abrego Garcia’s wrongful deportation as a dispute about illegal immigration rather than the rule of law.
-* 总统正试图将Kilmar Armando Abrego Garcia被错误驱逐出境的叙述改写为有关非法移民而不是法治的争议。
-* Students could bypass the United States for friendlier countries as the Trump administration attacks universities and revokes visas. Their loss could hurt schools and the economy.
-* 随着特朗普政府攻击大学并吊销签证，学生们可以绕过美国前往更友好的国家。他们的损失可能会损害学校和经济。
-* “You have to laugh to keep from crying,” one Republican pollster said about recent comments by the billionaires on the stock market, retirement funds and Social Security.
-* 一位共和党民意调查专家谈到亿万富翁最近对股市、退休基金和社会保障的评论时说： “你必须笑来避免哭泣。”
-* Jesus Jiménez, a New York Times reporter, goes to the Pacific Palisades neighborhood of Los Angeles to look into the burnt lots on sale for millions of dollars. Several weeks after wildfires destroyed the wealthy neighborhood, homeowners are assessing the damage, their insurance coverage and the costs of rebuilding, and some are deciding to cut their losses and leave for good. Jiménez reports on who is selling and who is buying.
-* 《纽约时报》记者耶稣·希门尼斯（ Jesus Jiménez ）前往洛杉矶的太平洋帕利塞德（ Pacific Palisades ）街区，查看以数百万美元出售的烧毁地块。在野火摧毁了富裕社区几周后，房主正在评估损失、保险范围和重建成本，有些人决定减少损失并永久离开。Jiménez报告了谁在卖谁在买。
-* As Pacific Palisades residents clear debris from January’s wildfires, they’re wrestling with the decision to stay and rebuild or sell and move away.
-* 随着太平洋帕利塞德（ Pacific Palisades ）居民清理1月份野火的残骸，他们正在为留下来重建或出售和搬走的决定而苦苦挣扎。
-* Lucha libre, the Mexican version of professional wrestling, is thriving in Los Angeles, where the action and the masks draw fans to venues big and small.
-* Lucha libre ，墨西哥版的职业摔跤，在洛杉矶蓬勃发展，动作和面具吸引球迷到大大小小的场地。
-* A suit challenges the Trump administration’s campaign in four states and Puerto Rico, and seeks the reinstatement of terminated student visas.
-* 一项诉讼挑战了特朗普政府在四个州和波多黎各的竞选活动，并寻求恢复被终止的学生签证。
-* Judge James E. Boasberg had threatened to open contempt proceedings to determine whether the Trump administration had violated his order not to deport Venezuelan migrants to El Salvador.
-* 法官詹姆斯· E ·博阿斯伯格(James E. Boasberg)曾威胁要启动藐视法庭诉讼，以确定特朗普政府是否违反了他不将委内瑞拉移民驱逐到萨尔瓦多的命令。
-* A group of transgender plaintiffs sued President Trump and the State Department over a new rule prohibiting passports from including a gender different from the sex listed on an original birth certificate.
-* 一群跨性别原告起诉特朗普总统和美国国务院，称其新规禁止护照包含与原始出生证明上所列性别不同的性别。
-* The court barred the Trump administration from laying off nearly 1,500 workers at the agency until at least April 28.
-* 法院禁止特朗普政府至少在4月28日之前解雇该机构的近1,500名工人。
+* Kash Patel’s embrace of the spotlight appears to be a break from the recent past, as his predecessors typically did the job with little fanfare.
+* 卡什·帕特尔（ Kash Patel ）对聚光灯的拥抱似乎与最近的过去有所不同，因为他的前任通常很少大张旗鼓地完成这项工作。
+* For decades, the share of American Catholics declined in the face in secularization. But in recent years, those numbers have stabilized, buoyed by growing communities and broader societal changes.
+* 几十年来，在世俗化过程中，美国天主教徒的比例有所下降。但近年来，这些数字已经稳定下来，这得益于不断增长的社区和更广泛的社会变革。
+* The mayor of the Silicon Valley city has proposed arresting people who don’t accept offers of shelter. It’s the latest sign of frustrations over tent encampments in California.
+* 硅谷市长提议逮捕不接受庇护的人。这是对加利福尼亚帐篷营地感到沮丧的最新迹象。
+* Texas lottery executives blessed a scheme that ensured one player would win a $95 million jackpot in 2023. The caper has underscored a sense that almost nothing is on the level.
+* 德克萨斯州彩票高管祝福了一项确保一名玩家在2023年赢得9500万美元大奖的计划。雀跃强调了一种感觉，几乎没有任何东西在水平上。
+* The draft executive order to be signed by President Trump would eliminate Africa operations and shut down bureaus working on democracy, human rights and refugee issues.
+* 特朗普总统将签署的行政命令草案将取消非洲业务，并关闭负责民主、人权和难民问题的部门。
+* The push to deport a group of Venezuelans raises questions about whether the government is following a Supreme Court order requiring that migrants receive due process.
+* 驱逐一群委内瑞拉人的行动引发了人们的质疑，即政府是否遵循了最高法院的命令，要求移民获得正当程序。
+* The solicitor general asked the Supreme Court to ‘dissolve’ their temporary block on the deportations of Venezuelans and to allow lower courts to consider the case.
+* 副检察长要求最高法院“解散”他们对驱逐委内瑞拉人的临时限制，并允许下级法院审理此案。
+* The authorities said they were conducting a “fatal aircraft investigation” but did not provide details about the number of people who died.
+* 当局表示，他们正在进行“致命的飞机调查” ，但没有提供有关死亡人数的详细信息。
+* Legal challenges over the powerful wartime law have gone all the way to the Supreme Court.
+* 对强大的战时法律的法律挑战一直延伸到最高法院。
+* The former congresswoman, a progressive Democrat, campaigned on a promise to unite residents in the beleaguered California city. Her challenger, Loren Taylor, conceded on Saturday.
+* 这位前国会女议员是一位进步的民主党人，她竞选时承诺要团结这个陷入困境的加利福尼亚城市的居民。她的挑战者洛伦·泰勒（ Loren Taylor ）周六承认了这一点。
 
 ## New York Times Asia News
+* The victims fell or were swept into the ocean, according to the police, as swells pounded Sydney and other places along the country’s east coast. At least two others were missing.
+* 据警方称，当雪梨和该国东海岸的其他地方发生巨浪时，受害者摔倒或被扫入大海。至少还有两个人失踪了。
+* The draft executive order to be signed by President Trump would eliminate Africa operations and shut down bureaus working on democracy, human rights and refugee issues.
+* 特朗普总统将签署的行政命令草案将取消非洲业务，并关闭负责民主、人权和难民问题的部门。
 * The new fees are aimed at countering China’s dominance of the shipbuilding industry, but critics say they will simply raise prices for American consumers.
 * 新的收费旨在对抗中国在造船业中的主导地位，但批评人士表示，这些收费只会提高美国消费者的价格。
 * From 2003 to 2009, he brought a quiet style of leadership to his Southeast Asian nation after the strongman rule of Mahathir Mohamad.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 印度当局表示，这名男子于周四被捕，与锡克教分离主义运动有关。他的被捕对印度来说是一场胜利，印度长期以来在引渡其公民的努力中步履蹒跚。
 * Plus, Argentina’s capybara problem.
 * 还有阿根廷的水豚问题。
-* The day before the visit by Jensen Huang, lawmakers in Washington said they were investigating whether the chipmaker’s sales in China violated U.S. rules.
-* 在黄延森访问的前一天，华盛顿的立法者表示，他们正在调查这家芯片制造商在中国的销售是否违反了美国的规定。
-* China is facing a double whammy: corrosive deflation and tariffs that threaten to block trade. Chinese workers will be the biggest casualties.
-* 中国正面临双重打击：腐蚀性通货紧缩和威胁阻止贸易的关税。中国工人将是最大的伤亡者。
 
