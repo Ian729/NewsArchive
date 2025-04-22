@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Pope Francis’ funeral will be a more modest event, after the pontiff broke with longstanding Vatican tradition to simplify the ritual. It will likely take weeks to choose a new pontiff.
+* 在教皇打破梵蒂冈长期以来的传统以简化仪式之后，教皇弗朗西斯的葬礼将是一个更温和的事件。选择一位新教皇可能需要数周的时间。
+* As democratic values and alliances were being turned upside down, the pope was a consistent moral guidepost. Who can play that role now?
+* 随着民主价值观和联盟被颠倒过来，教皇是一贯的道德路标。现在谁能扮演这个角色？
+* Europe’s weapons makers are prospering as the continent reconsiders its post-Cold War stance of favoring domestic investment over military spending.
+* 随着欧洲大陆重新考虑其冷战后倾向于国内投资而不是军事支出的立场，欧洲的武器制造商正在蓬勃发展。
+* In rural England, increasingly sophisticated farming equipment has become a target for thieves, adding to pressure on farming communities.
+* 在英格兰农村，越来越先进的农业设备已成为盗贼的目标，增加了农业社区的压力。
 * After decades of conservative leadership, Francis tried to reset the course of the Roman Catholic Church, emphasizing inclusion and care for the marginalized over doctrinal purity.
 * 经过几十年的保守领导，弗朗西斯试图重新设定罗马天主教会的路线，强调包容和关心边缘化的人，而不是教义的纯洁性。
-* His groundbreaking pontificate worked to make the Catholic Church more inclusive. Cardinals will now decide whether to continue his approach or restore more doctrinaire leadership.
-* 他开创性的教皇职位致力于使天主教会更具包容性。红衣主教现在将决定是继续他的方法还是恢复更多的教条主义领导。
+* The pope’s funeral will take place on Saturday. Choosing his successor could take weeks.
+* 教皇的葬礼将于周六举行。选择他的继任者可能需要数周时间。
+* An unlikely choice to be pope championed causes and challenged orthodoxy, keeping allies and critics alike on their toes.
+* 不太可能成为教皇拥护的事业和挑战正统的选择，使盟友和批评者保持警惕。
+* The far-right finance minister, Bezalel Smotrich, said the more crucial goal was ensuring that Hamas no longer ruled the Gaza Strip.
+* 极右翼财政部长贝扎莱尔·斯莫特里奇（ Bezalel Smotrich ）表示，更重要的目标是确保哈马斯不再统治加沙地带。
+* In a scathing court affidavit, the head of the Shin Bet said that Prime Minister Benjamin Netanyahu pressed him to spy on anti-government protesters.
+* 在一份严厉的法庭宣誓书中， Shin Bet的负责人表示，总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）迫使他监视反政府抗议者。
 * Curbing trade with China to curry favor with the United States would be “selfish and shortsighted,” the government said, promising to retaliate.
 * 政府表示，遏制与中国的贸易以讨好美国将是“自私和短视的” ，并承诺进行报复。
-* During a visit to Palmyra, reporters found traces of the many forces that had fought over the city and ancient monuments reduced to rubble.
-* 在访问巴尔米拉期间，记者发现了争夺这座城市的许多部队的痕迹，古代纪念碑变成了废墟。
-* The collapse has brought scrutiny of the Chinese state-owned company that was putting up the doomed building.
-* 这次倒塌引起了对这家正在建造这座注定要失败的大楼的中国国有企业的审查。
-* The fire in a 21-story building in southern Seoul killed one person and injured several others, two of them seriously.
-* 首尔南部一栋21层建筑发生火灾，造成一人死亡，数人受伤，其中两人伤势严重。
-* President Zelensky of Ukraine said the front lines had seen artillery fire and drone attacks, and that his troops were responding. Russia accused Ukraine of breaking the cease-fire.
-* 乌克兰总统泽伦斯基表示，前线已经看到炮火和无人机袭击，他的部队正在作出回应。俄罗斯指责乌克兰破坏停火。
-* Many thought President Trump would be able to finish the war. Now they are not so sure.
-* 许多人认为特朗普总统能够结束战争。现在他们不太确定了。
-* The agreements are shaping up to be very similar. But Gulf support for a nuclear deal shows how much the region has changed.
-* 这些协议正在形成非常相似的形式。但海湾地区对核协议的支持表明该地区已经发生了多大变化。
-* In a statement and a briefing summarizing its investigation into the deadly episode, the military said a deputy commander would be dismissed.
-* 军方在一份声明和简报中总结了对这一致命事件的调查，并表示将解雇一名副指挥官。
 
 ## New York Times United States News
-* The visit comes on the heels of a trip by Senator Chris Van Hollen, who met last week with the deported man, Kilmar Armando Abrego Garcia.
-* 这次访问是在参议员克里斯·范霍伦（ Chris Van Hollen ）访问之后进行的，他上周与被驱逐出境的男子基尔马尔·阿曼多·阿布雷戈·加西亚（ Kilmar Armando Abrego Garcia ）
-* Parents in Maryland say they have a religious right to withdraw their children from classes on days that storybooks with gay and transgender themes are discussed.
-* 马里兰州的父母表示，在讨论同性恋和跨性别主题的故事书的日子里，他们有宗教权利让孩子退学。
-* The White House is soliciting policy proposals designed to give women incentives to have more children, a priority for many social conservatives.
-* 白宫正在征求旨在鼓励妇女生育更多孩子的政策建议，这是许多社会保守派的优先事项。
-* Los Angeles is rebuilding, but new crises are mounting and Mayor Karen Bass has been haunted by her absence when the fires started. It’s unclear whether she can reset.
-* 洛杉矶正在重建，但新的危机正在加剧，当火灾开始时，市长凯伦·巴斯（ Karen Bass ）因缺席而饱受困扰。目前还不清楚她是否可以重置。
-* State efforts to urge the Supreme Court to reconsider same-sex marriage have not advanced, but they have reopened the issue.
-* 州政府敦促最高法院重新考虑同性婚姻的努力没有取得进展，但他们重新讨论了这个问题。
-* President Nayib Bukele said he would free the Venezuelans that the Trump administration deported to El Salvador if Venezuela released the same number of prisoners, including members of the opposition.
-* 总统纳伊布·布克莱（ Nayib Bukele ）表示，如果委内瑞拉释放同样数量的囚犯，包括反对派成员，他将释放特朗普政府驱逐到萨尔瓦多的委内瑞拉人。
-* The staggering amount, disclosed in a filing with the Federal Election Commission, was driven by corporate America’s eagerness to win the president’s favor.
-* 在向联邦选举委员会提交的文件中披露的惊人金额是由美国企业渴望赢得总统的青睐所驱动的。
-* The defense secretary sent sensitive information about strikes in Yemen to an encrypted group chat that included his wife and brother, people familiar with the matter said.
-* 知情人士称，国防部长将关于也门罢工的敏感信息发送给了一个加密的群聊，其中包括他的妻子和兄弟。
-* “Facilitating his return means something more than doing nothing, and they are doing nothing,” Senator Chris Van Hollen said after his trip to El Salvador.
-* 参议员克里斯·范霍伦（ Chris Van Hollen ）在访问萨尔瓦多后表示： “为他的回归提供便利不仅仅意味着什么都不做，他们什么也不做。”
-* Justice Samuel A. Alito Jr. wrote that the court’s overnight order blocking the Trump administration from deporting a group of Venezuelans under a wartime law was not “necessary or appropriate.”
-* 大法官塞缪尔· A ·阿利托（ Samuel A. Alito Jr. ）写道，法院的隔夜命令阻止特朗普政府根据战时法律驱逐一群委内瑞拉人，这不是“必要或适当的”。
+* The defense secretary’s inner circle is in disarray, and distrust is growing among civil servants and senior military officials.
+* 国防部长的核心圈子陷入混乱，公务员和高级军官之间的不信任正在增加。
+* The immigrant does not appear on a list of people sent to a prison in El Salvador, and his family and friends have no idea of his whereabouts. He has essentially disappeared.
+* 这名移民没有出现在被送往萨尔瓦多监狱的人员名单上，他的家人和朋友也不知道他的下落。他基本上消失了。
+* The Democratic representative from suburban Detroit is likely to be seen as a centrist in the primary contest to replace Senator Gary Peters, who is retiring.
+* 底特律郊区的民主党代表可能会被视为初选的中间派，以取代即将退休的参议员加里·彼得斯（ Gary Peters ）。
+* The world’s richest university may have enough money to survive a battle with the most powerful man in the world. But if Trump wins, Harvard won’t be the same.
+* 这所世界上最富有的大学可能有足够的钱在与世界上最有权势的人的战斗中生存下来。但如果特朗普赢了，哈佛就不一样了。
+* Retail executives huddled with the president amid fears that tariffs could result in higher prices.
+* 零售业高管与总统挤在一起，担心关税可能导致价格上涨。
+* Experts in federal employment law said the Trump administration’s justifications to end the investigations were baffling at best.
+* 联邦就业法专家表示，特朗普政府结束调查的理由充其量是令人困惑的。
+* Demonstrators sought the release of Mohsen Mahdawi and Mahmoud Khalil, who organized pro-Palestinian protests and have been taken into ICE custody.
+* 示威者要求释放Mohsen Mahdawi和Mahmoud Khalil ，他们组织了亲巴勒斯坦的抗议活动并被ICE拘留。
+* The mistakes, miscommunications and flip-flops are piling up after an early run defined by a flood of major policy changes that were rolled out at breakneck speed.
+* 在一系列以惊人的速度推出的重大政策变化所定义的早期运行之后，错误，沟通不畅和人字拖正在堆积。
+* Elon Musk talks a lot about the birthrate. The Trump administration is looking for ways to raise it.
+* 埃隆·马斯克（ Elon Musk ）经常谈论出生率。特朗普政府正在寻找提高它的方法。
+* At the annual White House Easter Egg Roll, President Trump and Defense Secretary Pete Hegseth could not avoid the news about another chat that involved sensitive details about forthcoming military strikes.
+* 在白宫一年一度的复活节滚彩蛋活动中，特朗普总统和国防部长皮特·赫格塞斯（ Pete Hegseth ）无法回避关于另一场涉及即将到来的军事打击敏感细节的谈话的消息。
 
 ## New York Times Asia News
-* CATL, the world’s largest maker of batteries for electric vehicles, described breakthroughs that could make E.V.s more competitive with gasoline-powered cars.
-* 全球最大的电动汽车电池制造商宁德时代(CATL)描述了可能使电动汽车与汽油动力汽车更具竞争力的突破。
-* Curbing trade with China to curry favor with the United States would be “selfish and shortsighted,” the government said, promising to retaliate.
-* 政府表示，遏制与中国的贸易以讨好美国将是“自私和短视的” ，并承诺进行报复。
-* The collapse has brought scrutiny of the Chinese state-owned company that was putting up the doomed building.
-* 这次倒塌引起了对这家正在建造这座注定要失败的大楼的中国国有企业的审查。
-* Selected photographs from the life and papacy of Pope Francis.
-* 教皇弗朗西斯生平和教皇职位的精选照片。
-* Trump’s tariffs and threats against the Federal Reserve continued to jar investors on Monday as stocks, oil and the U.S. dollar all weakened. Gold set another record high.
-* 周一，随着股市、石油和美元全部走弱，特朗普的关税和对美联储的威胁继续刺激投资者。黄金再创历史新高。
-* The fire in a 21-story building in southern Seoul killed one person and injured several others, two of them seriously.
-* 首尔南部一栋21层建筑发生火灾，造成一人死亡，数人受伤，其中两人伤势严重。
-* Plus, a Senegalese strawberry farmer on a mission.
-* 此外，还有一位正在执行任务的塞内加尔草莓农民。
-* The victims fell or were swept into the ocean, according to the police, as swells pounded Sydney and other places along the country’s east coast. At least two others were missing.
-* 据警方称，当雪梨和该国东海岸的其他地方发生巨浪时，受害者摔倒或被扫入大海。至少还有两个人失踪了。
-* The draft executive order would eliminate Africa operations and shut down bureaus working on democracy, human rights and refugee issues.
-* 行政命令草案将取消非洲的业务，并关闭负责民主、人权和难民问题的部门。
-* The new fees are aimed at countering China’s dominance of the shipbuilding industry, but critics say they will simply raise prices for American consumers.
-* 新的收费旨在对抗中国在造船业中的主导地位，但批评人士表示，这些收费只会提高美国消费者的价格。
+* Periods including “fish emerge from the ice” in mid-February and “rainbows hide” in late November offer a framework for eating, gathering and celebrating.
+* 包括2月中旬的“鱼从冰中冒出”和11月下旬的“彩虹隐藏”在内的时期，为吃饭、聚会和庆祝提供了一个框架。
+* How ancient history and modern calamities have cultivated a national obsession with menacing creatures.
+* 古老的历史和现代的灾难如何培养了民族对威胁生物的痴迷。
+* Yuzu has already gone mainstream. Which fruits will make a splash on menus next?
+* 柚子已经成为主流。接下来哪些水果会在菜单上引人注目？
+* The artists, musicians and writers pushing past decades of historical erasure.
+* 艺术家、音乐家和作家们推动了数十年的历史擦除。
+* Throughout its history, the country has taken imports and changed them into something else entirely.
+* 纵观其历史，该国已进口并将其完全转化为其他东西。
+* The country’s objects and ideas, including matcha and emojis, that have had an outsize influence on the world.
+* 该国的对象和想法，包括抹茶和表情符号，对世界产生了巨大的影响。
+* Transience has come to inform so much of Japan’s culture — even its sense of self.
+* 短暂性已经让人们了解了日本的文化，甚至是它的自我意识。
+* We asked some of our favorite chefs, designers and artists to predict what will become our new obsession.
+* 我们请了一些我们最喜欢的厨师、设计师和艺术家来预测我们新的痴迷点。
+* Otaku, people for whom hero worship is a way of life, have changed everyone’s relationship to the culture.
+* 对于以英雄崇拜为生活方式的人们来说，御宅族改变了每个人与文化的关系。
+* From Hello Kitty to Pikachu, the country changed what the world considers adorable. But do these characters represent joy — or rage?
+* 从Hello Kitty到皮卡丘，这个国家改变了世界认为可爱的东西。但这些角色代表的是快乐还是愤怒？
 
