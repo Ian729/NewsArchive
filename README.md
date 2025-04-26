@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* The pontiff will be laid to rest after a funeral Mass in front of St. Peter’s Basilica in Vatican City. Dozens of world leaders were attending, including President Trump, who met with President Volodymyr Zelensky of Ukraine.
+* 教皇将在梵蒂冈城圣彼得大教堂前举行葬礼弥撒后休息。数十位世界领导人出席了会议，其中包括特朗普总统，他会见了乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）。
+* The Dominican nightclub where a roof loaded with equipment collapsed, killing 232 people, had repeatedly violated excessive noise rules. Now some wonder if sound vibrations played a role.
+* 装满设备的屋顶倒塌，造成232人死亡的多米尼加夜总会一再违反过度噪音规则。现在有些人怀疑声音振动是否起到了作用。
+* Mark Carney, the new prime minister seeking a full term in Monday’s election, has built his campaign around President Trump’s threats to the country.
+* 寻求在周一大选中连任的新总理马克·卡尼(Mark Carney)围绕特朗普总统对国家的威胁开展了竞选活动。
+* The risk of exposing a military still being modernized may constrain Prime Minister Narendra Modi as he weighs retaliation for a terrorist attack.
+* 暴露仍在现代化的军队的风险可能会限制总理纳伦德拉·莫迪（ Narendra Modi ）权衡对恐怖袭击的报复。
+* The third round of talks in three weeks have raised hopes for an Iran nuclear accord, which could avert a new Mideast conflict. President Trump said he believed a deal was within reach.
+* 三周内的第三轮会谈为伊朗核协议带来了希望，这可能会避免新的中东冲突。特朗普总统表示，他相信达成协议是可以实现的。
+* The “Saturday Night Live” alum on getting political in Studio 8H, playing Elon Musk and why he decided to film a campaign ad for Canada’s Liberal Party.
+* “周六夜现场”校友在Studio 8H中获得政治地位，扮演伊隆·马斯克以及他决定为加拿大自由党拍摄竞选广告的原因。
+* Prime Minister Mark Carney’s Liberal Party still appears poised to win, pollsters say, even as its lead over the Conservative Party has shrunk.
+* 民意调查显示，首相马克·卡尼(Mark Carney)领导的自由党(Liberal Party)似乎仍有望获胜，尽管它在保守党(Conservative Party)上的领先优势已经缩小。
+* Officials in Kyiv plan to deliver their proposal to President Trump’s team, after rejecting a White House plan that would have given the Kremlin much of what it wants.
+* 基辅的官员计划将他们的提案提交给特朗普总统的团队，此前他们拒绝了白宫的计划，该计划本来会给克里姆林宫很多它想要的东西。
 * The concessions offered so far by President Trump fall short of Russia’s stated war aims. But President Vladimir V. Putin appears certain that he has the upper hand in talks.
 * 特朗普总统迄今提出的让步没有达到俄罗斯宣称的战争目标。但俄罗斯总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）似乎确信，他在谈判中占据上风
 * Sleep deprivation has become a health crisis in the country, experts and psychologists say. They cite near-nightly drone attacks as one of the major impediments to getting proper rest.
 * 专家和心理学家说，睡眠不足已经成为该国的一场健康危机。他们将近夜间的无人机袭击列为获得适当休息的主要障碍之一。
-* “It meant a lot to me to see him, he gave us so much,” said one woman who waited in line to file past the pontiff’s casket.
-* “见到他对我来说意义重大，他给了我们这么多，”一位排队等待通过教皇棺材的女士说。
-* The changes reflect Francis’ view of the pope as a pastor more than a powerful person, but the rites will still be on a grand scale.
-* 这些变化反映了弗朗西斯对教皇作为牧师的看法，而不是一个有权势的人，但这些仪式仍将是大规模的。
-* At a formerly grand hotel where the famed martial arts star once stayed, a group of collectors is trying to preserve vestiges of the city’s past as its political identity changes.
-* 在一家曾经是著名武术明星的豪华酒店里，一群收藏家正试图随着政治身份的变化而保留这座城市过去的痕迹。
-* The Pakistani government said that if India followed through on a threat to block rivers it would take it as “an act of war.”
-* 巴基斯坦政府表示，如果印度继续威胁封锁河流，它将把它视为“战争行为”。
-* Two legal actions seeking U.S. government intervention say that some of the coffee bought by major American retailers is harvested in conditions that amount to slavery.
-* 寻求美国政府干预的两项法律诉讼称，美国主要零售商购买的一些咖啡是在相当于奴隶制的条件下收获的。
-* A new U.S. peace plan offered to Russia and Ukraine proposes American recognition of the peninsula, which Moscow seized in 2014.
-* 美国向俄罗斯和乌克兰提出了一项新的和平计划，建议美国承认莫斯科在2014年占领的朝鲜半岛。
-* An explosion near a UNESCO world heritage site in Yemen’s capital on Sunday killed 12 people, according to health authorities tied to the Houthi-led government.
-* 据与胡塞领导的政府有关的卫生当局称，也门首都联合国教科文组织世界遗产附近发生爆炸，造成12人死亡。
-* In Ukraine, memories of Russia’s annexation are fresh and resentments run high, leaving the country’s president few choices on the latest American peace plan.
-* 在乌克兰，人们对俄罗斯吞并的记忆焕然一新，怨恨情绪高涨，这让该国总统在美国最新的和平计划中别无选择。
 
 ## New York Times United States News
-* The phone number used in the Signal chat could also be found in a variety of places, including on social media and a fantasy sports site.
-* Signal聊天中使用的电话号码也可以在各种地方找到，包括社交媒体和梦幻体育网站。
-* Does the world’s richest university have enough money to survive a battle with the most powerful man in the world? Alan Blinder, a national correspondent for The New York Times who covers education, describes Harvard’s resources and the scientific and medical research at stake.
-* 世界上最富有的大学是否有足够的钱在与世界上最有权势的人的战斗中生存下来？报道教育的《纽约时报》全国记者艾伦·布林德（ Alan Blinder ）描述了哈佛大学的资源以及所涉及的科学和医学研究。
-* Amherst was known for its diverse student population. Now it is trying to save that legacy without violating the law.
-* 阿默斯特以其多样化的学生群体而闻名。现在，它正试图在不违反法律的情况下挽救这一遗产。
-* An updated lawsuit filed in Washington was the latest in a flurry of suits challenging the Trump administration’s use of the Alien Enemies Act to send migrants to a prison in El Salvador.
-* 在华盛顿提起的最新诉讼是特朗普政府利用《外国敌人法案》将移民送往萨尔瓦多监狱的一系列诉讼中的最新一起。
-* Mark Zuckerberg and his wife, Dr. Priscilla Chan, opened the schools to help communities of color. Some families wonder if the shutting of the schools is related to his D.E.I. retrenchment.
-* 马克·扎克伯格（ Mark Zuckerberg ）和他的妻子普里西拉·陈（ Priscilla Chan ）博士开办了这些学校，以有些家庭怀疑学校的关闭是否与他的D.E.I.裁员有关。
-* The longtime Trump ally is lobbying Congress to change the law that the crypto entrepreneur Roger Ver was charged with violating.
-* 特朗普的长期盟友正在游说国会修改加密企业家罗杰·维尔（ Roger Ver ）被指控违反的法律。
-* The order declares that employees will only attain full employment status if their managers review and sign off on their performance, adding a new obstacle for probationary workers to clear.
-* 该命令宣布，只有当其经理审查并签署其绩效时，员工才能获得充分就业身份，这为试用工人清除增加了一个新的障碍。
-* State Senator Jason Pizzo, the Democratic minority leader, announced in a floor speech that he was leaving the party.
-* 民主党少数党领袖、州参议员杰森·皮佐（ Jason Pizzo ）在一次演讲中宣布，他将离开该党。
-* A declaration by an ICE official unsealed by a judge says the form was “read and explained” to Venezuelan detainees, who had “no less than 12 hours” to express an intent to mount a challenge.
-* 一名ICE官员在一份声明中表示，该表格是向委内瑞拉被拘留者“阅读并解释”的，他们有“不少于12小时”的时间来表达发起挑战的意图。
-* The Hope Florida Foundation quietly gave the money to two nonprofit political committees that helped Gov. Ron DeSantis and his allies defeat a ballot measure.
-* 希望佛罗里达基金会悄悄地将这笔钱捐给了两个非营利性政治委员会，帮助州长罗恩·德桑蒂斯（ Ron DeSantis ）及其盟友击败了一项选票法案。
+* Many of President Trump’s actions have been seen as benefiting Russia either directly or indirectly, so much so that Russian officials have celebrated some of his moves.
+* 特朗普总统的许多行动被认为直接或间接地使俄罗斯受益，以至于俄罗斯官员庆祝了他的一些举动。
+* As colleges face increased scrutiny from the federal government, they are taking diverging approaches in choosing commencement keynotes.
+* 随着大学面临联邦政府越来越多的审查，他们在选择毕业典礼主题演讲时采取了不同的方法。
+* Tesla’s sleek electric vehicles used to be a status symbol in liberal Mill Valley, Calif. Now, they are despised by many — including those who drive them.
+* 特斯拉时尚的电动汽车曾经是加利福尼亚州自由派米尔谷的地位象征。现在，他们被许多人鄙视，包括那些驾驶他们的人。
+* A federal judge in Louisiana said the deportation of the child to Honduras with her mother, even though her father had filed an emergency petition, appeared to be “illegal and unconstitutional.”
+* 路易斯安那州的一名联邦法官表示，尽管她的父亲提出了紧急请愿，但这名儿童与她的母亲一起被驱逐到洪都拉斯似乎是“非法和违宪的”。
+* She accused Jeffrey Epstein and his co-conspirator, Ghislaine Maxwell, of recruiting her to join their predatory ring and sued Prince Andrew for sexual assault.
+* 她指控杰弗里·爱泼斯坦（ Jeffrey Epstein ）和他的同谋吉斯琳·麦克斯韦（ Ghislaine Maxwell ）招募她加入他们的掠夺性圈子，并起诉安德鲁王子进行性侵犯。
+* The Trump administration threatened to withhold federal funding from states that did not enforce its interpretation of civil rights law.
+* 特朗普政府威胁要扣留那些没有执行其民权法解释的州的联邦资金。
+* A reinterpretation of the Hatch Act announced by the administration lets officials wear campaign paraphernalia like MAGA hats, and removes an independent board’s role in policing violations.
+* 政府宣布对《哈奇法案》进行重新解释，允许官员像MAGA帽子一样佩戴竞选用具，并取消独立委员会在监管违规行为方面的作用。
+* President Donald Trump is weighing in on a school mascot dispute at Massapequa High School, where some parents are upset that a Chiefs mascot and logo must go under a state rule.
+* 唐纳德·特朗普（ Donald Trump ）总统正在马萨波夸高中（ Massapequa High School ）处理学校吉祥物纠纷，一些家长对酋长吉祥物和徽标必须遵守国家规定感到不安。
+* The pardon of Paul Walczak, who had been convicted of tax crimes, comes as the president uses clemency to reward allies and swipe at perceived enemies.
+* 被判犯有税务罪的保罗·瓦尔扎克（ Paul Walczak ）获得赦免，因为总统利用宽大处理来奖励盟友并抨击感知到的敌人。
+* Even as Musk’s work at the Department of Government Efficiency appeared to consume him, his top adviser created a set of companies named Red Planet I, II and III.
+* 尽管马斯克在政府效率部的工作似乎消耗了他，但他的高级顾问创建了一系列名为“红色星球I”、“红色星球II”和“红色星球III”的公司。
 
 ## New York Times Asia News
-* Japanese consumers embraced Korean rice for the first time in 35 years, finding it more familiar than other types of foreign rice.
-* 日本消费者35年来首次接受韩国大米，发现它比其他类型的外国大米更熟悉。
-* Stocks were pointing toward a fourth straight positive trading session.
-* 股票指向连续第四个正面交易时段。
-* At a formerly grand hotel where the famed martial arts star once stayed, a group of collectors is trying to preserve vestiges of the city’s past as its political identity changes.
-* 在一家曾经是著名武术明星的豪华酒店里，一群收藏家正试图随着政治身份的变化而保留这座城市过去的痕迹。
-* Plus, was Shakespeare a bad husband?
-* 另外，莎士比亚是个坏丈夫吗？
-* After a militant attack in Kashmir, the Indian government said it was suspending its participation in a treaty that governs most of the water used in Pakistani agriculture.
-* 在克什米尔发生激进分子袭击后，印度政府表示，它将暂停参与一项管理巴基斯坦农业使用的大部分水的条约。
-* His films tapped into the fantasies of disgruntled youth by embracing brazen sexuality and countercultural politics. But unlike his peers, he did not shun tradition.
-* 他的电影通过拥抱厚颜无耻的性行为和反文化政治，挖掘了心怀不满的年轻人的幻想。但与同龄人不同的是，他没有回避传统。
-* A group advising President Trump on energy policy is seeking meetings with Japan and South Korea’s trade ministries, with the hope of announcing progress in early June.
-* 一个为特朗普总统提供能源政策建议的小组正在寻求与日本和韩国贸易部门举行会议，希望在6月初宣布进展。
-* After an early wobble, markets resumed rising after Chinese officials contradicted suggestions from President Trump and others about tariff negotiations.
-* 在早期动荡之后，在中国官员与特朗普总统和其他人关于关税谈判的建议相矛盾之后，市场恢复了上涨。
-* A bribery charge against Moon Jae-in makes him the latest in a line of former leaders to face criminal action, deepening the country’s political polarization.
-* 对文在寅的贿赂指控使他成为一系列前领导人中最新面临刑事诉讼的人，加剧了该国的政治两极分化。
-* The Pakistani government said that if India followed through on a threat to block rivers it would take it as “an act of war.”
-* 巴基斯坦政府表示，如果印度继续威胁封锁河流，它将把它视为“战争行为”。
+* The risk of exposing a military still being modernized may constrain Prime Minister Narendra Modi as he weighs retaliation for a terrorist attack.
+* 暴露仍在现代化的军队的风险可能会限制总理纳伦德拉·莫迪（ Narendra Modi ）权衡对恐怖袭击的报复。
+* Amid rising tensions with India, Pakistan’s defense minister declared his country’s innocence in a terror attack that killed 26 people this week in Kashmir territory.
+* 在与印度的紧张局势加剧的情况下，巴基斯坦国防部长本周在克什米尔地区发生恐怖袭击，造成26人死亡，宣布巴基斯坦无辜。
+* The clash took place just days after a terror attack killed 26 people on the Indian side of the disputed region, raising tensions between the two nuclear-armed nations.
+* 这场冲突发生在争议地区印度一侧的恐怖袭击造成26人死亡的几天后，加剧了这两个拥有核武器的国家之间的紧张关系。
+* The Trump administration has been saying that the two countries are engaged in talks to resolve the dispute, but Beijing asserts that no such discussions are happening.
+* 特朗普政府一直表示，两国正在进行谈判以解决争端，但北京声称没有进行这样的讨论。
+* The Times heard from hundreds of American companies, most of them small businesses, that face a reckoning because of President Trump’s steep import taxes.
+* 《纽约时报》收到了数百家美国公司的消息，其中大多数是小企业，由于特朗普总统征收高额进口税，这些公司面临清算。
+* As a reporter, I often observe from a press box or the sidelines. This time, I decided to join the masses.
+* 作为一名记者，我经常从记者席或场边观察。这一次，我决定加入群众。
+* President Trump said that “we’re meeting with China” on tariffs, comments aimed at soothing jittery financial markets. But Chinese officials say no talks have taken place.
+* 特朗普总统表示， “我们正在与中国会面” ，旨在缓解紧张的金融市场。但中国官员表示，没有进行任何谈判。
+* An American business group said Chinese officials had surveyed companies about American products that are crucial to their supply chains.
+* 一家美国商业组织表示，中国官员对公司进行了有关对其供应链至关重要的美国产品的调查。
+* As a young immigrant from the Philippines, he had roles on Broadway in “The King and I” and “Flower Drum Song.” He was later a familiar face on TV.
+* 作为一名来自菲律宾的年轻移民，他在百老汇的“国王与我”和“花鼓之歌”中扮演过角色。“后来他在电视上成了熟悉的面孔。
+* Faced with shortages and rising prices for domestic rice, many Japanese are doing what was once unthinkable — buying a foreign variety.
+* 面对国内大米短缺和价格上涨，许多日本人正在做曾经无法想象的事情--购买外国品种。
 
