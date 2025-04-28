@@ -2,52 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* After Joe Tay set up a run for Parliament, China issued a warrant for his arrest and coordinated online attacks on his candidacy.
-* 在乔·泰（ Joe Tay ）竞选议会议员后，中国发布了逮捕令，并协调了对其候选人资格的在线攻击。
-* A man was arrested after a vehicle drove into a Filipino community festival on Saturday in Vancouver, British Columbia, in a “mass casualty incident,” the police said.
-* 警方称，一名男子于周六在不列颠哥伦比亚省温哥华开车进入菲律宾社区节日后被捕，这是一起“大规模伤亡事件”。
-* Some see the byword as a rallying call in a conservative campaign to reverse Francis’ push for a more inclusive church.
-* 有些人认为这个代名词是一场保守运动的号召，旨在扭转弗朗西斯对更具包容性的教会的推动。
-* The United States has been pushing Ukraine to accept a peace plan that seems in part a gift to Moscow. But a short meeting with President Volodymyr Zelensky, and subsequent comments, appeared to be a change in tone.
-* 美国一直在推动乌克兰接受一项似乎是送给莫斯科的一份礼物的和平计划。但与总统沃洛季米尔·泽连斯基（ Volodymyr Zelensky ）的短暂会晤以及随后的评论似乎改变了语气。
+* North Korea’s leader, Kim Jong-un, ordered a monument for the “heroic” soldiers killed in Russia’s war against Ukraine, as Moscow and Pyongyang make first comments on the joint operation.
+* 随着莫斯科和平壤首次就联合行动发表评论，朝鲜领导人金正恩下令为在俄罗斯对乌克兰的战争中丧生的“英雄”士兵建造一座纪念碑。
+* With uncertainty looming over cease-fire talks and U.S. support, the Ukrainian military is relying more than ever on domestically produced drones.
+* 随着停火谈判的不确定性和美国的支持，乌克兰军方比以往任何时候都更加依赖国产无人机。
+* The Kurdish-led force that runs northeast Syria has agreed to integrate into a new national army, but some of its supporters remain wary.
+* 叙利亚东北部由库尔德人领导的部队已同意编入一支新的国家军队，但其一些支持者仍持谨慎态度。
+* Many Canadians believe Monday’s election is the most important of their lifetime. It will determine who will take on a stagnant economy and deal with President Trump.
+* 许多加拿大人认为周一的选举是他们一生中最重要的选举。它将决定谁将承担停滞不前的经济并与特朗普总统打交道。
+* Crucial meetings will be held this week in which contenders begin jockeying in earnest for the job of leading the Roman Catholic Church.
+* 本周将举行重要会议，竞争者将开始认真争取领导罗马天主教会的工作。
+* The standoff over Sandy Cay, which lies close to military outposts built by both Beijing and Manila, was the latest between the two nations.
+* 在北京和马尼拉建造的军事前哨附近的桑迪礁（ Sandy Cay ）上的对峙是两国之间的最新一次。
+* The repercussions from a terrorist attack led to painful scenes at the countries’ border, as families with mixed citizenship were suddenly divided.
+* 恐怖袭击的影响导致两国边境出现了痛苦的场景，因为拥有混合公民身份的家庭突然分裂。
 * As world powers face multiple crises, the one set off by a terror attack in Kashmir is getting scant attention or help in de-escalating between nuclear-armed neighbors.
 * 随着世界大国面临多重危机，由克什米尔恐怖袭击引发的危机在核武器邻国之间的降级方面几乎没有得到关注或帮助。
-* More than 1,100 people were also injured in the explosion at the Shahid Rajaee port, the largest in Iran.
-* 伊朗最大的Shahid Rajaee港口也发生爆炸，造成1100多人受伤。
-* Mark Carney, who is running to win a full term as prime minister, has years of experience dealing with Chinese businesses and leadership. It’s become fodder for his opponents.
-* 马克·卡尼（ Mark Carney ）正在竞选总理，他拥有多年与中国企业和领导层打交道的经验。这已经成为他对手的素材。
-* Both major political parties are pledging steep cuts on the number of foreigners allowed to study in Australia as a way to rein in runaway housing prices.
-* 两个主要政党都承诺大幅削减允许在澳大利亚学习的外国人数量，以控制失控的房价。
-* Medicines and chemicals are huge exports for European Union countries. That makes the sector a weak spot as trade tensions drag on.
-* 药品和化学品是欧盟国家的巨大出口产品。随着贸易紧张局势的持续，这使得该行业成为一个薄弱环节。
-* The funeral drew world leaders, including President Trump and President Volodymyr Zelensky of Ukraine, who had a talk in the Basilica.
-* 葬礼吸引了世界各国领导人，包括特朗普总统和乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ） ，他们在大教堂进行了演讲。
+* The attack raised concerns that the cease-fire that ended a war between Israel and Lebanese militants might be in jeopardy.
+* 这次袭击引发了人们的担忧，即结束以色列与黎巴嫩武装分子之间战争的停火可能会受到威胁。
+* Dozens of people were also reported injured after a car drove into a Filipino community festival in British Columbia, the police said.
+* 警方称，据报道，在一辆汽车驶入不列颠哥伦比亚省的菲律宾社区节日后，数十人受伤。
 
 ## New York Times United States News
-* New details show that the failures leading up to the midair collision of a regional jet and an Army helicopter were more complex than previously known.
-* 新的细节表明，导致支线喷气式飞机和陆军直升机在空中相撞的故障比以前所知的更加复杂。
-* The cases are the latest test of the president’s expansive claims of executive power.
-* 这些案件是对总统对行政权力的广泛主张的最新考验。
-* A recent group statement showed that the nation’s academic leaders, at first reluctant to oppose the president’s moves, are beginning to unite.
-* 最近的一份小组声明显示，该国的学术领袖起初不愿意反对总统的举动，现在开始团结起来。
-* Even as Republicans suffer setbacks in their fight to overturn a loss in a State Supreme Court race, judges have shown a striking willingness to entertain the long-shot challenges.
-* 尽管共和党人在推翻州最高法院竞选失败的斗争中遭受了挫折，但法官们仍然表现出强烈的意愿，愿意接受长期的挑战。
-* The fired employee admitted that he changed prices, added profanity, and altered menu items so they appeared to be free of certain allergens.
-* 这名被解雇的员工承认，他更改了价格，增加了亵渎内容，并更改了菜单餐点，使其看起来不含某些过敏原。
-* The four-day operation came as the Trump administration has sought to enlist local authorities in an immigration crackdown.
-* 为期四天的行动是在特朗普政府试图争取地方当局进行移民镇压之际进行的。
-* Judge Hannah Dugan is accused of obstructing justice after directing a migrant out of her courtroom as federal agents waited to arrest him. Her arrest has raised several questions.
-* 在联邦特工等待逮捕一名移民后，汉娜·杜根法官被指控妨碍司法公正。她的被捕引发了几个问题。
-* Students and their immigration lawyers say they were relieved for the temporary reprieve, but emphasized that it was just that — temporary.
-* 学生和他们的移民律师说，他们对暂时缓刑感到宽慰，但强调这只是暂时的。
-* 
-* 
-* In 2012, a state trooper in Fairbanks, Alaska, said that Kenneth J. Jouppi knowingly tried to fly into a dry community with a six-pack on board.
-* 2012年，阿拉斯加州费尔班克斯的一名州警说，肯尼斯· J ·朱皮（ Kenneth J. Jouppi ）故意试图飞入一个装有六个背包的干旱社区。
+* New Mexico’s governor said the troops are needed to help quell violence. But in the deeply blue city, the plan to deploy them has drawn uneasy comparisons to the talk of President Trump.
+* 新墨西哥州州长表示，需要军队来帮助平息暴力。但在这个深蓝色的城市，部署它们的计划与特朗普总统的谈话进行了令人不安的比较。
+* In a remarkable scene, the justices applauded Edwin S. Kneedler, a government lawyer with a reputation for candor, care and integrity.
+* 在一个引人注目的场景中，法官们赞扬了埃德温· S ·尼德勒（ Edwin S. Kneedler ） ，他是一位以坦率、关怀和正直而闻名的政府律师。
+* The conservative senator from Missouri, better known for his raised fist in solidarity with Trump supporters on Jan. 6, is embracing a key rhetorical theme in the president’s political ascendancy.
+* 这位来自密苏里州的保守派参议员以1月6日声援特朗普支持者而闻名，他正在接受总统政治优势中的一个关键修辞主题。
+* In one of the country’s poorest areas, the quantity and quality of government deliveries have dropped, forcing one charity to make do with thin soup and dried cranberries.
+* 在该国最贫穷的地区之一，政府交付的数量和质量都有所下降，迫使一家慈善机构不得不使用薄汤和蔓越莓干。
+* Republican lawmakers are set to lay out specifics of their sweeping fiscal package as Congress returns for a critical month, giving Democrats an opening for fresh attacks.
+* 共和党议员将公布其全面财政计划的细节，因为国会将在关键的一个月内回归，这为民主党人提供了新的攻击机会。
+* In a fiery speech in New Hampshire, the Illinois governor railed against both President Trump and what he called the “simpering timidity” among some Democrats.
+* 在新罕布什尔州的一次激烈演讲中，伊利诺伊州州长抨击了特朗普总统和他所谓的一些民主党人的“傻笑胆怯”。
+* The ferry was carrying 45 people when it was struck near a bridge in Clearwater, Fla. Other people were injured, the police said.
+* 这艘渡轮在佛罗里达州克利尔沃特的一座桥附近被撞时载有45人。警方称，还有其他人受伤。
+* President Trump ordered a start to the strikes against the Houthis on March 15. Congressional officials say the campaign has cost well over $1 billion.
+* 3月15日，特朗普总统下令开始打击胡塞武装。国会官员表示，这场竞选活动花费了超过10亿美元。
+* The emergency worker in Kansas City, Mo., was stabbed in his chest while transporting a patient in what started as a routine call on Sunday, officials said.
+* 官员说，这名密苏里州堪萨斯城的急救人员在周日开始的例行通话中运送一名病人时，胸部被刺伤。
+* Officials said agents found weapons and illicit drugs inside the nightclub, including cocaine, methamphetamine and a mixture of powdered drugs known as pink cocaine.
+* 官员说，特工在夜总会内发现了武器和非法药物，包括可卡因，甲基苯丙胺和一种称为粉红色可卡因的粉末药物混合物。
 
 ## New York Times Asia News
-* A man was arrested after a vehicle drove into a Filipino community festival on Saturday in Vancouver, British Columbia, in a “mass casualty incident,” the police said.
-* 警方称，一名男子于周六在不列颠哥伦比亚省温哥华开车进入菲律宾社区节日后被捕，这是一起“大规模伤亡事件”。
+* The standoff over Sandy Cay, which lies close to military outposts built by both Beijing and Manila, was the latest between the two nations.
+* 在北京和马尼拉建造的军事前哨附近的桑迪礁（ Sandy Cay ）上的对峙是两国之间的最新一次。
+* The repercussions from a terrorist attack led to painful scenes at the countries’ border, as families with mixed citizenship were suddenly divided.
+* 恐怖袭击的影响导致两国边境出现了痛苦的场景，因为拥有混合公民身份的家庭突然分裂。
+* North Korea’s leader, Kim Jong-un, ordered a monument for the “heroic” soldiers killed in Russia’s war against Ukraine, as Moscow and Pyongyang make first comments on the joint operation.
+* 随着莫斯科和平壤首次就联合行动发表评论，朝鲜领导人金正恩下令为在俄罗斯对乌克兰的战争中丧生的“英雄”士兵建造一座纪念碑。
+* Plus, when a child’s life is the family business.
+* 此外，当孩子的生活是家庭事业时。
+* The Pakistani military is under strain on several fronts as it also faces the possibility of armed conflict with India.
+* 巴基斯坦军方也面临着与印度发生武装冲突的可能性，因此在几个方面处于紧张状态。
+* Dozens of people were also reported injured after a car drove into a Filipino community festival in British Columbia, the police said.
+* 警方称，据报道，在一辆汽车驶入不列颠哥伦比亚省的菲律宾社区节日后，数十人受伤。
 * As world powers face multiple crises, the one set off by a terror attack in Kashmir is getting scant attention or help in de-escalating between nuclear-armed neighbors.
 * 随着世界大国面临多重危机，由克什米尔恐怖袭击引发的危机在核武器邻国之间的降级方面几乎没有得到关注或帮助。
 * Both major political parties are pledging steep cuts on the number of foreigners allowed to study in Australia as a way to rein in runaway housing prices.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 暴露仍在现代化的军队的风险可能会限制总理纳伦德拉·莫迪（ Narendra Modi ）权衡对恐怖袭击的报复。
 * Amid rising tensions with India, Pakistan’s defense minister declared his country’s innocence in a terror attack that killed 26 people this week in Kashmir territory.
 * 在与印度的紧张局势加剧的情况下，巴基斯坦国防部长本周在克什米尔地区发生恐怖袭击，造成26人死亡，宣布巴基斯坦无辜。
-* The clash took place just days after a terror attack killed 26 people on the Indian side of the disputed region, raising tensions between the two nuclear-armed nations.
-* 这场冲突发生在争议地区印度一侧的恐怖袭击造成26人死亡的几天后，加剧了这两个拥有核武器的国家之间的紧张关系。
-* The Trump administration has been saying that the two countries are engaged in talks to resolve the dispute, but Beijing asserts that no such discussions are happening.
-* 特朗普政府一直表示，两国正在进行谈判以解决争端，但北京声称没有进行这样的讨论。
-* The Times heard from hundreds of American companies, most of them small businesses, that face a reckoning because of President Trump’s steep import taxes.
-* 《纽约时报》收到了数百家美国公司的消息，其中大多数是小企业，由于特朗普总统征收高额进口税，这些公司面临清算。
-* As a reporter, I often observe from a press box or the sidelines. This time, I decided to join the masses.
-* 作为一名记者，我经常从记者席或场边观察。这一次，我决定加入群众。
-* President Trump said that “we’re meeting with China” on tariffs, comments aimed at soothing jittery financial markets. But Chinese officials say no talks have taken place.
-* 特朗普总统表示， “我们正在与中国会面” ，旨在缓解紧张的金融市场。但中国官员表示，没有进行任何谈判。
 
