@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* North Korea’s leader, Kim Jong-un, ordered a monument for the “heroic” soldiers killed in Russia’s war against Ukraine, as Moscow and Pyongyang make first comments on the joint operation.
-* 随着莫斯科和平壤首次就联合行动发表评论，朝鲜领导人金正恩下令为在俄罗斯对乌克兰的战争中丧生的“英雄”士兵建造一座纪念碑。
-* With uncertainty looming over cease-fire talks and U.S. support, the Ukrainian military is relying more than ever on domestically produced drones.
-* 随着停火谈判的不确定性和美国的支持，乌克兰军方比以往任何时候都更加依赖国产无人机。
+* The former central banker successfully convinced voters that he was the right candidate to confront President Trump’s trade war and threats to annex the country.
+* 这位前央行行长成功地说服选民，他是面对特朗普总统的贸易战和吞并该国威胁的合适人选。
+* Electricity was back in most of the two countries almost 18 hours after a blackout that shut down much of daily life. The cause of the outage remained unclear.
+* 在停电导致大部分日常生活中断近18小时后，这两个国家的大部分地区又恢复了电力供应。停电原因尚不清楚。
+* President Alexander Stubb of Finland, who has become an interlocutor in peace talks, says in an interview he doesn’t want Ukraine to suffer the same fate his country once endured.
+* 芬兰总统亚历山大·斯塔布（ Alexander Stubb ）已成为和平谈判的对话者，他在接受采访时表示，他不希望乌克兰遭受他的国家曾经遭受过的同样命运。
+* Russian forces launched 100 attack drones across Ukraine overnight, hours after President Vladimir V. Putin ordered a unilateral three-day cease-fire starting on May 8.
+* 在俄罗斯总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）下令从5月8日开始单方面停火三天几小时后，俄罗斯军队一夜之间在乌克兰各地发射了100架攻击无人机。
+* The Vatican said that Francis had stripped a convicted cardinal, Angelo Becciu, of his right to vote for the next pope. Cardinal Becciu maintains his innocence but said he would sit this one out.
+* 梵蒂冈表示，弗朗西斯剥夺了被定罪的红衣主教安吉洛·贝丘（ Angelo Becciu ）投票选举下一任教皇的权利。Becciu红衣主教坚称自己是无辜的，但表示他会坐以待毙。
+* Cardinal Luis Tagle of the Philippines is known as the “Asian Francis.” But he has been criticized for not being vocal enough about his country’s brutal drug war and clerical sex abuse.
+* 菲律宾红衣主教路易斯·塔格勒（ Luis Tagle ）被称为“亚洲弗朗西斯。“但他因对本国残酷的毒品战争和文职人员的性虐待不够直言不讳而受到批评。
+* The pope’s funeral was on Saturday. Now the process of selecting the church’s future leader will begin.
+* 教皇的葬礼于周六举行。现在，挑选教会未来领袖的过程将开始。
+* Companies like Alibaba that built China’s world-leading online shopping sector are now helping its sellers find markets beyond the United States.
+* 像阿里巴巴这样建立了中国世界领先的网上购物行业的公司现在正在帮助其卖家找到美国以外的市场。
+* These structures, now surrounded by a modern metropolis, tell the story of the nation that has evolved in the decades since the war’s end.
+* 这些建筑现在被现代化的大都市所包围，讲述了自战争结束以来几十年来国家发展的故事。
 * The Kurdish-led force that runs northeast Syria has agreed to integrate into a new national army, but some of its supporters remain wary.
 * 叙利亚东北部由库尔德人领导的部队已同意编入一支新的国家军队，但其一些支持者仍持谨慎态度。
-* Many Canadians believe Monday’s election is the most important of their lifetime. It will determine who will take on a stagnant economy and deal with President Trump.
-* 许多加拿大人认为周一的选举是他们一生中最重要的选举。它将决定谁将承担停滞不前的经济并与特朗普总统打交道。
-* Crucial meetings will be held this week in which contenders begin jockeying in earnest for the job of leading the Roman Catholic Church.
-* 本周将举行重要会议，竞争者将开始认真争取领导罗马天主教会的工作。
-* The standoff over Sandy Cay, which lies close to military outposts built by both Beijing and Manila, was the latest between the two nations.
-* 在北京和马尼拉建造的军事前哨附近的桑迪礁（ Sandy Cay ）上的对峙是两国之间的最新一次。
-* The repercussions from a terrorist attack led to painful scenes at the countries’ border, as families with mixed citizenship were suddenly divided.
-* 恐怖袭击的影响导致两国边境出现了痛苦的场景，因为拥有混合公民身份的家庭突然分裂。
-* As world powers face multiple crises, the one set off by a terror attack in Kashmir is getting scant attention or help in de-escalating between nuclear-armed neighbors.
-* 随着世界大国面临多重危机，由克什米尔恐怖袭击引发的危机在核武器邻国之间的降级方面几乎没有得到关注或帮助。
-* The attack raised concerns that the cease-fire that ended a war between Israel and Lebanese militants might be in jeopardy.
-* 这次袭击引发了人们的担忧，即结束以色列与黎巴嫩武装分子之间战争的停火可能会受到威胁。
-* Dozens of people were also reported injured after a car drove into a Filipino community festival in British Columbia, the police said.
-* 警方称，据报道，在一辆汽车驶入不列颠哥伦比亚省的菲律宾社区节日后，数十人受伤。
 
 ## New York Times United States News
-* New Mexico’s governor said the troops are needed to help quell violence. But in the deeply blue city, the plan to deploy them has drawn uneasy comparisons to the talk of President Trump.
-* 新墨西哥州州长表示，需要军队来帮助平息暴力。但在这个深蓝色的城市，部署它们的计划与特朗普总统的谈话进行了令人不安的比较。
-* In a remarkable scene, the justices applauded Edwin S. Kneedler, a government lawyer with a reputation for candor, care and integrity.
-* 在一个引人注目的场景中，法官们赞扬了埃德温· S ·尼德勒（ Edwin S. Kneedler ） ，他是一位以坦率、关怀和正直而闻名的政府律师。
-* The conservative senator from Missouri, better known for his raised fist in solidarity with Trump supporters on Jan. 6, is embracing a key rhetorical theme in the president’s political ascendancy.
-* 这位来自密苏里州的保守派参议员以1月6日声援特朗普支持者而闻名，他正在接受总统政治优势中的一个关键修辞主题。
-* In one of the country’s poorest areas, the quantity and quality of government deliveries have dropped, forcing one charity to make do with thin soup and dried cranberries.
-* 在该国最贫穷的地区之一，政府交付的数量和质量都有所下降，迫使一家慈善机构不得不使用薄汤和蔓越莓干。
-* Republican lawmakers are set to lay out specifics of their sweeping fiscal package as Congress returns for a critical month, giving Democrats an opening for fresh attacks.
-* 共和党议员将公布其全面财政计划的细节，因为国会将在关键的一个月内回归，这为民主党人提供了新的攻击机会。
-* In a fiery speech in New Hampshire, the Illinois governor railed against both President Trump and what he called the “simpering timidity” among some Democrats.
-* 在新罕布什尔州的一次激烈演讲中，伊利诺伊州州长抨击了特朗普总统和他所谓的一些民主党人的“傻笑胆怯”。
-* The ferry was carrying 45 people when it was struck near a bridge in Clearwater, Fla. Other people were injured, the police said.
-* 这艘渡轮在佛罗里达州克利尔沃特的一座桥附近被撞时载有45人。警方称，还有其他人受伤。
-* President Trump ordered a start to the strikes against the Houthis on March 15. Congressional officials say the campaign has cost well over $1 billion.
-* 3月15日，特朗普总统下令开始打击胡塞武装。国会官员表示，这场竞选活动花费了超过10亿美元。
-* The emergency worker in Kansas City, Mo., was stabbed in his chest while transporting a patient in what started as a routine call on Sunday, officials said.
-* 官员说，这名密苏里州堪萨斯城的急救人员在周日开始的例行通话中运送一名病人时，胸部被刺伤。
-* Officials said agents found weapons and illicit drugs inside the nightclub, including cocaine, methamphetamine and a mixture of powdered drugs known as pink cocaine.
-* 官员说，特工在夜总会内发现了武器和非法药物，包括可卡因，甲基苯丙胺和一种称为粉红色可卡因的粉末药物混合物。
+* The Maryland Democrat accused the president of “gross violations of the Constitution and due process rights” and demanded the return of an immigrant and Maryland resident imprisoned in El Salvador.
+* 这位马里兰州民主党人指责总统“严重违反宪法和正当程序权利” ，并要求遣返一名被监禁在萨尔瓦多的移民和马里兰州居民。
+* World Liberty Financial has eviscerated the boundary between private enterprise and government policy in ways without precedent in modern American history.
+* World Liberty Financial以美国现代史上前所未有的方式打破了私营企业与政府政策之间的界限。
+* Housing developers and researchers say the idea of building more homes on federal land could help ease shortages. But various obstacles could hinder the effort.
+* 房地产开发商和研究人员表示，在联邦土地上建造更多房屋的想法可能有助于缓解短缺问题。但各种障碍可能会阻碍这一努力。
+* Ted Kaczynski, whose anti-tech rants are finding a new generation of readers, shunned the brother who called the F.B.I. in an effort to halt his campaign of violence.
+* 泰德·卡钦斯基（ Ted Kaczynski ）的反科技咆哮正在寻找新一代的读者，他避开了打电话给联邦调查局（ FBI ）的兄弟，以阻止他的暴力运动。
+* President Trump’s cryptocurrency firm has eroded the boundary between private enterprise and government policy in ways without precedent in American history. David Yaffe-Bellany, a technology reporter for The New York Times covering the crypto industry, describes how it works.
+* 特朗普总统的加密货币公司以美国历史上前所未有的方式侵蚀了私营企业与政府政策之间的界限。《纽约时报》报道加密行业的技术记者David Yaffe-Bellany描述了它的工作原理。
+* 
+* 
+* The planned concessions to give automakers more time to relocate production to the United States would still leave substantial tariffs on imported cars and car parts.
+* 为汽车制造商提供更多时间将生产迁往美国的计划让步仍将对进口汽车和汽车零部件征收高额关税。
+* The move comes as President Trump has tried to abolish D.E.I. programs at universities.
+* 此举正值特朗普总统试图废除大学的D.E.I.计划之际。
+* A joint agreement appeared to avert a threat by President Trump of tariffs and sanctions in a long-running dispute over water rights in the border region.
+* 一项联合协议似乎避免了特朗普总统在边境地区长期存在的水权纠纷中施加关税和制裁的威胁。
+* State and city officials in California are vowing to uphold protections for immigrants, even as President Trump threatens more action against their jurisdictions.
+* 加利福尼亚州和市政府官员发誓要维护对移民的保护，尽管特朗普总统威胁要对其司法管辖区采取更多行动。
 
 ## New York Times Asia News
-* The standoff over Sandy Cay, which lies close to military outposts built by both Beijing and Manila, was the latest between the two nations.
-* 在北京和马尼拉建造的军事前哨附近的桑迪礁（ Sandy Cay ）上的对峙是两国之间的最新一次。
-* The repercussions from a terrorist attack led to painful scenes at the countries’ border, as families with mixed citizenship were suddenly divided.
-* 恐怖袭击的影响导致两国边境出现了痛苦的场景，因为拥有混合公民身份的家庭突然分裂。
-* North Korea’s leader, Kim Jong-un, ordered a monument for the “heroic” soldiers killed in Russia’s war against Ukraine, as Moscow and Pyongyang make first comments on the joint operation.
-* 随着莫斯科和平壤首次就联合行动发表评论，朝鲜领导人金正恩下令为在俄罗斯对乌克兰的战争中丧生的“英雄”士兵建造一座纪念碑。
-* Plus, when a child’s life is the family business.
-* 此外，当孩子的生活是家庭事业时。
-* The Pakistani military is under strain on several fronts as it also faces the possibility of armed conflict with India.
-* 巴基斯坦军方也面临着与印度发生武装冲突的可能性，因此在几个方面处于紧张状态。
-* Dozens of people were also reported injured after a car drove into a Filipino community festival in British Columbia, the police said.
-* 警方称，据报道，在一辆汽车驶入不列颠哥伦比亚省的菲律宾社区节日后，数十人受伤。
-* As world powers face multiple crises, the one set off by a terror attack in Kashmir is getting scant attention or help in de-escalating between nuclear-armed neighbors.
-* 随着世界大国面临多重危机，由克什米尔恐怖袭击引发的危机在核武器邻国之间的降级方面几乎没有得到关注或帮助。
-* Both major political parties are pledging steep cuts on the number of foreigners allowed to study in Australia as a way to rein in runaway housing prices.
-* 两个主要政党都承诺大幅削减允许在澳大利亚学习的外国人数量，以控制失控的房价。
-* The risk of exposing a military still being modernized may constrain Prime Minister Narendra Modi as he weighs retaliation for a terrorist attack.
-* 暴露仍在现代化的军队的风险可能会限制总理纳伦德拉·莫迪（ Narendra Modi ）权衡对恐怖袭击的报复。
-* Amid rising tensions with India, Pakistan’s defense minister declared his country’s innocence in a terror attack that killed 26 people this week in Kashmir territory.
-* 在与印度的紧张局势加剧的情况下，巴基斯坦国防部长本周在克什米尔地区发生恐怖袭击，造成26人死亡，宣布巴基斯坦无辜。
+* My dad thought his father died in a Vietnamese prison. A recorded family history revealed the truth.
+* 我爸爸以为他父亲死在越南监狱里。有记录的家族史揭示了真相。
+* These structures, now surrounded by a modern metropolis, tell the story of the nation that has evolved in the decades since the war’s end.
+* 这些建筑现在被现代化的大都市所包围，讲述了自战争结束以来几十年来国家发展的故事。
+* The images changed how the world saw Vietnam, but especially how Americans saw their country, soldiers and the war itself, which ended 50 years ago this month.
+* 这些图像改变了世界对越南的看法，尤其是美国人对50年前本月结束的国家、士兵和战争本身的看法。
+* India renewed its claims after a deadly terror attack last week in Kashmir, a territory that it has long fought over with Pakistan.
+* 上周，印度在与巴基斯坦长期争夺的领土克什米尔发生致命的恐怖袭击事件后，印度重申了自己的主张。
+* Cardinal Luis Tagle of the Philippines is known as the “Asian Francis.” But he has been criticized for not being vocal enough about his country’s brutal drug war and clerical sex abuse.
+* 菲律宾红衣主教路易斯·塔格勒（ Luis Tagle ）被称为“亚洲弗朗西斯。“但他因对本国残酷的毒品战争和文职人员的性虐待不够直言不讳而受到批评。
+* Companies like Alibaba that built China’s world-leading online shopping sector are now helping its sellers find markets beyond the United States.
+* 像阿里巴巴这样建立了中国世界领先的网上购物行业的公司现在正在帮助其卖家找到美国以外的市场。
+* Plus, the poetry challenge.
+* 此外，还有诗歌挑战。
+* The president’s turnover of the economic order has unleashed changes that could prove lasting, because other countries will adjust.
+* 总统的经济秩序更替引发了可能持久的变化，因为其他国家将进行调整。
+* While the case is fairly routine, it comes as India indicates it is preparing to strike Pakistan in response to last week’s deadly terrorist attack.
+* 虽然此案相当常见，但印度表示准备袭击巴基斯坦，以应对上周的致命恐怖袭击。
+* As Salman Toor’s work has become more politically conflicted and emotionally raw, he finds himself wondering, “What am I doing here in America?”
+* 随着萨尔曼·托尔（ Salman Toor ）的作品在政治上变得更加矛盾，在情感上变得更加粗糙，他发现自己在想： “我在美国做什么？”
 
