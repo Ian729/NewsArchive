@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* The effect of Israel’s total siege has become “catastrophic,” doctors say. Food, water and medicine shortages are prompting a surge of preventable illnesses, and deaths.
+* 医生说，以色列全面围困的影响已成为“灾难性的”。食物、水和药品短缺导致可预防疾病和死亡人数激增。
+* At least four people were reported injured, and flights were temporarily suspended.
+* 据报至少有4人受伤，航班暂停。
+* More cardinals from more countries than ever will gather in the Sistine Chapel starting Wednesday to choose a new pope at a precarious time for the church.
+* 从周三开始，来自更多国家的红衣主教将聚集在西斯廷教堂，在教会不稳定的时候选择一位新教皇。
+* The global turmoil wreaked by President Trump’s policies made him a factor in the election, bolstering the re-election of Prime Minister Anthony Albanese.
+* 特朗普总统的政策引发的全球动荡使他成为选举的一个因素，推动了总理安东尼·阿尔巴尼斯（ Anthony Albanese ）的连任。
+* Thousands of migrants from Venezuela and other countries are stranded in southern Mexico, forbidden to travel or work, but lacking the papers or money to go back to their home countries.
+* 成千上万来自委内瑞拉和其他国家的移民被困在墨西哥南部，被禁止旅行或工作，但缺乏回国所需的文件或资金。
+* Nigel Farage’s right-wing populist party, Reform U.K., is presenting a serious challenge to the governing Labour Party and to the opposition Conservatives.
+* 奈杰尔·法拉奇（ Nigel Farage ）的右翼民粹主义政党英国改革党（ Reform U.K. ）正在对执政的工党和反对党保守党提出严峻挑战。
+* The mobilization could indicate that Israel is preparing to shift its tactics in its fight against Hamas.
+* 此次动员可能表明，以色列正准备改变其打击哈马斯的战术。
+* After this week’s bloodshed, Druse leaders in Ashrafieh Sahnaya agreed to integrate militia fighters into government forces. But some residents remain wary.
+* 在本周的流血事件之后， Ashrafieh Sahnaya的Druse领导人同意将民兵战斗人员整合到政府部队中。但一些居民仍然保持警惕。
 * As cardinals gather to elect Pope Francis’ successor, they are facing debates over whether the church most needs change or constancy.
 * 当红衣主教们聚集在一起选举教皇弗朗西斯的继任者时，他们正面临着关于教会是否最需要改变或恒定的争论。
-* The ‘dual-state theory’ explains how authoritarians bend the law to their will.
-* “双重国家理论”解释了威权主义者如何使法律屈服于他们的意志。
-* Chinese officials have long used their willingness to cooperate to stem the flow of fentanyl to the United States as leverage in talks over broader disputes.
-* 长期以来，中国官员一直利用合作意愿阻止芬太尼流入美国，作为就更广泛争端进行谈判的筹码。
-* Some of the United States’ Vietnam War opponents found refuge in Canada. Fifty years after the end of the war, they’re still worried about the future.
-* 美国的一些越南战争反对者在加拿大避难。战争结束五十年后，他们仍然担心未来。
-* Cardinals have talked about Cardinal Pietro Parolin, the Vatican secretary of state, as someone who could have a steady, bureaucratic hand on the church’s wheel.
-* 枢机主教们曾谈到梵蒂冈国务卿彼得罗·帕罗林（ Pietro Parolin ）枢机主教，他可以在教堂的轮子上有一个稳定的官僚机构。
-* Russia lacks any formal, organized effort to account for legions of missing soldiers. That often leaves relatives in limbo, fending for themselves with scant government information.
-* 俄罗斯缺乏任何正式的、有组织的努力来解释大量失踪的士兵。这通常会让亲戚陷入困境，在缺乏政府信息的情况下自生自灭。
-* The nation had grand plans for a national cathedral designed by a celebrity architect. The $400 million project became a political battleground.
-* 这个国家有一个由名人建筑师设计的国家大教堂的宏伟计划。这个耗资4亿美元的项目成为了一个政治战场。
-* Voters will decide who can turn Australia around from the throes of inflation and a housing crisis, and navigate relations with a volatile Washington.
-* 选民将决定谁能让澳大利亚摆脱通货膨胀和住房危机的痛苦，并与动荡的华盛顿建立关系。
-* The People’s Action Party is widely expected to continue its six-decade reign. But discontent with its policies is fueling a growing opposition.
-* 人们普遍预计人民行动党将继续其六十年的统治。但对其政策的不满正在助长越来越多的反对派。
-* Russian strikes and fighting along the front line have killed far more civilians than over the same period a year ago, U.N. officials said in a presentation for diplomats in New York this week.
-* 联合国官员本周在纽约向外交官介绍情况时表示，俄罗斯在前线的罢工和战斗造成的平民死亡人数比一年前同期多得多。
+* Cardinal Mario Grech comes from Malta, but is known to cardinals around the world for his role as the secretary general of an advisory body of bishops.
+* 枢机主教马里奥·格雷奇（ Mario Grech ）来自马耳他，但由于他担任主教咨询机构的秘书长，因此被世界各地的枢机主教所熟知。
 
 ## New York Times United States News
-* As G.O.P. lawmakers have largely ceded power to President Trump, they are also pushing the bounds of a little-known statute to undo federal rules — and potentially undermining the filibuster.
-* 随着共和党立法者在很大程度上将权力移交给特朗普总统，他们也在推动一项鲜为人知的法规的界限，以撤销联邦法规，并可能破坏阻挠议事程序。
-* As the Democratic Party tries to win back support, some members say forcing older politicians to retire is one solution.
-* 随着民主党试图赢回支持，一些成员表示，迫使年长的政治家退休是一种解决方案。
-* Derided by critics as the “Nasty Nine” and censured by the state party, a group of Republican state senators said they were simply advancing common-sense legislation and supporting the governor’s agenda.
-* 一群共和党州参议员被批评者嘲笑为“讨厌的九人组” ，并受到该州的谴责，他们表示，他们只是在推进常识性立法，并支持州长的议程。
-* Alan Garber became a hero to liberals after Harvard resisted the federal government. At the same time, he is trying to remake campus culture in ways the Trump administration might appreciate.
-* 在哈佛大学抵制联邦政府之后，艾伦·加伯成为自由主义者的英雄。与此同时，他正试图以特朗普政府可能会欣赏的方式重塑校园文化。
-* The episode followed a fatal collision between a military helicopter and a commercial jet in January, and prompted concern and outrage among officials.
-* 这起事件发生在1月份一架军用直升机和一架商用喷气式飞机发生致命碰撞之后，引发了官员们的担忧和愤怒。
-* James B. Milliken will lead the California system, relinquishing his position as the chancellor of the University of Texas system.
-* 詹姆斯· B ·米利肯（ James B. Milliken ）将领导加州系统，放弃德克萨斯大学系统校长的职位。
-* College athletes have signed deals worth millions of dollars since the N.C.A.A. allowed student-athletes to become paid endorsers.
-* 自NCA允许学生运动员成为付费代言人以来，大学运动员已经签署了价值数百万美元的交易。
-* The Army said the celebration was in honor of its 250th birthday but did not mention that the president’s birthday happened to be the same day.
-* 军方表示庆祝活动是为了纪念其250岁生日，但没有提到总统的生日恰好在同一天。
-* Water supplies ran dry in the Pacific Palisades fire, in part because a reservoir was shut down for repairs. Records show the city had tried and failed to prepare an alternative reservoir.
-* 太平洋帕利塞兹（ Pacific Palisades ）大火导致供水枯竭，部分原因是水库因维修而关闭。记录显示，该市曾尝试准备替代水库，但未能成功。
-* Thomas Homan, the border czar, had said, “Wait to see what’s coming,” when asked about guidance sent to state workers about interacting with ICE agents.
-* 边境沙皇托马斯·霍曼（ Thomas Homan ）在被问及向州政府工作人员发送的有关与ICE特工互动的指南时说： “等着瞧会发生什么。”
+* Police said the incident occurred at a family barbecue in the southeastern part of the city when an uninvited guest began shooting.
+* 警方称，这起事件发生在该市东南部的一家烧烤店，当时一名不速之客开始射击。
+* Beyond the politics is a brew of resentment and reverence that the president, an Ivy League graduate himself, has long harbored for a club that has never accepted him.
+* 除了政治之外，总统本人也是常春藤联盟的毕业生，他长期以来一直为一个从未接受过他的俱乐部酝酿着怨恨和尊敬。
+* His White House advisers considered giving him such a test to prove his fitness for a second term, but they worried it would draw new attention to his age, according to a forthcoming book.
+* 根据即将出版的一本书，他的白宫顾问考虑给他一个这样的测试来证明他适合连任，但他们担心这会引起人们对他年龄的新关注。
+* Shabbos Kestenbaum sued Harvard over accusations that it had ignored antisemitism when he was a student. His criticism has taken him to the White House and all over the world.
+* 沙博斯·凯斯滕鲍姆（ Shabbos Kestenbaum ）起诉哈佛，指控哈佛在他还是学生的时候忽视了反犹太主义。他的批评把他带到了白宫和世界各地。
+* Clinicians at the Department of Veterans Affairs say the president’s return-to-office order is forcing many of them to work from makeshift spaces where it is difficult to guarantee patient privacy.
+* 退伍军人事务部（ Department of Veterans Affairs ）的临床医生表示，总统重返办公室的命令迫使他们中的许多人在难以保证患者隐私的临时空间工作。
+* Antonio Austin is trying to hold his used car business together as President Trump’s tariffs begin to drive up costs — and drive his customers deeper into crisis.
+* 安东尼奥·奥斯汀（ Antonio Austin ）正试图将他的二手车业务保持在一起，因为特朗普总统的关税开始推高成本，并使他的客户陷入更深的危机。
+* Fairhope originated as an experimental colony, and that spirit remains part of its character. But it now faces a culture war, with its library at the center.
+* 费尔霍普起源于一个实验殖民地，这种精神仍然是其特征的一部分。但它现在面临着一场文化战争，图书馆位于中心。
+* Can America still build big things? A long ride through California’s Central Valley tells a gloomy story.
+* 美国还能制造大东西吗？长途跋涉穿越加利福尼亚州的中央山谷，讲述了一个令人沮丧的
+* Residents were in the two homes that were struck, but they were evacuated without injuries, the Ventura County Fire Department said.
+* 文图拉县消防局表示，两所被击中的房屋中有居民，但他们撤离时没有受伤。
+* The man had viewed footage of the fatal shooting of his 18-year-old son in Cincinnati hours before deliberately crashing into a sheriff’s deputy in Hamilton County, Ohio, the authorities said.
+* 当局说，这名男子在俄亥俄州汉密尔顿县故意撞上一名治安官的副手之前，曾观看过他18岁的儿子在辛辛那提被枪杀的镜头。
 
 ## New York Times Asia News
+* The global turmoil wreaked by President Trump’s policies made him a factor in the election, bolstering the re-election of Prime Minister Anthony Albanese.
+* 特朗普总统的政策引发的全球动荡使他成为选举的一个因素，推动了总理安东尼·阿尔巴尼斯（ Anthony Albanese ）的连任。
+* The threat of 46 percent levies, among the highest for any country, is rattling Vietnam’s factory managers and workers, as well as thousands of exporters.
+* 46%的关税威胁令越南的工厂经理和工人以及成千上万的出口商感到不安，这是所有国家中最高的。
 * As cardinals gather to elect Pope Francis’ successor, they are facing debates over whether the church most needs change or constancy.
 * 当红衣主教们聚集在一起选举教皇弗朗西斯的继任者时，他们正面临着关于教会是否最需要改变或恒定的争论。
 * Chinese officials have long used their willingness to cooperate to stem the flow of fentanyl to the United States as leverage in talks over broader disputes.
@@ -54,16 +58,12 @@ Auto RSS New York Times and Translate
 * 对于Meta、Alphabet和其他平台来说，取消廉价商品的关税豁免已经削减了广告收入。
 * Tariffs on imported parts will have a broad impact because all vehicles use components made abroad.
 * 对进口零部件征收关税将产生广泛的影响，因为所有车辆都使用国外制造的零部件。
-* The People’s Action Party is widely expected to continue its six-decade reign. But discontent with its policies is fueling a growing opposition.
-* 人们普遍预计人民行动党将继续其六十年的统治。但对其政策的不满正在助长越来越多的反对派。
-* Voters will decide who can turn Australia around from the throes of inflation and a housing crisis, and navigate relations with a volatile Washington.
-* 选民将决定谁能让澳大利亚摆脱通货膨胀和住房危机的痛苦，并与动荡的华盛顿建立关系。
+* The People’s Action Party continued its six-decade reign, as was widely expected. But many had anticipated it to lose more ground to the opposition.
+* 正如人们普遍预期的那样，人民行动党继续其六十年的统治。但许多人预计它将在反对派面前失去更多的立场。
+* Heading to the polls amid global uncertainty arising from the Trump administration, voters opted for the known quantity of the incumbent leader, Anthony Albanese.
+* 面对特朗普政府带来的全球不确定性，选民们选择了已知数量的现任领导人安东尼·阿尔巴尼斯（ Anthony Albanese ）。
 * The standoff over terms of negotiations, and whether they are happening, signals that a protracted economic fight lies ahead.
 * 谈判条款的僵局，以及谈判是否正在发生，标志着一场旷日持久的经济斗争即将到来。
 * A loophole that has allowed American shoppers to buy lots of cheap goods from mainland China and Hong Kong without paying tariffs and filling customs forms is closing on Friday. Meaghan Tobin, a correspondent for The New York Times covering business in Asia, explains.
 * 允许美国购物者从中国大陆和香港购买大量廉价商品而无需支付关税和填写海关表格的漏洞将于周五关闭。《纽约时报》亚洲业务记者Meaghan Tobin解释说。
-* The Treasury Department said Huione Group and its affiliates had laundered more than $4 billion.
-* 美国财政部表示， Huione Group及其附属公司已洗钱超过40亿美元。
-* In five months, the country has had three acting presidents after the leader who imposed martial law was impeached. And now doubts cloud the coming election.
-* 在施加戒严的领导人被弹劾后，该国在五个月内有三位代理总统。现在，对即将到来的选举的怀疑蒙上了阴影。
 
