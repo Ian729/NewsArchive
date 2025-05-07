@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* In voting in Canada and Australia, right-wing parties that borrowed from the MAGA playbook were punished. Elsewhere, President Trump is having a more complex impact.
-* 在加拿大和澳大利亚的投票中，从MAGA剧本中借鉴的右翼政党受到了惩罚。在其他地方，特朗普总统正在产生更复杂的影响。
-* Prime Minister Benjamin Netanyahu said that a new plan calls for a “forceful entry” into the territory and would involve Palestinians relocating to the south.
-* 内塔尼亚胡总理表示，一项新计划要求“强行进入”该领土，并将涉及巴勒斯坦人迁往南部。
-* The Trump administration cut off aid to Colombia that has been vital to keeping the promises of a peace deal with a major rebel group, as violence worsens in many corners of the country.
-* 随着哥伦比亚许多地区的暴力事件恶化，特朗普政府切断了对哥伦比亚的援助，这对于履行与主要反叛组织达成和平协议的承诺至关重要。
-* Pope Francis is credited with addressing the issue more strongly than his predecessors did, but clerical abuse remains a ruinous issue for the Roman Catholic Church.
-* 教皇弗朗西斯被认为比他的前任更强烈地解决这个问题，但对罗马天主教会来说，神职人员的虐待仍然是一个毁灭性的问题。
-* As a U.S. tax loophole ends, the apparel makers that sell to America are forced to consider alternative markets or cheaper locations in and outside China.
-* 随着美国税收漏洞的结束，向美国销售的服装制造商被迫考虑在中国内外寻找替代市场或更便宜的地点。
-* A push to rename streets and remove statues associated with imperial Russia is dividing Odesa, whose identity is tied up in its history.
-* 重新命名街道并拆除与俄罗斯帝国相关的雕像正在分裂敖德萨，其身份在其历史上被捆绑在一起。
-* Discussions with the Central African country come as the Trump administration looks for more countries willing to accept deportees as part of a sweeping crackdown.
-* 特朗普政府正在寻找更多愿意接受被驱逐出境者的国家，作为全面镇压的一部分，与中非国家进行讨论。
-* On Sunday, a Houthi ballistic missile evaded Israel’s multilayered aerial defenses and landed near Ben-Gurion International Airport.
-* 周日，一枚胡塞弹道导弹躲过了以色列的多层防空系统，降落在本古里安国际机场附近。
-* The International Court of Justice said it lacked jurisdiction after Sudan accused the United Arab Emirates of fueling genocide in the African country’s civil war.
-* 国际法院表示，在苏丹指责阿拉伯联合酋长国在非洲国家的内战中助长种族灭绝之后，它缺乏管辖权。
-* The continent’s leaders are hoping to benefit as the Trump administration cuts support for research and threatens universities such as Harvard and Columbia with the freezing of federal funds.
-* 随着特朗普政府削减对研究的支持，并因冻结联邦资金而威胁哈佛和哥伦比亚等大学，非洲大陆的领导人希望从中受益。
+* Officials and witnesses said that at least two Indian aircraft had crashed after India struck Pakistani targets, escalating the conflict between the nuclear powers.
+* 官员和目击者称，在印度袭击巴基斯坦目标后，至少有两架印度飞机坠毁，加剧了核大国之间的冲突。
+* Increasing Western military support to India, and China’s to Pakistan, signals a shift in global alignments — and another potential flashpoint for international tensions.
+* 西方对印度和中国对巴基斯坦的军事支持不断增加，这标志着全球联盟的转变，也是国际紧张局势的另一个潜在爆发点。
+* As cardinals begin a conclave to choose Pope Francis’ successor, they must decide whether to find a pope who follows his path or forges a new one.
+* 当枢机主教们开始秘密会议选择教皇弗朗西斯的继任者时，他们必须决定是寻找一位遵循他道路的教皇，还是锻造一个新的教皇。
+* More cardinals from more countries than ever will gather in the Sistine Chapel starting Wednesday to choose a new pope at a precarious time for the church.
+* 从周三开始，来自更多国家的红衣主教将聚集在西斯廷教堂，在教会不稳定的时候选择一位新教皇。
+* In a parking lot in Ukraine, hundreds of family members gathered to greet loved ones being repatriated from Russian prisons. Amid happy reunions, there was anguish, too.
+* 在乌克兰的一个停车场，数百名家庭成员聚集在一起，迎接从俄罗斯监狱遣返的亲人。在愉快的团聚中，也充满了痛苦。
+* Shaken by Trump, Putin and the war in Ukraine, Poland is again feeling angst about being abandoned by the United States.
+* 受到特朗普、普京和乌克兰战争的震撼，波兰再次对被美国抛弃感到焦虑。
+* Three years into Russia’s invasion of Ukraine, antiwar parents and some teachers say they are going to great lengths to shield children from state-mandated patriotic education classes.
+* 俄罗斯入侵乌克兰三年后，反战家长和一些教师表示，他们将竭尽全力保护儿童免受国家规定的爱国主义教育课程的影响。
+* Friedrich Merz’s halting path to the chancellor’s office inflamed his challenges at home and abroad, including a threat from the far right.
+* 弗里德里希·默茨（ Friedrich Merz ）通往总理办公室的道路停滞不前，激起了他在国内外的挑战，包括来自极右翼的威胁。
+* The Canadian prime minister met with President Trump days after being elected on an anti-Trump platform as relations between the two allies are at a historic nadir.
+* 加拿大总理在反特朗普平台上当选后几天会见了特朗普总统，因为这两个盟友之间的关系处于历史最低点。
+* Drone strikes hit a fuel depot, airport and a hotel in Port Sudan, bringing violence to a city that had so far been spared in the devastating civil war.
+* 无人机袭击了苏丹港的一个燃料仓库、机场和一家酒店，给这座迄今为止在毁灭性内战中幸免于难的城市带来了暴力。
 
 ## New York Times United States News
-* It’s Danny Kind, and he’s not even Catholic. But he’s in a college class that simulated the conclave of 1492. (There were costumes, bribes and Oreos.)
-* 是Danny Kind ，他甚至不是天主教徒。但他在一个模拟1492年秘密会议的大学课堂上。（有服装、贿赂和奥利奥。）
-* Facing long odds to retake a majority, Senator Chuck Schumer and his allies are trying to think outside the box and recruit candidates who might be able to pull off upsets in red states.
-* 面对重新夺回多数席位的长期赔率，参议员查克·舒默（ Chuck Schumer ）及其盟友正试图跳出框框思考，招募可能在红州引起不满的候选人。
-* In lavish halls, days before a conclave will select a new pope, power brokers came together for a mix of devotion, activism, money and socializing.
-* 在奢华的大厅里，在秘密会议将选出新教皇的前几天，权力经纪人聚集在一起，将奉献精神、行动主义、金钱和社交融合在一起。
-* At the beloved attraction in San Francisco Bay, visitors could scarcely believe President Trump had suggested turning Alcatraz back into a penitentiary.
-* 在旧金山湾广受欢迎的景点，游客几乎不敢相信特朗普总统曾建议将恶魔岛变回监狱。
-* Representative Alexandria Ocasio-Cortez said Democrats’ emphasis on seniority led her not to seek a leadership role on the powerful Oversight Committee.
-* 众议员亚历山大·奥卡西奥·科尔特斯（ Alexandria Ocasio-Cortez ）表示，民主党对资历的强调导致她没有在强大的监督委员会中寻求领导角色。
-* Scientists have long debated the merits and risks of tinkering with viruses and bacteria, which the president claims caused the coronavirus pandemic.
-* 长期以来，科学家们一直在争论修补病毒和细菌的优点和风险，总统声称这是导致冠状病毒大流行的原因。
-* The release of the memo further undercuts the Trump administration’s rationale for using the Alien Enemies Act to deport scores of Venezuelans to a prison in El Salvador.
-* 备忘录的发布进一步削弱了特朗普政府利用《外国敌人法》将数十名委内瑞拉人驱逐到萨尔瓦多监狱的理由。
-* Ahead of a trip to the Middle East, President Trump has disengaged from the conflict, analysts said, but must now decide how to respond.
-* 分析人士表示，在中东之行之前，特朗普总统已经脱离了冲突，但现在必须决定如何应对。
-* The federal ruling on Monday was the most significant legal victory yet for Justice Allison Riggs, the Democratic incumbent in a State Supreme Court race.
-* 周一的联邦裁决是州最高法院竞选中民主党现任大法官艾莉森·里格斯（ Allison Riggs ）迄今为止最重要的法律胜利。
-* President Trump and his allies have portrayed their efforts to bypass due process as necessary for national security.
-* 特朗普总统及其盟友将他们绕过正当程序的努力描述为国家安全所必需的。
+* As he proposes ever stiffer tariffs, President Trump has normalized his merely big ones.
+* 随着特朗普总统提出更严厉的关税，他已经将自己仅有的大关税正常化。
+* The five people, all Mexican nationals, were arrested after a vessel carrying migrants capsized and killed at least three people near San Diego, the authorities said.
+* 当局表示，这五人均为墨西哥国民，他们是在一艘载有移民的船只在圣地亚哥附近倾覆并杀死至少三人后被捕的。
+* Cory Bowman will next face Aftab Pureval, the Democratic incumbent, who outperformed him in Tuesday’s nonpartisan primary.
+* 科里·鲍曼（ Cory Bowman ）接下来将面对民主党现任总统阿夫塔布·普雷瓦尔（ Aftab Pureval ） ，他在周二的无党派初选中表现优于他。
+* Human rights groups have called conditions in the country’s network of migrant detention centers “horrific” and “deplorable.”
+* 人权组织称该国移民拘留中心网络的状况“可怕”且“令人遗憾”。
+* The state’s wildlife agency will test the bears’ DNA to determine if any of them had attacked and killed an 89-year-old man.
+* 该州的野生动物机构将对这些熊的DNA进行测试，以确定它们中是否有人袭击并杀死了一名89岁的男子。
+* The four women said the Motown legend abused them multiple times while they worked cleaning his home. His wife, they said, created a hostile work environment.
+* 这四名妇女说，摩城传奇人在打扫房屋时多次虐待她们。他们说，他的妻子创造了一个充满敌意的工作环境。
+* Ovidio Guzmán López would become the first of El Chapo’s sons to acknowledge guilt in a U.S. federal courthouse, after federal investigators turned their attention from the drug lord to his children.
+* 奥维迪奥·古斯曼·洛佩斯（ Ovidio Guzmán López ）将成为埃尔查波（ El Chapo ）的儿子中第一个在美国联邦法院承认有罪的人，此前联邦调查人员将他们的注意力从毒枭转移到他的孩子身上。
+* 
+* 
+* The ruling, in a lawsuit brought by Democratic officials in 16 states and Washington, D.C., halts a plan by the U.S. Education Department not to release unspent funds.
+* 在16个州和华盛顿特区的民主党官员提起的诉讼中，这项裁决阻止了美国教育部不释放未动用资金的计划。
+* The Saratoga Springs school board had pledged to safeguard students’ right to participate in activities consistent with their gender identity.
+* 萨拉托加斯普林斯学校董事会承诺保护学生参与与其性别认同相符的活动的权利。
 
 ## New York Times Asia News
-* Many in the region are preparing for a possible military confrontation between India and Pakistan because of a terrorist attack two weeks ago.
-* 由于两周前的恐怖袭击，该地区的许多人正在为印度和巴基斯坦之间可能发生的军事对抗做准备。
-* With preparations not seen in decades, the home ministry ordered officials to test air raid sirens and teach civilians to navigate blackouts and carry out evacuations.
-* 由于几十年来从未见过的准备工作，内政部命令官员测试空袭警报器，并教导平民驾驭停电并进行疏散。
-* In Bangladesh, the factories that make clothing for export had remade themselves and raised national incomes along the way. They never bargained for a trade war.
-* 在孟加拉国，生产出口服装的工厂进行了自我改造，并在此过程中提高了国民收入。他们从不讨价还价打贸易战。
-* President Trump has ended a tariff loophole that generated lots of business for delivery companies shipping inexpensive goods from China to the U.S.
-* 特朗普总统已经结束了一个关税漏洞，该漏洞为从中国向美国运送廉价商品的快递公司带来了大量业务。
-* Plus, a politically charged Met Gala.
-* 此外，还有一场带有政治色彩的Met Gala。
-* The April 22 terrorist attack in Kashmir inflamed a long-simmering conflict that could boil over into military confrontation.
-* 4月22日在克什米尔发生的恐怖袭击事件引发了一场长期酝酿的冲突，可能演变成军事对抗。
-* The army chief, Gen. Syed Asim Munir, who usually works behind the scenes, has been shaping Pakistan’s tone in the crisis over Kashmir with his own tough talk.
-* 陆军参谋长赛义德·阿西姆·穆尼尔（ Syed Asim Munir ）将军通常在幕后工作，他一直在通过自己的强硬言论来塑造巴基斯坦在克什米尔危机中的基调。
-* As a U.S. tax loophole ends, the apparel makers that sell to America are forced to consider alternative markets or cheaper locations in and outside China.
-* 随着美国税收漏洞的结束，向美国销售的服装制造商被迫考虑在中国内外寻找替代市场或更便宜的地点。
-* U.S. oil prices fell to $57 a barrel after the OPEC Plus cartel said this weekend that it would pump more oil.
-* 美国油价下跌至每桶57美元，此前OPEC Plus卡特尔本周末表示将增加石油产量。
-* Plus, analyzing a scene in “Sinners.”
-* 此外，还要分析《罪人》中的场景。
+* Beijing says it will meet with American officials to discuss trade, but warned Washington against using the engagement to ratchet up pressure on China.
+* 北京方面表示，它将与美国官员会面讨论贸易问题，但警告华盛顿不要利用这次接触来加大对中国的压力。
+* Xi Jinping, China’s leader, is reinforcing his bond with President Vladimir V. Putin of Russia. But that could hurt Beijing’s efforts to repair ties with Europe.
+* 中国领导人习近平正在加强与俄罗斯总统弗拉基米尔· V ·普京(Vladimir V. Putin)的联系。但这可能会损害北京修复与欧洲关系的努力。
+* After weeks of tensions from a terrorist attack in Kashmir, India conducted strikes against Pakistan. Anger on both sides has the world bracing for an escalation.
+* 在克什米尔恐怖袭击事件持续数周的紧张局势之后，印度对巴基斯坦发动了罢工。双方的愤怒让世界做好了升级的准备。
+* India said early Wednesday that it had conducted strikes on Pakistan, two weeks after a deadly terror attack killed more than two dozen civilians in Indian-administered Kashmir. To understand the conflict between the two nuclear-armed countries, New York Times senior writer Katrin Bennhold spoke with our South Asia bureau chief, Mujib Mashal, to get his perspective on the ground.
+* 印度周三早些时候表示，在致命的恐怖袭击造成印度管理的克什米尔地区20多名平民死亡两周后，印度对巴基斯坦进行了罢工。为了解这两个拥有核武器国家之间的冲突，《纽约时报》资深作家卡特琳·本霍尔德（ Katrin Bennhold ）与我们的南亚局局长穆吉布·马沙尔（ Mujib Mashal ）进行了交谈，以了解他对实地的看法。
+* Increasing Western military support to India, and China’s to Pakistan, signals a shift in global alignments — and another potential flashpoint for international tensions.
+* 西方对印度和中国对巴基斯坦的军事支持不断增加，这标志着全球联盟的转变，也是国际紧张局势的另一个潜在爆发点。
+* Morocco is linked to Europe on the strength of its auto sector and a trade pact. But its status as a connector country has become precarious in the trade war.
+* 摩洛哥凭借其汽车行业和贸易协定的实力与欧洲紧密相连。但其作为连接国的地位在贸易战中变得岌岌可危。
+* China’s central bank acted shortly after news that officials from China and the Trump administration will hold their first formal trade talks since the punishing tariffs began.
+* 有消息称，中国官员和特朗普政府将举行自惩罚性关税开始以来的首次正式贸易谈判，此后不久，中国央行就采取了行动。
+* Plus, the world’s must-see gardens.
+* 此外，还有世界上必看的花园。
+* No one was injured in the incident, which occurred as the Boeing 777 jets were leaving the gate area early on Tuesday. The airline canceled both trans-Pacific flights.
+* 周二早些时候，当波音777喷气式飞机离开登机口区域时，没有人受伤。该航空公司取消了两个跨太平洋航班。
+* Officials and witnesses said that at least two Indian aircraft had crashed after India struck Pakistani targets, escalating the conflict between the nuclear powers.
+* 官员和目击者称，在印度袭击巴基斯坦目标后，至少有两架印度飞机坠毁，加剧了核大国之间的冲突。
 
