@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Trump
-* 特朗谱总统
-* The Order of St. Augustine, with fewer than 3,000 members, shaped the man who would become a cardinal, and then pope to the world’s Roman Catholics.
-* 拥有不到3000名成员的圣奥古斯丁骑士团塑造了成为红衣主教的人，然后成为世界罗马天主教徒的教皇。
-* The French actor was found guilty of sexually assaulting two women on the set of a movie in which he starred in 2021. He was given a suspended sentence of 18 months.
-* 这位法国演员在2021年主演的一部电影中被判犯有性侵犯两名女性的罪行。他被判缓刑18个月。
-* On Monday, Hamas released the American Israeli citizen, who was serving in the Israeli army when he was captured on Oct. 7, 2023.
-* 周一，哈马斯释放了这名美国以色列公民，他在2023年10月7日被捕时正在以色列军队服役。
-* The police said a 21-year-old was held in connection with three fires, including one at a property owned by the British prime minister in the Kentish Town neighborhood.
-* 警方称，一名21岁的男子因三起火灾被拘留，其中一起发生在英国首相在肯特镇附近拥有的一处房产上。
-* Civilian airports were reopened and stocks jumped in both nations, signs of confidence that the agreement to halt the most alarming fighting in decades was holding.
-* 两国的民用机场重新开放，库存激增，这表明停止数十年来最令人担忧的战斗的协议得到了信赖。
-* China’s leader Xi Jinping suggests expanding trade ties beyond buying commodities, as he continues to rally nations in the face of Trump’s tariffs.
-* 中国国家主席习近平建议扩大贸易关系，超越购买大宗商品，因为面对特朗普的关税，他继续反弹各国。
-* The Kurdistan Workers’ Party, or P.K.K., said that it would lay down its arms and disband, a decision that could reverberate in neighboring countries.
-* 库尔德工人党（ P.K.K. ）表示，它将放下武器并解散，这一决定可能会在邻国引起反响。
-* Edan Alexander, a dual Israeli American national, was released following pressure from President Trump, who is set to travel to the region.
-* 埃丹·亚历山大（ Edan Alexander ）是以色列裔美国双重国籍，在特朗普总统的压力下获释，特朗普总统将前往该地区。
-* European leaders threatened new sanctions unless Moscow accepted a cease-fire right away. President Trump seemed to endorse the idea of a meeting between Ukraine’s and Russia’s presidents, and said he might take part.
-* 欧洲领导人威胁要实施新的制裁，除非莫斯科立即接受停火。特朗普总统似乎支持乌克兰和俄罗斯总统会晤的想法，并表示他可能会参加。
+* President Trump’s meeting with President Ahmed al-Shara capped a remarkable turnabout for the leader of the rebel uprising that ousted Bashar al-Assad. Mr. Trump has said he would lift U.S. sanctions on Syria.
+* 特朗普总统与艾哈迈德·沙雷总统的会晤为推翻巴沙尔·阿萨德的反叛起义领导人带来了令人瞩目的转机。特朗普曾表示，他将取消美国对叙利亚的制裁。
+* Israel tried to kill Muhammad Sinwar, a key Hamas leader in Gaza. If confirmed, it would deprive the group of another top commander, but it is unclear if it would lead to a strategic shift.
+* 以色列试图杀害哈马斯在加沙的主要领导人穆罕默德·辛瓦尔（ Muhammad Sinwar ）。如果得到确认，它将使该小组失去另一位最高指挥官，但目前尚不清楚这是否会导致战略转变。
+* Grigory Melkonyants was convicted on charges of working with an “undesirable organization” in relation to his watchdog’s past affiliation with a European election monitoring group.
+* Grigory Melkonyants因其监管机构过去与欧洲选举监督组织的关系而被指控与“不受欢迎的组织”合作。
+* The case revolved around whether texts between a top official and a drug company executive counted as a public record that might need to be disclosed.
+* 该案件围绕着高级官员与制药公司高管之间的文本是否算作可能需要披露的公开记录。
+* Beijing is trying to win over other countries with vows of economic cooperation. But it won’t back down from its territorial claims, experts predict.
+* 北京正试图通过经济合作的誓言来赢得其他国家的支持。但专家预测，它不会放弃其领土主张。
+* The emirate, once called “a funder of terrorism” by President Trump, has spent lavishly on overhauling its global reputation.
+* 这个曾被特朗普总统称为“恐怖主义资助者”的酋长国慷慨解囊，致力于重塑其全球声誉。
+* Dozens of family members filed a joint complaint against 15 aviation officials, accusing them of negligence and violating South Korean law.
+* 数十名家庭成员对15名航空官员提出了联合投诉，指控他们疏忽大意并违反了韩国法律。
+* The first group of Afrikaners have arrived in the United States, claiming they were victims of persecution or had reason to fear persecution in their home country.
+* 第一批南非白人抵达美国，声称他们是迫害的受害者，或者有理由害怕在本国遭受迫害。
+* President Volodymyr Zelensky of Ukraine said that if President Trump attended the talks, it would put pressure on Russia’s leader, Vladimir V. Putin, to meet face-to-face.
+* 乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）表示，如果特朗普总统参加会谈，将向俄罗斯领导人弗拉基米尔· V ·普京（ Vladimir V. Putin ）施加压力，要求他面对面会晤
+* The Chinese leader, Xi Jinping, has suggested expanding trade ties beyond buying commodities as he continues to rally nations in the face of President Trump’s tariffs.
+* 中国领导人习近平建议扩大贸易关系，不仅仅是购买大宗商品，因为面对特朗普总统的关税，他继续反弹各国。
 
 ## New York Times United States News
-* President Trump said he may add a stop in Istanbul to his tour of the Gulf.
-* 特朗普总统表示，他可能会在伊斯坦布尔的波斯湾之旅中增加一个停留点。
-* Many of the executives — including representatives of four of the 10 biggest U.S. companies by market value — are seeking business from Saudi investors and a chance to lobby top Trump officials.
-* 许多高管--包括美国十大公司中市值最高的四家公司的代表--正在寻求沙特投资者的业务，并有机会游说特朗普的高级官员。
-* From F.D.R. to Trump, presidents have traveled to see Saudi Arabia and its royal family on a variety of diplomatic missions, some more inscrutable than others.
-* 从罗斯福到特朗普，总统们前往沙特阿拉伯及其王室执行各种外交使命，其中一些使命比其他使命更加难以捉摸。
-* The Senate Democratic leader plans to demand answers on Qatari influence in the United States and call for testimony from the attorney general.
-* 这位参议院民主党领袖计划要求回答卡塔尔在美国的影响，并要求司法部长作证。
-* The famously liberal bastion of Austin is grappling uneasily with Elon Musk’s rightward turn, which has begun transforming his adopted home  into an unlikely hub of right-of-center thinkers.
-* 著名的自由主义堡垒奥斯汀正在不安地与埃隆·马斯克（ Elon Musk ）的右转作斗争，后者已经开始将他的领养家庭转变为一个不太可能的中心权利思想家中心。
-* In some places with crime-free housing laws, landlords must kick out tenants who have had too much contact with the police.
-* 在一些有无犯罪住房法的地方，房东必须赶走与警方接触过多的租户。
-* In some Illinois cities, shoplifting, calling 911 too many times or even being a victim of a crime can get you kicked out of your home.
-* 在伊利诺伊州的一些城市，入店行窃、拨打911的次数过多，甚至成为犯罪的受害者，都会让您被赶出家门。
-* Joe McCallen, 62, has mapped 100,000 miles of road for Google’s immersive map. He has no plans to stop.
-* 62岁的乔·麦卡伦（ Joe McCallen ）为谷歌的沉浸式地图绘制了10万英里的道路地图。他没有停下来的计划。
-* Regulators seeking to end the use of electric shock devices on people with disabilities have been swept into the government upheaval under President Trump.
-* 寻求终止对残疾人使用电击装置的监管机构已被卷入特朗普总统领导下的政府动荡。
-* President Trump
-* 特朗谱总统
+* 
+* 
+* Robert F. Kennedy Jr. is expected to testify before lawmakers for the first time as health secretary on Wednesday, where he will also confront calls from a key Republican to reassure Americans about his agenda.
+* 预计小罗伯特· F ·肯尼迪(Robert F. Kennedy Jr.)将于周三首次以卫生部长的身份在立法者面前作证，他还将面对一位关键共和党人的呼吁，向美国人保证他的议程。
+* Despite soaring power demand, Republican lawmakers in the Texas Legislature are pushing to rein in renewable energy, part of a national wave of Trump-era opposition.
+* 尽管电力需求飙升，但德克萨斯州立法机构的共和党议员正在推动控制可再生能源，这是特朗普时代全国反对浪潮的一部分。
+* The Trump crackdown has reached the volcanic Island of Hawaii, where immigrants, some of them undocumented, are crucial to cultivating the rare coffee.
+* 特朗普的镇压已经到达了夏威夷火山岛，在那里，移民（其中一些是无证移民）对于种植稀有咖啡至关重要。
+* 
+* 
+* The unresponsive plane drew a response from military jets, causing a sonic boom, before it crashed in Virginia in 2023. A federal report said a loss of cabin pressure was likely to blame.
+* 这架没有反应的飞机在2023年坠毁在弗吉尼亚州之前，引起了军用飞机的响应，引起了音爆。一份联邦报告称，客舱压力的损失可能是罪魁祸首。
+* John Ewing Jr. would be the first elected Black mayor of Omaha, the largest city in Nebraska. The Republican incumbent, Jean Stothert, had been seeking a fourth term.
+* 小约翰·尤因（ John Ewing Jr. ）将成为内布拉斯加州最大城市奥马哈的第一位当选黑人市长。共和党现任议员让·斯托特（ Jean Stothert ）一直在寻求第四个任期。
+* With Democrats sizing up their 2028 plans, Pete Buttigieg spoke at a town hall in Cedar Rapids and criticized the Trump administration: “The American people bow to no king.”
+* 随着民主党人调整他们的2028年计划，皮特·布蒂吉格（ Pete Buttigieg ）在锡达拉皮兹（ Cedar Rapids ）的一个市政厅发表讲话，批评特朗普政府： “美国人民不向国王屈服。”
+* A Republican known as Kit, he was the state’s youngest governor. When he retired from Congress after four terms, he said he didn’t want to be the state’s oldest senator.
+* 他被称为基特，是该州最年轻的州长。当他在四届任期结束后从国会退休时，他说他不想成为该州最年长的参议员。
+* The decision could lead to the release of Lyle and Erik Menendez, more than three decades after they were sent to prison for killing their parents.
+* 这一决定可能会导致莱尔和埃里克·梅嫩德斯（ Erik Menendez ）因杀害父母而被判入狱三十多年后被释放。
 
 ## New York Times Asia News
+* Dozens of family members filed a joint complaint against 15 aviation officials, accusing them of negligence and violating South Korean law.
+* 数十名家庭成员对15名航空官员提出了联合投诉，指控他们疏忽大意并违反了韩国法律。
+* Beginning Wednesday, shipments arriving in the United States from China and Hong Kong worth less than $800 could face 54 percent tariffs.
+* 从周三开始，从中国大陆和香港运抵美国的价值低于800美元的货物可能面临54%的关税。
+* Beijing is trying to win over other countries with vows of economic cooperation. But it won’t back down from its territorial claims, experts predict.
+* 北京正试图通过经济合作的誓言来赢得其他国家的支持。但专家预测，它不会放弃其领土主张。
+* Plus, a Hollywood takeover at Cannes.
+* 此外，还有戛纳的好莱坞收购。
+* The firm, which produces content for TikTok, recorded no revenue last year, but it announced this week that a mysterious stock sale would allow it to invest heavily in the $TRUMP memecoin.
+* 这家为TikTok制作内容的公司去年没有收入，但它本周宣布，神秘的股票出售将允许它大量投资于$ TRUMP memecoin。
+* President Trump’s repeated descriptions of U.S. mediation efforts between India and Pakistan have hit sore spots in Indian politics.
+* 特朗普总统一再描述美国在印度和巴基斯坦之间的调解努力，这在印度政治中引起了轩然大波。
 * Distress is spreading in Japan’s auto sector, putting into question Tokyo’s approach to trade negotiations with the United States.
 * 日本汽车行业的困境正在蔓延，这让人质疑东京与美国进行贸易谈判的方式。
-* China’s leader Xi Jinping suggests expanding trade ties beyond buying commodities, as he continues to rally nations in the face of Trump’s tariffs.
-* 中国国家主席习近平建议扩大贸易关系，超越购买大宗商品，因为面对特朗普的关税，他继续反弹各国。
+* The Chinese leader, Xi Jinping, has suggested expanding trade ties beyond buying commodities as he continues to rally nations in the face of President Trump’s tariffs.
+* 中国领导人习近平建议扩大贸易关系，不仅仅是购买大宗商品，因为面对特朗普总统的关税，他继续反弹各国。
 * Mining continues at the Continental Pit. Nearby is the Berkeley Pit, a site for acid mine drainage that poses an opportunity for extracting valuable metals.
 * 大陆坑继续开采。附近是伯克利矿坑（ Berkeley Pit ） ，这是一个酸性矿山排水场，为提取有价值的金属提供了机会。
 * The technological success that has captured the attention of many in the United States is one aspect of the Chinese economy. There’s another, gloomy one.
 * 技术上的成功引起了美国许多人的关注，这是中国经济的一个方面。还有一个令人沮丧的。
-* The temporary lowering of tariffs may compel some U.S. businesses to order goods that they had held off buying after President Trump raised them to 145 percent.
-* 暂时降低关税可能会迫使一些美国企业订购他们在特朗普总统将关税提高到145%后推迟购买的商品。
-* Plus, a big week for the art world.
-* 此外，对于艺术界来说，这是一个重要的一周。
-* President Trump’s triple-digit tariffs on Chinese products disrupted global trade — but haven’t appeared to result in major concessions from Beijing.
-* 特朗普总统对中国产品征收的三位数关税扰乱了全球贸易，但似乎并未导致北京方面做出重大让步。
-* Civilian airports were reopened and stocks jumped in both nations, signs of confidence that the agreement to halt the most alarming fighting in decades was holding.
-* 两国的民用机场重新开放，库存激增，这表明停止数十年来最令人担忧的战斗的协议得到了信赖。
-* The papacy is a global platform, so the issues Pope Leo chooses to focus on can resonate far beyond the church.
-* 教皇职位是一个全球性的平台，因此教皇利奥选择关注的问题可以在教会之外产生共鸣。
-* The White House backed off from the steepest levies, as the costs of an all-out trade war with China threatened global economic growth.
-* 由于与中国的全面贸易战的代价威胁到全球经济增长，白宫放弃了最严厉的关税。
 
