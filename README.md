@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Trump’s meeting with President Ahmed al-Shara capped a remarkable turnabout for the leader of the rebel uprising that ousted Bashar al-Assad. Mr. Trump has said he would lift U.S. sanctions on Syria.
-* 特朗普总统与艾哈迈德·沙雷总统的会晤为推翻巴沙尔·阿萨德的反叛起义领导人带来了令人瞩目的转机。特朗普曾表示，他将取消美国对叙利亚的制裁。
-* Israel tried to kill Muhammad Sinwar, a key Hamas leader in Gaza. If confirmed, it would deprive the group of another top commander, but it is unclear if it would lead to a strategic shift.
-* 以色列试图杀害哈马斯在加沙的主要领导人穆罕默德·辛瓦尔（ Muhammad Sinwar ）。如果得到确认，它将使该小组失去另一位最高指挥官，但目前尚不清楚这是否会导致战略转变。
+* The Ukrainian and Russian delegations arrived in different Turkish cities. President Vladimir V. Putin was not there. Neither was President Trump.
+* 乌克兰和俄罗斯代表团抵达不同的土耳其城市。弗拉基米尔· V ·普京总统不在场。特朗普总统也不是。
+* In Saudi Arabia, the president denounced Western intervention and nation-building, garnering both praise and eye rolls.
+* 在沙特阿拉伯，总统谴责西方干预和国家建设，赢得了赞扬和关注。
+* Since the overthrow of the dictator Bashar al-Assad, business owners have been waiting for Washington to ease sanctions and pave the way for an economic renewal.
+* 自独裁者巴沙尔·阿萨德（ Bashar al-Assad ）被推翻以来，企业主一直在等待华盛顿放松制裁，为经济复苏铺平道路。
+* Israel tried to kill Muhammad Sinwar, a key Hamas leader in Gaza. If confirmed, his death would deprive the group of another top commander, but it might not lead to a strategic shift.
+* 以色列试图杀害哈马斯在加沙的主要领导人穆罕默德·辛瓦尔（ Muhammad Sinwar ）。如果得到证实，他的死将使该组织失去另一位最高指挥官，但这可能不会导致战略转变。
+* French courts may finally be taking years of complaints about sexual violence seriously, advocates and experts say.
+* 倡导者和专家表示，法国法院最终可能会认真对待多年来对性暴力的投诉。
+* Aid groups and U.N. investigations have accused Israel of aiming to destroy Gaza’s health infrastructure. Israel says it is forced to strike hospitals it says are used by Hamas for military purposes.
+* 援助组织和联合国调查指责以色列旨在摧毁加沙的卫生基础设施。以色列表示，它被迫袭击据称被哈马斯用于军事目的的医院。
+* The Trump administration’s hostile approach to South Africa was shaped by a convergence of factors.
+* 特朗普政府对南非的敌对态度是由多种因素共同塑造的。
+* President Cyril Ramaphosa called the white South Africans “cowardly” for leaving for the United States.
+* 南非总统西里尔·拉马福萨（ Cyril Ramaphosa ）称南非白人前往美国是“懦夫”。
+* Mexico’s security secretary confirmed reports that 17 family members of Sinaloa Cartel leaders had entered the United States, likely as part of a deal with the Trump administration.
+* 墨西哥安全部长证实了有关锡那罗亚卡特尔领导人的17名家庭成员进入美国的报道，这可能是与特朗普政府达成协议的一部分。
 * Grigory Melkonyants was convicted on charges of working with an “undesirable organization” in relation to his watchdog’s past affiliation with a European election monitoring group.
 * Grigory Melkonyants因其监管机构过去与欧洲选举监督组织的关系而被指控与“不受欢迎的组织”合作。
-* The case revolved around whether texts between a top official and a drug company executive counted as a public record that might need to be disclosed.
-* 该案件围绕着高级官员与制药公司高管之间的文本是否算作可能需要披露的公开记录。
-* Beijing is trying to win over other countries with vows of economic cooperation. But it won’t back down from its territorial claims, experts predict.
-* 北京正试图通过经济合作的誓言来赢得其他国家的支持。但专家预测，它不会放弃其领土主张。
-* The emirate, once called “a funder of terrorism” by President Trump, has spent lavishly on overhauling its global reputation.
-* 这个曾被特朗普总统称为“恐怖主义资助者”的酋长国慷慨解囊，致力于重塑其全球声誉。
-* Dozens of family members filed a joint complaint against 15 aviation officials, accusing them of negligence and violating South Korean law.
-* 数十名家庭成员对15名航空官员提出了联合投诉，指控他们疏忽大意并违反了韩国法律。
-* The first group of Afrikaners have arrived in the United States, claiming they were victims of persecution or had reason to fear persecution in their home country.
-* 第一批南非白人抵达美国，声称他们是迫害的受害者，或者有理由害怕在本国遭受迫害。
-* President Volodymyr Zelensky of Ukraine said that if President Trump attended the talks, it would put pressure on Russia’s leader, Vladimir V. Putin, to meet face-to-face.
-* 乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）表示，如果特朗普总统参加会谈，将向俄罗斯领导人弗拉基米尔· V ·普京（ Vladimir V. Putin ）施加压力，要求他面对面会晤
-* The Chinese leader, Xi Jinping, has suggested expanding trade ties beyond buying commodities as he continues to rally nations in the face of President Trump’s tariffs.
-* 中国领导人习近平建议扩大贸易关系，不仅仅是购买大宗商品，因为面对特朗普总统的关税，他继续反弹各国。
 
 ## New York Times United States News
+* Qatar’s Al Udeid Air Base is a key hub for U.S. air operations across a vast region, from Northeast Africa to Central and South Asia.
+* 卡塔尔的乌代德空军基地是美国在东北非、中亚和南亚等广大地区开展空中行动的重要枢纽。
+* For more than a century, there was broad consensus that the 14th Amendment established birthright citizenship for children born in the United States. But President Trump has challenged that precedent. Abbie VanSickle, a reporter covering the Supreme Court for The New York Times, explains.
+* 一个多世纪以来，人们普遍认为，第14修正案为在美国出生的儿童确立了与生俱来的公民身份。但特朗普总统对这一先例提出了挑战。《纽约时报》报道最高法院的记者Abbie VanSickle解释说。
+* The Supreme Court will hear arguments on whether federal judges can block Trump administration policy across the country.
+* 最高法院将听取关于联邦法官是否可以在全国范围内阻止特朗普政府政策的争论。
+* Dropping a few jalapeño slices into a glass of “sauvy b” may give us the drink of the summer. Just don’t expect it to be on all menus.
+* 将几片墨西哥辣椒片倒入一杯“sauvy b”中，可能会给我们带来夏天的饮料。但不要指望它出现在所有菜单上。
+* The U.S. forecasting agency was working on streamlining itself for the modern era. Days away from hurricane season, it’s now struggling to keep offices open.
+* 美国预测机构正在努力为现代精简自己。距离飓风季节还有几天，现在很难保持办公室的开放。
 * 
 * 
-* Robert F. Kennedy Jr. is expected to testify before lawmakers for the first time as health secretary on Wednesday, where he will also confront calls from a key Republican to reassure Americans about his agenda.
-* 预计小罗伯特· F ·肯尼迪(Robert F. Kennedy Jr.)将于周三首次以卫生部长的身份在立法者面前作证，他还将面对一位关键共和党人的呼吁，向美国人保证他的议程。
-* Despite soaring power demand, Republican lawmakers in the Texas Legislature are pushing to rein in renewable energy, part of a national wave of Trump-era opposition.
-* 尽管电力需求飙升，但德克萨斯州立法机构的共和党议员正在推动控制可再生能源，这是特朗普时代全国反对浪潮的一部分。
-* The Trump crackdown has reached the volcanic Island of Hawaii, where immigrants, some of them undocumented, are crucial to cultivating the rare coffee.
-* 特朗普的镇压已经到达了夏威夷火山岛，在那里，移民（其中一些是无证移民）对于种植稀有咖啡至关重要。
-* 
-* 
-* The unresponsive plane drew a response from military jets, causing a sonic boom, before it crashed in Virginia in 2023. A federal report said a loss of cabin pressure was likely to blame.
-* 这架没有反应的飞机在2023年坠毁在弗吉尼亚州之前，引起了军用飞机的响应，引起了音爆。一份联邦报告称，客舱压力的损失可能是罪魁祸首。
-* John Ewing Jr. would be the first elected Black mayor of Omaha, the largest city in Nebraska. The Republican incumbent, Jean Stothert, had been seeking a fourth term.
-* 小约翰·尤因（ John Ewing Jr. ）将成为内布拉斯加州最大城市奥马哈的第一位当选黑人市长。共和党现任议员让·斯托特（ Jean Stothert ）一直在寻求第四个任期。
-* With Democrats sizing up their 2028 plans, Pete Buttigieg spoke at a town hall in Cedar Rapids and criticized the Trump administration: “The American people bow to no king.”
-* 随着民主党人调整他们的2028年计划，皮特·布蒂吉格（ Pete Buttigieg ）在锡达拉皮兹（ Cedar Rapids ）的一个市政厅发表讲话，批评特朗普政府： “美国人民不向国王屈服。”
-* A Republican known as Kit, he was the state’s youngest governor. When he retired from Congress after four terms, he said he didn’t want to be the state’s oldest senator.
-* 他被称为基特，是该州最年轻的州长。当他在四届任期结束后从国会退休时，他说他不想成为该州最年长的参议员。
-* The decision could lead to the release of Lyle and Erik Menendez, more than three decades after they were sent to prison for killing their parents.
-* 这一决定可能会导致莱尔和埃里克·梅嫩德斯（ Erik Menendez ）因杀害父母而被判入狱三十多年后被释放。
+* Serbian authorities say an official admitted to forging a document allowing a protected site in Belgrade to be demolished and replaced with a Trump hotel.
+* 塞尔维亚当局表示，一名官员承认伪造了一份文件，允许贝尔格莱德的一个受保护地点被拆除，取而代之的是一家特朗普酒店。
+* The white South African refugee who posted the comments on social media said on Wednesday that he was not an antisemitic person.
+* 这名在社交媒体上发表评论的南非白人难民周三表示，他不是反犹太主义者。
+* The state’s Republicans are putting abortion on a ballot question again, seeking to buck the trend of voters siding with abortion rights on ballot measures.
+* 该州的共和党人再次将堕胎置于投票问题上，试图扭转选民在投票措施中支持堕胎权的趋势。
+* As a court reviewed the Menendez murder case, the culture and politics of the 1990s were scrutinized almost as much as the horrific crime.
+* 当法院审查梅嫩德斯谋杀案时， 20世纪90年代的文化和政治受到的审查几乎与可怕的犯罪一样多。
 
 ## New York Times Asia News
+* While it is far too early to say how he will use his platform to address such issues, his focus shows he is a church leader who grasps the gravity of this modern concern.
+* 虽然现在说他将如何利用自己的平台来解决这些问题还为时过早，但他的关注点表明，他是一名教会领袖，他抓住了这一现代问题的严重性。
+* Saou Ichikawa is the country’s first severely disabled author to win a top literary prize. Her novel “Hunchback” is an angry cry against “ableist machismo.”
+* Saou Ichikawa是该国第一位获得最高文学奖的严重残疾作家。她的小说《驼背》是对“能力主义大男子主义”的愤怒呼喊。
+* An official report into last year’s yacht tragedy, which killed seven, found that the boat could easily capsize in high winds. Its towering mast made it more vulnerable.
+* 去年造成7人死亡的游艇悲剧的官方报告发现，这艘船很容易在大风中倾覆。高耸的桅杆使它更加脆弱。
+* And her fans were called Noranians for their devotion to a performer who had enthralled her country — onscreen and on the concert stage — since she was a teenager.
+* 她的粉丝被称为Noranians ，因为他们对一位从十几岁起就迷恋她的国家的表演者（无论是在银幕上还是在音乐会舞台上）的忠诚。
+* Plus, the world’s poorest president.
+* 此外，这位世界上最贫穷的总统。
+* Besides El Salvador, where the United States has already sent detainees, Rwanda and Libya have records of mistreating migrant detainees.
+* 除了美国已经派遣被拘留者的萨尔瓦多外，卢旺达和利比亚还有虐待移民被拘留者的记录。
+* A House Republican bill introduced this week would do away with tax credits that had encouraged Americans to buy electric vehicles and automakers to invest in new factories.
+* 众议院共和党本周提出的一项法案将取消鼓励美国人购买电动汽车和汽车制造商投资新工厂的税收抵免。
+* India exchanged a Pakistani paramilitary fighter for a border security guard that Pakistan had held for weeks. Each officer had been detained before the countries’ military skirmish started.
+* 印度用一架巴基斯坦准军事战斗机换取了一名被巴基斯坦扣押数周的边境安全警卫。在国家军事冲突开始之前，每名军官都被拘留。
 * Dozens of family members filed a joint complaint against 15 aviation officials, accusing them of negligence and violating South Korean law.
 * 数十名家庭成员对15名航空官员提出了联合投诉，指控他们疏忽大意并违反了韩国法律。
 * Beginning Wednesday, shipments arriving in the United States from China and Hong Kong worth less than $800 could face 54 percent tariffs.
 * 从周三开始，从中国大陆和香港运抵美国的价值低于800美元的货物可能面临54%的关税。
-* Beijing is trying to win over other countries with vows of economic cooperation. But it won’t back down from its territorial claims, experts predict.
-* 北京正试图通过经济合作的誓言来赢得其他国家的支持。但专家预测，它不会放弃其领土主张。
-* Plus, a Hollywood takeover at Cannes.
-* 此外，还有戛纳的好莱坞收购。
-* The firm, which produces content for TikTok, recorded no revenue last year, but it announced this week that a mysterious stock sale would allow it to invest heavily in the $TRUMP memecoin.
-* 这家为TikTok制作内容的公司去年没有收入，但它本周宣布，神秘的股票出售将允许它大量投资于$ TRUMP memecoin。
-* President Trump’s repeated descriptions of U.S. mediation efforts between India and Pakistan have hit sore spots in Indian politics.
-* 特朗普总统一再描述美国在印度和巴基斯坦之间的调解努力，这在印度政治中引起了轩然大波。
-* Distress is spreading in Japan’s auto sector, putting into question Tokyo’s approach to trade negotiations with the United States.
-* 日本汽车行业的困境正在蔓延，这让人质疑东京与美国进行贸易谈判的方式。
-* The Chinese leader, Xi Jinping, has suggested expanding trade ties beyond buying commodities as he continues to rally nations in the face of President Trump’s tariffs.
-* 中国领导人习近平建议扩大贸易关系，不仅仅是购买大宗商品，因为面对特朗普总统的关税，他继续反弹各国。
-* Mining continues at the Continental Pit. Nearby is the Berkeley Pit, a site for acid mine drainage that poses an opportunity for extracting valuable metals.
-* 大陆坑继续开采。附近是伯克利矿坑（ Berkeley Pit ） ，这是一个酸性矿山排水场，为提取有价值的金属提供了机会。
-* The technological success that has captured the attention of many in the United States is one aspect of the Chinese economy. There’s another, gloomy one.
-* 技术上的成功引起了美国许多人的关注，这是中国经济的一个方面。还有一个令人沮丧的。
 
