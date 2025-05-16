@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The Ukrainian and Russian delegations arrived in different Turkish cities. President Vladimir V. Putin was not there. Neither was President Trump.
-* 乌克兰和俄罗斯代表团抵达不同的土耳其城市。弗拉基米尔· V ·普京总统不在场。特朗普总统也不是。
-* In Saudi Arabia, the president denounced Western intervention and nation-building, garnering both praise and eye rolls.
-* 在沙特阿拉伯，总统谴责西方干预和国家建设，赢得了赞扬和关注。
+* Many Saudis say they are big fans of President Trump, calling him a “straight shooter” who shares their values. Others were not impressed.
+* 许多沙特人说他们是特朗普总统的忠实粉丝，称他是一个与他们的价值观相同的“直击手”。其他人没有留下深刻的印象。
+* President Trump’s four-day trip yielded a remarkable turnabout with Syria and announcements of multibillion-dollar agreements for U.S. companies.
+* 特朗普总统为期四天的访问与叙利亚发生了引人注目的转变，并宣布与美国公司达成数十亿美元的协议。
+* During the first major foreign trip of his second term, President Trump has told audiences in the Middle East that he’s willing to set the past aside in the interests of peace and profit.
+* 在第二任期的首次重大出访中，特朗普总统告诉中东的观众，他愿意为了和平与利益而抛弃过去。
+* Expectations are low for the discussions in Istanbul, the first direct peace negotiations between Moscow and Kyiv since early 2022.
+* 对伊斯坦布尔讨论的期望很低，这是自2022年初以来莫斯科和基辅之间的首次直接和平谈判。
+* A Latvian security agency tells people to note radio gear and provocative questions, but some signs of espionage that it cites — like fit, unkempt backpackers — could apply to hikers and tourists.
+* 拉脱维亚的一个安全机构告诉人们要注意无线电设备和挑衅性的问题，但它引用的一些间谍迹象--比如健康、不整洁的背包客--可能适用于徒步旅行者和游客。
+* Israel intensified its military campaign against Hamas, despite a U.S.-backed push for the two sides to agree a new cease-fire.
+* 以色列加强了对哈马斯的军事行动，尽管美国支持双方同意新的停火。
+* After years of gradual progress toward stability, a succession battle is pushing the country to the precipice of another full-blown civil war.
+* 经过多年逐步走向稳定，一场接连不断的战斗正在将该国推向另一场全面内战的悬崖。
 * Since the overthrow of the dictator Bashar al-Assad, business owners have been waiting for Washington to ease sanctions and pave the way for an economic renewal.
 * 自独裁者巴沙尔·阿萨德（ Bashar al-Assad ）被推翻以来，企业主一直在等待华盛顿放松制裁，为经济复苏铺平道路。
-* Israel tried to kill Muhammad Sinwar, a key Hamas leader in Gaza. If confirmed, his death would deprive the group of another top commander, but it might not lead to a strategic shift.
-* 以色列试图杀害哈马斯在加沙的主要领导人穆罕默德·辛瓦尔（ Muhammad Sinwar ）。如果得到证实，他的死将使该组织失去另一位最高指挥官，但这可能不会导致战略转变。
-* French courts may finally be taking years of complaints about sexual violence seriously, advocates and experts say.
-* 倡导者和专家表示，法国法院最终可能会认真对待多年来对性暴力的投诉。
-* Aid groups and U.N. investigations have accused Israel of aiming to destroy Gaza’s health infrastructure. Israel says it is forced to strike hospitals it says are used by Hamas for military purposes.
-* 援助组织和联合国调查指责以色列旨在摧毁加沙的卫生基础设施。以色列表示，它被迫袭击据称被哈马斯用于军事目的的医院。
-* The Trump administration’s hostile approach to South Africa was shaped by a convergence of factors.
-* 特朗普政府对南非的敌对态度是由多种因素共同塑造的。
-* President Cyril Ramaphosa called the white South Africans “cowardly” for leaving for the United States.
-* 南非总统西里尔·拉马福萨（ Cyril Ramaphosa ）称南非白人前往美国是“懦夫”。
-* Mexico’s security secretary confirmed reports that 17 family members of Sinaloa Cartel leaders had entered the United States, likely as part of a deal with the Trump administration.
-* 墨西哥安全部长证实了有关锡那罗亚卡特尔领导人的17名家庭成员进入美国的报道，这可能是与特朗普政府达成协议的一部分。
-* Grigory Melkonyants was convicted on charges of working with an “undesirable organization” in relation to his watchdog’s past affiliation with a European election monitoring group.
-* Grigory Melkonyants因其监管机构过去与欧洲选举监督组织的关系而被指控与“不受欢迎的组织”合作。
+* While it is far too early to say how he will use his platform to address such issues, his focus shows he is a church leader who grasps the gravity of this modern concern.
+* 虽然现在说他将如何利用自己的平台来解决这些问题还为时过早，但他的关注点表明，他是一名教会领袖，他抓住了这一现代问题的严重性。
+* Fu Zai has won top workplace reviews as an unusual breed of sniffer dog. But his lack of self-control cost him his annual bonus.
+* Fu Zai作为一种不寻常的嗅探犬获得了顶级工作场所的评价。但由于缺乏自制力，他失去了年度奖金。
 
 ## New York Times United States News
-* Qatar’s Al Udeid Air Base is a key hub for U.S. air operations across a vast region, from Northeast Africa to Central and South Asia.
-* 卡塔尔的乌代德空军基地是美国在东北非、中亚和南亚等广大地区开展空中行动的重要枢纽。
-* For more than a century, there was broad consensus that the 14th Amendment established birthright citizenship for children born in the United States. But President Trump has challenged that precedent. Abbie VanSickle, a reporter covering the Supreme Court for The New York Times, explains.
-* 一个多世纪以来，人们普遍认为，第14修正案为在美国出生的儿童确立了与生俱来的公民身份。但特朗普总统对这一先例提出了挑战。《纽约时报》报道最高法院的记者Abbie VanSickle解释说。
-* The Supreme Court will hear arguments on whether federal judges can block Trump administration policy across the country.
-* 最高法院将听取关于联邦法官是否可以在全国范围内阻止特朗普政府政策的争论。
-* Dropping a few jalapeño slices into a glass of “sauvy b” may give us the drink of the summer. Just don’t expect it to be on all menus.
-* 将几片墨西哥辣椒片倒入一杯“sauvy b”中，可能会给我们带来夏天的饮料。但不要指望它出现在所有菜单上。
-* The U.S. forecasting agency was working on streamlining itself for the modern era. Days away from hurricane season, it’s now struggling to keep offices open.
-* 美国预测机构正在努力为现代精简自己。距离飓风季节还有几天，现在很难保持办公室的开放。
-* 
-* 
-* Serbian authorities say an official admitted to forging a document allowing a protected site in Belgrade to be demolished and replaced with a Trump hotel.
-* 塞尔维亚当局表示，一名官员承认伪造了一份文件，允许贝尔格莱德的一个受保护地点被拆除，取而代之的是一家特朗普酒店。
-* The white South African refugee who posted the comments on social media said on Wednesday that he was not an antisemitic person.
-* 这名在社交媒体上发表评论的南非白人难民周三表示，他不是反犹太主义者。
-* The state’s Republicans are putting abortion on a ballot question again, seeking to buck the trend of voters siding with abortion rights on ballot measures.
-* 该州的共和党人再次将堕胎置于投票问题上，试图扭转选民在投票措施中支持堕胎权的趋势。
-* As a court reviewed the Menendez murder case, the culture and politics of the 1990s were scrutinized almost as much as the horrific crime.
-* 当法院审查梅嫩德斯谋杀案时， 20世纪90年代的文化和政治受到的审查几乎与可怕的犯罪一样多。
+* President Trump’s four-day trip yielded a remarkable turnabout with Syria and announcements of multibillion-dollar agreements for U.S. companies.
+* 特朗普总统为期四天的访问与叙利亚发生了引人注目的转变，并宣布与美国公司达成数十亿美元的协议。
+* Justice Department lawyers are scheduled to appear in Federal District Court in Maryland to defend their latest effort to avoid disclosing details about several key aspects of the proceeding.
+* 司法部律师计划在马里兰州联邦地区法院出庭，为他们的最新努力辩护，以避免披露有关诉讼程序几个关键方面的细节。
+* Louisiana officials want to overturn the remaining federal desegregation orders in their state. They may find allies in the Trump administration.
+* 路易斯安那州官员希望推翻该州剩余的联邦废除种族隔离令。他们可能会在特朗普政府中找到盟友。
+* James Comey shared and later took down a post with a phrase used by critics of the president, saying there had been no ill intent.
+* 詹姆斯·科米（ James Comey ）分享了一篇帖子，后来删除了总统批评者使用的一句话，称没有恶意。
+* The layoffs amounted to over a third of the media organization’s staff, and came as the Trump administration put up for sale the federal building in Washington that houses the network.
+* 裁员人数占该媒体组织员工总数的三分之一以上，此时特朗普政府正在出售位于华盛顿的联邦大楼，该大楼是该网络的所在地。
+* Shabbos Kestenbaum sued Harvard University over allegations it did not do enough to curb antisemitism. He had continued his lawsuit even after other students settled.
+* Shabbos Kestenbaum起诉哈佛大学，指控其在遏制反犹太主义方面做得不够。即使其他学生安顿下来，他也继续提起诉讼。
+* The temporary ruling mirrored one in a case involving the N.I.H., which similarly tried to cap the funding that covers universities’ overhead expenses in research.
+* 这项临时裁决与涉及N.I.H.的案件中的一项裁决相似， N.I.H.同样试图限制用于支付大学研究间接费用的资金。
+* An audit of deaths in Maryland found that in cases of people who died after being restrained by the police, medical examiners often classified the deaths as natural or accidental.
+* 对马里兰州死亡人数的审计发现，在被警方拘禁后死亡的案件中，法医通常将死亡归类为自然死亡或意外死亡。
+* The parade is scheduled for June 14, the date of the Army’s 250th anniversary, and is billed as the “Army’s birthday celebration.” President Trump turns 79 that day.
+* 阅兵定于6月14日，即陆军250周年纪念日，并被称为“陆军的生日庆祝活动”。“特朗普总统那天满79岁。
+* Errol Langton and eight members of his family were among the first group of white South Africans to arrive in the United States this week after President Trump created an expedited path to citizenship.
+* 埃罗尔·兰顿（ Errol Langton ）和他的八名家人是本周在特朗普总统创建了快速入籍途径后抵达美国的第一批南非白人之一。
 
 ## New York Times Asia News
+* As Pakistan declares victory, confidence in the troubled country’s state institutions is re-emerging, at least for now.
+* 随着巴基斯坦宣布胜利，对这个陷入困境的国家的国家机构的信心正在重新抬头，至少目前是这样。
+* Asia Pacific Economic Cooperation nations, staring down U.S. tariffs, jockeyed for time with U.S. Trade Representative Jamieson Greer at a gathering in South Korea.
+* 亚太经济合作组织国家盯着美国的关税，在韩国的一次聚会上与美国贸易代表杰米森·格里尔（ Jamieson Greer ）争吵了一段时间。
+* Fu Zai has won top workplace reviews as an unusual breed of sniffer dog. But his lack of self-control cost him his annual bonus.
+* Fu Zai作为一种不寻常的嗅探犬获得了顶级工作场所的评价。但由于缺乏自制力，他失去了年度奖金。
+* Plus, peace and love at the Eurovision.
+* 此外，还有欧洲电视网的和平与爱。
+* The rock called Maka Lahi is important in the mythology of the people of Tonga, and scientists have worked out part of its origin story.
+* 这块名为Maka Lahi的岩石在汤加人的神话中很重要，科学家已经确定了其起源故事的一部分。
+* President Trump suggested that New Delhi was ready to charge the United States “no tariff.” India’s foreign minister said that the two countries were still negotiating.
+* 特朗普总统表示，新德里已准备好向美国收取“无关税”。“印度外交部长表示，两国仍在进行谈判。
 * While it is far too early to say how he will use his platform to address such issues, his focus shows he is a church leader who grasps the gravity of this modern concern.
 * 虽然现在说他将如何利用自己的平台来解决这些问题还为时过早，但他的关注点表明，他是一名教会领袖，他抓住了这一现代问题的严重性。
 * Saou Ichikawa is the country’s first severely disabled author to win a top literary prize. Her novel “Hunchback” is an angry cry against “ableist machismo.”
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 去年造成7人死亡的游艇悲剧的官方报告发现，这艘船很容易在大风中倾覆。高耸的桅杆使它更加脆弱。
 * And her fans were called Noranians for their devotion to a performer who had enthralled her country — onscreen and on the concert stage — since she was a teenager.
 * 她的粉丝被称为Noranians ，因为他们对一位从十几岁起就迷恋她的国家的表演者（无论是在银幕上还是在音乐会舞台上）的忠诚。
-* Plus, the world’s poorest president.
-* 此外，这位世界上最贫穷的总统。
-* Besides El Salvador, where the United States has already sent detainees, Rwanda and Libya have records of mistreating migrant detainees.
-* 除了美国已经派遣被拘留者的萨尔瓦多外，卢旺达和利比亚还有虐待移民被拘留者的记录。
-* A House Republican bill introduced this week would do away with tax credits that had encouraged Americans to buy electric vehicles and automakers to invest in new factories.
-* 众议院共和党本周提出的一项法案将取消鼓励美国人购买电动汽车和汽车制造商投资新工厂的税收抵免。
-* India exchanged a Pakistani paramilitary fighter for a border security guard that Pakistan had held for weeks. Each officer had been detained before the countries’ military skirmish started.
-* 印度用一架巴基斯坦准军事战斗机换取了一名被巴基斯坦扣押数周的边境安全警卫。在国家军事冲突开始之前，每名军官都被拘留。
-* Dozens of family members filed a joint complaint against 15 aviation officials, accusing them of negligence and violating South Korean law.
-* 数十名家庭成员对15名航空官员提出了联合投诉，指控他们疏忽大意并违反了韩国法律。
-* Beginning Wednesday, shipments arriving in the United States from China and Hong Kong worth less than $800 could face 54 percent tariffs.
-* 从周三开始，从中国大陆和香港运抵美国的价值低于800美元的货物可能面临54%的关税。
 
