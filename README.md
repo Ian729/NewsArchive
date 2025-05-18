@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* The Vatican said at least 150,000 people attended the Mass at St. Peter’s Square, which marked the start of the pontificate of the first American to lead the Roman Catholic Church. Vice President JD Vance was among the dignitaries.
+* 梵蒂冈表示，至少有15万人参加了圣彼得广场的弥撒，这标志着第一位领导罗马天主教会的美国人开始担任教皇。副总统JD Vance是政要之一。
+* This month’s violent escalation reminded the world how India’s gradual rise can be hindered by the troublesome country next door.
+* 本月的暴力升级提醒世界，印度的逐步崛起如何受到隔壁麻烦国家的阻碍。
+* A summit on Monday between Britain and the European Union, expected to include a defense pact, may kick-start a new era.
+* 英国和欧盟周一举行的峰会预计将包括一项防务协议，可能会开启一个新时代。
+* Most British people believe Brexit was a mistake. But Prime Minister Keir Starmer’s attempts to edge closer to Europe face huge opposition in the national news media.
+* 大多数英国人认为英国脱欧是一个错误。但总理基尔·斯塔默（ Keir Starmer ）试图靠近欧洲的努力遭到了国家新闻媒体的强烈反对。
+* Despite a flurry of diplomatic activity, there is little evidence Russia and Ukraine are close to an agreement.
+* 尽管进行了一系列外交活动，但几乎没有证据表明俄罗斯和乌克兰接近达成协议。
+* A woman in South Korea was accused of claiming she was pregnant by Son Heung-min, the captain of Tottenham Hotspur, and demanding hush money.
+* 韩国一名女子被指控声称自己怀孕的是托特纳姆热刺队队长Son Heung-min ，并要求安静的钱。
+* Ukraine’s only female combat pilot flies helicopter missions against Russian troops. The military says it wants more women fighting, but sexism remains an obstacle, activists and female soldiers say.
+* 乌克兰唯一的女性战斗飞行员驾驶直升机对抗俄罗斯军队。军方表示希望有更多女性参战，但活动人士和女士兵表示，性别歧视仍然是一个障碍。
+* On Iran, Gaza, Syria and Yemen, President Trump is moving ahead without Israel, reshaping decades of foreign policy.
+* 在伊朗、加沙、叙利亚和也门，特朗普总统在没有以色列的情况下前进，重塑了数十年的外交政策。
 * A résumé of deep religious education, frontline pastoral experience, parish management and Vatican governance — along with a nudge from Pope Francis — put Robert Prevost on the fast track.
 * 深入的宗教教育、前线牧灵体验、教区管理和梵蒂冈治理的简历，以及教皇弗朗西斯的推动，使罗伯特·普雷沃斯特（ Robert Prevost ）走上了快车道。
-* Iran rejects any deal that would ban it from any nuclear enrichment, long a demand of U.S. conservatives.
-* 伊朗拒绝任何禁止伊朗进行任何核浓缩的协议，这是美国保守派长期以来的要求。
-* The strike came hours after the first face-to-face talks between Ukrainian and Russian delegations since the early days of the war.
-* 这次罢工是在乌克兰和俄罗斯代表团自战争初期以来首次面对面会谈的几个小时后发生的。
-* The military said intensified airstrikes over the past day were preparation for a new Israeli plan to move farther into Gaza and seize more territory.
-* 军方表示，过去一天加紧的空袭是为以色列进一步进入加沙并占领更多领土的新计划做准备。
-* Companies that make ammunition in the Bosnian city of Gorazde fear they may not survive the tariffs imposed on the goods that they send to their biggest market — the United States.
-* 在波斯尼亚城市戈拉日德（ Gorazde ）生产弹药的公司担心，他们可能无法承受对运往其最大市场--美国--的商品征收的关税。
-* For some, President Trump’s visits to Arab nations, Iran’s regional rivals, only made their country’s acute energy and economic crises harder to bear.
-* 对一些人来说，特朗普总统对伊朗的地区竞争对手阿拉伯国家的访问只会使他们国家的严重能源和经济危机更加难以承受。
 * While Mexicans have a right to own guns, they can only be legally bought at two military-run and tightly regulated stores, an effort to better control possession in a country awash with black market weapons.
 * 虽然墨西哥人有权拥有枪支，但他们只能在两家军营和严格监管的商店合法购买，这是为了更好地控制在一个充斥着黑市武器的国家拥有枪支。
-* During the conflict between India and Pakistan, even some long-trusted outlets reported unverified information and fabricated stories.
-* 在印度和巴基斯坦之间的冲突期间，甚至一些长期信任的媒体也报道了未经证实的信息和捏造的故事。
-* The allegations, which include being pushed into the sea off Myanmar with only life jackets, have prompted a call from the United Nations for an investigation.
-* 这些指控包括只穿救生衣被推入缅甸海域，这促使联合国呼吁进行调查。
-* Many Saudis say they are big fans of President Trump, calling him a “straight shooter” who shares their values. Others were not impressed.
-* 许多沙特人说他们是特朗普总统的忠实粉丝，称他是一个与他们的价值观相同的“直击手”。其他人没有留下深刻的印象。
 
 ## New York Times United States News
-* Linda McMahon, President Trump’s top education official, has played a leading role in pressuring the Ivy League university to comply with the administration’s demands.
-* 特朗普总统的高级教育官员琳达·麦克马洪（ Linda McMahon ）在向常春藤大学施加压力，要求其遵守政府的要求方面发挥了主导作用。
-* The federal government has taken a reactive approach to aviation policy, often leading to delays in modernization efforts and inadequate staffing and funding.
-* 联邦政府对航空政策采取了被动态度，往往导致现代化努力的延迟以及人员和资金不足。
-* A raid on Abby’s Bakery in Los Fresnos heralded the crackdown to come. Ahead of the owners’ trial for “harboring” undocumented workers, the community is seeing the impact of the president’s policies.
-* 对洛斯弗雷斯诺斯（ Los Fresnos ）艾比面包店（ Abby's Bakery ）的突袭预示着镇压即将到来。在业主“窝藏”无证工人的审判之前，社区正在看到总统政策的影响。
-* Wildfires are common in the state. But scientists say this week’s damaging blazes in a northeastern region are a sign of more severe effects from a warning planet.
-* 野火在该州很常见。但科学家表示，本周在东北部地区发生的破坏性大火是一个预警星球造成更严重影响的迹象。
-* Trump aides have discussed requiring insurers to cover the procedure, though one leading medical group says it has been shut out of the process.
-* 特朗普的助手们讨论了要求保险公司支付该程序的费用，尽管一家领先的医疗集团表示，该程序已被拒之门外。
-* Members of Gov. Katie Hobbs’s own party are worried about her re-election chances in a state that flipped to President Trump. The state party is in turmoil, too.
-* 州长凯蒂·霍布斯（ Katie Hobbs ）所在政党的成员担心，在一个转向特朗普总统的州，她的连任机会令人担忧。缔约国也处于动荡之中。
-* A 2023 audio recording released by Axios comes on the heels of other recent disclosures that have prompted recriminations among Democrats over their handling of the matter.
-* Axios发布的2023年录音是在最近其他披露之后发布的，这些披露引发了民主党人对处理此事的指责。
-* The proposed termination of medical research funded by the V.A. is part of the Trump administration’s broader pressure campaign against the university.
-* 提议终止由退伍军人事务部资助的医学研究是特朗普政府对该大学的更广泛压力运动的一部分。
-* Whether the ultraconservatives dig in and force big changes to the megabill carrying President Trump’s agenda or capitulate, as they have in the past, will determine the fate of their party’s signature legislation.
-* 无论是超级保守派挖掘并迫使承载特朗普总统议程的巨额变革，还是像过去一样投降，都将决定其政党签名立法的命运。
-* A lawsuit is seeking to stop Los Angeles Zoo officials from shipping their two surviving elephants to another zoo in Oklahoma. Cher and other advocates want them to go to an animal sanctuary.
-* 一项诉讼试图阻止洛杉矶动物园官员将两头幸存的大象运往俄克拉荷马州的另一个动物园。雪儿和其他倡导者希望他们去动物保护区。
+* 
+* 
+* At least 27 people have been killed in storms that have pummeled the Midwest and Mid-Atlantic regions since Friday. Kentucky and Missouri have been hit particularly hard.
+* 自周五以来，至少有27人在袭击中西部和中大西洋地区的风暴中丧生。肯塔基州和密苏里州受到的打击尤其严重。
+* Voters could be forgiven for thinking so. The party’s up-and-comers, heavy on tough talk and light on new ideas, are being remarkably open about wanting to run despite how early it is.
+* 选民这样想是可以原谅的。该党的崭露头角，沉重地谈论强硬话题，并轻描淡写地提出新想法，尽管时间很早，但他们仍然非常开放地想要参选。
+* What is Project Esther? Katie J.M. Baker, a national investigative correspondent for The New York Times, explores the Heritage Foundation’s plan to shut down pro-Palestinian activism, as well as actions taken by the Trump administration that appear to mirror its goals.
+* 什么是以斯帖计划？《纽约时报》的全国调查记者凯蒂· J · M ·贝克（ Katie J.M. Baker ）探讨了传统基金会（ Heritage Foundation ）关闭亲巴勒斯坦活动的计划，以及特朗普政府采取的似乎反映了其目标的行动。
+* Above the Law, a legal industry website with a long history of skewering the nation’s most elite firms, has found a moment and plenty of inside tipsters.
+* Above the Law是一个法律行业网站，有着悠久的鞭策全国最精英的公司的历史，已经发现了一个时刻和大量的内幕消息。
+* Even before President Trump was re-elected, the Heritage Foundation, best known for Project 2025, set out to destroy pro-Palestinian activism in the United States.
+* 甚至在特朗普总统再次当选之前，以2025年项目而闻名的传统基金会就着手摧毁美国的亲巴勒斯坦活动。
+* A measles outbreak in the state has not stopped “medical freedom” activists from pushing forward with their goal. They now have an influential ally in Washington: Health Secretary Robert F. Kennedy Jr.
+* 该州的麻疹疫情并未阻止“医疗自由”活动人士推进他们的目标。他们现在在华盛顿有一个有影响力的盟友：卫生部长小罗伯特· F ·肯尼迪（ Robert F. Kennedy Jr. ）。
+* 
+* 
+* The cardinals’ selection of Pope Leo tests the strained relationship between the bishop of Rome and conservative Catholics.
+* 枢机主教对教皇利奥的选择考验了罗马主教与保守派天主教徒之间的紧张关系。
+* The device, called a forced-reset trigger, allows semiautomatic weapons to fire hundreds of rounds. The Biden administration had sought to block them from being sold.
+* 该装置被称为强制重置触发器，允许半自动武器发射数百发子弹。拜登政府曾试图阻止他们被出售。
 
 ## New York Times Asia News
+* A woman in South Korea was accused of claiming she was pregnant by Son Heung-min, the captain of Tottenham Hotspur, and demanding hush money.
+* 韩国一名女子被指控声称自己怀孕的是托特纳姆热刺队队长Son Heung-min ，并要求安静的钱。
+* This month’s violent escalation reminded the world how India’s gradual rise can be hindered by the troublesome country next door.
+* 本月的暴力升级提醒世界，印度的逐步崛起如何受到隔壁麻烦国家的阻碍。
 * The allegations, which include being pushed into the sea off Myanmar with only life jackets, have prompted a call from the United Nations for an investigation.
 * 这些指控包括只穿救生衣被推入缅甸海域，这促使联合国呼吁进行调查。
 * During the conflict between India and Pakistan, even some long-trusted outlets reported unverified information and fabricated stories.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 此外，还有欧洲电视网的和平与爱。
 * The rock called Maka Lahi is important in the mythology of the people of Tonga, and scientists have worked out part of its origin story.
 * 这块名为Maka Lahi的岩石在汤加人的神话中很重要，科学家已经确定了其起源故事的一部分。
-* President Trump suggested that New Delhi was ready to charge the United States “no tariff.” India’s foreign minister said that the two countries were still negotiating.
-* 特朗普总统表示，新德里已准备好向美国收取“无关税”。“印度外交部长表示，两国仍在进行谈判。
-* While it is far too early to say how he will use his platform to address such issues, his focus shows he is a church leader who grasps the gravity of this modern concern.
-* 虽然现在说他将如何利用自己的平台来解决这些问题还为时过早，但他的关注点表明，他是一名教会领袖，他抓住了这一现代问题的严重性。
 
