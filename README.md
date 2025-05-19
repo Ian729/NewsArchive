@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The Vatican said at least 150,000 people attended the Mass at St. Peter’s Square, which marked the start of the pontificate of the first American to lead the Roman Catholic Church. Vice President JD Vance was among the dignitaries.
-* 梵蒂冈表示，至少有15万人参加了圣彼得广场的弥撒，这标志着第一位领导罗马天主教会的美国人开始担任教皇。副总统JD Vance是政要之一。
-* This month’s violent escalation reminded the world how India’s gradual rise can be hindered by the troublesome country next door.
-* 本月的暴力升级提醒世界，印度的逐步崛起如何受到隔壁麻烦国家的阻碍。
+* A telephone call between the two leaders would be the latest chapter in a flurry of diplomatic maneuvering over ending the three-year conflict.
+* 两位领导人之间的电话将是结束三年冲突的一系列外交演习的最新篇章。
+* Tents, shelters for fighter jets and warehouses for military vehicles show increased Russian presence near one of NATO’s newest members.
+* 北约最新成员之一附近的帐篷、战斗机庇护所和军用车辆仓库显示，俄罗斯的存在有所增加。
+* After warning of a major ground operation, Israel has bombarded Gaza but has yet to start a big advance. The threat to do so may be an attempt to force Hamas to compromise in cease-fire talks.
+* 在警告大规模地面行动后，以色列轰炸了加沙，但尚未开始大幅推进。这样做的威胁可能是企图迫使哈马斯在停火谈判中妥协。
+* Israel aims to press Hamas into releasing hostages and ultimately to destroy the group, but says it will now also allow some aid to enter the enclave.
+* 以色列的目标是迫使哈马斯释放人质并最终摧毁该组织，但表示现在也将允许一些援助进入飞地。
+* As leaders gathered in London for a long awaited summit, a senior British minister said his country had secured a new agreement with the bloc.
+* 在领导人聚集在伦敦参加期待已久的峰会之际，一位英国高级大臣表示，他的国家已经与欧盟达成了新的协议。
 * A summit on Monday between Britain and the European Union, expected to include a defense pact, may kick-start a new era.
 * 英国和欧盟周一举行的峰会预计将包括一项防务协议，可能会开启一个新时代。
 * Most British people believe Brexit was a mistake. But Prime Minister Keir Starmer’s attempts to edge closer to Europe face huge opposition in the national news media.
 * 大多数英国人认为英国脱欧是一个错误。但总理基尔·斯塔默（ Keir Starmer ）试图靠近欧洲的努力遭到了国家新闻媒体的强烈反对。
-* Despite a flurry of diplomatic activity, there is little evidence Russia and Ukraine are close to an agreement.
-* 尽管进行了一系列外交活动，但几乎没有证据表明俄罗斯和乌克兰接近达成协议。
-* A woman in South Korea was accused of claiming she was pregnant by Son Heung-min, the captain of Tottenham Hotspur, and demanding hush money.
-* 韩国一名女子被指控声称自己怀孕的是托特纳姆热刺队队长Son Heung-min ，并要求安静的钱。
-* Ukraine’s only female combat pilot flies helicopter missions against Russian troops. The military says it wants more women fighting, but sexism remains an obstacle, activists and female soldiers say.
-* 乌克兰唯一的女性战斗飞行员驾驶直升机对抗俄罗斯军队。军方表示希望有更多女性参战，但活动人士和女士兵表示，性别歧视仍然是一个障碍。
-* On Iran, Gaza, Syria and Yemen, President Trump is moving ahead without Israel, reshaping decades of foreign policy.
-* 在伊朗、加沙、叙利亚和也门，特朗普总统在没有以色列的情况下前进，重塑了数十年的外交政策。
-* A résumé of deep religious education, frontline pastoral experience, parish management and Vatican governance — along with a nudge from Pope Francis — put Robert Prevost on the fast track.
-* 深入的宗教教育、前线牧灵体验、教区管理和梵蒂冈治理的简历，以及教皇弗朗西斯的推动，使罗伯特·普雷沃斯特（ Robert Prevost ）走上了快车道。
-* While Mexicans have a right to own guns, they can only be legally bought at two military-run and tightly regulated stores, an effort to better control possession in a country awash with black market weapons.
-* 虽然墨西哥人有权拥有枪支，但他们只能在两家军营和严格监管的商店合法购买，这是为了更好地控制在一个充斥着黑市武器的国家拥有枪支。
+* In a visit to the White House, President Cyril Ramaphosa will also highlight business opportunities for Elon Musk.
+* 在访问白宫期间，总统西里尔·拉马福萨（ Cyril Ramaphosa ）也将重点介绍伊隆·马斯克（ Elon Musk ）的商机
+* President Trump’s tariffs on auto parts are already causing job losses in Windsor, Ontario, the heart of an industry that makes components for vehicles bound for the United States.
+* 特朗普总统对汽车零部件征收的关税已经导致安大略省温莎市的就业岗位流失，这是一个制造运往美国的汽车零部件的行业的核心。
+* Nicusor Dan, the mayor of Bucharest, defeated George Simion, a nationalist aligned with President Trump who had been seen as the front-runner.
+* 布加勒斯特市长尼库索尔·丹（ Nicusor Dan ）击败了与特朗普总统结盟的民族主义者乔治·西米恩（ George Simion ） ，后者被视为领跑者。
 
 ## New York Times United States News
-* 
-* 
-* At least 27 people have been killed in storms that have pummeled the Midwest and Mid-Atlantic regions since Friday. Kentucky and Missouri have been hit particularly hard.
-* 自周五以来，至少有27人在袭击中西部和中大西洋地区的风暴中丧生。肯塔基州和密苏里州受到的打击尤其严重。
-* Voters could be forgiven for thinking so. The party’s up-and-comers, heavy on tough talk and light on new ideas, are being remarkably open about wanting to run despite how early it is.
-* 选民这样想是可以原谅的。该党的崭露头角，沉重地谈论强硬话题，并轻描淡写地提出新想法，尽管时间很早，但他们仍然非常开放地想要参选。
-* What is Project Esther? Katie J.M. Baker, a national investigative correspondent for The New York Times, explores the Heritage Foundation’s plan to shut down pro-Palestinian activism, as well as actions taken by the Trump administration that appear to mirror its goals.
-* 什么是以斯帖计划？《纽约时报》的全国调查记者凯蒂· J · M ·贝克（ Katie J.M. Baker ）探讨了传统基金会（ Heritage Foundation ）关闭亲巴勒斯坦活动的计划，以及特朗普政府采取的似乎反映了其目标的行动。
-* Above the Law, a legal industry website with a long history of skewering the nation’s most elite firms, has found a moment and plenty of inside tipsters.
-* Above the Law是一个法律行业网站，有着悠久的鞭策全国最精英的公司的历史，已经发现了一个时刻和大量的内幕消息。
-* Even before President Trump was re-elected, the Heritage Foundation, best known for Project 2025, set out to destroy pro-Palestinian activism in the United States.
-* 甚至在特朗普总统再次当选之前，以2025年项目而闻名的传统基金会就着手摧毁美国的亲巴勒斯坦活动。
-* A measles outbreak in the state has not stopped “medical freedom” activists from pushing forward with their goal. They now have an influential ally in Washington: Health Secretary Robert F. Kennedy Jr.
-* 该州的麻疹疫情并未阻止“医疗自由”活动人士推进他们的目标。他们现在在华盛顿有一个有影响力的盟友：卫生部长小罗伯特· F ·肯尼迪（ Robert F. Kennedy Jr. ）。
-* 
-* 
-* The cardinals’ selection of Pope Leo tests the strained relationship between the bishop of Rome and conservative Catholics.
-* 枢机主教对教皇利奥的选择考验了罗马主教与保守派天主教徒之间的紧张关系。
-* The device, called a forced-reset trigger, allows semiautomatic weapons to fire hundreds of rounds. The Biden administration had sought to block them from being sold.
-* 该装置被称为强制重置触发器，允许半自动武器发射数百发子弹。拜登政府曾试图阻止他们被出售。
+* The talks took place as some on the American Right who had clashed with Pope Francis, Leo’s predecessor, seek better ties with the papacy.
+* 会谈是在美国右翼的一些人与利奥的前任教皇弗朗西斯发生冲突时举行的，他们寻求与教皇建立更好的联系。
+* The Democratic primary for mayor of Pittsburgh on Tuesday has become something of a proxy for the national struggle over the party’s future direction.
+* 匹兹堡市长周二的民主党初选已经成为该党未来方向的全国斗争的代名词。
+* Once bitter rivals, the president and the governor now share an education agenda they hope will reshape schools across the nation.
+* 曾经激烈的竞争对手，总统和州长现在分享了他们希望将重塑全国各地学校的教育议程。
+* Eradicated in the 1900s, coyotes have returned to San Francisco. Heather Knight, the San Francisco bureau chief of The New York Times, describes why they’re back, and how the coyotes’ killing of dogs and lunging at children have people in the city on edge.
+* 在20世纪被根除后，郊狼又回到了旧金山。《纽约时报》旧金山分社社长希瑟·奈特（ Heather Knight ）描述了他们回来的原因，以及土狼杀死狗和冲向儿童是如何让城市里的人们感到不安的。
+* As President Trump pledges to revive ‘beautiful’ coal, Virginia’s coal counties have largely moved on to new ventures. But who stands to benefit?
+* 随着特朗普总统承诺振兴“美丽”的煤炭，弗吉尼亚州的煤炭县基本上转向了新的企业。但谁会从中受益呢？
+* After a long absence from the city, the animals have become ubiquitous again. Some residents find them delightful, but others view them with disdain.
+* 在远离城市很长一段时间后，动物们再次变得无处不在。有些居民认为它们令人愉快，但其他人则不屑一顾。
+* The crash happened on a railway bridge in Fremont, Ohio, on Sunday night. Emergency crews were searching the Sandusky River for a 5-year-old child, and another child was hospitalized.
+* 事故发生在周日晚上俄亥俄州弗里蒙特的一座铁路桥上。急救人员正在桑达斯基河寻找一名5岁儿童，另一名儿童住院治疗。
+* In London, Ky., the scope of the destruction from a tornado that killed 19 in the state was coming into view as residents tried to process the disaster.
+* 在肯塔基州伦敦，当居民试图处理这场灾难时，该州19人死亡的龙卷风造成的破坏范围正在显现。
+* The cancer has metastasized to the bone, according to a statement from Mr. Biden’s personal office.
+* 根据拜登个人办公室的一份声明，癌症已经转移到骨头上。
+* The suspect, a 25-year-old man, targeted the fertility clinic in the bombing that damaged the facility and several blocks of downtown. Authorities are still looking for a motive.
+* 嫌疑人是一名25岁的男子，他在爆炸中袭击了生育诊所，炸毁了该设施和市中心的几个街区。当局仍在寻找动机。
 
 ## New York Times Asia News
+* Stocks fell, the dollar slipped and bond yields jumped after a rating downgrade highlighted worries about the cost of President Trump’s policies and the health of the economy.
+* 股市下跌，美元下跌，债券收益率飙升，此前评级下调凸显了对特朗普总统的政策成本和经济健康状况的担忧。
+* Tents, shelters for fighter jets and warehouses for military vehicles show increased Russian presence near one of NATO’s newest members.
+* 北约最新成员之一附近的帐篷、战斗机庇护所和军用车辆仓库显示，俄罗斯的存在有所增加。
+* Plus, a Japanese author breaks barriers.
+* 此外，一位日本作家打破了壁垒。
+* The two adversaries have spent the week since the end of the military confrontation making the case that they emerged victorious.
+* 自军事对抗结束以来，这两个对手已经度过了一周，证明他们取得了胜利。
 * A woman in South Korea was accused of claiming she was pregnant by Son Heung-min, the captain of Tottenham Hotspur, and demanding hush money.
 * 韩国一名女子被指控声称自己怀孕的是托特纳姆热刺队队长Son Heung-min ，并要求安静的钱。
 * This month’s violent escalation reminded the world how India’s gradual rise can be hindered by the troublesome country next door.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 他作为诗人和艺术家的风格源于他在上海的成长经历和在巴黎的岁月。然后，他加入了纽约的流行音乐工作室。
 * As Pakistan declares victory, confidence in the troubled country’s state institutions is re-emerging, at least for now.
 * 随着巴基斯坦宣布胜利，对这个陷入困境的国家的国家机构的信心正在重新抬头，至少目前是这样。
-* Asia Pacific Economic Cooperation nations, staring down U.S. tariffs, jockeyed for time with Jamieson Greer, the U.S. trade representative, at a gathering in South Korea.
-* 亚太经济合作组织国家盯着美国的关税，在韩国的一次聚会上与美国贸易代表贾米森·格里尔（ Jamieson Greer ）争吵了一会儿。
-* Fu Zai has won top workplace reviews as an unusual breed of sniffer dog. But his lack of self-control cost him his annual bonus.
-* Fu Zai作为一种不寻常的嗅探犬获得了顶级工作场所的评价。但由于缺乏自制力，他失去了年度奖金。
-* Plus, peace and love at the Eurovision.
-* 此外，还有欧洲电视网的和平与爱。
-* The rock called Maka Lahi is important in the mythology of the people of Tonga, and scientists have worked out part of its origin story.
-* 这块名为Maka Lahi的岩石在汤加人的神话中很重要，科学家已经确定了其起源故事的一部分。
 
