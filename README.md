@@ -4,48 +4,52 @@ Auto RSS New York Times and Translate
 ## New York Times Global News
 * The death of Amer Rabee, a Palestinian American in the West Bank, has spurred anger over soldiers’ use of force and an apparent lack of accountability.
 * 约旦河西岸巴勒斯坦裔美国人阿米尔·拉比（ Amer Rabee ）的死亡引发了对士兵使用武力和明显缺乏问责制的愤怒。
-* Satellite images and videos show how launching a 5,000-ton warship into the water sideways can cause it to capsize if done incorrectly.
-* 卫星图像和视频显示，将一艘5000吨重的军舰横向发射到水中，如果做得不正确，会导致其倾覆。
-* Almost 50 people, including four children, were injured on Monday after a driver plowed into a crowd that had been celebrating Liverpool F.C.’s Premier League title.
-* 周一，一名司机撞上了庆祝利物浦足球俱乐部英超联赛冠军的人群，包括四名儿童在内的近50人受伤。
-* Just hours after the episode, the police announced that the driver was a white British man. After previous violence, false anti-Muslim speculation had been spread online.
-* 事件发生几个小时后，警方宣布司机是一名英国白人男子。在之前的暴力事件之后，虚假的反穆斯林猜测在网上传播开来。
-* As Germany’s new chancellor increases military spending, he has presided over the activation of a German tank brigade based in Lithuania and raised alarms about the threat from Russia.
-* 随着德国新总理增加军费开支，他主持了驻立陶宛的德国坦克旅的启动，并对俄罗斯的威胁发出了警告。
-* Snaking power lines are part of Moscow’s goal to harness the power of the Zaporizhzhia facility, according to Greenpeace.
-* 根据绿色和平组织的说法，蛇形电线是莫斯科利用扎波罗热设施电力的目标的一部分。
+* ​Big players in the crypto sector argue that new European cryptocurrency rules may be enabling recent abductions and are demanding changes and more security.
+* ​加密行业的大公司认为，新的欧洲加密货币规则可能使最近的绑架成为可能，并要求做出改变和提高安全性。
+* More than 60 people, including four children, were injured on Monday after a driver plowed into a crowd that had been celebrating Liverpool F.C.’s Premier League title.
+* 周一，一名司机撞上了庆祝利物浦足球俱乐部英超联赛冠军的人群，包括四名儿童在内的60多人受伤。
+* Israel, Hamas and the Trump administration have issued different messages about where efforts to reach a truce stand.
+* 以色列、哈马斯和特朗普政府就达成停火协议的努力方向发出了不同的信息。
 * Years before Joël Le Scouarnec was charged with abusing 299 former patients, he was convicted of downloading child sexual abuse imagery.
 * 在Joël Le Scouarnec被指控虐待299名前患者的几年前，他因下载儿童性虐待图像而被定罪。
-* Yessica Rojas, a Venezuelan mother, risked everything to seek a better future for her two children in the United States. This spring, they left Missouri because she feared losing them.
-* 委内瑞拉母亲耶西卡·罗哈斯（ Yessica Rojas ）不遗余力地为她在美国的两个孩子寻求更美好的未来。今年春天，他们离开了密苏里州，因为她害怕失去他们。
-* In his stories, Han Song explores the disorientation accompanying China’s modernization, sometimes writing of unthinkable things that later came true.
-* 在他的故事中，韩松探讨了伴随着中国现代化的迷失方向，有时会写出后来成为现实的不可思议的事情。
-* Experts say the administration may be trying to shape the behavior of immigrants through fear.
-* 专家表示，政府可能正试图通过恐惧来塑造移民的行为。
+* Joseph Kabila was accused of supporting the Rwanda-backed militia M23. Days later he arrived in Goma, a city held by the militia, so he remains out of prosecutors’ reach.
+* 约瑟夫·卡比拉被指控支持卢旺达支持的“3 · 23”运动民兵。几天后，他到达了被民兵控制的戈马市，所以他仍然在检察官的控制范围之外。
+* Just hours after the episode, the police announced that the driver was a white British man. After previous violence, false anti-Muslim speculation had been spread online.
+* 事件发生几个小时后，警方宣布司机是一名英国白人男子。在之前的暴力事件之后，虚假的反穆斯林猜测在网上传播开来。
+* The king was invited to open Canada’s Parliament as a subtle rebuke to President Trump’s economic and annexation threats against Canada.
+* 国王被邀请开启加拿大议会，这是对特朗普总统对加拿大的经济和吞并威胁的微妙谴责。
+* The authorities in Monemvasia, founded in the sixth century, say people with limited mobility need access to the town’s peak. But critics say the project would destroy the identity of the site.
+* 成立于公元六世纪的莫奈姆瓦夏当局表示，行动不便的人需要进入该镇的山顶。但批评人士称，该项目将破坏该遗址的身份。
+* A likely focus of talks between the two leaders will be military aid and whether Germany will provide Ukraine with the Taurus cruise missile.
+* 两国领导人会谈的重点可能是军事援助以及德国是否会向乌克兰提供金牛座巡航导弹。
 
 ## New York Times United States News
-* A letter to federal agencies will instruct them to end contracts, totaling about $100 million. It is meant to sever the government’s remaining ties with Harvard.
-* 致联邦机构的一封信将指示他们终止总计约1亿美元的合同。它旨在切断政府与哈佛大学的剩余关系。
-* There will be 28 Abrams tanks, 6,700 soldiers, 50 helicopters, 34 horses, two mules and a dog, according to the Army’s plans for the June 14 event.
-* 根据陆军6月14日事件的计划，将有28辆艾布拉姆斯坦克， 6700名士兵， 50架直升机， 34匹马，两头骡子和一只狗。
-* The transformation of a two-mile stretch of San Francisco’s Great Highway into a pedestrian promenade has set off a clash over the city’s anti-car culture.
-* 旧金山两英里长的大高速公路变成了一条步行长廊，引发了这座城市反汽车文化的冲突。
-* The Trump administration’s efforts and the G.O.P.’s tax bill aim to restrict benefits for families that include immigrants without permanent legal status.
-* 特朗普政府的努力和共和党的税收法案旨在限制包括没有永久合法身份的移民在内的家庭的福利。
-* When opposing fans taunted a wrestling star, he and his father fought back. The clash lay bare the intensity of competition, and parental interference, in an increasingly high-stakes sport.
-* 当对方球迷嘲笑一位摔跤明星时，他和他的父亲进行了反击。在一项日益高风险的运动中，这场冲突暴露了竞争的激烈程度和父母的干涉。
-* Judge Brian E. Murphy had ordered the Trump administration to offer due process to a group of men whom the government was trying to send to South Sudan.
-* 法官布赖恩·墨菲（ Brian E. Murphy ）下令特朗普政府向政府试图派往南苏丹的一群人提供正当程序。
-* Thunderstorms in the south and central United States caused flight delays during Memorial Day weekend, the beginning of the summer travel season.
-* 美国南部和中部的雷暴导致夏季旅游旺季开始的阵亡将士纪念日周末航班延误。
-* For decades, California has been able to adopt its own emissions regulations, effectively setting the bar for carmakers nationally. And for just as long, Republicans have resented the state’s outsize influence.
-* 几十年来，加利福尼亚州一直能够采用自己的排放法规，有效地为全国汽车制造商设定了标准。同样长时间以来，共和党人一直对该州的巨大影响力表示不满。
-* In a speech at Arlington National Cemetery, President Trump highlighted the sacrifices of soldiers and their families but also his own achievements.
-* 特朗普总统在阿灵顿国家公墓发表讲话，强调了士兵及其家属的牺牲，以及他自己的成就。
-* In a social media post, the president mused about redirecting $3 billion in research grant funding that his administration has frozen or withdrawn, but he gave no details.
-* 在一篇社交媒体帖子中，总统沉思着将其政府冻结或撤回的30亿美元研究资助资金重新定向，但他没有提供细节。
+* From the Super Bowl to the Oscars, Los Angeles has plenty of experience with high-profile spectacles. But the 2028 Olympics will test the city in the aftermath of devastating wildfires.
+* 从超级碗到奥斯卡颁奖典礼，洛杉矶在高调表演方面拥有丰富的经验。但2028年奥运会将在毁灭性的野火之后考验这座城市。
+* The Haitian government has signed a contract with Mr. Prince, the private military contractor who founded Blackwater, a company notorious for a civilian massacre in Iraq.
+* 海地政府与私人军事承包商普林斯先生签署了一份合同，普林斯先生创立了黑水公司，该公司因在伊拉克发生平民大屠杀而臭名昭著。
+* In the U.S., the re-enactment of historical battles has long been a niche hobby. But fake battles that echo an ongoing war are a relatively recent phenomenon.
+* 在美国，重演历史战役长期以来一直是一个利基爱好。但是，与正在进行的战争相呼应的虚假战斗是一个相对较新的现象。
+* Prime Minister Benjamin Netanyahu, wary of a diplomatic solution to curbing Iran’s nuclear program, continues to press for military action that would upend President Trump’s push for a negotiated deal.
+* 总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）对遏制伊朗核计划的外交解决方案持谨慎态度，继续敦促采取军事行动，以颠覆特朗普总统推动谈判达成的协议。
+* Secretary of State Marco Rubio issued a cable ordering a pause as the department expands its review of applicants’ social media accounts.
+* 国务卿马可·卢比奥（ Marco Rubio ）发出了一封电报，在该部门扩大对申请人社交媒体账户的审查时下令暂停。
+* Once at odds over the war in Gaza and questions about free speech, some people on Harvard’s campus have found a reason to come together.
+* 一旦在加沙战争和关于言论自由的问题上出现分歧，哈佛大学校园里的一些人就找到了走到一起的理由。
+* The clemency for Todd and Julie Chrisley, the stars of “Chrisley Knows Best,” is Mr. Trump’s latest gift to people he calls victims of a weaponized justice system.
+* 《克里斯利知道最好》（ Chrisley Knows Best ）的明星托德（ Todd ）和朱莉·克里斯利（ Julie Chrisley ）的宽大处理是特朗普先生给那些他称之为武器化司法系统受害者的人的最新礼物。
+* Data gathered by the law enforcement agency responsible for judicial security showed 162 judges faced threats between March 1 and April 14.
+* 负责司法安全的执法机构收集的数据显示， 162名法官在3月1日至4月14日期间面临威胁。
+* The authorities say that Timothy Schulz, 42, of Mulberry, Fla., swam across an alligator-filled lake before a violent encounter with deputies in the neighborhood.
+* 当局称，来自佛罗里达州桑树市的42岁的蒂莫西·舒尔茨（ Timothy Schulz ）游过一个充满鳄鱼的湖泊，然后与附近的代表发生了暴力冲突。
+* Kelly Wakefield found a rock with a skull and crossbones in the same park last fall, but she didn’t realize that it was a clue to much more.
+* 去年秋天，凯莉·韦克菲尔德（ Kelly Wakefield ）在同一个公园里发现了一块头骨和十字骨的岩石，但她没有意识到这是一个更多的线索。
 
 ## New York Times Asia News
+* European companies operating in China say the market has become increasingly challenging because of weak economic demand and opaque government rules on business.
+* 在中国运营的欧洲公司表示，由于经济需求疲软和政府的商业规则不透明，市场变得越来越具有挑战性。
+* Plus, climbing Mount Everest with a performance enhancer.
+* 此外，您还可以使用性能增强器攀登珠穆朗玛峰。
 * A small Vermont business that sells water bottles used by cyclists and others is struggling to adapt to President Trump’s tariffs even after they were temporarily lowered.
 * 一家销售骑自行车者和其他人使用的水瓶的佛蒙特州小企业正在努力适应特朗普总统的关税，即使他们暂时降低了关税。
 * President Trump and members of Congress want to revive U.S. shipbuilding with subsidies and penalties against Chinese-built ships. But there are obstacles.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 此外，还定义了瑞典的文化。
 * An extraordinary author-translator collaboration produced a book, “Heart Lamp,” that was lauded for enriching the English language.
 * 一次非凡的作者-翻译合作出版了一本名为《心灯》的书，该书因丰富了英语而受到称赞。
-* Domestic factories that make batteries to store power to meet America’s rising energy demand depend on Chinese components and federal subsidies.
-* 为满足美国不断增长的能源需求而生产电池的国内工厂依赖于中国零部件和联邦补贴。
-* President Trump’s recent actions and statements suggest he might want an arrangement where the United States, China and Russia each dominate their sphere of influence.
-* 特朗普总统最近的行动和声明表明，他可能希望达成一项安排，让美国、中国和俄罗斯各自主导各自的势力范围。
 
