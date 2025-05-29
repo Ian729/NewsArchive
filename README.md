@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The death of Amer Rabee, a Palestinian American in the West Bank, has spurred anger over soldiers’ use of force and an apparent lack of accountability.
-* 约旦河西岸巴勒斯坦裔美国人阿米尔·拉比（ Amer Rabee ）的死亡引发了对士兵使用武力和明显缺乏问责制的愤怒。
-* ​Big players in the crypto sector argue that new European cryptocurrency rules may be enabling recent abductions and are demanding changes and more security.
-* ​加密行业的大公司认为，新的欧洲加密货币规则可能使最近的绑架成为可能，并要求做出改变和提高安全性。
-* More than 60 people, including four children, were injured on Monday after a driver plowed into a crowd that had been celebrating Liverpool F.C.’s Premier League title.
-* 周一，一名司机撞上了庆祝利物浦足球俱乐部英超联赛冠军的人群，包括四名儿童在内的60多人受伤。
-* Israel, Hamas and the Trump administration have issued different messages about where efforts to reach a truce stand.
-* 以色列、哈马斯和特朗普政府就达成停火协议的努力方向发出了不同的信息。
-* Years before Joël Le Scouarnec was charged with abusing 299 former patients, he was convicted of downloading child sexual abuse imagery.
-* 在Joël Le Scouarnec被指控虐待299名前患者的几年前，他因下载儿童性虐待图像而被定罪。
-* Joseph Kabila was accused of supporting the Rwanda-backed militia M23. Days later he arrived in Goma, a city held by the militia, so he remains out of prosecutors’ reach.
-* 约瑟夫·卡比拉被指控支持卢旺达支持的“3 · 23”运动民兵。几天后，他到达了被民兵控制的戈马市，所以他仍然在检察官的控制范围之外。
-* Just hours after the episode, the police announced that the driver was a white British man. After previous violence, false anti-Muslim speculation had been spread online.
-* 事件发生几个小时后，警方宣布司机是一名英国白人男子。在之前的暴力事件之后，虚假的反穆斯林猜测在网上传播开来。
-* The king was invited to open Canada’s Parliament as a subtle rebuke to President Trump’s economic and annexation threats against Canada.
-* 国王被邀请开启加拿大议会，这是对特朗普总统对加拿大的经济和吞并威胁的微妙谴责。
-* The authorities in Monemvasia, founded in the sixth century, say people with limited mobility need access to the town’s peak. But critics say the project would destroy the identity of the site.
-* 成立于公元六世纪的莫奈姆瓦夏当局表示，行动不便的人需要进入该镇的山顶。但批评人士称，该项目将破坏该遗址的身份。
-* A likely focus of talks between the two leaders will be military aid and whether Germany will provide Ukraine with the Taurus cruise missile.
-* 两国领导人会谈的重点可能是军事援助以及德国是否会向乌克兰提供金牛座巡航导弹。
-
-## New York Times United States News
-* From the Super Bowl to the Oscars, Los Angeles has plenty of experience with high-profile spectacles. But the 2028 Olympics will test the city in the aftermath of devastating wildfires.
-* 从超级碗到奥斯卡颁奖典礼，洛杉矶在高调表演方面拥有丰富的经验。但2028年奥运会将在毁灭性的野火之后考验这座城市。
+* State labor programs were aimed at lifting one of the nation’s poorest regions out of poverty, but they have also served as a tool to erode resistance to Chinese rule.
+* 国家劳工计划旨在使该国最贫穷的地区之一摆脱贫困，但它们也成为削弱对中国统治的抵抗的工具。
+* Moscow’s dual campaign of intensified frontline attacks and bombardment of Ukrainian cities has further reduced the prospects for an end to the fighting.
+* 莫斯科加紧前线攻击和轰炸乌克兰城市的双重行动进一步降低了结束战斗的前景。
+* Helplessness and frustration are setting in as student applicants in China wait to see how sweeping the new U.S. action might be.
+* 随着中国学生申请人等待美国新行动的广泛程度，无助感和挫折感正在涌现。
+* Facing rising pressure over the acute suffering of civilians in Gaza, the British government is considering sanctions on two far-right ministers, Itamar Ben-Gvir and Bezalel Smotrich.
+* 面对加沙平民遭受严重苦难的压力日益增加，英国政府正在考虑对两名极右翼部长伊塔马尔·本-格维尔（ Itamar Ben-Gvir ）和贝扎莱尔·斯莫特里希（ Bezalel Smotrich ）实施制裁
+* People accused of cartel connections and serious crime are on the ballot in Mexico’s first-ever judicial elections on Sunday, fueling fears that organized crime could exert its influence in the vote.
+* 在墨西哥有史以来第一次司法选举中，被指控与卡特尔有联系和严重犯罪的人正在投票中，这加剧了人们对有组织犯罪可能在投票中施加影响的担忧。
+* For the first time, Mexicans will vote for thousands of candidates to fill more than 2,600 positions in federal, state and local courts.
+* 墨西哥人将首次投票选出数千名候选人，以填补联邦、州和地方法院的2600多个职位。
+* The authorities were still searching for the two other people who were aboard the turboprop when the accident occurred Thursday.
+* 当局仍在寻找周四事故发生时在涡轮螺旋桨飞机上的另外两人。
+* In the latest sign of a warming relationship, President Volodymyr Zelensky met in Berlin with Chancellor Friedrich Merz, who said Germany would increase funding for arms production and supplies.
+* 沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）总统在柏林会见了总理弗里德里希·默茨（ Friedrich Merz ） ，这是双方关系升温的最新迹象，他表示德国将增加对武器生产和供应的资助。
 * The Haitian government has signed a contract with Mr. Prince, the private military contractor who founded Blackwater, a company notorious for a civilian massacre in Iraq.
 * 海地政府与私人军事承包商普林斯先生签署了一份合同，普林斯先生创立了黑水公司，该公司因在伊拉克发生平民大屠杀而臭名昭著。
-* In the U.S., the re-enactment of historical battles has long been a niche hobby. But fake battles that echo an ongoing war are a relatively recent phenomenon.
-* 在美国，重演历史战役长期以来一直是一个利基爱好。但是，与正在进行的战争相呼应的虚假战斗是一个相对较新的现象。
-* Prime Minister Benjamin Netanyahu, wary of a diplomatic solution to curbing Iran’s nuclear program, continues to press for military action that would upend President Trump’s push for a negotiated deal.
-* 总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）对遏制伊朗核计划的外交解决方案持谨慎态度，继续敦促采取军事行动，以颠覆特朗普总统推动谈判达成的协议。
-* Secretary of State Marco Rubio issued a cable ordering a pause as the department expands its review of applicants’ social media accounts.
-* 国务卿马可·卢比奥（ Marco Rubio ）发出了一封电报，在该部门扩大对申请人社交媒体账户的审查时下令暂停。
-* Once at odds over the war in Gaza and questions about free speech, some people on Harvard’s campus have found a reason to come together.
-* 一旦在加沙战争和关于言论自由的问题上出现分歧，哈佛大学校园里的一些人就找到了走到一起的理由。
-* The clemency for Todd and Julie Chrisley, the stars of “Chrisley Knows Best,” is Mr. Trump’s latest gift to people he calls victims of a weaponized justice system.
-* 《克里斯利知道最好》（ Chrisley Knows Best ）的明星托德（ Todd ）和朱莉·克里斯利（ Julie Chrisley ）的宽大处理是特朗普先生给那些他称之为武器化司法系统受害者的人的最新礼物。
-* Data gathered by the law enforcement agency responsible for judicial security showed 162 judges faced threats between March 1 and April 14.
-* 负责司法安全的执法机构收集的数据显示， 162名法官在3月1日至4月14日期间面临威胁。
-* The authorities say that Timothy Schulz, 42, of Mulberry, Fla., swam across an alligator-filled lake before a violent encounter with deputies in the neighborhood.
-* 当局称，来自佛罗里达州桑树市的42岁的蒂莫西·舒尔茨（ Timothy Schulz ）游过一个充满鳄鱼的湖泊，然后与附近的代表发生了暴力冲突。
-* Kelly Wakefield found a rock with a skull and crossbones in the same park last fall, but she didn’t realize that it was a clue to much more.
-* 去年秋天，凯莉·韦克菲尔德（ Kelly Wakefield ）在同一个公园里发现了一块头骨和十字骨的岩石，但她没有意识到这是一个更多的线索。
+* A former surgeon had confessed to abusing at least 299 people, mostly children, in what is considered the largest case of its kind in French history.
+* 一名前外科医生承认至少虐待了299人，其中大多数是儿童，这被认为是法国历史上最大的此类案件。
+
+## New York Times United States News
+* The American president’s preference for praising and excusing the Russian leader has yielded no progress toward peace in Ukraine.
+* 美国总统倾向于称赞和原谅俄罗斯领导人，但没有在乌克兰和平方面取得任何进展。
+* With the future of thousands of students at stake, the two sides will argue in person as the Trump administration pushes Harvard to comply with its demands.
+* 鉴于数千名学生的未来岌岌可危，在特朗普政府推动哈佛大学遵守其要求之际，双方将亲自辩论。
+* The Senate skirting the filibuster to strike down California’s plan to phase out gas-powered vehicles was the latest wound to a tactic in decline.
+* 参议院绕过阻挠议案，打击加利福尼亚州逐步淘汰汽油动力汽车的计划，这是衰落策略的最新创伤。
+* “I want them now. I will get them at all costs,” said one influencer based in Hawaii.
+* “我现在就要。我会不惜一切代价得到它们，”夏威夷的一位网红说。
+* Nearly 250 contestants from around the nation and the world traveled to Maryland for a chance to win up to $50,000.
+* 来自全国各地和世界各地的近250名参赛者前往马里兰州，有机会赢得高达50,000美元的奖金。
+* From the first winning word (gladiolus) to the use of fast-paced spell-offs, the Scripps National Spelling Bee has endured for 100 years.
+* 从第一个获胜的单词（唐菖蒲）到快节奏拼写的使用，斯克里普斯国家拼写蜜蜂已经忍受了100年。
+* A blitz of pardons and commutations included those who have expressed political support or echoed the president in claiming they had been unfairly targeted.
+* 一连串的赦免和减刑包括那些表示政治支持或回应总统声称自己受到不公平攻击的人。
+* The remaining intelligence agencies disagree with the F.B.I.’s analysis tying the gang, Tren de Aragua, to Venezuela’s government.
+* 其余的情报机构不同意联邦调查局将该团伙Tren de Aragua与委内瑞拉政府联系起来的分析。
+* The sweeping order applied to hundreds of thousands of people legally in the country through programs put in place for Ukrainians, Afghans and others.
+* 通过为乌克兰人，阿富汗人和其他人实施的计划，这项全面的命令适用于该国合法的数十万人。
+* The billionaire has made clear he is frustrated with the obstacles he encountered as he tried to upend the federal bureaucracy.
+* 这位亿万富翁明确表示，他对在试图颠覆联邦官僚机构时遇到的障碍感到沮丧。
 
 ## New York Times Asia News
-* European companies operating in China say the market has become increasingly challenging because of weak economic demand and opaque government rules on business.
-* 在中国运营的欧洲公司表示，由于经济需求疲软和政府的商业规则不透明，市场变得越来越具有挑战性。
-* Plus, climbing Mount Everest with a performance enhancer.
-* 此外，您还可以使用性能增强器攀登珠穆朗玛峰。
-* A small Vermont business that sells water bottles used by cyclists and others is struggling to adapt to President Trump’s tariffs even after they were temporarily lowered.
-* 一家销售骑自行车者和其他人使用的水瓶的佛蒙特州小企业正在努力适应特朗普总统的关税，即使他们暂时降低了关税。
-* President Trump and members of Congress want to revive U.S. shipbuilding with subsidies and penalties against Chinese-built ships. But there are obstacles.
-* 特朗普总统和国会议员希望通过对中国建造的船舶进行补贴和惩罚来重振美国造船业。但也存在一些障碍。
-* Lawmakers approved a plan to help companies and consumers as officials bargain in Washington for relief from debilitating auto levies.
-* 立法者批准了一项帮助公司和消费者的计划，因为官员们在华盛顿讨价还价，以减轻削弱汽车征税的影响。
-* Satellite images and videos show how launching a 5,000-ton warship into the water sideways can cause it to capsize if done incorrectly.
-* 卫星图像和视频显示，将一艘5000吨重的军舰横向发射到水中，如果做得不正确，会导致其倾覆。
-* A chronic housing slowdown and high youth unemployment rate have made China more vulnerable than it was in President Trump’s first term.
-* 长期的住房放缓和高青年失业率使中国比特朗普总统的第一个任期更加脆弱。
-* In his stories, Han Song explores the disorientation accompanying China’s modernization, sometimes writing of unthinkable things that later came true.
-* 在他的故事中，韩松探讨了伴随着中国现代化的迷失方向，有时会写出后来成为现实的不可思议的事情。
-* Plus, defining Sweden’s culture.
-* 此外，还定义了瑞典的文化。
-* An extraordinary author-translator collaboration produced a book, “Heart Lamp,” that was lauded for enriching the English language.
-* 一次非凡的作者-翻译合作出版了一本名为《心灯》的书，该书因丰富了英语而受到称赞。
+* Just two-and-a-half weeks after agreeing to suspend tariffs, both countries are using export controls to disrupt each other’s key industries.
+* 在同意暂停关税仅两周半之后，两国都在利用出口管制来破坏彼此的关键产业。
+* State labor programs were aimed at lifting one of the nation’s poorest regions out of poverty, but they have also served as a tool to erode resistance to Chinese rule.
+* 国家劳工计划旨在使该国最贫穷的地区之一摆脱贫困，但它们也成为削弱对中国统治的抵抗的工具。
+* Helplessness and frustration are setting in as student applicants in China wait to see how sweeping the new U.S. action might be.
+* 随着中国学生申请人等待美国新行动的广泛程度，无助感和挫折感正在涌现。
+* The authorities were still searching for the two other people who were aboard the turboprop when the accident occurred Thursday.
+* 当局仍在寻找周四事故发生时在涡轮螺旋桨飞机上的另外两人。
+* Having conquered its home market, the Japanese toilet-maker Toto is selling more bidets in the United States. Toto’s president says not even tariffs will halt its advance.
+* 在征服了本土市场后，日本厕所制造商TOTO正在美国销售更多的坐浴盆。TOTO的总裁表示，即使是关税也不会阻止其发展。
+* Secretary of State Marco Rubio said the students who will have their visas canceled include people with ties to the Chinese Communist Party and those studying in “critical fields.”
+* 国务卿马可·卢比奥（ Marco Rubio ）表示，将被取消签证的学生包括与中国共产党有联系的人以及在“关键领域”学习的人。
+* President Trump has stopped some critical products and technologies made only in the United States from flowing to China, flexing the government’s power over global supply chains.
+* 特朗普总统已经阻止了一些只在美国生产的关键产品和技术流向中国，使政府对全球供应链的权力得以发挥。
+* Plus, the Met’s new wondrous space.
+* 此外，大都会的新奇妙空间。
+* The robotic Tianwen-2 spacecraft will collect samples from Kamoʻoalewa, which some scientists suspect is a fragment of the moon.
+* 天文2号机器人航天器将从Kamoʻoalewa采集样本，一些科学家怀疑这是月球的碎片。
+* Scientists have learned that another species of fungus found in Europe and Asia causes white-nose disease, which has ravaged bat populations in the United States and Canada.
+* 科学家们已经了解到，在欧洲和亚洲发现的另一种真菌会导致白鼻病，这种疾病已经蹂躏了美国和加拿大的蝙蝠种群。
 
