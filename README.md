@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The next president will face daunting challenges to heal a polarized nation and bring stability after months of political turmoil.
-* 在经历了数月的政治动荡后，下一任总统将面临治愈一个两极分化的国家并带来稳定的艰巨挑战。
-* After being stabbed last year, the leading presidential contender, Lee Jae-myung, is taking no chances. His main rival says he doesn’t need such protection.
-* 在去年被刺伤后，主要的总统候选人李在铭（ Lee Jae-myung ）没有冒险。他的主要竞争对手说他不需要这种保护。
-* After more than three years of war, Moscow and Kyiv are engaged in direct and public discussions to end the fighting, but their positions remain far apart.
-* 经过三年多的战争，莫斯科和基辅正在进行直接和公开的讨论，以结束战斗，但他们的立场仍然相距甚远。
-* Shamsa Sharawe made her name campaigning against female genital cutting. Then she heard about surgery to rebuild what had been taken from her.
-* Shamsa Sharawe以反对切割女性生殖器官而闻名。然后她听说手术重建从她身上夺走的东西。
-* The victory of Karol Nawrocki, who is backed by the previous right-wing governing party, will complicate Prime Minister Donald Tusk’s efforts to advance his liberal agenda.
-* 前右翼执政党支持的卡罗尔·纳罗茨基（ Karol Nawrocki ）的胜利将使总理唐纳德·图斯克（ Donald Tusk ）推进其自由主义议程的努力复杂化。
+* The Israeli military said its troops began shooting after people strayed from a designated route toward a food distribution site. It was the latest deadly incident involving a contentious new aid system.
+* 以色列军方表示，在人们从指定路线偏离食品分发地点后，其部队开始射击。这是涉及有争议的新援助系统的最新致命事件。
 * For 18 months, Hamas has pushed for a permanent truce while Israel has held out for a temporary one. That wide gap has stymied efforts to end the war.
 * 18个月来，哈马斯一直在推动永久停战，而以色列则坚持暂时停战。这一巨大差距阻碍了结束战争的努力。
-* The war crimes tribunal that Sheikh Hasina herself founded has now charged her in the crackdown that killed more than a thousand demonstrators.
-* 谢赫·哈西娜（ Sheikh Hasina ）自己建立的战争罪法庭现在已经指控她镇压了一千多名示威者。
-* In response to President Trump’s claim, China said the United States was the one introducing a series of “discriminatory restrictive measures.”
-* 针对特朗普总统的说法，中国表示，美国是引入一系列“歧视性限制措施”的国家。
-* Russia’s Defense Ministry said on Sunday that Ukrainian drones attacked airfields in five regions and that several aircraft had caught fire.
-* 俄罗斯国防部周日表示，乌克兰无人机袭击了五个地区的机场，几架飞机起火。
-* The Palestinians were shot and scores wounded as huge crowds assembled to try and get food from a new aid distribution center. An Israeli military official said soldiers fired warning shots.
-* 巴勒斯坦人被枪杀，数十人受伤，因为大量人群聚集在一起，试图从一个新的援助分发中心获取食物。一名以色列军方官员说，士兵鸣枪示警。
-
-## New York Times United States News
-* A coalition including leading figures on the right said the president’s program did violence to the Constitution. One judge cited it eight times.
-* 包括右翼领袖在内的一个联盟表示，总统的计划违反了宪法。一位法官引用了八次。
-* President Trump has sought to assuage some lawmakers’ concerns over the bill’s price tag and cuts to Medicaid with inaccurate claims.
-* 特朗普总统试图通过不准确的说法来缓解一些立法者对该法案的价格标签和削减医疗补助计划的担忧。
-* The battle between Harvard University and the Trump administration has continued to escalate. Michael C. Bender, a correspondent for The New York Times in Washington, surveys the administration’s actions against the nation’s oldest and wealthiest university.
-* 哈佛大学和特朗普政府之间的斗争继续升级。《纽约时报》驻华盛顿记者迈克尔· C ·本德尔（ Michael C. Bender ）调查了政府对美国历史最悠久、最富有的大学采取的行动。
-* When the Trump administration slashed a successful food aid program, Austin Flamm set out to put politics aside. “Everybody needs a meal,’’ he said.
-* 当特朗普政府大幅削减一项成功的粮食援助计划时，奥斯汀·弗拉姆（ Austin Flamm ）开始将政治放在一边。“每个人都需要一顿饭，”他说。
-* The Alaska Republican senator has no qualms about criticizing the president. She could play a make-or-break role in pushing back on the legislation carrying his agenda.
-* 这位阿拉斯加共和党参议员毫不犹豫地批评总统。她可以在推翻载有他的议程的立法方面发挥成败的作用。
-* Eight people were hospitalized after a man used a “makeshift flamethrower” on a gathering in Boulder, Colo., honoring Israeli captives in Gaza. The authorities are investigating it as an act of terrorism.
-* 一名男子在科罗拉多州博尔德的一次集会上使用“临时火焰喷射器” ，纪念加沙的以色列俘虏，有8人住院治疗。当局正在将其作为恐怖主义行为进行调查。
-* A witness ran to the site of the attack and found people wandering dazed and a friend she said is a Holocaust survivor being helped into an ambulance.
-* 一名目击者跑到袭击现场，发现人们茫然不知所措，她说一名大屠杀幸存者正在被救上救护车。
-* The attack in Boulder, Colo., follows the murders of two Israeli embassy aides in Washington and an arson at the home of the Jewish governor of Pennsylvania.
-* 科罗拉多州博尔德的袭击事件发生在华盛顿两名以色列大使馆助手被谋杀以及宾夕法尼亚州犹太州州长家中发生纵火案之后。
-* A joint statement from the Jewish community in Boulder, Colo., said that an “incendiary device” was thrown at walkers at the event.
-* 科罗拉多州博尔德犹太社区的一份联合声明称，有人在活动中向行尸投掷“燃烧装置”。
-* President Trump reposted another user’s false claim that the former president had been “executed” in 2020 and replaced by a robotic clone.
-* 特朗普总统重新发布了另一位用户的虚假说法，即这位前总统在2020年被“处决” ，取而代之的是机器人克隆。
-
-## New York Times Asia News
-* The war crimes tribunal that Sheikh Hasina herself founded has now charged her in the crackdown that killed more than a thousand demonstrators.
-* 谢赫·哈西娜（ Sheikh Hasina ）自己建立的战争罪法庭现在已经指控她镇压了一千多名示威者。
-* In response to President Trump’s claim, China said the United States was the one introducing a series of “discriminatory restrictive measures.”
-* 针对特朗普总统的说法，中国表示，美国是引入一系列“歧视性限制措施”的国家。
-* After being stabbed last year, the leading presidential contender, Lee Jae-myung, is taking no chances. His main rival says he doesn’t need such protection.
-* 在去年被刺伤后，主要的总统候选人李在铭（ Lee Jae-myung ）没有冒险。他的主要竞争对手说他不需要这种保护。
+* The new president will be tasked with pulling the nation out of political turmoil and face a polarized country and world.
+* 新总统的任务是让国家摆脱政治动荡，面对一个两极分化的国家和世界。
 * The next president will face daunting challenges to heal a polarized nation and bring stability after months of political turmoil.
 * 在经历了数月的政治动荡后，下一任总统将面临治愈一个两极分化的国家并带来稳定的艰巨挑战。
-* The United States allowed its rare earth metals industry to move to China and could now face severe economic disruption as China limits crucial supplies.
-* 美国允许其稀土金属产业转移到中国，由于中国限制关键供应，现在可能面临严重的经济混乱。
-* Plus, the tech bros of “Mountainhead.”
-* 此外，还有“Mountainhead”的技术兄弟。
-* Nobody knows what the halt on visa interviews means and how long it will last. The uncertainty has upended thousands of carefully made plans.
-* 没有人知道暂停签证面谈意味着什么，以及会持续多久。这种不确定性颠覆了成千上万精心制定的计划。
-* Both of the main candidates support the alliance with the United States, but the front-runner favors diplomacy with North Korea and China to improve strained relations.
-* 两位主要候选人都支持与美国的联盟，但领先者倾向于与朝鲜和中国进行外交，以改善紧张的关系。
-* She had memorable roles on TV shows like “Desperate Housewives” and “Northern Exposure,” and in the dark comedy film “French Exit.”
-* 她在“绝望的主妇”和“北方曝光”等电视节目以及黑暗喜剧电影“法国出口”中扮演了令人难忘的角色。
-* The public criticism from the government and online attacks that prompted its organizers to back down are the latest examples of the increasing influence of religious conservatism.
-* 来自政府的公开批评和促使其组织者退缩的在线攻击是宗教保守主义日益增长的影响力的最新例子。
+* Geert Wilders said the decision was made because the four-party coalition government had not furthered his plans for the Netherlands’ “strictest migration policy ever.”
+* 吉尔特·怀尔德斯（ Geert Wilders ）表示，之所以做出这一决定，是因为四党联合政府没有进一步推进他对荷兰“有史以来最严格的移民政策”的计划。
+* President Emmanuel Macron of France and Prime Minister Giorgia Meloni of Italy have regularly sniped, but they are meeting in Rome in pursuit of common goals.
+* 法国总统埃马纽埃尔·马克龙（ Emmanuel Macron ）和意大利总理乔治·梅洛尼（ Giorgia Meloni ）经常狙击，但他们正在罗马举行会议，以追求共同目标。
+* The strike set several aircraft on fire, video showed, and dealt a symbolic blow to Moscow’s relentless bombing campaign.
+* 视频显示，这次罢工点燃了几架飞机，对莫斯科无情的轰炸行动造成了象征性的打击。
+* The second recent round of direct discussions, in Istanbul, resulted in an agreement to trade more prisoners, but produced few steps toward ending the fighting.
+* 最近在伊斯坦布尔举行的第二轮直接讨论达成了一项交易更多囚犯的协议，但几乎没有采取任何措施来结束战斗。
+* The country’s government is centrist, with deep ties to Brussels. Its new president is a Trump-backed nationalist. That reflects a broader struggle.
+* 该国政府是中间派，与布鲁塞尔有着深厚的联系。其新总统是特朗普支持的民族主义者。这反映了更广泛的斗争。
+* Shamsa Sharawe made her name campaigning against female genital cutting. Then she heard about surgery to rebuild what had been taken from her.
+* Shamsa Sharawe以反对切割女性生殖器官而闻名。然后她听说手术重建从她身上夺走的东西。
+
+## New York Times United States News
+* Administration officials have either violated orders or used an array of obfuscations and delays to prevent federal judges from deciding whether violations took place.
+* 政府官员要么违反命令，要么使用一系列混淆和延误来阻止联邦法官决定是否发生违规行为。
+* As the United States cuts budgets and restricts immigration, China and Europe are offering researchers money and stability.
+* 随着美国削减预算和限制移民，中国和欧洲正在为研究人员提供资金和稳定性。
+* The Make America Healthy Again movement associated with Health Secretary Robert F. Kennedy Jr. is changing social media for parents. Emma Goldberg, a business writer covering societal change for The New York Times, talks with a mom about how MAHA ideas are resonating.
+* 与卫生部长小罗伯特·肯尼迪（ Robert F. Kennedy Jr. ）相关的“让美国再次健康”运动正在改变父母的社交媒体。为《纽约时报》报道社会变革的商业作家艾玛·戈德伯格（ Emma Goldberg ）与一位母亲谈论MAHA的想法是如何引起共鸣的。
+* Genetic genealogy is identifying the mothers of deceased newborns found abandoned, shedding light on crimes that went unsolved for years. Women now may face lengthy prison sentences for decades-old chapters of their pasts.
+* 遗传谱系正在识别被遗弃的已故新生儿的母亲，揭示了多年未解决的犯罪。女性现在可能因其过去数十年的历史而面临长期监禁。
+* A letter from the assistant attorney general for civil rights, Harmeet K. Dhillon, said that allowing trans athletes to compete in high school sports was unconstitutional.
+* 民权助理检察长Harmeet K. Dhillon的一封信说，允许跨性别运动员参加高中体育比赛是违宪的。
+* The suspect came to the U.S. in 2022 and lived with his family in a suburban neighborhood. He was a ride share driver, and his daughter was embraced by her school community.
+* 嫌疑人于2022年来到美国，与家人住在郊区。他是一名拼车司机，他的女儿受到了学校社区的欢迎。
+* In a meeting with FEMA staff, David Richardson said he was unaware the United States had a hurricane season. Two staff members said it was unclear if he was serious, but the agency said he was joking.
+* 大卫·理查森（ David Richardson ）在与联邦紧急事务管理局（ FEMA ）工作人员会面时表示，他不知道美国有飓风季节。两名工作人员表示，目前尚不清楚他是否认真，但该机构表示，他是在开玩笑。
+* The Justice Department opened an investigation into the student-run Harvard Law Review. The startling accusations show how the Trump administration is wielding power in pursuit of its political agenda.
+* 司法部对学生经营的《哈佛法律评论》展开调查。这些令人震惊的指控表明，特朗普政府如何运用权力追求其政治议程。
+* Here is a look at what is known about the path taken by Mohamed Sabry Soliman, an Egyptian, in seeking asylum in the U.S.
+* 以下是埃及人穆罕默德·萨布里·索利曼（ Mohamed Sabry Soliman ）在美国寻求庇护的路径的已知情况。
+* The attack demonstrated Ukraine’s ability to use relatively cheap drones to take out expensive aircraft and to strike sites far from its borders.
+* 这次袭击表明，乌克兰有能力使用相对便宜的无人机击落昂贵的飞机，并攻击远离其边境的地点。
+
+## New York Times Asia News
+* 
+* 
+* Some of the same young people who demonstrated after President Yoon Suk Yeol declared martial law said they were disappointed by their choices in Tuesday’s election.
+* 在总统Yoon Suk Yeol宣布戒严令后示威的一些年轻人表示，他们对周二选举中的选择感到失望。
+* 
+* 
+* Xi Zhongxun was purged by the Communist Party he served and went on to help reform Chinese politics. His son is the most authoritarian leader since Mao.
+* 习中勋被他所服务的共产党清洗，并继续帮助改革中国政治。他的儿子是自毛泽东以来最专制的领导人。
+* The new president will be tasked with pulling the nation out of political turmoil and face a polarized country and world.
+* 新总统的任务是让国家摆脱政治动荡，面对一个两极分化的国家和世界。
+* A key member of the Tokyo Yomiuri Giants of the 1960s and ’70s, Japan’s most enduring sports dynasty, Nagashima was a star from his first season.
+* 作为20世纪60年代和70年代日本最持久的体育王朝东京读卖巨人的重要成员，长岛从他的第一个赛季起就是明星。
+* Plus, box office success for “Lilo & Stitch.”
+* 此外， “Lilo & Stitch”的票房成功。
+* The election is a big step toward stabilizing the country. But daunting challenges at home and from abroad await the new leader.
+* 这次选举是朝着稳定国家迈出的一大步。但是，来自国内外的严峻挑战等待着新领导人。
+* The war crimes tribunal that Sheikh Hasina herself founded has now charged her in the crackdown that killed more than a thousand demonstrators.
+* 谢赫·哈西娜（ Sheikh Hasina ）自己建立的战争罪法庭现在已经指控她镇压了一千多名示威者。
+* In response to President Trump’s claim, China said the United States was the one introducing a series of “discriminatory restrictive measures.”
+* 针对特朗普总统的说法，中国表示，美国是引入一系列“歧视性限制措施”的国家。
 
