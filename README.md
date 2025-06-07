@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Seven of the 12 countries on President Trump’s new list are on the continent, where some said the policy was discriminatory and would unfairly affect their future.
-* 特朗普总统新名单上的12个国家中有7个在非洲大陆，一些人称该政策具有歧视性，会对他们的未来产生不公平的影响。
-* Satellite images show the unconventional strategy engineers used to get the 5,000-ton vessel afloat.
-* 卫星图像显示了工程师们用来让这艘5000吨重的船漂浮的非常规策略。
-* Danger and desperation are clear in imagery near the aid sites. Dozens of Palestinians were killed in at least two instances after Israeli troops opened fire near the sites.
-* 在援助地点附近的图像中，危险和绝望显而易见。在以色列军队在这些地点附近开火后，至少两次有数十名巴勒斯坦人丧生。
+* Russia’s spy hunters are increasingly worried about China’s espionage, even as the two countries grow closer.
+* 即使两国关系越来越密切，俄罗斯的间谍猎人也越来越担心中国的间谍活动。
+* A New York Times article last year described two families struggling to keep their malnourished children alive in Gaza. Now, as Israeli restrictions keep out most aid, that’s even harder.
+* 《纽约时报》去年的一篇文章描述了两个家庭在加沙努力维持营养不良儿童的生命。现在，由于以色列的限制阻碍了大部分援助，这更加困难。
+* African students have traded academic institutions in the West for Chinese alternatives. The Trump administration’s clampdown on international students and visas could accelerate the shift.
+* 非洲学生用西方的学术机构换取中国的替代品。特朗普政府对国际学生和签证的打击可能会加速这一转变。
+* Sick children, families and businesses are among the many people in Haiti, a country plagued by gang violence, likely to be hit hard by a U.S. travel ban.
+* 患病的儿童、家庭和企业是海地的众多人口之一，这个国家受到帮派暴力的困扰，可能会受到美国旅行禁令的严重打击。
+* The air assault killed at least three people. Kharkiv’s mayor described it as “the most powerful attack” since the beginning of the war.
+* 空袭造成至少三人死亡。哈尔科夫市长将其描述为自战争开始以来“最强大的攻击”。
+* A directive from Russia’s domestic security service was part of a cache that was advertised online by a cybercrime group.
+* 俄罗斯国内安全部门的一项指令是网络犯罪集团在网上宣传的缓存的一部分。
+* Moscow has long been suspicious of foreign messaging apps. WeChat’s weak encryption makes it vulnerable.
+* 莫斯科长期以来一直怀疑外国消息应用程序。微信的弱加密使其易受攻击。
+* A city with an image dented by protests, pandemic restrictions and a security crackdown hopes to broaden its appeal beyond budget-minded visitors from mainland China.
+* 这座城市的形象因抗议活动、疫情限制和安全打击而受到影响，希望将其吸引力扩大到预算有限的中国大陆游客之外。
+* Grosvenor Square is being recast for a new era, with the former U.S. Embassy transformed into a Qatari-owned luxury hotel and F.D.R.’s square into a haven of biodiversity.
+* 格罗夫纳广场正在为新时代重新铸造，前美国大使馆变成了卡塔尔人拥有的豪华酒店，罗斯福广场变成了生物多样性的天堂。
 * Nearly 50 people have been reported killed and 300 others wounded in incidents near the Israeli-backed distribution center, which was designed to keep food out of the hands of Hamas.
 * 据报道，在以色列支持的配送中心附近发生的事件中，近50人死亡， 300人受伤，该中心旨在防止食品落入哈马斯手中。
-* Chancellor Friedrich Merz of Germany spoke rarely but reverently, and found a warm reception in the Oval Office. Now he hopes to turn rapport into policy wins.
-* 德国总理弗里德里希·默茨（ Friedrich Merz ）很少但虔诚地发言，并在椭圆形办公室受到热烈欢迎。现在，他希望将融洽关系转化为政策胜利。
-* Officials say the train will help the troubled region, but many Kashmiris see it as a tool to entrench the Indian government’s control.
-* 官员们说，这列火车将帮助这个动荡的地区，但许多克什米尔人认为这是巩固印度政府控制的工具。
-* The attack on Friday, which killed at least four people in the capital, came two days after Russia vowed retaliation for an audacious drone assault on its strategic bomber bases.
-* 星期五的袭击造成首都至少四人死亡，两天前，俄罗斯发誓要报复对其战略轰炸机基地的大胆无人机袭击。
-* After six months of turmoil, citizens hope for better times. But political polarization and international tensions over trade mean many worries remain.
-* 在经历了六个月的动荡之后，市民们希望有更好的时光。但政治两极分化和国际贸易紧张局势意味着许多担忧仍然存在。
-* Jonathan Hall, a British government adviser, said in an interview that hostile states were paying local criminals to carry out acts of violence, espionage and intimidation.
-* 英国政府顾问乔纳森·霍尔（ Jonathan Hall ）在接受采访时表示，敌对国家正在向当地犯罪分子支付费用，以实施暴力、间谍和恐吓行为。
-* For people in countries like Afghanistan and Myanmar, the president’s order dimmed hopes for sanctuary in the United States.
-* 对于阿富汗和缅甸等国家的人民来说，总统的命令削弱了在美国避难的希望。
 
 ## New York Times United States News
-* 
-* 
-* The drastic, sudden pullback in federal dollars is collapsing opportunities for many who’ve spent years in public service.
-* 联邦资金的急剧、突然回落正在摧毁许多在公共服务部门工作多年的人的机会。
-* Homeland Security is holding eight deportees under 24/7 guard at a U.S. military base in Djibouti. It’s unclear how long they’ll be there, or where they’ll be sent next.
-* 国土安全部在吉布提的一个美军基地将8名被驱逐者全天候看守。目前尚不清楚他们会在那里待多久，也不清楚他们下一步将被送往哪里。
-* The Trump administration has eviscerated the expert class that generated alternative views in its best moments, and engaged in groupthink at its worst.
-* 特朗普政府已经铲除了在最佳时刻产生不同观点的专家阶层，并在最糟糕的时候进行了集体思考。
-* A federal investigation found a Kentucky nonprofit pushed hospital workers toward surgery despite signs of revival in patients.
-* 联邦调查发现，尽管患者有复苏的迹象，肯塔基州的一家非营利组织仍将医院工作人员推向手术。
-* What happens when two billionaires with huge followings on social media start a public feud? Great memes.
-* 当两个在社交媒体上拥有大量粉丝的亿万富翁开始公开争吵时会发生什么？很棒的模因。
-* The Trump administration appears to have relied on a variety of considerations as it put together its latest restrictions.
-* 特朗普政府在制定最新的限制措施时，似乎依赖于各种考虑因素。
-* The falling-out between Elon Musk and President Trump went into overdrive on Thursday. Both men have powerful ways to keep it going.
-* 周四，埃隆·马斯克(Elon Musk)和特朗普总统之间的闹翻了。两人都有强有力的方法让它继续下去。
-* Muhammad Pahlawan was captured by American forces off the coast of Somalia in a raid last year that led to the deaths of two Navy SEALs.
-* 穆罕默德·帕拉万（ Muhammad Pahlawan ）去年在索马里沿海被美军抓获，导致两名海豹突击队员死亡。
-* Immigrants from the targeted countries said the ban would upend their lives. “I don’t understand why the president has to target us nonstop,” one Haitian asylum seeker said.
-* 来自目标国家的移民表示，这项禁令将颠覆他们的生活。一位海地寻求庇护者说： “我不明白为什么总统要不停地瞄准我们。”
+* With members embedded in multiple agencies, the team’s approach to transforming government is becoming “institutionalized,” as one official put it.
+* 正如一位官员所说，随着成员嵌入多个机构，该团队转变政府的方法正在变得“制度化”。
+* Sick children, families and businesses are among the many people in Haiti, a country plagued by gang violence, likely to be hit hard by a U.S. travel ban.
+* 患病的儿童、家庭和企业是海地的众多人口之一，这个国家受到帮派暴力的困扰，可能会受到美国旅行禁令的严重打击。
+* Before they can run in 2028, numerous top Democrats will first face re-election in 2026. And for everyone, the midterms will serve as a new political proving ground.
+* 在2028年参选之前，许多顶级民主党人将在2026年首次面临连任。对每个人来说，中期选举将成为新的政治试验场。
+* Alfred Williamson could not have imagined how much his freshman year would be shaped by the Trump administration, inside and outside the classroom.
+* 阿尔弗雷德·威廉姆森（ Alfred Williamson ）无法想象特朗普政府在课堂内外对他的大一影响有多大。
+* Critics say proposals to restrict or even ban Chinese student visas take a “sledgehammer to a problem that needs highly targeted tools.”
+* 批评人士说，限制甚至禁止中国学生签证的提案“对一个需要高度针对性工具的问题来说是一把大锤”。
+* Three months after being wrongly deported to El Salvador, Kilmar Armando Abrego Garcia was flown back to the United States on Friday to face federal charges.
+* 在被错误地驱逐到萨尔瓦多三个月后，基尔马尔·阿曼多·阿布雷戈·加西亚（ Kilmar Armando Abrego Garcia ）于周五被空运回美国，面临联邦指控。
+* By a 2-to-1 vote, a three-judge panel found that the president can bar the news outlet from small settings such as the Oval Office or Air Force One, reversing at least for now a lower court’s ruling.
+* 一个由三名法官组成的小组以2比1的投票结果发现，总统可以禁止新闻媒体进入椭圆形办公室或空军一号等小型场所，至少目前可以推翻下级法院的裁决。
+* For the nearly three months before the Justice Department secured an indictment against the man, it had repeatedly flouted a series of court orders to “facilitate” his release from El Salvador.
+* 在司法部获得对这名男子的起诉书之前的近三个月里，它一再藐视一系列法院命令，以“促进”他从萨尔瓦多获释。
+* Armed agents in tactical gear threw flash-bang grenades to disperse a crowd in Los Angeles’s Fashion District. Later, agents fired less-than-lethal ammunition at protesters outside a detention center.
+* 身穿战术装备的武装人员在洛杉矶时尚区投掷闪光手榴弹驱散人群。后来，特工向拘留中心外的抗议者发射了不太致命的弹药。
+* President Trump also eased restrictions on commercial drone flights and called for the revival of supersonic flights for nonmilitary aircraft.
+* 特朗普总统还放宽了对商业无人机飞行的限制，并呼吁恢复非军用飞机的超音速飞行。
 
 ## New York Times Asia News
+* Critics say proposals to restrict or even ban Chinese student visas take a “sledgehammer to a problem that needs highly targeted tools.”
+* 批评人士说，限制甚至禁止中国学生签证的提案“对一个需要高度针对性工具的问题来说是一把大锤”。
+* A city with an image dented by protests, pandemic restrictions and a security crackdown hopes to broaden its appeal beyond budget-minded visitors from mainland China.
+* 这座城市的形象因抗议活动、疫情限制和安全打击而受到影响，希望将其吸引力扩大到预算有限的中国大陆游客之外。
+* The warm welcome for a technology executive whose purchases of the president’s digital coin won him a White House tour illustrates inconsistencies in the administration’s views toward visitors from China.
+* 一位技术高管购买总统的数字硬币为他赢得了白宫之旅，这位高管的热烈欢迎说明了政府对中国游客的看法不一致。
+* He struggled to become the first Chinese American person to practice law in the U.S., then used his training to fight for other Chinese Americans.
+* 他努力成为第一个在美国执业的华裔美国人，然后利用他的训练为其他华裔美国人而战。
 * China sought to depict a call between Xi Jinping and President Trump as an appeal from one strongman leader to another to run a tight ship and stay on course.
 * 中国试图将习近平和特朗普总统之间的呼吁描述为一个强人领导人对另一个强人领导人的呼吁，要求管理一艘紧张的船并保持航向。
 * Satellite images show the unconventional strategy engineers used to get the 5,000-ton vessel afloat.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 此外，还有健康老龄化的建议。
 * The loss of the Resilience spacecraft by Ispace repeated a crash into the moon in 2023 of the company’s first robotic lunar landing mission.
 * 2023年， Ispace失去了Resilience航天器，该公司的首次机器人登月任务再次坠入月球。
-* The two leaders spoke by phone on Thursday, after weeks of worsening tensions between Washington and Beijing.
-* 在华盛顿和北京之间的紧张局势持续数周恶化之后，两位领导人周四通过电话进行了交谈。
-* The harsh penalty was handed down to three members of the opposition who said they were voicing their community’s displeasure with proposed legislation.
-* 三名反对派成员受到了严厉的惩罚，他们表示，他们表达了社区对拟议立法的不满。
-* A Harvard graduate, a doctor and an actress have been at the center of social media storms over perceived privilege. Some see economic anxiety behind it.
-* 一名哈佛大学毕业生、一名医生和一名女演员一直是社交媒体风暴的中心。有些人看到了背后的经济焦虑。
-* The U.S. Coast Guard said it would allow the fire to burn because the cars’ lithium-ion batteries could explode. The ship’s crew escaped on a lifeboat.
-* 美国海岸警卫队表示，它将允许火灾燃烧，因为汽车的锂离子电池可能会爆炸。船员乘救生艇逃生。
 
