@@ -2,50 +2,52 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* On a “hot night,” when Russia tries to overwhelm Kyiv’s air defenses, Ukraine relies not only on Patriot missiles, but on civilians wielding searchlights and vintage guns.
+* 在“炎热的夜晚” ，当俄罗斯试图压倒基辅的防空系统时，乌克兰不仅依赖于爱国者导弹，还依赖于挥舞探照灯和老式枪支的平民。
+* Thousands of foreign fighters fought alongside the Syrian rebel groups that toppled the Assad dictatorship. Many plan to stay, despite the qualms of the United States and some Syrians.
+* 数千名外国战斗人员与推翻阿萨德独裁统治的叙利亚反叛组织并肩作战。尽管美国和一些叙利亚人感到不安，但仍有许多人计划留下来。
+* The brazen attack, captured on video, recalled the political violence of past decades. The senator arrived at a hospital in critical condition.
+* 视频拍摄的这场无耻的袭击让人想起了过去几十年的政治暴力。参议员到达医院，情况危急。
+* The Trump administration’s policies may have contributed to lower ticket sales for a Club World Cup tournament starting next week.
+* 特朗普政府的政策可能有助于降低下周开始的俱乐部世界杯锦标赛的门票销售额。
+* Mr. Musk’s Starlink has brought the internet to some of South America’s most remote places. But Bolivia is shunning it, even as many there are desperate for better service.
+* 马斯克的Starlink将互联网带到了南美洲一些最偏远的地方。但玻利维亚正在回避它，即使那里有许多人渴望更好的服务。
+* The Ukrainian military says its new weapon system, which launches antiaircraft missiles from a remote-controlled speedboat, has brought down two Russian jet fighters.
+* 乌克兰军方表示，其新型武器系统从一艘遥控快艇上发射防空导弹，击落了两架俄罗斯喷气式战斗机。
+* A highly visible missile base on Okinawa is part of a Japanese defense buildup made amid fears of Beijing’s growing power and questions about U.S. commitment.
+* 日本在冲绳建立了一个高度可见的导弹基地，这是日本在担心北京实力不断增强以及对美国承诺提出质疑的情况下进行的国防建设的一部分。
+* Efforts in the Polish region of Silesia to honor Ernest Wilimowski, a local star who played for the national teams of both Poland and Nazi Germany, are raising tricky questions about national loyalty and betrayal.
+* 波兰西里西亚地区为纪念曾为波兰和纳粹德国国家队效力的当地明星欧内斯特·威利莫夫斯基（ Ernest Wilimowski ）所做的努力引发了有关国家忠诚和背叛的棘手问题。
+* A referendum on Sunday and Monday will give Italians the chance to loosen citizenship laws for immigrants. But it is not clear enough voters will turn out.
+* 周日和周一的公投将使意大利人有机会放宽移民的公民身份法。但目前尚不清楚是否会有足够的选民投票。
 * Russia’s spy hunters are increasingly worried about China’s espionage, even as the two countries grow closer.
 * 即使两国关系越来越密切，俄罗斯的间谍猎人也越来越担心中国的间谍活动。
-* A New York Times article last year described two families struggling to keep their malnourished children alive in Gaza. Now, as Israeli restrictions keep out most aid, that’s even harder.
-* 《纽约时报》去年的一篇文章描述了两个家庭在加沙努力维持营养不良儿童的生命。现在，由于以色列的限制阻碍了大部分援助，这更加困难。
-* African students have traded academic institutions in the West for Chinese alternatives. The Trump administration’s clampdown on international students and visas could accelerate the shift.
-* 非洲学生用西方的学术机构换取中国的替代品。特朗普政府对国际学生和签证的打击可能会加速这一转变。
-* Sick children, families and businesses are among the many people in Haiti, a country plagued by gang violence, likely to be hit hard by a U.S. travel ban.
-* 患病的儿童、家庭和企业是海地的众多人口之一，这个国家受到帮派暴力的困扰，可能会受到美国旅行禁令的严重打击。
-* The air assault killed at least three people. Kharkiv’s mayor described it as “the most powerful attack” since the beginning of the war.
-* 空袭造成至少三人死亡。哈尔科夫市长将其描述为自战争开始以来“最强大的攻击”。
-* A directive from Russia’s domestic security service was part of a cache that was advertised online by a cybercrime group.
-* 俄罗斯国内安全部门的一项指令是网络犯罪集团在网上宣传的缓存的一部分。
-* Moscow has long been suspicious of foreign messaging apps. WeChat’s weak encryption makes it vulnerable.
-* 莫斯科长期以来一直怀疑外国消息应用程序。微信的弱加密使其易受攻击。
-* A city with an image dented by protests, pandemic restrictions and a security crackdown hopes to broaden its appeal beyond budget-minded visitors from mainland China.
-* 这座城市的形象因抗议活动、疫情限制和安全打击而受到影响，希望将其吸引力扩大到预算有限的中国大陆游客之外。
-* Grosvenor Square is being recast for a new era, with the former U.S. Embassy transformed into a Qatari-owned luxury hotel and F.D.R.’s square into a haven of biodiversity.
-* 格罗夫纳广场正在为新时代重新铸造，前美国大使馆变成了卡塔尔人拥有的豪华酒店，罗斯福广场变成了生物多样性的天堂。
-* Nearly 50 people have been reported killed and 300 others wounded in incidents near the Israeli-backed distribution center, which was designed to keep food out of the hands of Hamas.
-* 据报道，在以色列支持的配送中心附近发生的事件中，近50人死亡， 300人受伤，该中心旨在防止食品落入哈马斯手中。
 
 ## New York Times United States News
-* With members embedded in multiple agencies, the team’s approach to transforming government is becoming “institutionalized,” as one official put it.
-* 正如一位官员所说，随着成员嵌入多个机构，该团队转变政府的方法正在变得“制度化”。
-* Sick children, families and businesses are among the many people in Haiti, a country plagued by gang violence, likely to be hit hard by a U.S. travel ban.
-* 患病的儿童、家庭和企业是海地的众多人口之一，这个国家受到帮派暴力的困扰，可能会受到美国旅行禁令的严重打击。
-* Before they can run in 2028, numerous top Democrats will first face re-election in 2026. And for everyone, the midterms will serve as a new political proving ground.
-* 在2028年参选之前，许多顶级民主党人将在2026年首次面临连任。对每个人来说，中期选举将成为新的政治试验场。
-* Alfred Williamson could not have imagined how much his freshman year would be shaped by the Trump administration, inside and outside the classroom.
-* 阿尔弗雷德·威廉姆森（ Alfred Williamson ）无法想象特朗普政府在课堂内外对他的大一影响有多大。
-* Critics say proposals to restrict or even ban Chinese student visas take a “sledgehammer to a problem that needs highly targeted tools.”
-* 批评人士说，限制甚至禁止中国学生签证的提案“对一个需要高度针对性工具的问题来说是一把大锤”。
-* Three months after being wrongly deported to El Salvador, Kilmar Armando Abrego Garcia was flown back to the United States on Friday to face federal charges.
-* 在被错误地驱逐到萨尔瓦多三个月后，基尔马尔·阿曼多·阿布雷戈·加西亚（ Kilmar Armando Abrego Garcia ）于周五被空运回美国，面临联邦指控。
-* By a 2-to-1 vote, a three-judge panel found that the president can bar the news outlet from small settings such as the Oval Office or Air Force One, reversing at least for now a lower court’s ruling.
-* 一个由三名法官组成的小组以2比1的投票结果发现，总统可以禁止新闻媒体进入椭圆形办公室或空军一号等小型场所，至少目前可以推翻下级法院的裁决。
-* For the nearly three months before the Justice Department secured an indictment against the man, it had repeatedly flouted a series of court orders to “facilitate” his release from El Salvador.
-* 在司法部获得对这名男子的起诉书之前的近三个月里，它一再藐视一系列法院命令，以“促进”他从萨尔瓦多获释。
-* Armed agents in tactical gear threw flash-bang grenades to disperse a crowd in Los Angeles’s Fashion District. Later, agents fired less-than-lethal ammunition at protesters outside a detention center.
-* 身穿战术装备的武装人员在洛杉矶时尚区投掷闪光手榴弹驱散人群。后来，特工向拘留中心外的抗议者发射了不太致命的弹药。
-* President Trump also eased restrictions on commercial drone flights and called for the revival of supersonic flights for nonmilitary aircraft.
-* 特朗普总统还放宽了对商业无人机飞行的限制，并呼吁恢复非军用飞机的超音速飞行。
+* President Trump on Saturday ordered at least 2,000 National Guard troops to California after demonstrations against a series of raids on workplaces.
+* 特朗普总统周六命令至少2000名国民警卫队士兵前往加利福尼亚州，此前有示威活动反对对工作场所的一系列袭击。
+* The Nebraska Republican’s dissent makes him one of a disappearing breed in the G.O.P. — and suggests he may head for the exit.
+* 内布拉斯加州共和党人的异议使他成为共和党内消失的品种之一—并暗示他可能前往出口。
+* Motivated by their success in reversing Roe v. Wade, conservative Christian activists have a new target in Obergefell v. Hodges. They see early signs of promise.
+* 在成功扭转罗伊诉韦德案的动机下，保守的基督教活动家在Obergefell诉霍奇斯案中有了新的目标。他们看到了承诺的早期迹象。
+* Top leaders at the Justice Department and the F.B.I. are struggling to fulfill Trump campaign promises often rooted in misinformation and conspiracy theories.
+* 司法部和联邦调查局的高层领导人正在努力兑现特朗普的竞选承诺，这些承诺往往植根于错误信息和阴谋论。
+* Thomas Crooks was a nerdy engineering student on the dean’s list. He stockpiled explosive materials for months before his attack on Donald Trump, as his mental health eroded.
+* 托马斯·克鲁克斯（ Thomas Crooks ）是院长名单上的一个书呆子工程系学生。在他袭击唐纳德·特朗普之前，他储存了几个月的爆炸物，因为他的心理健康受到了侵蚀。
+* The New York Times studied videos of addresses posted online, including those by President Trump, Kermit the Frog and a slew of celebrity speakers. Here is a look at key themes that emerged.
+* 《纽约时报》研究了网上发布的地址视频，包括特朗普总统、科米青蛙和大量名人演讲者的视频。以下是出现的关键主题。
+* A school founded by George Soros fled Hungary after it was targeted by an authoritarian leader. Academics at the school say President Trump is using a similar playbook against Harvard.
+* 乔治·索罗斯（ George Soros ）创办的一所学校在成为专制领导人的目标后逃离了匈牙利。该校的学者表示，特朗普总统正在使用类似的手册来对付哈佛大学。
+* Residents in the small city south of Los Angeles had been on edge since Trump returned to office, fearing deportation raids.
+* 自特朗普上任以来，洛杉矶南部小城市的居民一直处于紧张状态，担心被驱逐出境。
+* The top federal prosecutor in Southern California, Bilal A. “Bill” Essayli, said California “has an obligation to maintain order and maintain public safety, and they’re unable to do that right now in Los Angeles.”
+* 南加州最高联邦检察官Bilal A. “Bill” Essayli表示，加州“有义务维持秩序和维护公共安全，他们现在无法在洛杉矶这样做。”
+* 
+* 
 
 ## New York Times Asia News
+* A highly visible missile base on Okinawa is part of a Japanese defense buildup made amid fears of Beijing’s growing power and questions about U.S. commitment.
+* 日本在冲绳建立了一个高度可见的导弹基地，这是日本在担心北京实力不断增强以及对美国承诺提出质疑的情况下进行的国防建设的一部分。
 * Critics say proposals to restrict or even ban Chinese student visas take a “sledgehammer to a problem that needs highly targeted tools.”
 * 批评人士说，限制甚至禁止中国学生签证的提案“对一个需要高度针对性工具的问题来说是一把大锤”。
 * A city with an image dented by protests, pandemic restrictions and a security crackdown hopes to broaden its appeal beyond budget-minded visitors from mainland China.
@@ -64,6 +66,4 @@ Auto RSS New York Times and Translate
 * 在经历了六个月的动荡之后，市民们希望有更好的时光。但政治两极分化和国际贸易紧张局势意味着许多担忧仍然存在。
 * Plus, tips for healthy aging.
 * 此外，还有健康老龄化的建议。
-* The loss of the Resilience spacecraft by Ispace repeated a crash into the moon in 2023 of the company’s first robotic lunar landing mission.
-* 2023年， Ispace失去了Resilience航天器，该公司的首次机器人登月任务再次坠入月球。
 
