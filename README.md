@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Two days of talks resulted in a “framework” meant to solidify terms of a deal that the superpowers reached in Geneva last month.
-* 为期两天的会谈产生了一个“框架” ，旨在巩固超级大国上个月在日内瓦达成的协议的条款。
-* A former student killed 10 people and then himself in a mass shooting in the city of Graz on Tuesday, the police said. It was one of the worst such attacks in Europe in the past decade.
-* 警方称，一名前学生周二在格拉茨市的一次大规模枪击事件中杀害了10人，然后自己也被杀害了。这是过去十年中欧洲最严重的此类袭击之一。
-* Ten people were killed in a mass shooting at a high school in Graz, the country’s second-largest city, the police said. The gunman also died, in an apparent suicide.
-* 警方称，在该国第二大城市格拉茨的一所高中发生的大规模枪击事件中，有10人丧生。枪手也自杀身亡。
-* The assault continued Moscow’s stepped-up drone and missile attacks, which have been ratcheting up for months with nightly bombardments on regions and cities in Ukraine.
-* 这次袭击继续了莫斯科加强的无人机和导弹袭击，几个月来，这些袭击一直在加剧，夜间轰炸乌克兰的地区和城市。
-* The region of Transcarpathia has seen hardly any Russian attacks over the past three years. “We don’t have the same experience of war,” a resident said.
-* 在过去三年中，外喀尔巴阡地区几乎没有发生过俄罗斯的袭击。一位居民说： “我们没有同样的战争经历。”
-* The journey took about seven months and was closely followed, and financially supported, by followers on social media.
-* 这段旅程花了大约七个月的时间，社交媒体上的粉丝密切关注并给予了经济支持。
-* The war strategy game allows players to represent fighters from Taiwan, Hong Kong and other places in plots to overthrow China’s Communist Party.
-* 战争战略游戏允许玩家在推翻中国共产党的阴谋中代表来自台湾、香港和其他地方的战士。
-* Gangs are preying on local businesses, demanding money and unleashing violence if they refuse. A surge in extortion has traumatized many parts of the country.
-* 帮派正在掠夺当地企业，要求金钱，如果他们拒绝，就会发动暴力。敲诈勒索的激增对该国许多地区造成了创伤。
-* Amid President Trump’s crackdown on immigration, agents detained Mr. Lame, 25, for overstaying a visa, and he left the country. Another Gen Z influencer took credit.
-* 在特朗普总统镇压移民期间，特工以逾期居留签证为由拘留了25岁的拉梅，他离开了这个国家。另一位Z世代网红获得了赞誉。
-* Experts who study protest movements say the scenes unfolding in California broadly follow a script that has played out many times in other countries — sometimes with deadly consequences.
-* 研究抗议运动的专家表示，在加利福尼亚州展开的场景大致遵循了在其他国家多次上演的剧本，有时会造成致命的后果。
+* Air India said the Boeing aircraft crashed in the city of Ahmedabad shortly after taking off for London Gatwick Airport. India’s health minister said “many people” had been killed.
+* 印度航空公司表示，这架波音飞机在飞往伦敦盖特威克机场后不久在艾哈迈达巴德市坠毁。印度卫生部长表示， “许多人”已被杀害。
+* The decision comes as Israel appears to be preparing to launch a military attack on Iran, American and European officials believe. Tehran condemned the vote.
+* 美国和欧洲官员认为，这一决定是在以色列似乎准备对伊朗发动军事攻击之际做出的。德黑兰谴责这次投票。
+* Concern about a strike and the prospect of retaliation led the United States to withdraw diplomats from Iraq and authorize the voluntary departure of U.S. military family members from the Middle East.
+* 对罢工和报复前景的担忧导致美国从伊拉克撤出外交官，并授权美国军人家庭成员自愿离开中东。
+* If a handshake agreement holds, it will merely undo some of the damage from the trade war that President Trump started.
+* 如果握手协议成立，它只会消除特朗普总统发起的贸易战造成的一些损害。
+* Beijing has gained time to build up its own strengths by drawing out negotiations with the United States, using its chokehold over critical minerals.
+* 北京通过与美国的谈判，利用其对关键矿产的扼制，赢得了时间来建立自己的优势。
+* Rioters clashed with police in Ballymena and across County Antrim as masked groups set fire to a leisure center in Larne, where families had been temporarily settled in emergency housing.
+* 暴徒在Ballymena和整个安特里姆县与警方发生冲突，蒙面团体放火烧毁了拉恩的一个休闲中心，那里的家庭暂时定居在紧急住房中。
+* Officials were investigating how an apparently troubled man had passed the psychological test required to buy firearms.
+* 官员们正在调查一名显然陷入困境的男子如何通过购买枪支所需的心理测试。
+* The deadliest school shooting in the nation’s recent history has prompted some gun enthusiasts to worry about the prospect of stricter ownership laws.
+* 美国近期历史上最致命的校园枪击事件促使一些枪支爱好者担心更严格的所有权法律的前景。
+* Important U.S. allies are trying to bolster their ties as the Trump administration shifts priorities and reshapes the world order.
+* 随着特朗普政府改变优先事项并重塑世界秩序，美国的重要盟友正试图加强关系。
+* Syria’s new leaders founded a group that cooperates with former Assad supporters to foster stability. It has set off a backlash from the government’s support base.
+* 叙利亚新领导人成立了一个与前阿萨德支持者合作以促进稳定的团体。它引起了政府支持基础的强烈反对。
 
 ## New York Times United States News
 * 
 * 
-* The confirmation hearing for Bryan Bedford, a commercial airline executive, comes as the agency confronts critical staffing shortages and questions about passenger safety.
-* 商业航空公司高管布莱恩·贝德福德（ Bryan Bedford ）的确认听证会正值该机构面临严重的人员短缺和乘客安全问题之际。
-* Images of Los Angeles protesters waving Mexican flags have gone viral in conservative circles this week. Many protesters say they are aware of the political reaction but won’t put their flags away.
-* 本周，洛杉矶抗议者挥舞着墨西哥国旗的图片在保守派圈子中传播开来。许多抗议者表示，他们知道政治反应，但不会放下旗帜。
-* Colleagues and friends say the District of Columbia’s 87-year-old nonvoting delegate, a civil-rights leader and veteran of fights over home rule, is struggling to do her job.
-* 同事和朋友说，哥伦比亚特区87岁的无表决权代表，一位民权领袖和地方自治斗争的资深人士，正在努力完成她的工作。
-* Experts and former officials said it was unusual for a cabinet secretary to try to influence the Treasury Department’s sanctions process to target a domestic entity.
-* 专家和前官员表示，内阁秘书试图影响财政部制裁国内实体的程序是不寻常的。
-* The California governor used a nationally televised address to criticize President Trump and to seize a political moment.
-* 加利福尼亚州州长利用全国电视讲话批评特朗普总统，并抓住政治时刻。
-* Gov. Greg Abbott, a staunch supporter of President Trump’s immigration agenda, is the first governor to call on the National Guard as protests spread to multiple cities.
-* 州长格雷格·阿博特（ Greg Abbott ）是特朗普总统移民议程的坚定支持者，随着抗议活动蔓延到多个城市，他是第一位呼吁国民警卫队的州长。
-* A military official said the Marines would be on the city’s streets on Wednesday. A federal judge was set to hear California’s request to limit the use of the soldiers.
-* 一名军方官员表示，海军陆战队将于周三在该市的街道上。一名联邦法官将听取加利福尼亚州限制使用士兵的请求。
-* Former officials said the Trump administration’s push for the agency to detain record numbers of undocumented immigrants increases the chances of mistakes.
-* 前官员表示，特朗普政府推动该机构拘留创纪录数量的无证移民，增加了出错的可能性。
-* Soldiers mobilized by President Trump protected ICE agents on their raids in Los Angeles. The state of California said the deployment was illegal.
-* 特朗普总统动员的士兵在洛杉矶的突袭中保护了ICE特工。加利福尼亚州表示，这次部署是非法的。
+* The governor bragged about working with ICE in California but said that President Trump was “trying to gin things up to create problems” at protests.
+* 州长吹嘘在加利福尼亚州与ICE合作，但表示特朗普总统在抗议活动中“试图制造问题”。
+* The leaders described President Trump’s actions as a clear attempt to attack communities of color.
+* 领导人将特朗普总统的行动描述为明显企图攻击有色人种社区。
+* Amid unrest in California, Republicans plan to press the governors of other blue states on their immigration policies, including on limiting cooperation with federal enforcement efforts.
+* 在加利福尼亚州的骚乱中，共和党人计划向其他蓝州的州长施压，要求他们执行移民政策，包括限制与联邦执法部门的合作。
+* The mood of a downtown march against immigration raids was initially joyous. It soured as the police forced the crowd to splinter.
+* 市中心反对移民突袭的游行情绪最初是欢乐的。警察逼得人群四分五裂，人群一片狼藉。
+* The Rowena Fire tripled in size Wednesday evening, destroying 20 homes.
+* 周三晚上，罗韦纳火灾的规模扩大了两倍，摧毁了20所房屋。
+* At a Southern California church, pastors said that they believe a federal immigration raid unfolded on their property with no explanation.
+* 在南加州的一个教堂，牧师们说，他们相信联邦移民突袭在他们的财产上展开，没有任何解释。
+* Elected officials, as well as social media influencers, had wide-ranging opinions of the governor’s prime time address warning that democracy is in danger.
+* 当选官员以及社交媒体影响者对州长的黄金时段演讲有广泛的意见，警告民主处于危险之中。
+* The songwriter, whose real name is Ricky Hawk, pleaded guilty to voluntary manslaughter and three other charges in relation to the killing.
+* 这位歌曲作者的真名是Ricky Hawk ，他承认了与杀人有关的自愿过失杀人和其他三项指控。
+* 
+* 
 
 ## New York Times Asia News
-* Lee Jae-myung, the new president of South Korea, said he would stop the propaganda broadcasts by his predecessor that raised tensions with Seoul’s neighboring foe.
-* 韩国新任总统李在铭(Lee Jae-myung)表示，他将停止前任总统的宣传广播，这些广播加剧了与首尔邻国敌人的紧张关系。
-* China has leverage it can use by limiting access to its rare earth supplies, but it does not want to sacrifice its reputation as a reliable supplier.
-* 中国可以通过限制稀土供应来发挥杠杆作用，但它不想牺牲自己作为可靠供应商的声誉。
-* The war strategy game allows players to represent fighters from Taiwan, Hong Kong and other places in plots to overthrow China’s Communist Party.
-* 战争战略游戏允许玩家在推翻中国共产党的阴谋中代表来自台湾、香港和其他地方的战士。
-* A pair of over-the-top announcers have become social media stars in the United States for their reactions during the N.B.A. finals.
-* 一对顶级播音员已经成为美国社交媒体明星，因为他们在NBA总决赛中的反应。
-* Experts and former officials said it was unusual for a cabinet secretary to try to influence the Treasury Department’s sanctions process to target a domestic entity.
-* 专家和前官员表示，内阁秘书试图影响财政部制裁国内实体的程序是不寻常的。
-* Just an hour away from the more famous vacation spot, the island does not have traffic jams, digital nomads or DJ parties. It does have deserted beaches, surfing spots and a low-key charm.
-* 距离更著名的度假胜地仅一小时车程，岛上没有交通堵塞、数字游牧民或DJ派对。这里确实有荒凉的海滩、冲浪点和低调的魅力。
-* Two days of talks resulted in a “framework” meant to solidify terms of a deal that the superpowers reached in Geneva last month.
-* 为期两天的会谈产生了一个“框架” ，旨在巩固超级大国上个月在日内瓦达成的协议的条款。
-* Plus, the travel writer’s dilemma.
-* 此外，还有旅行作家的困境。
-* RM and V emerged from a base in South Korea on Wednesday in fatigues. Three other members of the hugely popular boy band will finish their national service this month.
-* RM和V周三在韩国的一个基地出现了疲劳。这支广受欢迎的男孩乐队的另外三名成员将于本月结束他们的全国服务。
-* Experts who study protest movements say the scenes unfolding in California broadly follow a script that has played out many times in other countries — sometimes with deadly consequences.
-* 研究抗议运动的专家表示，在加利福尼亚州展开的场景大致遵循了在其他国家多次上演的剧本，有时会造成致命的后果。
+* The accident happened just weeks after the company cut a deal with the U.S. government to avoid taking criminal responsibility for a pair of deadly crashes in 2018 and 2019.
+* 这起事故发生在该公司与美国政府达成协议以避免对2018年和2019年的两起致命事故承担刑事责任的几周后。
+* The maneuvers over international waters in the Pacific last weekend prompted Japanese officials to warn China not to repeat them and risk a collision.
+* 上周末在太平洋国际水域的演习促使日本官员警告中国不要重复这些演习，以免发生碰撞。
+* An Air India passenger plane traveling with 242 people to London from Ahmedabad, in the western Indian state of Gujarat, crashed on Thursday.
+* 周四，一架载有242人从印度西部古吉拉特邦艾哈迈达巴德飞往伦敦的印度航空公司客机坠毁。
+* Beijing has gained time to build up its own strengths by drawing out negotiations with the United States, using its chokehold over critical minerals.
+* 北京通过与美国的谈判，利用其对关键矿产的扼制，赢得了时间来建立自己的优势。
+* An Air India flight bound for London Gatwick Airport from Ahmedabad crashed shortly after takeoff, Indian officials said.
+* 印度官员说，一架从艾哈迈达巴德飞往伦敦盖特威克机场的印度航空公司航班在起飞后不久坠毁。
+* The Tibetan spiritual leader has vowed to reveal a succession plan when his birthday is celebrated on July 6. He may get creative to thwart Chinese interference.
+* 这位西藏精神领袖发誓要在7月6日庆祝生日时公布继任计划。他可能会有创造力地阻止中国的干涉。
+* Under three presidential administrations, officials in Washington have used export controls to hold back China’s access to advanced technology.
+* 在三届总统执政期间，华盛顿的官员利用出口管制来阻止中国获得先进技术。
+* The 2021 pact, meant to help counter China’s ambitions in the Asia Pacific, will be examined to ensure that it meets “America First criteria,” a U.S. official said.
+* 一位美国官员表示，将对旨在帮助对抗中国在亚太地区野心的2021年协议进行审查，以确保其符合“美国优先标准”。
+* If a handshake agreement holds, it will merely undo some of the damage from the trade war that President Trump started.
+* 如果握手协议成立，它只会消除特朗普总统发起的贸易战造成的一些损害。
+* Plus, is A.I. coming for your job?
+* 另外，人工智能会来找你的工作吗？
 
