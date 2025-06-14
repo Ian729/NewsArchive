@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Israel hit bases and nuclear sites in a stunning assault that went beyond past attacks on Iran. President Trump warned Tehran to agree to new limits on its nuclear program because further strikes could be “even more brutal.”
-* 以色列在一次超越过去对伊朗的袭击的惊人袭击中袭击了基地和核设施。特朗普总统警告德黑兰同意对其核计划进行新的限制，因为进一步的打击可能“更加残酷”。
-* The Israeli strikes killed at least three of Iran’s top military commanders, as well as nuclear scientists and other leadership figures.
-* 以色列的袭击造成至少三名伊朗最高军事指挥官以及核科学家和其他领导人死亡。
-* Families lined up for hours to give DNA samples so the authorities could match names to victims of Thursday’s crash, which killed at least 269 people.
-* 家属们排队数小时提供DNA样本，以便当局可以将姓名与周四坠机事件的受害者相匹配，该坠机事件造成至少269人死亡。
-* Viswash Kumar Ramesh was one of 242 people on the 787-8 Dreamliner that went down shortly after takeoff in Ahmedabad, India. Somehow, he walked away.
-* 维斯瓦什·库马尔·拉梅什（ Viswash Kumar Ramesh ）是787-8梦幻客机上的242人之一，该客机在印度艾哈迈达巴德起飞后不久就坠毁了。不知怎么的，他走开了。
-* It’s the first time in three years of war that Russian troops have entered the Dnipropetrovsk region, a sign of battlefield momentum.
-* 这是俄罗斯军队三年来首次进入第聂伯罗彼得罗夫斯克地区，这是战场势头的一个迹象。
-* It may take days, or weeks, to assess how far Israel has set back Iran’s atomic capabilities.
-* 可能需要几天或几周的时间来评估以色列在多大程度上阻碍了伊朗的核能力。
-* The China Labor Bulletin, founded by Han Dongfang, tracked factory closures and worker protests in China. It cited financial difficulties for its dissolution.
-* 由韩东方创办的《中国劳工公报》追踪了中国的工厂关闭和工人抗议活动。它列举了其解散的财政困难。
-* The Ah Ma Flippa Ball team (ah ma means grandmother) is one example of how Singapore is encouraging its growing population of seniors to stay active.
-* Ah Ma Flippa Ball团队（ ah ma的意思是祖母）是新加坡如何鼓励其不断增长的老年人口保持活跃的一个例子。
-* Maj. Gen. Mohammad Bagheri, the chief of staff of Iran’s armed forces, was the most senior leader among the dead, according to Iranian state media.
-* 据伊朗国家媒体报道，伊朗武装部队参谋长穆罕默德·巴盖里少将是死者中最资深的领导人。
-* Rioters clashed with police in Ballymena, and masked groups set fire to a recreation center in Larne, where families had been given temporary shelter.
-* 暴徒在Ballymena与警方发生冲突，蒙面团伙放火烧毁了拉恩的一个娱乐中心，该中心曾为家庭提供临时住所。
+* It’s the most intense fighting in decades between the two countries, fueling fears of a wider conflict that could draw in the United States and other major powers.
+* 这是几十年来两国之间最激烈的战斗，加剧了人们对可能引发美国和其他大国的更广泛冲突的担忧。
+* The flight data recorder has been recovered and should shed some light on the cause of the disaster, which killed at least 270 people.
+* 飞行数据记录仪已经恢复，应该能够揭示造成至少270人死亡的灾难的原因。
+* Israel’s leader and President Trump appeared to bet they can persevere, but other world leaders warned of unintended outcomes in a volatile region.
+* 以色列领导人和特朗普总统似乎打赌他们可以坚持下去，但其他世界领导人警告说，在这个动荡的地区会出现意想不到的结果。
+* Members of the large Gujarati diaspora in the U.K. have planned events at temples and community centers to remember loved ones and support the bereaved.
+* 英国的大量古吉拉特侨民计划在寺庙和社区中心举办活动，以纪念亲人并支持死者。
+* Russia is advancing around Kostyantynivka and in the Sumy region with small, fast-moving units as both sides try a new tactic of using motorcycles and civilian cars to quickly cross open terrain.
+* 俄罗斯正在Kostyantynivka和Sumy地区周围推进，双方都在尝试使用摩托车和民用汽车快速穿越地形的新策略。
+* The lavish nuptials, scheduled for this month, have raised the hackles of some residents exasperated by their city becoming a playground for the rich.
+* 定于本月举行的豪华婚礼引起了一些居民的愤怒，他们对自己的城市成为富人的游乐场感到愤怒。
+* While the German government frets over the sudden chill in relations with the United States, residents around American bases hope that ties are too tight to cut easily.
+* 虽然德国政府对与美国关系的突然寒冷感到担忧，但美国基地周围的居民希望关系过于紧密，不容易切断。
+* Interviews with half a dozen senior Iranian officials show that they were not expecting Israel to strike before another round of talks.
+* 对六名伊朗高级官员的采访表明，他们预计以色列不会在另一轮会谈之前发动袭击。
+* The two powers have been exchanging barrages since Israel attacked Iran early Friday and killed many of the country’s top military leaders and scientists.
+* 自从以色列星期五早些时候袭击伊朗并杀害该国许多高级军事领导人和科学家以来，这两个大国一直在互相攻击。
+* After President Trump blew up a G7 gathering in Canada in 2018, European leaders will meet with him there once more. They are hoping to avoid conflict.
+* 在特朗普总统于2018年在加拿大炸毁七国集团(G7)峰会后，欧洲领导人将在那里再次与他会面。他们希望避免冲突。
 
 ## New York Times United States News
-* 
-* 
-* Organizers have planned demonstrations in cities and towns across the country on the same day as President Trump’s parade in Washington to celebrate the Army.
-* 组织者计划在特朗普总统在华盛顿游行的同一天在全国各地的城镇举行示威活动，以庆祝军队。
-* Los Angeles, a city marked by fiery and full-throated protests, adds a new chapter to that history.
-* 洛杉矶是一个以激烈而激烈的抗议活动为标志的城市，为这段历史增添了新的篇章。
-* The provision, long advocated by Senator Josh Hawley of Missouri, would revive and broaden a law for compensating those who developed serious illnesses from government-caused nuclear contamination.
-* 这项由密苏里州参议员乔希·霍利（ Josh Hawley ）长期倡导的规定将恢复和扩大一项法律，以补偿那些因政府引起的核污染而患上严重疾病的人。
-* Christopher Landau, the deputy secretary of state, criticized the U.S. ambassador to NATO in a reply to a routine social media post about meetings with foreign diplomats.
-* 副国务卿克里斯托弗·兰道（ Christopher Landau ）在回应社交媒体上关于与外国外交官会晤的例行帖子时批评了美国驻北约大使。
-* The Biden administration had brokered a 10-year truce in an extended legal battle with Native American tribes in the Pacific Northwest over dams that had prevented fish from spawning.
-* 拜登政府与太平洋西北地区的美洲原住民部落就阻止鱼类产卵的水坝进行了长达10年的法律斗争。
-* 
-* 
-* Washington State, Vermont and others have joined a legal brief backing Gov. Gavin Newsom’s request to block the deployment of California’s National Guard.
-* 华盛顿州、佛蒙特州和其他州加入了一份法律简报，支持州长加文·纽森（ Gavin Newsom ）阻止部署加州国民警卫队的要求。
-* Police have arrested more than 1,000 people in the past week as civil unrest that began after immigration sweeps in Los Angeles spread to cities across the country.
-* 在过去的一周里，警方逮捕了1000多人，因为在洛杉矶的移民扫荡蔓延到全国各地的城市后，内乱开始了。
-* Texas activated its National Guard earlier this week ahead of protests there. Missouri is following suit, “taking a proactive approach,” its governor says.
-* 德克萨斯州本周早些时候在抗议活动之前启动了国民警卫队。密苏里州州长说，密苏里州也在效仿， “采取积极主动的做法”。
+* The seemingly disparate postures of recent days speak to the president’s complicated relationship with the military.
+* 最近几天看似不同的姿态说明了总统与军方的复杂关系。
+* The program on Saturday in Chicago includes music, prayer, speeches and Pope Leo’s first public address to an American audience.
+* 周六在芝加哥举行的节目包括音乐、祈祷、演讲和教皇利奥对美国观众的首次公开演讲。
+* The opening of the first location in Mississippi drew the usual cultish enthusiasm for the chain of mega convenience stores.
+* 在密西西比州开设的第一家门店吸引了人们对大型便利店连锁店的热情。
+* Los Angeles is home to the country’s largest population of undocumented immigrants. So when President Trump’s immigration raids arrived, many expected trouble.
+* 洛杉矶是美国无证移民人口最多的城市。因此，当特朗普总统的移民突袭到来时，许多人预计会有麻烦。
+* Registered voters in the city can cast ballots in the Democratic primary for mayor and other races starting on Saturday.
+* 从周六开始，该市的登记选民可以在民主党初选中为市长和其他竞选投票。
+* The abrupt pivot on an issue at the heart of Mr. Trump’s presidency suggested his broad immigration crackdown was hurting industries and constituencies he does not want to lose.
+* 在特朗普总统任期核心问题上的突然转变表明，他广泛的移民镇压正在伤害他不想失去的行业和选区。
+* At least five carwashes across Los Angeles County and Orange County have been raided since Sunday, according to one labor group.
+* 据一个劳工组织称，自周日以来，洛杉矶县和奥兰治县至少有五辆洗车遭到突击搜查。
+* As others plan protests, Republicans across the country have organized parties to commemorate the president’s 79th birthday and honor the Army.
+* 在其他人计划抗议活动的同时，全国各地的共和党人组织了庆祝总统79岁生日和纪念军队的派对。
+* The man, who said he was a veteran, was soon released. But the incident calls attention to the operation of troops in a police-like domestic function.
+* 这名自称是退伍军人的男子很快被释放。但这一事件引起了人们对部队在类似警察的国内职能中的运作的关注。
+* Most of the staff of Voice of America, the federally funded news network, were put on administrative leave by the Trump administration in March.
+* 联邦政府资助的新闻网络美国之音(Voice of America)的大多数员工在3月份被特朗普政府停职。
 
 ## New York Times Asia News
-* Viswash Kumar Ramesh was one of 242 people on the 787-8 Dreamliner that went down shortly after takeoff in Ahmedabad, India. Somehow, he walked away.
-* 维斯瓦什·库马尔·拉梅什（ Viswash Kumar Ramesh ）是787-8梦幻客机上的242人之一，该客机在印度艾哈迈达巴德起飞后不久就坠毁了。不知怎么的，他走开了。
-* The film is a memoir of sorts for Jacinda Ardern, who governed at a time of multiple disasters. But it was misinformation that proved hardest to cope with.
-* 这部电影是Jacinda Ardern的回忆录， Jacinda Ardern在多次灾难中执政。但事实证明，最难应对的是错误信息。
-* Families lined up for hours to give DNA samples so the authorities could match names to victims of Thursday’s crash, which killed at least 269 people.
-* 家属们排队数小时提供DNA样本，以便当局可以将姓名与周四坠机事件的受害者相匹配，该坠机事件造成至少269人死亡。
-* The Ah Ma Flippa Ball team (ah ma means grandmother) is one example of how Singapore is encouraging its growing population of seniors to stay active.
-* Ah Ma Flippa Ball团队（ ah ma的意思是祖母）是新加坡如何鼓励其不断增长的老年人口保持活跃的一个例子。
-* The China Labor Bulletin, founded by Han Dongfang, tracked factory closures and worker protests in China. It cited financial difficulties for its dissolution.
-* 由韩东方创办的《中国劳工公报》追踪了中国的工厂关闭和工人抗议活动。它列举了其解散的财政困难。
-* The military strikes jolted investors, raising concerns that a broader Mideast conflict would disrupt the world’s energy supplies.
-* 军事打击震惊了投资者，引发了对更广泛的中东冲突将扰乱世界能源供应的担忧。
-* Viswash Kumar Ramesh, 38, who sustained multiple injuries, a doctor said, was the only passenger out of 242 people on board the plane to walk away.
-* 一名医生说， 38岁的维斯瓦什·库马尔·拉梅什（ Viswash Kumar Ramesh ）多处受伤，是飞机上242人中唯一一名离开的乘客。
-* Plus, the pope’s diverse family tree.
-* 此外，还有教皇的多样化家谱。
-* The London-bound Boeing Dreamliner went down moments after takeoff in Ahmedabad, India, with 242 people aboard. Dozens more on the ground perished as the plane exploded on the campus of a medical college.
-* 这架飞往伦敦的波音梦幻客机在印度艾哈迈达巴德起飞后不久坠毁，机上载有242人。当飞机在一所医学院校园内爆炸时，地面上还有数十人丧生。
-* 
-* 
+* Members of the large Gujarati diaspora in the U.K. have planned events at temples and community centers to remember loved ones and support the bereaved.
+* 英国的大量古吉拉特侨民计划在寺庙和社区中心举办活动，以纪念亲人并支持死者。
+* The flight data recorder has been recovered and should shed some light on the cause of the disaster, which killed at least 270 people.
+* 飞行数据记录仪已经恢复，应该能够揭示造成至少270人死亡的灾难的原因。
+* Management installed by the Tata Group had spent three years struggling to undo a reputation for shoddy operations earned during decades of state ownership.
+* 塔塔集团安装的管理层花了三年的时间努力消除数十年国有化过程中获得的劣质经营的声誉。
+* Larry He, who served as Mr. Cuomo’s Asian outreach director, held senior posts at a multibillion-dollar firm owned by China but omitted the experience from his résumé.
+* 拉里·何（ Larry He ）曾担任库莫的亚洲拓展总监，曾在中国拥有的一家价值数十亿美元的公司担任高级职位，但他的简历中忽略了这段经历。
+* Rizwan Vahora lost three relatives on the Air India flight that crashed in Ahmedabad, India. His family was among the many grieving and waiting for answers.
+* Rizwan Vahora在印度艾哈迈达巴德坠毁的印度航空公司航班上失去了三名亲属。他的家人是许多悲伤和等待答案的人之一。
+* At the hospital in Ahmedabad, family members were giving DNA samples, waiting for official confirmation of their loss in the Air India disaster, and remembering their loved ones.
+* 在艾哈迈达巴德的医院，家人正在提供DNA样本，等待官方确认他们在印度航空灾难中的损失，并记住他们的亲人。
+* The flight was bound for England, where family and friends of some of the 241 victims on board, including 52 British nationals, were left searching for answers.
+* 该航班飞往英格兰，机上241名受害者中的一些人的家人和朋友，包括52名英国国民，正在寻找答案。
+* With all eyes on the sole survivor of Air India Flight 171, aviation insiders say that in an air catastrophe, “all bets are off” and seat choice matters little.
+* 所有目光都集中在印度航空公司171航班的唯一幸存者身上，航空业内人士表示，在空难中， “所有赌注都取消了” ，座位选择也无关紧要。
+* Mr. Kapur, who died of a heart attack after playing in a polo match in England, was formerly married to the Bollywood star Karisma Kapoor.
+* Kapur先生在英格兰参加马球比赛后死于心脏病发作，他以前与宝莱坞明星Karisma Kapoor结婚。
+* The president said he would bring a quick end to the wars in Ukraine and Gaza, and get China to bend on trade and Iran on its nuclear program. Instead, conflict is escalating.
+* 总统表示，他将迅速结束乌克兰和加沙的战争，并让中国在贸易上屈服，让伊朗在其核计划上屈服。相反，冲突正在升级。
 
