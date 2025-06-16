@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Israel and Iran were assessing the damage on Sunday from a wave of attacks. Israeli fighter jets bombarded Tehran overnight, setting the sky ablaze with the flames of burning fuel reservoirs, while Iran launched volleys of ballistic missiles at Israel.
-* 周日，以色列和伊朗正在评估一系列袭击造成的损失。以色列战斗机一夜之间轰炸了德黑兰，燃烧的燃料库火焰点燃了天空，而伊朗则向以色列发射了一系列弹道导弹。
-* Eight families of Mennonites have moved from Mexico to Angola, in southern Africa, raising fears among some Angolans that they will be squeezed out by the new arrivals.
-* 门诺派教徒的八个家庭已经从墨西哥搬到了南部非洲的安哥拉，这让一些安哥拉人担心他们会被新来的人挤出去。
-* One pilot on the ill-fated Air India flight was planning to retire. His co-pilot’s career was just getting started. Their final flight lasted seconds.
-* 不幸的印度航空公司航班上的一名飞行员正计划退休。他的副驾驶生涯才刚刚开始。他们的最后一次飞行持续了几秒钟。
-* Low turnout and fears over democratic backsliding marked Mexico’s shift to electing judges, which opens the way for the Morena party to dominate courts.
-* 投票率低和对民主倒退的担忧标志着墨西哥转向选举法官，这为莫雷纳党主导法院开辟了道路。
+* Israel’s military said it had struck the headquarters of the Quds Force, which reports directly to Iran’s supreme leader. The claim could not be immediately confirmed.
+* 以色列军方表示，它已经袭击了圣城部队的总部，该部队直接向伊朗最高领导人报告。索赔无法立即确认。
+* Israel and Iran both have little incentive to stop and no obvious route to outright victory. Much depends on President Trump.
+* 以色列和伊朗都没有什么停下来的动机，也没有明显的彻底胜利之路。这在很大程度上取决于特朗普总统。
+* The French-Israeli relationship has always been turbulent, but the prospect that President Emmanuel Macron may recognize a Palestinian state has brought tension to a new level.
+* 法以关系一直动荡不安，但埃马纽埃尔·马克龙（ Emmanuel Macron ）总统可能承认巴勒斯坦国的前景将紧张局势提升到了一个新的水平。
+* China has long struggled to improve its image, especially in the West. It may be scoring some victories now.
+* 中国长期以来一直在努力改善其形象，特别是在西方。它现在可能正在取得一些胜利。
 * The Group of 7 nations and allies from around the world are heading to a summit in Alberta in Western Canada on Sunday.
 * 七国集团和来自世界各地的盟友将于周日在加拿大西部的艾伯塔省举行峰会。
-* To help shift the country away from its dependence on the United States, Canada’s prime minister plans to spend billions to revitalize its military and meet a NATO spending goal.
-* 为了帮助加拿大摆脱对美国的依赖，加拿大总理计划花费数十亿美元来振兴其军队并实现北约的支出目标。
-* Israel decimated the group’s leadership last fall and degraded its military capabilities. Can the same strategy work against a far more powerful foe?
-* 去年秋天，以色列摧毁了该组织的领导层，并降低了其军事能力。同样的策略能对抗更强大的敌人吗？
-* The disaster in the Indian state of Gujarat affected thousands in Britain’s Gujarati diaspora. Some of them came together on Saturday to remember the victims.
-* 印度古吉拉特邦的灾难影响了数千名英国古吉拉特侨民。他们中的一些人星期六聚集在一起纪念遇难者。
-* Britain’s prime minister reverses his position on the need for a national investigation into the abuse scandal, after criticism by Elon Musk.
-* 在埃隆·马斯克（ Elon Musk ）的批评之后，英国首相改变了他的立场，即需要对虐待丑闻进行全国调查。
-* The two powers have been exchanging barrages since Israel attacked Iran and killed many of the country’s top military leaders and scientists.
-* 自以色列袭击伊朗并杀害该国许多高级军事领导人和科学家以来，这两个大国一直在互相攻击。
+* In Italy, Portugal and Spain, activists used water pistols and a “noisy stroll” of suitcases to draw attention to rising housing costs and the environmental toll of tourism.
+* 在意大利、葡萄牙和西班牙，活动人士使用水枪和手提箱“吵闹的散步”来引起人们对住房成本上升和旅游业对环境造成的影响的关注。
+* Low turnout and fears over democratic backsliding marked Mexico’s shift to electing judges, which opens the way for the Morena party to dominate courts.
+* 投票率低和对民主倒退的担忧标志着墨西哥转向选举法官，这为莫雷纳党主导法院开辟了道路。
+* Eight families of Mennonites have moved from Mexico to Angola, in southern Africa, raising fears among some Angolans that they will be squeezed out by the new arrivals.
+* 门诺派教徒的八个家庭已经从墨西哥搬到了南部非洲的安哥拉，这让一些安哥拉人担心他们会被新来的人挤出去。
+* Three days after the crash, only 35 bodies had been handed over to relatives from an overall official death toll of 270.
+* 坠机事件发生三天后，官方总死亡人数为270人，只有35具尸体被移交给亲属。
+* The push to do a deal on the country’s nuclear program could be revived, even after the Israeli strikes scuppered the latest round of talks.
+* 即使在以色列罢工破坏了最新一轮谈判之后，就该国核计划达成协议的努力仍有可能恢复。
 
 ## New York Times United States News
-* President Trump appointed Justice Amy Coney Barrett to clinch a conservative legal revolution. But soon after arriving at the Supreme Court, she began surprising her colleagues.
-* 特朗普总统任命大法官艾米·科尼·巴雷特（ Amy Coney Barrett ）领导一场保守的法律革命但在到达最高法院后不久，她开始给同事们带来惊喜。
-* A special election this week for seats on the state’s utility board will be a rare referendum on residential electric bills, at a time when they have risen sharply across the country.
-* 本周为该州公用事业委员会席位举行的特别选举将是一次罕见的住宅电费公投，当时全国各地的电费大幅上涨。
-* President Trump appointed her to clinch a conservative legal revolution. But soon after arriving at the Supreme Court, she began surprising her colleagues.
-* 特朗普总统任命她领导一场保守的法律革命。但在到达最高法院后不久，她开始给同事们带来惊喜。
-* Off the bench, the Supreme Court justice has discussed her judicial and personal philosophies, having a son with Down syndrome and running away from television trucks in high heels.
-* 在板凳上，最高法院法官讨论了她的司法和个人哲学，有一个患有唐氏综合症的儿子，并穿着高跟鞋逃离电视卡车。
-* President Trump’s border crackdown and bid for Canada to become the “51st state” have threatened the relationship between Derby, Vt., and Stanstead, Quebec.
-* 特朗普总统的边境镇压和争取加拿大成为“第51个州” ，威胁到了弗吉尼亚州德比和魁北克斯坦斯特德之间的关系。
 * 
 * 
-* The wedding of Huma Abedin, a longtime aide to Hillary Clinton, and Alex Soros, the scion of a liberal philanthropic dynasty, drew a rare concentration of wealth and power.
-* 希拉里·克林顿的长期助手胡马·阿贝丁（ Huma Abedin ）和自由慈善王朝的继承人亚历克斯·索罗斯（ Alex Soros ）的婚礼吸引了罕见的财富和权力集中。
-* With the downtown facing an 8 p.m. curfew, the Los Angeles police began using tear gas and crowd-control munitions to break up protests after issuing a dispersal order.
-* 由于市中心面临晚上8点的宵禁，洛杉矶警方在发布驱散令后开始使用催泪瓦斯和人群控制弹药来驱散抗议活动。
-* The events in the capital were overshadowed by an assassination in Minnesota and turmoil in the Middle East.
-* 明尼苏达州的暗杀事件和中东的动荡给首都发生的事件蒙上了阴影。
-* Yvette Hoffman was shot during an attack on Saturday morning that also wounded her husband, State Sen. John A. Hoffman of Minnesota. They both survived the shooting.
-* 伊薇特·霍夫曼（ Yvette Hoffman ）在周六早上的袭击中被枪杀，她的丈夫、明尼苏达州参议员约翰· A ·霍夫曼（ John A. Hoffman他们两人都在枪击事件中幸免于难。
+* After a gunman killed a lawmaker and wounded another, officials scrambled in what they called the largest manhunt in Minnesota’s history. The suspect was arrested in a rural field on Sunday.
+* 在一名枪手杀死一名议员并打伤另一名议员后，官员们争先恐后地进行了他们所谓的明尼苏达州历史上最大规模的搜捕。嫌疑人于周日在一个农村地区被捕。
+* Colleagues described Representative Melissa Hortman as a skilled, conciliatory lawmaker who was at once steely and warm.
+* 同事们将众议员梅丽莎·霍特曼（ Melissa Hortman ）描述为一位技术娴熟、和蔼可亲的立法者，他既坚强又热情。
+* The handful of notable firms that were targeted by the president for punishment but chose to fight have uniformly won. Nine others have nonetheless pledged almost $1 billion in free legal work.
+* 被总统作为惩罚目标但选择战斗的少数知名公司一致获胜。尽管如此，还有九个国家承诺提供近10亿美元的免费法律工作。
+* New research shows that after recent deportation sweeps, parents kept their children home — with big impacts on how all students learn.
+* 新的研究表明，在最近的驱逐出境行动之后，父母将孩子留在家中，这对所有学生的学习方式产生了重大影响。
+* Records show that air traffic controllers handling Newark Liberty International Airport flights have grappled with equipment outages since at least 2023, an anxiety-causing situation they call “plug and pray.”
+* 记录显示，处理纽瓦克自由国际机场航班的空中交通管制员至少自2023年以来一直在努力解决设备中断问题，他们称之为“即插即用”。
+* The university is hoping for a broad court order that would keep the White House from using workarounds to prevent foreign enrollment.
+* 该大学希望有一个广泛的法院命令，以防止白宫使用变通办法来阻止外国人入学。
+* Maj. Erica Vandal’s superiors called her “a superb officer.” The president said transgender soldiers like her lack the “honesty,” “humility” and “integrity” to serve.
+* 埃里卡·汪达尔（ Erica Vandal ）少校的上级称她为“出色的军官”。总统说，像她这样的跨性别士兵缺乏“诚实”、“谦逊”和“正直”的服务。
+* The drama offers a case study in how Elon Musk’s team sought to run a critical government agency through misinformation and social media blasts — and how longtime employees responded.
+* 这部戏剧提供了一个案例研究，说明伊隆·马斯克（ Elon Musk ）的团队如何通过错误信息和社交媒体爆炸来管理一个关键的政府机构，以及长期员工的反应。
+* The tally, which included politicians, community and business leaders, and locations for Planned Parenthood, was recovered in a car linked to the attacks.
+* 包括政治家，社区和商界领袖以及计划生育的地点在内的统计数据在与袭击有关的汽车中被收回。
 
 ## New York Times Asia News
+* Officials said they had found the cockpit voice recorder that may provide crucial clues about what caused the Air India flight to crash, killing at least 270 people.
+* 有关官员表示，他们已经找到了驾驶舱录音机，这可能会提供关于印度航空公司航班坠毁原因的关键线索，造成至少270人死亡。
+* As Israel and Iran exchanged more attacks, stock markets mostly rose even as worries remained about possible oil supply interruptions.
+* 随着以色列和伊朗进行更多的攻击，即使担心可能的石油供应中断，股市也基本上上涨。
+* China has long struggled to improve its image, especially in the West. It may be scoring some victories now.
+* 中国长期以来一直在努力改善其形象，特别是在西方。它现在可能正在取得一些胜利。
+* Plus, the Dalai Lama’s succession.
+* 还有达赖喇嘛的继承。
+* Administration officials secured a deal that will give the president unusual influence over a private company, and could serve as a model for other deals.
+* 政府官员达成了一项协议，将赋予总统对一家私营公司的不寻常影响力，并可能成为其他交易的典范。
+* Three days after the crash, only 35 bodies had been handed over to relatives from an overall official death toll of 270.
+* 坠机事件发生三天后，官方总死亡人数为270人，只有35具尸体被移交给亲属。
 * One pilot on the ill-fated Air India flight was planning to retire. His co-pilot’s career was just getting started. Their final flight lasted seconds.
 * 不幸的印度航空公司航班上的一名飞行员正计划退休。他的副驾驶生涯才刚刚开始。他们的最后一次飞行持续了几秒钟。
 * The disaster in the Indian state of Gujarat affected thousands in Britain’s Gujarati diaspora. Some of them came together on Saturday to remember the victims.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 飞行数据记录仪已经恢复，应该能够揭示造成至少270人死亡的灾难的原因。
 * Management installed by the Tata Group had spent three years struggling to undo a reputation for shoddy operations earned during decades of state ownership.
 * 塔塔集团安装的管理层花了三年的时间努力消除数十年国有化过程中获得的劣质经营的声誉。
-* Larry He, who served as Mr. Cuomo’s Asian outreach director, held senior posts at a multibillion-dollar firm owned by China but omitted the experience from his résumé.
-* 拉里·何（ Larry He ）曾担任库莫的亚洲拓展总监，曾在中国拥有的一家价值数十亿美元的公司担任高级职位，但他的简历中忽略了这段经历。
-* Rizwan Vahora lost three relatives on the Air India flight that crashed in Ahmedabad, India. His family was among the many grieving and waiting for answers.
-* Rizwan Vahora在印度艾哈迈达巴德坠毁的印度航空公司航班上失去了三名亲属。他的家人是许多悲伤和等待答案的人之一。
-* At the hospital in Ahmedabad, family members were giving DNA samples, waiting for official confirmation of their loss in the Air India disaster, and remembering their loved ones.
-* 在艾哈迈达巴德的医院，家人正在提供DNA样本，等待官方确认他们在印度航空灾难中的损失，并记住他们的亲人。
-* The flight was bound for England, where family and friends of some of the 241 victims on board, including 52 British nationals, were left searching for answers.
-* 该航班飞往英格兰，机上241名受害者中的一些人的家人和朋友，包括52名英国国民，正在寻找答案。
-* With all eyes on the sole survivor of Air India Flight 171, aviation insiders say that in an air catastrophe, “all bets are off” and seat choice matters little.
-* 所有目光都集中在印度航空公司171航班的唯一幸存者身上，航空业内人士表示，在空难中， “所有赌注都取消了” ，座位选择也无关紧要。
-* Mr. Kapur, who died of a heart attack after playing in a polo match in England, was formerly married to the Bollywood star Karisma Kapoor.
-* Kapur先生在英格兰参加马球比赛后死于心脏病发作，他以前与宝莱坞明星Karisma Kapoor结婚。
 
