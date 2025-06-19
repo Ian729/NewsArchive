@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Evidence continued to grow that the United States was considering joining Israel’s bombing campaign. Israel’s latest attacks followed two rounds of Iranian missiles fired into Israel.
-* 越来越多的证据表明，美国正在考虑加入以色列的轰炸行动。以色列最近的袭击发生在伊朗向以色列发射两轮导弹之后。
-* It was the deadliest attack on the Ukrainian capital in almost a year, and came as Moscow has intensified air assaults on the city.
-* 这是近一年来对乌克兰首都最致命的袭击，莫斯科加强了对该市的空袭。
-* The Gaza health ministry said that more than 50 Palestinians were killed on Tuesday, and 20 on Monday, as they waited at food distribution sites.
-* 加沙卫生部表示，周二有50多名巴勒斯坦人被杀，周一有20名巴勒斯坦人在食品分发点等待。
-* Officials drastically understated outbreaks and deaths, depriving citizens of help, two U.S. research groups report, citing interviews with people inside North Korea.
-* 两家美国研究小组援引朝鲜内部人士的采访报告称，官员们大大低估了疫情和死亡人数，剥夺了公民的帮助。
-* The landmark decision will prevent women from being criminally prosecuted for ending their pregnancies.
-* 这一具有里程碑意义的决定将防止妇女因终止妊娠而受到刑事起诉。
-* Two politicians who spoke out against recent accords between the United States and Panama lost their permission to travel to the United States.
-* 两名反对美国和巴拿马最近达成协议的政客失去了前往美国的许可。
-* Thousands of North Korean laborers are already toiling in Russia. A new contingent is headed to the region where North Korean troops fought Ukraine.
-* 成千上万的朝鲜劳工已经在俄罗斯劳作。一支新的特遣队正在前往朝鲜军队与乌克兰作战的地区。
-* Since shortly after it was founded in 1948, Israel has been intent on building a nuclear program to ensure its survival.
-* 自1948年成立以来，以色列一直致力于建立核计划，以确保其生存。
-* Analysts say the Kremlin is prioritizing its own war against Ukraine, as well as its relations with Gulf nations that don’t want to see a stronger Iran.
-* 分析人士表示，克里姆林宫正在优先考虑对乌克兰的战争，以及与不希望看到更强大的伊朗的海湾国家的关系。
-* The Haitian government has turned to drones to go after gang leaders who have captured much of the capital. But legal experts say that violates international law.
-* 海地政府已经转向无人机追捕占领了大部分首都的帮派头目。但法律专家表示，这违反了国际法。
+* Iran struck the largest hospital in southern Israel. The hospital said it was treating several patients with mild injuries. Israel’s prime minister ordered a fierce response, the defense minister said, as the military carried out further strikes in Iran.
+* 伊朗袭击了以色列南部最大的医院。该医院表示，它正在治疗几名轻度受伤的患者。国防部长表示，随着军方在伊朗进行进一步罢工，以色列总理下令做出激烈回应。
+* The Iranian regime finds itself in its most difficult position 46 years after the revolution that brought it to power. But does it mean the end?
+* 伊朗政权在革命后46年发现自己处于最困难的境地。但这是否意味着结束？
+* Israel has a world-leading missile interception system but its bank of interceptors is finite.
+* 以色列拥有世界领先的导弹拦截系统，但其拦截系统数量有限。
+* Iran’s leader vowed that his country would respond to any U.S. involvement in the war with Israel.
+* 伊朗领导人发誓，伊朗将对美国参与与以色列的战争作出回应。
+* A plan to increase military spending at the level President Trump wants is becoming clearer, as are its shortcomings.
+* 在特朗普总统想要的水平上增加军费开支的计划正在变得越来越清晰，其缺点也越来越明显。
+* The annual economic forum in St. Petersburg used to host multibillion-dollar deals and performances by global music stars. With the war in Ukraine still raging, the mood has shifted.
+* 圣彼得堡的年度经济论坛曾经举办过数十亿美元的交易和全球音乐明星的表演。随着乌克兰战争仍在肆虐，气氛已经转变。
+* Since the war in Ukraine began, analysts have monitored a series of intrusions aimed at stealing information about weaponry and warfighting.
+* 自乌克兰战争开始以来，分析人士监控了一系列旨在窃取武器和作战信息的入侵行为。
+* A reviled crane used during the expansion of the Uffizi Galleries was taken down this week after years of protests.
+* 经过多年的抗议活动，乌菲兹美术馆扩建期间使用的污蔑起重机本周被拆除。
+* Erick set off flash floods in the states of Oaxaca and Guerrero. A stretch of the Pacific coastline, including Acapulco, was under a hurricane warning.
+* 埃里克在瓦哈卡州和格雷罗州引发了山洪暴发。包括阿卡普尔科在内的一段太平洋海岸线受到飓风警告。
+* As it strikes militants, the country’s security services are adopting a tactic that Pakistan once criticized the United States for using.
+* 在打击激进分子时，巴基斯坦的安全部门正在采取一种巴基斯坦曾经批评美国使用的策略。
 
 ## New York Times United States News
-* Senator Tina Smith of Minnesota learned that her friend was assassinated, and that she had been a potential target herself. Now, she has blunt thoughts on who bears blame for violent outbursts.
-* 明尼苏达州参议员蒂娜·史密斯（ Tina Smith ）得知她的朋友被暗杀，她自己也成为了潜在的目标。现在，她直言不讳地认为谁应该为暴力爆发负责。
-* The Los Angeles area is home to the biggest diaspora of Iranians. The growing war between Iran and Israel has rattled this tight-knit community.
-* 洛杉矶地区是伊朗侨民人数最多的地区。伊朗和以色列之间日益加剧的战争使这个紧密团结的社区感到不安。
-* Bridget A. Brink, who stepped down as ambassador to Ukraine in April out of objections to President Trump’s pro-Russian approach to the war, is now speaking out and running for office at home.
-* 布里奇特· A ·布林克（ Bridget A. Brink ）因反对特朗普总统对战争的亲俄态度而于4月辞去驻乌克兰大使职务，现在她正在国内大声疾呼并竞选公职。
-* Federal agents have arrested a growing number of the party’s elected officials, fueling liberal outrage and conservative accusations that Democrats are carrying out publicity stunts.
-* 联邦特工逮捕了越来越多的该党当选官员，引发了自由派的愤怒和保守派对民主党正在进行宣传噱头的指责。
-* A bill would restrict “expressive activities” on campus — which could include what students wear and the hours and weeks they can protest.
-* 一项法案将限制校园内的“表达活动” ，其中可能包括学生穿什么衣服以及他们可以抗议的时间和周数。
-* Judge William G. Young’s long career has been punctuated by high-profile cases and outspoken advocacy for the judiciary’s value and fact-finding power.
-* 威廉· G ·杨（ William G. Young ）法官漫长的职业生涯被高调的案件和对司法价值和实况调查权力的直言不讳的倡导所打断。
-* Sarah Stogner had never tried a criminal case before getting elected D.A. in an oil-rich area half the size of New Jersey. So far, it’s been a struggle.
-* 莎拉·斯托格纳（ Sarah Stogner ）在新泽西州一半面积的石油资源丰富的地区当选为地方检察官之前，从未审理过刑事案件。到目前为止，这是一场斗争。
-* The teenager, Ryan Hinton, was shot by a police officer responding to a stolen vehicle report on May 1. The youth’s father is accused of killing a sheriff’s deputy with his car.
-* 这名少年Ryan Hinton于5月1日被一名警察开枪打死，该警察回应了一份被盗车辆报告。这名青年的父亲被指控用他的车杀害了一名治安官的副手。
-* The move by the N.A.A.C.P., the nation’s largest and oldest civil rights organization, marked a new low in its relationship with the Trump administration.
-* 美国最大、历史最悠久的民权组织NAACP的举动标志着它与特朗普政府关系的新低。
-* The Trump administration’s large cuts to the federal work force turned an annual celebration of federal workers into a reminder of loss.
-* 特朗普政府大幅削减联邦劳动力，将联邦工作人员的年度庆祝活动变成了对损失的提醒。
+* The Supreme Court decision upholding a Tennessee ban on gender transition care for trans youths means a state-by-state patchwork of policies will remain.
+* 最高法院维持田纳西州对跨性别青少年的性别过渡护理禁令的裁决意味着各州的政策拼凑将保持不变。
+* Gov. Greg Abbott must decide this week whether to sign or veto a bill to ban hemp-derived intoxicants, part of a national debate over the fast-growing industry.
+* 州长格雷格·阿博特（ Greg Abbott ）本周必须决定是签署还是否决一项禁止大麻衍生麻醉剂的法案，这是关于快速增长的行业的全国辩论的一部分。
+* Beginning on Juneteenth, a restored Virginia schoolhouse where enslaved and free Black students were taught to read is on view in Colonial Williamsburg.
+* 从6月10日开始，殖民地威廉斯堡（ Colonial Williamsburg ）可以看到一所经过修复的弗吉尼亚校舍，在那里，被奴役和自由的黑人学生被教导阅读。
+* New York Times reporter Ana Swanson reports from the Los Angeles Port, the largest port in the Western Hemisphere as well as the place that first saw the signs of Trump’s tariff war. The Port of Los Angeles is significant because of our trade relationship with China in particular, which is why The Trump administration’s 145% tariffs on the country resulted in lower volume at the port. Ana Swanson explains what the port illustrates about U.S. trade and how what’s felt at the Port of Los Angeles will soon be felt by U.S. consumers.
+* QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS
+* The Trump administration suspended a temporary humanitarian program for Ukrainians. Now many are losing their ability to work, and fear deportation.
+* 特朗普政府暂停了针对乌克兰人的临时人道主义计划。现在，许多人正在失去工作能力，害怕被驱逐出境。
+* The Starship experienced a “major anomaly” before starting its 10th flight test. Elon Musk’s giant moon and Mars rocket has a mixed record of success.
+* 星际飞船在开始第10次飞行测试之前经历了一次“重大异常”。埃隆·马斯克（ Elon Musk ）的巨型月球和火星火箭的成功记录好坏参半。
+* President Trump is pondering swift military action in Iran. There were similar expectations that the war in Iraq would be quick and triumphant.
+* 特朗普总统正在考虑在伊朗迅速采取军事行动。人们也有类似的期望，即伊拉克战争将是迅速而胜利的。
+* The state has been a leader in the rollback of L.G.B.T.Q. rights.
+* 该州一直是L.G.B.T.Q.权利回滚的领导者。
+* The State Department is restarting the processing of visa applications from students and visiting scholars, but is screening for  “hostility” toward the United States.
+* 美国国务院正在重新开始处理学生和访问学者的签证申请，但正在筛选对美国的“敌意”。
+* As President Trump ponders involving the United States in Israel’s attacks on Iran, the G.O.P. faces a thorny question: What does “America first” really mean?
+* 当特朗普总统考虑让美国参与以色列对伊朗的袭击时，共和党面临一个棘手的问题： “美国优先”的真正含义是什么？
 
 ## New York Times Asia News
+* Paetongtarn Shinawatra has been widely criticized for appearing weak in a conversation with Cambodia’s Hun Sen, who released a recording of their exchange.
+* Paetongtarn Shinawatra因在与柬埔寨洪森的谈话中显得软弱而受到广泛批评，洪森发布了他们交流的录音。
+* The move came a day after Indian officials told the airline to improve its operations, and as delays and canceled flights are drawing complaints from passengers.
+* 此举发生在印度官员要求该航空公司改善运营的前一天，由于航班延误和取消，乘客们开始抱怨。
+* A cremation ceremony was held for Kinal Mistry, a victim of the Air India crash who hailed from a community that took pride in those who went abroad. Her family said she was someone who would “fulfill everyone’s dreams.”
+* 为印度航空公司坠机事件的受害者Kinal Mistry举行了火葬仪式，他来自一个为出国者感到自豪的社区。她的家人说，她是一个能够“实现每个人的梦想”的人。
+* As it strikes militants, the country’s security services are adopting a tactic that Pakistan once criticized the United States for using.
+* 在打击激进分子时，巴基斯坦的安全部门正在采取一种巴基斯坦曾经批评美国使用的策略。
+* Taiwan, which makes most of the world’s advanced computer chips, relies almost entirely on imported energy.
+* 台湾生产世界上大多数先进的计算机芯片，几乎完全依赖进口能源。
+* The State Department is restarting the processing of visa applications from students and visiting scholars, but is screening for  “hostility” toward the United States.
+* 美国国务院正在重新开始处理学生和访问学者的签证申请，但正在筛选对美国的“敌意”。
+* Plus, Studio Ghibliesque video games.
+* 此外，还有Studio Ghibliesque视频游戏。
+* BYD and other companies doubled their share of the car market after the European Union imposed higher tariffs on electric vehicles from China.
+* 在欧盟对来自中国的电动汽车征收更高的关税后，比亚迪和其他公司的汽车市场份额翻了一番。
+* Fifteen years after the discovery of a new type of human, the Denisovan, scientists discovered its DNA in a fossilized skull. The key? Tooth plaque.
+* 在发现新型人类丹尼索瓦人15年后，科学家在头骨化石中发现了它的DNA。钥匙？牙菌斑。
 * The rapprochement comes months after each country had expelled the other’s senior diplomats.
 * 在每个国家都驱逐了对方的高级外交官几个月后，双方才开始和解。
-* The leader of China’s central bank made a clear though indirect critique of the dollar’s role as the world’s main currency.
-* 中国央行行长明确但间接地批评了美元作为世界主要货币的作用。
-* Spiritual practitioners fear that legislation imposing prison time for vaguely defined occult services could cast a wide net.
-* 精神从业者担心，对模糊定义的神秘服务施加监禁时间的立法可能会产生很大的影响。
-* Chinese investors have poured their savings into gold, attracted by promises of rising prices. One company’s sudden closure is a cautionary tale.
-* 受价格上涨承诺的吸引，中国投资者已将储蓄投入黄金。一家公司突然倒闭是一个警示故事。
-* Plus, Octopuses’ marvelous arms.
-* 此外，章鱼的神奇手臂。
-* There were no immediate reports of injury after Mount Lewotobi Laki-laki ejected a plume of smoke and ashes on Tuesday night. An eruption there killed 10 people last year.
-* 在周二晚上Lewotobi Laki-laki山喷出一缕烟雾和灰烬后，没有立即受伤的报道。去年那里的火山爆发造成10人死亡。
-* Thousands of North Korean laborers are already toiling in Russia. A new contingent is headed to the region where North Korean troops fought Ukraine.
-* 成千上万的朝鲜劳工已经在俄罗斯劳作。一支新的特遣队正在前往朝鲜军队与乌克兰作战的地区。
-* A new report comes amid rising concern about how China will use new tools to power covert actions, as Western intelligence services also embrace the technology.
-* 一份新的报告发布之际，人们越来越担心中国将如何使用新工具来推动秘密行动，因为西方情报部门也接受这项技术。
-* Officials drastically understated outbreaks and deaths, depriving citizens of help, two U.S. research groups report, citing interviews with people inside North Korea.
-* 两家美国研究小组援引朝鲜内部人士的采访报告称，官员们大大低估了疫情和死亡人数，剥夺了公民的帮助。
-* As President Trump’s tariffs close off the U.S. market, Chinese goods are flooding countries from Southeast Asia to Europe to Latin America.
-* 随着特朗普总统的关税关闭美国市场，中国商品正在从东南亚国家涌向欧洲和拉丁美洲。
 
