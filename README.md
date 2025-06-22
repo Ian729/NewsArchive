@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Ayatollah Ali Khamenei has not only picked replacements in his chain of military command in case they are killed in Israeli strikes, he has also named three senior clerics to replace him should he, too, be slain.
-* 阿亚图拉·阿里·哈梅内伊（ Ayatollah Ali Khamenei ）不仅在他的军事指挥链中挑选了替补人员，以防他们在以色列罢工中丧生，而且还任命了三名高级神职人员来替补他，以防他也被杀害。
-* President Trump said there was little he could do to stop the Israeli attacks. A European diplomatic effort to rein in the hostilities ended without a breakthrough on Friday.
-* 特朗普总统表示，他几乎无能为力来阻止以色列的袭击。周五，欧洲遏制敌对行动的外交努力没有取得突破。
-* The fight between two well-armed regional powers has their neighbors worried about the conflict spreading, a concern worsened by the prospect of U.S. involvement.
-* 两个装备精良的地区大国之间的战斗使它们的邻国担心冲突蔓延，美国参与的前景加剧了这一担忧。
-* As high temperatures have become more common in recent years, some people are adjusting, including by investing in air-conditioners.
-* 随着近年来高温变得越来越普遍，一些人正在进行调整，包括投资购买空调。
-* Suga is the last member of the wildly popular band to complete his national service. After more than two years apart, the challenge is to rekindle the magic.
-* Suga是广受欢迎的乐队中最后一位完成全国服务的成员。相隔两年多之后，挑战是重新点燃魔法。
-* With BTS poised to reunite, “Squid Game” returning and a Broadway show winning awards, the Korean cultural wave keeps on rolling.
-* 随着BTS准备重聚， “鱿鱼游戏”回归，百老汇表演获奖，韩国文化浪潮不断涌动。
-* Top diplomats from Britain, France and Germany met with Iran’s foreign minister in a last-ditch effort to avoid escalation in the Israel-Iran conflict.
-* 来自英国、法国和德国的高级外交官会见了伊朗外交部长，这是避免以伊冲突升级的最后努力。
-* British lawmakers on Friday confirmed their support for assisted suicide for some terminally ill people, after months of scrutiny that followed an initial vote last year.
-* 经过去年首次投票后的数月审查，英国立法者周五确认他们支持一些绝症患者的协助自杀。
-* Moscow has hoped to mend relations with the United States while continuing to wage war in Ukraine, but Mr. Putin’s insistence on pushing his offensive has come at a diplomatic cost.
-* 莫斯科一直希望在继续在乌克兰发动战争的同时修复与美国的关系，但普京坚持推进他的进攻是以外交代价为代价的。
-* Investigators are hoping to find clues as to why the Bayesian superyacht sank off the coast of Sicily 10 months ago, killing seven people.
-* 调查人员希望找到线索，解释为什么贝叶斯超级游艇10个月前在西西里岛海岸沉没，造成7人死亡。
+* Iran fired a wave of missiles at Israel and vowed to defend itself after U.S. forces attacked three key nuclear sites in Iran. President Trump has warned of more strikes “if peace does not come quickly.”
+* 伊朗向以色列发射了一波导弹，并发誓要在美军袭击伊朗三个关键核设施后进行自卫。特朗普总统警告说， “如果和平不能很快到来” ，会有更多的罢工。
+* As Canada endures another heavy wildfire season, a group of resourceful farmers in British Columbia became an ad hoc fire brigade to help a neighbor.
+* 随着加拿大又经历了一个严重的野火季节，不列颠哥伦比亚省的一群足智多谋的农民成为了一支临时消防队，帮助邻居。
+* Its proxy forces around the region have been largely silent in offering concrete support after attacks by Israel and now the United States.
+* 在以色列和现在的美国发动袭击后，其在该地区的代理部队在提供具体支持方面基本上保持沉默。
+* To reach voters outside its Eastern heartlands, the AfD is putting a new gloss on its anti-immigrant message — while sticking with its agenda.
+* 为了接触东部心脏地带以外的选民， AfD正在为其反移民信息增添新的光彩，同时坚持其议程。
+* Iran’s foreign minister warned that the U.S. decision to join Israel’s war against Iran would have “everlasting consequences.”
+* 伊朗外交部长警告说，美国决定加入以色列对伊朗的战争将产生“永久性后果”。
+* By bombing three nuclear sites in Iran, the United States has joined Israel’s war against the country. Now it is bracing for Iranian retaliation.
+* 通过轰炸伊朗的三个核设施，美国加入了以色列对该国的战争。现在，它正在为伊朗的报复做准备。
+* Ayatollah Ali Khamenei has picked replacements in case military commanders die in Israeli strikes. He has also named possible replacements for himself.
+* 阿亚图拉·阿里·哈梅内伊（ Ayatollah Ali Khamenei ）选择了替代者，以防军事指挥官在以色列罢工中他还为自己命名了可能的替代品。
+* Ukraine’s security service is holding classes at high schools to alert teenagers of Russian efforts to recruit them.
+* 乌克兰安全部门正在高中开设课程，以提醒青少年俄罗斯招募他们的努力。
+* The outreach to Belarus’s autocratic leader, Aleksandr G. Lukashenko, comes as the country has released at least 14 political prisoners.
+* 与白俄罗斯专制领导人亚历山大·卢卡申科（ Aleksandr G. Lukashenko ）接触之际，该国已释放至少14名政治犯。
+* A hot-air balloon carrying 21 people caught fire and fell from the sky in a region in southern Brazil popular with tourists.
+* 在巴西南部一个深受游客欢迎的地区，一架载有21人的热气球起火并从天而降。
 
 ## New York Times United States News
+* Iran has depleted its stockpile of medium-range missiles, U.S. officials say. But the country still has an ample supply of other weapons, including rockets and attack drones.
+* 美国官员说，伊朗已经耗尽了中程导弹的储备。但该国仍然拥有充足的其他武器供应，包括火箭和攻击无人机。
+* From a lone clinic in Texas to an entire school district in North Dakota, the virus is upending daily life and revealing a deeper crisis of belief.
+* 从德克萨斯州的一家诊所到北达科他州的整个学区，该病毒正在颠覆日常生活，并揭示出更深层次的信仰危机。
+* The rapid dismantling of the global aid agency remains one of the most consequential outcomes of President Trump’s efforts to overhaul the federal government, showing his willingness to tear down institutions in defiance of the courts.
+* 全球援助机构的迅速解散仍然是特朗普总统努力改革联邦政府的最重要结果之一，这表明他愿意无视法院拆除机构。
+* A design for the state’s official “Monument to Unborn Children” was chosen in 2023. But it remains unbuilt as the debate over abortion grinds on.
+* 2023年选择了该州官方“未出生儿童纪念碑”的设计。但随着关于堕胎的争论不断加剧，它仍然没有建立起来。
+* President Trump is betting the United States can repel whatever retaliation Iran orders, and that it has destroyed the regime’s chances of reconstituting its nuclear program.
+* 特朗普总统打赌美国可以击退伊朗命令的任何报复，并且它已经摧毁了该政权重建其核计划的机会。
+* The strikes on Iran ushered in a period of high alert as the Pentagon braced for almost-certain retaliation against American forces in the region.
+* 随着五角大楼准备对该地区的美军进行几乎可以肯定的报复，对伊朗的打击引发了一段高度警惕期。
+* St. Louis, Chicago and Des Moines were among the cities that saw heat indexes hit triple digits on Saturday, with the East Coast bracing for similar conditions by Monday.
+* 圣路易斯、芝加哥和得梅因是周六热指数达到三位数的城市之一，东海岸周一将迎来类似情况。
+* The ruling by the parliamentarian sent G.O.P. lawmakers back to the drawing board to cover the costs of President Trump’s domestic policy bill.
+* 这位议员的裁决让共和党议员重新回到了绘图板上，以支付特朗普总统的国内政策法案的费用。
 * The University of Florida student won an academic honor after he argued in a paper that the Constitution applies only to white people. From there, the situation spiraled.
 * 这位佛罗里达大学的学生在一篇论文中主张宪法仅适用于白人，因此获得了学术荣誉。从那时起，局势急剧恶化。
 * Details about the discussions emerged after President Trump said the two sides, which have been locked in court battles for weeks, might reach a settlement soon.
 * 在特朗普总统表示，双方已经陷入数周的法庭斗争，可能很快就会达成和解之后，有关讨论的细节浮出水面。
-* President Trump’s executive orders have sought to reframe the history of race and culture in America. Erica L. Green, a White House correspondent for The New York Times, describes how the orders have led to the erasing of history of the Black experience.
-* 特朗普总统的行政命令试图重塑美国的种族和文化历史。《纽约时报》的白宫记者艾丽卡·格林（ Erica L. Green ）描述了这些命令如何导致黑人经历的历史被抹去。
-* Vice President JD Vance said during a Los Angeles stop that Gov. Gavin Newsom and Mayor Karen Bass had encouraged protesters to engage in violence. He also criticized Senator Alex Padilla and called him by the wrong name.
-* 副总裁JD Vance在洛杉矶停留期间表示，州长Gavin Newsom和市长Karen Bass鼓励抗议者参与暴力活动。他还批评了参议员亚历克斯·帕迪拉（ Alex Padilla ） ，并用错误的名字称呼他。
-* Pressed by Angelenos, including a large Latino fan base, the Dodgers promised support but stopped short of denouncing ICE raids that have outraged much of the metropolis.
-* 在包括大型拉丁裔粉丝群在内的Angelenos的压力下，道奇队承诺提供支持，但没有谴责激怒了大部分大都市的ICE突袭。
-* An F.B.I. agent said Vance Boelter left instructions for his wife in the event of a calamity, according to a court document.
-* 一名联邦调查局特工说，根据法庭文件，万斯·博尔特在发生灾难时给妻子留下了指示。
-* Negotiating with Tehran is time-consuming and difficult under the best of circumstances. And it remains unclear whether President Trump’s 14-day clock is more than a way to buy time for military preparations.
-* 在最好的情况下，与德黑兰谈判既费时又困难。目前尚不清楚特朗普总统的14天时间是否不仅仅是为军事准备争取时间的一种方式。
-* Since taking office in January, President Trump has tried to reframe the country’s past involving racism and discrimination by de-emphasizing that history or at times denying that it happened.
-* 自1月上任以来，特朗普总统一直试图通过淡化种族主义和歧视的历史，或者有时否认它发生过，来重新构建该国的过去。
-* A volley of court rulings has made the legal path unclear in a case challenging President Trump’s use of troops in Los Angeles. For now, the president has retained control of the state militia.
-* 在一起质疑特朗普总统在洛杉矶使用军队的案件中，一系列法院裁决使法律途径不明朗。目前，总统保留了对州民兵的控制权。
-* The Times’s Jerusalem bureau chief explains what President Trump’s delay in deciding whether to intervene in the Israel-Iran war means for the people of both countries.
-* 《纽约时报》耶路撒冷分社社长解释了特朗普总统推迟决定是否干预以伊战争对两国人民意味着什么。
 
 ## New York Times Asia News
+* Fighting has the potential to disrupt oil markets, but a move by Iran to cut off supply would chiefly hurt China, the biggest buyer of Iranian oil.
+* 战斗有可能扰乱石油市场，但伊朗切断供应的举动将主要伤害伊朗石油的最大买家中国。
+* Amid fears of more dangerous escalation across the Middle East, some leaders condemned the attacks, and others urged restraint.
+* 由于担心整个中东地区会出现更危险的局势升级，一些领导人谴责了这些袭击事件，另一些领导人则敦促保持克制。
 * At Lincoln Center, the Toronto-based theater company Why Not strives to balance the old and new in its production of the Sanskrit epic.
 * 在林肯中心，总部位于多伦多的剧院公司Why Not在制作梵语史诗时力求平衡新旧。
 * A video message by Campbell Wilson, Air India’s chief executive, closely resembled what the head of American Airlines said after a deadly crash months earlier.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 中国依靠伊朗的石油和反击美国的影响力，从更广泛的战争中损失惨重。但它对此无能为力。
 * Confronted with tariffs and scrutiny in the United States and Europe, Chinese consumer brands are betting that they can become household names in Latin America’s biggest economy.
 * 面对美国和欧洲的关税和审查，中国消费品牌押注他们可以成为拉丁美洲最大经济体的家喻户晓的名字。
-* The crash of an Air India flight shows how the country’s ambitions of rapid growth are often superimposed on urban infrastructures already pushed to the limit.
-* 印度航空公司的一架航班坠毁表明，该国快速增长的雄心往往叠加在已经达到极限的城市基础设施上。
-* A top general, he was appointed prime minister in 1992, a short-lived tenure that immediately incited the Black May uprising — and a violent backlash by his military.
-* 作为一名高级将军，他于1992年被任命为总理，短暂的任期立即煽动了黑色五月起义—以及他的军队的暴力反弹。
 
