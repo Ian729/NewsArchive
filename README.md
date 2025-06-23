@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Iran fired a wave of missiles at Israel and vowed to defend itself after U.S. forces attacked three key nuclear sites in Iran. President Trump has warned of more strikes “if peace does not come quickly.”
-* 伊朗向以色列发射了一波导弹，并发誓要在美军袭击伊朗三个关键核设施后进行自卫。特朗普总统警告说， “如果和平不能很快到来” ，会有更多的罢工。
+* Israel said it had targeted a paramilitary headquarters and a notorious prison in Tehran. The strikes came as Iran’s foreign minister met with a key ally, President Vladimir V. Putin of Russia.
+* 以色列表示，它袭击了德黑兰的一个准军事总部和一个臭名昭著的监狱。罢工发生之际，伊朗外交部长会见了俄罗斯总统弗拉基米尔· V ·普京(Vladimir V. Putin)这一重要盟友。
+* Through revolution and upheaval, the program has become intertwined with the country’s security and national identity.
+* 通过革命和动荡，该计划已与国家的安全和民族认同交织在一起。
+* The rhetoric belies a more complicated reality, as Beijing has been one of Tehran’s biggest backers.
+* 这些言论掩盖了一个更复杂的现实，因为北京一直是德黑兰最大的支持者之一。
+* Promised a path to prosperity through hard work and education, China’s working class youths are hitting immovable ceilings.
+* 中国的工人阶级青年承诺通过努力工作和教育走上繁荣之路，他们正在达到不可动摇的天花板。
+* The barrage was the latest in a series of deadly strikes by Moscow, which have intensified as cease-fire talks have largely stalled.
+* 这次袭击是莫斯科一系列致命袭击中的最新一次，随着停火谈判在很大程度上停滞不前，这些袭击已经加剧。
+* A growing fleet of electric boats ferries Indigenous people through the heart of the Ecuadorean Amazon, providing a cheaper and greener alternative to gas-powered vessels.
+* 越来越多的电动船队通过厄瓜多尔亚马逊中心地带运送原住民，为天然气动力船提供更便宜、更环保的替代品。
+* Hugo Aguilar Ortiz grew up in a remote Mixtec-speaking village. He is now one of the most powerful lawyers in Mexico.
+* 雨果·阿吉拉尔·奥尔蒂斯（ Hugo Aguilar Ortiz ）在一个偏远的米斯泰克语村他现在是墨西哥最有影响力的律师之一。
 * As Canada endures another heavy wildfire season, a group of resourceful farmers in British Columbia became an ad hoc fire brigade to help a neighbor.
 * 随着加拿大又经历了一个严重的野火季节，不列颠哥伦比亚省的一群足智多谋的农民成为了一支临时消防队，帮助邻居。
-* Its proxy forces around the region have been largely silent in offering concrete support after attacks by Israel and now the United States.
-* 在以色列和现在的美国发动袭击后，其在该地区的代理部队在提供具体支持方面基本上保持沉默。
-* To reach voters outside its Eastern heartlands, the AfD is putting a new gloss on its anti-immigrant message — while sticking with its agenda.
-* 为了接触东部心脏地带以外的选民， AfD正在为其反移民信息增添新的光彩，同时坚持其议程。
-* Iran’s foreign minister warned that the U.S. decision to join Israel’s war against Iran would have “everlasting consequences.”
-* 伊朗外交部长警告说，美国决定加入以色列对伊朗的战争将产生“永久性后果”。
-* By bombing three nuclear sites in Iran, the United States has joined Israel’s war against the country. Now it is bracing for Iranian retaliation.
-* 通过轰炸伊朗的三个核设施，美国加入了以色列对该国的战争。现在，它正在为伊朗的报复做准备。
-* Ayatollah Ali Khamenei has picked replacements in case military commanders die in Israeli strikes. He has also named possible replacements for himself.
-* 阿亚图拉·阿里·哈梅内伊（ Ayatollah Ali Khamenei ）选择了替代者，以防军事指挥官在以色列罢工中他还为自己命名了可能的替代品。
-* Ukraine’s security service is holding classes at high schools to alert teenagers of Russian efforts to recruit them.
-* 乌克兰安全部门正在高中开设课程，以提醒青少年俄罗斯招募他们的努力。
-* The outreach to Belarus’s autocratic leader, Aleksandr G. Lukashenko, comes as the country has released at least 14 political prisoners.
-* 与白俄罗斯专制领导人亚历山大·卢卡申科（ Aleksandr G. Lukashenko ）接触之际，该国已释放至少14名政治犯。
-* A hot-air balloon carrying 21 people caught fire and fell from the sky in a region in southern Brazil popular with tourists.
-* 在巴西南部一个深受游客欢迎的地区，一架载有21人的热气球起火并从天而降。
+* The United States’ overnight attack could cause further escalation. To Israelis, it is already seen as a victory for Israel, and for Prime Minister Benjamin Netanyahu.
+* 美国的隔夜袭击可能导致事态进一步升级。对以色列人来说，这已经被视为以色列和总理本雅明·内塔尼亚胡的胜利。
+* Iran’s foreign minister called the attack a “betrayal” in the middle of negotiations and said it would have “everlasting consequences.”
+* 伊朗外交部长称这次袭击是谈判中的“背叛” ，并表示这将产生“永久性后果”。
 
 ## New York Times United States News
-* Iran has depleted its stockpile of medium-range missiles, U.S. officials say. But the country still has an ample supply of other weapons, including rockets and attack drones.
-* 美国官员说，伊朗已经耗尽了中程导弹的储备。但该国仍然拥有充足的其他武器供应，包括火箭和攻击无人机。
-* From a lone clinic in Texas to an entire school district in North Dakota, the virus is upending daily life and revealing a deeper crisis of belief.
-* 从德克萨斯州的一家诊所到北达科他州的整个学区，该病毒正在颠覆日常生活，并揭示出更深层次的信仰危机。
-* The rapid dismantling of the global aid agency remains one of the most consequential outcomes of President Trump’s efforts to overhaul the federal government, showing his willingness to tear down institutions in defiance of the courts.
-* 全球援助机构的迅速解散仍然是特朗普总统努力改革联邦政府的最重要结果之一，这表明他愿意无视法院拆除机构。
-* A design for the state’s official “Monument to Unborn Children” was chosen in 2023. But it remains unbuilt as the debate over abortion grinds on.
-* 2023年选择了该州官方“未出生儿童纪念碑”的设计。但随着关于堕胎的争论不断加剧，它仍然没有建立起来。
-* President Trump is betting the United States can repel whatever retaliation Iran orders, and that it has destroyed the regime’s chances of reconstituting its nuclear program.
-* 特朗普总统打赌美国可以击退伊朗命令的任何报复，并且它已经摧毁了该政权重建其核计划的机会。
-* The strikes on Iran ushered in a period of high alert as the Pentagon braced for almost-certain retaliation against American forces in the region.
-* 随着五角大楼准备对该地区的美军进行几乎可以肯定的报复，对伊朗的打击引发了一段高度警惕期。
-* St. Louis, Chicago and Des Moines were among the cities that saw heat indexes hit triple digits on Saturday, with the East Coast bracing for similar conditions by Monday.
-* 圣路易斯、芝加哥和得梅因是周六热指数达到三位数的城市之一，东海岸周一将迎来类似情况。
-* The ruling by the parliamentarian sent G.O.P. lawmakers back to the drawing board to cover the costs of President Trump’s domestic policy bill.
-* 这位议员的裁决让共和党议员重新回到了绘图板上，以支付特朗普总统的国内政策法案的费用。
-* The University of Florida student won an academic honor after he argued in a paper that the Constitution applies only to white people. From there, the situation spiraled.
-* 这位佛罗里达大学的学生在一篇论文中主张宪法仅适用于白人，因此获得了学术荣誉。从那时起，局势急剧恶化。
-* Details about the discussions emerged after President Trump said the two sides, which have been locked in court battles for weeks, might reach a settlement soon.
-* 在特朗普总统表示，双方已经陷入数周的法庭斗争，可能很快就会达成和解之后，有关讨论的细节浮出水面。
+* The department called its social media post “offensive and inappropriate” and said it was investigating how it was published.
+* 该部门称其社交媒体帖子“令人反感且不恰当” ，并表示正在调查其发布方式。
+* In interviews, Trump supporters expressed a range of emotions — anger, wariness and avid support. But the dominant theme? Anxiety about what comes next.
+* 在采访中，特朗普的支持者表达了一系列情绪--愤怒、谨慎和狂热的支持。但占主导地位的主题是什么？对接下来会发生什么感到焦虑。
+* Sean Duffy, once the resident playboy on “The Real World,” is now a father of nine who presents his family as an example for America.
+* 肖恩·达菲（ Sean Duffy ）曾经是《真实世界》（ The Real World ）的居民花花公子，现在是九个孩子的父亲，他将自己的家人作为美国的榜样。
+* The Senate parliamentarian rejected a measure in Republicans’ domestic policy bill that could limit lawsuits seeking to block presidential orders.
+* 这位参议院议员拒绝了共和党国内政策法案中的一项措施，该法案可能会限制试图阻止总统令的诉讼。
+* The order to release Kilmar Armando Abrego Garcia from criminal custody as he awaits trial was a rebuke to the Trump administration. But he is likely to remain in immigration custody.
+* 在Kilmar Armando Abrego Garcia等待审判期间将其从刑事拘留中释放的命令是对特朗普政府的谴责。但他很可能会继续被移民拘留。
+* With his strikes on Iran, President Trump is betting that the United States can repel any retaliation, and that the U.S. has destroyed the regime’s chances of reconstituting Iran’s nuclear program. David Sanger, the White House and national security correspondent for The New York Times, explains the risk.
+* 通过对伊朗的打击，特朗普总统打赌美国可以击退任何报复，并且美国已经摧毁了该政权重建伊朗核计划的机会。白宫和《纽约时报》的国家安全记者大卫·桑格（ David Sanger ）解释了这种风险。
+* When Israel began its assault on Iran, President Trump kept his distance. But within days he was on a path that led to an extensive bombing mission aided by political and military ruses.
+* 当以色列开始攻击伊朗时，特朗普总统保持距离。但几天之内，他就走上了一条道路，在政治和军事诡计的帮助下，导致了广泛的轰炸任务。
+* Both Vice President JD Vance and Rafael Grossi, the head of the International Atomic Energy Agency, acknowledged questions about the whereabouts of Iran’s stockpile of near-bomb-grade nuclear material.
+* 伊朗副总统万斯（ JD Vance ）和国际原子能机构（ IAEA ）负责人拉斐尔·格罗西（ Rafael Grossi ）都承认了有关伊朗近核级核材料库存下落的问题。
+* President Trump avoided asking Congress for permission before striking Iran, despite the Constitution saying only the legislature can declare war.
+* 特朗普总统避免在打击伊朗之前征求国会的许可，尽管宪法规定只有立法机构才能宣战。
+* The Pentagon detailed how stealth bombers flew from Missouri into Iran to bomb three nuclear sites.
+* 五角大楼详细介绍了隐形轰炸机如何从密苏里州飞往伊朗轰炸三个核设施。
 
 ## New York Times Asia News
+* The South Korean writer-director won an Emmy and the attention of the world with his dystopian action drama. As Netflix releases the third and final season, he is happy it’s over.
+* 这位韩国作家兼导演凭借其反乌托邦动作剧赢得了艾美奖和世界关注。随着Netflix发布第三季也是最后一季，他很高兴这一切都结束了。
+* The rhetoric belies a more complicated reality, as Beijing has been one of Tehran’s biggest backers.
+* 这些言论掩盖了一个更复杂的现实，因为北京一直是德黑兰最大的支持者之一。
+* Promised a path to prosperity through hard work and education, China’s working class youths are hitting immovable ceilings.
+* 中国的工人阶级青年承诺通过努力工作和教育走上繁荣之路，他们正在达到不可动摇的天花板。
+* Any disruption to tanker traffic in the Strait of Hormuz would have significant economic effects, especially for Asian nations dependent on oil from the Middle East.
+* 对霍尔木兹海峡油轮运输的任何干扰都将产生重大经济影响，特别是对依赖中东石油的亚洲国家。
+* Plus, a farmer’s fire brigade in Canada.
+* 此外，加拿大的一个农民消防队。
 * Fighting has the potential to disrupt oil markets, but a move by Iran to cut off supply would chiefly hurt China, the biggest buyer of Iranian oil.
 * 战斗有可能扰乱石油市场，但伊朗切断供应的举动将主要伤害伊朗石油的最大买家中国。
 * Amid fears of more dangerous escalation across the Middle East, some leaders condemned the attacks, and others urged restraint.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 印度航空公司首席执行官坎贝尔·威尔逊（ Campbell Wilson ）的视频消息与美国航空公司负责人在几个月前发生致命事故后所说的非常相似。
 * With BTS poised to reunite, “Squid Game” returning and a Broadway show winning awards, the Korean cultural wave keeps on rolling.
 * 随着BTS准备重聚， “鱿鱼游戏”回归，百老汇表演获奖，韩国文化浪潮不断涌动。
-* Suga is the last member of the wildly popular band to complete his national service. After more than two years apart, the challenge is to rekindle the magic.
-* Suga是广受欢迎的乐队中最后一位完成全国服务的成员。相隔两年多之后，挑战是重新点燃魔法。
-* Money-laundering charges against Najib Razak were dropped because of prosecutorial delays, intensifying criticism that he was being treated leniently.
-* 由于起诉拖延，针对纳吉布·拉扎克的洗钱指控被撤销，加剧了对他受到宽大对待的批评。
-* Women are coerced into needless hysterectomies and girls are pushed into child marriages. After a court ruling and a Times investigation, things may be changing.
-* 妇女被迫进行不必要的子宫切除术，女孩被迫童婚。经过法院裁决和《纽约时报》的调查，情况可能会发生变化。
-* China, which depends on Iran for oil and to counter American influence, has a lot to lose from a wider war. But there’s not much it can do about it.
-* 中国依靠伊朗的石油和反击美国的影响力，从更广泛的战争中损失惨重。但它对此无能为力。
-* Confronted with tariffs and scrutiny in the United States and Europe, Chinese consumer brands are betting that they can become household names in Latin America’s biggest economy.
-* 面对美国和欧洲的关税和审查，中国消费品牌押注他们可以成为拉丁美洲最大经济体的家喻户晓的名字。
 
