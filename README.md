@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* U.S. intelligence agencies had long assessed that, faced with the possibility of an attack on its nuclear facilities, Iran would try to move its stockpile.
-* 长期以来，美国情报机构一直认为，面对其核设施遭到袭击的可能性，伊朗将试图转移其库存。
-* The assessment came hours after the country’s supreme leader had downplayed the damage the U.S. strikes had caused.
-* 在该国最高领导人淡化美国罢工造成的损害几小时后，才进行了评估。
-* The capture highlights a core problem in the agreement: The more territory Moscow grabs, the fewer resources Kyiv can offer to Washington.
-* 捕获行动凸显了协议中的一个核心问题：莫斯科攫取的领土越多，基辅可以向华盛顿提供的资源就越少。
-* A family of five Ukrainians was killed by an Iranian missile strike in Israel, in a tragic intersection of two wars.
-* 在两场战争的悲惨交叉路口，一个由五名乌克兰人组成的家庭在以色列的伊朗导弹袭击中丧生。
-* Hundreds of Palestinians have been killed over the past month near aid hubs set up under a new Israel-backed system, according to Gaza health officials.
-* 据加沙卫生官员称，过去一个月，数百名巴勒斯坦人在以色列支持的新系统下建立的援助中心附近被杀。
-* The Israel-backed Gaza Humanitarian Foundation has been criticized by the United Nations and other aid groups, which say that its system exposes Gazans to danger.
-* 以色列支持的加沙人道主义基金会受到联合国和其他援助团体的批评，他们说其系统使加沙人面临危险。
-* Takahiro Shiraishi was put to death on Friday, eight years after body parts were found in coolers at his home outside Tokyo. It was Japan’s first execution in years.
-* 白石隆弘（ Takahiro Shiraishi ）在东京郊外家中的冷却器中发现身体部位八年后，于周五被处死。这是日本多年来首次执行死刑。
-* Researchers spent years quietly studying a stone carved with 255 runes and the image of a boat found in northern Ontario. Now, revealing the stone’s existence, they’re asking the public for help.
-* 研究人员花了数年时间悄悄研究一块刻有255个符文的石头，以及在安大略省北部发现的一艘船的形象。现在，他们揭露了这块石头的存在，向公众寻求帮助。
-* Susan Namangale fell in love with the game at age 9 in her small village, and she’s now on a mission to deliver a message to the whole country: Chess is good for everyone.
-* 苏珊·纳曼加尔（ Susan Namangale ） 9岁时在她的小村庄爱上了这款游戏，她现在的任务是向整个国家传达一个信息：国际象棋对每个人都有好处。
-* As A-listers gather in Venice to celebrate the union of Jeff Bezos and Lauren Sánchez, the couple is following a familiar playbook of how to control the message.
-* 当一线明星聚集在威尼斯庆祝杰夫·贝索斯（ Jeff Bezos ）和劳伦·桑切斯（ Lauren Sánchez ）的结合时，这对夫妇正在遵循一本熟悉的如何控制信息的剧本。
+* For some survivors, he was a hero. Others who reported abuse said he failed them.
+* 对于一些幸存者来说，他是一个英雄。其他报告虐待行为的人说，他让他们失望了。
+* Prime Minister Viktor Orban’s party enacted the ban, trying to create a dilemma for the opposition leader. Now it is the government that faces a tough choice.
+* 总理维克多·奥尔班（ Viktor Orban ）的政党颁布了禁令，试图给反对派领导人制造困境。现在，政府面临着一个艰难的选择。
+* Iranian authorities are sweeping up hundreds of people deemed suspected spies or infiltrators. Some worry the campaign could become a broader crackdown on political opponents and minorities.
+* 伊朗当局正在扫荡数百名被怀疑为间谍或渗透者的人。一些人担心，这场运动可能会成为对政治对手和少数族裔的更广泛镇压。
+* The American fast-food giant plans to open about 10 new restaurants in Ukraine this year, a testament to the country’s rebounding economy and its enduring love of Big Macs.
+* 这家美国快餐巨头计划今年在乌克兰开设约10家新餐厅，这证明了该国经济的复苏及其对巨无霸的持久热爱。
+* The University of Toronto has attracted several U.S. professors amid turmoil between American higher-education institutions and the Trump administration.
+* 在美国高等教育机构和特朗普政府之间的动荡中，多伦多大学吸引了几位美国教授。
+* Nearly half the citizens of the tiny Pacific Island nation have already applied in a lottery for Australian visas amid an existential threat from global warming and sea-level rise.
+* 在全球变暖和海平面上升的生存威胁下，这个太平洋小岛国近一半的公民已经申请了澳大利亚签证的彩票。
+* The genre known as Boys’ Love, stories written mostly by and for straight women, has been in the authorities’ sights for years.
+* 被称为“男孩的爱”的流派，主要由异性恋女性撰写和为异性恋女性撰写的故事，多年来一直受到当局的关注。
+* A United Nations report found a rise in users, confiscation and deaths as cocaine trafficking expands into Africa and Asia, and violence spreads into Europe.
+* 联合国的一份报告发现，随着可卡因贩运扩展到非洲和亚洲，暴力蔓延到欧洲，吸毒者、没收和死亡人数都有所增加。
+* As a bishop in Peru, Pope Leo XIV’s handling of two abuse cases was a study in contrasts, siding strongly with victims in one and accused of failing them in the other.
+* 作为秘鲁的一名主教，教皇利奥十四世处理了两起虐待案件，这是一项对比鲜明的研究，在一起案件中强烈支持受害者，而在另一起案件中被指控失败。
+* The capture highlights a core problem in the agreement. The more territory Moscow grabs, the fewer resources Kyiv can offer to Washington.
+* 捕获突出了协议中的一个核心问题。莫斯科占领的领土越多，基辅可以提供给华盛顿的资源就越少。
 
 ## New York Times United States News
-* The 9-year-old from Vietnam was abused by her mother for customers watching on smartphone apps in the U.S. and elsewhere. The mother said she needed the money.
-* 这位来自越南的9岁女孩被她的母亲虐待，因为她在美国和其他地方的客户在智能手机应用程序上观看。母亲说她需要钱。
-* The preservative thimerosal started Robert F. Kennedy Jr. down the path of questioning vaccine safety. A panel of experts he appointed will no longer recommend annual flu shots that contain it.
-* 防腐剂硫柳汞使小罗伯特·肯尼迪走上了质疑疫苗安全性的道路。他任命的一个专家小组将不再推荐含有该疾病的年度流感疫苗。
-* As federal immigration sweeps have prompted protests across the nation, the border is eerily quiet, as would-be migrants stay away and undocumented workers hide at home.
-* 由于联邦移民扫荡引发了全国各地的抗议活动，边境异常安静，因为潜在的移民远离，无证工人躲在家里。
-* Party lawmakers have devised a way around an earlier procedural roadblock to their safety-net cuts.
-* 党派立法者已经设计了一种方法来绕过早期的安全网削减程序障碍。
-* The subpoena letter adds yet another front to the battle between the university and Republicans in Washington.
-* 这封传票为华盛顿大学和共和党人之间的战斗增添了另一条战线。
-* The responses to Zohran Mamdani’s showing in the New York City mayoral primary were the latest examples of how some G.O.P. lawmakers have grown more overt in using bigoted language and tropes.
-* 对Zohran Mamdani在纽约市长初选中的表现的回应是一些共和党立法者如何在使用偏执的语言和比喻方面变得更加公开的最新例子。
-* The death of Johnny Noviello, 49, came as ICE agents have made sweeping arrests across the United States as part of President Trump’s crackdown on immigration. The cause is under investigation.
-* 49岁的约翰尼·诺维洛（ Johnny Noviello ）去世之际， ICE特工在美国各地进行了大规模逮捕，这是特朗普总统打击移民的一部分。事故原因正在调查中。
-* U.S. intelligence agencies had long assessed that, faced with the possibility of an attack on its nuclear facilities, Iran would try to move its stockpile.
-* 长期以来，美国情报机构一直认为，面对其核设施遭到袭击的可能性，伊朗将试图转移其库存。
-* In 2004, explorers began a search for a plane that crashed into Lake Michigan in 1950, killing 58 people. They didn’t find it, but they revived the history of what once was the country’s deadliest aviation accident.
-* 2004年，探险家开始寻找一架于1950年坠入密歇根湖的飞机，造成58人死亡。他们没有找到它，但他们恢复了曾经是该国最致命的航空事故的历史。
-* Seven of the victims were from Triadelphia, a town of about 900 people, in the northern panhandle of West Virginia.
-* 七名遇难者来自西弗吉尼亚州北部狭长地带的Triadelphia ，这是一个约900人的小镇。
+* The court tied the hands of judges at a time when Congress has been cowed and internal executive branch constraints have been steamrolled.
+* 在国会已经畏缩，内部行政部门的限制已经被压制时，法院束缚了法官的手脚。
+* The Supreme Court has set a new, higher bar for judges seeking to block Trump administration policies nationwide. But some legal routes remain open.
+* 最高法院为寻求在全国范围内阻止特朗普政府政策的法官设定了一个新的更高的标准。但一些法律途径仍然开放。
+* Ten years after their Supreme Court win, some veterans of the marriage equality battles see a shared struggle for transgender rights.
+* 在最高法院获胜十年后，一些婚姻平等斗争的退伍军人看到了跨性别权利的共同斗争。
+* Mass immigration arrests have led to overcrowding in detention facilities, with reports of unsanitary and inhumane conditions.
+* 大规模移民逮捕导致拘留设施过度拥挤，有报告称拘留条件不卫生和不人道。
+* Attacks, such as an assassination in Minnesota, are on the rise. Their motives are often hard to parse.
+* 明尼苏达州的暗杀事件等袭击事件正在增加。他们的动机往往很难解析。
+* Using truncated procedures, the six-justice conservative majority gave a green light to many of the president’s most assertive initiatives.
+* 使用截断程序，六位大法官的保守派多数为总统的许多最自信的举措开了绿灯。
+* In their fund-raising appeals, some schools are citing the vast sums in federal funding that they stand to lose. Others appear to be keeping mum to avoid angering the White House.
+* 在他们的筹款呼吁中，一些学校引用了他们将失去的大量联邦资金。其他人似乎保持沉默，以避免激怒白宫。
+* The move continues the administration’s campaign of revoking special protections for migrants from some of the most unstable places in the world.
+* 此举延续了政府取消对来自世界上一些最不稳定地区的移民的特殊保护的运动。
+* Gov. Gavin Newsom of California signed a budget bill on Friday that depends in part on rolling back those benefits to help close a $12 billion deficit.
+* 加利福尼亚州州长加文·纽瑟姆（ Gavin Newsom ）周五签署了一项预算法案，该法案部分取决于回滚这些福利，以帮助弥补120亿美元的赤字。
+* The errors in the layoff notices could have derailed President Trump’s effort to dismantle the news organization. The administration said it would attempt the layoffs again.
+* 裁员通知中的错误可能会破坏特朗普总统解散新闻机构的努力。政府表示将再次尝试裁员。
 
 ## New York Times Asia News
+* The genre known as Boys’ Love, stories written mostly by and for straight women, has been in the authorities’ sights for years.
+* 被称为“男孩的爱”的流派，主要由异性恋女性撰写和为异性恋女性撰写的故事，多年来一直受到当局的关注。
+* The deal involves loosening exports of rare earths to the United States and the lifting of some restrictions on U.S. goods to China, China’s Ministry of Commerce said.
+* 中国商务部表示，该协议涉及放松对美国的稀土出口，并取消对美国商品对中国的一些限制。
 * Takahiro Shiraishi was put to death on Friday, eight years after body parts were found in coolers at his home outside Tokyo. It was Japan’s first execution in years.
 * 白石隆弘（ Takahiro Shiraishi ）在东京郊外家中的冷却器中发现身体部位八年后，于周五被处死。这是日本多年来首次执行死刑。
 * After rapid growth, Thailand is the biggest overseas supplier of pet food in the United States. Volatility in policy has some importers looking elsewhere.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 美国在液化天然气方面发挥的主导作用可以追溯到1969年开始向日本运送燃料的一个小型阿拉斯加前哨基地。
 * Nikiski in southern Alaska is waiting to see if backing from President Trump and a new developer will advance a decades-old initiative to export natural gas.
 * 阿拉斯加南部的尼基斯基正在等待，看看特朗普总统和一家新开发商的支持是否会推动一项已有数十年历史的天然气出口计划。
-* Plus, the importance of baby talk.
-* 此外，婴儿谈话的重要性。
-* The move, one official said, would help the country extradite suspects from abroad. It would also spare the life of a recently convicted tycoon.
-* 一名官员表示，此举将有助于该国从国外引渡嫌疑人。它还将挽救最近被定罪的大亨的生命。
 
