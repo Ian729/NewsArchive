@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* The Emirati vice president is best known as the owner of a top English soccer team. Behind the scenes, he has been described as the “handler” guiding his country’s secret foreign wars.
+* 阿联酋副总统以英格兰顶级足球队的老板而闻名。在幕后，他被描述为指导他国家秘密对外战争的“处理者”。
+* The Catholic Church’s effort to win young followers relies in part on influencers, D.J.s and two Brazilian nuns with plenty of rhythm.
+* 天主教会赢得年轻追随者的努力部分依赖于有影响力的人， DJ和两位有着丰富节奏的巴西修女。
+* The Islamic Republic limps on after the 12-day conflict. Where will the nation go from here?
+* 在为期12天的冲突之后，伊朗伊斯兰共和国一瘸一拐这个国家将从这里走向何方？
+* After a Nicaraguan human rights activist who had fled to Costa Rica was killed, concern has grown that the Ortega government may be targeting its enemies abroad.
+* 一名逃往哥斯达黎加的尼加拉瓜人权活动人士被杀后，人们越来越担心奥尔特加政府可能会瞄准国外的敌人。
+* The Netflix hit has left a lasting legacy as a major cultural export, but also one that exposed some unsettling aspects of Korean society.
+* Netflix的热门作为主要的文化输出留下了持久的遗产，但也暴露了韩国社会的一些令人不安的方面。
+* The European Union has not gone as far as President Trump in cracking down on immigration, but its shift is already profound.
+* 欧盟在打击移民方面还没有特朗普总统走得那么远，但它的转变已经很深刻了。
 * For some survivors, he was a hero. Others who reported abuse said he failed them.
 * 对于一些幸存者来说，他是一个英雄。其他报告虐待行为的人说，他让他们失望了。
-* Prime Minister Viktor Orban’s party enacted the ban, trying to create a dilemma for the opposition leader. Now it is the government that faces a tough choice.
-* 总理维克多·奥尔班（ Viktor Orban ）的政党颁布了禁令，试图给反对派领导人制造困境。现在，政府面临着一个艰难的选择。
-* Iranian authorities are sweeping up hundreds of people deemed suspected spies or infiltrators. Some worry the campaign could become a broader crackdown on political opponents and minorities.
-* 伊朗当局正在扫荡数百名被怀疑为间谍或渗透者的人。一些人担心，这场运动可能会成为对政治对手和少数族裔的更广泛镇压。
-* The American fast-food giant plans to open about 10 new restaurants in Ukraine this year, a testament to the country’s rebounding economy and its enduring love of Big Macs.
-* 这家美国快餐巨头计划今年在乌克兰开设约10家新餐厅，这证明了该国经济的复苏及其对巨无霸的持久热爱。
+* Prime Minister Viktor Orban’s party enacted the ban, but Budapest’s mayor allowed the event to go on. The police sat on the sidelines.
+* 总理维克多·奥尔班（ Viktor Orban ）的政党颁布了禁令，但布达佩斯市长允许该活动继续进行。警察坐在场边。
 * The University of Toronto has attracted several U.S. professors amid turmoil between American higher-education institutions and the Trump administration.
 * 在美国高等教育机构和特朗普政府之间的动荡中，多伦多大学吸引了几位美国教授。
-* Nearly half the citizens of the tiny Pacific Island nation have already applied in a lottery for Australian visas amid an existential threat from global warming and sea-level rise.
-* 在全球变暖和海平面上升的生存威胁下，这个太平洋小岛国近一半的公民已经申请了澳大利亚签证的彩票。
-* The genre known as Boys’ Love, stories written mostly by and for straight women, has been in the authorities’ sights for years.
-* 被称为“男孩的爱”的流派，主要由异性恋女性撰写和为异性恋女性撰写的故事，多年来一直受到当局的关注。
-* A United Nations report found a rise in users, confiscation and deaths as cocaine trafficking expands into Africa and Asia, and violence spreads into Europe.
-* 联合国的一份报告发现，随着可卡因贩运扩展到非洲和亚洲，暴力蔓延到欧洲，吸毒者、没收和死亡人数都有所增加。
-* As a bishop in Peru, Pope Leo XIV’s handling of two abuse cases was a study in contrasts, siding strongly with victims in one and accused of failing them in the other.
-* 作为秘鲁的一名主教，教皇利奥十四世处理了两起虐待案件，这是一项对比鲜明的研究，在一起案件中强烈支持受害者，而在另一起案件中被指控失败。
-* The capture highlights a core problem in the agreement. The more territory Moscow grabs, the fewer resources Kyiv can offer to Washington.
-* 捕获突出了协议中的一个核心问题。莫斯科占领的领土越多，基辅可以提供给华盛顿的资源就越少。
+* The over-the-top party in the photogenic Italian city mixed Hollywood, Silicon Valley and political overtones.
+* 这座上镜的意大利城市的顶级派对融合了好莱坞、硅谷和政治色彩。
 
 ## New York Times United States News
-* The court tied the hands of judges at a time when Congress has been cowed and internal executive branch constraints have been steamrolled.
-* 在国会已经畏缩，内部行政部门的限制已经被压制时，法院束缚了法官的手脚。
-* The Supreme Court has set a new, higher bar for judges seeking to block Trump administration policies nationwide. But some legal routes remain open.
-* 最高法院为寻求在全国范围内阻止特朗普政府政策的法官设定了一个新的更高的标准。但一些法律途径仍然开放。
-* Ten years after their Supreme Court win, some veterans of the marriage equality battles see a shared struggle for transgender rights.
-* 在最高法院获胜十年后，一些婚姻平等斗争的退伍军人看到了跨性别权利的共同斗争。
-* Mass immigration arrests have led to overcrowding in detention facilities, with reports of unsanitary and inhumane conditions.
-* 大规模移民逮捕导致拘留设施过度拥挤，有报告称拘留条件不卫生和不人道。
-* Attacks, such as an assassination in Minnesota, are on the rise. Their motives are often hard to parse.
-* 明尼苏达州的暗杀事件等袭击事件正在增加。他们的动机往往很难解析。
-* Using truncated procedures, the six-justice conservative majority gave a green light to many of the president’s most assertive initiatives.
-* 使用截断程序，六位大法官的保守派多数为总统的许多最自信的举措开了绿灯。
-* In their fund-raising appeals, some schools are citing the vast sums in federal funding that they stand to lose. Others appear to be keeping mum to avoid angering the White House.
-* 在他们的筹款呼吁中，一些学校引用了他们将失去的大量联邦资金。其他人似乎保持沉默，以避免激怒白宫。
-* The move continues the administration’s campaign of revoking special protections for migrants from some of the most unstable places in the world.
-* 此举延续了政府取消对来自世界上一些最不稳定地区的移民的特殊保护的运动。
-* Gov. Gavin Newsom of California signed a budget bill on Friday that depends in part on rolling back those benefits to help close a $12 billion deficit.
-* 加利福尼亚州州长加文·纽瑟姆（ Gavin Newsom ）周五签署了一项预算法案，该法案部分取决于回滚这些福利，以帮助弥补120亿美元的赤字。
-* The errors in the layoff notices could have derailed President Trump’s effort to dismantle the news organization. The administration said it would attempt the layoffs again.
-* 裁员通知中的错误可能会破坏特朗普总统解散新闻机构的努力。政府表示将再次尝试裁员。
+* For more than a century, baseball teams in Fairbanks have played at midnight on the summer solstice, illuminated only by the sun.
+* 一个多世纪以来，费尔班克斯的棒球队在夏至的午夜比赛，只有阳光照亮。
+* Leading prelates are expressing outrage at the drive toward mass deportation.
+* 主要的主教们对大规模驱逐出境的行动表示愤慨。
+* Facing a court system that often saw gay parents as unfit, Georgette DuBois stole her daughter, Kara, from her estranged husband. She called it a miracle, but it didn’t feel like one to Kara.
+* 面对经常认为同性恋父母不合适的法院系统，乔琪·杜波依斯（ Georgette DuBois ）从她疏远的丈夫那里偷走了她的女儿卡拉（ Kara ）。她称之为奇迹，但对卡拉来说，感觉不像是奇迹。
+* Weeks after ending his war of words with President Trump, Elon Musk called the president’s bill “utterly insane and destructive.”
+* 在结束与特朗普总统的口水战几周后，埃隆·马斯克（ Elon Musk ）称总统的法案“完全疯狂且具有破坏性”。
+* She founded Save a Fox Rescue to care for foxes that had been abandoned or bred for their pelts on fur farms. She gained millions of social media followers along the way.
+* 她创立了拯救狐狸救援组织（ Save a Fox Rescue ） ，以照顾在毛皮农场被遗弃或饲养的狐狸。在此过程中，她获得了数百万社交媒体粉丝。
+* Melissa Hortman was eulogized by Gov. Tim Walz as a compassionate leader in a service that former President Biden and former Vice President Harris also attended.
+* 州长蒂姆·瓦尔兹（ Tim Walz ）称赞梅丽莎·霍特曼（ Melissa Hortman ）是一位富有同情心的领导者，前总统拜登和前副总统哈里斯也参加了这项服务。
+* His liberal politics, inspired by the safety nets of the New Deal, were shaped in working-class mining country.
+* 他的自由主义政治受到新政安全网的启发，是在工人阶级矿业国家形成的。
+* New provisions that benefit whaling captains and rural hospitals appear to be aimed at winning over Senator Lisa Murkowski, the Alaska Republican who had said the bill would hurt her state.
+* 有利于捕鲸船长和农村医院的新规定似乎旨在赢得阿拉斯加共和党参议员丽莎·穆尔科夫斯基（ Lisa Murkowski ）的支持，后者曾表示该法案将伤害她的州。
+* At a conference with federal judges, the chief justice did not mention the court’s decision sharply limiting their power, focusing instead on the danger of threats to the judiciary.
+* 在与联邦法官的会议上，首席大法官没有提到法院的决定严格限制他们的权力，而是关注司法机构受到威胁的危险。
+* Economists have estimated that previous versions of the bill could add trillions to the national debt, but many haven’t had the chance to review the latest Senate version.
+* 经济学家估计，该法案的先前版本可能会使国债增加数万亿美元，但许多人还没有机会审查最新的参议院版本。
 
 ## New York Times Asia News
+* The Netflix hit has left a lasting legacy as a major cultural export, but also one that exposed some unsettling aspects of Korean society.
+* Netflix的热门作为主要的文化输出留下了持久的遗产，但也暴露了韩国社会的一些令人不安的方面。
+* The political turmoil set off by a leaked phone conversation shows no sign of easing, in a country where demonstrations have helped oust governments before.
+* 在一个示威活动曾帮助推翻政府的国家，泄露的电话通话引发的政治动荡没有缓解的迹象。
 * The genre known as Boys’ Love, stories written mostly by and for straight women, has been in the authorities’ sights for years.
 * 被称为“男孩的爱”的流派，主要由异性恋女性撰写和为异性恋女性撰写的故事，多年来一直受到当局的关注。
 * The deal involves loosening exports of rare earths to the United States and the lifting of some restrictions on U.S. goods to China, China’s Ministry of Commerce said.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 大卫·韦伯（ David Webb ）花了数十年的时间来揭露可疑的金融交易。但医生说他还有几个月的生命，他还没有找到愿意继续执行任务的人。
 * By attacking Iran, President Trump has shown he is willing to engage in a distant war. This raises questions in Beijing about what he might risk for Taiwan.
 * 通过攻击伊朗，特朗普总统表明他愿意参与一场遥远的战争。这在北京引发了一个问题，即他可能会给台湾带来什么风险。
-* The leading role the United States plays in liquefied natural gas traces its roots to a small Alaskan outpost that began shipping the fuel to Japan in 1969.
-* 美国在液化天然气方面发挥的主导作用可以追溯到1969年开始向日本运送燃料的一个小型阿拉斯加前哨基地。
-* Nikiski in southern Alaska is waiting to see if backing from President Trump and a new developer will advance a decades-old initiative to export natural gas.
-* 阿拉斯加南部的尼基斯基正在等待，看看特朗普总统和一家新开发商的支持是否会推动一项已有数十年历史的天然气出口计划。
 
