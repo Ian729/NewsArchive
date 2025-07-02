@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* It’s 40 degrees Celsius (104 Fahrenheit), and it’s only 10 a.m. Welcome to Sri Ganganagar.
-* 气温为40摄氏度（ 104华氏度） ，仅上午10点欢迎来到Sri Ganganagar。
-* Health warnings were issued to tens of millions of Europeans as temperatures climbed well above 100 degrees Fahrenheit, or more than 40 degrees Celsius.
-* 当气温远高于100华氏度或超过40摄氏度时，向数千万欧洲人发出了健康警告。
+* The violence last week in Kafr Malik, in the West Bank, comes amid a surge in assaults by Israeli settlers. It also set off a chain of violence in the area.
+* 上周在约旦河西岸的Kafr Malik发生的暴力事件发生之际，以色列定居者的袭击事件激增。它还在该地区引发了一系列暴力事件。
+* Weather agencies have issued alerts warning of a third day of high temperatures that in some places have climbed well above 100 degrees Fahrenheit, or more than 40 degrees Celsius.
+* 气象机构发布了高温第三天的警报，在某些地方，高温已经远远超过100华氏度，或超过40摄氏度。
+* The aging Tibetan spiritual leader is looking to prevent Beijing from taking advantage of a power vacuum that might arise after his death.
+* 这位年迈的西藏精神领袖正在寻求阻止北京利用他去世后可能出现的权力真空。
+* The Tibetan spiritual leader may announce a succession plan intended to thwart Chinese interference.
+* 西藏精神领袖可能会宣布一项旨在挫败中国干涉的继任计划。
+* Through an event shown on North Korean state television, Mr. Kim also highlighted the sacrifices made for Moscow and the rewards he seeks.
+* 在朝鲜国家电视台播出的一场活动中，金正恩还强调了为莫斯科做出的牺牲以及他所寻求的回报。
 * Paetongtarn Shinawatra is accused of ethical lapses in a conversation with the Cambodian leader Hun Sen and has faced calls to resign.
 * Paetongtarn Shinawatra在与柬埔寨领导人洪森的谈话中被指控道德失误，并面临辞职的呼吁。
-* The Sinaloa Cartel, the world’s most-feared fentanyl trafficker, is reeling from an internal war and a U.S.-Mexican crackdown. Its fate could upend global criminal networks.
-* 锡那罗亚卡特尔是世界上最令人恐惧的芬太尼贩运者，因内战和美墨镇压而陷入困境。它的命运可能会颠覆全球犯罪网络。
-* The fall of the Syrian dictator Bashar al-Assad has opened a window for wealthy Gulf countries to expand their influence as the sway of Iran diminishes.
-* 随着伊朗的影响力减弱，叙利亚独裁者巴沙尔·阿萨德（ Bashar al-Assad ）的倒台为富裕的海湾国家扩大影响力打开了一扇窗户。
-* Hard-right activists clashed with troops and set fire to a security site following a growing wave of attacks on Palestinians in the occupied territory.
-* 在被占领土上对巴勒斯坦人的袭击浪潮日益加剧后，极右翼活动人士与部队发生冲突，并放火焚烧了一个安全地点。
-* The burial site of Edgar Lungu, Zambia’s former president, has become the latest conflict in a relationship marred by hostility
-* 赞比亚前总统埃德加·伦古（ Edgar Lungu ）的墓地已成为一段充满敌意的关系中的最新冲突
-* China has become trendy for Russians who once worshiped everything Western. Young people are learning Mandarin, and Chinese culture and goods have become ubiquitous in Moscow.
-* 对于曾经崇拜西方一切的俄罗斯人来说，中国已经成为时尚。年轻人正在学习普通话，中国文化和商品在莫斯科无处不在。
-* Amid competing assessments of how badly the enrichment facility was damaged in U.S. strikes, Iran appears to be making its own inspection.
-* 在对美国罢工中铀浓缩设施损坏程度的竞争性评估中，伊朗似乎正在进行自己的检查。
-* The restaurant, a destination for Palestinians seeking a respite or internet access, was reduced to a mere shell by the blast.
-* 这家餐厅是巴勒斯坦人寻求喘息或上网的目的地，在爆炸中被夷为平地。
+* It’s 40 degrees Celsius (104 Fahrenheit), and it’s only 10 a.m. Welcome to Sri Ganganagar.
+* 气温为40摄氏度（ 104华氏度） ，仅上午10点欢迎来到Sri Ganganagar。
+* Towns and troops long accustomed to merciless bombardment are adjusting to an even denser pattern of attacks.
+* 长期以来习惯于无情轰炸的城镇和军队正在适应更密集的攻击模式。
+* Timur Ivanov, a longtime deputy defense minister, was sentenced to 13 years in a penal colony, according to the Russian state news agency Tass.
+* 据俄罗斯国家通讯社塔斯社报道，长期担任国防部副部长的Timur Ivanov被判处13年徒刑。
+* It was the two leaders’ first call since 2022, and the Russian president’s first with any major European leader since last year.
+* 这是两位领导人自2022年以来的首次通话，也是俄罗斯总统自去年以来与欧洲主要领导人的首次通话。
 
 ## New York Times United States News
-* Republican leaders were pushing for a final vote to pass their marquee tax cut and domestic policy legislation, but had yet to resolve major issues after an all-night session of voting and negotiations.
-* 共和党领导人正在推动最终投票，以通过他们的大幅减税和国内政策立法，但在经过通宵投票和谈判后，尚未解决重大问题。
-* After losing to Ted Cruz last year, Mr. Allred is planning his second statewide run and looking for a stronger political climate for Democrats.
-* 在去年输给特德·克鲁兹（ Ted Cruz ）之后，奥尔雷德正在计划他的第二次全州竞选，并为民主党人寻找更强大的政治环境。
-* A popular former Democratic governor, Roy Cooper, is expected to announce a bid this summer. The Republicans are banking on an endorsement by President Trump to clear their field.
-* 受欢迎的前民主党州长罗伊·库珀(Roy Cooper)预计将在今年夏天宣布竞标。共和党人希望得到特朗普总统的支持，以清理他们的领域。
-* Gov. Gavin Newsom and state lawmakers scaled back a law that was vilified for its role in California’s housing shortage and homelessness crisis.
-* 加州州长加文·纽森（ Gavin Newsom ）和州议员缩减了一项因其在加州住房短缺和无家可归危机中的作用而受到诽谤的法律。
-* The billionaire and former Trump adviser suggested that if the domestic policy bill passed, he would swiftly form a new “America Party” and back primary challenges to Republicans.
-* 这位亿万富翁和前特朗普顾问表示，如果国内政策法案获得通过，他将迅速组建一个新的“美国党” ，并支持共和党人面临的主要挑战。
-* Two ex-presidents and a rock star thanked the outgoing workers of a doomed agency.
-* 两位前总统和一位摇滚明星感谢一个注定要失败的机构的离职工人。
-* Bryan Kohberger, a former criminology student, is charged in the stabbing deaths of four University of Idaho students. Prosecutors said they had reached a plea agreement that avoids the death penalty.
-* 前犯罪学学生Bryan Kohberger被控刺死四名爱达荷大学学生。检察官表示，他们已经达成了一项避免死刑的认罪协议。
-* Feeling out of step with President Trump’s G.O.P., Senator Thom Tillis and Representative Don Bacon are deciding to retire.
-* 参议员汤姆·蒂利斯（ Thom Tillis ）和众议员唐·培根（ Don Bacon ）与特朗普总统的共和党不同步，决定退休。
-* The New York Times Supreme Court reporter Adam Liptak recaps this Supreme Court term, which was defined by a disproportionate amount of emergency docket cases. Liptak explains why these cases tended to go in the Trump administration’s favor.
-* 《纽约时报》最高法院记者亚当·利普塔克（ Adam Liptak ）回顾了这个最高法院术语，该术语被定义为不成比例的紧急案件。Liptak解释了为什么这些案件往往对特朗普政府有利。
-* Two of the three fires in Riverside County were only 30 percent contained. An evacuation order affecting about 5,000 residents was lifted on Monday night.
-* 河滨县的三起火灾中有两起仅控制了30 ％。周一晚上，一项影响约5000名居民的疏散令被解除。
+* But the benefits of the deduction, estimated to cost $31 billion over four years, may be limited to a narrow slice of consumers, economists say.
+* 但经济学家表示，这项扣除的好处估计将在四年内耗资310亿美元，可能仅限于一小部分消费者。
+* After two and a half years of legal wrangling, prosecutors and lawyers for the defendant, Bryan Kohberger, reached a deal just weeks before his trial was set to begin.
+* 经过两年半的法律纠纷，被告Bryan Kohberger的检察官和律师在审判开始前几周达成了一项协议。
+* The nation’s largest abortion provider must stop offering it in some states or risk losing millions in Medicaid funding to provide basic health care for low-income Americans.
+* 美国最大的堕胎提供者必须停止在某些州提供堕胎服务，否则将面临失去数百万美元医疗补助资金的风险，为低收入美国人提供基本医疗保健。
+* Bryan Kohberger, now 30, was charged in the 2022 murders that shook the University of Idaho. In exchange, he would avoid a possible death penalty.
+* 现年30岁的布莱恩·科伯格（ Bryan Kohberger ）被指控犯有2022年震惊爱达荷大学的谋杀案。作为交换，他将避免可能的死刑。
+* A recent Supreme Court ruling could allow President Trump’s order ending birthright citizenship to go into effect in some states. Abbie VanSickle, a reporter covering the United States Supreme Court for The New York Times, explains how the decision also upends the power of federal judges to freeze policies for the entire country.
+* 最高法院最近的一项裁决可能允许特朗普总统终止出生公民权的命令在一些州生效。《纽约时报》报道美国最高法院的记者Abbie VanSickle解释说，这一决定也颠覆了联邦法官冻结整个国家政策的权力。
+* Contrary to the president’s assertions, records filed in a fraud case against him suggest that his riches were not the product of a steady and strong empire.
+* 与总统的说法相反，在针对他的欺诈案中提交的记录表明，他的财富不是一个稳定而强大的帝国的产物。
+* Hundreds of flights to Washington were canceled because of severe weather, forcing some members of the House to set off on hourslong drives to the Capitol.
+* 由于恶劣天气，数百个飞往华盛顿的航班被取消，迫使一些众议院议员开车数小时前往国会大厦。
+* President Trump has issued no new restrictions on Russia this year, in effect allowing Moscow to acquire the money and materials it needs in its conflict with Ukraine.
+* 特朗普总统今年没有对俄罗斯发布新的限制，实际上允许莫斯科获得其在与乌克兰冲突中所需的资金和材料。
+* The White House cited Pentagon concerns that some American arms stockpiles were dwindling too low. Among the affected weapons were air defense systems, bombs, missiles and artillery rounds.
+* 白宫表示，五角大楼担心美国的一些武器库存过低。受影响的武器包括防空系统、炸弹、导弹和炮弹。
+* After scaling back a landmark environmental law, Gov. Gavin Newsom and other state leaders are hoping for a construction boom.
+* 在缩减了具有里程碑意义的环境法之后，州长加文·纽瑟姆（ Gavin Newsom ）和其他州领导人希望能够实现建筑业的繁荣。
 
 ## New York Times Asia News
+* More than 800 tremors have shaken the southwestern Tokara Islands over the past 11 days, including a 5.6-magnitude quake on Wednesday.
+* 在过去的11天里， 800多次地震震动了托卡拉群岛西南部，其中包括周三发生的5.6级地震。
+* Through an event shown on North Korean state television, Mr. Kim also highlighted the sacrifices made for Moscow and the rewards he seeks.
+* 在朝鲜国家电视台播出的一场活动中，金正恩还强调了为莫斯科做出的牺牲以及他所寻求的回报。
+* The Tibetan spiritual leader said that his lineage would continue, and that China would have no say about his successor.
+* 这位西藏精神领袖说，他的血统将继续下去，中国对他的继任者没有发言权。
+* The aging Tibetan spiritual leader is looking to prevent Beijing from taking advantage of a power vacuum that might arise after his death.
+* 这位年迈的西藏精神领袖正在寻求阻止北京利用他去世后可能出现的权力真空。
+* Plus, a new way to see Cézanne.
+* 此外，还有一种欣赏塞尚的新方式。
+* It was not immediately clear what led to the blast at a factory near Hyderabad, but officials said initial clues suggested a pressure buildup in a dryer system.
+* 目前尚不清楚是什么导致了海得拉巴附近一家工厂的爆炸，但官员们表示，最初的线索表明干燥机系统中存在压力积聚。
 * Airlines and governments around the world have tightened restrictions on the devices after a series of accidents. The ban in China has caught some travelers off guard.
 * 在一系列事故发生后，世界各地的航空公司和政府都收紧了对这些设备的限制。中国的禁令让一些旅行者措手不及。
 * Unmanned aerial vehicles are playing an increasing role in transporting supplies, and even people.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * Paetongtarn Shinawatra在与柬埔寨领导人洪森的谈话中被指控道德失误，并面临辞职的呼吁。
 * It’s 40 degrees Celsius (104 Fahrenheit), and it’s only 10 a.m. Welcome to Sri Ganganagar.
 * 气温为40摄氏度（ 104华氏度） ，仅上午10点欢迎来到Sri Ganganagar。
-* Plus, Hong Kong protesters are still paying.
-* 此外，香港抗议者仍在付费。
-* An uproar over a shoe that resembles leather footwear worn by many Indians shows a growing sense that the country should be recognized for its products that collect fame internationally.
-* 一只类似于许多印度人穿的皮鞋的鞋子引起了轩然大波，这表明越来越多的人认为，这个国家应该因其产品在国际上声名鹊起而得到认可。
-* Whether caused by a long war or brief skirmish, the closing of skies to air travel is having big effects on cost, convenience and safety.
-* 无论是由长期战争还是短暂的冲突造成的，天空对空中旅行的封闭对成本、便利和安全产生了重大影响。
-* Lai Ching-te is ramping up his warnings about China’s threat to Taiwan. Critics say he is stoking divisions, and risking blowback from Beijing.
-* Lai Ching-te正在加强对中国对台湾威胁的警告。批评人士称，他正在煽动分裂，并冒着来自北京的反弹的风险。
-* The experience of a company in the textile business illustrates how the trade war could force some industries to shift production out of the United States.
-* 一家纺织企业的经验表明，贸易战可能迫使一些行业将生产转移出美国。
-* India is carving out a new space for Foxconn and other high-end manufacturers, just as President Trump demands American companies do at home.
-* 正如特朗普总统要求美国公司在国内所做的那样，印度正在为富士康和其他高端制造商开辟一个新的空间。
 
