@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Kyiv is defending Kostiantynivka from Russian drone attacks. The embattled city is a gateway to Ukraine’s last major defense in the Donetsk region.
+* 基辅正在保护Kostiantynivka免受俄罗斯无人机袭击。这座四面楚歌的城市是通往乌克兰在顿涅茨克地区最后一次主要防御的门户。
+* With the fighting in Iran over, President Trump is considering whether to pursue a new nuclear agreement with Tehran. He is also urging a new cease-fire deal to end the fighting in Gaza.
+* 随着伊朗战争的结束，特朗普总统正在考虑是否与德黑兰达成新的核协议。他还敦促达成新的停火协议，以结束加沙的战斗。
+* Three people died in 2023 after eating beef Wellington made by Erin Patterson, whose subsequent trial gripped the country.
+* 2023年，三人在吃了艾琳·帕特森（ Erin Patterson ）制作的惠灵顿（ Wellington ）牛肉后死亡，随后的审判席卷了整个国家。
+* With their dense mesh, the nets can tangle drone propellers. It’s a simple but effective countermeasure that reflects how low-tech means can blunt high-tech weapons in the war.
+* 凭借其密集的网格，网可以缠绕无人机螺旋桨。这是一种简单而有效的对策，反映了低科技手段如何在战争中削弱高科技武器。
+* A tanker is headed to South Korea with a first shipment of liquefied natural gas from Canada, which hopes to reduce its export reliance on its neighbor.
+* 一艘油轮首次从加拿大运送液化天然气前往韩国，希望减少对邻国的出口依赖。
+* A government led by freedom fighters who helped to liberate the country more than 30 years ago is now overseeing a police force accused of staggering abuses.
+* 由30多年前帮助解放该国的自由战士领导的政府现在正在监督一支被指控犯有令人震惊的虐待行为的警察部队。
+* European Union officials will spend July in talks with China. Tensions are high, hopes are low and stability is the end game.
+* 欧盟官员将在7月与中国进行谈判。紧张局势高涨，希望低落，稳定是最终的游戏。
 * The exile government that was built by the Dalai Lama to preserve Tibetans’ cultural identity will be put to the test by his eventual succession.
 * 达赖喇嘛为保护西藏人的文化认同而建立的流亡政府将受到他最终继承的考验。
-* Europeans have agreed to pay more for arms and want to spend it at home. But can its manufacturers rush to compete with dominant U.S. firms?
-* 欧洲人已同意为武器支付更多费用，并希望在国内消费。但其制造商能否急于与占主导地位的美国公司竞争？
-* Relying on Asian suppliers is no longer a safe bet for many factories in Mexico. Companies are racing to change, and they are being encouraged by the government.
-* 对于墨西哥的许多工厂来说，依靠亚洲供应商不再是一个安全的选择。公司正在竞相改变，政府也在鼓励它们。
-* Prime Minister Benjamin Netanyahu of Israel is set to meet with President Trump on Monday as attention has turned from Iran to a cease-fire for Gaza.
-* 以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）定于周一与特朗普总统会面，因为人们的注意力已从伊朗转向加沙停火。
-* At the funeral for Albert Ojwang, protesters in Kenya said his death was a call to action for the country’s youth.
-* 在Albert Ojwang的葬礼上，肯尼亚的抗议者表示，他的死是对该国青年的行动呼吁。
 * First, France cleaned the polluted river so that Olympians could swim there. Now, a year later, it is opening three sites for locals to plunge in.
 * 首先，法国清理了受污染的河流，以便奥运选手可以在那里游泳。现在，一年后，它正在为当地人开放三个网站。
-* Just before the Dalai Lama turned 90, he announced that his successor would be selected through the traditional process of reincarnation. Mujib Mashal, The New York Times’s South Asia bureau chief, explains why this process could increase tensions with China.
-* 就在达赖喇嘛90岁生日之前，他宣布他的继任者将通过传统的转世过程选出。《纽约时报》南亚分社社长穆吉布·马沙尔（ Mujib Mashal ）解释了为什么这一过程可能会加剧与中国的紧张关系。
-* A law that restricts social media use to people 16 and over goes into effect in December, but much about it remains unclear or undecided.
-* 一项限制16岁及以上人群使用社交媒体的法律将于12月生效，但在很大程度上仍不清楚或尚未决定。
-* The decision came after Hamas said it had responded positively to an American-backed cease-fire proposal. President Trump says he hopes for a truce as soon as next week.
-* 在做出这一决定之前，哈马斯表示，它对美国支持的停火提案做出了积极回应。特朗普总统表示，他希望最快在下周实现停火。
-* The long absence of Iran’s supreme leader, Ayatollah Ali Khamenei, from public life had fueled speculation about his health and threats to his life.
-* 伊朗最高领导人阿亚图拉·阿里·哈梅内伊（ Ayatollah Ali Khamenei ）长期缺席公共生活，这助长了对他的健康和生命威胁的猜测。
+* The June 23 airstrikes on Evin prison, including the hospital ward, have turned it from a hated symbol of oppression into a new rallying cry against Israel, even among the Iranian regime’s domestic critics.
+* 6月23日对埃文监狱（包括医院病房）的空袭已将其从令人憎恨的压迫象征转变为反对以色列的新口号，甚至在伊朗政权的国内批评者中也是如此。
 
 ## New York Times United States News
+* Flood watches remain in effect as forecasters warn of more rain and possible river rises through Monday.
+* 洪水警报仍然有效，因为预报员警告说，周一会有更多的降雨，河流可能会上升。
+* Officials, emergency crews and volunteers in Central Texas were holding out hope for finding survivors of the flash flooding, as the death toll climbed.
+* 随着死亡人数的增加，德克萨斯州中部的官员、紧急救援人员和志愿者对寻找山洪暴发的幸存者抱有希望。
+* The court’s rules require many litigants to submit 40 copies of their briefs, resulting in millions of pages printed each term. Critics call the process outdated and wasteful.
+* 法院的规则要求许多诉讼当事人提交40份案情摘要，每学期印刷数百万页。批评者称该流程过时且浪费。
+* The president is again threatening higher tariff rates on a dozen foreign nations, as a deadline elapses this week for making trade deals.
+* 总统再次威胁要提高对十几个外国的关税税率，因为本周达成贸易协议的最后期限已经过去。
+* The health secretary has used peer pressure to persuade food makers to nix synthetic dyes. The candy industry is holding out, arguing American consumers like bright sweets.
+* 卫生部长利用同侪压力说服食品制造商使用合成染料。糖果行业坚持不懈，认为美国消费者喜欢明亮的糖果。
+* Kansans created Food for Peace, for 70 years a font of rural income and pride. Now at least one grain broker is trying to sell grain that once fed the world as dog food.
+* 堪萨斯州创造了和平食品， 70年来一直是农村收入和自豪感的源泉。现在，至少有一家谷物经纪人正试图将曾经养活世界的谷物作为狗粮出售。
+* Harvard turned to international donors, including China, as one way to help save it from financial troubles. That money is dwindling, but Republicans are questioning the relationship.
+* 哈佛大学求助于包括中国在内的国际捐助者，以此作为帮助其摆脱金融危机的一种方式。这笔钱正在减少，但共和党人正在质疑这种关系。
 * 
 * 
-* President Trump’s domestic policy law jeopardizes plans to reopen one rural county’s hospital — and health coverage for hundreds of thousands of state residents.
-* 特朗普总统的国内政策法危及重新开放一个农村县医院的计划，以及数十万州居民的医疗保险。
-* Some U.S. officials talked about an “axis” of authoritarian nations, but the American and Israeli war with Iran has exposed the limits of that idea.
-* 一些美国官员谈到了威权国家的“轴心” ，但美国和以色列与伊朗的战争暴露了这一想法的局限性。
-* There is agreement among Democrats that the party had a problem on immigration and border security in the 2024 election, but there’s no consensus on how to fix it. Lisa Lerer, a national political correspondent for The New York Times, describes how the party got here.
-* 民主党人一致认为，该党在2024年大选中存在移民和边境安全问题，但尚未就如何解决这个问题达成共识。《纽约时报》的全国政治记者丽莎·莱勒（ Lisa Lerer ）描述了该党是如何走到这一步的。
-* The party’s leftward shift in the Biden administration arguably laid the groundwork for President Trump’s aggressive approach. Deciding the next move won’t be easy.
-* 可以说，该党在拜登政府中的左转为特朗普总统的激进做法奠定了基础。决定下一步行动并不容易。
-* Most crimes go unsolved, emboldening criminals and potentially leading to more violence.
-* 大多数犯罪都没有得到解决，使犯罪分子胆大妄为，并可能导致更多的暴力行为。
-* The explosion, which left seven people missing, started a wildfire and forced some cities and counties to cancel or postpone Fourth of July fireworks shows.
-* 爆炸造成7人失踪，引发了一场野火，迫使一些城市和县取消或推迟了7月4日的烟花表演。
-* Some experts say staff shortages might have complicated forecasters’ ability to coordinate responses with local emergency management officials.
-* 一些专家表示，人员短缺可能使预报员与当地应急管理官员协调应对的能力复杂化。
-* The tech billionaire, who has publicly feuded with President Trump, wrote on social media that he would be creating “the America Party,” though he hadn’t yet filed paperwork.
-* 这位公开与特朗普总统不和的科技亿万富翁在社交媒体上写道，他将创建“美国党” ，尽管他还没有提交文件。
-* Stories of rescues have begun trickling out, but 27 children from a storied camp on the Guadalupe River in Texas Hill Country remain unaccounted for.
-* 救援的故事已经开始蔓延，但来自德克萨斯州山区瓜达卢佩河上的一个传说中的营地的27名儿童仍然下落不明。
+* At least 81 people, including more than two dozen children, died in the torrential downpour. Dozens more were still missing three days later.
+* 在这场倾盆大雨中，至少有81人死亡，其中包括20多名儿童。三天后，还有数十人失踪。
+* 
+* 
 
 ## New York Times Asia News
+* The ash cloud above Mount Lewotobi Laki-laki on Monday was about four times taller than the one produced by an eruption there last month.
+* 周一， Lewotobi Laki-laki山上方的火山灰云比上个月火山喷发产生的火山灰云高约四倍。
+* A tanker is headed to South Korea with a first shipment of liquefied natural gas from Canada, which hopes to reduce its export reliance on its neighbor.
+* 一艘油轮首次从加拿大运送液化天然气前往韩国，希望减少对邻国的出口依赖。
+* Most typhoons come ashore on the island’s sparsely populated east coast, but Danas scraped its crowded western edge. Nearly 300,000 households had no power on Monday.
+* 大多数台风来到岛上人口稀少的东海岸，但Danas刮到了拥挤的西部边缘。周一，近30万户家庭没有电。
+* Three people died in 2023 after eating beef Wellington made by Erin Patterson, whose subsequent trial gripped the country.
+* 2023年，三人在吃了艾琳·帕特森（ Erin Patterson ）制作的惠灵顿（ Wellington ）牛肉后死亡，随后的审判席卷了整个国家。
+* Momentum is building in Taiwan to lessen its business dependency on China, its biggest trading partner. Doing so will not be easy.
+* 台湾的势头正在增强，以减少其对最大贸易伙伴中国的业务依赖。这样做并不容易。
+* Plus, the case of the lost Stradivarius.
+* 此外，还有丢失的斯特拉迪瓦里。
+* European Union officials will spend July in talks with China. Tensions are high, hopes are low and stability is the end game.
+* 欧盟官员将在7月与中国进行谈判。紧张局势高涨，希望低落，稳定是最终的游戏。
 * Some U.S. officials talked about an “axis” of authoritarian nations, but the American and Israeli war with Iran has exposed the limits of that idea.
 * 一些美国官员谈到了威权国家的“轴心” ，但美国和以色列与伊朗的战争暴露了这一想法的局限性。
 * A law that restricts social media use to people 16 and over goes into effect in December, but much about it remains unclear or undecided.
 * 一项限制16岁及以上人群使用社交媒体的法律将于12月生效，但在很大程度上仍不清楚或尚未决定。
 * The exile government that was built by the Dalai Lama to preserve Tibetans’ cultural identity will be put to the test by his eventual succession.
 * 达赖喇嘛为保护西藏人的文化认同而建立的流亡政府将受到他最终继承的考验。
-* As China vies with Silicon Valley for primacy, Hangzhou, home to DeepSeek and Alibaba, is where its aspiring tech titans mingle and share ideas.
-* 随着中国与硅谷争夺主导地位， DeepSeek和阿里巴巴的所在地杭州是其雄心勃勃的科技巨头交流和分享想法的地方。
-* Just before the Dalai Lama turned 90, he announced that his successor would be selected through the traditional process of reincarnation. Mujib Mashal, The New York Times’s South Asia bureau chief, explains why this process could increase tensions with China.
-* 就在达赖喇嘛90岁生日之前，他宣布他的继任者将通过传统的转世过程选出。《纽约时报》南亚分社社长穆吉布·马沙尔（ Mujib Mashal ）解释了为什么这一过程可能会加剧与中国的紧张关系。
-* The continent is dedicated to research and cooperation, but proposed funding cuts in the Trump administration and actions by other world powers may alter the environment.
-* 非洲大陆致力于研究和合作，但特朗普政府拟议的削减资金和其他世界大国的行动可能会改变环境。
-* Local leaders denounced the episodes, which both took place on Friday evening: arson at a synagogue and a disturbance at an Israeli eatery.
-* 当地领导人谴责了这两起事件，这两起事件都发生在周五晚上：在一个犹太教堂被纵火，在以色列餐馆发生骚乱。
-* Dust and groundwater contaminated with heavy metals and radioactive chemicals pose a health threat that the authorities have been trying to address for years.
-* 被重金属和放射性化学物质污染的灰尘和地下水构成了当局多年来一直试图解决的健康威胁。
-* Low environmental standards helped China become the world’s low-cost producer of rare earths, but Beijing was also focused on helping the industry.
-* 低环境标准帮助中国成为全球低成本的稀土生产国，但北京也专注于帮助稀土行业。
-* A British F-35B has been stranded for weeks at an airport in southern India because of mechanical issues. The internet, and the region’s tourism agency, are having fun with it.
-* 由于机械问题，一架英国F-35B在印度南部的一个机场滞留了数周。互联网和该地区的旅游机构都在玩得很开心。
 
