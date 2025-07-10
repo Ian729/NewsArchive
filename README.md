@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The longtime enemies have opened contacts, reflecting a power shift across a Middle East in which they have newfound common ground: antipathy for Iran.
-* 长期以来的敌人已经开始接触，反映出中东地区的权力转移，在这一地区，他们有了新的共同点：对伊朗的反感。
-* The fishermen’s boats had drifted into South Korean waters, officials said. The South’s new president has been trying to improve ties with North Korea.
-* 官员说，渔民的船只漂流到韩国水域。韩国新总统一直在努力改善与朝鲜的关系。
-* The authorities said they are investigating whether the nationalist, anti-immigrant party ran afoul of France’s campaign finance rules.
+* Chinese research ships are studying the seas for science and resources, but the data they gather could also be useful in a conflict with Taiwan or the United States.
+* 中国的研究船正在研究海洋的科学和资源，但他们收集的数据也可能在与台湾或美国的冲突中有用。
+* Kyiv was the main target of an hourslong assault that killed at least two people, officials said. The barrage came hours before the top American and Russian diplomats sat down for a meting.
+* 官员说，基辅是长达数小时的袭击的主要目标，造成至少两人死亡。几小时后，美国和俄罗斯的高级外交官坐下来开会。
+* The two leaders are set to confirm details of a strengthened defense relationship at a summit Thursday. An agreement on tackling unauthorized migration may also be announced.
+* 两位领导人将在周四的峰会上确认加强防务关系的细节。还可能会宣布一项关于解决未经授权迁移的协议。
+* In exchange for jailing more than 200 deportees, El Salvador’s president, Nayib Bukele, has become a favorite of the Trump administration.
+* 作为对200多名被驱逐者入狱的交换，萨尔瓦多总统纳伊布·布克莱（ Nayib Bukele ）已成为特朗普政府的最爱。
+* Dr. Victoria Rose spent 21 days in the territory, treating people who were shot trying to get food and children with life-changing injuries from Israeli bombs.
+* 维多利亚·罗斯（ Victoria Rose ）博士在该地区呆了21天，为试图获得食物的人和因以色列炸弹而受伤的儿童提供治疗。
+* Israel has been conducting near-daily strikes against what it says are Hezbollah targets as the Iranian-backed group comes under pressure to disarm amid fears of a renewed war.
+* 由于担心再次爆发战争，伊朗支持的真主党面临着解除武装的压力，以色列几乎每天都在对其所谓的真主党目标进行罢工。
+* The authorities said they were investigating whether the nationalist, anti-immigrant party broke France’s campaign-finance rules.
 * 当局表示，他们正在调查民族主义反移民党是否违反了法国的竞选财务规则。
 * In the first footage of him to be released publicly in 25 years, Abdullah Ocalan said the P.K.K. insurgency against Turkey would be replaced by politics.
 * 阿卜杜拉·奥贾兰（ Abdullah Ocalan ）在25年来首次公开发布的镜头中表示，库尔德工人党对土耳其的叛乱将被政治所取代。
-* Firefighters worked through the night to prevent the blaze from entering France’s second-biggest city, and brought the wildfire under control on Wednesday morning.
-* 消防队员通宵工作，以防止大火进入法国第二大城市，并于周三早上控制了野火。
-* The kindergarten’s cooks used inedible pigments to decorate buns and cakes, the authorities said. Eight school officials and employees were detained.
-* 当局说，幼儿园的厨师使用不可食用的颜料来装饰面包和蛋糕。八名学校官员和员工被拘留。
-* After President Trump’s announcement that the United States would send more military aid, some were grateful, others were skeptical, mindful of his seesawing policy.
-* 在特朗普总统宣布美国将提供更多军事援助后，一些人表示感激，另一些人则持怀疑态度，并注意到他的拉锯政策。
-* Prime Minister Benjamin Netanyahu of Israel handed a letter to President Trump nominating him for the Nobel Peace Prize. But it’s not clear whether stroking the president’s ego has long-lasting effects.
-* 以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）向特朗普总统递交了一封信，提名他获得诺贝尔和平奖。但目前尚不清楚抚摸总统的自负是否会产生长期影响。
-* The country is experiencing its worst drought in decades, which has set the conditions for the blazes to scorch an area the size of Washington, D.C.
-* 该国正在经历数十年来最严重的干旱，这为大火烧毁华盛顿特区大小的地区创造了条件
-* Bloody conflict has splintered many families in Myanmar over the past four years. But for one set of siblings, a surprise reunion was joyful, if bittersweet.
-* 过去四年来，缅甸的许多家庭因血腥冲突而四分五裂。但对于一群兄弟姐妹来说，如果苦乐参半，惊喜的团聚是快乐的。
+* The Russian leader is convinced that Moscow’s battlefield superiority is growing, and that Ukraine’s defenses may collapse in the coming months, according to people close to the Kremlin.
+* 据接近克里姆林宫的人士称，这位俄罗斯领导人确信，莫斯科的战场优势正在增强，乌克兰的防御可能会在未来几个月内崩溃。
+* In symbolic rulings, Moscow was again blamed for the downing of Flight MH17 in 2014 and for an array of war-related human rights violations, including the transfer of Ukrainian children to Russia.
+* 在象征性的裁决中，莫斯科再次被指责在2014年击落MH17航班，以及一系列与战争有关的侵犯人权行为，包括将乌克兰儿童转移到俄罗斯。
 
 ## New York Times United States News
-* The Treasury secretary is breaking with tradition in publicly assailing the central bank’s policies as President Trump looks for its next leader.
-* 在特朗普总统寻找下一任领导人之际，财政部长正在打破公开抨击央行政策的传统。
-* The rivers etching the terrain are a beloved feature of the rapidly growing region. But last week’s flooding was an agonizing reminder of the dangers they pose.
-* 蚀刻地形的河流是快速增长地区的一个受欢迎的特征。但上周的洪水让人痛苦地想起了洪水带来的危险。
-* Instead of treating tariffs as part of a broader trade policy, President Trump views them as a valuable weapon he can wield on the world stage.
-* 特朗普总统没有将关税视为更广泛贸易政策的一部分，而是将其视为他在世界舞台上可以使用的宝贵武器。
-* The industry’s courtship of Donald J. Trump resulted in one of the great lobbying free-for-alls in recent Washington history.
-* 该行业对唐纳德· J ·特朗普（ Donald J. Trump ）的追求导致了华盛顿近期历史上最伟大的游说之一。
-* President Trump has achieved much of his agenda, leaving the fate of the economy squarely in his hands.
-* 特朗普总统已经实现了他的大部分议程，将经济的命运完全掌握在他手中。
-* A court-ordered pause in May covered nearly two dozen federal agencies at different stages of executing President Trump’s directive for mass layoffs. The Supreme Court said the administration could proceed.
-* 5月份，法院下令暂停了近24个联邦机构，这些机构处于执行特朗普总统大规模裁员指令的不同阶段。最高法院表示，政府可以继续采取行动。
-* The legal move came the day after federal agents and National Guard troops converged on a Los Angeles park in an extraordinary show of force.
-* 这一合法举动是在联邦特工和国民警卫队部队聚集在洛杉矶公园进行非同寻常的武力展示后的第二天。
-* Gov. Michelle Lujan Grisham declared a state of emergency for the village of Ruidoso, in an area that was scarred by wildfires last year.
-* 州长米歇尔·卢扬·格里沙姆（ Michelle Lujan Grisham ）宣布鲁伊多索（ Ruidoso ）村进入紧急状态，该地区去年因野火而伤痕累累。
-* As both the death toll and number of questions about official preparedness increased, the Texas governor invoked football metaphors, saying “every team makes mistakes.”
-* 随着死亡人数和官方准备问题数量的增加，德克萨斯州州长援引足球比喻说： “每支球队都会犯错误。”
-* 
-* 
+* The N.I.H. has terminated hundreds of diversity grants awarded to young scientists, many of whom come from the very places that supported Trump.
+* NIH已经终止了数百项授予年轻科学家的多样性补助金，其中许多人来自支持特朗普的地方。
+* At least 120 people have died and some 173 people remain unaccounted for statewide, nearly a week after flash floods ravaged the Texas Hill Country.
+* 在暴洪肆虐德克萨斯州山区近一周后，全州至少有120人死亡，约173人仍然下落不明。
+* The founders of the initiative, the States Forum, say they hope to extend successful Democratic policies across states and even to the national level.
+* 该倡议的创始人州论坛表示，他们希望将民主党的成功政策扩展到各州，甚至扩展到国家层面。
+* Flash floods surged through in the middle of the night, but many local officials appeared unaware of the unfolding catastrophe, initially leaving people near the river on their own.
+* 暴洪在半夜肆虐，但许多地方官员似乎没有意识到灾难的展开，最初让人们独自在河边。
+* Majority Democrats, a new group of elected officials from all levels of government, has outsized ambitions to challenge political orthodoxies and remake the party.
+* 多数党民主党是一个由来自各级政府的民选官员组成的新团体，他们有着挑战政治正统并重塑党的雄心壮志。
+* The fertile valley feeds the world. President Trump has thrown farmers and farmworkers there into turmoil, but recently offered them a glimmer of hope.
+* 肥沃的山谷养活了世界。特朗普总统让那里的农民和农场工人陷入动荡，但最近给他们带来了一线希望。
+* The F.B.I. and a Mississippi sheriff investigated complaints about brutal assaults, but the deputies accused remained on the force and never faced charges.
+* 联邦调查局和一名密西西比州治安官调查了有关残酷袭击的投诉，但被指控的代表仍留在部队，从未受到指控。
+* Secretary of State Marco Rubio denounced Francesca Albanese, a special rapporteur, for investigating Americans and Israelis over the war in the enclave.
+* 国务卿马可·卢比奥（ Marco Rubio ）谴责特别报告员弗朗西斯卡·阿尔巴尼斯（ Francesca Albanese ）调查美国人和以色列人在飞地战争中的行为。
+* President Trump had pulled the nomination of a close associate of Elon Musk to lead the agency in May. The decision fueled a public breakdown of their alliance.
+* 特朗普总统在5月份撤回了对埃隆·马斯克(Elon Musk)的亲密伙伴的提名，以领导该机构。这一决定助长了他们联盟的公开崩溃。
+* They climbed over a mound of loose soil and emerged at the tunnel’s only entrance five miles away, officials said.
+* 官员说，他们爬过一堆松散的土壤，出现在距离隧道5英里的唯一入口处。
 
 ## New York Times Asia News
+* The authorities warned of possible flash flooding as the remnants of Typhoon Danas passed through the region. Hong Kong suspended schools for Friday.
+* 当局警告说，随着台风达纳斯的残余物通过该地区，可能会发生山洪暴发。香港周五停课。
+* Chinese research ships are studying the seas for science and resources, but the data they gather could also be useful in a conflict with Taiwan or the United States.
+* 中国的研究船正在研究海洋的科学和资源，但他们收集的数据也可能在与台湾或美国的冲突中有用。
+* A sourdough baker turned entrepreneur in North Carolina has delayed his new product as he contemplates the prospect that higher costs will doom his company.
+* 北卡罗来纳州的一位面包师变成了企业家，他推迟了他的新产品，因为他认为更高的成本可能会毁掉他的公司。
+* Secretary of State Marco Rubio talks about countering China as it expands its global influence. But President Trump’s tariff threats have created friction with U.S. partners.
+* 美国国务卿马可·卢比奥（ Marco Rubio ）谈到在中国扩大其全球影响力的同时对抗中国。但特朗普总统的关税威胁造成了与美国合作伙伴的摩擦。
+* Plus, the Bayeux Tapestry’s homecoming.
+* 此外，贝叶挂毯的回归。
+* Former President Yoon Suk Yeol, already ​accused of insurrection, faced additional ​criminal charges after a special counsel expanded the investigation into his ill-fated declaration of martial law.
+* 前总统尹锡烈（ Yoon Suk Yeol ）已经被指控叛乱，在特别顾问扩大了对他命运多愁善感的戒严令的调查后，他面临额外的刑事指控。
+* The English-language version will feature the voice of Michelle Yeoh and be released in the United States in August.
+* 英文版将由Michelle Yeoh配音，并于8月在美国发行。
+* Parts of South Korea and Japan have had short rainy seasons this year. Scientists say that climate change has helped make the summer rains more unreliable.
+* 今年，韩国和日本部分地区的雨季较短。科学家说，气候变化使夏季降雨更加不可靠。
 * The fishermen’s boats had drifted into South Korean waters, officials said. The South’s new president has been trying to improve ties with North Korea.
 * 官员说，渔民的船只漂流到韩国水域。韩国新总统一直在努力改善与朝鲜的关系。
 * The kindergarten’s cooks used inedible pigments to decorate buns and cakes, the authorities said. Eight school officials and employees were detained.
 * 当局说，幼儿园的厨师使用不可食用的颜料来装饰面包和蛋糕。八名学校官员和员工被拘留。
-* Plus, Sweden’s secret to well-being.
-* 此外，瑞典的幸福秘诀。
-* The agriculture secretary announced a plan to limit Chinese and foreign purchases of farmland as part of its national security strategy.
-* 作为国家安全战略的一部分，农业部长宣布了一项限制中国和外国购买农田的计划。
-* A person or people imitating the secretary of state used artificial intelligence to send text and voice messages to foreign diplomats and U.S. officials, the department said in a cable to employees.
-* 该部门在给员工的电报中表示，一个或多个模仿国务卿的人使用人工智能向外国外交官和美国官员发送短信和语音信息。
-* The arrest warrants, for Afghanistan’s leader and its top justice official, say the restrictions on women and girls are evidence of crimes against humanity.
-* 对阿富汗领导人和最高司法官员的逮捕令称，对妇女和女孩的限制是危害人类罪的证据。
-* The president noted that U.S. negotiators remained open to offers from trading partners, suggesting that tariffs could be reduced before — or even after — the deadline on Aug. 1.
-* 总统指出，美国谈判代表仍对贸易伙伴的报价持开放态度，这表明关税可能会在8月1日截止日期之前甚至之后降低。
-* Tokyo had expected smooth tariff negotiations but is experiencing whiplash, becoming a central target of President Trump’s trade frustrations.
-* 东京原本预计关税谈判将顺利进行，但正在经历鞭笞，成为特朗普总统贸易挫折的中心目标。
-* Many countries thought they were negotiating in good faith. The White House renewed its “reciprocal” tariff plan anyway, giving countries until Aug. 1 to make offers.
-* 许多国家认为他们是本着诚意进行谈判的。无论如何，白宫续签了“互惠”关税计划，让各国在8月1日之前提出要约。
-* Search and rescue efforts were underway to try to locate people missing after the monsoon-related disaster.
-* 搜索和救援工作正在进行中，试图找到季风灾难后失踪的人员。
 
