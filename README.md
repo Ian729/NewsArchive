@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Facing growing chaos, the European Union and numerous other countries are seeking to forge a global trading nexus that is less vulnerable to American tariffs.
+* 面对日益严重的混乱局面，欧盟和许多其他国家正在寻求建立一种全球贸易关系，这种关系不易受到美国关税的影响。
+* The 2020 agreements addressed diplomacy and commerce, not conflicts or the Palestinians. Predictions that the deals would produce regional peace were baseless, analysts say.
+* 2020年的协议涉及外交和商业，而不是冲突或巴勒斯坦人。分析人士说，有关这些协议将带来地区和平的预测是毫无根据的。
+* Strings of radars stretching across Canada were built to give early warnings of Soviet bombers coming over the Arctic. The region now faces a new era of militarization.
+* 建造横跨加拿大的雷达是为了预警苏联轰炸机飞越北极。该地区现在面临着一个新的军事化时代。
+* A preliminary assessment in last month’s disaster focusing on fuel being cut to both engines only deepened the mystery for people grieving loved ones.
+* 对上个月的灾难进行的初步评估侧重于切断两台发动机的燃料，这只会加深人们为亲人悲伤的谜团。
+* There were violent protests against French rule in the semiautonomous Pacific territory last year. The agreement would create a new state within the French Republic.
+* 去年，在半自治的太平洋领土上发生了反对法国统治的暴力抗议活动。该协议将在法兰西共和国内建立一个新国家。
 * When Ukraine turned a corner of Russia’s Kursk region into a battlefield, it set in motion some of the war’s fiercest fighting. Our photographer documented the aftermath.
 * 当乌克兰将俄罗斯库尔斯克地区的一个角落变成战场时，它启动了一些战争中最激烈的战斗。我们的摄影师记录了事件的后果。
+* Iran’s designs have defined the region for decades. With the country weakened, the puzzle is what comes next.
+* 几十年来，伊朗的设计定义了该地区。随着国家的衰弱，接下来的谜题是什么。
+* States worry that the imposition of Hindi, the main language of northern India, would wipe out their cultural heritage.
+* 各州担心印度北部主要语言印地语的强加会消灭他们的文化遗产。
 * How one man gets by in the unbearable and inescapable heat of Pakistan’s biggest and most unlivable city.
 * 在巴基斯坦最大、最不适宜居住的城市，一个人如何在难以忍受和不可避免的炎热中度过。
-* In April, U.S.-made bombs destroyed a detention facility that held Ethiopian migrants in Yemen, crushing bodies and shredding limbs. Amid official silence, the survivors are left wondering why.
-* 今年4月，美国制造的炸弹摧毁了一座拘留也门埃塞俄比亚移民的拘留设施，摧毁了尸体和四肢。在官方的沉默中，幸存者想知道为什么。
-* Prices for coffee beans have risen, but in a country where coffee drinking is a ritual, customers demand cheap espresso. That has left coffee bars in a bind.
-* 咖啡豆的价格上涨了，但在一个以喝咖啡为习惯的国家，顾客需要便宜的浓缩咖啡。这让咖啡吧陷入困境。
-* Secret meetings, altered records, ignored intelligence: the inside story of the prime minister’s political calculations since Oct. 7.
-* 秘密会议、篡改记录、忽视情报：总理自10月7日以来的政治计算的内幕。
-* A focus on the Boeing 787’s fuel switches in a preliminary assessment raised questions about the pilots’ actions, but much is still unknown about Flight 171.
-* 初步评估中对波音787燃油开关的关注引发了对飞行员行动的质疑，但关于171航班仍有很多未知数。
-* During a rare news conference on Friday, the head of the French military, Thierry Burkhard, said Russia remains a “lasting, close” threat.
-* 在周五罕见的新闻发布会上，法国军方负责人蒂埃里·布尔克哈德（ Thierry Burkhard ）表示，俄罗斯仍然是一个“持久、密切”的威胁。
-* Unregulated activity led by Chinese enterprises in conflict-ravaged Myanmar is creating an environmental calamity in neighboring Thailand.
-* 在饱受冲突蹂躏的缅甸，由中国企业牵头的不受管制的活动正在邻国泰国造成环境灾难。
-* The town was supposed to be a “safe area,” protected by U.N. peacekeepers, but Serb forces massacred 8,000 Muslim men and boys there.
-* 该镇本应是一个由联合国维和部队保护的“安全区” ，但塞族部队在那里屠杀了8000名穆斯林男子和男孩。
-* The country’s new prime minister, Mark Carney, has been called the “Trump whisperer,” and negotiations have been cordial and professional. But it’s been a wild ride.
-* 该国新任总理马克·卡尼（ Mark Carney ）被称为“特朗普低语者” ，谈判一直亲切而专业。但这是一次疯狂的旅程。
+* Palestinian authorities and family members said Israeli settlers beat and killed a Palestinian-American man. Israel said the violence began when Palestinians threw stones at Israeli civilians.
+* 巴勒斯坦当局及其家人表示，以色列定居者殴打并杀害了一名巴勒斯坦裔美国人。以色列说，暴力始于巴勒斯坦人向以色列平民投掷石块。
 
 ## New York Times United States News
-* Jaque White and her five children escaped the rising waters of the Guadalupe River just in time. Now they have to rebuild.
-* Jaque White和她的五个孩子及时逃离了瓜达卢佩河上涨的水域。现在他们必须重建。
-* In last month’s decision limiting one judicial tool, universal injunctions, the court seemed to invite lower courts to use class actions as an alternative.
-* 在上个月限制一种司法工具，即普遍禁令的决定中，法院似乎邀请下级法院使用集体诉讼作为替代方案。
-* Immigrant workers are central to recovery efforts in neighborhoods burned in the January wildfires, but recent raids have led some to stay home.
-* 在一月份的野火中被烧毁的街区，移民工人是恢复工作的核心，但最近的袭击导致一些人呆在家里。
-* A federal judge temporarily halted the administration from making indiscriminate arrests based on race and denying detainees access to lawyers, in a lawsuit that could have national repercussions.
-* 一名联邦法官暂时阻止政府根据种族进行不分青红皂白的逮捕，并拒绝被拘留者与律师联系，这可能会产生全国性的影响。
-* During a chaotic raid in Ventura County on Thursday, the worker fell from a greenhouse at a cannabis farm, suffered spinal and skull injuries, and died on Friday.
-* 周四，在文图拉县的一次混乱突袭中，这名工人从大麻农场的温室摔倒，脊椎和头骨受伤，并于周五死亡。
-* Earlier this year, President Trump suggested he wanted to shutter the agency. Now, he says his aides “fixed it up in no time.”
-* 今年早些时候，特朗普总统建议关闭该机构。现在，他说他的助手“很快就把它修好了”。
-* Los Angeles Police Department officers fired foam projectiles and flash-bang devices at reporters and photographers who were covering the immigration protests in June.
-* 洛杉矶警察局官员向报道6月份移民抗议活动的记者和摄影师发射了泡沫弹和闪光弹。
-* Carlos Abundez, 35, is facing federal smuggling charges after U.S. Customs and Border Protection officers made the discovery. The birds, a threatened species, were in stable condition.
-* 35岁的卡洛斯·阿本德斯（ Carlos Abundez ）在美国海关和边境保护局官员发现此事后面临联邦走私指控。这些鸟是受威胁的物种，状况稳定。
-* Within six years of opening, Camp Mystic was inundated with floodwaters. It was the first of many times.
-* 在开放后的六年内，神秘营地被洪水淹没。这是很多次中的第一次。
-* A New York Times investigative reporter explains how a problem he encountered while reporting reveals something important about the second Trump era.
-* 《纽约时报》的一名调查记者解释说，他在报道时遇到的一个问题揭示了第二个特朗普时代的一些重要内容。
+* The agency withstood criticism and a reckoning after a lone assassin grazed Donald J. Trump on the campaign trail. Today, recruiting is up.
+* 在一名孤独的刺客在竞选活动中擦伤唐纳德· J ·特朗普(Donald J. Trump)之后，该机构经受住了批评和清算。今天，招聘人数增加了。
+* Hunt, Texas, a small town where the north and south forks of the Guadalupe River meet, is grieving the July 4 flood. But even as the search for the missing continues, rebuilding has begun.
+* 德克萨斯州亨特（ Hunt ）是瓜达卢佩河（ Guadalupe River ）南北分支交汇的小镇， 7月4日的洪水让人悲痛欲绝。但即使寻找失踪人员的工作仍在继续，重建工作也已经开始。
+* Eight men sent by the United States to South Sudan could presage a new approach to Trump-era deportations, even as critics say the practice could amount to “enforced disappearance.”
+* 美国派往南苏丹的八名男子可能预示着特朗普时代驱逐出境的新方法，尽管批评人士称这种做法可能相当于“强迫失踪”。
+* Charles Homans, a New York Times reporter who covers national politics, describes how the Democrats’ dilemma with transgender issues reflects their broader struggles after losses in 2024.
+* 报道国家政治的《纽约时报》记者查尔斯·霍曼斯（ Charles Homans ）描述了民主党在跨性别问题上的困境如何反映出他们在2024年失利后的更广泛斗争。
+* The party’s vanguard position got ahead of voters in 2024, and the internal debate now underway reveals an uncertainty on how to adapt.
+* 该党的先锋地位在2024年领先于选民，目前正在进行的内部辩论揭示了如何适应的不确定性。
+* Iran’s designs have defined the region for decades. With the country weakened, the puzzle is what comes next.
+* 几十年来，伊朗的设计定义了该地区。随着国家的衰弱，接下来的谜题是什么。
+* President Trump has moved aggressively to reopen long-settled issues and to dismantle long-established institutions as he tries to return to what he considers better times.
+* 特朗普总统已采取积极行动，重新开放长期解决的问题，并拆除长期建立的机构，因为他试图回到他认为更好的时代。
+* Mourners paid tribute at funerals and memorial services on Saturday as the number of fatalities rose to nearly 130.
+* 周六，哀悼者在葬礼和追悼会上致敬，死亡人数上升至近130人。
+* In a long social media post, President Trump praised Attorney General Pam Bondi and told his followers to “not waste Time and Energy” on the Jeffrey Epstein case.
+* 在一篇长篇社交媒体帖子中，特朗普总统赞扬了司法部长帕姆·邦迪（ Pam Bondi ） ，并告诉他的追随者在杰弗里·爱泼斯坦（ Jeffrey Epstein ）案中“不要浪费时间和
+* Access via the North Rim, a lesser-used gateway to the national park, was closed as the White Sage fire continued to burn on Saturday.
+* 由于周六白鼠尾草大火继续燃烧，通过较少使用的国家公园门户北缘的通道被关闭。
 
 ## New York Times Asia News
+* There were violent protests against French rule in the semiautonomous Pacific territory last year. The agreement would create a new state within the French Republic.
+* 去年，在半自治的太平洋领土上发生了反对法国统治的暴力抗议活动。该协议将在法兰西共和国内建立一个新国家。
+* Most nations are still negotiating in hopes of avoiding punitive import taxes. At the same time, they’re looking for trading partners as a way around the United States.
+* 大多数国家仍在谈判，希望避免惩罚性进口税。与此同时，他们正在寻找贸易伙伴，作为绕过美国的一种方式。
+* A preliminary assessment in last month’s disaster focusing on fuel being cut to both engines only deepened the mystery for people grieving loved ones.
+* 对上个月的灾难进行的初步评估侧重于切断两台发动机的燃料，这只会加深人们为亲人悲伤的谜团。
+* States worry that the imposition of Hindi, the main language of northern India, would wipe out their cultural heritage.
+* 各州担心印度北部主要语言印地语的强加会消灭他们的文化遗产。
+* Marco Rubio made his first visit to Asia as secretary of state. Edward Wong, a diplomatic correspondent for The New York Times, reports from Kuala Lumpur, Malaysia, to explain how President Trump’s tariffs have upset U.S. trading partners.
+* 马可·卢比奥作为国务卿首次访问亚洲。《纽约时报》的外交记者爱德华·黄（ Edward Wong ）在马来西亚吉隆坡报道，解释特朗普总统的关税如何扰乱了美国的贸易伙伴。
+* Investigators released a preliminary account of the crash, describing how the plane struggled after its fuel supply was cut.
+* 调查人员发布了关于坠机的初步描述，描述了飞机在燃料供应被切断后如何挣扎。
 * How one man gets by in the unbearable and inescapable heat of Pakistan’s biggest and most unlivable city.
 * 在巴基斯坦最大、最不适宜居住的城市，一个人如何在难以忍受和不可避免的炎热中度过。
 * A focus on the Boeing 787’s fuel switches in a preliminary assessment raised questions about the pilots’ actions, but much is still unknown about Flight 171.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 饱受战争蹂躏的缅甸不受管制的重稀土开采正在毒害泰国的Kok河。《纽约时报》驻曼谷记者汉娜·比奇（ Hannah Beech ）向当地人讲述了这些负面影响。
 * In the chaos of war, there’s nothing to stop Chinese firms from ravaging the landscape and extracting the minerals, which end up in China.
 * 在战争的混乱中，没有什么可以阻止中国公司蹂躏景观并开采最终进入中国的矿物。
-* Unregulated activity led by Chinese enterprises in conflict-ravaged Myanmar is creating an environmental calamity in neighboring Thailand.
-* 在饱受冲突蹂躏的缅甸，由中国企业牵头的不受管制的活动正在邻国泰国造成环境灾难。
-* Secretary of State Marco Rubio wants to bolster ties with Asia to counter Beijing’s power, but President Trump’s tariff threats have nations asking why they should align with Washington.
-* 美国国务卿马可·卢比奥（ Marco Rubio ）希望加强与亚洲的关系，以对抗北京的权力，但特朗普总统的关税威胁让各国质疑他们为什么应该与华盛顿保持一致。
-* The Central Asian nation, rich in critical minerals, is deepening its ties to China but does relatively little trade with the United States.
-* 这个中亚国家富含重要矿产，正在加深与中国的关系，但与美国的贸易相对较少。
-* Plus, toads with psychedelic powers.
-* 此外，还有具有迷幻力量的蟾蜍。
-* While plants often have mutually beneficial relationships with insects, a tuber in Fiji grows separate compartments for multiple ant species.
-* 虽然植物通常与昆虫有互利关系，但斐济的块茎为多种蚂蚁物种生长单独的隔间。
-* Taeil, a former member of the popular boy band NCT, and two acquaintances were jailed in a case that has provoked anger in South Korea.
-* Taeil是受欢迎的男孩乐队NCT的前成员，两名熟人在一起在韩国引发愤怒的案件中被判入狱。
 
