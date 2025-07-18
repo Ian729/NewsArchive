@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* The leaders of France, Germany and Britain are building parallel diplomatic institutions to defend Europe as President Trump retreats from the continent.
+* 随着特朗普总统从欧洲大陆撤退，法国、德国和英国领导人正在建立平行的外交机构，以保卫欧洲。
+* Spread across Syria, Lebanon and Israel, the secretive religious minority has long balanced integration and independence. Now, members are at the heart of the region’s shifting power struggles.
+* 这个神秘的宗教少数群体遍布叙利亚、黎巴嫩和以色列，长期以来一直保持着融合和独立的平衡。现在，成员国处于该地区不断变化的权力斗争的核心。
+* Relentless rain began on Wednesday, causing flooding in several cities and across vast rural stretches in the province of Punjab.
+* 周三开始无情的降雨，导致旁遮普省几个城市和广阔的农村地区发生洪水。
 * Once called the planet’s most popular politician, President Luiz Inácio Lula da Silva of Brazil faced long odds in next year’s election. President Trump’s tariffs are changing that.
 * 巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）曾被称为地球上最受欢迎的政治家，在明年的选举中面临着很大的困难。特朗普总统的关税正在改变这一点。
-* American consumers of Korean cosmetics and skin-care products are bulk buying, as President Trump threatens 25 percent tariffs on imports.
-* 美国消费者大量购买韩国化妆品和护肤品，因为特朗普总统威胁要对进口产品征收25%的关税。
-* For weeks, Israel has engaged in back-channel talks over a diplomatic agreement with the Syrian government. Its strikes on Damascus this week highlight a lack of strategic clarity.
-* 几周来，以色列一直在与叙利亚政府就外交协议进行反向谈判。它本周对大马士革的袭击凸显了缺乏战略清晰度。
-* President Ahmed al-Shara said the attack threatened to escalate sectarian violence in his sharpest criticism of Israel since coming to power.
-* 总统艾哈迈德·沙雷（ Ahmed al-Shara ）表示，这次袭击有可能使宗派暴力升级，这是他上台以来对以色列最尖锐的批评。
+* In the southern city of Sweida, residents describe the aftermath of a wave of sectarian violence.
+* 在南部城市斯韦达，居民描述了宗派暴力浪潮的后果。
+* Ali Akbar started selling papers on the streets in 1974. He is still at it, winning over Parisians and presidents with persistence, humor and his signature catchphrase: “Ça y est!”
+* 阿里·阿克巴（ Ali Akbar ）于1974年开始在街上出售报纸。他仍在努力，以毅力、幽默和他的标志性口号“Ça y est ！”赢得了巴黎人和总统的青睐。
+* The plan has been described as the largest expansion of voting rights in Britain in decades.
+* 该计划被描述为英国几十年来最大的投票权扩张。
+* The group, Cristosal, has investigated prison deaths and torture under President Nayib Bukele. Its employees were threatened and surveilled, its director said.
+* 该组织克里斯托萨尔（ Cristosal ）调查了纳伊布·布克莱（ Nayib Bukele ）总统领导下的监狱死亡和酷其主管表示，其员工受到威胁和监视。
 * Local officials blamed shoddy construction and a lack of preparedness for the scale of the tragedy at the newly opened building.
 * 当地官员指责新开放的建筑物施工不善，对悲剧的规模缺乏准备。
-* Chancellor Friedrich Merz’s trip to London on Thursday is the latest sign of a new world order, in which European nations are uniting amid growing instability.
-* 总理弗里德里希·默茨（ Friedrich Merz ）周四对伦敦的访问是新世界秩序的最新迹象，在这种秩序中，欧洲国家在日益不稳定的情况下团结起来。
 * Recent drills near Japan reflect China’s ambitions to extend its navy’s reach and exert greater influence, in the Pacific and beyond.
 * 最近在日本附近举行的演习反映了中国扩大其海军影响力并在太平洋及其他地区发挥更大影响力的野心。
-* Afghans being forced out of Iran are grappling with an uncertain future in Afghanistan, where widespread poverty and severe restrictions on women and girls await.
-* 被迫离开伊朗的阿富汗人正在努力应对阿富汗不确定的未来，那里普遍存在的贫困和对妇女和女童的严格限制。
-* His son and daughter-in-law brought love to his home and represented the family’s hope for a better life.
-* 他的儿子和儿媳给他的家带来了爱，代表着家庭对美好生活的希望。
-* Germany’s new government imposed border checks to demonstrate toughness on migration, though crossings started slowing years ago.
-* 德国新政府实施了边境检查，以显示对移民的强硬态度，尽管过境点在几年前开始放缓。
 
 ## New York Times United States News
-* After President Trump announced that Coke will be made with cane sugar in the U.S., as it is in Mexico, foodies of Mexican heritage said in interviews that they weren’t excited.
-* 在特朗普总统宣布可口可乐将在美国和墨西哥一样用蔗糖制成之后，墨西哥传统美食家在接受采访时表示，他们并不兴奋。
-* The sustained backlash has exposed the hazards of the attorney general’s focus on courting President Trump, with the assumption that he maintains the total backing of his base.
-* 持续的反弹暴露了司法部长专注于追求特朗普总统的危险，假设他保持了他的基础的全力支持。
-* In a wide-ranging interview, the junior senator from Michigan took stock of her party’s deep-seated woes, warning Democrats not to be “so damn scared.”
-* 在一次广泛的采访中，这位来自密歇根州的初级参议员评估了她所在政党根深蒂固的困境，警告民主党人不要“如此害怕”。
-* Search efforts along the Guadalupe River in Texas, combined with online groups, are helping to reunite items with survivors and families.
-* 德克萨斯州瓜达卢佩河沿岸的搜索工作与在线团体相结合，正在帮助幸存者和家人与物品团聚。
-* The children who lost their lives at Camp Mystic were not scattered through the camp. Almost every one of them was in either the Bubble Inn or Twins cabins, which housed the youngest campers.
-* 在神秘营丧生的孩子们并没有分散在营地中。几乎每个人都住在Bubble Inn或Twins小木屋里，那里住着最年轻的露营者。
-* The bill to claw back $9 billion in congressionally approved spending passed over the objections of Republicans who said it abdicated the legislative branch’s power of the purse.
-* 国会批准的追回90亿美元支出的法案超越了共和党人的反对意见，共和党人表示，它放弃了立法部门的权力。
-* The company began using corn syrup in Coke in 1980, blending it with sugar to help defray the cost of rising sugar prices.
-* 该公司于1980年开始在可口可乐中使用玉米糖浆，将其与糖混合，以帮助支付糖价上涨的成本。
-* The victims range in age from 7 to 61, according to the authorities.
-* 根据当局的说法，受害者的年龄从7岁到61岁不等。
-* The vice president is selling Trump’s domestic policy bill amid signs Democratic attacks are breaking through.
-* 在民主党的攻击正在突破的迹象中，副总统正在出售特朗普的国内政策法案。
-* Fire crews allowed a fire to burn through brush on the Grand Canyon’s North Rim. Then they lost control.
-* 消防队员让大峡谷北缘的灌木丛着火。然后他们失去了控制。
+* Recent comments by the Israeli prime minister and a Fox News commentator about their suburban Philadelphia high school have inflamed a debate.
+* 以色列总理和福克斯新闻评论员最近关于他们在费城郊区高中的评论引发了一场辩论。
+* President Trump suggested a deal was coming, but officials are still demanding more from Harvard, including extensive information about international students, staff payroll and protests.
+* 特朗普总统暗示即将达成协议，但官员们仍要求哈佛提供更多信息，包括有关国际学生、员工工资和抗议活动的广泛信息。
+* Congress just voted to claw back $500 million in funding for public broadcasting. Benjamin Mullin, a media reporter for The New York Times, explains what will happen now to NPR, PBS and the many local stations that rely on the funding.
+* 国会刚刚投票决定收回5亿美元的公共广播资金。《纽约时报》的媒体记者本杰明·穆林（ Benjamin Mullin ）解释了NPR、PBS和许多依赖这笔资金的当地电台现在会发生什么。
+* The alert, issued to retired service members who served in Iraq or Syria and live in Florida, did not specify what kind of threat or which terrorist group was involved.
+* 该警报向在伊拉克或叙利亚服役并居住在佛罗里达州的退役军人发出，但没有具体说明涉及哪种威胁或哪个恐怖组织。
+* The House Rules Committee laid the groundwork for an eventual vote to call for release of the Epstein files, reflecting Republican uneasiness with the president’s refusal to divulge information from the investigation.
+* 众议院规则委员会为最终投票要求公布爱泼斯坦的文件奠定了基础，这反映了共和党人对总统拒绝透露调查信息的不安。
+* The raid indicates a new strategy of going deeper into California after focusing on Southern California for several weeks.
+* 这次突袭表明了一项新的战略，即在关注南加州几周后深入加利福尼亚州。
+* The attorney general plans to ask a court to release the papers. But even if the request succeeds, it would fall far short of critics’ demands to release all investigative materials.
+* 总检察长计划要求法院公布这些文件。但即使请求成功，也远远没有达到批评者要求公布所有调查材料的要求。
+* Gov. Gavin Newsom says California should redraw its own congressional districts if Texas tries to gerrymander its lines. His idea faces long odds.
+* 州长加文·纽森（ Gavin Newsom ）表示，如果德克萨斯州试图划清界限，加利福尼亚州应该重新划定自己的国会选区。他的想法面临着很大的困难。
+* Federal prosecutors accused the man of threatening to kill Ms. Greene, her staff, and their families, months before President Trump sought to dismantle the news agency.
+* 联邦检察官指控这名男子在特朗普总统试图拆除通讯社的几个月前威胁要杀死格林女士、她的工作人员及其家人。
+* Donald Trump was friendly for at least 15 years with Jeffrey Epstein, the multimillionaire financier and convicted sex offender who died in prison in 2019.
+* 唐纳德·特朗普（ Donald Trump ）与杰弗里·爱泼斯坦（ Jeffrey Epstein ）至少友好相处了15年，杰弗里·爱泼斯坦（ Jeffrey Epstein ）是一位百万富
 
 ## New York Times Asia News
+* Relentless rain began on Wednesday, causing flooding in several cities and across vast rural stretches in the province of Punjab.
+* 周三开始无情的降雨，导致旁遮普省几个城市和广阔的农村地区发生洪水。
+* President Trump’s attacks on the group of emerging economies, which includes Brazil, Russia and China, have put one member — India — in an uncomfortable spot.
+* 特朗普总统对包括巴西、俄罗斯和中国在内的新兴经济体集团的攻击使一个成员国--印度--陷入了困境。
+* A philosophy of respectful custodianship of the land and the importance of one’s place of origin may sound familiar to those who seek out terroir.
+* 对于那些寻找风土的人来说，尊重土地保管的哲学以及一个人原籍地的重要性可能听起来很熟悉。
+* Long before President Trump wielded tariffs as a weapon to punish Indonesia, the country was fighting back a flood of cheap Chinese goods.
+* 早在特朗普总统利用关税作为惩罚印度尼西亚的武器之前，该国就在反击大量廉价的中国商品。
+* In the first tangible inroads Elon Musk has sought for years in India, Starlink passed a final regulatory hurdle and Tesla opened its first India store.
+* 在埃隆·马斯克（ Elon Musk ）多年来在印度寻求的第一个有形的进展中， Starlink通过了最终的监管障碍，特斯拉开设了第一家印度商店。
+* Plus, panic-buying Korean beauty products
+* 此外，恐慌性购买韩国美容产品
 * ​The South Korean Supreme Court’s ruling dispels uncertainty​ over Lee Jae-yong’s leadership as the tech giant faces challenges from tariffs and chip making rivals.
 * ​韩国最高法院的裁决消除了Lee Jae-yong领导层的不确定性，因为这家科技巨头面临关税和芯片制造竞争对手的挑战。
 * Recent drills near Japan reflect China’s ambitions to extend its navy’s reach and exert greater influence, in the Pacific and beyond.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 美国消费者大量购买韩国化妆品和护肤品，因为特朗普总统威胁要对进口产品征收25%的关税。
 * A popular and contentious game, Revenge on Gold Diggers, sheds light on misogyny, inequality and the feeling among many men that they are economic victims.
 * 《淘金女郎的复仇》（ Revenge on Gold Diggers ）是一款流行且有争议的游戏，它揭示了厌女症、不平等以及许多男性认为自己是经济受害者的感觉。
-* Alimentation Couche-Tard’s $47 billion bid spurred changes at the chain’s Japanese owner. Now, the question is whether that momentum will carry forward.
-* Alimentation Couche-Tard的470亿美元出价刺激了该连锁店的日本所有者发生变化。现在的问题是，这种势头是否会继续下去。
-* Plus, the many takes on Superman.
-* 此外，还有许多人对抗超人。
-* His son and daughter-in-law brought love to his home and represented the family’s hope for a better life.
-* 他的儿子和儿媳给他的家带来了爱，代表着家庭对美好生活的希望。
-* President Trump said the agreement would partly walk back some of the steep tariffs he threatened on the country last week. Indonesia’s president called Mr. Trump a “tough negotiator.”
-* 特朗普总统表示，该协议将部分收回他上周威胁对该国征收的高额关税。印尼总统称特朗普是“强硬的谈判代表”。
-* “Get ready to cope” was the message from an aid worker to women returning to Taliban rule in Afghanistan after their expulsion from Iran.
-* “准备好应对”是一名援助工作者在被伊朗驱逐出境后向返回阿富汗塔利班统治的妇女发出的信息。
-* Plus, “Severance” picks up top Emmy nominations.
-* 此外， “Severance”获得了艾美奖提名。
 
