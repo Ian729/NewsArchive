@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Health officials tampered with blood tests of some of the more than 200 children who were sickened by food tainted with lead, an investigation found.
+* 一项调查发现，卫生官员对200多名患有铅污染食物的儿童中的一些儿童进行了血液测试。
+* There is a growing drive to make the country more self-reliant in weapons manufacturing as it faces Russia’s superior firepower. That requires a lot of money from Western backers.
+* 在面对俄罗斯优越的火力时，越来越多的国家正在努力使该国在武器制造方面更加自力更生。这需要西方支持者的大量资金。
+* Beijing is betting that economic pressure and diplomatic defiance will force concessions, but its stance could put more strain on its ties with Europe at a crucial time.
+* 北京方面押注，经济压力和外交蔑视将迫使中国做出让步，但其立场可能会在关键时刻给其与欧洲的关系带来更大压力。
+* The European Union has its problems, but the bloc is gaining public trust and making new friends. President Trump’s attacks are one reason why.
+* 欧盟有其问题，但该集团正在赢得公众的信任并结交新朋友。特朗普总统的袭击是原因之一。
+* The strikes appear to have been the most intense since President Trump announced a new plan last week to send weapons to Ukraine.
+* 自特朗普总统上周宣布向乌克兰运送武器的新计划以来，罢工似乎是最激烈的。
 * Anyone new to Ukraine may quickly notice the disconnect between the front line and much of daily life farther away, including the patient behavior of pedestrians waiting to cross the street.
 * 任何刚来乌克兰的人都可能很快注意到前线与远处的大部分日常生活之间的脱节，包括等待过马路的行人的耐心行为。
-* Big Ocean, a boy band whose members are deaf or hard of hearing, has found success with a mix of singing and signing.
-* Big Ocean是一个男孩乐队，其成员是失聪或听力障碍者，通过唱歌和签名的混合取得了成功。
-* The tropical cyclone was expected to make landfall in mainland China later on Sunday with winds equivalent to those of a Category 2 Atlantic hurricane.
-* 预计热带气旋将于周日晚些时候在中国大陆登陆，风力相当于2级大西洋飓风。
-* Sectarian-tinged clashes left hundreds dead and attracted Israeli military intervention. A U.S. envoy said Israel and Syria had agreed to a truce.
-* 宗派冲突造成数百人死亡，并吸引了以色列的军事干预。一名美国特使表示，以色列和叙利亚已同意休战。
-* Defying demolition orders, a Chinese man turned his home into a rickety 11-story tower. Now tourists are coming.
-* 一名中国男子无视拆迁命令，将自己的家变成了一座摇摇欲坠的11层塔楼。现在游客来了。
-* The boat, carrying 46 passengers and three crew members, was on a sightseeing tour of Ha Long Bay when a sudden storm caused it to overturn, state media said. Ten people were rescued.
-* 官方媒体称，这艘载有46名乘客和3名船员的船正在下龙湾观光游览时，一场突如其来的风暴导致船只倾覆。十人获救。
-* Relatives of the Jeju Air disaster victims objected to the report in a stormy scene at a news conference, complaining that it blamed the pilots prematurely.
-* 济州航空灾难受害者的亲属在新闻发布会上的暴风雨现场对该报道表示反对，抱怨它过早地指责飞行员。
-* Thousands went missing during Syria’s decades-long intervention in Lebanon. Months after the fall of the Syrian regime, families are still clinging to hope.
-* 在叙利亚对黎巴嫩长达数十年的干预期间，数千人失踪。在叙利亚政权垮台几个月后，家庭仍然抱着希望。
-* The latest deaths add to U.N. figures showing that more than 670 Palestinians have been killed since May near sites built under a new Israel-backed aid system.
-* 最新的死亡人数增加了联合国的数据，显示自5月以来已有670多名巴勒斯坦人在以色列支持的新援助系统下建造的地点附近被杀。
-* Many of those who attended the trial returned to see a new play based on the case of Gisèle Pelicot, who confronted her ex-husband and dozens of men accused of raping her.
-* 许多参加审判的人回来看一部基于Gisèle Pelicot案件的新剧， Gisèle Pelicot面对她的前夫和数十名被指控强奸她的男人。
+* The loss on Sunday left the Liberal Democrats a minority party in both houses of Parliament, while two new nationalist parties surged.
+* 周日的失利使自由民主党在议会两院都成为少数党，而两个新的民族主义政党激增。
+* Iranian representatives will meet with negotiators from Britain, France and Germany on Friday, days after they threatened to restore sanctions.
+* 伊朗代表将于周五与来自英国、法国和德国的谈判代表会面，几天前他们威胁要恢复制裁。
+* The shootings took place after thousands of Palestinians gathered in the hope of getting humanitarian aid from U.N. trucks entering the Gaza Strip.
+* 枪击事件发生之前，数千名巴勒斯坦人聚集在一起，希望从进入加沙地带的联合国卡车中获得人道主义援助。
+* Over 260 people were released from prisons in El Salvador and Venezuela. Now they face the challenge of coming home.
+* 萨尔瓦多和委内瑞拉的监狱释放了260多人。现在，他们面临着回家的挑战。
 
 ## New York Times United States News
-* Shouting matches, walkouts and bitter fiscal fights have led to a series of legislative meltdowns, with big spending clashes ahead.
-* 高喊比赛、罢工和激烈的财政斗争导致了一系列立法崩溃，未来将出现大规模的支出冲突。
-* Trump cabinet officials mingled with tech investors and manufacturers in an effort to supercharge factories.
-* 特朗普内阁官员与科技投资者和制造商混在一起，努力为工厂增压。
-* The Trump administration has dialed back aggressive measures against China and reversed its position on technology controls as the president angles for a Chinese trip later this year.
-* 随着总统为今年晚些时候的中国之行做准备，特朗普政府已经取消了对中国的激进措施，并改变了其在技术控制方面的立场。
-* Local officials spent years trying to force Marvin Peavy to remove the giant pro-Trump banners from his home in the Florida Panhandle. This summer, Mr. Peavy is basking in victory.
-* 当地官员花了数年时间试图迫使Marvin Peavy从他在佛罗里达州狭长地带的家中删除巨大的亲特朗普横幅。今年夏天，皮维先生正沐浴在胜利中。
-* People across the United States have endured rushed or premature attempts to remove their organs. Some were gasping, crying or showing other signs of life.
-* 美国各地的人们匆忙或过早地试图摘取器官。有些人在喘气、哭泣或表现出其他生命迹象。
-* The new figure was a significant decline from 97 just days ago. The death toll in the county remained the same, and officials said many of the missing were reported safe.
-* 新数据比几天前的97大幅下降。该县的死亡人数保持不变，官员表示，许多失踪人员据报是安全的。
-* More than five inches fell in some suburbs of the capital. The authorities in Maryland rescued dozens of people, including some who were stranded in their cars.
-* 首都的一些郊区下降了超过5英寸。马里兰州当局救出了数十人，其中包括一些被困在车里的人。
-* Officials were looking into whether the explosion, which killed three sheriff’s deputies, was caused by devices seized from a condo in Santa Monica a day before the blast.
-* 官员们正在调查造成三名警长代表死亡的爆炸是否是在爆炸前一天从圣莫尼卡的公寓中查获的设备造成的。
-* Brenda Cropper, 66, died at a hospital after being in critical condition all week after the fire erupted on Sunday, officials said.
-* 官员说， 66岁的布伦达·克罗珀（ Brenda Cropper ）在周日火灾爆发后整周情况危急，在医院去世。
-* For nearly 15 years, the two men socialized together in Manhattan and Palm Beach, Fla., before a falling out that preceded Mr. Epstein’s first arrest.
-* 近15年来，两人在爱泼斯坦首次被捕之前，在佛罗里达州曼哈顿和棕榈滩一起社交。
+* By tapping into other grievances, President Trump managed to turn one of the most fractious moments for his base into a unifying one.
+* 通过利用其他不满，特朗普总统设法将他的基地最棘手的时刻之一变成了一个团结的时刻。
+* A hearing in Boston on Monday is expected to shape the future of negotiations between the White House and the nation’s oldest university.
+* 预计周一在波士顿举行的听证会将塑造白宫与美国最古老的大学之间谈判的未来。
+* The president threatened to block a deal for the Washington Commanders’ new stadium if the team did not bow to his demand.
+* 总统威胁说，如果球队不屈服于他的要求，他将阻止华盛顿指挥官新体育场的交易。
+* A man was arrested in connection with the crash on suspicion of arson, officials said. No injuries were reported.
+* 官员说，一名男子因涉嫌纵火而被捕。未报告受伤。
+* Last week, officials said 97 people were missing in Kerr County. Now, it’s down to three. The drop is substantial, but such wild fluctuations can happen after disasters.
+* 上周，官员们表示，克尔县有97人失踪。现在，它减少到三个。下降幅度很大，但灾后可能会出现这种剧烈波动。
+* Los Angeles’s mayor said Sunday that masked immigration agents helped create a “reign of terror.” ICE’s director said agents could wear masks to “keep them and their families safe.”
+* 洛杉矶市长周日表示，蒙面移民代理人帮助制造了“恐怖统治”。ICE的主管表示，特工可以戴上口罩，以“保证他们及其家人的安全”。
+* Members of Congress from both parties said they wanted to see more files released, while President Trump has encouraged his base to move on.
+* 来自两党的国会议员表示，他们希望看到更多文件被释放，而特朗普总统鼓励他的基础继续前进。
+* Mr. Larson, the last survivor of a unit that stormed Omaha Beach in 1944, shared his memories on social media where he amassed a wide following.
+* 拉尔森先生是1944年袭击奥马哈海滩的一个部队的最后一名幸存者，他在社交媒体上分享了他的记忆，在那里他积累了广泛的追随者。
+* A former Jeffrey Epstein employee said that she told the F.B.I. in 1996 and 2006 about what she considered a troubling encounter with Donald J. Trump.
+* 一位前杰弗里·爱泼斯坦（ Jeffrey Epstein ）员工说，她在1996年和2006年告诉联邦调查局，她认为与唐纳德· J ·特朗普（ Donald J. Trump ）的遭遇令人不安。
+* Justin Fulcher, an adviser to Defense Secretary Pete Hegseth, said in a statement that he had planned to work in the federal government for only six months.
+* 国防部长皮特·赫格塞斯（ Pete Hegseth ）的顾问贾斯汀·富尔彻（ Justin Fulcher ）在一份声明中表示，他计划在联邦政府工作仅六个月。
 
 ## New York Times Asia News
+* Health officials tampered with blood tests of some of the more than 200 children who were sickened by food tainted with lead, an investigation found.
+* 一项调查发现，卫生官员对200多名患有铅污染食物的儿童中的一些儿童进行了血液测试。
+* As rescuers search for the missing under the rubble, thousands of evacuated villagers face the daunting task of rebuilding their homes.
+* 当救援人员在废墟下寻找失踪者时，成千上万被疏散的村民面临着重建家园的艰巨任务。
+* Beijing is betting that economic pressure and diplomatic defiance will force concessions, but its stance could put more strain on its ties with Europe at a crucial time.
+* 北京方面押注，经济压力和外交蔑视将迫使中国做出让步，但其立场可能会在关键时刻给其与欧洲的关系带来更大压力。
+* Plus, a film takes us back to the pandemic.
+* 此外，一部电影将我们带回了疫情。
+* The loss on Sunday left the Liberal Democrats a minority party in both houses of Parliament, while two new nationalist parties surged.
+* 周日的失利使自由民主党在议会两院都成为少数党，而两个新的民族主义政党激增。
+* The fire happened aboard the KM Barcelona 5 in the waters of North Sulawesi Province in Indonesia on Sunday morning, officials said.
+* 官员说，星期天早上，印度尼西亚北苏拉威西省水域的巴塞罗那5号公路上发生了火灾。
+* A Wells Fargo banker and a U.S. government employee were blocked from leaving, and a Japanese pharmaceutical executive was imprisoned, even as Beijing tries to court overseas investors.
+* 富国银行(Wells Fargo)的一名银行家和一名美国政府雇员被阻止离开，一名日本制药公司高管被监禁，尽管北京方面正试图吸引海外投资者。
 * The Trump administration has dialed back aggressive measures against China and reversed its position on technology controls as the president angles for a Chinese trip later this year.
 * 随着总统为今年晚些时候的中国之行做准备，特朗普政府已经取消了对中国的激进措施，并改变了其在技术控制方面的立场。
-* The tropical cyclone was expected to make landfall in mainland China later on Sunday with winds equivalent to those of a Category 2 Atlantic hurricane.
-* 预计热带气旋将于周日晚些时候在中国大陆登陆，风力相当于2级大西洋飓风。
+* The tropical cyclone made landfall in mainland China late Sunday afternoon with winds near to those of a Category 1 Atlantic hurricane.
+* 热带气旋于周日下午晚些时候在中国大陆登陆，风力接近1级大西洋飓风。
 * Big Ocean, a boy band whose members are deaf or hard of hearing, has found success with a mix of singing and signing.
 * Big Ocean是一个男孩乐队，其成员是失聪或听力障碍者，通过唱歌和签名的混合取得了成功。
-* The boat, carrying 46 passengers and three crew members, was on a sightseeing tour of Ha Long Bay when a sudden storm caused it to overturn, state media said. Ten people were rescued.
-* 官方媒体称，这艘载有46名乘客和3名船员的船正在下龙湾观光游览时，一场突如其来的风暴导致船只倾覆。十人获救。
-* Relatives of the Jeju Air disaster victims objected to the report in a stormy scene at a news conference, complaining that it blamed the pilots prematurely.
-* 济州航空灾难受害者的亲属在新闻发布会上的暴风雨现场对该报道表示反对，抱怨它过早地指责飞行员。
-* Shigeru Ishiba of the long-governing Liberal Democratic Party could face calls to resign if his party fares poorly in Sunday’s Upper House elections.
-* 长期执政的自民党(Liberal Democratic Party)石叶茂(Shigeru Ishiba)如果在周日的上议院选举中表现不佳，可能会面临辞职的呼声。
-* Defying demolition orders, a Chinese man turned his home into a rickety 11-story tower. Now tourists are coming.
-* 一名中国男子无视拆迁命令，将自己的家变成了一座摇摇欲坠的11层塔楼。现在游客来了。
-* With his calls to limit foreign workers, fight globalism and put “Japanese First,” Sohei Kamiya has brought a fiery right-wing populism to Japan’s election on Sunday.
-* 神谷宗平(Sohei Kamiya)呼吁限制外国工人、打击全球主义，并把“日本优先” (Japanese First)放在首位，这给周日的日本大选带来了激烈的右翼民粹主义。
-* The anatomy of a Chinese fossil offers a hint that birdsong may be as old as the dinosaurs themselves.
-* 中国化石的解剖结构表明，鸟鸣声可能与恐龙本身一样古老。
-* Relentless rain began on Wednesday, causing flooding in several cities and across vast rural stretches in the province of Punjab.
-* 周三开始无情的降雨，导致旁遮普省几个城市和广阔的农村地区发生洪水。
 
