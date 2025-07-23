@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* The theocratic government is repurposing folklore and patriotic anthems as it seeks to channel national outrage into increasing its support at home.
+* 神权政府正在重新利用民间传说和爱国歌曲，因为它试图将国家的愤怒引导到增加其在国内的支持。
+* Ukraine’s president ran on a promise to clean things up, but critics say his government is cracking down on anti-corruption activists, critics and agencies.
+* 乌克兰总统承诺清理干净，但批评人士说，他的政府正在打击反腐败活动家、批评者和机构。
+* The aid agency says its buildings in the central part of the territory were attacked after the military targeted Deir al-Balah, which had largely been spared.
+* 援助机构表示，在军队以Deir al-Balah为目标后，其在该领土中部的建筑物遭到袭击，而Deir al-Balah基本上没有受到影响。
+* Nearly all of the 31 killed when the plane crashed were children. Dozens more were being treated as the nation declared a day of mourning.
+* 飞机坠毁时遇难的31人几乎都是儿童。随着国家宣布哀悼日，还有数十人受到对待。
+* Russia and Ukraine are expected to hold another round of negotiations on Wednesday in Istanbul, but the two warring countries have flatly rejected each other’s demands.
+* 俄罗斯和乌克兰预计将于周三在伊斯坦布尔举行另一轮谈判，但两个交战国断然拒绝对方的要求。
+* Thousands of people were working on the informal mining site in eastern Congo, in an area controlled by an armed militia.
+* 成千上万的人在刚果东部一个由武装民兵控制的地区的非正式矿区工作。
+* The demonstrators were angered by government moves to dismantle anticorruption efforts and quell dissent.
+* 示威者对政府取消反腐败努力和平息异议的举动感到愤怒。
 * The former White House aide recently returned to her roots, advising Britain on defense and taking a role at Durham University in northeastern England. She still has her eye on global threats.
 * 这位前白宫助手最近重返家园，为英国提供防务建议，并在英格兰东北部的达勒姆大学(Durham University)任职。她仍然关注全球威胁。
 * When two bodies were found in a popular Roman park, Italians wanted answers. A TV program specializing in missing people helped identify them, and a suspect.
 * 当两具尸体在一个受欢迎的罗马公园被发现时，意大利人想要得到答案。一个专门针对失踪人员的电视节目帮助识别了他们和嫌疑人。
 * Historically neutral, the country is set to double military spending, even in the midst of a budget crisis, as its neighbors also spend big to counter Russia.
 * 从历史上看，即使在预算危机期间，该国的军费开支也将增加一倍，因为其邻国也会花费大量资金来对抗俄罗斯。
-* The theocratic government is repurposing folklore and patriotic anthems as it seeks to channel national outrage into increasing its support at home.
-* 神权政府正在重新利用民间传说和爱国歌曲，因为它试图将国家的愤怒引导到增加其在国内的支持。
-* Over the weekend, Israeli soldiers shot Palestinians near an Israeli-backed aid site and a U.N. convoy. Both episodes pointed to Israel’s refusal to allow new governance structures to emerge.
-* 上周末，以色列士兵在以色列支持的援助地点和联合国车队附近向巴勒斯坦人开枪。这两起事件都表明以色列拒绝允许新的治理结构出现。
-* The head of the agency that helps oversee international aid deliveries to the territory has criticized the impact of Israeli policy on civilians.
-* 帮助监督向该领土提供国际援助的机构负责人批评了以色列政策对平民的影响。
-* More than 170 people were injured after the training aircraft crashed, military officials said. The country’s interim leader called the loss “irreparable.”
-* 军方官员说，在训练飞机坠毁后，有170多人受伤。该国临时领导人称这一损失“无法弥补”。
-* As inflation surges under President Trump’s renewed sanctions, Venezuelan authorities are trying to keep a lid on the country’s worsening financial situation.
-* 随着特朗普总统重新实施制裁导致通货膨胀飙升，委内瑞拉当局正试图遏制该国日益恶化的金融形势。
-* There is a growing drive to make the country more self-reliant in weapons manufacturing as it faces Russia’s superior firepower. That requires a lot of money from Western backers.
-* 在面对俄罗斯优越的火力时，越来越多的国家正在努力使该国在武器制造方面更加自力更生。这需要西方支持者的大量资金。
-* Health officials tampered with blood tests of some of the more than 200 children who were sickened by food tainted with lead, an investigation found.
-* 一项调查发现，卫生官员对200多名患有铅污染食物的儿童中的一些儿童进行了血液测试。
 
 ## New York Times United States News
-* President Trump has placed a 20 percent tariff on goods imported from the country, effective Aug. 1.
-* 特朗普总统已对从该国进口的商品征收20 ％的关税，自8月1日起生效。
-* “Music & the Spoken Word” has been on the air since 1929. Much has changed, yet much has remained exactly the same.
-* “音乐与口语”自1929年以来一直在播出。很多事情都发生了变化，但很多事情都保持不变。
-* The Trump administration’s efforts to deport foreign students who espoused pro-Palestinian views under a little-used foreign policy provision have no obvious legal parallel.
-* 特朗普政府根据鲜为人知的外交政策条款驱逐支持亲巴勒斯坦观点的外国学生的努力在法律上没有明显的相似之处。
-* More than 750 workers have resigned with incentives, and more than 150 others have resigned without. The agency has also laid off 129 people.
-* 已有750多名工人通过激励措施辞职，另有150多人在没有激励措施的情况下辞职。该机构还解雇了129人。
-* Three other people were rescued on Saturday when a group of people strayed into an unsafe section of the Deschutes River near Bend, Ore., the authorities said.
-* 当局表示，周六，当一群人误入俄勒冈州本德附近的Deschutes河的一个不安全区域时，另有三人获救。
-* How the president is using the levers of government power against the news industry.
-* 总统如何利用政府权力的杠杆来对付新闻业。
-* The sentence was a sharp rebuke to the Trump administration, which had requested he serve only one day behind bars.
-* 这一判决是对特朗普政府的严厉指责，特朗普政府曾要求他只服刑一天。
-* Orange juice prices in the U.S. are already high. The suit argues that the tariff would lead to retail price hikes of up to 25 percent.
-* 美国的橙汁价格已经很高了。该诉讼认为，关税将导致零售价格上涨高达25%。
-* In a profane tirade, the former president’s son sought to settle scores with Anita Dunn, David Axelrod, James Carville and George Clooney. Among others.
-* 在一场亵渎神明的长篇大论中，这位前总统的儿子试图与安妮塔·邓恩（ Anita Dunn ）、大卫·阿克塞尔罗德（ David Axelrod ）、詹姆斯·卡维尔（ James Carville ）和乔
-* The man jumped into the water to help a boater who had become trapped in the powerful, washing machine-like waters at the base of the dam.
-* 这名男子跳入水中，帮助一艘被困在大坝底部强大的洗衣机般的水中的船只。
+* Omar Fateh, a young democratic socialist, beat out an establishment Democrat for the party’s endorsement in Minneapolis. But the parallels with Zohran Mamdani in New York might end there.
+* 年轻的民主社会主义者奥马尔·法塔赫（ Omar Fateh ）在明尼阿波利斯击败了一位建制派民主党人，获得了该党的支持。但与纽约的Zohran Mamdani的相似之处可能就此结束。
+* The students’ families will have an opportunity to address the court, and many hope for answers to one major question about the brutal case: What was the motive?
+* 学生的家人将有机会在法庭上发言，许多人希望得到关于残酷案件的一个主要问题的答案：动机是什么？
+* The party’s last rebuilding effort took nearly a decade and followed debilitating ideological battles. Some in the party see it as a model, up to a point.
+* 该党的最后一次重建工作花了近十年的时间，随后进行了破坏性的意识形态斗争。党内的一些人认为这是一个典范，在某种程度上。
+* More than six months after the fires, officials determined that another person had died in Altadena.
+* 火灾发生六个多月后，官员确定阿尔塔迪纳还有一人死亡。
+* President Trump said on Tuesday that the trade deal he struck with one of America’s closest allies would impose a 15 percent tariff on Japanese exports.
+* 特朗普总统周二表示，他与美国最亲密的盟友之一达成的贸易协议将对日本出口征收15%的关税。
+* From land, a rip current can appear relatively calm, as a strip of water that extends out between breaking waves. Its appearance can be deceiving.
+* 从陆地上看，裂流可能看起来相对平静，就像一条在破浪之间延伸的水带。它的外表可能具有欺骗性。
+* The fire began in a resident’s room in an assisted living facility in Fall River, where investigators found an oxygen machine and “smoking materials.”
+* 火灾始于福尔里弗（ Fall River ）一家辅助生活设施的居民房间，调查人员在那里发现了一台氧气机和“吸烟材料”。
+* Two prominent medical centers in California recently announced they would stop treatments, citing pressure from the Trump administration.
+* 加利福尼亚州的两家著名医疗中心最近宣布，他们将停止治疗，理由是特朗普政府的压力。
+* Talking to reporters from the Oval Office, President Trump accused his predecessor of treason.
+* 特朗普总统在与椭圆形办公室的记者交谈时指责他的前任叛国。
+* A judge issued a preliminary injunction that allowed only some of the group’s health centers to receive payments for services like birth control and checkups.
+* 一名法官发布了一项初步禁令，仅允许该集团的部分医疗中心获得节育和体检等服务的付款。
 
 ## New York Times Asia News
-* President Trump has placed a 20 percent tariff on goods imported from the country, effective Aug. 1.
-* 特朗普总统已对从该国进口的商品征收20 ％的关税，自8月1日起生效。
+* After months of fraught negotiations with the United States, Japan clinched a deal just days before punitive tariffs were scheduled to take effect.
+* 在与美国进行了数月的紧张谈判后，日本在惩罚性关税计划生效前几天达成了一项协议。
+* Washington had been a buffer against China’s efforts to use UNESCO to influence education, historical designations and even artificial intelligence.
+* 华盛顿一直是中国利用联合国教科文组织影响教育、历史名称甚至人工智能的努力的缓冲。
+* The company said state-backed hacking groups were breaching systems through flaws in SharePoint, which is used by the U.S. government and companies around the world.
+* 该公司表示，国家支持的黑客组织正在通过美国政府和世界各地公司使用的SharePoint漏洞来破坏系统。
+* Plus, the death of Ozzy Osbourne.
+* 此外，还有奥兹·奥斯本的去世。
+* The administration provided some insight into the terms that were agreed upon between Indonesia and the United States, hinting at how other vague and hastily negotiated deals may turn out.
+* 政府对印尼和美国之间达成的条款提供了一些见解，暗示了其他模糊和匆忙谈判的交易可能会如何。
+* Nearly all of the 31 killed when the plane crashed were children. Dozens more were being treated as the nation declared a day of mourning.
+* 飞机坠毁时遇难的31人几乎都是儿童。随着国家宣布哀悼日，还有数十人受到对待。
+* A British F-35B took flight weeks after it was grounded with a mechanical hitch. Some locals who had embraced the jet were sad to see it go.
+* 一架英国F-35B在机械故障停飞数周后进行了飞行。一些拥抱这架喷气式飞机的当地人很伤心地看到它消失了。
+* President Trump announced that he had secured a deal with the country that will leave a 19 percent tariff in place, though no details were immediately available.
+* 特朗普总统宣布，他已与该国达成协议，将保留19%的关税，但没有立即公布细节。
 * Bed sharing tends to be unpopular and contentious in the United States. But in many Asian countries, the question is often not whether to do it, but when to stop.
 * 在美国，共用床位往往不受欢迎且存在争议。但在许多亚洲国家，问题往往不是是否这样做，而是何时停止。
 * Plus, New Zealand wines with something extra.
 * 此外，新西兰葡萄酒还有其他特色。
-* The man, a U.S. citizen, is barred from leaving China by the Ministry of State Security, the country’s main intelligence and counterintelligence agency.
-* 这名男子是美国公民，被该国主要的情报和反间谍机构国家安全部禁止离开中国。
-* Anti-establishment parties focused on wages, immigration and an unresponsive political elite struck a chord with working-age people in Japan.
-* 专注于工资、移民和反应迟钝的政治精英的反建制党派与日本的工作年龄人群产生了共鸣。
-* Investigators found the Jeju Air flight crash-landed with only its badly damaged right engine on, but experts warned against drawing early conclusions.
-* 调查人员发现济州航空公司的航班坠毁时只有严重受损的右发动机，但专家警告不要得出早期结论。
-* More than 170 people were injured after the training aircraft crashed, military officials said. The country’s interim leader called the loss “irreparable.”
-* 军方官员说，在训练飞机坠毁后，有170多人受伤。该国临时领导人称这一损失“无法弥补”。
-* Health officials tampered with blood tests of some of the more than 200 children who were sickened by food tainted with lead, an investigation found.
-* 一项调查发现，卫生官员对200多名患有铅污染食物的儿童中的一些儿童进行了血液测试。
-* As rescuers search for the missing under the rubble, thousands of evacuated villagers face the daunting task of rebuilding their homes.
-* 当救援人员在废墟下寻找失踪者时，成千上万被疏散的村民面临着重建家园的艰巨任务。
-* Beijing is betting that economic pressure and diplomatic defiance will force concessions, but its stance could put more strain on its ties with Europe at a crucial time.
-* 北京方面押注，经济压力和外交蔑视将迫使中国做出让步，但其立场可能会在关键时刻给其与欧洲的关系带来更大压力。
 
