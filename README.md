@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The theocratic government is repurposing folklore and patriotic anthems as it seeks to channel national outrage into increasing its support at home.
-* 神权政府正在重新利用民间传说和爱国歌曲，因为它试图将国家的愤怒引导到增加其在国内的支持。
-* Ukraine’s president ran on a promise to clean things up, but critics say his government is cracking down on anti-corruption activists, critics and agencies.
-* 乌克兰总统承诺清理干净，但批评人士说，他的政府正在打击反腐败活动家、批评者和机构。
-* The aid agency says its buildings in the central part of the territory were attacked after the military targeted Deir al-Balah, which had largely been spared.
-* 援助机构表示，在军队以Deir al-Balah为目标后，其在该领土中部的建筑物遭到袭击，而Deir al-Balah基本上没有受到影响。
-* Nearly all of the 31 killed when the plane crashed were children. Dozens more were being treated as the nation declared a day of mourning.
-* 飞机坠毁时遇难的31人几乎都是儿童。随着国家宣布哀悼日，还有数十人受到对待。
-* Russia and Ukraine are expected to hold another round of negotiations on Wednesday in Istanbul, but the two warring countries have flatly rejected each other’s demands.
-* 俄罗斯和乌克兰预计将于周三在伊斯坦布尔举行另一轮谈判，但两个交战国断然拒绝对方的要求。
-* Thousands of people were working on the informal mining site in eastern Congo, in an area controlled by an armed militia.
-* 成千上万的人在刚果东部一个由武装民兵控制的地区的非正式矿区工作。
-* The demonstrators were angered by government moves to dismantle anticorruption efforts and quell dissent.
-* 示威者对政府取消反腐败努力和平息异议的举动感到愤怒。
-* The former White House aide recently returned to her roots, advising Britain on defense and taking a role at Durham University in northeastern England. She still has her eye on global threats.
-* 这位前白宫助手最近重返家园，为英国提供防务建议，并在英格兰东北部的达勒姆大学(Durham University)任职。她仍然关注全球威胁。
-* When two bodies were found in a popular Roman park, Italians wanted answers. A TV program specializing in missing people helped identify them, and a suspect.
-* 当两具尸体在一个受欢迎的罗马公园被发现时，意大利人想要得到答案。一个专门针对失踪人员的电视节目帮助识别了他们和嫌疑人。
-* Historically neutral, the country is set to double military spending, even in the midst of a budget crisis, as its neighbors also spend big to counter Russia.
-* 从历史上看，即使在预算危机期间，该国的军费开支也将增加一倍，因为其邻国也会花费大量资金来对抗俄罗斯。
-
-## New York Times United States News
-* Omar Fateh, a young democratic socialist, beat out an establishment Democrat for the party’s endorsement in Minneapolis. But the parallels with Zohran Mamdani in New York might end there.
-* 年轻的民主社会主义者奥马尔·法塔赫（ Omar Fateh ）在明尼阿波利斯击败了一位建制派民主党人，获得了该党的支持。但与纽约的Zohran Mamdani的相似之处可能就此结束。
-* The students’ families will have an opportunity to address the court, and many hope for answers to one major question about the brutal case: What was the motive?
-* 学生的家人将有机会在法庭上发言，许多人希望得到关于残酷案件的一个主要问题的答案：动机是什么？
-* The party’s last rebuilding effort took nearly a decade and followed debilitating ideological battles. Some in the party see it as a model, up to a point.
-* 该党的最后一次重建工作花了近十年的时间，随后进行了破坏性的意识形态斗争。党内的一些人认为这是一个典范，在某种程度上。
-* More than six months after the fires, officials determined that another person had died in Altadena.
-* 火灾发生六个多月后，官员确定阿尔塔迪纳还有一人死亡。
-* President Trump said on Tuesday that the trade deal he struck with one of America’s closest allies would impose a 15 percent tariff on Japanese exports.
-* 特朗普总统周二表示，他与美国最亲密的盟友之一达成的贸易协议将对日本出口征收15%的关税。
-* From land, a rip current can appear relatively calm, as a strip of water that extends out between breaking waves. Its appearance can be deceiving.
-* 从陆地上看，裂流可能看起来相对平静，就像一条在破浪之间延伸的水带。它的外表可能具有欺骗性。
-* The fire began in a resident’s room in an assisted living facility in Fall River, where investigators found an oxygen machine and “smoking materials.”
-* 火灾始于福尔里弗（ Fall River ）一家辅助生活设施的居民房间，调查人员在那里发现了一台氧气机和“吸烟材料”。
-* Two prominent medical centers in California recently announced they would stop treatments, citing pressure from the Trump administration.
-* 加利福尼亚州的两家著名医疗中心最近宣布，他们将停止治疗，理由是特朗普政府的压力。
-* Talking to reporters from the Oval Office, President Trump accused his predecessor of treason.
-* 特朗普总统在与椭圆形办公室的记者交谈时指责他的前任叛国。
-* A judge issued a preliminary injunction that allowed only some of the group’s health centers to receive payments for services like birth control and checkups.
-* 一名法官发布了一项初步禁令，仅允许该集团的部分医疗中心获得节育和体检等服务的付款。
-
-## New York Times Asia News
-* After months of fraught negotiations with the United States, Japan clinched a deal just days before punitive tariffs were scheduled to take effect.
-* 在与美国进行了数月的紧张谈判后，日本在惩罚性关税计划生效前几天达成了一项协议。
+* Both nations accused the other of firing first in their deadliest fighting in more than a decade. Thai authorities said the clashes had killed 11 civilians and a soldier.
+* 两国都指责对方在十多年来最致命的战斗中首先开火。泰国当局表示，冲突已造成11名平民和一名士兵死亡。
+* European Union officials and China’s top leaders arrived at a summit in Beijing split over trade. They came together on the need to address climate change.
+* 欧盟官员和中国高层领导人抵达北京，在贸易问题上出现分歧。他们聚集在一起，共同探讨应对气候变化的必要性。
+* The flow of goods in Manzhouli, China’s main border crossing with Russia, underscores increasingly close ties between the two countries, complicating China’s relationship with Europe.
+* 中国与俄罗斯的主要过境点满洲里的货物流动凸显了两国之间日益密切的关系，使中国与欧洲的关系复杂化。
+* The agreement Japan secured has added pressure on South Korea to defuse the threat of high tariffs on its exports to the United States.
+* 日本获得的协议增加了对韩国的压力，以化解其对美国出口产品征收高关税的威胁。
+* Spain was the only NATO ally not to commit to a large increase in military expenditures. Its embrace of a social safety net is a key reason.
+* 西班牙是唯一一个不承诺大幅增加军事开支的北约盟国。它拥抱社会安全网是一个关键原因。
 * Washington had been a buffer against China’s efforts to use UNESCO to influence education, historical designations and even artificial intelligence.
 * 华盛顿一直是中国利用联合国教科文组织影响教育、历史名称甚至人工智能的努力的缓冲。
-* The company said state-backed hacking groups were breaching systems through flaws in SharePoint, which is used by the U.S. government and companies around the world.
-* 该公司表示，国家支持的黑客组织正在通过美国政府和世界各地公司使用的SharePoint漏洞来破坏系统。
-* Plus, the death of Ozzy Osbourne.
-* 此外，还有奥兹·奥斯本的去世。
-* The administration provided some insight into the terms that were agreed upon between Indonesia and the United States, hinting at how other vague and hastily negotiated deals may turn out.
-* 政府对印尼和美国之间达成的条款提供了一些见解，暗示了其他模糊和匆忙谈判的交易可能会如何。
-* Nearly all of the 31 killed when the plane crashed were children. Dozens more were being treated as the nation declared a day of mourning.
-* 飞机坠毁时遇难的31人几乎都是儿童。随着国家宣布哀悼日，还有数十人受到对待。
-* A British F-35B took flight weeks after it was grounded with a mechanical hitch. Some locals who had embraced the jet were sad to see it go.
-* 一架英国F-35B在机械故障停飞数周后进行了飞行。一些拥抱这架喷气式飞机的当地人很伤心地看到它消失了。
-* President Trump announced that he had secured a deal with the country that will leave a 19 percent tariff in place, though no details were immediately available.
-* 特朗普总统宣布，他已与该国达成协议，将保留19%的关税，但没有立即公布细节。
-* Bed sharing tends to be unpopular and contentious in the United States. But in many Asian countries, the question is often not whether to do it, but when to stop.
-* 在美国，共用床位往往不受欢迎且存在争议。但在许多亚洲国家，问题往往不是是否这样做，而是何时停止。
-* Plus, New Zealand wines with something extra.
-* 此外，新西兰葡萄酒还有其他特色。
+* President Volodymyr Zelensky signed a bill limiting two Ukrainian anticorruption agencies. After street protests and other criticism, he said he would propose a new law restoring their independence.
+* 总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）签署了一项限制两个乌克兰反腐败机构的法案。在街头抗议和其他批评之后，他说他将提出一项新的法律，恢复他们的独立性。
+* More than 100 organizations, including Save the Children and Doctors Without Borders, added to growing calls for aid restrictions to be eased and the war to end.
+* 包括拯救儿童联盟（ Save the Children ）和无国界医生组织（ Doctors Without Borders ）在内的100多个组织加大了人们对放宽援助限制和结束战争的呼吁。
+* Many Scots refuse to make peace with President Trump or his golf resorts, even after he deepened his investment in the land where his mother was born.
+* 许多苏格兰人拒绝与特朗普总统或他的高尔夫度假村和平相处，即使他在母亲出生的土地上加大了投资力度。
+* For weeks, fires and explosions have been reported almost daily in Iran. Officials are investigating what they think is a coordinated campaign.
+* 几周来，伊朗几乎每天都有火灾和爆炸的报道。官员们正在调查他们认为是一场协调一致的运动。
+
+## New York Times United States News
+* A conspiracy theory many of them once dismissed has given Democrats a potent tool for exploiting G.O.P. divisions, even if it has little to do with what many regard as their best line of attack against Republicans.
+* 他们中的许多人一度被解雇的阴谋论为民主党提供了一个利用共和党分裂的有力工具，即使这与许多人认为他们对共和党的最佳攻击线无关。
+* A plan in Texas that could give Republicans at least five more House seats has Democrats fuming, and without many paths to fight it.
+* 德克萨斯州的一项计划可能让共和党人至少再获得五个众议院席位，这让民主党人感到愤怒，而且没有多少路可走。
+* An analysis released Thursday by the Council on Criminal Justice shows that the majority of crimes the council tracks are continuing to decrease in 42 U.S. cities.
+* 刑事司法委员会周四发布的一项分析显示，该委员会追踪的大多数犯罪在美国42个城市继续减少。
+* A rescue operation is underway at the Red Chris gold and copper mine to reach the trapped miners, who were safe in a sealed chamber underground, according to officials.
+* 据官员称，红克里斯金铜矿正在进行救援行动，以帮助被困的矿工，他们在地下密封的房间里是安全的。
+* The administration has repeatedly criticized Jerome H. Powell, the chair of the central bank, for his handling of the economy and the cost of renovations at the institution’s headquarters.
+* 政府一再批评央行行长杰罗姆· H ·鲍威尔（ Jerome H. Powell ）处理经济和该机构总部翻新成本。
+* The ruling from the U.S. Court of Appeals for the Ninth Circuit brings the White House’s theory of citizenship closer to a full Supreme Court review.
+* 美国第九巡回上诉法院的裁决使白宫的公民身份理论更接近于最高法院的全面审查。
+* The former flight attendant, Estes Carter Thompson III, of Charlotte, N.C., secretly filmed girls using the restroom on American Airlines flights in 2023, prosecutors said.
+* 检察官说，前空乘人员，北卡罗来纳州夏洛特的埃斯蒂斯·卡特·汤普森三世（ Estes Carter Thompson III ）于2023年在美国航空公司的航班上秘密拍摄了女孩使用洗手间的镜头。
+* In the Biden era, the government feared AI models would guide the spread of chemical, biological or nuclear weapons. President Trump signed an order on “Preventing Woke A.I. in the Federal Government.”
+* 在拜登时代，政府担心人工智能模型将引导化学、生物或核武器的扩散。特朗普总统签署了一项关于“防止在联邦政府中唤醒人工智能”的命令。
+* The Republican-led House Appropriations Committee put forth legislation that would slash the foreign aid and State Department budget but salvage some programs that the president wants to defund.
+* 共和党领导的众议院拨款委员会提出了一项立法，将削减对外援助和国务院预算，但挽救总统希望取消的一些项目。
+* Police reports released by the authorities in Moscow, Idaho, detail what investigators found at the scene where four University of Idaho students were fatally stabbed.
+* 爱达荷州莫斯科当局发布的警方报告详细说明了调查人员在爱达荷大学四名学生被致命刺伤的现场发现的情况。
+
+## New York Times Asia News
+* 
+* 
+* The countries traded fire across their shared border on Thursday. Thailand said at least 11 civilians and one soldier had been killed, while Cambodia did not immediately comment on any casualties.
+* 周四，两国跨越共同边界进行了交火。泰国表示，至少有11名平民和一名士兵被杀，而柬埔寨没有立即对任何伤亡发表评论。
+* The powdered Japanese green tea is increasingly hard to find. Experts say its popularity on the internet is straining Japan’s tea industry.
+* 日本绿茶粉越来越难找到。专家表示，它在互联网上的受欢迎程度正在给日本的茶业带来压力。
+* The agreement Japan secured has added pressure on South Korea to defuse the threat of high tariffs on its exports to the United States.
+* 日本获得的协议增加了对韩国的压力，以化解其对美国出口产品征收高关税的威胁。
+* The two nations have been locked in a decades-long conflict over their contested border. Tensions in disputed territories soured earlier this year.
+* 两国在有争议的边界上陷入了长达数十年的冲突。争议领土的紧张局势在今年早些时候恶化。
+* The flow of goods in Manzhouli, China’s main border crossing with Russia, underscores increasingly close ties between the two countries, complicating China’s relationship with Europe.
+* 中国与俄罗斯的主要过境点满洲里的货物流动凸显了两国之间日益密切的关系，使中国与欧洲的关系复杂化。
+* President Trump’s 15 percent tariff on cars from Japan has angered U.S. automakers, which make cars in Canada and Mexico subject to 25 percent tariffs.
+* 特朗普总统对来自日本的汽车征收15 ％的关税激怒了美国汽车制造商，这些汽车制造商在加拿大和墨西哥生产的汽车征收25 ％的关税。
+* Soldiers traded fire over a disputed border after weeks of diplomatic tension between the Southeast Asian nations.
+* 在东南亚国家之间的外交紧张局势持续数周之后，士兵们在有争议的边界上交火。
+* European Union officials and China’s top leaders arrived at a summit in Beijing split over trade. They came together on the need to address climate change.
+* 欧盟官员和中国高层领导人抵达北京，在贸易问题上出现分歧。他们聚集在一起，共同探讨应对气候变化的必要性。
+* Plus, meet the other great Kurosawa.
+* 此外，还可以与另一位伟大的黑泽明见面。
 
