@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Some European politicians are dismayed that the European Union did not drive a harder bargain, but facing the threat of a damaging trade war, officials say they had little choice.
-* 一些欧洲政界人士对欧盟没有推动更艰难的谈判感到沮丧，但面对破坏性贸易战的威胁，官员们表示他们别无选择。
-* The rains set off flooding and landslides, forcing tens of thousands of people to flee their homes in the capital and neighboring Hebei Province.
-* 暴雨引发了洪水和山体滑坡，迫使成千上万的人逃离首都和邻近的河北省的家园。
-* The talks between commanders on both sides were seen as a crucial test of whether the cease-fire deal reached on Monday would result in a lasting peace.
-* 双方指挥官之间的会谈被视为对周一达成的停火协议是否会导致持久和平的关键考验。
-* Two government officials said Britain was actively weighing the recognition of a Palestinian state, in a shift driven by public pressure over starvation in Gaza.
-* 两名政府官员表示，由于公众对加沙饥荒的压力，英国正在积极考虑承认巴勒斯坦国。
-* Israel ended a truce in Gaza in March, hoping to break Hamas. The move has heightened suffering for Palestinians but achieved few, if any, Israeli goals.
-* 以色列于3月结束了在加沙的停火，希望打破哈马斯。此举加剧了巴勒斯坦人的痛苦，但几乎没有实现以色列的目标。
+* Officials in Hawaii said the risk of a major tsunami had passed. The first waves began hitting the U.S. West Coast after an 8.8-magnitude quake off Russia’s coast put a swath of Pacific nations on alert.
+* 夏威夷官员表示，大海啸的风险已经过去。在俄罗斯沿海发生8.8级地震后，第一波地震开始袭击美国西海岸，使一大片太平洋国家处于警戒状态。
+* The Israeli military said it killed at least three Hamas operatives at Al-Baqa Cafe. It also killed a journalist, an artist and two best friends reconciling after a fight.
+* 以色列军方说，它在Al-Baqa咖啡馆杀死了至少三名哈马斯特工。它还杀死了一名记者，一名艺术家和两名最好的朋友在战斗后和解。
+* Faced with threats of 50 percent tariffs and demands to end a criminal case, President Luiz Inácio Lula da Silva said he wouldn’t take orders from President Trump.
+* 面对50 ％关税的威胁和结束刑事案件的要求，总统路易斯·伊纳西奥·卢拉·达席尔瓦表示，他不会接受特朗普总统的命令。
+* Intense nationalism and disputed history — and maps — stoke the neighbors’ hostilities. Even a surge of international diplomacy has brought little hope of a lasting peace.
+* 强烈的民族主义和有争议的历史--以及地图--激起了邻国的敌意。即使是国际外交的激增，也几乎没有带来持久和平的希望。
+* The Taiwanese leader canceled U.S. transit visits after being urged to change his plans, two officials said. Washington has been in talks with Beijing over trade and a possible summit.
+* 两名官员表示，这位台湾领导人在被敦促改变计划后取消了美国的过境访问。华盛顿一直在与北京就贸易和可能的峰会进行谈判。
+* Prime Minister Keir Starmer said his government would act unless there was a truce, citing the “intolerable” humanitarian crisis in Gaza.
+* 总理凯尔·斯塔默（ Keir Starmer ）表示，除非停火，否则他的政府将采取行动，理由是加沙“无法容忍”的人道主义危机。
 * Officials acknowledge that Kenya has a doping problem, but many athletes who are seeking an edge also want a way out of poverty.
 * 官员们承认肯尼亚存在兴奋剂问题，但许多寻求优势的运动员也希望摆脱贫困。
-* Finns trying to enjoy beaches and parks during their all-too-brief summers have been vexed by legions of geese — and their droppings. The smelly mess has resisted even the most innovative solutions.
-* 试图在短暂的夏季享受海滩和公园的芬兰人一直受到大批鹅及其粪便的困扰。即使是最具创新性的解决方案，臭气熏天的混乱也令人望而却步。
-* The country appeared to signal an openness to talks, but said it must be recognized as a nuclear power and would not discuss abandoning its arsenal.
-* 该国似乎表示愿意进行谈判，但表示必须承认其为核大国，不会讨论放弃其核武库。
-* People on both sides of the border share a cultural heritage much older than modern nation-states, dating back to the ancient Khmer civilization.
-* 边境两侧的人们拥有比现代民族国家更古老的文化遗产，可以追溯到古代高棉文明。
-* As the 80th anniversary of the end of World War II approaches, only a few veterans of Japan’s brutal war remain. “Never die for Emperor or country,” one advised.
-* 随着第二次世界大战结束80周年的临近，日本残酷战争的退伍军人仅剩下少数。“永远不要为皇帝或国家而死，”有人建议道。
+* Amid warnings of famine in Gaza, a satellite captures an image of hundreds of Palestinians converging on an aid convoy.
+* 在加沙饥荒的警告声中，一颗卫星捕捉到了数百名巴勒斯坦人聚集在一个援助车队上的图像。
+* Awdah Hathaleen, whose work was featured in the Oscar-winning documentary “No Other Land,” was shot dead. The suspect had been subject to U.S. sanctions, but President Trump lifted them.
+* Awdah Hathaleen的作品曾在奥斯卡获奖纪录片“No Other Land”中亮相，他被枪杀。嫌疑人曾受到美国的制裁，但特朗普总统解除了制裁。
+* Haitian gangs are increasingly abducting people and holding them for ransom to raise funds for other criminal activity, experts say.
+* 专家说，海地帮派越来越多地绑架人们，并扣留他们索要赎金，为其他犯罪活动筹集资金。
 
 ## New York Times United States News
-* A legal fight over access to burial grounds has pitted the Gullah Geechee against wealthy landowners around Hilton Head Island.
-* 围绕进入墓地的法律斗争使Gullah Geechee与希尔顿黑德岛周围的富裕地主发生了冲突。
-* The comments came as part of the president’s efforts to distract, deny and deflect from his long-running relationship with Jeffrey Epstein.
-* 这些评论是总统试图分散、否认和偏离他与杰弗里·爱泼斯坦（ Jeffrey Epstein ）的长期关系的一部分。
-* Rigorous new research appears to show that monthly checks intended to help disadvantaged children did little for their well-being, adding a new element to a dispute over expanded government aid.
-* 严格的新研究似乎表明，旨在帮助弱势儿童的每月检查对他们的福祉几乎没有帮助，这为扩大政府援助的争议增加了一个新的因素。
-* After Big Law backed off from challenging the government, smaller firms have stepped up their efforts.
-* 在Big Law放弃挑战政府后，小公司加大了力度。
-* The vice president has defended the administration’s handling of U.S. military engagement abroad and the Epstein files, even when those positions put him at odds with the right wing.
-* 副总统为政府处理美国在国外的军事接触和爱泼斯坦的档案辩护，即使这些立场使他与右翼发生冲突。
-* The guidance protects employees and supervisors seeking to recruit fellow federal workers to their religion. The Clinton White House issued similar guidelines in 1997, though with more caveats.
-* 该指南保护寻求招募联邦工作人员加入其宗教信仰的员工和主管。克林顿白宫在1997年发布了类似的指导方针，尽管有更多的警告。
-* The sum sought by the government is more than twice as much as the $200 million fine that Columbia University said it would pay when it settled its clash with the White House last week.
-* 政府要求的金额是哥伦比亚大学上周与白宫解决冲突时所支付的2亿美元罚款的两倍多。
-* Tom Sylvester had been set to be the agency’s top liaison to Britain, America’s most important intelligence partner and the agency’s most prestigious overseas posting.
-* 汤姆·西尔维斯特（ Tom Sylvester ）将成为该机构与英国的最高联络人，英国是美国最重要的情报合作伙伴，也是该机构最负盛名的海外职位。
-* Paul Dans will run in the South Carolina primary highlighting the work of Project 2025, a conservative blueprint that President Trump has employed during his second term.
-* 保罗·丹斯（ Paul Dans ）将在南卡罗来纳州初选中参选，重点介绍2025年项目的工作，这是特朗普总统在第二个任期内采用的保守蓝图。
-* As its private-equity owner fought antitrust allegations, the countertop cooker suddenly embraced the president’s politics, trying the new playbook of lobbying through flattery.
-* 随着私募股权所有者与反垄断指控作斗争，这台台式炊具突然接受了总统的政治，尝试通过奉承进行游说的新剧本。
+* The move is part of an effort by Democrats to draw Senate Republicans into the debate over the release of the Epstein files, which has bitterly divided the House G.O.P. and wrought havoc in that chamber.
+* 此举是民主党人努力吸引参议院共和党人参与有关发布爱泼斯坦文件的辩论的一部分，该文件严重分裂了众议院共和党，并在该议院造成了严重破坏。
+* Seeking higher pay, lawyers for indigent defendants won’t take new clients. As a result, judges must dismiss cases against people accused of crimes who lack lawyers.
+* 为了获得更高的薪水，贫困被告的律师不会接受新客户。因此，法官必须驳回对缺乏律师的被指控犯罪者的案件。
+* The National Transportation Safety Board is also expected to release a trove of documents related to the fatal midair collision in January between an Army helicopter and a regional jet at Reagan National Airport.
+* 预计国家运输安全委员会还将发布与1月份一架陆军直升机和一架支线喷气式飞机在里根国家机场发生致命空中碰撞有关的一系列文件。
+* A $60 billion boost to farm subsidies will be a lifeline to some. But the way the funding will be distributed could worsen disparities between farms in an industry already struggling with consolidation.
+* 对一些人来说，增加600亿美元的农业补贴将是一条生命线。但是，资金的分配方式可能会加剧已经在整合中挣扎的行业中农场之间的差距。
+* The I.R.S. recently said that churches could endorse candidates from the pulpit, a shift from a longstanding interpretation of American nonprofit law.
+* 国税局最近表示，教会可以支持来自讲坛的候选人，这是对美国非营利法律的长期解释的转变。
+* Waves were reported along a wide swath of the Northern California coast, including in San Francisco. The rest of the state was under a lesser tsunami advisory.
+* 据报道，包括旧金山在内的加利福尼亚州北部海岸大片地区都有海浪。该州其他地区的海啸警报较少。
+* The police said that a gunman had shot randomly at a group that was preparing to head home to California after a bachelor party weekend. Three people died in the shooting, and three others were injured.
+* 警方称，一名枪手在一个单身派对周末后随机射击了一群准备返回加利福尼亚州的人。三人在枪击中丧生，另有三人受伤。
+* The new administration had already courted controversy in both cases. Now the Justice Department seeks to end them entirely.
+* 新政府已经在这两起案件中引发了争议。现在，司法部试图彻底结束这些行为。
+* Gov. Josh Green said that the initial waves seemed to have caused minimal damage, but that residents should remain cautious.
+* 州长乔希·格林（ Josh Green ）表示，最初的海浪似乎造成的损害最小，但居民应该保持谨慎。
+* The university was accused of racial discrimination in its health care system, the latest high-profile school targeted and stripped of federal funding.
+* 该大学被指控在其医疗保健系统中存在种族歧视，这是最近一所备受瞩目的学校，并被剥夺了联邦资金。
 
 ## New York Times Asia News
-* The country appeared to signal an openness to talks, but said it must be recognized as a nuclear power and would not discuss abandoning its arsenal.
-* 该国似乎表示愿意进行谈判，但表示必须承认其为核大国，不会讨论放弃其核武库。
-* The talks between commanders on both sides were seen as a crucial test of whether the cease-fire deal reached on Monday would result in a lasting peace.
-* 双方指挥官之间的会谈被视为对周一达成的停火协议是否会导致持久和平的关键考验。
-* The stakes are high, with the United States and India counting on one another as indispensable partners in their competition with China.
-* 赌注很高，美国和印度在与中国的竞争中相互依赖，成为不可或缺的合作伙伴。
-* The move speaks to slowing spending by consumers and Apple’s continuing struggles in China, its second-largest market.
-* 此举说明消费者支出放缓，以及苹果在其第二大市场中国的持续挣扎。
-* The rains set off flooding and landslides, forcing tens of thousands of people to flee their homes in the capital and neighboring Hebei Province.
-* 暴雨引发了洪水和山体滑坡，迫使成千上万的人逃离首都和邻近的河北省的家园。
-* Also, Thailand and Cambodia agreed to stop fighting.
-* 此外，泰国和柬埔寨同意停止战斗。
-* China’s famed Shaolin Temple said its celebrity abbot, Shi Yongxin, was under investigation over misuse of funds and “improper relations” with women.
-* 中国著名的少林寺（ Shaolin Temple ）表示，其名人住持史永新（ Shi Yongxin ）因滥用资金和与女性的“不正当关系”而受到调查。
-* The gunman killed five people at Or Tor Kor market, which is popular with tourists, before dying by suicide, the authorities said.
-* 当局说，枪手在受到游客欢迎的Or Tor Kor市场杀死了五人，然后自杀身亡。
-* In its first comment on President Lee Jae Myung of South Korea, North Korea dismissed a call for dialogue, dampening hopes of a new chapter in relations.
-* 在对韩国总统李在铭的第一次评论中，朝鲜驳斥了对话的呼吁，扼杀了两国关系翻开新篇章的希望。
-* U.S.-backed talks to end the border war, in which militaries have killed dozens of people and displaced hundreds of thousands, began on Monday in Malaysia.
-* 美国支持的旨在结束边境战争的谈判于周一在马来西亚开始，军方已造成数十人死亡，数十万人流离失所。
+* Tremors are regularly reported in this remote Russian peninsula dotted with volcanoes, some of which erupt every year.
+* 在这个点缀着火山的偏远俄罗斯半岛，经常有地震的报道，其中一些火山每年都会爆发。
+* The Taiwanese leader canceled U.S. transit visits after being urged to change his plans, two officials said. Washington has been in talks with Beijing over trade and a possible summit.
+* 两名官员表示，这位台湾领导人在被敦促改变计划后取消了美国的过境访问。华盛顿一直在与北京就贸易和可能的峰会进行谈判。
+* Regional authorities in one region declared an emergency after a tsunami hit the Kuril Islands, and the Kamchatka Peninsula was watching for volcanic activity.
+* 海啸袭击千岛群岛后，一个地区的地区当局宣布进入紧急状态，堪察加半岛正在关注火山活动。
+* Many of the world’s biggest earthquakes, volcanic eruptions and tsunamis occur along a chain of seismologically active regions that encircle the Pacific Ocean.
+* 世界上许多最大的地震、火山爆发和海啸都发生在环绕太平洋的地震活动区域。
+* Intense nationalism and disputed history — and maps — stoke the neighbors’ hostilities. Even a surge of international diplomacy has brought little hope of a lasting peace.
+* 强烈的民族主义和有争议的历史--以及地图--激起了邻国的敌意。即使是国际外交的激增，也几乎没有带来持久和平的希望。
+* Tsunami alerts, advisor
+* 海啸警报，顾问
+* Meituan, the Chinese food delivery giant, tested its global expansion in Hong Kong, where its Keeta service displaced a rival before moving to other markets.
+* 中国食品配送巨头美团(Meituan)测试了其在香港的全球扩张，其Keeta服务在转移到其他市场之前取代了竞争对手。
+* It is the most powerful quake since the 2011 earthquake off the coast of Japan that triggered a 50-foot tsunami and the nuclear disaster at Fukushima.
+* 这是自2011年日本海岸地震引发50英尺海啸和福岛核灾难以来最强烈的地震。
+* Gov. Josh Green said that the initial waves seemed to have caused minimal damage, but that residents should remain cautious.
+* 州长乔希·格林（ Josh Green ）表示，最初的海浪似乎造成的损害最小，但居民应该保持谨慎。
+* The 8.8-magnitude earthquake off Russia’s coast led to warnings and advisories across a broad region. Officials in Hawaii told people to expect destructive waves.
+* 俄罗斯沿海发生的8.8级地震在整个地区引发了警报和警告。夏威夷的官员告诉人们要期待破坏性的海浪。
 
