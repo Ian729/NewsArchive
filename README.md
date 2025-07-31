@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Officials in Hawaii said the risk of a major tsunami had passed. The first waves began hitting the U.S. West Coast after an 8.8-magnitude quake off Russia’s coast put a swath of Pacific nations on alert.
-* 夏威夷官员表示，大海啸的风险已经过去。在俄罗斯沿海发生8.8级地震后，第一波地震开始袭击美国西海岸，使一大片太平洋国家处于警戒状态。
+* A 8.8-magnitude earthquake shook the remote, sparsely populated Kamchatka region and set off tsunami waves. No serious injuries were reported, officials said.
+* 8.8级地震震动了偏远、人口稀少的堪察加地区，引发了海啸。官员说，没有严重受伤的报告。
 * The Israeli military said it killed at least three Hamas operatives at Al-Baqa Cafe. It also killed a journalist, an artist and two best friends reconciling after a fight.
 * 以色列军方说，它在Al-Baqa咖啡馆杀死了至少三名哈马斯特工。它还杀死了一名记者，一名艺术家和两名最好的朋友在战斗后和解。
 * Faced with threats of 50 percent tariffs and demands to end a criminal case, President Luiz Inácio Lula da Silva said he wouldn’t take orders from President Trump.
 * 面对50 ％关税的威胁和结束刑事案件的要求，总统路易斯·伊纳西奥·卢拉·达席尔瓦表示，他不会接受特朗普总统的命令。
 * Intense nationalism and disputed history — and maps — stoke the neighbors’ hostilities. Even a surge of international diplomacy has brought little hope of a lasting peace.
 * 强烈的民族主义和有争议的历史--以及地图--激起了邻国的敌意。即使是国际外交的激增，也几乎没有带来持久和平的希望。
+* The White House hit Brazil on Wednesday with a 50 percent tariff and sanctions on a justice overseeing investigations into former President Jair Bolsonaro.
+* 白宫周三对巴西征收50%的关税，并对一名负责监督对前总统贾尔·博尔索纳罗（ Jair Bolsonaro ）进行调查的法官实施制裁。
+* Some doctors in Alberta have criticized officials for not declaring a health emergency in the western province where measles infections are surging.
+* 艾伯塔省的一些医生批评官员没有在麻疹感染激增的西部省份宣布卫生紧急情况。
+* Eight people were reported dead after Ugandan soldiers crossed the border into South Sudan and skirmished with troops there.
+* 据报道，在乌干达士兵越过边境进入南苏丹并与那里的部队发生小规模冲突后，有8人死亡。
 * The Taiwanese leader canceled U.S. transit visits after being urged to change his plans, two officials said. Washington has been in talks with Beijing over trade and a possible summit.
 * 两名官员表示，这位台湾领导人在被敦促改变计划后取消了美国的过境访问。华盛顿一直在与北京就贸易和可能的峰会进行谈判。
-* Prime Minister Keir Starmer said his government would act unless there was a truce, citing the “intolerable” humanitarian crisis in Gaza.
-* 总理凯尔·斯塔默（ Keir Starmer ）表示，除非停火，否则他的政府将采取行动，理由是加沙“无法容忍”的人道主义危机。
-* Officials acknowledge that Kenya has a doping problem, but many athletes who are seeking an edge also want a way out of poverty.
-* 官员们承认肯尼亚存在兴奋剂问题，但许多寻求优势的运动员也希望摆脱贫困。
-* Amid warnings of famine in Gaza, a satellite captures an image of hundreds of Palestinians converging on an aid convoy.
-* 在加沙饥荒的警告声中，一颗卫星捕捉到了数百名巴勒斯坦人聚集在一个援助车队上的图像。
-* Awdah Hathaleen, whose work was featured in the Oscar-winning documentary “No Other Land,” was shot dead. The suspect had been subject to U.S. sanctions, but President Trump lifted them.
-* Awdah Hathaleen的作品曾在奥斯卡获奖纪录片“No Other Land”中亮相，他被枪杀。嫌疑人曾受到美国的制裁，但特朗普总统解除了制裁。
-* Haitian gangs are increasingly abducting people and holding them for ransom to raise funds for other criminal activity, experts say.
-* 专家说，海地帮派越来越多地绑架人们，并扣留他们索要赎金，为其他犯罪活动筹集资金。
+* A High Court judge in London said that Palestine Action had the right to challenge the British government’s decision to ban it as a terrorist group.
+* 伦敦高等法院的一名法官表示，巴勒斯坦行动组织有权质疑英国政府作为恐怖组织取缔该组织的决定。
+* It will be the first known visit in months for Steve Witkoff, President Trump’s lead on the cease-fire and hostage talks. Since his last trip, conditions in the enclave have worsened.
+* 这将是几个月来特朗普总统率领停火和人质谈判的史蒂夫·维特科夫（ Steve Witkoff ）的首次访问。自从他上次旅行以来，飞地的情况恶化了。
 
 ## New York Times United States News
-* The move is part of an effort by Democrats to draw Senate Republicans into the debate over the release of the Epstein files, which has bitterly divided the House G.O.P. and wrought havoc in that chamber.
-* 此举是民主党人努力吸引参议院共和党人参与有关发布爱泼斯坦文件的辩论的一部分，该文件严重分裂了众议院共和党，并在该议院造成了严重破坏。
-* Seeking higher pay, lawyers for indigent defendants won’t take new clients. As a result, judges must dismiss cases against people accused of crimes who lack lawyers.
-* 为了获得更高的薪水，贫困被告的律师不会接受新客户。因此，法官必须驳回对缺乏律师的被指控犯罪者的案件。
-* The National Transportation Safety Board is also expected to release a trove of documents related to the fatal midair collision in January between an Army helicopter and a regional jet at Reagan National Airport.
-* 预计国家运输安全委员会还将发布与1月份一架陆军直升机和一架支线喷气式飞机在里根国家机场发生致命空中碰撞有关的一系列文件。
-* A $60 billion boost to farm subsidies will be a lifeline to some. But the way the funding will be distributed could worsen disparities between farms in an industry already struggling with consolidation.
-* 对一些人来说，增加600亿美元的农业补贴将是一条生命线。但是，资金的分配方式可能会加剧已经在整合中挣扎的行业中农场之间的差距。
-* The I.R.S. recently said that churches could endorse candidates from the pulpit, a shift from a longstanding interpretation of American nonprofit law.
-* 国税局最近表示，教会可以支持来自讲坛的候选人，这是对美国非营利法律的长期解释的转变。
-* Waves were reported along a wide swath of the Northern California coast, including in San Francisco. The rest of the state was under a lesser tsunami advisory.
-* 据报道，包括旧金山在内的加利福尼亚州北部海岸大片地区都有海浪。该州其他地区的海啸警报较少。
-* The police said that a gunman had shot randomly at a group that was preparing to head home to California after a bachelor party weekend. Three people died in the shooting, and three others were injured.
-* 警方称，一名枪手在一个单身派对周末后随机射击了一群准备返回加利福尼亚州的人。三人在枪击中丧生，另有三人受伤。
-* The new administration had already courted controversy in both cases. Now the Justice Department seeks to end them entirely.
-* 新政府已经在这两起案件中引发了争议。现在，司法部试图彻底结束这些行为。
-* Gov. Josh Green said that the initial waves seemed to have caused minimal damage, but that residents should remain cautious.
-* 州长乔希·格林（ Josh Green ）表示，最初的海浪似乎造成的损害最小，但居民应该保持谨慎。
-* The university was accused of racial discrimination in its health care system, the latest high-profile school targeted and stripped of federal funding.
-* 该大学被指控在其医疗保健系统中存在种族歧视，这是最近一所备受瞩目的学校，并被剥夺了联邦资金。
+* Texas state legislators will be in Kerrville on Thursday for a hearing on the July 4 floods. They may get an earful.
+* 德克萨斯州立法者将于周四在克尔维尔就7月4日的洪水举行听证会。他们可能会听到一声巨响。
+* U.S. Immigration and Customs Enforcement wants to operate more like a business — like FedEx or Amazon. Brent McDonald and Campbell Robertson traveled to a small commercial airport in Alexandria, La., that has become the No. 1 ICE transit hub in the country.
+* 美国移民和海关执法局希望像联邦快递或亚马逊一样经营业务。布伦特·麦克唐纳（ Brent McDonald ）和坎贝尔·罗伯逊（ Campbell Robertson ）前往路易斯安那州亚历山大的一个小型商业机场，该机场已成为该国第一大ICE中转枢纽。
+* Canada faces a 35 percent tariff on its exports to the United States if it does not reach a trade deal with the Trump administration by Friday.
+* 如果加拿大未能在周五之前与特朗普政府达成贸易协议，其对美国的出口将面临35%的关税。
+* The flight, which was taking 275 passengers from Salt Lake City to Amsterdam, made an emergency landing in Minneapolis on Wednesday evening, the airline said.
+* 该航空公司表示，这架从盐湖城飞往阿姆斯特丹的275名乘客于周三晚上在明尼阿波利斯紧急降落。
+* The man, James Andrew McGann, was charged with two counts of capital murder. The couple was killed while hiking with their young daughters on Saturday.
+* 这名男子詹姆斯·安德鲁·麦甘（ James Andrew McGann ）被指控犯有两项谋杀罪。这对夫妇在周六与年幼的女儿徒步旅行时被杀害。
+* The move continues a scaling back of President Trump’s military deployment in Southern California that began on June 7.
+* 此举继续缩减特朗普总统从6月7日开始在南加州的军事部署。
+* After hours of testimony and thousands of pages of new documents, here’s what emerged in the first day of a marathon National Transportation Safety Board hearing.
+* 经过数小时的证词和数千页的新文件，这是在马拉松国家运输安全委员会听证会的第一天出现的内容。
+* A federal judge in New York permanently blocked the government from pursuing penalties against the professors over their assistance to the International Criminal Court.
+* 纽约的一名联邦法官永久阻止政府对协助国际刑事法院的教授进行处罚。
+* The girls, believed to be under 12 years old, were waiting for a relative who was also killed in the blast, the authorities said.
+* 当局表示，这些女孩据信未满12岁，正在等待一名也在爆炸中丧生的亲戚。
+* The ruling
+* 裁决
 
 ## New York Times Asia News
-* Tremors are regularly reported in this remote Russian peninsula dotted with volcanoes, some of which erupt every year.
-* 在这个点缀着火山的偏远俄罗斯半岛，经常有地震的报道，其中一些火山每年都会爆发。
-* The Taiwanese leader canceled U.S. transit visits after being urged to change his plans, two officials said. Washington has been in talks with Beijing over trade and a possible summit.
-* 两名官员表示，这位台湾领导人在被敦促改变计划后取消了美国的过境访问。华盛顿一直在与北京就贸易和可能的峰会进行谈判。
-* Regional authorities in one region declared an emergency after a tsunami hit the Kuril Islands, and the Kamchatka Peninsula was watching for volcanic activity.
-* 海啸袭击千岛群岛后，一个地区的地区当局宣布进入紧急状态，堪察加半岛正在关注火山活动。
-* Many of the world’s biggest earthquakes, volcanic eruptions and tsunamis occur along a chain of seismologically active regions that encircle the Pacific Ocean.
-* 世界上许多最大的地震、火山爆发和海啸都发生在环绕太平洋的地震活动区域。
-* Intense nationalism and disputed history — and maps — stoke the neighbors’ hostilities. Even a surge of international diplomacy has brought little hope of a lasting peace.
-* 强烈的民族主义和有争议的历史--以及地图--激起了邻国的敌意。即使是国际外交的激增，也几乎没有带来持久和平的希望。
-* Tsunami alerts, advisor
-* 海啸警报，顾问
-* Meituan, the Chinese food delivery giant, tested its global expansion in Hong Kong, where its Keeta service displaced a rival before moving to other markets.
-* 中国食品配送巨头美团(Meituan)测试了其在香港的全球扩张，其Keeta服务在转移到其他市场之前取代了竞争对手。
-* It is the most powerful quake since the 2011 earthquake off the coast of Japan that triggered a 50-foot tsunami and the nuclear disaster at Fukushima.
-* 这是自2011年日本海岸地震引发50英尺海啸和福岛核灾难以来最强烈的地震。
-* Gov. Josh Green said that the initial waves seemed to have caused minimal damage, but that residents should remain cautious.
-* 州长乔希·格林（ Josh Green ）表示，最初的海浪似乎造成的损害最小，但居民应该保持谨慎。
-* The 8.8-magnitude earthquake off Russia’s coast led to warnings and advisories across a broad region. Officials in Hawaii told people to expect destructive waves.
-* 俄罗斯沿海发生的8.8级地震在整个地区引发了警报和警告。夏威夷的官员告诉人们要期待破坏性的海浪。
+* Recent global trade deals with the United States were secured with huge, often vaguely defined investment pledges from partners like Japan.
+* 最近与美国达成的全球贸易协议得到了日本等合作伙伴的巨大且通常定义模糊的投资承诺的保证。
+* The military government hopes elections can bring more international legitimacy. But the generals will still rule, and opposition groups are boycotting.
+* 军政府希望选举能够带来更多的国际合法性。但将军们仍将统治，反对派团体正在抵制。
+* Dozens of small earthquakes were recorded, most off the coast of Russia’s Far East. Five of them have been above magnitude 6.
+* 记录了数十次小地震，大多数发生在俄罗斯远东沿海。其中五个星等在6等以上。
+* The move came two weeks after the Trump administration reversed course to allow Nvidia to sell the coveted artificial intelligence chips in China.
+* 此举是在特朗普政府改变方向，允许英伟达在中国销售令人垂涎的人工智能芯片两周后做出的。
+* Senior officials from both countries said they were still waiting to hear final details on the deals after comments by the U.S. commerce secretary, Howard Lutnick.
+* 两国高级官员表示，在美国商务部长霍华德·拉特尼克（ Howard Lutnick ）发表评论后，他们仍在等待有关交易的最终细节。
+* The U.S.-Chinese cease-fire left exporters with crippling tariffs, worsening a slowdown for light-industry factories caused by China’s shift to advanced manufacturing.
+* 中美停火给出口商带来了沉重的关税，加剧了中国转向先进制造业导致的轻工业工厂放缓。
+* U.S. trading partners are committing to buy more gas than they need or than the U.S. can produce, at least in the short term.
+* 至少在短期内，美国贸易伙伴承诺购买的天然气超出他们的需求或超出美国的产量。
+* In the past week alone, three new countries have said they are ready to bestow recognition on a Palestinian state.
+* 仅在过去一周，就有三个新国家表示愿意承认巴勒斯坦国。
+* The agreement comes after other American allies, like Japan, clinched their own deals, partly to moderate President Trump’s tariff threats.
+* 该协议是在日本等其他美国盟友达成协议之后达成的，部分原因是为了缓和特朗普总统的关税威胁。
+* Plus, the future of Mexican music.
+* 此外，还有墨西哥音乐的未来。
 
