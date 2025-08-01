@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* A 8.8-magnitude earthquake shook the remote, sparsely populated Kamchatka region and set off tsunami waves. No serious injuries were reported, officials said.
-* 8.8级地震震动了偏远、人口稀少的堪察加地区，引发了海啸。官员说，没有严重受伤的报告。
-* The Israeli military said it killed at least three Hamas operatives at Al-Baqa Cafe. It also killed a journalist, an artist and two best friends reconciling after a fight.
-* 以色列军方说，它在Al-Baqa咖啡馆杀死了至少三名哈马斯特工。它还杀死了一名记者，一名艺术家和两名最好的朋友在战斗后和解。
-* Faced with threats of 50 percent tariffs and demands to end a criminal case, President Luiz Inácio Lula da Silva said he wouldn’t take orders from President Trump.
-* 面对50 ％关税的威胁和结束刑事案件的要求，总统路易斯·伊纳西奥·卢拉·达席尔瓦表示，他不会接受特朗普总统的命令。
-* Intense nationalism and disputed history — and maps — stoke the neighbors’ hostilities. Even a surge of international diplomacy has brought little hope of a lasting peace.
-* 强烈的民族主义和有争议的历史--以及地图--激起了邻国的敌意。即使是国际外交的激增，也几乎没有带来持久和平的希望。
-* The White House hit Brazil on Wednesday with a 50 percent tariff and sanctions on a justice overseeing investigations into former President Jair Bolsonaro.
-* 白宫周三对巴西征收50%的关税，并对一名负责监督对前总统贾尔·博尔索纳罗（ Jair Bolsonaro ）进行调查的法官实施制裁。
-* Some doctors in Alberta have criticized officials for not declaring a health emergency in the western province where measles infections are surging.
-* 艾伯塔省的一些医生批评官员没有在麻疹感染激增的西部省份宣布卫生紧急情况。
-* Eight people were reported dead after Ugandan soldiers crossed the border into South Sudan and skirmished with troops there.
-* 据报道，在乌干达士兵越过边境进入南苏丹并与那里的部队发生小规模冲突后，有8人死亡。
-* The Taiwanese leader canceled U.S. transit visits after being urged to change his plans, two officials said. Washington has been in talks with Beijing over trade and a possible summit.
-* 两名官员表示，这位台湾领导人在被敦促改变计划后取消了美国的过境访问。华盛顿一直在与北京就贸易和可能的峰会进行谈判。
-* A High Court judge in London said that Palestine Action had the right to challenge the British government’s decision to ban it as a terrorist group.
-* 伦敦高等法院的一名法官表示，巴勒斯坦行动组织有权质疑英国政府作为恐怖组织取缔该组织的决定。
-* It will be the first known visit in months for Steve Witkoff, President Trump’s lead on the cease-fire and hostage talks. Since his last trip, conditions in the enclave have worsened.
-* 这将是几个月来特朗普总统率领停火和人质谈判的史蒂夫·维特科夫（ Steve Witkoff ）的首次访问。自从他上次旅行以来，飞地的情况恶化了。
+* Stocks fell around the world after President Trump’s latest move to remake the global trading system. His executive order set new tariffs on imports from dozens of countries if trade deals aren’t reached within a week.
+* 在特朗普总统重塑全球贸易体系的最新举措之后，全球股市下跌。如果在一周内未能达成贸易协议，他的行政命令将对来自数十个国家的进口产品征收新的关税。
+* The imbalance in President Trump’s treatment of America’s closest trading partners may come from his desire to make Canada the 51st state, some Canadians believe.
+* 一些加拿大人认为，特朗普总统对待美国最亲密的贸易伙伴的不平衡可能源于他希望加拿大成为第51个州的愿望。
+* “I wanted something decent,” said a woman at a shelter near Ukraine’s border with Russia. “But this is how it turned out.”
+* “我想要一些体面的东西，”乌克兰与俄罗斯边境附近的一个避难所的一名妇女说。“但结果就是这样。”
+* The president, a Trump ally, will now be able to seek re-election indefinitely. The National Assembly also extended the presidential term to six years.
+* 作为特朗普的盟友，总统现在可以无限期地寻求连任。国民议会还将总统任期延长至六年。
+* As Zohran Mamdani gets within striking distance of becoming New York’s first Muslim mayor, he is drawing fire from supporters of India’s populist prime minister, who accuse him of being anti-Hindu.
+* 随着佐赫兰·马姆达尼（ Zohran Mamdani ）即将成为纽约第一位穆斯林市长，他正受到印度民粹主义总理支持者的抨击，他们指责他反印度教。
+* Mexico’s president, battling U.S. accusations that the cartels have gripped her government, is facing a scandal in which two former officials are on the run and their old boss is now a top senator.
+* 墨西哥总统与美国指责卡特尔控制了她的政府作斗争，正面临一场丑闻，两名前官员正在逃跑，他们的老老板现在是高级参议员。
+* The president backed off his call for a 50 percent tariff on Lesotho, imposing 15 percent instead. But in a country where most people live hand-to-mouth, the damage was already done.
+* 总统放弃了对莱索托征收50%关税的呼吁，改为征收15%的关税。但在一个大多数人手牵手生活的国家，损害已经造成。
+* The European Union acknowledged for the first time that a top official reviewed the messages, but said it had no duty to keep them, despite intense interest.
+* 欧盟首次承认一位高级官员审查了这些信息，但表示尽管有强烈的兴趣，但它没有义务保留这些信息。
+* President Volodymyr Zelensky’s move last week to neuter two anticorruption agencies drew the country’s first street protests since Russia’s invasion.
+* 总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）上周采取行动，中立了两个反腐败机构，这是自俄罗斯入侵以来该国首次举行街头抗议活动。
+* The military government hopes elections can bring more international legitimacy. But the generals will still rule, and opposition groups are boycotting.
+* 军政府希望选举能够带来更多的国际合法性。但将军们仍将统治，反对派团体正在抵制。
 
 ## New York Times United States News
-* Texas state legislators will be in Kerrville on Thursday for a hearing on the July 4 floods. They may get an earful.
-* 德克萨斯州立法者将于周四在克尔维尔就7月4日的洪水举行听证会。他们可能会听到一声巨响。
-* U.S. Immigration and Customs Enforcement wants to operate more like a business — like FedEx or Amazon. Brent McDonald and Campbell Robertson traveled to a small commercial airport in Alexandria, La., that has become the No. 1 ICE transit hub in the country.
-* 美国移民和海关执法局希望像联邦快递或亚马逊一样经营业务。布伦特·麦克唐纳（ Brent McDonald ）和坎贝尔·罗伯逊（ Campbell Robertson ）前往路易斯安那州亚历山大的一个小型商业机场，该机场已成为该国第一大ICE中转枢纽。
-* Canada faces a 35 percent tariff on its exports to the United States if it does not reach a trade deal with the Trump administration by Friday.
-* 如果加拿大未能在周五之前与特朗普政府达成贸易协议，其对美国的出口将面临35%的关税。
-* The flight, which was taking 275 passengers from Salt Lake City to Amsterdam, made an emergency landing in Minneapolis on Wednesday evening, the airline said.
-* 该航空公司表示，这架从盐湖城飞往阿姆斯特丹的275名乘客于周三晚上在明尼阿波利斯紧急降落。
-* The man, James Andrew McGann, was charged with two counts of capital murder. The couple was killed while hiking with their young daughters on Saturday.
-* 这名男子詹姆斯·安德鲁·麦甘（ James Andrew McGann ）被指控犯有两项谋杀罪。这对夫妇在周六与年幼的女儿徒步旅行时被杀害。
-* The move continues a scaling back of President Trump’s military deployment in Southern California that began on June 7.
-* 此举继续缩减特朗普总统从6月7日开始在南加州的军事部署。
-* After hours of testimony and thousands of pages of new documents, here’s what emerged in the first day of a marathon National Transportation Safety Board hearing.
-* 经过数小时的证词和数千页的新文件，这是在马拉松国家运输安全委员会听证会的第一天出现的内容。
-* A federal judge in New York permanently blocked the government from pursuing penalties against the professors over their assistance to the International Criminal Court.
-* 纽约的一名联邦法官永久阻止政府对协助国际刑事法院的教授进行处罚。
-* The girls, believed to be under 12 years old, were waiting for a relative who was also killed in the blast, the authorities said.
-* 当局表示，这些女孩据信未满12岁，正在等待一名也在爆炸中丧生的亲戚。
-* The ruling
-* 裁决
+* Republicans have attacked the president, Gregory Washington, over his support for diversity efforts at the university, Virginia’s largest public institution.
+* 共和党人抨击总统格雷戈里·华盛顿（ Gregory Washington ）支持弗吉尼亚州最大的公立大学的多元化努力。
+* The former Democratic nominee for president explained why she did not run for California governor in her first interview since leaving office as vice president.
+* 这位前民主党总统候选人在她离开副总统职位后的第一次采访中解释了她为什么没有竞选加州州长。
+* In blocking the end of deportation protections for more than 60,000 migrants, the judge said the Trump administration’s language surrounding the program had strayed into racist conspiracy theories.
+* 在阻止结束对6万多名移民的驱逐保护时，法官表示，特朗普政府围绕该计划的语言已经误入了种族主义阴谋论。
+* “We’re going to put sanctions,” the president said, even before a deadline he had given Russia this week to engage in cease-fire negotiations had passed.
+* “我们将实施制裁，”总统说，甚至在他本周给予俄罗斯参与停火谈判的最后期限已经过去之前。
+* Air traffic control managers told the National Transportation Safety Board that F.A.A. leaders rebuffed efforts over the years to address hazardous conditions that played a role in the Jan. 29 crash.
+* 空中交通管制管理人员告诉国家运输安全委员会， FAA领导人多年来一直拒绝努力解决在1月29日坠机事件中发挥作用的危险条件。
+* Austin Robert Drummond, 28, faces four counts first-degree murder, one count of aggravated kidnapping and firearms charges.
+* 28岁的奥斯汀·罗伯特·德拉蒙德（ Austin Robert Drummond ）面临四项一级谋杀罪，一项严重绑架和枪支指控。
+* The money is meant to beat Democrats, but some Republicans worry it could be used to beat Republicans, too.
+* 这笔钱是为了击败民主党人，但一些共和党人担心它也可能被用来击败共和党人。
+* President Trump’s impeachments were mentioned in an exhibit on the American presidency that museum officials said was outdated. A Smithsonian spokeswoman said a future exhibit would include “all impeachments.”
+* 博物馆官员在一次关于美国总统任期的展览中提到了特朗普总统的弹劾案，称该展览已经过时。史密森尼的一位发言人表示，未来的展览将包括“所有弹劾”。
+* An annex to a report by the special counsel John H. Durham was the latest in a series of disclosures about the Russia inquiry, as the Trump team seeks to distract from the Jeffrey Epstein files.
+* 特别检察官约翰· H ·达勒姆（ John H. Durham ）的一份报告的附件是有关俄罗斯调查的一系列披露中的最新内容，因为特朗普团队试图从杰弗里·爱泼斯坦（ Jeffrey Epstein ）的档案中分散注意力。
+* Ms. Lucas, who has led efforts to attack diversity, equity and inclusion initiatives, was confirmed by the Senate for a second term.
+* 卢卡斯女士领导了多元化、公平和包容性倡议的攻击工作，她获得了参议院的第二个任期的确认。
 
 ## New York Times Asia News
+* President Trump’s executive order carved out a special tariff on goods shipped indirectly to the United States by way of other countries.
+* 特朗普总统的行政命令对通过其他国家间接运往美国的货物征收特殊关税。
+* The Trump administration is weighing yet more tariffs on chips, Taiwan’s main exports.
+* 特朗普政府正在对台湾主要出口产品芯片征收更多关税。
+* As Zohran Mamdani gets within striking distance of becoming New York’s first Muslim mayor, he is drawing fire from supporters of India’s populist prime minister, who accuse him of being anti-Hindu.
+* 随着佐赫兰·马姆达尼（ Zohran Mamdani ）即将成为纽约第一位穆斯林市长，他正受到印度民粹主义总理支持者的抨击，他们指责他反印度教。
+* Plus, our critic’s favorite art places in Rome.
+* 此外，还有我们的评论家最喜欢的罗马艺术场所。
+* President Trump upended trade negotiations with India by making the purchase of crude oil a sticking point.
+* 特朗普总统将购买原油作为一个症结点，颠覆了与印度的贸易谈判。
+* Chinese companies showcased A.I. gains in Shanghai this week. More chips will only help them improve faster, industry insiders say.
+* 中国公司本周在上海展示了人工智能的收益。业内人士表示，更多的芯片只会帮助他们更快地改进。
+* India’s prime minister has made a big effort to build closer ties using his rapport with the U.S. president, but critics say he is getting little in return.
+* 印度总理已经做出巨大努力，利用他与美国总统的关系建立更密切的关系，但批评人士说，他的回报很少。
 * Recent global trade deals with the United States were secured with huge, often vaguely defined investment pledges from partners like Japan.
 * 最近与美国达成的全球贸易协议得到了日本等合作伙伴的巨大且通常定义模糊的投资承诺的保证。
 * The military government hopes elections can bring more international legitimacy. But the generals will still rule, and opposition groups are boycotting.
 * 军政府希望选举能够带来更多的国际合法性。但将军们仍将统治，反对派团体正在抵制。
 * Dozens of small earthquakes were recorded, most off the coast of Russia’s Far East. Five of them have been above magnitude 6.
 * 记录了数十次小地震，大多数发生在俄罗斯远东沿海。其中五个星等在6等以上。
-* The move came two weeks after the Trump administration reversed course to allow Nvidia to sell the coveted artificial intelligence chips in China.
-* 此举是在特朗普政府改变方向，允许英伟达在中国销售令人垂涎的人工智能芯片两周后做出的。
-* Senior officials from both countries said they were still waiting to hear final details on the deals after comments by the U.S. commerce secretary, Howard Lutnick.
-* 两国高级官员表示，在美国商务部长霍华德·拉特尼克（ Howard Lutnick ）发表评论后，他们仍在等待有关交易的最终细节。
-* The U.S.-Chinese cease-fire left exporters with crippling tariffs, worsening a slowdown for light-industry factories caused by China’s shift to advanced manufacturing.
-* 中美停火给出口商带来了沉重的关税，加剧了中国转向先进制造业导致的轻工业工厂放缓。
-* U.S. trading partners are committing to buy more gas than they need or than the U.S. can produce, at least in the short term.
-* 至少在短期内，美国贸易伙伴承诺购买的天然气超出他们的需求或超出美国的产量。
-* In the past week alone, three new countries have said they are ready to bestow recognition on a Palestinian state.
-* 仅在过去一周，就有三个新国家表示愿意承认巴勒斯坦国。
-* The agreement comes after other American allies, like Japan, clinched their own deals, partly to moderate President Trump’s tariff threats.
-* 该协议是在日本等其他美国盟友达成协议之后达成的，部分原因是为了缓和特朗普总统的关税威胁。
-* Plus, the future of Mexican music.
-* 此外，还有墨西哥音乐的未来。
 
