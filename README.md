@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Six weeks after Benjamin Netanyahu scored a victory over Iran, the Israeli leader is now pushing for an “all or nothing” deal with Hamas. But he has not made the compromises needed to make it happen.
-* 在本雅明·内塔尼亚胡（ Benjamin Netanyahu ）战胜伊朗六周后，这位以色列领导人现在正在推动与哈马斯达成“要么全有要么全无”的协议。但他还没有做出实现这一目标所需的妥协。
+* The New York Times identified a series of missteps that made a Jeju Air flight’s catastrophic end much more deadly.
+* 《纽约时报》发现了一系列失误，使济州航空公司的灾难性航班更加致命。
+* Israel called for the meeting to debate the plight of captives still held by Hamas. The discussion will take place as the humanitarian crisis in the territory continues and as truce talks have stalled.
+* 以色列呼吁举行会议，讨论哈马斯仍然扣押的俘虏的困境。随着该地区人道主义危机的继续和停火谈判的停滞，讨论将开始。
+* Germany, after the Holocaust, has a special bond with Israel. But a hunger crisis in Gaza is creating a demand for Berlin to take bolder action.
+* 在大屠杀之后，德国与以色列有着特殊的联系。但加沙的饥饿危机正在要求柏林采取更大胆的行动。
+* Record-setting rain has brought chaos to parts of Hong Kong, with submerged streets, stranded buses and landslides. Residents were advised to avoid going out.
+* 创纪录的降雨给香港部分地区带来了混乱，街道被淹没，公共汽车滞留和山体滑坡。建议居民避免外出。
+* Very few people know what it’s like to recover, physically and emotionally, from a shark bite. But some of the ones who do are ready to help.
+* 很少有人知道从鲨鱼咬伤中恢复身体和情感是什么感觉。但其中一些人已经准备好提供帮助。
+* A business called Northern Lights is seen as a model for efforts to pump carbon dioxide deep into wells, but high costs remain an obstacle.
+* 一家名为北极光的企业被视为努力将二氧化碳深入井中的典范，但高成本仍然是一个障碍。
 * The Lebanese militant group has lost much of its power since the recent war with Israel. But it is balking at demands to surrender whatever is left of its once formidable arsenal.
 * 自最近与以色列的战争以来，黎巴嫩激进组织已经失去了大部分权力。但它不愿放弃其曾经强大的武器库所剩无几的要求。
-* Once a cog in the Malaysian economy, the solar industry profited from Chinese investment. Now it’s becoming a case study of what happens when the United States closes its markets.
-* 曾经是马来西亚经济的一个齿轮，太阳能行业从中国的投资中获利。现在，它正在成为一个案例研究，说明当美国关闭其市场时会发生什么。
-* Flip Gordon was uneasy about being a lucha libre wrestler dressed in a U.S. military uniform. Booed at first, he is now a fan favorite.
-* Flip Gordon对身穿美军制服的lucha libre摔跤手感到不安。一开始是嘘声，他现在是粉丝的最爱。
-* The trip across the Gulf of Aden is the first leg of one of the world’s riskiest — and busiest — migration and smuggling routes.
-* 穿越亚丁湾的旅程是世界上最危险、最繁忙的移民和走私路线之一的第一站。
-* Even low-level government employees like elementary school teachers and nurses have been ordered to hand in their passports, to enforce “discipline.”
-* 甚至像小学教师和护士这样的低级政府雇员也被命令交出护照，以执行“纪律”。
-* The arrests came days after President Volodymyr Zelensky’s U-turn on an effort to neuter anticorruption agencies.
-* 逮捕发生在总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）转向中立反腐败机构的几天后。
-* Wind gusts of more than 80 miles per hour are possible on Monday, especially in Scotland, as officials warned residents to stay inside.
-* 周一可能会有超过80英里/小时的阵风，特别是在苏格兰，因为官员警告居民留在室内。
-* The eruption of the Krasheninnikov volcano on Sunday in Russia’s Far East came after a series of seismic events this past week on the Kamchatka peninsula.
-* 俄罗斯远东地区周日爆发的克拉舍尼尼科夫火山是在上周堪察加半岛发生一系列地震事件之后爆发的。
-* The Sykes-Picot Agreement was a secret treaty Britain and France signed more than a century ago. Many consider it to have seeded a legacy of strife in the Middle East.
-* 《赛克斯-皮科协定》是英国和法国在一个多世纪前签署的一项秘密条约。许多人认为它在中东播下了冲突的种子。
+* Lawmakers approved constitutional changes abolishing term limits and allowing President Nayib Bukele to stay in power indefinitely. Why now?
+* 立法者批准了宪法修正案，废除了任期限制，并允许纳伊布·布克莱总统无限期地继续执政。为什么现在？
+* The Rybachiy base, which hosts nuclear-powered submarines from Russia’s Pacific Fleet, lies in a cove about 80 miles from the powerful earthquake that struck near the Kamchatka peninsula last week.
+* Rybachiy基地拥有来自俄罗斯太平洋舰队的核动力潜艇，位于距离上周堪察加半岛附近强烈地震约80英里的海湾。
+* Bidding for the Tolkien classic, which was discovered in a home in Bristol, England, has already exceeded $25,000.
+* 在英格兰布里斯托尔的一所房屋中发现的托尔金经典作品的出价已经超过25,000美元。
 
 ## New York Times United States News
-* The blaze injured three people, put hundreds under evacuation orders and threatened 460 structures, officials said.
-* 官员说，大火造成3人受伤，数百人接到疏散命令， 460座建筑物受到威胁。
-* The White House Historical Association recently unveiled its replica of President Trump’s Oval Office, but it mirrors the office from his first term, before he festooned it with gold.
-* 白宫历史协会最近公布了特朗普总统椭圆形办公室的复制品，但它反映了他的第一个任期，然后他用黄金装饰了办公室。
-* Spikes in the number and influence of briefs filed by historians have prompted questions about the role scholars should play in litigation.
-* 历史学家提交的案情摘要的数量和影响力激增，引发了人们对学者在诉讼中应发挥的作用的质疑。
-* The Democratic Legislative Campaign Committee is pressing legislatures to counter Republicans’ redistricting efforts in Texas and elsewhere.
-* 民主党立法竞选委员会正在敦促立法机构反对共和党在德克萨斯州和其他地方重新划分选区的努力。
-* A moderate group that has tried to rally Democrats around school choice faces divisions over private-school vouchers.
-* 一个试图围绕学校选择召集民主党人的温和团体在私立学校优惠券问题上面临分歧。
-* The Washington Litigation Group is the latest nonprofit group to join the legal challenges against the president, with a strategy of focusing on appeals early in the case.
-* 华盛顿诉讼集团是最新加入针对总统的法律挑战的非营利组织，其策略是专注于案件的早期上诉。
-* Several candidates want to replace Mike Duggan, the only mayor the city has had since its financial crisis. Detroit’s next challenge, residents say, will be reviving forgotten neighborhoods.
-* 几位候选人希望接替自金融危机以来该市唯一的市长迈克·杜根（ Mike Duggan ）。居民说，底特律的下一个挑战将是复兴被遗忘的街区。
-* The walkout was a sharp escalation in the clash over a redistricting effort. Gov. Greg Abbott threatened to remove the lawmakers who left their posts if they did not return by Monday.
-* 罢工是对重新划分选区努力的冲突的急剧升级。州长格雷格·阿博特（ Greg Abbott ）威胁说，如果他们不在周一之前返回，他们将被免职。
-* Six people, including a camp counselor, aboard a sailboat were thrown into the water after the collision on Monday, the authorities said.
-* 当局表示，周一发生碰撞后，一艘帆船上的六人，包括一名营地辅导员，被扔进水中。
-* The crash, near the park’s only vehicular entrance at about 1 a.m. on Friday, also injured a passenger.
-* 周五凌晨1点左右，在公园唯一的车辆入口附近发生的撞车事故也造成一名乘客受伤。
+* Lawyers for Byron Black, found guilty of three murders, have argued that an execution may be more painful because of his heart implant.
+* 被判犯有三起谋杀罪的拜伦·布莱克（ Byron Black ）的律师辩称，由于他的心脏植入物，执行死刑可能会更痛苦。
+* In order to flip five U.S. House seats, Republicans are gambling that they can retain President Trump’s 2024 gains with Latinos and that voters won’t mind their hardball tactics.
+* 为了翻转五个美国众议院席位，共和党人正在赌博，他们可以保留特朗普总统2024年对拉美裔人的收益，选民不会介意他们的强硬策略。
+* In his seven-story townhouse, the sex offender hosted the elite, displayed photos with presidents and showcased a first edition of “Lolita,” according to previously unreported photos and letters.
+* 根据此前未报道的照片和信件，在他的七层联排别墅中，性犯罪者接待了精英，展示了与总统的照片，并展示了第一版“洛丽塔”。
+* The practice appears to be a more targeted version of the mass separation of migrant children from their parents from President Trump’s first term, which caused a global outcry.
+* 这种做法似乎是特朗普总统第一个任期内移民儿童与父母大规模分离的更有针对性的版本，这引起了全球的强烈抗议。
+* A decline in the number of children and rise in the number of choices has created a crisis for public schools. Some are trying new strategies to recruit students.
+* 儿童数量的减少和选择的增加给公立学校带来了危机。有些人正在尝试招收学生的新策略。
+* The group would likely work with Los Angeles officials, who have a strained relationship with President Trump, ahead of the 2028 Olympics.
+* 在2028年奥运会之前，该组织可能会与与特朗普总统关系紧张的洛杉矶官员合作。
+* Albert Pike was a Confederate general and diplomat who negotiated alliances with slave-owning Native American tribes during the Civil War.
+* 阿尔伯特·派克（ Albert Pike ）是南方邦联的将军和外交官，在内战期间与拥有奴隶的美洲原住民部落进行了联盟谈判。
+* Ms. Greene, the hard-right House Republican from Georgia, called her former colleague’s seven-year sentence “excessive” in a letter to the U.S. pardon attorney.
+* 来自佐治亚州的强硬派众议院共和党人格林在给美国赦免律师的一封信中称，她前同事的七年徒刑“过长”。
+* A marathon of recent public hearings highlighted a rift over the investigation into the fatal midair crash in January between an Army helicopter and a passenger jet.
+* 最近的一系列公开听证会凸显了对1月份一架陆军直升机和一架客机之间致命空中坠毁事件的调查存在分歧。
+* President Trump’s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an agency they had freely cited in the past.
+* 特朗普总统决定解雇劳工统计局局长，迫使他的盟友进入批评他们过去自由引用的机构的尴尬境地。
 
 ## New York Times Asia News
+* Taiwan government says it has detained three employees on suspicion they obtained the Taiwanese chip giant’s “core technology trade secrets.”
+* 台湾政府表示，已经拘留了三名员工，因为他们怀疑他们获得了台湾芯片巨头的“核心技术商业秘密”。
+* Record-setting rain has brought chaos to parts of Hong Kong, with submerged streets, stranded buses and landslides. Residents were advised to avoid going out.
+* 创纪录的降雨给香港部分地区带来了混乱，街道被淹没，公共汽车滞留和山体滑坡。建议居民避免外出。
+* Very few people know what it’s like to recover, physically and emotionally, from a shark bite. But some of the ones who do are ready to help.
+* 很少有人知道从鲨鱼咬伤中恢复身体和情感是什么感觉。但其中一些人已经准备好提供帮助。
+* What the world’s only atomic bombings, carried out by Americans, did to Hiroshima and Nagasaki.
+* 由美国人进行的世界上唯一的原子弹爆炸对广岛和长崎造成了影响。
+* The New York Times identified a series of missteps that made a Jeju Air flight’s catastrophic end much more deadly.
+* 《纽约时报》发现了一系列失误，使济州航空公司的灾难性航班更加致命。
+* Original designs for a structure at the end of the runway stipulated that it should break apart easily on impact. It ended up being made of concrete.
+* 跑道尽头的结构的原始设计规定，它应该在撞击时容易分解。它最终由混凝土制成。
+* Also, a hit musical at the Edinburgh Festival Fringe.
+* 此外，还有爱丁堡艺穗节（ Edinburgh Festival Fringe ）的热门音乐剧。
+* Lyft and Baidu plan to start service early next year, joining Uber and Momenta in using electric cars from China, which are the least expensive even with tariffs.
+* Lyft和百度计划明年初开始服务，加入优步和Momenta ，使用来自中国的电动汽车，即使加收关税，电动汽车也是最便宜的。
 * The 2-year-old girl was discovered Sunday in the luggage compartment of a bus after the driver noticed the suitcase moving, the police said.
 * 警方称，在司机注意到行李箱移动后，这名2岁的女孩于周日在公共汽车的行李舱中被发现。
 * Kong Nay, a blind lute player who endured the horrors of a totalitarian regime, exposed a new generation of Cambodians to their country’s traditional music.
 * Kong Nay是一名盲人琵琶演奏家，他忍受了极权主义政权的恐怖，让新一代柬埔寨人接触到了他们国家的传统音乐。
-* Once a cog in the Malaysian economy, the solar industry profited from Chinese investment. Now it’s becoming a case study of what happens when the United States closes its markets.
-* 曾经是马来西亚经济的一个齿轮，太阳能行业从中国的投资中获利。现在，它正在成为一个案例研究，说明当美国关闭其市场时会发生什么。
-* Plus, influencers feted by the Vatican.
-* 此外，还有梵蒂冈喜爱的网红。
-* Even low-level government employees like elementary school teachers and nurses have been ordered to hand in their passports, to enforce “discipline.”
-* 甚至像小学教师和护士这样的低级政府雇员也被命令交出护照，以执行“纪律”。
-* Prime Minister Paetongtarn Shinawatra of Thailand had already been suspended after a leaked phone call that many say showed her selling out her country.
-* 泰国总理Paetongtarn Shinawatra在一通泄露的电话后已经被停职，许多人说这通电话显示她出卖了她的国家。
-* There is a growing sense in India that its leaders should not allow American policymaking to shape its choices on vital energy supplies.
-* 印度越来越意识到，其领导人不应允许美国的政策制定影响其对重要能源供应的选择。
-* An Oxford museum’s collection of objects taken from the Naga people includes human remains. What to do with them now is not a simple matter.
-* 牛津博物馆收藏了从纳迦人手中夺取的文物，其中包括人类遗骸。现在如何处理它们不是一件简单的事情。
-* After a scrubbed launch on Thursday, four astronauts lifted off from Florida and will dock at the International Space Station on Saturday.
-* 在周四的擦洗发射后，四名宇航员从佛罗里达州起飞，并将于周六在国际空间站停靠。
-* President Trump’s executive order carved out a special tariff on goods shipped indirectly to the United States by way of other countries.
-* 特朗普总统的行政命令对通过其他国家间接运往美国的货物征收特殊关税。
 
