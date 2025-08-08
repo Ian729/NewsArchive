@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The Israeli security cabinet is to discuss the proposal on Thursday. Critics say that extending the offensive would endanger the lives of Israeli hostages and kill more Palestinian civilians.
-* 以色列安全内阁将于周四讨论该提案。批评人士说，延长进攻将危及以色列人质的生命，并造成更多巴勒斯坦平民死亡。
-* Residents in a city in southwestern China protested what they saw as official indifference in the attack on a girl. Police repression and censorship fueled the outrage.
-* 中国西南部一个城市的居民抗议他们认为官方对袭击一名女孩漠不关心。警察的镇压和审查加剧了愤怒。
-* A summit between President Trump and President Vladimir V. Putin would come as the United States has urged Russia to agree to a cease-fire in Ukraine or face new sanctions.
-* 特朗普总统和弗拉基米尔· V ·普京总统之间的峰会将在美国敦促俄罗斯同意在乌克兰停火或面临新的制裁之际举行。
-* The Russian leader sees direct talks with Trump as essential to achieving his ultimate aims in Ukraine.
-* 这位俄罗斯领导人认为，与特朗普的直接会谈对于实现他在乌克兰的最终目标至关重要。
-* Veronika Osintseva’s story has captivated a war-weary Ukraine.
-* 维罗妮卡·奥辛采娃（ Veronika Osintseva ）的故事吸引了厌倦战争的乌克兰。
-* The protest group Palestine Action does not promote violence against people. But after it damaged military property, the British government banned it as a terrorist organization.
-* 抗议组织“巴勒斯坦行动”不提倡暴力侵害人民。但在破坏军事财产后，英国政府将其列为恐怖组织予以取缔。
-* The virus is spreading in insular Mennonite communities. But the broader population is vulnerable as vaccine rates have fallen across the Canadian province since the Covid-19 pandemic.
-* 该病毒正在门诺派岛屿社区蔓延。但由于自新冠肺炎疫情以来，加拿大全省的疫苗接种率已经下降，更广泛的人群是脆弱的。
-* Eighty years after the atomic bombing, some Japanese think that peace for peace’s sake is no longer enough.
-* 原子弹爆炸八十年后，一些日本人认为，为了和平的和平已经不够了。
-* Women in Pakistan die every day for supposedly dishonoring their families, and arrests are rare. But Bano Bibi’s defiant last words were caught on video.
-* 巴基斯坦妇女每天都会因据称羞辱家人而死亡，而且很少有人被捕。但Bano Bibi挑衅性的最后一句话在视频中被捕获。
-* The helicopter had taken off from Accra, the capital, en route to a mining conference when it went “off the radar,” the armed forces said.
-* 武装部队说，这架直升机从首都阿克拉起飞，前往参加采矿会议，当时它“不在雷达范围之内”。
+* Time and again, Prime Minister Benjamin Netanyahu of Israel has pledged to defeat Hamas by force. His cabinet’s decision to capture Gaza City risks ending in a familiar deadlock.
+* 以色列总理本雅明·内塔尼亚胡一再承诺以武力击败哈马斯。他的内阁决定占领加沙城，有可能以熟悉的僵局告终。
+* An increasing number of Palestinians are dying from hunger-related causes. Others are weak from months of extreme deprivation and vulnerable to illnesses in a territory short on crucial medical supplies, fuel and clean water, aid workers say.
+* 越来越多的巴勒斯坦人死于与饥饿有关的原因。援助工作者表示，在缺乏关键医疗用品、燃料和清洁水的领土上，其他人因数月的极度贫困而变得虚弱，容易患病。
+* The Russian economy was slowing even before President Trump’s latest threats. But the Kremlin has enough money to keep fighting in Ukraine.
+* 即使在特朗普总统发出最新威胁之前，俄罗斯经济也在放缓。但克里姆林宫有足够的资金继续在乌克兰作战。
+* To some in the U.K., the criticisms from the American right over arrests of people for hate speech seem hypocritical, given President Trump’s attacks on those who disagree with him.
+* 对于英国的一些人来说，鉴于特朗普总统对那些不同意他的人的攻击，美国右翼对因仇恨言论而被捕的人的批评似乎是虚伪的。
+* The announcement appeared to stop short of saying explicitly that Israel would take full control of the Gaza Strip, which Prime Minister Benjamin Netanyahu said was his intention earlier.
+* 该声明似乎没有明确表示以色列将完全控制加沙地带，内塔尼亚胡总理早些时候表示这是他的意图。
+* A livestream of an undersea project has captivated Argentina as President Javier Milei wields a chain saw on the budget for science.
+* 随着阿根廷总统哈维尔·米莱（ Javier Milei ）挥舞着科学预算的链锯，一个海底项目的现场直播吸引了阿根廷。
+* A basketball academy that offers young people a lifeline and a chance to dream is hanging on in the Congolese city of Goma, despite years of war and the chaos and violence that have followed a rebel takeover.
+* 一所为年轻人提供生命线和梦想机会的篮球学院正在刚果戈马市继续存在，尽管在叛乱分子接管后经历了多年的战争和混乱与暴力。
+* “Here on the ground, we don’t feel any real changes from all these high-level meetings and statements,” a soldier said.
+* 一名士兵说： “在地面上，我们没有感觉到所有这些高级别会议和声明有任何真正的变化。”
+* Dozens of Bhutanese men ejected from the United States are now in refugee camps in Nepal, which doesn’t want them but has nowhere to send them.
+* 数十名被驱逐出美国的不丹男子现在在尼泊尔的难民营，尼泊尔不想要他们，但无处可送。
+* The U.S. government intends to incinerate $9.7 million in already-purchased birth control in Belgium after U.S.A.I.D shut down. Destruction may have already started.
+* 美国政府打算在美国国际开发署关闭后，在比利时焚烧970万$已经购买的节育措施。销毁可能已经开始。
 
 ## New York Times United States News
-* State Representative Gene Wu represents a racially diverse corner of Houston when he’s not defending juveniles in court. The battle over redistricting has pushed him into the national spotlight.
-* 当州众议员Gene Wu不在法庭上为青少年辩护时，他代表了休斯顿一个种族多元化的角落。重新划分选区的斗争使他成为全国关注的焦点。
-* The cash infusion is a rare move by the Democratic National Committee in deep-blue New Jersey, where Representative Mikie Sherrill narrowly leads her G.O.P. opponent.
-* 现金注入是民主党全国委员会在深蓝色的新泽西州罕见的举动，众议员Mikie Sherrill狭隘地领导她的共和党对手。
-* Dr. David A. Kessler has outlined a legal path for Health Secretary Robert F. Kennedy Jr. to take on the food industry, while testing President Trump’s willingness to do so.
-* 大卫·凯斯勒博士（ Dr. David A. Kessler ）概述了卫生部长小罗伯特·肯尼迪（ Robert F. Kennedy Jr. ）对食品行业采取的法律途径，同时测试了特朗普总统这样做的意愿。
-* A rented Penske truck was used to ferry agents to the Home Depot where the raid was conducted, days after an appeals court upheld an order limiting some enforcement tactics.
-* 在上诉法院维持限制某些执法策略的命令几天后，一辆租用的Penske卡车被用来将代理人运送到进行突袭的家得宝。
-* The effort by President Trump and his allies is the latest example of them trying to rewrite the rules to squeeze out every possible political advantage.
-* 特朗普总统及其盟友的努力是他们试图改写规则以挤出所有可能的政治优势的最新例子。
-* President Trump has revived his first-term policy of separating migrant children from their parents, and the more targeted version is happening far from the border.
-* 特朗普总统恢复了将移民儿童与父母分开的第一个任期政策，更有针对性的版本正在远离边境发生。
-* The Department of Veterans Affairs appeared to be the first agency to begin terminating union contracts, affecting more than 400,000 workers.
-* 退伍军人事务部似乎是第一个开始终止工会合同的机构，影响了40多万工人。
-* Before the inauguration, Jacob Buckley, of Port Matilda, Pa., wrote “Bro we going into a literal oligarchy in 4 days and im going to kill Trump,” prosecutors said.
-* 检察官说，在就职典礼之前，宾夕法尼亚州玛蒂尔达港的雅各布·巴克利（ Jacob Buckley ）写道： “兄弟，我们将在4天内进入一个字面上的寡头政治，我要杀死特朗普。”
-* The political and legal threats against Democrats who left Texas to protest a redrawn political map have gone further and faster than many anticipated.
-* 对离开德克萨斯州抗议重新绘制政治地图的民主党人的政治和法律威胁比许多人预期的要快得多。
-* Texas Democrats may have bought their party some time with their walkout, but both parties are mobilizing to redraw U.S. House maps ahead of the midterms.
-* 德克萨斯州民主党人可能已经在罢工中赢得了一段时间，但双方都在动员起来，在中期选举之前重新绘制美国众议院地图。
+* Experts on mass shootings said it’s rare for the gunmen who carry out such crimes to elude the authorities for so long.
+* 大规模枪击事件专家表示，实施此类犯罪的枪手很少能长期躲避当局。
+* President Trump’s most recent executive order wades into a debate over how elite colleges should weigh grades and test scores versus the obstacles students have overcome.
+* 特朗普总统最近的行政命令引发了一场关于精英大学应该如何权衡成绩和考试成绩以及学生克服的障碍的辩论。
+* The Federal Aviation Administration says it plans to “supercharge” hiring and training between now and late 2028. It would not be enough to end a shortage of controllers.
+* 美国联邦航空管理局表示，它计划在现在到2028年底之间“加大”招聘和培训的力度。这还不足以结束控制器的短缺。
+* The deployment follows President Trump’s effort to portray the nation’s capital as rife with violent crime, despite data showing crime rates dropping significantly.
+* 尽管数据显示犯罪率大幅下降，但特朗普总统仍努力将该国首都描绘成充斥着暴力犯罪的城市。
+* President Trump promoted his own version of reality in the Oval Office after firing the head of the agency that collects employment statistics last week.
+* 特朗普总统在上周解雇了收集就业统计数据的机构负责人后，在椭圆形办公室宣传了他自己的现实版本。
+* The Canyon fire grew within hours to almost 5,000 acres as it spread into Los Angeles County, officials said.
+* 官员说，峡谷大火在几小时内蔓延到洛杉矶县，占地近5000英亩。
+* A lower court had ordered agents not to make indiscriminate stops relying on factors like race or speaking Spanish.
+* 下级法院命令特工不得根据种族或讲西班牙语等因素不分青红皂白地停止。
+* The Secret Service said the boats the agency uses for security are usually motorized and need deeper waters to operate.
+* 特勤局表示，该机构用于安全的船只通常是机动化的，需要更深的水域才能运行。
+* The announcement of Mr. Blackstock’s death came one day after Ms. Clarkson said she would be postponing the remainder of her residency in Las Vegas.
+* 布莱克斯托克去世的消息是在克拉克森女士表示她将推迟她在拉斯维加斯的剩余居住时间的第二天宣布的。
+* If confirmed, Stephen Miran, the current chair of the Council of Economic Advisers, would temporarily fill a position left vacant by Adriana Kugler, who is stepping down early.
+* 如果得到确认，经济顾问委员会现任主席斯蒂芬·米兰（ Stephen Miran ）将临时填补提前辞职的阿德里亚娜·库格勒（ Adriana Kugler ）留下的空缺职位。
 
 ## New York Times Asia News
+* Taiwan’s export manufacturers are facing steeper U.S. tariffs than their neighbors got and getting squeezed by an appreciating currency.
+* 台湾的出口制造商正面临比邻国更高的美国关税，并受到货币升值的挤压。
+* Tensions have been mounting between the United States and Japan as both sides appear to have starkly different interpretations of a trade deal finalized last month.
+* 美国和日本之间的紧张关系一直在加剧，因为双方似乎对上个月敲定的贸易协议有着截然不同的解释。
+* Dozens of Bhutanese men ejected from the United States are now in refugee camps in Nepal, which doesn’t want them but has nowhere to send them.
+* 数十名被驱逐出美国的不丹男子现在在尼泊尔的难民营，尼泊尔不想要他们，但无处可送。
+* A photo of Son Heung-min set off a heated debate online that laid bare the intense emotions surrounding South Korea’s gender divide.
+* 孙兴敏的一张照片在网上引发了一场激烈的辩论，暴露了围绕韩国性别鸿沟的强烈情绪。
+* Plus, the global response to Trump’s tariffs.
+* 此外，全球对特朗普关税的反应。
+* A figurehead leader, he had little real power but did endorse measures that allowed the country’s generals to extend their rule after a 2021 coup.
+* 作为一个傀儡领袖，他几乎没有真正的权力，但确实支持允许该国将军在2021年政变后延长其统治的措施。
+* The semiconductor supply chain is complex and global. And most chips come into the United States as part of electronics.
+* 半导体供应链复杂且全球化。大多数芯片都是作为电子产品的一部分进入美国的。
 * Residents in a city in southwestern China protested what they saw as official indifference in the attack on a girl. Police repression and censorship fueled the outrage.
 * 中国西南部一个城市的居民抗议他们认为官方对袭击一名女孩漠不关心。警察的镇压和审查加剧了愤怒。
 * The Senate set aside the trial of Sara Duterte, a rival of President Ferdinand Marcos Jr. She and her party won more seats than expected in midterm elections in May.
 * 参议院搁置了对小费迪南德·马科斯（ Ferdinand Marcos Jr. ）总统的竞争对手萨拉·杜特尔特（ Sara Duterte ）的审她和她的政党在5月的中期选举中赢得了比预期更多的席位。
 * Toyota, Honda and Nissan forecast big hits to their profits despite a trade deal that cut auto levies to 15 percent. The reduced rate has yet to be implemented.
 * 丰田(Toyota)、本田(Honda)和日产(Nissan)预计，尽管贸易协议将汽车关税降至15% ，但它们的利润仍将受到重创。降低的税率尚未实施。
-* As the president pursues his goals on Russia and trade, America’s relationship with an important partner in Asia could end up as collateral damage.
-* 随着总统追求他在俄罗斯和贸易方面的目标，美国与亚洲一个重要伙伴的关系可能最终成为附带损害。
-* Also, a possible Russia-Ukraine-U.S. summit.
-* 此外，俄罗斯-乌克兰-美国可能举行峰会。
-* About 190 people have been rescued so far, officials said, but they warned that the death toll could rise.
-* 官员说，到目前为止，大约有190人获救，但他们警告说，死亡人数可能会上升。
-* With threats of tariffs up to 50 percent, President Trump seems to be scrapping America’s plan to turn India into a counterweight to China, declaring instead that it is a “dead economy.”
-* 由于关税威胁高达50 ％ ，特朗普总统似乎正在废除美国将印度变成中国制衡的计划，而是宣称印度是一个“死经济体”。
-* Facing a 50 percent tariff as a penalty for buying Russian oil, India says it is “unfortunate” that it is being punished for acting in its national interest.
-* 印度因购买俄罗斯石油而面临50 ％的关税处罚，印度表示，它因代表国家利益而受到惩罚是“不幸的”。
-* Tariffs on Indian exports to the United States will surge to 50 percent by late August, as part of an effort by President Trump to pressure Russia into resolving its war in Ukraine.
-* 到8月底，印度对美国出口的关税将飙升至50% ，这是特朗普总统向俄罗斯施压以解决乌克兰战争的一部分。
-* Women in Pakistan die every day for supposedly dishonoring their families, and arrests are rare. But Bano Bibi’s defiant last words were caught on video.
-* 巴基斯坦妇女每天都会因据称羞辱家人而死亡，而且很少有人被捕。但Bano Bibi挑衅性的最后一句话在视频中被捕获。
 
