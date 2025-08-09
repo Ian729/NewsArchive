@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Time and again, Prime Minister Benjamin Netanyahu of Israel has pledged to defeat Hamas by force. His cabinet’s decision to capture Gaza City risks ending in a familiar deadlock.
-* 以色列总理本雅明·内塔尼亚胡一再承诺以武力击败哈马斯。他的内阁决定占领加沙城，有可能以熟悉的僵局告终。
+* New York Times reporters documented how fentanyl was concealed by Mexico’s most powerful criminal syndicate, which is adapting in the face of a crackdown by two governments.
+* 《纽约时报》记者记录了墨西哥最强大的犯罪集团是如何隐瞒芬太尼的，该集团正在适应两国政府的镇压。
+* The Ukrainian leader’s blunt comments risk angering President Trump, who has made a peace deal between Ukraine and Russia one of his signature foreign policy goals.
+* 乌克兰领导人直言不讳的评论可能会激怒特朗普总统，后者已将乌克兰与俄罗斯之间的和平协议作为其标志性的外交政策目标之一。
+* Palestinians who fear being killed or seriously injured during rushes to obtain aid are being forced to pay exorbitant fees to take out money to buy food.
+* 巴勒斯坦人害怕在急于获得援助的过程中被杀害或严重受伤，他们被迫支付高昂的费用，以便拿出钱购买食物。
+* With two governments, and two soccer leagues, Libya is holding its soccer championship in Italy for a second year. Volatile politics and fans follow.
+* 利比亚有两个政府和两个足球联赛，连续第二年在意大利举行足球锦标赛。随之而来的是动荡的政治和粉丝。
+* Assaults on Ukraine have been intensifying even as President Trump has threatened new sanctions on Moscow, and now is preparing to meet with Russia’s leader.
+* 尽管特朗普总统威胁对莫斯科实施新的制裁，但对乌克兰的袭击一直在加剧，现在正准备与俄罗斯领导人会面。
+* The American leader has agreed to a meeting with the Russian president in Alaska next Friday to discuss ending the war in Ukraine.
+* 这位美国领导人已同意下周五在阿拉斯加与俄罗斯总统会晤，讨论结束乌克兰战争。
+* The European Union struck a trade deal that protected political priorities, like chicken and beef standards, while allowing headline-grabbing concessions. Consider lobsters.
+* 欧盟达成了一项贸易协议，保护了鸡肉和牛肉标准等政治优先事项，同时允许引人注目的让步。考虑龙虾。
 * An increasing number of Palestinians are dying from hunger-related causes. Others are weak from months of extreme deprivation and vulnerable to illnesses in a territory short on crucial medical supplies, fuel and clean water, aid workers say.
 * 越来越多的巴勒斯坦人死于与饥饿有关的原因。援助工作者表示，在缺乏关键医疗用品、燃料和清洁水的领土上，其他人因数月的极度贫困而变得虚弱，容易患病。
-* The Russian economy was slowing even before President Trump’s latest threats. But the Kremlin has enough money to keep fighting in Ukraine.
-* 即使在特朗普总统发出最新威胁之前，俄罗斯经济也在放缓。但克里姆林宫有足够的资金继续在乌克兰作战。
+* The Mexican government thought it had turned a corner in cooperating with the Trump administration on combating the cartels, having launched an aggressive crackdown of its own.
+* 墨西哥政府认为，它已经开始与特朗普政府合作打击卡特尔，并发起了自己的积极镇压行动。
 * To some in the U.K., the criticisms from the American right over arrests of people for hate speech seem hypocritical, given President Trump’s attacks on those who disagree with him.
 * 对于英国的一些人来说，鉴于特朗普总统对那些不同意他的人的攻击，美国右翼对因仇恨言论而被捕的人的批评似乎是虚伪的。
-* The announcement appeared to stop short of saying explicitly that Israel would take full control of the Gaza Strip, which Prime Minister Benjamin Netanyahu said was his intention earlier.
-* 该声明似乎没有明确表示以色列将完全控制加沙地带，内塔尼亚胡总理早些时候表示这是他的意图。
-* A livestream of an undersea project has captivated Argentina as President Javier Milei wields a chain saw on the budget for science.
-* 随着阿根廷总统哈维尔·米莱（ Javier Milei ）挥舞着科学预算的链锯，一个海底项目的现场直播吸引了阿根廷。
-* A basketball academy that offers young people a lifeline and a chance to dream is hanging on in the Congolese city of Goma, despite years of war and the chaos and violence that have followed a rebel takeover.
-* 一所为年轻人提供生命线和梦想机会的篮球学院正在刚果戈马市继续存在，尽管在叛乱分子接管后经历了多年的战争和混乱与暴力。
-* “Here on the ground, we don’t feel any real changes from all these high-level meetings and statements,” a soldier said.
-* 一名士兵说： “在地面上，我们没有感觉到所有这些高级别会议和声明有任何真正的变化。”
-* Dozens of Bhutanese men ejected from the United States are now in refugee camps in Nepal, which doesn’t want them but has nowhere to send them.
-* 数十名被驱逐出美国的不丹男子现在在尼泊尔的难民营，尼泊尔不想要他们，但无处可送。
-* The U.S. government intends to incinerate $9.7 million in already-purchased birth control in Belgium after U.S.A.I.D shut down. Destruction may have already started.
-* 美国政府打算在美国国际开发署关闭后，在比利时焚烧970万$已经购买的节育措施。销毁可能已经开始。
 
 ## New York Times United States News
-* Experts on mass shootings said it’s rare for the gunmen who carry out such crimes to elude the authorities for so long.
-* 大规模枪击事件专家表示，实施此类犯罪的枪手很少能长期躲避当局。
-* President Trump’s most recent executive order wades into a debate over how elite colleges should weigh grades and test scores versus the obstacles students have overcome.
-* 特朗普总统最近的行政命令引发了一场关于精英大学应该如何权衡成绩和考试成绩以及学生克服的障碍的辩论。
-* The Federal Aviation Administration says it plans to “supercharge” hiring and training between now and late 2028. It would not be enough to end a shortage of controllers.
-* 美国联邦航空管理局表示，它计划在现在到2028年底之间“加大”招聘和培训的力度。这还不足以结束控制器的短缺。
-* The deployment follows President Trump’s effort to portray the nation’s capital as rife with violent crime, despite data showing crime rates dropping significantly.
-* 尽管数据显示犯罪率大幅下降，但特朗普总统仍努力将该国首都描绘成充斥着暴力犯罪的城市。
-* President Trump promoted his own version of reality in the Oval Office after firing the head of the agency that collects employment statistics last week.
-* 特朗普总统在上周解雇了收集就业统计数据的机构负责人后，在椭圆形办公室宣传了他自己的现实版本。
-* The Canyon fire grew within hours to almost 5,000 acres as it spread into Los Angeles County, officials said.
-* 官员说，峡谷大火在几小时内蔓延到洛杉矶县，占地近5000英亩。
-* A lower court had ordered agents not to make indiscriminate stops relying on factors like race or speaking Spanish.
-* 下级法院命令特工不得根据种族或讲西班牙语等因素不分青红皂白地停止。
-* The Secret Service said the boats the agency uses for security are usually motorized and need deeper waters to operate.
-* 特勤局表示，该机构用于安全的船只通常是机动化的，需要更深的水域才能运行。
-* The announcement of Mr. Blackstock’s death came one day after Ms. Clarkson said she would be postponing the remainder of her residency in Las Vegas.
-* 布莱克斯托克去世的消息是在克拉克森女士表示她将推迟她在拉斯维加斯的剩余居住时间的第二天宣布的。
-* If confirmed, Stephen Miran, the current chair of the Council of Economic Advisers, would temporarily fill a position left vacant by Adriana Kugler, who is stepping down early.
-* 如果得到确认，经济顾问委员会现任主席斯蒂芬·米兰（ Stephen Miran ）将临时填补提前辞职的阿德里亚娜·库格勒（ Adriana Kugler ）留下的空缺职位。
+* The Trump administration has fired nearly everyone who worked at the federal statistics agency that would collect the data the government is seeking.
+* 特朗普政府解雇了几乎所有在联邦统计局工作的人，这些人将收集政府正在寻找的数据。
+* A sophisticated operation is pushing President Trump to forgive Changpeng Zhao, which would boost the chances for his company, Binance, to break into the U.S. market.
+* 一项复杂的行动正在推动特朗普总统原谅赵长鹏，这将增加他的公司币安进入美国市场的机会。
+* The American and Mexican governments are exploring “all options” to battle a deadly parasite threatening cattle and wildlife.
+* 美国和墨西哥政府正在探索“所有选择” ，以对抗威胁牛和野生动物的致命寄生虫。
+* Judge James C. Ho has recast the role of jurist as a vociferous combatant in the culture wars. Could that be exactly what Trump is looking for?
+* 法官詹姆斯· C ·何（ James C. Ho ）重新塑造了法学家作为文化战争中激烈战斗者的角色。这正是特朗普想要的吗？
+* Doubtful that President Trump has their best interests in mind, top union officials are redoubling efforts to push the Democratic Party to appeal more to their rank and file.
+* 工会高级官员怀疑特朗普总统是否考虑到他们的最大利益，他们正在加倍努力，推动民主党更多地吸引他们的普通民众。
+* Jeff Jackson was elected to attorney general in North Carolina the same year that President Trump won the state for the third time. Supporters see lessons for Democrats in Mr. Jackson’s rise.
+* 杰夫杰克逊当选北卡罗来纳州司法部长的同一年，特朗普总统第三次赢得该州。支持者从杰克逊的崛起中看到了民主党的教训。
+* Homeland Security says a detainee fainted. But other accounts say the man was unconscious. One witness said the guards did not seem to know how to check his pulse.
+* 国土安全部说，一名被拘留者晕倒了。但其他报道称，这名男子昏迷不醒。一名目击者说，警卫似乎不知道如何检查他的脉搏。
+* President Trump has faced legal challenges from unions representing federal workers for his push to strip them of labor protections.
+* 特朗普总统面临着来自代表联邦工人的工会的法律挑战，因为他推动剥夺他们的劳动保护。
+* Demand for the trendy dolls, elf-like creatures with nine-tooth grins, has people lining up for hours to buy them.
+* 对时尚娃娃的需求，像精灵一样的生物有九颗牙齿的笑容，让人们排队数小时购买它们。
+* The administration doubled down against Harvard, asserting that rising violent crime on campus meant the school should not host international students. It will also review the school’s patents.
+* 政府加倍反对哈佛大学，声称校园暴力犯罪的增加意味着学校不应该接待国际学生。它还将审查学校的专利。
 
 ## New York Times Asia News
+* President Trump’s new front in the trade war against India focuses on a pair of enormous refineries with extraordinary owners.
+* 特朗普总统在针对印度的贸易战中的新战线侧重于两家拥有非凡业主的大型炼油厂。
+* Kim Jong-un, the leader of North Korea, might be preparing his young daughter, Kim Ju-ae, to become his successor. Choe Sang-Hun, the ​Seoul bureau chief for The New York Times, analyzed North Korean state propaganda to find out.
+* 朝鲜领导人金正恩(Kim Jong-un)可能正在准备他的小女儿金正爱(Kim Ju-ae)成为他的继任者。《纽约时报》(The New York Times)首尔分社社长崔相勋(Choe Sang-Hun)分析了朝鲜的国家宣传，以找出答案。
+* A series of border skirmishes between Thailand and Cambodia escalated into a military conflict in July that killed dozens of people and rattled the region. As negotiations take place, Sui-Lee Wee, The New York Times’s Southeast Asia bureau chief, talks to Katrin Bennhold, a senior writer on the International desk, about the context behind the evolving dispute.
+* 7月，泰国和柬埔寨之间的一系列边境冲突升级为军事冲突，造成数十人死亡，并使该地区感到不安。在谈判进行之际，《纽约时报》东南亚分社社长Sui-Lee Wee与《纽约时报》国际部资深作家Katrin Bennhold讨论了不断演变的争端背后的背景。
+* Armenia said it would give the U.S. exclusive development rights to a transit corridor through its territory, which will be named the Trump Route for International Peace and Prosperity.
+* 亚美尼亚表示，它将授予美国通过其领土的过境走廊的独家开发权，该走廊将被命名为特朗普国际和平与繁荣之路。
+* President Vladimir V. Putin of Russia may be seeking to build support among countries that have backed Moscow or remained neutral in the conflict.
+* 俄罗斯总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）可能正在寻求在支持莫斯科或在冲突中保持中立的国家之间建立支持。
+* The collapse of the prime minister’s high-stakes efforts to transform ties with the world’s two superpowers has exposed the limits of India’s leverage.
+* 总理转变与世界两个超级大国关系的高风险努力的崩溃暴露了印度影响力的局限性。
+* A reporter traveled to the corners of the country to meet six World War II veterans, who had a warning for generations to come.
+* 一名记者前往该国的角落会见了六名二战老兵，他们为子孙后代发出了警告。
+* The Trump administration levied a hefty tariff on goods that are moved through other countries, but it has not yet fully explained its plans.
+* 特朗普政府对通过其他国家运输的商品征收高额关税，但尚未充分解释其计划。
 * Taiwan’s export manufacturers are facing steeper U.S. tariffs than their neighbors got and getting squeezed by an appreciating currency.
 * 台湾的出口制造商正面临比邻国更高的美国关税，并受到货币升值的挤压。
 * Tensions have been mounting between the United States and Japan as both sides appear to have starkly different interpretations of a trade deal finalized last month.
 * 美国和日本之间的紧张关系一直在加剧，因为双方似乎对上个月敲定的贸易协议有着截然不同的解释。
-* Dozens of Bhutanese men ejected from the United States are now in refugee camps in Nepal, which doesn’t want them but has nowhere to send them.
-* 数十名被驱逐出美国的不丹男子现在在尼泊尔的难民营，尼泊尔不想要他们，但无处可送。
-* A photo of Son Heung-min set off a heated debate online that laid bare the intense emotions surrounding South Korea’s gender divide.
-* 孙兴敏的一张照片在网上引发了一场激烈的辩论，暴露了围绕韩国性别鸿沟的强烈情绪。
-* Plus, the global response to Trump’s tariffs.
-* 此外，全球对特朗普关税的反应。
-* A figurehead leader, he had little real power but did endorse measures that allowed the country’s generals to extend their rule after a 2021 coup.
-* 作为一个傀儡领袖，他几乎没有真正的权力，但确实支持允许该国将军在2021年政变后延长其统治的措施。
-* The semiconductor supply chain is complex and global. And most chips come into the United States as part of electronics.
-* 半导体供应链复杂且全球化。大多数芯片都是作为电子产品的一部分进入美国的。
-* Residents in a city in southwestern China protested what they saw as official indifference in the attack on a girl. Police repression and censorship fueled the outrage.
-* 中国西南部一个城市的居民抗议他们认为官方对袭击一名女孩漠不关心。警察的镇压和审查加剧了愤怒。
-* The Senate set aside the trial of Sara Duterte, a rival of President Ferdinand Marcos Jr. She and her party won more seats than expected in midterm elections in May.
-* 参议院搁置了对小费迪南德·马科斯（ Ferdinand Marcos Jr. ）总统的竞争对手萨拉·杜特尔特（ Sara Duterte ）的审她和她的政党在5月的中期选举中赢得了比预期更多的席位。
-* Toyota, Honda and Nissan forecast big hits to their profits despite a trade deal that cut auto levies to 15 percent. The reduced rate has yet to be implemented.
-* 丰田(Toyota)、本田(Honda)和日产(Nissan)预计，尽管贸易协议将汽车关税降至15% ，但它们的利润仍将受到重创。降低的税率尚未实施。
 
