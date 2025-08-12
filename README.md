@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Ukraine fears that the Kremlin will try to convince President Trump at U.S.-Russian talks in Alaska that Ukraine, not Russia, is the obstacle to peace.
-* 乌克兰担心克里姆林宫将试图在阿拉斯加的美俄会谈中说服特朗普总统，乌克兰而不是俄罗斯是和平的障碍。
-* The Israeli government said last week that it wanted to capture Gaza City, but how and when it will proceed has yet to be decided.
-* 以色列政府上周表示，它希望占领加沙城，但如何以及何时进行尚未决定。
-* Anas al-Sharif, a well-known correspondent, was among those killed. Israel said it had targeted Mr. al-Sharif, claiming he worked for Hamas, which he had denied.
-* 知名记者阿纳斯·谢里夫（ Anas al-Sharif ）是遇难者之一。以色列表示，它针对的是谢里夫先生，声称他为哈马斯工作，但他否认了这一点。
+* Officials accused Anas al-Sharif of being a Hamas operative posing as a reporter. Al Jazeera says he and the other four victims all worked for the network.
+* 官员们指责阿纳斯·谢里夫是一名冒充记者的哈马斯特工。半岛电视台说，他和其他四名受害者都为该网络工作。
+* Al Jazeera, five of whose reporters the broadcaster said were killed by an Israeli strike, has angered governments across the region that claim it gives voice to terrorists. The outlet denies that.
+* 半岛电视台的五名记者说，半岛电视台被以色列空袭杀害，这激怒了整个地区的政府，他们声称半岛电视台为恐怖分子发声。插座否认这一点。
+* Russia has repeatedly targeted soldiers assembled at military academies, barracks and parade grounds.
+* 俄罗斯一再瞄准集结在军事学院、军营和阅兵场的士兵。
+* As President Trump talks of land swaps, Ukrainians find it difficult to imagine giving up the Donbas, for military, humanitarian and political reasons.
+* 随着特朗普总统谈论土地交换，乌克兰人发现很难想象出于军事、人道主义和政治原因放弃顿巴斯。
+* Relatives of captives held by Hamas excoriated the Israeli government for what they called “an endless war without purpose.” It was unclear how many would join them.
+* 哈马斯俘虏的亲属谴责以色列政府所谓的“无目的的无休止的战争”。“不清楚有多少人会加入他们。
+* Zakaria Zubeidi inspired Palestinians and horrified Israelis. Freed from jail during a recent truce, he questions what his many lives have achieved.
+* Zakaria Zubeidi激励了巴勒斯坦人，吓坏了以色列人。在最近的休战期间，他从监狱中获释，他质疑自己的许多生活取得了什么成就。
+* A government advisory noting the high fat and sugar levels in many popular snacks was seen by some as an attack on India’s beloved street food.
+* 一份政府公告指出，许多受欢迎的零食中含有高脂肪和高糖分，一些人认为这是对印度深受喜爱的街头食品的攻击。
+* As heat waves batter Europe, the need (or not) for air-conditioning has become part of the political tug of war in France between the right and the left.
+* 随着热浪席卷欧洲，对空调的需求（或不）已成为法国右翼和左翼之间政治拉锯战的一部分。
 * Many in the capital worry that the secular freedoms they enjoyed under the Assad regime are under threat from the new Islamist government.
 * 首都的许多人担心，他们在阿萨德政权下享有的世俗自由正受到新伊斯兰政府的威胁。
-* In a highly unusual arrangement with President Trump, the companies are expected to kick 15 percent of what they make in China to the U.S. government.
-* 在与特朗普总统达成的一项非常不寻常的安排中，这些公司预计将向美国政府提供其在中国生产的15%。
-* For Quebec City’s tiny English-speaking community, a former jail turned library serves as an essential sanctuary in a metropolis where the domination of French is enshrined in law.
-* 对于魁北克市狭小的英语社区来说，一个曾经由监狱变成的图书馆是一个大都市的重要避难所，在这个大都市中，法语的统治地位被庄严地载入了法律。
-* After similar announcements by France, Britain and Canada, Australia said it would act at the United Nations General Assembly session next month.
-* 在法国、英国和加拿大做出类似宣布后，澳大利亚表示将在下个月的联合国大会上采取行动。
-* For three years, Sergei V. Kiriyenko has handled the political aspects of the war in Ukraine, rising among a cadre of skilled managers who oversee the sprawling Russian state.
-* 三年来，谢尔盖· V ·基里延科（ Sergei V. Kiriyenko ）一直在处理乌克兰战争的政治方面，在负责监督这个庞大俄罗斯国家的熟练管理人员中脱颖而出。
-* Images of starving children and Israel’s planned expansion of settlements spurred Britain, France and Germany to a tougher stance. Prime Minister Benjamin Netanyahu was undeterred.
-* 儿童挨饿和以色列计划扩建定居点的画面促使英国、法国和德国采取更强硬的立场。总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）没有被吓倒。
-* The decision triggers fears that the U.S. might return to a pattern of military interference in the region that dates to the Monroe Doctrine.
-* 这一决定引发了人们的担忧，即美国可能会回到门罗主义在该地区的军事干预模式。
+* Mr. Uribe, a presidential hopeful, was shot in June at a campaign rally in Bogotá in an attack that shocked the nation.
+* 乌里韦是总统候选人，今年6月在波哥大的一次竞选集会上遭到枪击，震惊了整个国家。
 
 ## New York Times United States News
-* New Hampshire is backing away from a promise to pay victims hundreds of millions of dollars. Other states are also rethinking payouts to those harmed under their care.
-* 新罕布什尔州正在放弃向受害者支付数亿美元的承诺。其他州也在重新考虑向受其照顾的受害者发放补偿。
-* Immigrant aid organizations in Central Texas worry that, amid an immigration crackdown, undocumented victims of the deadly floods are not receiving assistance.
-* 德克萨斯州中部的移民援助组织担心，在移民镇压期间，致命洪水的无证受害者没有得到援助。
-* May Mailman is credited as an animating force behind a strategy that has intimidated independent institutions and undercut years of medical and scientific research.
-* 梅·梅尔曼（ May Mailman ）被认为是一种策略背后的动画力量，该策略恐吓了独立机构并削弱了多年的医学和科学研究。
-* In a neighborhood that appeals to people from both the right and the left, residents strive for a finely tuned state of political harmony.
-* 在一个既吸引右翼又吸引左翼的街区，居民们努力追求一种精心调节的政治和谐状态。
-* The move is part of President Trump’s pledge to crack down on street crime in the nation’s capital.
-* 此举是特朗普总统承诺打击该国首都街头犯罪的一部分。
-* A Republican proposal to add five Republican congressional seats in Texas imperils Democrats’ midterm prospects.
-* 共和党提议在德克萨斯州增加五个共和党国会席位，这危及民主党的中期前景。
-* Senator Ruben Gallego of Arizona won his seat last year by outperforming national Democrats among Hispanic voters and men. He wants the party to listen to his message as it regroups.
-* 去年，亚利桑那州参议员鲁本·加列戈（ Ruben Gallego ）在西班牙裔选民和男性中表现优于全国民主党人，赢得了他的席位。他希望党在重组时听取他的信息。
-* The independent body that redraws the state’s political maps isn’t perfect, many Republicans say. But they prefer that to the gerrymander that Gov. Gavin Newsom seeks to offset one proposed in Texas.
-* 许多共和党人说，重新绘制该州政治地图的独立机构并不完美。但他们更喜欢这样，而不是州长加文·纽森（ Gavin Newsom ）试图抵消德克萨斯州的一项提议。
-* The vice president said the White House was trying to determine “when these three leaders could sit down and discuss an end to this conflict.”
-* 这位副总统表示，白宫正试图确定“这三位领导人何时可以坐下来讨论结束这场冲突”。
-* Warm relations between Alaskans and Russians began to shift with the rise of Vladimir Putin and the invasion of Ukraine. In Alaska, feelings on the two leaders’ meeting seemed mixed.
-* 随着弗拉基米尔·普京的崛起和乌克兰的入侵，阿拉斯加人和俄罗斯人之间的温暖关系开始发生变化。在阿拉斯加，对两位领导人会晤的感情似乎喜忧参半。
+* The move is the first significant maneuver from Ken Martin to shape the party’s next presidential nominating process, but how much bite his proposal could have remains to be seen.
+* 此举是肯·马丁（ Ken Martin ）为塑造该党下一次总统候选人提名程序而采取的第一次重大举措，但他的提案可能有多大的影响还有待观察。
+* “It’s a natural instinct as a real estate person,” he said in announcing his federal takeover of the capital’s police, despite falling crime.
+* “作为一个房地产人，这是一种自然的本能，”他在宣布联邦政府接管首都警察时说，尽管犯罪率下降。
+* Austerity is coming to colleges boxed in by President Trump’s cuts and their own troubles. As they lay off workers, cut majors and take other steps, the changes may eventually be felt in classrooms.
+* 紧缩政策正在进入被特朗普总统的削减和他们自己的麻烦所困扰的大学。当他们解雇工人，削减专业并采取其他措施时，最终可能会在教室里感受到这些变化。
+* Interviews with nearly 30 working-class Americans who until recently voted Democratic laid bare the party’s deep challenges — and its pockets of opportunity.
+* 对近30名直到最近投票给民主党的工薪阶层美国人的采访揭示了该党的深刻挑战—以及它的口袋机会。
+* Working-class Americans who until recently voted Democratic said the party should not count on a backlash to President Trump to win them back. Still, there were pockets of opportunity.
+* 直到最近投票支持民主党的工薪阶层美国人表示，该党不应指望特朗普总统的强烈反对来赢回他们。尽管如此，还是有一些机会。
+* Military officials testified that
+* 军方官员作证说
+* Federal law gives presidents the power to take over Washington’s police force after declaring an emergency, but Donald Trump is the first president to do so.
+* 联邦法律赋予总统在宣布紧急状态后接管华盛顿警察部队的权力，但唐纳德特朗普是第一位这样做的总统。
+* 
+* 
+* The Trump administration had been withholding $239 million in congressionally appropriated funding from the National Endowment for Democracy when the group sued in March.
+* 今年3月，特朗普政府从美国国家民主基金会(National Endowment for Democracy)扣留了2.39亿美元的国会拨款。
+* A group that represents students sued the military academies over their consideration of race in admissions but dropped its case after the Trump administration rejected diversity initiatives.
+* 一个代表学生的团体起诉军事学院在录取时考虑种族因素，但在特朗普政府拒绝多元化倡议后放弃了诉讼。
 
 ## New York Times Asia News
+* A government advisory noting the high fat and sugar levels in many popular snacks was seen by some as an attack on India’s beloved street food.
+* 一份政府公告指出，许多受欢迎的零食中含有高脂肪和高糖分，一些人认为这是对印度深受喜爱的街头食品的攻击。
+* Also, Israel-Qatar tension.
+* 此外，以色列和卡塔尔之间的紧张关系。
+* The president has threatened more tariffs on Russia and its trading partners and has imposed harsh ones on India and Brazil to try to sway matters of war and politics.
+* 总统威胁要对俄罗斯及其贸易伙伴征收更多关税，并对印度和巴西征收严厉关税，以试图影响战争和政治问题。
+* Opposition figures were held briefly at a New Delhi demonstration after accusing Narendra Modi’s ruling party of manipulating elections.
+* 在指责纳伦德拉·莫迪（ Narendra Modi ）的执政党操纵选举之后，反对派人士在新德里示威活动中短暂举行。
+* President Trump’s order continues a reprieve from the threat of escalating tariffs and export controls, which rocked the global economy earlier this year.
+* 特朗普总统的命令继续缓解关税和出口管制升级的威胁，这些威胁在今年早些时候震撼了全球经济。
 * After similar announcements by France, Britain and Canada, Australia said it would act at the United Nations General Assembly session next month.
 * 在法国、英国和加拿大做出类似宣布后，澳大利亚表示将在下个月的联合国大会上采取行动。
 * Ships carrying Chinese cars are using the Red Sea and Suez Canal even as other vessels still sail around Africa in fear of attacks by the Houthi militia.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 官员们以国家安全风险为由，在全国各地逮捕了许多人，其中大多数是穆斯林。人权组织表示，袭击的目标是被拘留者的宗教和语言。
 * The federally appointed government in the contested region has declared 25 books off limits, part of what many see as a pattern of repression.
 * 在这个有争议的地区，联邦政府任命的政府已宣布25本书禁书，这是许多人认为的镇压模式的一部分。
-* The Chinese leader’s crackdown on military corruption reveals how deep his concerns run, not only about battlefield readiness, but about political survival, as well.
-* 这位中国领导人对军事腐败的打击揭示了他的担忧有多深，不仅涉及战场准备，还涉及政治生存。
-* President Trump’s new front in the trade war against India focuses on a pair of enormous refineries with extraordinary owners.
-* 特朗普总统在针对印度的贸易战中的新战线侧重于两家拥有非凡业主的大型炼油厂。
-* Kim Jong-un, the leader of North Korea, might be preparing his young daughter, Kim Ju-ae, to become his successor. Choe Sang-Hun, the ​Seoul bureau chief for The New York Times, analyzed North Korean state propaganda to find out.
-* 朝鲜领导人金正恩(Kim Jong-un)可能正在准备他的小女儿金正爱(Kim Ju-ae)成为他的继任者。《纽约时报》(The New York Times)首尔分社社长崔相勋(Choe Sang-Hun)分析了朝鲜的国家宣传，以找出答案。
-* A series of border skirmishes between Thailand and Cambodia escalated into a military conflict in July that killed dozens of people and rattled the region. As negotiations take place, Sui-Lee Wee, The New York Times’s Southeast Asia bureau chief, talks to Katrin Bennhold, a senior writer on the International desk, about the context behind the evolving dispute.
-* 7月，泰国和柬埔寨之间的一系列边境冲突升级为军事冲突，造成数十人死亡，并使该地区感到不安。在谈判进行之际，《纽约时报》东南亚分社社长Sui-Lee Wee与《纽约时报》国际部资深作家Katrin Bennhold讨论了不断演变的争端背后的背景。
-* Armenia said it would give the U.S. exclusive development rights to a transit corridor through its territory, which will be named the Trump Route for International Peace and Prosperity.
-* 亚美尼亚表示，它将授予美国通过其领土的过境走廊的独家开发权，该走廊将被命名为特朗普国际和平与繁荣之路。
 
