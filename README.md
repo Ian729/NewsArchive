@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Officials accused Anas al-Sharif of being a Hamas operative posing as a reporter. Al Jazeera says he and the other four victims all worked for the network.
-* 官员们指责阿纳斯·谢里夫是一名冒充记者的哈马斯特工。半岛电视台说，他和其他四名受害者都为该网络工作。
-* Al Jazeera, five of whose reporters the broadcaster said were killed by an Israeli strike, has angered governments across the region that claim it gives voice to terrorists. The outlet denies that.
-* 半岛电视台的五名记者说，半岛电视台被以色列空袭杀害，这激怒了整个地区的政府，他们声称半岛电视台为恐怖分子发声。插座否认这一点。
-* Russia has repeatedly targeted soldiers assembled at military academies, barracks and parade grounds.
-* 俄罗斯一再瞄准集结在军事学院、军营和阅兵场的士兵。
-* As President Trump talks of land swaps, Ukrainians find it difficult to imagine giving up the Donbas, for military, humanitarian and political reasons.
-* 随着特朗普总统谈论土地交换，乌克兰人发现很难想象出于军事、人道主义和政治原因放弃顿巴斯。
-* Relatives of captives held by Hamas excoriated the Israeli government for what they called “an endless war without purpose.” It was unclear how many would join them.
-* 哈马斯俘虏的亲属谴责以色列政府所谓的“无目的的无休止的战争”。“不清楚有多少人会加入他们。
+* The six million people living in the Afghan capital could be out of water by 2030. The government is scrambling for solutions, but financial reserves are as dry as Kabul’s water basins.
+* 到2030年，生活在阿富汗首都的600万人可能缺水。政府正在争先恐后地寻找解决方案，但财政储备与喀布尔的流域一样干涸。
+* The recent flooding that killed 31 in a single nursing home exposed flaws in emergency planning as China braces for more extreme and unpredictable weather.
+* 最近在一家养老院造成31人死亡的洪水暴露了应急计划的缺陷，因为中国支持更极端和不可预测的天气。
+* Chancellor Friedrich Merz and several allies will host the president for a video call, the latest in a summer-long effort to hold ranks in supporting Ukraine.
+* 总理弗里德里希·默茨（ Friedrich Merz ）和几个盟友将主持总统的视频通话，这是为期一夏的支持乌克兰的最新努力。
+* In 1945, the map of Europe was redrawn in Yalta without input from the affected countries. Ukraine and Europe fear a repeat in Alaska.
+* 1945年，欧洲地图在没有受影响国家意见的情况下在雅尔塔重新绘制。乌克兰和欧洲担心在阿拉斯加重演。
+* The soccer star has been living in the country with Georgina Rodríguez, the mother of his children, testing the boundaries of social change in the conservative Islamic kingdom.
+* 这位足球明星一直与他的孩子的母亲乔治娜·罗德里格斯（ Georgina Rodríguez ）一起住在乡下，测试保守的伊斯兰王国的社会变革边界。
+* President Trump hosted the South Asian nation’s army chief and seeks deals on critical minerals and crypto. But Pakistan is also tightening its military partnership with China.
+* 特朗普总统接待了这个南亚国家的陆军参谋长，并寻求就关键矿物和加密货币达成协议。但巴基斯坦也在收紧与中国的军事伙伴关系。
 * Zakaria Zubeidi inspired Palestinians and horrified Israelis. Freed from jail during a recent truce, he questions what his many lives have achieved.
 * Zakaria Zubeidi激励了巴勒斯坦人，吓坏了以色列人。在最近的休战期间，他从监狱中获释，他质疑自己的许多生活取得了什么成就。
-* A government advisory noting the high fat and sugar levels in many popular snacks was seen by some as an attack on India’s beloved street food.
-* 一份政府公告指出，许多受欢迎的零食中含有高脂肪和高糖分，一些人认为这是对印度深受喜爱的街头食品的攻击。
 * As heat waves batter Europe, the need (or not) for air-conditioning has become part of the political tug of war in France between the right and the left.
 * 随着热浪席卷欧洲，对空调的需求（或不）已成为法国右翼和左翼之间政治拉锯战的一部分。
-* Many in the capital worry that the secular freedoms they enjoyed under the Assad regime are under threat from the new Islamist government.
-* 首都的许多人担心，他们在阿萨德政权下享有的世俗自由正受到新伊斯兰政府的威胁。
-* Mr. Uribe, a presidential hopeful, was shot in June at a campaign rally in Bogotá in an attack that shocked the nation.
-* 乌里韦是总统候选人，今年6月在波哥大的一次竞选集会上遭到枪击，震惊了整个国家。
+* A restoration of a beloved figure of the Virgin Mary causes an uproar. “The Macarena cannot be made up!”
+* 恢复心爱的圣母玛利亚形象引起了轩然大波。“Macarena是无法弥补的！”
+* As President Trump talks of land swaps, Ukrainians find it difficult to imagine giving up the Donbas, for military, humanitarian and political reasons.
+* 随着特朗普总统谈论土地交换，乌克兰人发现很难想象出于军事、人道主义和政治原因放弃顿巴斯。
 
 ## New York Times United States News
-* The move is the first significant maneuver from Ken Martin to shape the party’s next presidential nominating process, but how much bite his proposal could have remains to be seen.
-* 此举是肯·马丁（ Ken Martin ）为塑造该党下一次总统候选人提名程序而采取的第一次重大举措，但他的提案可能有多大的影响还有待观察。
-* “It’s a natural instinct as a real estate person,” he said in announcing his federal takeover of the capital’s police, despite falling crime.
-* “作为一个房地产人，这是一种自然的本能，”他在宣布联邦政府接管首都警察时说，尽管犯罪率下降。
-* Austerity is coming to colleges boxed in by President Trump’s cuts and their own troubles. As they lay off workers, cut majors and take other steps, the changes may eventually be felt in classrooms.
-* 紧缩政策正在进入被特朗普总统的削减和他们自己的麻烦所困扰的大学。当他们解雇工人，削减专业并采取其他措施时，最终可能会在教室里感受到这些变化。
-* Interviews with nearly 30 working-class Americans who until recently voted Democratic laid bare the party’s deep challenges — and its pockets of opportunity.
-* 对近30名直到最近投票给民主党的工薪阶层美国人的采访揭示了该党的深刻挑战—以及它的口袋机会。
-* Working-class Americans who until recently voted Democratic said the party should not count on a backlash to President Trump to win them back. Still, there were pockets of opportunity.
-* 直到最近投票支持民主党的工薪阶层美国人表示，该党不应指望特朗普总统的强烈反对来赢回他们。尽管如此，还是有一些机会。
-* Military officials testified that
-* 军方官员作证说
-* Federal law gives presidents the power to take over Washington’s police force after declaring an emergency, but Donald Trump is the first president to do so.
-* 联邦法律赋予总统在宣布紧急状态后接管华盛顿警察部队的权力，但唐纳德特朗普是第一位这样做的总统。
+* The president has taken a strong interest in the Kennedy Center’s affairs ever since naming himself chairman in February, when he restocked its traditionally bipartisan board with loyalists.
+* 自2月份任命自己为肯尼迪中心主席以来，总统一直对肯尼迪中心的事务非常感兴趣，当时他向传统的两党董事会补充了忠诚者。
+* Senator John Cornyn and Attorney General Ken Paxton are vying to be the tougher candidate on Democratic lawmakers who left Texas, as potential Democratic rivals seek their own spotlight.
+* 参议员约翰·科宁（ John Cornyn ）和总检察长肯·帕克斯顿（ Ken Paxton ）正在争夺对离开德克萨斯州的民主党议员的更强硬的候选人，因为潜在的民主党竞争对手正在寻求自己的聚光灯。
+* The mayor of Hamilton County, Tenn., declared a state of emergency as rescue crews pulled people out of submerged cars and homes.
+* 田纳西州汉密尔顿县市长宣布进入紧急状态，救援人员将人们从淹没的汽车和房屋中救出。
+* Judge Rita F. Lin ordered the National Science Foundation to restore grants awarded to the university, which she said had been suspended in defiance of the court.
+* 法官Rita F. Lin下令国家科学基金会恢复授予该大学的补助金，她说这些补助金因无视法院而被暂停。
+* The American and Russian presidents will meet face to face at Joint Base Elmendorf-Richardson in Alaska on Friday, according to a White House official.
+* 根据白宫官员的说法，美国和俄罗斯总统将于周五在阿拉斯加的埃尔门多夫-理查森联合基地面对面会面。
 * 
 * 
-* The Trump administration had been withholding $239 million in congressionally appropriated funding from the National Endowment for Democracy when the group sued in March.
-* 今年3月，特朗普政府从美国国家民主基金会(National Endowment for Democracy)扣留了2.39亿美元的国会拨款。
-* A group that represents students sued the military academies over their consideration of race in admissions but dropped its case after the Trump administration rejected diversity initiatives.
-* 一个代表学生的团体起诉军事学院在录取时考虑种族因素，但在特朗普政府拒绝多元化倡议后放弃了诉讼。
+* A collection of U.S. reports on human rights offenses trimmed or omitted past language on violations in El Salvador, Hungary, Saudi Arabia, the U.A.E. and Israel, all seen as partners by President Trump.
+* 美国关于侵犯人权行为的报告集合削减或省略了过去关于萨尔瓦多、匈牙利、沙特阿拉伯、阿联酋和以色列侵犯人权行为的措辞，所有这些国家都被特朗普总统视为合作伙伴。
+* The mill, which is part of the recent merger between U.S. Steel and Nippon Steel, has faced scrutiny from federal and local regulators.
+* 该工厂是美国钢铁公司和日本钢铁公司最近合并的一部分，面临联邦和地方监管机构的审查。
+* The president cited a number of false and misleading claims about homicides and youth crime in the nation’s capital.
+* 总统引用了一些关于该国首都凶杀案和青年犯罪的虚假和误导性说法。
+* President Trump said he needed to send in the Guard to secure the nation’s capital. But on Jan. 6, 2021 — the most lawless day in recent Washington history — he had a very different reaction.
+* 特朗普总统表示，他需要派遣警卫队来确保国家首都的安全。但在2021年1月6日--华盛顿近期历史上最无法无天的一天--他做出了非常不同的反应。
 
 ## New York Times Asia News
-* A government advisory noting the high fat and sugar levels in many popular snacks was seen by some as an attack on India’s beloved street food.
-* 一份政府公告指出，许多受欢迎的零食中含有高脂肪和高糖分，一些人认为这是对印度深受喜爱的街头食品的攻击。
-* Also, Israel-Qatar tension.
-* 此外，以色列和卡塔尔之间的紧张关系。
-* The president has threatened more tariffs on Russia and its trading partners and has imposed harsh ones on India and Brazil to try to sway matters of war and politics.
-* 总统威胁要对俄罗斯及其贸易伙伴征收更多关税，并对印度和巴西征收严厉关税，以试图影响战争和政治问题。
-* Opposition figures were held briefly at a New Delhi demonstration after accusing Narendra Modi’s ruling party of manipulating elections.
-* 在指责纳伦德拉·莫迪（ Narendra Modi ）的执政党操纵选举之后，反对派人士在新德里示威活动中短暂举行。
-* President Trump’s order continues a reprieve from the threat of escalating tariffs and export controls, which rocked the global economy earlier this year.
-* 特朗普总统的命令继续缓解关税和出口管制升级的威胁，这些威胁在今年早些时候震撼了全球经济。
-* After similar announcements by France, Britain and Canada, Australia said it would act at the United Nations General Assembly session next month.
-* 在法国、英国和加拿大做出类似宣布后，澳大利亚表示将在下个月的联合国大会上采取行动。
-* Ships carrying Chinese cars are using the Red Sea and Suez Canal even as other vessels still sail around Africa in fear of attacks by the Houthi militia.
-* 载有中国汽车的船只正在使用红海和苏伊士运河，尽管其他船只仍然在非洲周围航行，因为担心胡塞民兵的袭击。
-* Also, Europe closed ranks ahead of the Alaska summit.
-* 此外，欧洲在阿拉斯加峰会之前排名靠前。
-* Officials have picked up people across the country, most of them Muslim, citing a national security risk. Rights groups say the raids are targeting detainees’ religion and language.
-* 官员们以国家安全风险为由，在全国各地逮捕了许多人，其中大多数是穆斯林。人权组织表示，袭击的目标是被拘留者的宗教和语言。
-* The federally appointed government in the contested region has declared 25 books off limits, part of what many see as a pattern of repression.
-* 在这个有争议的地区，联邦政府任命的政府已宣布25本书禁书，这是许多人认为的镇压模式的一部分。
+* A man was swept away while fishing and dozens of other people were injured as strong winds and rain battered the island.
+* 一名男子在钓鱼时被冲走，数十人受伤，因为强风和雨水袭击了岛屿。
+* Oh Hwangtaek has amassed one of the largest collections of Polish posters outside Poland. He shares his unlikely passion at his own museum in Seoul.
+* Oh Hwangtaek积累了波兰境外最大的波兰海报收藏之一。他在首尔自己的博物馆里分享了自己不太可能的激情。
+* The recent flooding that killed 31 in a single nursing home exposed flaws in emergency planning as China braces for more extreme and unpredictable weather.
+* 最近在一家养老院造成31人死亡的洪水暴露了应急计划的缺陷，因为中国支持更极端和不可预测的天气。
+* President Trump hosted the South Asian nation’s army chief and seeks deals on critical minerals and crypto. But Pakistan is also tightening its military partnership with China.
+* 特朗普总统接待了这个南亚国家的陆军参谋长，并寻求就关键矿物和加密货币达成协议。但巴基斯坦也在收紧与中国的军事伙伴关系。
+* The six million people living in the Afghan capital could be out of water by 2030. The government is scrambling for solutions, but financial reserves are as dry as Kabul’s water basins.
+* 到2030年，生活在阿富汗首都的600万人可能缺水。政府正在争先恐后地寻找解决方案，但财政储备与喀布尔的流域一样干涸。
+* A collection of U.S. reports on human rights offenses trimmed or omitted past language on violations in El Salvador, Hungary, Saudi Arabia, the U.A.E. and Israel, all seen as partners by President Trump.
+* 美国关于侵犯人权行为的报告集合削减或省略了过去关于萨尔瓦多、匈牙利、沙特阿拉伯、阿联酋和以色列侵犯人权行为的措辞，所有这些国家都被特朗普总统视为合作伙伴。
+* Also, an interview with a former Palestinian militia leader.
+* 此外，还采访了一位前巴勒斯坦民兵领导人。
+* Kim Keon Hee, accused of accepting Chanel bags and other items as bribes, is the only former first lady in the country to have been put behind bars. Her husband has also been jailed on insurrection charges.
+* Kim Keon Hee被指控接受香奈儿包和其他物品作为贿赂，是该国唯一一位被关进监狱的前第一夫人。她的丈夫也因叛乱罪名被判入狱。
+* Footage shows a Chinese coast guard vessel chasing a Philippine boat and then ramming a Chinese warship. It was the latest confrontation in the contested waters.
+* 镜头显示，一艘中国海岸警卫队船只追逐一艘菲律宾船只，然后撞上一艘中国军舰。这是争议海域的最新对峙。
+* In cities across the country, the feral animals are both loved and feared. The judges are forging into intensely emotional territory by going after the ones in the capital.
+* 在全国各地的城市，野生动物既可爱又可怕。评委们正在通过追捕首都的评委们进入激烈的情感领域。
 
