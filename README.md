@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Once a vague proposal for a territorial swap gained clarity, a worried President Volodymyr Zelensky worked to rally allies before Friday’s Trump-Putin summit.
-* 在周五的特朗普-普京峰会之前，一个模糊的领土交换提案一度变得清晰，一位忧心忡忡的总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）努力团结盟友。
-* Mike Huckabee, the U.S. ambassador to Israel, demanded “accountability for this criminal and terrorist act,” referring to the killing last week of Sayfollah Musallet in the occupied territories.
-* 美国驻以色列大使迈克·赫卡比（ Mike Huckabee ）要求“追究这一犯罪和恐怖行为的责任” ，他指的是上周在被占领土上杀害Sayfollah Musallet的事件。
+* The talks on Friday in Alaska pull the Russian leader out of diplomatic isolation from the West, and Ukrainian and European leaders fear it gives him an opening to sway the American president.
+* 周五在阿拉斯加举行的会谈使这位俄罗斯领导人摆脱了与西方的外交孤立，乌克兰和欧洲领导人担心这会给他一个影响美国总统的机会。
+* A sudden feud, an impasse or a first step toward a cease-fire are all possible at the summit in Alaska as the two leaders navigate thorny issues such as Ukraine’s territory and NATO expansion.
+* 在阿拉斯加峰会上，突如其来的争执、僵局或停火的第一步都是可能的，因为两位领导人正在处理乌克兰领土和北约扩张等棘手问题。
+* Over the past two years, tens of thousands of children in the territory have been killed, wounded or orphaned. Childhood as they once knew it has ceased to exist.
+* 在过去两年中，该领土上有成千上万的儿童被杀害、受伤或成为孤儿。童年，因为他们曾经知道它已经不复存在。
+* Officials blamed U.S. “protectionism” for the dismal July data, but growth was likely held back by real estate and new policies aimed at slowing factory investments.
+* 官员们将7月份令人沮丧的数据归咎于美国的“保护主义” ，但房地产和旨在放缓工厂投资的新政策可能阻碍了经济增长。
+* Despite being barred from running again for president and being sought for arrest, a towering figure of Bolivian politics is trying to rally supporters to cast null votes.
+* 尽管被禁止再次竞选总统并被逮捕，但玻利维亚政界的一个高大人物正试图召集支持者投票无效。
+* A citizens’ group is now in charge of the island of Poveglia, where they will create a park for anyone who wants to leave Venice’s maddening crowds of tourists behind.
+* 一个公民团体现在负责波韦利亚岛，在那里他们将为任何想离开威尼斯疯狂的游客的人们建造一个公园。
+* The Trump-Putin summit will take place in a former Russian colony that the United States bought for $7.2 million in 1867. Here’s how the deal came together and why its legacy matters.
+* 特朗普-普京峰会将在一个前俄罗斯殖民地举行，美国在1867年以720万美元的价格购买了该殖民地。以下是这笔交易是如何达成的，以及为什么它的遗产很重要。
 * There are concerns about the slow pace of change in the country, with a promised election still months away, a struggling economy and familiar problems persisting.
 * 人们担心该国的变革步伐缓慢，承诺的选举还有几个月的时间，经济陷入困境，熟悉的问题持续存在。
-* The president’s hostility toward foreign students has made American higher education a riskier proposition for them. Other countries are eager to capitalize.
-* 总统对外国学生的敌意使美国高等教育对他们来说风险更大。其他国家渴望资本化。
-* The recent flooding that killed 31 in a single nursing home exposed flaws in emergency planning as China braces for more extreme and unpredictable weather.
-* 最近在一家养老院造成31人死亡的洪水暴露了应急计划的缺陷，因为中国支持更极端和不可预测的天气。
-* International charities warned that, left unchecked, the disease’s spread might exacerbate similar outbreaks across the African region for weeks or months to come.
-* 国际慈善机构警告说，如果不加以控制，这种疾病的传播可能会在未来数周或数月内加剧整个非洲地区的类似疫情。
-* Firefighters have spent days battling blazes in Greece, Spain, Portugal and elsewhere. Forecasters said temperatures would pass 107 degrees in some places Thursday.
-* 消防员花了几天时间在希腊、西班牙、葡萄牙和其他地方与大火作斗争。预报员表示，周四某些地方的气温将超过107度。
-* The soccer star has been living in the country with Georgina Rodríguez, the mother of his children, testing the boundaries of social change in the conservative Islamic kingdom.
-* 这位足球明星一直与他的孩子的母亲乔治娜·罗德里格斯（ Georgina Rodríguez ）一起住在乡下，测试保守的伊斯兰王国的社会变革边界。
-* In 1945, the map of Europe was redrawn in Yalta without input from the affected countries. Ukraine and Europe fear a repeat in Alaska.
-* 1945年，欧洲地图在没有受影响国家意见的情况下在雅尔塔重新绘制。乌克兰和欧洲担心在阿拉斯加重演。
-* JD Vance, the vice president, sat down with Nigel Farage, a longtime supporter of President Trump whose party, Reform U.K., is leading in British polls.
-* 副总统万斯（ JD Vance ）与特朗普总统的长期支持者奈杰尔·法拉奇（ Nigel Farage ）坐在一起，他的政党英国改革党（ Reform U.K. ）在英国民意调查中处于领先地位。
+* Bezalel Smotrich, the finance minister, said on Thursday that a plan to significantly expand a settlement near occupied East Jerusalem had won approval. But a procedural step remained.
+* 财政部长贝扎莱尔·斯莫特里希（ Bezalel Smotrich ）周四表示，一项在被占领的东耶路撒冷附近大幅扩建定居点的计划已获得批准。但还有一个程序性步骤。
+* The dominant air carrier in Canada set in motion a process that could ground 130,000 passengers a day by Saturday.
+* 加拿大占主导地位的航空公司启动了一项流程，到周六每天可以停飞13万名乘客。
 
 ## New York Times United States News
-* Ukraine’s president, Volodymyr Zelensky, was not invited to the Trump-Putin summit in Anchorage, but 1,000 Ukrainian refugees in Alaska will be watching with trepidation.
-* 乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）没有被邀请参加在安克雷奇举行的特朗普-普京峰会，但阿拉斯加的1000名乌克兰难民将惶恐不安地观看。
-* Thunder Ranch is one of the best-known shooting schools in American gun culture, offering firearms as a way to change your life when all else fails.
-* 雷牧场是美国枪支文化中最著名的射击学校之一，在其他一切失败时提供枪支来改变你的生活。
-* A man opened fire on the sheriff’s deputies, wounding them with shrapnel, as they served warrants, officials said.
-* 官员说，一名男子向治安官的副手开火，在他们送达逮捕令时用弹片打伤他们。
-* Boris Epshteyn, a personal lawyer for President Trump, connected two firms — Kirkland & Ellis and Skadden Arps — to the Commerce Department.
-* 特朗普总统的私人律师Boris Epshteyn将Kirkland & Ellis和Skadden Arps两家公司与商务部联系起来。
-* President Trump is the first president to use a declared emergency to wrest control of Washington, D.C.’s police force.
-* 特朗普总统是第一位利用宣布的紧急状态夺取华盛顿特区警察部队控制权的总统。
-* The Army expects up to 200 soldiers out on the capital’s streets within the next few days at any given time in support of federal law enforcement.
-* 陆军预计未来几天任何时候都会有多达200名士兵出现在首都的街道上，以支持联邦执法。
-* Leonardo Baez and his wife were among the first employers prosecuted for taking on undocumented immigrants at their bakery in Los Fresnos, Texas. They face up to 10 years in prison.
-* 莱昂纳多·贝兹（ Leonardo Baez ）和他的妻子是首批因在德克萨斯州洛斯弗雷斯诺斯的面包店收容无证移民而被起诉的雇主之一。他们面临长达10年的监禁。
-* Solomon Peña, who lost a bid for a seat in the New Mexico Legislature in 2022, was found guilty in March of orchestrating the attacks against state Democrats.
-* 所罗门·佩尼亚（ Solomon Peña ）在2022年竞选新墨西哥州议会席位时落败，他于3月被判犯有策划袭击州民主党人的罪行。
-* President Trump held forth about the nature of show business and his own tortured relationship with celebrity.
-* 特朗普总统提出了演艺事业的本质以及他自己与名人的折磨关系。
-* One of the suspects is a former Brinks employee who had recently been fired. The robbery was one of five similar crimes in the area in less than two months.
-* 其中一名嫌疑人是最近被解雇的前Brinks员工。在不到两个月的时间里，这起抢劫案是该地区五起类似犯罪之一。
+* A sudden feud, an impasse or a first step toward a cease-fire are all possible at the summit in Alaska as the two leaders navigate thorny issues such as Ukraine’s territory and NATO expansion.
+* 在阿拉斯加峰会上，突如其来的争执、僵局或停火的第一步都是可能的，因为两位领导人正在处理乌克兰领土和北约扩张等棘手问题。
+* In the nation’s capital, federal agents have operated a sobriety checkpoint, made gun and drug busts and carried out other day-to-day police work. Some residents are uneasy.
+* 在该国首都，联邦特工开设了一个清醒检查站，捣毁了枪支和毒品，并开展了其他日常警察工作。有些居民感到不安。
+* Some have emerged as a front line against Trump’s push to grab more seats in Congress, putting the issue at the center of their party’s politics. Others are ceding the spotlight.
+* 一些人已经成为反对特朗普推动在国会夺取更多席位的前线，将这个问题置于其政党政治的中心。其他人正在放弃聚光灯。
+* After three weeks, with bug bites and tattered hiking boots, Micherre Fox found the stone at Crater of Diamonds State Park.
+* 三周后，米歇尔·福克斯（ Micherre Fox ）在钻石坑州立公园（ Crater of Diamonds State Park ）发现了这块石头。
+* After President Trump suspended the refugee admissions program, some new arrivals found themselves out in the Wisconsin cold. With help, they have survived.
+* 在特朗普总统暂停难民入境计划后，一些新移民发现自己身处威斯康星州的寒冷之中。在帮助下，他们活了下来。
+* As the Trump administration has publicly targeted elite universities, it has also quietly pursued funding cuts for the nation’s tribal colleges, which rely on federal dollars to operate.
+* 随着特朗普政府公开瞄准精英大学，它还悄悄地寻求削减国家部落学院的资金，这些学院依靠联邦资金运营。
+* The leaders of the United States and Russia will hold talks at an American military base in Alaska and are expected to hold a news conference afterward.
+* 美国和俄罗斯领导人将在阿拉斯加的美国军事基地举行会谈，预计随后将举行新闻发布会。
+* The man was hit by a vehicle. It happened about a month after an immigrant fell from a greenhouse and later died following a raid in Ventura County.
+* 这名男子被一辆汽车撞倒。大约一个月后，一名移民从温室坠落，后来在文图拉县的一次袭击中死亡。
+* The governor kicked off his campaign for a proposition asking California voters to approve a new congressional map, a move that comes with both opportunity and risk.
+* 州长开始了他的竞选活动，要求加利福尼亚选民批准新的国会地图，此举既有机会，也有风险。
+* In a petition, alumni, faculty and members of the public asked Harvard to stand up to the White House. The school has signaled a willingness to pay $500 million to restore research funds.
+* 在一份请愿书中，校友、教职员工和公众要求哈佛站出来反对白宫。学校已表示愿意支付5亿$来恢复研究经费。
 
 ## New York Times Asia News
+* A pilot who never flew on a suicide mission during World War II, Mr. Sen went on to become a grandmaster of Japan’s tea ceremony and used the platform to oppose all wars.
+* 作为一名在第二次世界大战期间从未执行过自杀任务的飞行员， Sen先生后来成为日本茶道的大师，并利用这个平台反对所有战争。
+* The Trump-Putin summit will take place in a former Russian colony that the United States bought for $7.2 million in 1867. Here’s how the deal came together and why its legacy matters.
+* 特朗普-普京峰会将在一个前俄罗斯殖民地举行，美国在1867年以720万美元的价格购买了该殖民地。以下是这笔交易是如何达成的，以及为什么它的遗产很重要。
+* Officials blamed U.S. “protectionism” for the dismal July data, but growth was likely held back by real estate and new policies aimed at slowing factory investments.
+* 官员们将7月份令人沮丧的数据归咎于美国的“保护主义” ，但房地产和旨在放缓工厂投资的新政策可能阻碍了经济增长。
+* Plus: To appreciate a dancer, watch the hands.
+* 此外：要欣赏舞者，请留意双手。
+* Hundreds more were missing, many of them Hindu pilgrims, after a cloudburst triggered flooding in mountainous terrain.
+* 数百人失踪，其中许多是印度教朝圣者，此前一场云爆引发了山区地形的洪水。
 * Despite its short history of wine, these producers, from Central Otago and North Canterbury, are making bottles that are ravishing and distinctive.
 * 尽管葡萄酒历史悠久，但这些来自奥塔哥市中心和北坎特伯雷的生产商正在生产迷人而独特的瓶子。
 * There are concerns about the slow pace of change in the country, with a promised election still months away, a struggling economy and familiar problems persisting.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 此外，特朗普在与普京会谈之前与欧洲领导人进行了会谈。
 * The man was caught after an undercover agent of the U.S. Fish and Wildlife Service coordinated a sale with him on Facebook, the authorities said.
 * 当局表示，这名男子是在美国鱼类和野生动物管理局的一名卧底特工在Facebook上与他协调销售后被捕的。
-* A man was swept away while fishing and dozens of other people were injured as strong winds and rain battered the island.
-* 一名男子在钓鱼时被冲走，数十人受伤，因为强风和雨水袭击了岛屿。
-* Oh Hwangtaek has amassed one of the largest collections of Polish posters outside Poland. He shares his unlikely passion at his own museum in Seoul.
-* Oh Hwangtaek积累了波兰境外最大的波兰海报收藏之一。他在首尔自己的博物馆里分享了自己不太可能的激情。
-* The recent flooding that killed 31 in a single nursing home exposed flaws in emergency planning as China braces for more extreme and unpredictable weather.
-* 最近在一家养老院造成31人死亡的洪水暴露了应急计划的缺陷，因为中国支持更极端和不可预测的天气。
-* President Trump hosted the South Asian nation’s army chief and seeks deals on critical minerals and crypto. But Pakistan is also tightening its military partnership with China.
-* 特朗普总统接待了这个南亚国家的陆军参谋长，并寻求就关键矿物和加密货币达成协议。但巴基斯坦也在收紧与中国的军事伙伴关系。
-* The six million people living in the Afghan capital could be out of water by 2030. The government is scrambling for solutions, but financial reserves are as dry as Kabul’s water basins.
-* 到2030年，生活在阿富汗首都的600万人可能缺水。政府正在争先恐后地寻找解决方案，但财政储备与喀布尔的流域一样干涸。
 
