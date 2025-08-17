@@ -2,48 +2,48 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Evacuees at a shelter in eastern Ukraine reacted angrily to talk that land that has long been theirs could be given to Russia in exchange for peace.
+* 乌克兰东部避难所的撤离人员愤怒地表示，长期属于他们的土地可以交给俄罗斯以换取和平。
+* Speaking after Friday’s summit, President Putin again implied that the war is all about Russia’s diminished status since the fall of the Soviet Union.
+* 在周五的峰会之后，普京总统再次暗示，这场战争完全是关于苏联解体以来俄罗斯的地位下降。
+* The agents cajoled people into acts of sabotage and even assassination plots. The cases have raised questions about greed, gullibility and loyalty.
+* 这些特工哄骗人们进行破坏，甚至暗杀阴谋。这些案件引发了对贪婪、轻信和忠诚的质疑。
+* An economic crisis and political infighting among the country’s long-dominant socialist party could pave the way for the first right-wing president in decades.
+* 该国长期占主导地位的社会主义政党之间的经济危机和政治内斗可能为几十年来第一位右翼总统铺平道路。
+* It was unclear how many people would join the planned day of action, which was expected to culminate with a large evening demonstration.
+* 目前尚不清楚有多少人将参加计划中的行动日，预计这将以晚上的大型示威活动告终。
 * The tradition of the siesta is no accident. Spain has been living with extreme heat for centuries, and its people have ways of coping.
 * 午睡的传统绝非偶然。几个世纪以来，西班牙一直生活在极端炎热的环境中，其人民有办法应对。
-* President Trump said that he and President Vladimir V. Putin of Russia favor a comprehensive peace deal over the urgent cease-fire Ukraine wants. President Volodymyr Zelensky of Ukraine said he would meet with Mr. Trump in Washington on Monday.
-* 特朗普总统表示，他和俄罗斯总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）支持全面和平协议，而不是乌克兰迫切需要的停火。乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）表示，他将于周一在华盛顿会见特朗普。
-* The problem is that they have no strategy of their own for ending the Ukraine war, other than hoping to contain Russia over the longer term.
-* 问题是，除了希望长期遏制俄罗斯之外，他们没有结束乌克兰战争的战略。
-* Nearly two years of demonstrations have failed to push Prime Minister Benjamin Netanyahu to reach a deal with Hamas that would end the war and free the remaining captives
-* 近两年的示威活动未能推动内塔尼亚胡总理与哈马斯达成协议，结束战争并释放剩余的俘虏
-* Ahead of the work stoppage, the airline said it had canceled most of the 700 flights that it directly operates, which carry about 130,000 people each day.
-* 在停工之前，该航空公司表示已取消其直接运营的700个航班中的大部分，这些航班每天运送约13万人。
-* To South Koreans weary of the political polarization that led briefly to martial law, President Lee Jae Myung is showing a more human touch than his predecessor. But his biggest challenges lie ahead.
-* 对于暂时导致戒严的政治两极分化感到厌倦的韩国人来说，李在铭总统比他的前任表现得更加人性化。但他面临的最大挑战。
-* A sudden feud, an impasse or a first step toward a cease-fire are all possible at the summit in Alaska as the two leaders navigate thorny issues such as Ukraine’s territory and NATO expansion.
-* 在阿拉斯加峰会上，突如其来的争执、僵局或停火的第一步都是可能的，因为两位领导人正在处理乌克兰领土和北约扩张等棘手问题。
-* Over the past two years, tens of thousands of children in the territory have been killed, wounded or orphaned. Childhood as they once knew it has ceased to exist.
-* 在过去两年中，该领土上有成千上万的儿童被杀害、受伤或成为孤儿。童年，因为他们曾经知道它已经不复存在。
-* Despite being barred from running again for president and being sought for arrest, a towering figure of Bolivian politics is trying to rally supporters to cast null votes.
-* 尽管被禁止再次竞选总统并被逮捕，但玻利维亚政界的一个高大人物正试图召集支持者投票无效。
-* A citizens’ group is now in charge of the island of Poveglia, where they will create a park for anyone who wants to leave Venice’s maddening crowds of tourists behind.
-* 一个公民团体现在负责波韦利亚岛，在那里他们将为任何想离开威尼斯疯狂的游客的人们建造一个公园。
+* President Trump’s break from a strategy agreed to with European allies could give President Vladimir V. Putin of Russia an edge as talks to end the fighting continue.
+* 特朗普总统打破了与欧洲盟友达成的战略，这可能会给俄罗斯总统弗拉基米尔· V ·普京(Vladimir V. Putin)带来优势，因为结束战斗的谈判仍在继续。
+* A walkout by flight attendants ended after about 12 hours with the imposition of binding arbitration. But getting travel back to normal will take days.
+* 空乘人员的罢工在大约12小时后结束，并实施了具有约束力的仲裁。但恢复正常旅行需要几天时间。
+* With no strategy of their own for ending the war, the continent’s leaders are anxious that President Trump will force Kyiv to accept terms that favor Russia too much.
+* 由于没有结束战争的战略，非洲大陆的领导人担心特朗普总统会迫使基辅接受过于偏袒俄罗斯的条款。
+* Nearly two years of demonstrations have failed to push Prime Minister Benjamin Netanyahu to reach a deal with Hamas that would end the war and free the remaining captives.
+* 近两年的示威活动未能推动内塔尼亚胡总理与哈马斯达成协议，结束战争并释放剩余的俘虏。
 
 ## New York Times United States News
-* A major bounty has been offered for help apprehending Jimmy Cherizier, a gang leader known as “Barbecue.” Experts have doubts about whether it will make any difference.
-* 为了帮助逮捕被称为“烧烤”的帮派头目Jimmy Cherizier ，已经提供了一笔巨额赏金。“专家们怀疑这是否会产生任何影响。
-* The president might have found allies in Southeast Washington, where violent crime has long vexed residents. But when he described the city as “disgusting,” with “roving mobs,” his remarks left those looking for help cold.
-* 总统可能已经在华盛顿东南部找到了盟友，那里的暴力犯罪长期困扰着居民。但是，当他将这座城市描述为“令人作呕” ， “流浪的暴徒”时，他的言论让那些寻求帮助的人感到寒冷。
-* Representative Rob Bresnahan Jr. has traded stocks that could be affected by his work in Congress, raising questions about potential conflicts of interest.
-* 小罗布·布雷斯纳汉（ Rob Bresnahan Jr. ）代表交易了可能受到他在国会工作影响的股票，引发了对潜在利益冲突的质疑。
-* Pretrial hearings have been on-again, off-again for so long that some family members of the nearly 3,000 victims now question whether justice is attainable.
-* 长期以来，审前听证会一直在进行，以至于近3000名受害者的一些家庭成员现在质疑是否可以实现正义。
-* President Trump’s failure to reach an accord on Ukraine only made his warm welcome for the Russian leader more striking.
-* 特朗普总统未能就乌克兰问题达成协议，这只会使他对俄罗斯领导人的热烈欢迎更加引人注目。
-* A warm and muggy Friday night seemed to have a typical ballgame atmosphere in Washington.
-* 在华盛顿，一个温暖而闷热的周五晚上似乎有一种典型的球赛气氛。
-* While no deal was announced, the Russian leader secured some wins and left on good terms with the U.S. president.
-* 虽然没有宣布任何协议，但这位俄罗斯领导人取得了一些胜利，并与美国总统保持了良好的关系。
-* Court-mandated oversight will remain in place for migrant children in custody. Lawyers have reported poor medical care and lack of sunlight and showers.
-* 法院规定的监督将继续适用于被拘留的移徙儿童。律师报告说，医疗保健不佳，缺乏阳光和淋浴。
-* President Trump gave President Vladimir Putin a warm public reception, effectively ending his diplomatic isolation over the past three years for his invasion of Ukraine. But Mr. Putin did not agree to stop the war.
-* 特朗普总统对弗拉基米尔·普京总统进行了热烈的公众接待，有效地结束了他过去三年来因入侵乌克兰而受到的外交孤立。但普京不同意停止战争。
-* The actor-turned-governor helped overhaul how California draws political maps. In an interview with The New York Times, he said he would fight to preserve that legacy.
-* 这位演员出身的州长帮助改革了加利福尼亚州绘制政治地图的方式。他在接受《纽约时报》采访时表示，他将努力保护这一遗产。
+* President Trump, himself a felon, has shown particular leniency to criminals he seems to identify with — people who are white or wealthy, or who rioted in his name on Jan. 6, 2021.
+* 特朗普总统本人也是一名重罪犯，他对他似乎认同的罪犯表现出了特别的宽大处理，这些罪犯包括白人或富人，或者在2021年1月6日以他的名义骚乱的人。
+* Many state delegations are already under single-party control. New maps could tighten the partisan grip while decreasing the importance of general elections.
+* 许多国家代表团已经处于一党控制之下。新地图可以加强党派控制，同时降低大选的重要性。
+* The U.S. Forest Service has fought decades of efforts to better protect its crews — sending them into smoke without masks or warnings about the risks.
+* 美国林务局为更好地保护船员进行了数十年的努力—将他们送入烟雾中，没有戴口罩或发出有关风险的警告。
+* A long battle over the pro-slavery words on a Tyrrell County statue intensifies as the Trump administration reclaims Confederate imagery.
+* 随着特朗普政府收回南方邦联的形象，围绕泰勒尔县雕像上支持奴隶制的言论的长期斗争愈演愈烈。
+* At Fort Dupont Park, thousands gathered to honor a local music legend, creating a brief refuge from the conflict.
+* 在杜邦堡公园，成千上万的人聚集在一起纪念当地的音乐传奇，为冲突创造了一个短暂的避难所。
+* A largely peaceful march filled downtown Washington with chants and whistles.
+* 一场大致和平的游行充斥着华盛顿市中心的颂歌和口哨声。
+* The move blocked a pathway for those seeking medical care in the United States, including young children, who have arrived in recent weeks with serious conditions.
+* 此举阻碍了那些在美国寻求医疗护理的人，包括最近几周抵达的患有严重疾病的幼儿。
+* While thousands of people are bitten by venomous snakes in the United States each year, deaths are uncommon, according to the authorities.
+* 据当局称，虽然美国每年有数千人被毒蛇咬伤，但死亡并不常见。
+* Thousands assembled around the country to demonstrate against a Republican effort to redraw congressional maps in their favor for 2026.
+* 成千上万的人聚集在全国各地，抗议共和党在2026年重新绘制国会地图的努力。
+* For decades, Louisiana lawmakers at all levels of government have been caught up in corruption allegations.
+* 几十年来，路易斯安那州各级政府立法者一直卷入腐败指控。
 
 ## New York Times Asia News
 * To South Koreans weary of the political polarization that led briefly to martial law, President Lee Jae Myung is showing a more human touch than his predecessor. But his biggest challenges lie ahead.
