@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* President Volodymyr Zelensky and European leaders will aim to defend Ukraine’s position in talks after President Trump aligned more closely with Russia. Hours before the meeting, Russia hit Ukraine with deadly strikes.
+* 在特朗普总统与俄罗斯结盟更加紧密之后，沃洛季米尔·泽伦斯基总统和欧洲领导人将在会谈中捍卫乌克兰的立场。会议召开前几个小时，俄罗斯对乌克兰发动了致命袭击。
+* In Alaska, the Russian leader proposed that Ukraine hand over the remainder of the Donbas region to Moscow to stop the fighting.
+* 在阿拉斯加，俄罗斯领导人提议乌克兰将顿巴斯地区的其余部分移交给莫斯科，以停止战斗。
+* Many Israelis feel that freeing the hostages cannot happen if the government refuses to come to terms with Hamas and pursues its policy of trying to eliminate the group militarily.
+* 许多以色列人认为，如果政府拒绝与哈马斯和解，并奉行试图在军事上消灭哈马斯的政策，就不可能释放人质。
+* In Syria, the Assad regime took hundreds of children away from their parents. A Times investigation reveals the workings of the operation — and how one family fought to reunite.
+* 在叙利亚，阿萨德政权将数百名儿童从父母身边带走。《纽约时报》的一项调查揭示了这次行动的运作原理，以及一个家庭如何为团聚而奋斗。
+* City planners say the day when temperatures as high as 122 degrees Fahrenheit, or 50 Celsius, could stall the French capital is not far off. They are already starting to prepare.
+* 城市规划者表示，法国首都华氏122度（ 50摄氏度）的气温可能会停滞不前，这一天已经不远了。他们已经开始准备了。
+* Prime Minister Narendra Modi had been moving to align India with the United States and freeze out China. Now, efforts to rebuild ties between the Asian giants are gaining momentum.
+* 印度总理纳伦德拉·莫迪（ Narendra Modi ）一直在努力使印度与美国结盟，并冻结中国。现在，重建亚洲巨头之间关系的努力正在获得动力。
+* New U.S. taxes on American imports, even at 25 percent, will hurt many Indian businesses and may put vast numbers of people out of work.
+* 美国对美国进口商品征收的新税，即使是25% ，也会伤害许多印度企业，并可能导致大量人员失业。
+* The release of Sergei Tikhanovsky and 13 other political prisoners in Belarus was a diplomatic win for the Trump administration.
+* 白俄罗斯释放谢尔盖·季汉诺夫斯基（ Sergei Tikhanovsky ）和其他13名政治犯是特朗普政府的外交胜利。
 * Evacuees at a shelter in eastern Ukraine reacted angrily to talk that land that has long been theirs could be given to Russia in exchange for peace.
 * 乌克兰东部避难所的撤离人员愤怒地表示，长期属于他们的土地可以交给俄罗斯以换取和平。
-* Speaking after Friday’s summit, President Putin again implied that the war is all about Russia’s diminished status since the fall of the Soviet Union.
-* 在周五的峰会之后，普京总统再次暗示，这场战争完全是关于苏联解体以来俄罗斯的地位下降。
-* The agents cajoled people into acts of sabotage and even assassination plots. The cases have raised questions about greed, gullibility and loyalty.
-* 这些特工哄骗人们进行破坏，甚至暗杀阴谋。这些案件引发了对贪婪、轻信和忠诚的质疑。
-* An economic crisis and political infighting among the country’s long-dominant socialist party could pave the way for the first right-wing president in decades.
-* 该国长期占主导地位的社会主义政党之间的经济危机和政治内斗可能为几十年来第一位右翼总统铺平道路。
-* It was unclear how many people would join the planned day of action, which was expected to culminate with a large evening demonstration.
-* 目前尚不清楚有多少人将参加计划中的行动日，预计这将以晚上的大型示威活动告终。
-* The tradition of the siesta is no accident. Spain has been living with extreme heat for centuries, and its people have ways of coping.
-* 午睡的传统绝非偶然。几个世纪以来，西班牙一直生活在极端炎热的环境中，其人民有办法应对。
-* President Trump’s break from a strategy agreed to with European allies could give President Vladimir V. Putin of Russia an edge as talks to end the fighting continue.
-* 特朗普总统打破了与欧洲盟友达成的战略，这可能会给俄罗斯总统弗拉基米尔· V ·普京(Vladimir V. Putin)带来优势，因为结束战斗的谈判仍在继续。
-* A walkout by flight attendants ended after about 12 hours with the imposition of binding arbitration. But getting travel back to normal will take days.
-* 空乘人员的罢工在大约12小时后结束，并实施了具有约束力的仲裁。但恢复正常旅行需要几天时间。
-* With no strategy of their own for ending the war, the continent’s leaders are anxious that President Trump will force Kyiv to accept terms that favor Russia too much.
-* 由于没有结束战争的战略，非洲大陆的领导人担心特朗普总统会迫使基辅接受过于偏袒俄罗斯的条款。
-* Nearly two years of demonstrations have failed to push Prime Minister Benjamin Netanyahu to reach a deal with Hamas that would end the war and free the remaining captives.
-* 近两年的示威活动未能推动内塔尼亚胡总理与哈马斯达成协议，结束战争并释放剩余的俘虏。
+* The decision by the union representing the 10,000 workers means that travel chaos will continue for at least a second day. Air Canada said it had suspended its reopening plan until Monday evening.
+* 代表1万名工人的工会决定意味着旅行混乱将至少持续第二天。加拿大航空公司表示，它已暂停其重新开放计划，直到周一晚上。
 
 ## New York Times United States News
-* President Trump, himself a felon, has shown particular leniency to criminals he seems to identify with — people who are white or wealthy, or who rioted in his name on Jan. 6, 2021.
-* 特朗普总统本人也是一名重罪犯，他对他似乎认同的罪犯表现出了特别的宽大处理，这些罪犯包括白人或富人，或者在2021年1月6日以他的名义骚乱的人。
-* Many state delegations are already under single-party control. New maps could tighten the partisan grip while decreasing the importance of general elections.
-* 许多国家代表团已经处于一党控制之下。新地图可以加强党派控制，同时降低大选的重要性。
-* The U.S. Forest Service has fought decades of efforts to better protect its crews — sending them into smoke without masks or warnings about the risks.
-* 美国林务局为更好地保护船员进行了数十年的努力—将他们送入烟雾中，没有戴口罩或发出有关风险的警告。
-* A long battle over the pro-slavery words on a Tyrrell County statue intensifies as the Trump administration reclaims Confederate imagery.
-* 随着特朗普政府收回南方邦联的形象，围绕泰勒尔县雕像上支持奴隶制的言论的长期斗争愈演愈烈。
-* At Fort Dupont Park, thousands gathered to honor a local music legend, creating a brief refuge from the conflict.
-* 在杜邦堡公园，成千上万的人聚集在一起纪念当地的音乐传奇，为冲突创造了一个短暂的避难所。
-* A largely peaceful march filled downtown Washington with chants and whistles.
-* 一场大致和平的游行充斥着华盛顿市中心的颂歌和口哨声。
-* The move blocked a pathway for those seeking medical care in the United States, including young children, who have arrived in recent weeks with serious conditions.
-* 此举阻碍了那些在美国寻求医疗护理的人，包括最近几周抵达的患有严重疾病的幼儿。
-* While thousands of people are bitten by venomous snakes in the United States each year, deaths are uncommon, according to the authorities.
-* 据当局称，虽然美国每年有数千人被毒蛇咬伤，但死亡并不常见。
-* Thousands assembled around the country to demonstrate against a Republican effort to redraw congressional maps in their favor for 2026.
-* 成千上万的人聚集在全国各地，抗议共和党在2026年重新绘制国会地图的努力。
-* For decades, Louisiana lawmakers at all levels of government have been caught up in corruption allegations.
-* 几十年来，路易斯安那州各级政府立法者一直卷入腐败指控。
+* Ukrainian officials said the deadly strikes were a further sign that Russia had no intention of halting hostilities.
+* 乌克兰官员表示，致命的袭击进一步表明俄罗斯无意停止敌对行动。
+* 
+* 
+* Some on the street have been forced to move, while others are fearful they could be next. Many face an even more uncertain future.
+* 街上的一些人被迫搬家，而另一些人则担心他们可能是下一个。许多人面临着更加不确定的未来。
+* Democrats see the federal takeover of Washington as a way for President Trump to stoke fear for political gain. But they are mindful that issues of public safety continue to resonate with their own supporters.
+* 民主党人认为，联邦政府接管华盛顿是特朗普总统煽动对政治利益的恐惧的一种方式。但他们也注意到，公共安全问题继续与他们的支持者产生共鸣。
+* Rubio, a son of immigrants and now secretary of state, was responding to a 2016 lawsuit questioning his eligibility for the presidency.
+* 卢比奥是移民的儿子，现任国务卿，他正在回应2016年质疑他担任总统资格的诉讼。
+* Craig Greenberg’s move, requested by the Trump administration, allows federal agents more time to detain immigrants who are held at the city’s jail.
+* 特朗普政府要求的克雷格·格林伯格（ Craig Greenberg ）此举允许联邦特工有更多时间拘留被关押在该市监狱的移民。
+* Democratic lawmakers were expected to return to Texas after fleeing the state for two weeks. Republicans are ready to quickly pass a new congressional map called for by President Trump.
+* 民主党议员预计将在逃离德克萨斯州两周后返回德克萨斯州。共和党人已准备好迅速通过特朗普总统呼吁的新国会地图。
+* Before a meeting with President Trump, President Volodymyr Zelensky of Ukraine said that Russia’s 2014 seizure of Ukrainian land became “a springboard for a new attack.”
+* 在与特朗普总统会晤之前，乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）表示，俄罗斯2014年夺取乌克兰土地成为“新袭击的跳板”。
+* He was also known for his performances in “Twister” and “The Matrix Reloaded,” and came from a family of stunt performers.
+* 他还因在“Twister”和“The Matrix Reloaded”中的表演而闻名，并且来自一个特技表演者家庭。
+* European leaders are joining a trip to Washington to make sure the trans-Atlantic alliance remains intact.
+* 欧洲领导人正在加入华盛顿之行，以确保跨大西洋联盟保持不变。
 
 ## New York Times Asia News
+* The Humanoid Robot Games in Beijing — featuring running, kickboxing and soccer — highlighted advancements in robotics. Limitations, too.
+* 北京的人形机器人游戏以跑步、跆拳道和足球为特色，突出了机器人技术的进步。也有局限性。
+* New U.S. taxes on American imports, even at 25 percent, will hurt many Indian businesses and may put vast numbers of people out of work.
+* 美国对美国进口商品征收的新税，即使是25% ，也会伤害许多印度企业，并可能导致大量人员失业。
+* Prime Minister Narendra Modi had been moving to align India with the United States and freeze out China. Now, efforts to rebuild ties between the Asian giants are gaining momentum.
+* 印度总理纳伦德拉·莫迪（ Narendra Modi ）一直在努力使印度与美国结盟，并冻结中国。现在，重建亚洲巨头之间关系的努力正在获得动力。
+* Plus, an A.I. stuffed animal.
+* 还有，人工智能毛绒玩具。
 * To South Koreans weary of the political polarization that led briefly to martial law, President Lee Jae Myung is showing a more human touch than his predecessor. But his biggest challenges lie ahead.
 * 对于暂时导致戒严的政治两极分化感到厌倦的韩国人来说，李在铭总统比他的前任表现得更加人性化。但他面临的最大挑战。
 * The dismantling of U.S.A.I.D. has disrupted the global supply chain that provides a therapeutic food, leaving thousands of malnourished children at risk of dying.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 他没有在第二次世界大战中执行自杀任务，而是成为了日本古老茶道的大师，并利用自己的声望大声疾呼反对所有战争。
 * The Trump-Putin summit will take place in a former Russian colony that the United States bought for $7.2 million in 1867. Here’s how the deal came together and why its legacy matters.
 * 特朗普-普京峰会将在一个前俄罗斯殖民地举行，美国在1867年以720万美元的价格购买了该殖民地。以下是这笔交易是如何达成的，以及为什么它的遗产很重要。
-* Officials blamed U.S. “protectionism” for the dismal July data, but growth was likely held back by real estate and new policies aimed at slowing factory investments.
-* 官员们将7月份令人沮丧的数据归咎于美国的“保护主义” ，但房地产和旨在放缓工厂投资的新政策可能阻碍了经济增长。
-* Plus: To appreciate a dancer, watch the hands.
-* 此外：要欣赏舞者，请留意双手。
-* Hundreds more were missing, many of them Hindu pilgrims, after a cloudburst triggered flooding in mountainous terrain.
-* 数百人失踪，其中许多是印度教朝圣者，此前一场云爆引发了山区地形的洪水。
-* Despite its short history of wine, these producers, from Central Otago and North Canterbury, are making bottles that are ravishing and distinctive.
-* 尽管葡萄酒历史悠久，但这些来自奥塔哥市中心和北坎特伯雷的生产商正在生产迷人而独特的瓶子。
 
