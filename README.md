@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Volodymyr Zelensky of Ukraine pressed for security guarantees in a cordial meeting with President Trump and European leaders.
-* 乌克兰总统沃洛德米尔·泽伦斯基（ Volodymyr Zelensky ）在与特朗普总统和欧洲领导人的亲切会晤中敦促提供安全保障。
-* In Alaska, the Russian leader proposed that Ukraine hand over the remainder of the Donbas region to Moscow to stop the fighting.
-* 在阿拉斯加，俄罗斯领导人提议乌克兰将顿巴斯地区的其余部分移交给莫斯科，以停止战斗。
-* Many Israelis feel that freeing the hostages cannot happen if the government refuses to come to terms with Hamas and pursues its policy of trying to eliminate the group militarily.
-* 许多以色列人认为，如果政府拒绝与哈马斯和解，并奉行试图在军事上消灭哈马斯的政策，就不可能释放人质。
-* Negotiations between the airline and the flight attendants’ union resumed on Monday, hours after a labor relations board declared the walkout illegal.
-* 在劳工关系委员会宣布罢工非法几个小时后，该航空公司与乘务员工会之间的谈判于周一恢复。
-* City planners say the day when temperatures as high as 122 degrees Fahrenheit, or 50 Celsius, could stall the French capital is not far off. They are already starting to prepare.
-* 城市规划者表示，法国首都华氏122度（ 50摄氏度）的气温可能会停滞不前，这一天已经不远了。他们已经开始准备了。
-* Prime Minister Narendra Modi had been moving to align India with the United States and freeze out China. Now, efforts to rebuild ties between the Asian giants are gaining momentum.
-* 印度总理纳伦德拉·莫迪（ Narendra Modi ）一直在努力使印度与美国结盟，并冻结中国。现在，重建亚洲巨头之间关系的努力正在获得动力。
-* The release of Sergei Tikhanovsky and 13 other political prisoners in Belarus was a diplomatic win for the Trump administration.
-* 白俄罗斯释放谢尔盖·季汉诺夫斯基（ Sergei Tikhanovsky ）和其他13名政治犯是特朗普政府的外交胜利。
-* Across the Iberian Peninsula, thousands are trying to quell deadly flames amid dangerously hot weather.
-* 在整个伊比利亚半岛，成千上万的人正试图在危险的炎热天气中平息致命的火焰。
-* New U.S. taxes on American imports, even at 25 percent, will hurt many Indian businesses and may put vast numbers of people out of work.
-* 美国对美国进口商品征收的新税，即使是25% ，也会伤害许多印度企业，并可能导致大量人员失业。
-* Evacuees at a shelter in eastern Ukraine reacted angrily to talk that land that has long been theirs could be given to Russia in exchange for peace.
-* 乌克兰东部避难所的撤离人员愤怒地表示，长期属于他们的土地可以交给俄罗斯以换取和平。
+* The leaders of Germany, France, Britain and other supporters of Ukraine have come together in exceptional ways to help sway the U.S. president.
+* 德国、法国、英国和其他乌克兰支持者的领导人以特殊的方式聚集在一起，帮助动摇美国总统。
+* With pro-democracy movements long squashed, the government is targeting any hint of subtler expressions of discontent. Even establishment figures say it may be too much.
+* 随着民主运动被长期压制，政府正在瞄准任何更微妙的不满表达。即使是建制派人士也说这可能太多了。
+* China’s “bedside eavesdroppers,” the online posse parsing rumors for power shifts, have a lot to work with as Xi Jinping pushes aside his own political appointees.
+* 随着习近平推开自己的政治任命，中国的“床边窃听者” ，即在网上散布权力转移的谣言，有很多工作要做。
+* Two decades after the Rose Revolution, the former Soviet satellite is turning away from the West and back toward Russia. What happened?
+* 玫瑰革命二十年后，这颗前苏联卫星正从西方转向俄罗斯。发生了什么？
+* Mexico and Canada have long viewed each other with indifference or even distrust. They’re now talking about teaming up.
+* 墨西哥和加拿大长期以来对彼此漠不关心，甚至不信任。他们现在正在谈论合作。
+* Unregulated sexual stimulants are flooding West Africa, posing major health risks that officials are scrambling to address.
+* 不受管制的性兴奋剂正在涌入西非，构成了官员们正在争先恐后地应对的重大健康风险。
+* Kevin Woods, who says he engages in weekly conversations with 18-inch-tall creatures, has built a tidy business with books, merchandise, guided tours and maybe soon, an animated series.
+* 凯文·伍兹（ Kevin Woods ）说，他每周都会与18英寸高的生物交谈，他已经建立了一个整洁的业务，包括书籍，商品，导游，也许很快，动画系列。
+* Some members of Israel’s coalition have ruled out a proposed hostage deal with Hamas, but the prime minister has yet to state his position.
+* 以色列联盟的一些成员已经排除了与哈马斯达成人质协议的可能性，但总理尚未表明自己的立场。
+* With villages swept away and Pakistan’s largest city assailed by monsoon floods, climate change has brought a catastrophic new normal to the country.
+* 随着村庄被冲走，巴基斯坦最大的城市受到季风洪水的袭击，气候变化给该国带来了灾难性的新常态。
+* The Kremlin’s goal is to destabilize Europe, and attacks on infrastructure are a preferred weapon, a new report said.
+* 一份新报告称，克里姆林宫的目标是破坏欧洲的稳定，对基础设施的攻击是首选武器。
 
 ## New York Times United States News
-* Ukraine and its European allies are seeking to persuade President Trump that a cease-fire is a prerequisite for peace talks with Russia.
-* 乌克兰及其欧洲盟国正试图说服特朗普总统，停火是与俄罗斯进行和平谈判的先决条件。
+* The effort is intended to help the G.O.P. win five more U.S. House seats in the midterm elections. Other states, red and blue, are likely to redraw their own maps.
+* 这项努力旨在帮助共和党在中期选举中再赢得五个美国众议院席位。其他国家，红色和蓝色，可能会重新绘制自己的地图。
+* Thirty states, as well as Washington, D.C., allow voters to register with a political party. Here’s what the data shows.
+* 30个州以及华盛顿特区允许选民在政党登记。以下是数据显示的内容。
+* Students from some countries won’t make it to class this fall because of President Trump’s travel ban. Others can’t get visa appointments. Some are simply scared. Universities are panicking.
+* 由于特朗普总统的旅行禁令，一些国家的学生今年秋天将无法上课。其他人无法获得签证预约。有些人只是害怕。大学正在恐慌。
+* If you want to understand the health of a political party, take a look at their voter registration numbers. And for the Democrats, it’s not looking good.
+* 如果您想了解政党的健康状况，请查看其选民登记号。对于民主党人来说，这看起来并不好。
+* The party is bleeding support beyond the ballot box, a new analysis shows.
+* 一项新的分析显示，该党在投票箱之外正在流失支持。
+* The remark, made as the president has ordered a wide-ranging review of museum exhibits, added to his pattern of minimizing Black history.
+* 总统下令对博物馆展品进行广泛审查时发表的这一言论，增加了他最大限度地减少黑人历史的模式。
+* Democrats hoping to retake the Senate in the midterm elections next year are targeting the seat of Senator Collins, a Maine Republican who is seen as a moderate.
+* 民主党人希望在明年的中期选举中重新夺回参议院，他们的目标是缅因州共和党参议员柯林斯的席位，他被视为温和派。
+* The move continues a remarkable turnabout toward the app for President Trump, who tried to ban TikTok in his first term.
+* 此举继续向特朗普总统的应用程序转变，特朗普总统在第一个任期内试图禁止TikTok。
+* Diplomats scrambled to come up with detailed proposals for security guarantees and other sticking points following two high-level summits in Alaska and Washington.
+* 在阿拉斯加和华盛顿举行的两次高级别峰会之后，外交官们争先恐后地提出了安全保障和其他问题的详细建议。
 * 
 * 
-* Edward R. Martin Jr.’s conduct is part of a pattern in which top administration officials try to use the vast powers of the government to cast the specter of criminality on President Trump’s enemies.
-* 小爱德华· R ·马丁（ Edward R. Martin Jr. ）的行为是政府高级官员试图利用政府的巨大权力向特朗普总统的敌人施加犯罪幽灵的模式的一部分。
-* President Trump has latched on to concerns about crime, as liberals point to its decline. The politics often flip when it comes to mass shootings.
-* 随着自由派人士指出犯罪率下降，特朗普总统已经开始关注犯罪问题。当涉及到大规模枪击事件时，政治往往会翻转。
-* Democrats hope to recruit Governor Janet Mills to challenge the powerful Republican senator, but an oyster farmer with a working man’s pitch thinks he has a better chance.
-* 民主党人希望招募州长珍妮特·米尔斯（ Janet Mills ）来挑战这位强大的共和党参议员，但一位牡蛎养殖者认为他有更好的机会。
-* The shanty boat was bound for New Orleans, but the destination mattered less than the challenges, chance encounters and lessons learned along the way.
-* 这艘棚户船开往新奥尔良，但目的地并不像挑战、偶然遭遇和沿途吸取的教训那么重要。
-* No one was injured in the explosion, which occurred aboard a bulk carrier ship near the site of the collapse of the Francis Scott Key Bridge in 2024.
-* 爆炸发生在2024年弗朗西斯·斯科特大桥倒塌现场附近的一艘散货船上，没有人受伤。
-* Gen. David Allvin, the chief of staff of the Air Force, is the latest high-ranking general to exit following President Trump’s purge of Pentagon leadership.
-* 空军参谋长大卫·奥尔文（ David Allvin ）将军是特朗普总统清洗五角大楼领导层后退出的最新高级将领。
-* The leaders presented a relatively united front and appeared to agree on the next steps in the effort to halt the fighting between Ukraine and Russia. But much remained unresolved.
-* 两位领导人提出了一个相对统一的阵线，似乎就停止乌克兰与俄罗斯之间战斗的下一步努力达成了一致。但仍有许多问题没有得到解决。
-* President Volodymyr Zelensky of Ukraine and other European leaders have learned a thing or two about negotiating, Trump-style. So has Vladimir Putin.
-* 乌克兰总统沃洛德米尔·泽伦斯基（ Volodymyr Zelensky ）和其他欧洲领导人已经学会了特朗普式的谈判。弗拉基米尔·普京也是如此。
 
 ## New York Times Asia News
+* The grinning plush elves drove record revenue for the Chinese retailer in the first half of the year, and soon fans will have something new to lust after.
+* 咧嘴笑的毛绒精灵在今年上半年为这家中国零售商带来了创纪录的收入，很快粉丝们就会有新的渴望。
+* With pro-democracy movements long squashed, the government is targeting any hint of subtler expressions of discontent. Even establishment figures say it may be too much.
+* 随着民主运动被长期压制，政府正在瞄准任何更微妙的不满表达。即使是建制派人士也说这可能太多了。
+* China’s “bedside eavesdroppers,” the online posse parsing rumors for power shifts, have a lot to work with as Xi Jinping pushes aside his own political appointees.
+* 随着习近平推开自己的政治任命，中国的“床边窃听者” ，即在网上散布权力转移的谣言，有很多工作要做。
+* Also, Paris prepares for extreme heat.
+* 此外，巴黎为极端炎热做好了准备。
+* With villages swept away and Pakistan’s largest city assailed by monsoon floods, climate change has brought a catastrophic new normal to the country.
+* 随着村庄被冲走，巴基斯坦最大的城市受到季风洪水的袭击，气候变化给该国带来了灾难性的新常态。
+* There is no viable alternative to a tropical hardwood that grows in Southeast Asia, according to the American R.V. industry.
+* 根据美国房车行业的说法，在东南亚种植的热带硬木没有可行的替代品。
+* American demand for tropical wood that is used in motor homes, conservationists say, is accelerating the disappearance of some of the world’s largest forests.
+* 环保主义者说，美国对用于汽车房屋的热带木材的需求正在加速世界上一些最大的森林的消失。
 * Cuba sent doctors and food to Vietnam during the war. Now ordinary Vietnamese are sending cash to struggling Cubans.
 * 战争期间，古巴向越南派遣了医生和食品。现在，普通越南人正在向陷入困境的古巴人汇款。
 * At least 660 people have died in rain-related incidents across Pakistan since monsoon season began in late June, and 935 more have been injured.
 * 自6月下旬季风季节开始以来，巴基斯坦各地至少有660人死于与降雨有关的事件，另有935人受伤。
 * Also, China’s robot games.
 * 还有中国的机器人游戏。
-* The Humanoid Robot Games in Beijing — featuring running, kickboxing and soccer — highlighted advancements in robotics. Limitations, too.
-* 北京的人形机器人游戏以跑步、跆拳道和足球为特色，突出了机器人技术的进步。也有局限性。
-* New U.S. taxes on American imports, even at 25 percent, will hurt many Indian businesses and may put vast numbers of people out of work.
-* 美国对美国进口商品征收的新税，即使是25% ，也会伤害许多印度企业，并可能导致大量人员失业。
-* Prime Minister Narendra Modi had been moving to align India with the United States and freeze out China. Now, efforts to rebuild ties between the Asian giants are gaining momentum.
-* 印度总理纳伦德拉·莫迪（ Narendra Modi ）一直在努力使印度与美国结盟，并冻结中国。现在，重建亚洲巨头之间关系的努力正在获得动力。
-* Plus, an A.I. stuffed animal.
-* 还有，人工智能毛绒玩具。
-* To South Koreans weary of the political polarization that led briefly to martial law, President Lee Jae Myung is showing a more human touch than his predecessor. But his biggest challenges lie ahead.
-* 对于暂时导致戒严的政治两极分化感到厌倦的韩国人来说，李在铭总统比他的前任表现得更加人性化。但他面临的最大挑战。
-* The dismantling of U.S.A.I.D. has disrupted the global supply chain that provides a therapeutic food, leaving thousands of malnourished children at risk of dying.
-* 美国移民局的解散扰乱了提供治疗食品的全球供应链，使数千名营养不良的儿童面临死亡风险。
-* The two leaders are bringing some old-world approaches to bear on a 21st-century conflict.
-* 两位领导人正在采取一些旧世界的方法来应对21世纪的冲突。
 
