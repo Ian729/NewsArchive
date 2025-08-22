@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* At least half a million people in the enclave were facing the most severe conditions measured by U.N.-backed international experts: starvation, acute malnutrition and death.
+* 该飞地至少有50万人面临联合国支持的国际专家衡量的最严重情况：饥饿、急性营养不良和死亡。
+* But the reprieve for Thaksin Shinawatra, who remains a political force, did not mean that the legal troubles for him and his family were over.
+* 但他信·西那瓦（ Thaksin Shinawatra ）仍然是一股政治力量，他的缓刑并不意味着他和他的家人的法律问题已经结束。
 * A Times investigation found that Michael Boulos and his family benefited financially from proximity to his in-laws for years.
 * 《泰晤士报》的一项调查发现，迈克尔·布洛斯（ Michael Boulos ）和他的家人多年来从与姻亲的亲密关系中获得了经济利益。
-* The Ukrainian leader returned with a U.S. commitment to participate in security guarantees for Kyiv in a postwar settlement.
-* 这位乌克兰领导人带着美国承诺在战后解决方案中参与对基辅的安全保障的回归。
-* The mass return of fallen soldiers is one of the few concrete results of U.S.-orchestrated truce negotiations.
-* 阵亡士兵的大规模回归是美国精心策划的休战谈判为数不多的具体结果之一。
+* The conflict that has put rebels in control of  much of the east of the country has left victims with no legal recourse and dismantled many of the clinics that offered care.
+* 这场冲突使叛乱分子控制了该国东部的大部分地区，使受害者无法诉诸法律，并拆除了许多提供护理的诊所。
+* Alex Kachkine spends his days working on microchip research — a skill set surprisingly similar to that needed for restoration.
+* Alex Kachkine每天都在研究微芯片研究--这项技能与修复所需的技能惊人地相似。
+* Fifteen years after a combat photographer lost his legs to a land mine, he returned to the place in Afghanistan where it happened.
+* 一名战斗摄影师因地雷而失去双腿十五年后，他回到了阿富汗发生地雷的地方。
+* The Pentagon provided few details about the operation. But counterterrorism raids — as opposed to airstrikes — typically involve helicopter-borne commandos.
+* 五角大楼几乎没有提供有关这次行动的细节。但反恐突袭—而不是空袭—通常涉及直升机载突击队。
+* Nearly a week after President Trump’s Alaska summit, his suggestions of imminent breakthroughs have not come to pass.
+* 在特朗普总统的阿拉斯加峰会近一周后，他关于即将取得突破的建议尚未实现。
 * Tensions between President Trump and Brazil’s leader could derail a promising alliance to unlock the world’s second largest reserve of the minerals.
 * 特朗普总统和巴西领导人之间的紧张关系可能会破坏一个有前途的联盟，以解锁世界第二大矿产储备。
-* The East African country said it had reached a deal to accept an unspecified number of deportees, who would not include people with criminal records or unaccompanied minors.
-* 这个东非国家表示，它已达成协议，接受数量不详的被驱逐者，其中不包括有犯罪记录的人或无人陪伴的未成年人。
-* Female athletes are using social media to increase viewership and seek better sponsorship deals in a field long dominated by men.
-* 女运动员正在利用社交媒体增加收视率，并在长期由男性主导的领域寻求更好的赞助协议。
-* Aimee Betro, 45, was convicted this month of attempting to shoot a man near Birmingham, England, in 2019.
-* 45岁的Aimee Betro本月因试图在2019年在英格兰伯明翰附近射杀一名男子而被定罪。
-* Israel approved new settlements in the occupied West Bank, while its troops have reached the outskirts of Gaza City. The developments raise questions about the viability of a cease-fire proposal.
-* 以色列批准在被占领的约旦河西岸建立新的定居点，而其部队已抵达加沙城郊区。这些事态发展引发了对停火提案可行性的质疑。
-* Fans were hospitalized and detained after violent attacks during a match in a stadium near Buenos Aires, prompting officials to cancel the game.
-* 在布宜诺斯艾利斯附近的一个体育场的一场比赛中，球迷遭到暴力袭击后住院并被拘留，促使官员取消比赛。
-* On track for more than 48 inches of rain in August, India’s financial capital is expected to surpass the record set in 2020.
-* 在8月降雨量超过48英寸的轨道上，印度的金融资本预计将超过2020年创下的纪录。
+* The Ukrainian leader returned with a U.S. commitment to participate in security guarantees for Kyiv in a postwar settlement.
+* 这位乌克兰领导人带着美国承诺在战后解决方案中参与对基辅的安全保障的回归。
 
 ## New York Times United States News
-* The European Union and United States have been negotiating the joint text for weeks. The deal is much as expected, but it will delay tariff relief for European cars.
-* 欧盟和美国已经就联合文本进行了数周的谈判。这笔交易与预期相符，但它将推迟对欧洲汽车的关税减免。
-* Lawmakers in the nation’s two most populous states were planning to vote Thursday on competing proposals as the battle over U.S. House maps intensified.
-* 随着争夺美国众议院地图的斗争加剧，美国两个人口最多的州的立法者计划于周四就相互竞争的提案进行投票。
-* Long confined to the medical fringe, “restorative reproductive medicine” has unified Christian conservatives and proponents of the Make America Healthy Again movement on the political right.
-* 长期以来， “恢复性生殖医学”一直局限于医学边缘，它统一了基督教保守派和政治右翼运动“让美国再次健康”的支持者。
-* Using the full power of the federal government, President Trump has promoted a vision of America that challenges the legitimacy of the Black experience.
-* 特朗普总统利用联邦政府的全部权力，推动了美国的愿景，挑战黑人经历的合法性。
-* The two will have separate hearings, and it is not at all certain that the outcome will be the same for each man.
-* 两人将分别举行听证会，并不确定每个人的结果是否相同。
-* Two sailors sustained minor injuries, the Navy said, adding that the ship’s crew will remain on board in Okinawa.
-* 海军表示，两名船员受轻伤，并补充说，该船的船员将继续留在冲绳。
-* A June subpoena to the Children’s Hospital of Philadelphia sought Social Security numbers and addresses of patients who received gender-related care, as well as “every writing or record” made by doctors on such treatments.
-* 6月份向费城儿童医院发出的传票要求提供社会安全号码和接受性别相关护理的患者的地址，以及医生对此类治疗的“每次写作或记录”。
-* Jinchao Wei provided a Chinese intelligence officer with defense and weapons abilities of U.S. warships, including their vulnerabilities, prosecutors said.
-* 检察官说，魏金超向一名中国情报官员提供了美国军舰的防御和武器能力，包括其脆弱性。
-* The California governor’s press office is mimicking President Trump’s distinctive Truth Social style on X. Liberals love it. The White House says it’s “just getting weird at this point.”
-* 加利福尼亚州州长新闻办公室正在X上模仿特朗普总统独特的真相社交风格。自由党人喜欢它。白宫表示，这“在这一点上变得越来越奇怪”。
-* President Trump’s deputy chief of staff, joined by Defense Secretary Pete Hegseth and Vice President JD Vance, visited National Guard members at Union Station and were met with jeers by people in transit.
-* 特朗普总统的副幕僚长在国防部长皮特·赫格塞斯（ Pete Hegseth ）和副总统JD ·万斯（ JD Vance ）的陪同下，在联合车站访问了国民警卫队成员，并遭到过境人员的嘲笑。
+* The reduction would be the largest single-year decline in civilian federal employment since World War II.
+* 这将是自第二次世界大战以来联邦政府文职人员就业人数最大的单年下降。
+* Lyle Menendez has his hearing Friday. Several of the concerns raised in denying parole to Erik suggest Lyle faces considerable hurdles in his own bid for release.
+* Lyle Menendez周五举行听证会。在拒绝向Erik假释时提出的一些担忧表明， Lyle在申请释放时面临着相当大的障碍。
+* The battle over redistricting is playing out in the country’s two largest states. Texas and California passed redistricting efforts this week that counter each other. David Goodman and Laurel Rosenhall explain how redistricting is playing out in both states and what the final outcome could look like.
+* 争夺重新划分的斗争正在该国两个最大的州展开。德克萨斯州和加利福尼亚州本周通过了重新划分的努力，相互抵消。大卫·古德曼（ David Goodman ）和劳雷尔·罗森霍尔（ Laurel Rosenhall ）解释了重新划分在这两个州是如何进行的，以及最终结果会是什么样
+* Driving may be faster, but the inaugural train trips between Mobile, Ala., and New Orleans this week drew travelers eager for a different kind of adventure.
+* 驾驶速度可能更快，但本周莫比尔、阿拉巴马州和新奥尔良之间的首次火车旅行吸引了渴望不同冒险的旅行者。
+* “I don’t think it’s time to push the panic button yet,” an expert said, after rising reports of swarms and stings for beachgoers in parts of the Eastern Seaboard.
+* “我认为现在还不是按下恐慌按钮的时候，”一位专家说，此前有关东海岸部分地区海滩游客成群结队的报道越来越多。
+* 
+* 
+* The Pickett fire spread across more than 2,000 acres overnight, threatening the city of Calistoga and nearby vineyards.
+* 皮克特大火一夜之间蔓延到2000多英亩的土地上，威胁着卡利斯托加市和附近的葡萄园。
+* 
+* 
+* One legal avenue the Menendez brothers have pursued remains open to them: a habeas petition, which is a vehicle for challenging unlawful detentions.
+* 梅嫩德斯兄弟寻求的一条法律途径仍然对他们开放：人身保护请愿书，这是对非法拘留提出质疑的工具。
+* A judge ruled that the state and federal governments acted illegally by not conducting an environmental review before building the center in the Florida Everglades.
+* 一名法官裁定，州和联邦政府在佛罗里达大沼泽地建造该中心之前没有进行环境审查是非法的。
 
 ## New York Times Asia News
+* Jensen Huang said he was “surprised” by questions about his company’s chips, given China’s eagerness to acquire them for advanced A.I systems.
+* Jensen Huang表示，他对有关其公司芯片的问题感到“惊讶” ，因为中国渴望购买它们用于先进的人工智能系统。
+* This animated film has been a box office phenomenon in China. As an English-language version opens in the United States, we provide an explainer.
+* 这部动画电影在中国一直是票房现象。随着英语版本在美国推出，我们会提供解释器。
+* But the reprieve for Thaksin Shinawatra, who remains a political force, did not mean that the legal troubles for him and his family were over.
+* 但他信·西那瓦（ Thaksin Shinawatra ）仍然是一股政治力量，他的缓刑并不意味着他和他的家人的法律问题已经结束。
+* Cindy Rodriguez Singh had fled the United States in 2023 shortly after the authorities questioned her about her 6-year-old’s disappearance.
+* 辛迪·罗德里格斯·辛格（ Cindy Rodriguez Singh ）在当局质疑她6岁的失踪后不久于2023年逃离美国。
+* Also, a war photographer’s return to Afghanistan.
+* 此外，一名战地摄影师将返回阿富汗。
+* Fifteen years after a combat photographer lost his legs to a land mine, he returned to the place in Afghanistan where it happened.
+* 一名战斗摄影师因地雷而失去双腿十五年后，他回到了阿富汗发生地雷的地方。
 * President Trump focuses on the trade in manufactured goods, where India sells more to the U.S. than it buys. But the countries share a balanced trade in services.
 * 特朗普总统专注于制成品贸易，印度对美国的销售额高于购买量。但这些国家共享均衡的服务贸易。
 * Female athletes are using social media to increase viewership and seek better sponsorship deals in a field long dominated by men.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 此外，非洲正在推动新的世界地图。
 * A power struggle is taking shape over choosing a successor to the 90-year-old Buddhist leader. In a trip to Tibet’s capital, China’s leader emphasized maintaining Beijing’s control.
 * 在选择这位90岁的佛教领袖的继任者方面，一场权力斗争正在形成。在访问西藏首都时，中国领导人强调要维护北京的控制权。
-* On track for more than 48 inches of rain in August, India’s financial capital is expected to surpass the record set in 2020.
-* 在8月降雨量超过48英寸的轨道上，印度的金融资本预计将超过2020年创下的纪录。
-* A 90-day pause on additional tariffs on China offers no relief to American companies already facing extraordinarily high import taxes imposed by President Trump.
-* 暂停对中国征收额外关税90天对已经面临特朗普总统征收的极高进口税的美国公司没有任何缓解作用。
-* The bus collided with two vehicles. The victims were among the 1.8 million Afghans expelled from Iran as the country vowed to deport undocumented residents en masse.
-* 公交车与两辆车相撞。受害者是从伊朗驱逐的180万阿富汗人之一，因为该国发誓要大规模驱逐无证居民。
-* The grinning plush elves drove record revenue for the Chinese retailer in the first half of the year, and soon fans will have something new to lust after.
-* 咧嘴笑的毛绒精灵在今年上半年为这家中国零售商带来了创纪录的收入，很快粉丝们就会有新的渴望。
-* With pro-democracy movements long squashed, the government is targeting any hint of subtler expressions of discontent. Even establishment figures say it may be too much.
-* 随着民主运动被长期压制，政府正在瞄准任何更微妙的不满表达。即使是建制派人士也说这可能太多了。
-* China’s “bedside eavesdroppers,” the online posse parsing rumors for power shifts, have a lot to work with as Xi Jinping pushes aside his own political appointees.
-* 随着习近平推开自己的政治任命，中国的“床边窃听者” ，即在网上散布权力转移的谣言，有很多工作要做。
 
