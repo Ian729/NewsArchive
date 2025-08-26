@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Videos taken by visitors to the isolated country provide a rare glimpse of how it’s mimicking the consumerism of the outside world.
-* 在这个与世隔绝的国家，游客拍摄的视频让人们难得一见它如何模仿外界的消费主义。
-* Israel’s approval of a settlement project delayed for decades shows how far Prime Minister Benjamin Netanyahu has gone in dashing Palestinian aspirations.
-* 以色列对定居点项目的批准被推迟了几十年，这表明以色列总理本雅明·内塔尼亚胡(Benjamin Netanyahu)在打击巴勒斯坦人的愿望方面已经走了多远。
+* China’s economic slowdown has fallen especially hard on older migrant workers, who often don’t have the technical skills that employers are seeking.
+* 中国的经济放缓对老年农民工的影响尤为严重，他们往往不具备雇主正在寻求的技术技能。
+* The question of whether to send soldiers to a postwar Ukraine is the latest chapter in an evolving relationship between Germans and their military.
+* 是否向战后乌克兰派遣士兵的问题是德国人与其军队之间不断发展的关系的最新篇章。
+* As rallies spread to demand action to free captives, the country’s security cabinet was to meet for the first time since Hamas agreed to a new cease-fire proposal, officials said.
+* 官员们说，随着集会蔓延，要求采取行动释放俘虏，该国的安全内阁将自哈马斯同意新的停火提案以来首次举行会议。
+* Three European powers will meet with an Iranian minister to try to reopen negotiations over Iran’s nuclear activities and avoid reimposing harsh sanctions.
+* 三个欧洲大国将与伊朗部长会面，试图重启有关伊朗核活动的谈判，避免重新实施严厉制裁。
+* The government expelled Iran’s diplomats, saying the country had orchestrated attacks on a Melbourne synagogue and a Sydney restaurant.
+* 政府驱逐了伊朗的外交官，称该国精心策划了对墨尔本犹太教堂和悉尼餐馆的袭击。
+* At the White House, President Trump and Lee Jae Myung praised each other’s eagerness to talk to North Korea’s leader — even if he doesn’t want to talk to them.
+* 在白宫，特朗普总统和李在铭称赞对方渴望与朝鲜领导人会谈--即使他不想与他们会谈。
 * Pregnant Ukrainian soldiers say they are fighting for the future of their country and for their children.
 * 怀孕的乌克兰士兵说，他们正在为国家的未来和孩子而战。
-* After President Trump held talks with President Vladimir V. Putin, he said the Russian leader would be willing to meet with Ukraine’s president. That seems less and less likely.
-* 特朗普总统与弗拉基米尔· V ·普京总统举行会谈后表示，俄罗斯领导人愿意与乌克兰总统会面。这似乎越来越不可能了。
-* There’s a new generation of fans for the singer known as Thompson, who uses the salute and nationalist rhetoric to cast himself as a guardian of Croatian heritage.
-* 这位名叫汤普森（ Thompson ）的歌手拥有新一代粉丝，他用敬礼和民族主义的言辞将自己塑造成克罗地亚遗产的守护者。
-* Ultra-Orthodox Israelis, exempt for decades from military service, are now being drafted. Their rage is dividing Israel and threatening Prime Minister Benjamin Netanyahu’s coalition.
-* 几十年来免服兵役的极端正统以色列人目前正在起草草案。他们的愤怒正在分裂以色列，并威胁到本雅明·内塔尼亚胡总理的联盟。
-* The Ukrainian leader held talks with Prime Minister Mark Carney of Canada and was set to meet with President Trump’s envoy, Keith Kellogg, amid continuing diplomatic efforts to end the war.
-* 这位乌克兰领导人与加拿大总理马克·卡尼（ Mark Carney ）举行了会谈，并准备在结束战争的持续外交努力中会见特朗普总统的特使基思·凯洛格（ Keith Kellogg ）。
-* The contested region is where Russia’s war in Ukraine began a decade ago. Scores of Ukrainian soldiers have died defending it. Would Ukraine give it up now?
-* 有争议的地区是十年前俄罗斯在乌克兰的战争开始的地方。数十名乌克兰士兵在捍卫它时丧生。乌克兰现在会放弃吗？
-* Officials on Hainan Island, China’s only tropical beach destination, halted public transportation. Businesses were closed in Sanya, a popular resort city on the island.
-* 中国唯一的热带海滩目的地海南岛的官员暂停了公共交通。在岛上受欢迎的度假城市三亚，企业被关闭。
-* Washington’s increasing focus on Beijing is straining the decades-old alliance between South Korea and the United States.
-* 华盛顿对北京的日益关注正在使韩美之间长达数十年的联盟变得紧张。
+* Five journalists, along with medical workers, were among the dead at Nasser Hospital. Prime Minister Benjamin Netanyahu said the military would investigate.
+* 纳赛尔医院的死者中有五名记者和医务人员。内塔尼亚胡总理表示，军方将进行调查。
+* A third officer was wounded. Local authorities urged residents to avoid the area, about 200 miles from Melbourne, as they searched for the gunman.
+* 第三名军官受伤。地方当局敦促居民在搜查枪手时避开距离墨尔本约200英里的地区。
+* Videos taken by visitors to the isolated country provide a rare glimpse of how it’s mimicking the consumerism of the outside world.
+* 在这个与世隔绝的国家，游客拍摄的视频让人们难得一见它如何模仿外界的消费主义。
 
 ## New York Times United States News
-* For President Trump, consistency is less important than leader-to-leader diplomacy.
-* 对特朗普总统来说，一致性不如领导对领导的外交那么重要。
-* A budget shortfall has led the city’s transit authority to cut its bus and rail services by 20 percent.
-* 预算短缺导致该市的交通管理局将其公共汽车和铁路服务削减了20 ％。
-* Schools across the country face increasing threats, but many students with disabilities don’t have a way to evacuate.
-* 全国各地的学校面临越来越多的威胁，但许多残疾学生无法撤离。
-* As a fight over the future of elite higher education consumes university leaders and politicians, most college students live in a very different world with very different challenges.
-* 由于对精英高等教育未来的争夺消耗了大学领导人和政治家，大多数大学生生活在一个非常不同的世界，面临着非常不同的挑战。
-* President Trump floated the idea after the former governor of New Jersey, a onetime ally, criticized his use of the Justice Department.
-* 在曾经的盟友新泽西州前州长批评他利用司法部之后，特朗普总统提出了这个想法。
-* More than 2,200 troops were deployed in Washington as of Sunday, a Guard spokesman said.
-* 警卫队发言人说，截至周日，已有2200多名士兵部署在华盛顿。
-* The footage showed Mr. Jackson, son of the former UFC champion Quinton Jackson, punching the wrestler Stuart Smith at least 20 times.
-* 镜头显示，前UFC冠军昆顿·杰克逊的儿子杰克逊至少打了摔跤手斯图尔特·史密斯20次。
-* A single afternoon in court illustrated the new ways in which laws are being enforced after President Trump’s takeover of the city’s police.
-* 法庭上的一个下午说明了特朗普总统接管该市警察后执法的新方式。
-* President Trump said he was considering sending troops to Chicago, New York and Baltimore. State and local leaders say they have crime under control.
-* 特朗普总统表示，他正在考虑向芝加哥、纽约和巴尔的摩派遣军队。州和地方领导人表示，他们已经控制了犯罪。
-* Health issues prevented the women, who were in their 80s, from climbing out, officials said. They became unresponsive after overheating and developing hyperthermia.
-* 官员说，健康问题阻止了这些80多岁的女性爬出来。他们在过热并出现热疗后变得反应迟钝。
+* Threatened by the president with political retribution, Republicans agreed to defund public broadcasting, imperiling a lifeline of communication in rural Alaska.
+* 共和党人受到总统的政治报复威胁，同意取消公共广播，危及阿拉斯加农村的通信生命线。
+* Districts aiming to hire Black teachers, add Black history classes and talk about white privilege are increasingly under scrutiny, raising questions about what is legal, and also what works.
+* 旨在雇用黑人教师、增加黑人历史课程和谈论白人特权的地区正越来越多地受到审查，这引发了对什么是合法以及什么是有效的问题。
+* Since Congress approved President Trump’s request to claw back $1.1 billion in funding for public broadcasting, local stations in rural areas are at risk of going dark. Megan Mineiro, a congressional reporter for The New York Times, went to rural Alaska to see how the cuts affect one radio station and a town that relies on it.
+* 由于国会批准了特朗普总统为公共广播追回11亿美元资金的请求，农村地区的地方电台面临着黑暗的风险。《纽约时报》(The New York Times)的国会记者梅根·米内罗(Megan Mineiro)前往阿拉斯加农村，看看削减开支对一个广播电台和一个依赖它的城镇有何影响。
+* Ms. Cook said that she would not resign from the Board of Governors, hours after President Trump announced he was firing her.
+* 库克女士表示，在特朗普总统宣布解雇她几小时后，她不会辞去理事会职务。
+* Among the recent public letters was one from dozens of Orthodox rabbis demanding “moral clarity” to what they called a humanitarian crisis.
+* 在最近的公开信中，有一封来自数十名东正教拉比，他们要求“道德清晰” ，以应对他们所谓的人道主义危机。
+* George Herman Ruth, a Tennessee man with the same full name as the Yankees slugger, used the names of retired and dead players to commit fraud, prosecutors said.
+* 检察官说，田纳西州男子乔治·赫尔曼·鲁斯（ George Herman Ruth ）与洋基队的重击手全名相同，他使用退役和死亡球员的名字进行欺诈。
+* President Trump told Lisa Cook that he had found sufficient cause “to remove you from your position.” Ms. Cook and her lawyer said they would fight the firing.
+* 特朗普总统告诉丽莎·库克，他已经找到了足够的理由“解除你的职务。库克女士和她的律师表示，他们将与解雇作斗争。
+* President Trump is using crime as a political weapon, proclaiming quick-fix solutions to deeply rooted challenges in cities led by Democrats.
+* 特朗普总统正在利用犯罪作为政治武器，宣布快速解决民主党领导的城市中根深蒂固的挑战。
+* Representative James E. Comer of Kentucky demanded financial records, video recordings and information on meetings with famous people.
+* 肯塔基州众议员James E. Comer要求提供财务记录、录像和与名人会面的信息。
+* Judge Royce C. Lamberth in Washington
+* Royce C. Lamberth法官在华盛顿
 
 ## New York Times Asia News
+* At the White House, President Trump and Lee Jae Myung praised each other’s eagerness to talk to North Korea’s leader — even if he doesn’t want to talk to them.
+* 在白宫，特朗普总统和李在铭称赞对方渴望与朝鲜领导人会谈--即使他不想与他们会谈。
+* Claims that President Trump will direct Japanese investment highlight how trade frictions are mounting even with countries that have reached trade deals with the United States.
+* 声称特朗普总统将指导日本投资，凸显了即使与美国达成贸易协议的国家，贸易摩擦也在加剧。
+* The government expelled Iran’s diplomats, saying the country had orchestrated attacks on a Melbourne synagogue and a Sydney restaurant.
+* 政府驱逐了伊朗的外交官，称该国精心策划了对墨尔本犹太教堂和悉尼餐馆的袭击。
+* China’s economic slowdown has fallen especially hard on older migrant workers, who often don’t have the technical skills that employers are seeking.
+* 中国的经济放缓对老年农民工的影响尤为严重，他们往往不具备雇主正在寻求的技术技能。
+* They are threatening smaller parts companies that are key to manufacturing and employ hundreds of thousands in Japan, South Korea and Germany.
+* 他们正在威胁到小型零部件公司，这些公司是制造业的关键，并在日本、韩国和德国雇佣了数十万名员工。
+* Also, visiting a knockoff Starbucks in North Korea.
+* 此外，还参观了朝鲜的一家仿冒星巴克。
+* Researchers in China placed a lung from a genetically modified pig into a brain-dead man, with mixed results.
+* 中国的研究人员将一只转基因猪的肺放入一名脑死亡男子体内，结果喜忧参半。
 * More than 300,000 people have been told to evacuate as Typhoon Kajiki moved across a wide area between Hanoi and Da Nang.
 * 随着台风Kajiki在河内和岘港之间的广大地区移动，已有30多万人被告知撤离。
-* The Chinese consulate in Manhattan has mobilized community groups to defeat candidates who don’t fall in line with the authoritarian state.
+* The Chinese Consulate in Manhattan has mobilized community groups to defeat candidates who don’t fall in line with the authoritarian state.
 * 中国驻曼哈顿领事馆动员社区团体击败不符合威权国家的候选人。
 * Videos taken by visitors to the isolated country provide a rare glimpse of how it’s mimicking the consumerism of the outside world.
 * 在这个与世隔绝的国家，游客拍摄的视频让人们难得一见它如何模仿外界的消费主义。
-* The government had set out to slow speculation, kicking off a slowdown in real estate values that is still grinding on with wide economic consequences.
-* 政府已经开始放缓投机，引发了房地产价值的放缓，这种放缓仍在继续，并带来广泛的经济后果。
-* China Evergrande, delisted from the Hong Kong Stock Exchange on Monday, leaves behind a giant pile of debt and a long line of desperate creditors.
-* 中国恒大周一从香港证券交易所退市，留下了一大堆债务和一长串绝望的债权人。
-* Also, the U.S. Open gets going.
-* 此外，美国公开赛也在进行中。
-* In Pakistan, hundreds are in jail on charges of blaspheming Islam. Rights groups say some of these cases are due to bad actors’ entrapping victims online.
-* 在巴基斯坦，数百人因亵渎伊斯兰教而入狱。人权组织表示，其中一些案件是由于不良行为者在网上诱捕受害者造成的。
-* Officials on Hainan Island, China’s only tropical beach destination, halted public transportation. Businesses were closed in Sanya, a popular resort city on the island.
-* 中国唯一的热带海滩目的地海南岛的官员暂停了公共交通。在岛上受欢迎的度假城市三亚，企业被关闭。
-* Washington’s increasing focus on Beijing is straining the decades-old alliance between South Korea and the United States.
-* 华盛顿对北京的日益关注正在使韩美之间长达数十年的联盟变得紧张。
-* A section of the railway bridge, under construction in the country’s northwest, plunged into the Yellow River early on Friday.
-* 该国西北部正在建设的铁路桥梁的一部分于周五早些时候坠入黄河。
 
