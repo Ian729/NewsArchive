@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* After criticizing the United Arab Emirates on social media, an Egyptian activist was extradited to the Gulf country, where he has been detained without trial for months.
+* 在社交媒体上批评阿拉伯联合酋长国后，一名埃及活动人士被引渡到海湾国家，在那里他未经审判被拘留了几个月。
+* Journalists endure the same harrowing reality as other Gazans: hunger and the constant threat of death. Those challenges risk further stifling what the world hears about the war.
+* 记者忍受着与其他加沙人相同的悲惨现实：饥饿和不断的死亡威胁。这些挑战有可能进一步扼杀世界对这场战争的了解。
+* It’s the latest twist in the Greenland drama. President Trump wants the island, but Denmark refuses to hand it over.
+* 这是格陵兰岛戏剧的最新转折。特朗普总统想要这个岛屿，但丹麦拒绝交出。
+* Some detractors think the new bill is too weak to fill the recruitment gap. Others worry it will inevitably lead to forced conscription.
+* 一些批评者认为新法案太弱，无法填补招聘缺口。其他人则担心这将不可避免地导致强迫征兵。
+* The two countries appear to be trying to raise political pressure on each other and send signals to Washington in case peace talks move forward.
+* 两国似乎正试图向对方施加政治压力，并向华盛顿发出信号，以防和平谈判取得进展。
 * China’s economic slowdown has fallen especially hard on older migrant workers, who often don’t have the technical skills that employers are seeking.
 * 中国的经济放缓对老年农民工的影响尤为严重，他们往往不具备雇主正在寻求的技术技能。
-* The question of whether to send soldiers to a postwar Ukraine is the latest chapter in an evolving relationship between Germans and their military.
-* 是否向战后乌克兰派遣士兵的问题是德国人与其军队之间不断发展的关系的最新篇章。
-* As rallies spread to demand action to free captives, the country’s security cabinet was to meet for the first time since Hamas agreed to a new cease-fire proposal, officials said.
-* 官员们说，随着集会蔓延，要求采取行动释放俘虏，该国的安全内阁将自哈马斯同意新的停火提案以来首次举行会议。
-* Three European powers will meet with an Iranian minister to try to reopen negotiations over Iran’s nuclear activities and avoid reimposing harsh sanctions.
-* 三个欧洲大国将与伊朗部长会面，试图重启有关伊朗核活动的谈判，避免重新实施严厉制裁。
-* The government expelled Iran’s diplomats, saying the country had orchestrated attacks on a Melbourne synagogue and a Sydney restaurant.
-* 政府驱逐了伊朗的外交官，称该国精心策划了对墨尔本犹太教堂和悉尼餐馆的袭击。
 * At the White House, President Trump and Lee Jae Myung praised each other’s eagerness to talk to North Korea’s leader — even if he doesn’t want to talk to them.
 * 在白宫，特朗普总统和李在铭称赞对方渴望与朝鲜领导人会谈--即使他不想与他们会谈。
-* Pregnant Ukrainian soldiers say they are fighting for the future of their country and for their children.
-* 怀孕的乌克兰士兵说，他们正在为国家的未来和孩子而战。
-* Five journalists, along with medical workers, were among the dead at Nasser Hospital. Prime Minister Benjamin Netanyahu said the military would investigate.
-* 纳赛尔医院的死者中有五名记者和医务人员。内塔尼亚胡总理表示，军方将进行调查。
-* A third officer was wounded. Local authorities urged residents to avoid the area, about 200 miles from Melbourne, as they searched for the gunman.
-* 第三名军官受伤。地方当局敦促居民在搜查枪手时避开距离墨尔本约200英里的地区。
-* Videos taken by visitors to the isolated country provide a rare glimpse of how it’s mimicking the consumerism of the outside world.
-* 在这个与世隔绝的国家，游客拍摄的视频让人们难得一见它如何模仿外界的消费主义。
+* The Israeli military said, without providing evidence, that its initial inquiry found that militants had placed an observation camera in the area. It said the attack killed six militants.
+* 以色列军方表示，在没有提供证据的情况下，其初步调查发现武装分子在该地区放置了一个观察摄像头。它说这次袭击造成6名武装分子死亡。
+* The plans announced by the leader of Reform U.K., which is leading opinion polls in Britain, illustrated how he is driving a hardening of the debate around immigration.
+* 英国领先的民意调查机构Reform U.K.的领导人宣布的计划说明了他是如何推动围绕移民的争论愈演愈烈的。
+* Built for a cooler climate, many homes need to be retrofitted for warming temperatures. It won’t be as simple as installing air-conditioning.
+* 许多房屋是为气候凉爽而建造的，需要进行改造以适应温度升高。它不会像安装空调那么简单。
 
 ## New York Times United States News
-* Threatened by the president with political retribution, Republicans agreed to defund public broadcasting, imperiling a lifeline of communication in rural Alaska.
-* 共和党人受到总统的政治报复威胁，同意取消公共广播，危及阿拉斯加农村的通信生命线。
-* Districts aiming to hire Black teachers, add Black history classes and talk about white privilege are increasingly under scrutiny, raising questions about what is legal, and also what works.
-* 旨在雇用黑人教师、增加黑人历史课程和谈论白人特权的地区正越来越多地受到审查，这引发了对什么是合法以及什么是有效的问题。
-* Since Congress approved President Trump’s request to claw back $1.1 billion in funding for public broadcasting, local stations in rural areas are at risk of going dark. Megan Mineiro, a congressional reporter for The New York Times, went to rural Alaska to see how the cuts affect one radio station and a town that relies on it.
-* 由于国会批准了特朗普总统为公共广播追回11亿美元资金的请求，农村地区的地方电台面临着黑暗的风险。《纽约时报》(The New York Times)的国会记者梅根·米内罗(Megan Mineiro)前往阿拉斯加农村，看看削减开支对一个广播电台和一个依赖它的城镇有何影响。
-* Ms. Cook said that she would not resign from the Board of Governors, hours after President Trump announced he was firing her.
-* 库克女士表示，在特朗普总统宣布解雇她几小时后，她不会辞去理事会职务。
-* Among the recent public letters was one from dozens of Orthodox rabbis demanding “moral clarity” to what they called a humanitarian crisis.
-* 在最近的公开信中，有一封来自数十名东正教拉比，他们要求“道德清晰” ，以应对他们所谓的人道主义危机。
-* George Herman Ruth, a Tennessee man with the same full name as the Yankees slugger, used the names of retired and dead players to commit fraud, prosecutors said.
-* 检察官说，田纳西州男子乔治·赫尔曼·鲁斯（ George Herman Ruth ）与洋基队的重击手全名相同，他使用退役和死亡球员的名字进行欺诈。
-* President Trump told Lisa Cook that he had found sufficient cause “to remove you from your position.” Ms. Cook and her lawyer said they would fight the firing.
-* 特朗普总统告诉丽莎·库克，他已经找到了足够的理由“解除你的职务。库克女士和她的律师表示，他们将与解雇作斗争。
-* President Trump is using crime as a political weapon, proclaiming quick-fix solutions to deeply rooted challenges in cities led by Democrats.
-* 特朗普总统正在利用犯罪作为政治武器，宣布快速解决民主党领导的城市中根深蒂固的挑战。
-* Representative James E. Comer of Kentucky demanded financial records, video recordings and information on meetings with famous people.
-* 肯塔基州众议员James E. Comer要求提供财务记录、录像和与名人会面的信息。
-* Judge Royce C. Lamberth in Washington
-* Royce C. Lamberth法官在华盛顿
+* The group in Southern California stole goods worth millions of dollars since January, officials said. Nine people were charged this week over the thefts.
+* 官员说，自1月以来，南加州的这个组织偷走了价值数百万美元的商品。本周有9人因盗窃被起诉。
+* Amid deep cuts, more than 90 parks have reported problems like lost revenue and cuts to emergency services. One expert called this “a dangerous path.”
+* 在大幅削减开支的情况下， 90多个公园报告了收入损失和紧急服务削减等问题。一位专家称之为“一条危险的道路”。
+* President Trump wants to cut federal spending for education. The money often goes toward disadvantaged students in Republican states.
+* 特朗普总统希望削减联邦教育支出。这笔钱经常流向共和党各州的弱势学生。
+* The former college swimmer has used her race against Lia Thomas, a trans athlete, to propel her career as an influential, and unsparing, activist.
+* 这位前大学游泳运动员利用她与跨性别运动员莉娅·托马斯（ Lia Thomas ）的比赛来推动她作为一名有影响力和不遗余力的活动家的职业生涯。
+* President Trump made the announcement in a brief social media post. It was his latest effort to push crime to the foreground of American politics.
+* 特朗普总统在一篇简短的社交媒体帖子中宣布了这一消息。这是他将犯罪推向美国政治前沿的最新努力。
+* President Trump, who has sent the military into Los Angeles and Washington, has targeted states and cities governed by Democrats.
+* 特朗普总统派军队进入洛杉矶和华盛顿，瞄准了民主党统治的州和城市。
+* The Senate seat in the Sioux City area had been held by a Republican. It would be the second time this year that Iowa Democrats had flipped a legislative district.
+* 苏城地区的参议院席位由一名共和党人占据。这将是今年爱荷华州民主党第二次翻转立法区。
+* Vincen Miller, 4, died after he was thrown into Atwood Lake in Ohio. His mother is expected to face an aggravated murder charge, the authorities said.
+* 4岁的Vincen Miller被扔进俄亥俄州的阿特伍德湖后死亡。当局表示，预计他的母亲将面临严重的谋杀指控。
+* It is unclear how Mr. Trump would carry out his directive. The Supreme Court ruled that mandatory death sentences were unconstitutional nearly half a century ago.
+* 目前尚不清楚特朗普将如何执行他的指示。近半个世纪前，最高法院裁定强制性死刑判决违宪。
+* The president has praised Chinese students several times. But his policies are making it more difficult for students from China to come to the United States.
+* 总统多次赞扬中国学生。但他的政策使得来自中国的学生更难来到美国。
 
 ## New York Times Asia News
+* As punishment for buying Russian oil, President Trump is doubling the tax on goods imported from India, jeopardizing a relationship decades in the making.
+* 作为对购买俄罗斯石油的惩罚，特朗普总统正在将从印度进口的商品税加倍，危及几十年来建立的关系。
+* The dupes of the cute-ugly toys have left consumer complaints and warnings about safety risks and potentially hazardous chemicals in their wake.
+* 可爱丑陋玩具的骗局给消费者留下了有关安全风险和潜在危险化学品的投诉和警告。
+* Plus, the Booker Prize nominees.
+* 此外，还有布克奖提名者。
+* We explore why India is so confused by the Trump administration as U.S. tariff rates of 50 percent are set to take effect today.
+* 我们将探讨为什么印度对特朗普政府如此困惑，因为美国50%的关税税率将于今天生效。
+* The new rules led to clashes with the police and threats of hunger strikes by members of the Jain religious community, which believes in nonviolence against all creatures.
+* 新规定导致了与警方的冲突以及耆那教宗教团体成员绝食的威胁，耆那教宗教团体相信对所有生物都使用非暴力手段。
 * At the White House, President Trump and Lee Jae Myung praised each other’s eagerness to talk to North Korea’s leader — even if he doesn’t want to talk to them.
 * 在白宫，特朗普总统和李在铭称赞对方渴望与朝鲜领导人会谈--即使他不想与他们会谈。
 * Claims that President Trump will direct Japanese investment highlight how trade frictions are mounting even with countries that have reached trade deals with the United States.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 中国的经济放缓对老年农民工的影响尤为严重，他们往往不具备雇主正在寻求的技术技能。
 * They are threatening smaller parts companies that are key to manufacturing and employ hundreds of thousands in Japan, South Korea and Germany.
 * 他们正在威胁到小型零部件公司，这些公司是制造业的关键，并在日本、韩国和德国雇佣了数十万名员工。
-* Also, visiting a knockoff Starbucks in North Korea.
-* 此外，还参观了朝鲜的一家仿冒星巴克。
-* Researchers in China placed a lung from a genetically modified pig into a brain-dead man, with mixed results.
-* 中国的研究人员将一只转基因猪的肺放入一名脑死亡男子体内，结果喜忧参半。
-* More than 300,000 people have been told to evacuate as Typhoon Kajiki moved across a wide area between Hanoi and Da Nang.
-* 随着台风Kajiki在河内和岘港之间的广大地区移动，已有30多万人被告知撤离。
-* The Chinese Consulate in Manhattan has mobilized community groups to defeat candidates who don’t fall in line with the authoritarian state.
-* 中国驻曼哈顿领事馆动员社区团体击败不符合威权国家的候选人。
-* Videos taken by visitors to the isolated country provide a rare glimpse of how it’s mimicking the consumerism of the outside world.
-* 在这个与世隔绝的国家，游客拍摄的视频让人们难得一见它如何模仿外界的消费主义。
 
