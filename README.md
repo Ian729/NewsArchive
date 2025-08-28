@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* The strikes on Ukraine’s capital, nearly two weeks after the U.S.-Russia summit in Alaska, injured at least 45 people, officials said.
+* 官员们说，在阿拉斯加举行美俄峰会近两周后，对乌克兰首都的袭击造成至少45人受伤。
+* They will join China’s leader, Xi Jinping, and about 20 other heads of state, some of whom share a strong distrust of the United States.
+* 他们将加入中国领导人习近平和其他约20位国家元首的行列，其中一些人对美国有着强烈的不信任。
+* As the outspoken Hong Kong publisher awaits a verdict, his trial has become a test of China’s resolve to crush dissent, and of whether President Trump can free him.
+* 这位直言不讳的香港出版商正在等待判决，对他的审判考验了中国镇压异议的决心，以及特朗普总统能否释放他。
+* The media tycoon, jailed since 2020, ran a now-defunct newspaper that was critical of the government.
+* 这位自2020年以来被判入狱的媒体大亨经营着一家现已解散的报纸，该报纸批评政府。
+* Worn down by hundreds of days of military service, fewer Israeli reservists are turning up for duty. Others are refusing to fight in a war they no longer believe in.
+* 由于数百天的兵役而疲惫不堪，越来越少的以色列预备役人员上岗服役。其他人拒绝参加他们不再相信的战争。
+* In Salzburg, an anniversary of “The Sound of Music” looks grand through a child’s eyes, even if the locals are gazing elsewhere.
+* 在萨尔茨堡，即使当地人正在其他地方凝视， “音乐之声”的周年纪念活动在孩子的眼中也显得格外壮观。
+* The artwork had been missing for 80 years before Dutch journalists spotted it in a real estate listing in Argentina.
+* 这件艺术品已经失踪了80年，直到荷兰记者在阿根廷的一处房地产上市中发现了它。
 * After criticizing the United Arab Emirates on social media, an Egyptian activist was extradited to the Gulf country, where he has been detained without trial for months.
 * 在社交媒体上批评阿拉伯联合酋长国后，一名埃及活动人士被引渡到海湾国家，在那里他未经审判被拘留了几个月。
-* Journalists endure the same harrowing reality as other Gazans: hunger and the constant threat of death. Those challenges risk further stifling what the world hears about the war.
-* 记者忍受着与其他加沙人相同的悲惨现实：饥饿和不断的死亡威胁。这些挑战有可能进一步扼杀世界对这场战争的了解。
-* It’s the latest twist in the Greenland drama. President Trump wants the island, but Denmark refuses to hand it over.
-* 这是格陵兰岛戏剧的最新转折。特朗普总统想要这个岛屿，但丹麦拒绝交出。
+* It was the latest twist in a simmering diplomatic conflict over Greenland. President Trump wants the island to be a U.S. territory, but Denmark refuses to give it up.
+* 这是围绕格陵兰岛酝酿的外交冲突的最新转折。特朗普总统希望该岛成为美国领土，但丹麦拒绝放弃。
 * Some detractors think the new bill is too weak to fill the recruitment gap. Others worry it will inevitably lead to forced conscription.
 * 一些批评者认为新法案太弱，无法填补招聘缺口。其他人则担心这将不可避免地导致强迫征兵。
-* The two countries appear to be trying to raise political pressure on each other and send signals to Washington in case peace talks move forward.
-* 两国似乎正试图向对方施加政治压力，并向华盛顿发出信号，以防和平谈判取得进展。
-* China’s economic slowdown has fallen especially hard on older migrant workers, who often don’t have the technical skills that employers are seeking.
-* 中国的经济放缓对老年农民工的影响尤为严重，他们往往不具备雇主正在寻求的技术技能。
-* At the White House, President Trump and Lee Jae Myung praised each other’s eagerness to talk to North Korea’s leader — even if he doesn’t want to talk to them.
-* 在白宫，特朗普总统和李在铭称赞对方渴望与朝鲜领导人会谈--即使他不想与他们会谈。
-* The Israeli military said, without providing evidence, that its initial inquiry found that militants had placed an observation camera in the area. It said the attack killed six militants.
-* 以色列军方表示，在没有提供证据的情况下，其初步调查发现武装分子在该地区放置了一个观察摄像头。它说这次袭击造成6名武装分子死亡。
-* The plans announced by the leader of Reform U.K., which is leading opinion polls in Britain, illustrated how he is driving a hardening of the debate around immigration.
-* 英国领先的民意调查机构Reform U.K.的领导人宣布的计划说明了他是如何推动围绕移民的争论愈演愈烈的。
-* Built for a cooler climate, many homes need to be retrofitted for warming temperatures. It won’t be as simple as installing air-conditioning.
-* 许多房屋是为气候凉爽而建造的，需要进行改造以适应温度升高。它不会像安装空调那么简单。
 
 ## New York Times United States News
-* The group in Southern California stole goods worth millions of dollars since January, officials said. Nine people were charged this week over the thefts.
-* 官员说，自1月以来，南加州的这个组织偷走了价值数百万美元的商品。本周有9人因盗窃被起诉。
-* Amid deep cuts, more than 90 parks have reported problems like lost revenue and cuts to emergency services. One expert called this “a dangerous path.”
-* 在大幅削减开支的情况下， 90多个公园报告了收入损失和紧急服务削减等问题。一位专家称之为“一条危险的道路”。
-* President Trump wants to cut federal spending for education. The money often goes toward disadvantaged students in Republican states.
-* 特朗普总统希望削减联邦教育支出。这笔钱经常流向共和党各州的弱势学生。
-* The former college swimmer has used her race against Lia Thomas, a trans athlete, to propel her career as an influential, and unsparing, activist.
-* 这位前大学游泳运动员利用她与跨性别运动员莉娅·托马斯（ Lia Thomas ）的比赛来推动她作为一名有影响力和不遗余力的活动家的职业生涯。
-* President Trump made the announcement in a brief social media post. It was his latest effort to push crime to the foreground of American politics.
-* 特朗普总统在一篇简短的社交媒体帖子中宣布了这一消息。这是他将犯罪推向美国政治前沿的最新努力。
-* President Trump, who has sent the military into Los Angeles and Washington, has targeted states and cities governed by Democrats.
-* 特朗普总统派军队进入洛杉矶和华盛顿，瞄准了民主党统治的州和城市。
-* The Senate seat in the Sioux City area had been held by a Republican. It would be the second time this year that Iowa Democrats had flipped a legislative district.
-* 苏城地区的参议院席位由一名共和党人占据。这将是今年爱荷华州民主党第二次翻转立法区。
-* Vincen Miller, 4, died after he was thrown into Atwood Lake in Ohio. His mother is expected to face an aggravated murder charge, the authorities said.
-* 4岁的Vincen Miller被扔进俄亥俄州的阿特伍德湖后死亡。当局表示，预计他的母亲将面临严重的谋杀指控。
-* It is unclear how Mr. Trump would carry out his directive. The Supreme Court ruled that mandatory death sentences were unconstitutional nearly half a century ago.
-* 目前尚不清楚特朗普将如何执行他的指示。近半个世纪前，最高法院裁定强制性死刑判决违宪。
-* The president has praised Chinese students several times. But his policies are making it more difficult for students from China to come to the United States.
-* 总统多次赞扬中国学生。但他的政策使得来自中国的学生更难来到美国。
+* U.S. and European military officials are increasingly concerned about the flights, even as Russian acts of sabotage have declined.
+* 美国和欧洲军方官员越来越担心这些航班，尽管俄罗斯的破坏行为有所减少。
+* Children who survive school shootings deal with a host of complex feelings, ranging from anxiety and grief to guilt and shame.
+* 在校园枪击事件中幸存下来的儿童面临着一系列复杂的情绪，从焦虑和悲伤到内疚和羞耻。
+* The president’s steep tariffs and erratic moves have turned manufacturing abroad into a minefield, even for entrepreneurs who set up in countries viewed as safe alternatives to China.
+* 总统的高关税和不稳定的举动已将海外制造业变成了雷区，即使对于那些在被视为中国安全替代品的国家设立的企业家来说也是如此。
+* Organ donation groups accused of safety lapses are facing multiple investigations, and new policies are underway to protect patients.
+* 被指控存在安全漏洞的器官捐赠团体正面临多项调查，目前正在制定新的政策来保护患者。
+* Local firefighting officials provided few details about the incident at Olympic National Forest. Federal officials rarely enforce immigration laws at the site of an emergency.
+* 当地消防官员几乎没有提供有关奥林匹克国家森林公园事件的详细信息。联邦官员很少在紧急情况下执行移民法。
+* The authorities credited the quick action from school staff members, who moved students under pews, with saving lives.
+* 当局称赞学校工作人员的快速行动，他们将学生安置在长凳下，挽救了生命。
+* The shooter who attacked a Catholic school on Wednesday posted social media videos and writings that betrayed a litany of grievances and obsessions.
+* 周三袭击一所天主教学校的枪手发布了社交媒体视频和著作，背叛了一连串的不满和痴迷。
+* The shooting of children at a Roman Catholic church came after a string of violent confrontations, going back to George Floyd, that has left the Twin Cities reeling.
+* 在罗马天主教堂发生枪击事件之前，发生了一系列暴力冲突，可追溯到乔治·弗洛伊德（ George Floyd ） ，这让双子城陷入了困境。
+* The president is signaling a tough-on-crime message for the midterms next year.
+* 总统正在为明年的中期选举发出强硬的犯罪信息。
+* It is not clear what country intercepted Mr. Bolton’s private emails, but the investigation into President Trump’s former national security adviser picked up momentum under the Biden administration.
+* 目前尚不清楚是哪个国家拦截了博尔顿的私人电子邮件，但对特朗普总统前国家安全顾问的调查在拜登政府的领导下加快了势头。
 
 ## New York Times Asia News
+* They will join China’s leader, Xi Jinping, and about 20 other heads of state, some of whom share a strong distrust of the United States.
+* 他们将加入中国领导人习近平和其他约20位国家元首的行列，其中一些人对美国有着强烈的不信任。
+* The media tycoon, jailed since 2020, ran a now-defunct newspaper that was critical of the government.
+* 这位自2020年以来被判入狱的媒体大亨经营着一家现已解散的报纸，该报纸批评政府。
+* As the outspoken Hong Kong publisher awaits a verdict, his trial has become a test of China’s resolve to crush dissent, and of whether President Trump can free him.
+* 这位直言不讳的香港出版商正在等待判决，对他的审判考验了中国镇压异议的决心，以及特朗普总统能否释放他。
+* The U.S. president is putting pressure on other countries to burn more fossil fuels and retreat from clean energy.
+* 美国总统正在向其他国家施加压力，要求燃烧更多化石燃料并退出清洁能源。
+* For years, Danish doctors inserted intrauterine devices in Greenlandic girls and women without their consent, part of a painful legacy of mistreatment.
+* 多年来，丹麦医生在未经格陵兰女孩和妇女同意的情况下将宫内节育器插入格陵兰，这是虐待的痛苦遗产的一部分。
+* Australia has accused Iran of directing an attack on a Jewish restaurant in Sydney through a web of intermediaries. The operation on the ground, court records suggest, was messy.
+* 澳大利亚指责伊朗通过中介网络指挥袭击悉尼的一家犹太餐厅。法庭记录表明，地面行动很混乱。
+* Businesses and policymakers are casting around for help from unlikely places, as the country’s exports to the United States are crushed by 50 percent tariffs.
+* 企业和政策制定者正在从不太可能的地方寻求帮助，因为该国对美国的出口被50 ％的关税压垮。
+* It becomes the latest country to restrict phone use in schools, with a law that will go into effect in 2026.
+* 它成为限制学校使用电话的最新国家，法律将于2026年生效。
+* Rescue workers pulled bodies from the debris after rain sent boulders and mud crashing down.
+* 在雨水将巨石和泥浆撞倒后，救援人员将尸体从碎片中拉出。
 * As punishment for buying Russian oil, President Trump is doubling the tax on goods imported from India, jeopardizing a relationship decades in the making.
 * 作为对购买俄罗斯石油的惩罚，特朗普总统正在将从印度进口的商品税加倍，危及几十年来建立的关系。
-* The dupes of the cute-ugly toys have left consumer complaints and warnings about safety risks and potentially hazardous chemicals in their wake.
-* 可爱丑陋玩具的骗局给消费者留下了有关安全风险和潜在危险化学品的投诉和警告。
-* Plus, the Booker Prize nominees.
-* 此外，还有布克奖提名者。
-* We explore why India is so confused by the Trump administration as U.S. tariff rates of 50 percent are set to take effect today.
-* 我们将探讨为什么印度对特朗普政府如此困惑，因为美国50%的关税税率将于今天生效。
-* The new rules led to clashes with the police and threats of hunger strikes by members of the Jain religious community, which believes in nonviolence against all creatures.
-* 新规定导致了与警方的冲突以及耆那教宗教团体成员绝食的威胁，耆那教宗教团体相信对所有生物都使用非暴力手段。
-* At the White House, President Trump and Lee Jae Myung praised each other’s eagerness to talk to North Korea’s leader — even if he doesn’t want to talk to them.
-* 在白宫，特朗普总统和李在铭称赞对方渴望与朝鲜领导人会谈--即使他不想与他们会谈。
-* Claims that President Trump will direct Japanese investment highlight how trade frictions are mounting even with countries that have reached trade deals with the United States.
-* 声称特朗普总统将指导日本投资，凸显了即使与美国达成贸易协议的国家，贸易摩擦也在加剧。
-* The government expelled Iran’s diplomats, saying the country had orchestrated attacks on a Melbourne synagogue and a Sydney restaurant.
-* 政府驱逐了伊朗的外交官，称该国精心策划了对墨尔本犹太教堂和悉尼餐馆的袭击。
-* China’s economic slowdown has fallen especially hard on older migrant workers, who often don’t have the technical skills that employers are seeking.
-* 中国的经济放缓对老年农民工的影响尤为严重，他们往往不具备雇主正在寻求的技术技能。
-* They are threatening smaller parts companies that are key to manufacturing and employ hundreds of thousands in Japan, South Korea and Germany.
-* 他们正在威胁到小型零部件公司，这些公司是制造业的关键，并在日本、韩国和德国雇佣了数十万名员工。
 
