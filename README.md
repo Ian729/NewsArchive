@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The strikes, which hit a five-story apartment building, a shopping mall and buildings used by European governments, were the largest on the Ukrainian capital since the Alaska summit.
-* 这次罢工袭击了一栋五层楼的公寓楼、一个购物中心和欧洲各国政府所使用的建筑物，是自阿拉斯加峰会以来乌克兰首都发生的最大罢工。
-* They will join China’s leader, Xi Jinping, and about 20 other heads of state, some of whom share a strong distrust of the United States.
-* 他们将加入中国领导人习近平和其他约20位国家元首的行列，其中一些人对美国有着强烈的不信任。
-* As the outspoken Hong Kong publisher awaits a verdict, his trial has become a test of China’s resolve to crush dissent, and of whether President Trump can free him.
-* 这位直言不讳的香港出版商正在等待判决，对他的审判考验了中国镇压异议的决心，以及特朗普总统能否释放他。
-* With Israel’s expanded assault looming, Zeitoun already resembles other parts of Gaza that have been largely flattened in the war.
-* 随着以色列扩大的攻击迫在眉睫， Zeitoun已经类似于加沙其他地区，这些地区在战争中基本上被夷为平地。
-* With the decades-old peacekeeping mission set to expire, the U.N. Security Council chose to extend it through 2026, then gradually withdraw the forces the following year.
-* 随着数十年的维和任务即将到期，联合国安理会选择将其延长至2026年，然后在第二年逐步撤出部队。
-* The media tycoon, jailed since 2020, ran a now-defunct newspaper that was critical of the government.
-* 这位自2020年以来被判入狱的媒体大亨经营着一家现已解散的报纸，该报纸批评政府。
-* Scientists published a study this month on the nurse shark, which was caught and photographed by sport fishermen last year.
-* 科学家们本月发表了一项关于护士鲨的研究，该研究于去年被体育渔民捕获并拍摄。
-* Britain, France and Germany said the country had violated the terms of a 2015 nuclear deal. Iran’s foreign minister called their action “illegal.”
-* 英国、法国和德国表示，该国违反了2015年核协议的条款。伊朗外交部长称他们的行为“非法”。
-* Worn down by hundreds of days of military service, fewer Israeli reservists are turning up for duty. Others are refusing to fight in a war they no longer believe in.
-* 由于数百天的兵役而疲惫不堪，越来越少的以色列预备役人员上岗服役。其他人拒绝参加他们不再相信的战争。
-* In Salzburg, an anniversary of “The Sound of Music” looks grand through a child’s eyes, even if the locals are gazing elsewhere.
-* 在萨尔茨堡，即使当地人正在其他地方凝视， “音乐之声”的周年纪念活动在孩子的眼中也显得格外壮观。
+* A festival known as Summer in Moscow showcases the city’s transformation into an ultramodern metropolis. But the feast can’t last forever.
+* 一个被称为莫斯科夏季的节日展示了这座城市向超现代大都市的转变。但盛宴不可能永远持续下去。
+* The student-led demonstrations in Indonesia are against President Prabowo Subianto’s economic policies and fatal police brutality.
+* 印尼学生领导的示威活动反对总统普拉博沃·苏比安托（ Prabowo Subianto ）的经济政策和致命的警察暴行。
+* For 40 years, the Rev. Gyoro Nagase has overseen a temple to peace in a popular park in Battersea, his ever-present drum by his side.
+* 40年来，长濑行郎牧师（ Rev. Gyoro Nagase ）一直在巴特西（ Battersea ）的一个受欢迎的公园里监督一座和平寺，他无时不在的鼓在他身边。
+* Afghanistan was on a timid recovery path. But four years after the Taliban retook power, it has been badly hit by aid cuts and an inflow of two million Afghans forced out of Iran and Pakistan.
+* 阿富汗正走在一条怯懦的复苏道路上。但在塔利班夺回政权四年后，由于援助削减和200万阿富汗人被迫离开伊朗和巴基斯坦，它受到了严重打击。
+* It was the second massive assault in three days, as the Kremlin rebuffed peace talks sought by Ukraine and the United States.
+* 这是三天内的第二次大规模袭击，因为克里姆林宫拒绝了乌克兰和美国寻求的和平谈判。
+* A series of World War II dramas about China’s fight against Japan is drawing audiences to their feet, and, in some cases, to tears. Some say it helps deflect public discontent.
+* 一系列关于中国与日本斗争的第二次世界大战戏剧正在吸引观众，在某些情况下，还会让观众流泪。有人说，这有助于转移公众的不满情绪。
+* After months of negotiation and concessions, President Claudia Sheinbaum of Mexico has found herself in a cycle of pressure from the White House.
+* 经过数月的谈判和让步，墨西哥总统克劳迪娅·谢恩鲍姆（ Claudia Sheinbaum ）发现自己陷入了白宫的压力循环。
+* The layoffs set up a potential battle with a federal judge who blocked previous efforts by Kari Lake, a fierce Trump ally, to restructure the agency.
+* 此次裁员引发了与一名联邦法官的潜在争斗，后者阻止了特朗普的激烈盟友卡里·莱克(Kari Lake)此前重组该机构的努力。
+* The Israeli military ended a policy of pausing operations during the day that was intended to allow more aid in, calling Gaza City a “dangerous combat zone.”
+* 以色列军方结束了白天暂停行动的政策，该政策旨在允许更多的援助进入，称加沙城为“危险的战区”。
+* Jair Bolsonaro, Brazil’s former president, is heading to trial. But his path there has stirred concern that the judiciary has overstepped its bounds.
+* 巴西前总统贾尔·博尔索纳罗（ Jair Bolsonaro ）即将接受审判。但他在那里的道路引发了人们对司法机构超越其界限的担忧。
 
 ## New York Times United States News
-* President Trump’s effort to oust the Federal Reserve governor has kicked off a landmark legal battle, one that will have far-reaching consequences for the institution’s independence.
-* 特朗普总统推翻美联储理事的努力引发了一场具有里程碑意义的法律斗争，这场斗争将对该机构的独立性产生深远影响。
-* Crime has fallen since federal agents started policing the streets of Washington in large numbers. Court records show that they have been involved in about a third of arrests that resulted in prosecution, many of them for minor offenses.
-* 自从联邦特工开始在华盛顿街头大批巡逻以来，犯罪率已经下降。法庭记录显示，他们参与了大约三分之一的逮捕，导致起诉，其中许多是轻罪。
-* The city has taken pride in its ability to endure. But many residents, fed up with dysfunction and soaring costs, want it to strive for more.
-* 这座城市以其承受能力而自豪。但许多居民厌倦了功能失调和成本飙升，希望它争取更多。
-* Gregory Bovino has orchestrated thousands of arrests, using confrontational tactics that have made him a MAGA star. His critics say he’s crossing legal and political lines.
-* 格雷戈里·博维诺（ Gregory Bovino ）使用对抗策略策划了数千次逮捕，使他成为MAGA明星。他的批评者说，他正在跨越法律和政治界限。
-* Gov. Bob Ferguson demanded an explanation for the arrests of two contract workers at the site of a wildfire. Border Patrol said they were in the country illegally.
-* 州长鲍勃·弗格森（ Bob Ferguson ）要求就两名合同工在野火现场被捕一事作出解释。边境巡逻队表示，他们非法进入该国。
-* The court voted not to revisit a fight over billions in frozen funds, but simultaneously revised an earlier order to give nonprofits that sued a narrow path forward in the case.
-* 法院投票决定不重新审视数十亿美元冻结资金的斗争，但同时修订了早先的命令，给予起诉该案的非营利组织一条狭窄的前进道路。
-* The pre-Labor Day order included NASA, the National Weather Service and the agency that oversees Voice of America.
-* 劳动节前的命令包括NASA ，国家气象局和监督美国之音的机构。
-* Legislation aimed at curtailing mail-order abortions in Texas cleared a decisive hurdle, part of a broader push by abortion opponents to limit the procedure even in states where it is legal.
-* 旨在减少德克萨斯州邮购堕胎的立法清除了一个决定性的障碍，这是堕胎反对者更广泛地推动限制程序的一部分，即使在合法的州也是如此。
-* A pair of hijackers got settled in California with help from a man paid by the Saudi government. A federal judge found that might have been part of his official duties.
-* 在一名沙特政府雇佣的男子的帮助下，两名劫机者在加利福尼亚定居。一名联邦法官发现这可能是他公务的一部分。
-* The Pentagon is putting back up a portrait of Gen. Robert E. Lee at the military academy, as the Trump administration seeks to restore honors for American figures who fought to preserve slavery.
-* 五角大楼正在恢复罗伯特· E ·李将军在军事学院的肖像，因为特朗普政府正在寻求恢复为维护奴隶制而奋斗的美国人物的荣誉。
+* Robin W. Westman described how she had obtained guns and how she had visited the church on a test run this summer during a Sunday Mass.
+* 罗宾·韦斯特曼（ Robin W. Westman ）描述了她是如何获得枪支的，以及她是如何在今年夏天的周日弥撒期间参观教堂进行试运行的。
+* Anders Holine was among the first parents to arrive at the scene of a mass shooting at a Minneapolis church on Wednesday. He spoke to The New York Times about what he witnessed as he went searching for his two daughters.
+* 安德斯·霍林（ Anders Holine ）是周三抵达明尼阿波利斯教堂大规模枪击事件现场的第一批父母之一。他向《纽约时报》讲述了他在寻找两个女儿时目睹的事情。
+* For many displaced by Hurricane Katrina, distance did not diminish their bond with the city they left behind, even as they built new lives.
+* 对于许多因卡特里娜飓风而流离失所的人来说，距离并没有减少他们与留下的城市的联系，即使他们建立了新的生活。
+* Israel was able to track the movements of key Iranian figures and assassinate them during the 12-day war this spring by following the cellphones carried by members of their security forces.
+* 在今年春天的12天战争期间，以色列能够跟踪伊朗主要人物的行动，并通过其安全部队成员携带的手机暗杀他们。
+* Black women have been among the groups most affected by President Trump’s federal work force cuts this year. Erica L. Green explains why this is happening and what it could mean for the larger economy.
+* 黑人妇女是今年受特朗普总统联邦裁员影响最大的群体之一。Erica L. Green解释了为什么会发生这种情况，以及这对更大的经济体意味着什么。
+* A war hero turned politician, he was first elected to the House in 1990 but stepped down in 2005 after pleading guilty to tax evasion and conspiracy to commit bribery.
+* 作为一名战争英雄，他于1990年首次当选众议院议员，但在承认逃税和共谋贿赂后于2005年辞职。
+* President Trump’s repeated claims about having “solved” the India-Pakistan war infuriated Prime Minister Narendra Modi of India. And that was only the beginning.
+* 特朗普总统一再声称已经“解决”了印巴战争，这激怒了印度总理纳伦德拉·莫迪（ Narendra Modi ）。而这仅仅是个开始。
+* The layoffs set up a potential battle with a federal judge who blocked previous efforts by Kari Lake, a fierce Trump ally, to restructure the agency.
+* 此次裁员引发了与一名联邦法官的潜在争斗，后者阻止了特朗普的激烈盟友卡里·莱克(Kari Lake)此前重组该机构的努力。
+* Judge Jia M. Cobb rejected what she called “a truly startling argument” from the government that it could use a fast-track procedure to remove people arrested far from the southern border.
+* 贾M.科布法官驳回了政府所谓的“真正令人吃惊的论点” ，即政府可以使用快速程序将远离南部边境的被捕人员驱逐出境。
+* The children, who crossed the border as unaccompanied minors, are being kept in shelters. Experts said the move raised troubling legal questions.
+* 这些儿童作为无人陪伴的未成年人越过边境，被关押在避难所。专家表示，此举引发了令人不安的法律问题。
 
 ## New York Times Asia News
-* The president’s son, who helps run the Trump family’s business interests in digital currency, predicted that Bitcoin will someday exceed $1 million.
+* The U.S. said Samsung and SK Hynix can no longer ship American equipment to their production facilities in China without government licenses.
+* 美国表示，如果没有政府许可，三星和SK海力士不能再将美国设备运往其在中国的生产设施。
+* The student-led demonstrations in Indonesia are against President Prabowo Subianto’s economic policies and fatal police brutality.
+* 印尼学生领导的示威活动反对总统普拉博沃·苏比安托（ Prabowo Subianto ）的经济政策和致命的警察暴行。
+* President Trump’s repeated claims about having “solved” the India-Pakistan war infuriated Prime Minister Narendra Modi of India. And that was only the beginning.
+* 特朗普总统一再声称已经“解决”了印巴战争，这激怒了印度总理纳伦德拉·莫迪（ Narendra Modi ）。而这仅仅是个开始。
+* A series of World War II dramas about China’s fight against Japan is drawing audiences to their feet, and, in some cases, to tears. Some say it helps deflect public discontent.
+* 一系列关于中国与日本斗争的第二次世界大战戏剧正在吸引观众，在某些情况下，还会让观众流泪。有人说，这有助于转移公众的不满情绪。
+* With international galleries opening local outposts and a Centre Pompidou branch coming soon, Seoul continues to build its reputation as an art capital.
+* 随着国际画廊在当地开设前哨站，蓬皮杜中心分馆即将开业，首尔继续建立其作为艺术之都的声誉。
+* Xu Chao, 33, could face a “lengthy” prison sentence, the judge said. Most of his victims have not been identified.
+* 法官说， 33岁的徐超可能面临“长期”监禁。他的大多数受害者身份尚未确定。
+* He endorsed Mr. McCain’s presidential bid in 2008 after insisting, despite accounts to the contrary, that no Americans were tortured under his watch in the Vietnam War.
+* 他在2008年支持麦凯恩竞选总统，此前他坚持认为，尽管有相反的说法，但在越南战争中没有美国人在他的监视下遭受酷刑。
+* The president’s son, who helps run the Trump family’s business interests in digital currency, predicted that Bitcoin would someday exceed $1 million.
 * 总统的儿子帮助经营特朗普家族在数字货币方面的商业利益，他预测比特币总有一天会超过100万美元$。
-* Rising unemployment and inflation have driven the protests in Jakarta, the capital. The police responded with force on Thursday, killing a 21-year-old man.
-* 失业率和通货膨胀的上升推动了首都雅加达的抗议活动。警方周四以武力回应，杀死了一名21岁的男子。
+* Rising unemployment and inflation have driven days of demonstrations. A 21-year-old man was killed when police responded with force to a protest on Thursday.
+* 不断上升的失业率和通货膨胀推动了数天的示威活动。周四，一名21岁的男子在警方以武力回应抗议时被杀。
 * A driver’s license renewal, a box of specialty candy, even early Christmas presents — all are caught up in the confusion caused by a new Trump administration customs rule.
 * 驾驶执照续期、一盒特色糖果，甚至圣诞节早期的礼物，都陷入了特朗普政府新的海关规定所带来的混乱之中。
-* A move to force employers to pay into benefits for their employees has left people worrying that small businesses will close and jobs will be lost.
-* 迫使雇主为员工支付福利的举动让人们担心小企业会倒闭，工作岗位会流失。
-* While the country is a constitutional monarchy that holds regular elections, analysts say it is beholden to an unelected old guard.
-* 虽然该国是一个定期举行选举的君主立宪制国家，但分析人士表示，它受制于非民选的老卫士。
-* Paetongtarn Shinawatra became the third member of her family to be removed from the job, as the nation plunged into fresh political instability.
-* 随着国家陷入新的政治动荡， Paetongtarn Shinawatra成为家族中第三位被解雇的成员。
-* The assault, which killed at least 18 people, was the largest attack on the Ukrainian capital since President Trump met Vladimir Putin.
-* 这次袭击造成至少18人死亡，是自特朗普总统会见弗拉基米尔·普京（ Vladimir Putin ）以来对乌克兰首都发动的最大规模袭击。
-* They will join China’s leader, Xi Jinping, and about 20 other heads of state, some of whom share a strong distrust of the United States.
-* 他们将加入中国领导人习近平和其他约20位国家元首的行列，其中一些人对美国有着强烈的不信任。
-* The media tycoon, jailed since 2020, ran a now-defunct newspaper that was critical of the government.
-* 这位自2020年以来被判入狱的媒体大亨经营着一家现已解散的报纸，该报纸批评政府。
-* As the outspoken Hong Kong publisher awaits a verdict, his trial has become a test of China’s resolve to crush dissent, and of whether President Trump can free him.
-* 这位直言不讳的香港出版商正在等待判决，对他的审判考验了中国镇压异议的决心，以及特朗普总统能否释放他。
 
