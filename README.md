@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The periphery of the French capital is more vital than ever, and its creativity and dynamism have blurred old boundaries.
-* 法国首都的周边地区比以往任何时候都更加重要，其创造力和活力模糊了旧边界。
-* After a week of demonstrations, protesters on Sunday directly targeted the people they blamed for economic challenges and police brutality.
-* 经过一周的示威活动，周日的抗议者直接针对他们指责的经济挑战和警察暴行。
-* Millions of Syrians from destroyed places like Daraya feel they did everything possible to overthrow the Assad government, but they still await reconstruction aid.
-* 来自达拉亚等被摧毁地区的数百万叙利亚人认为他们尽了一切可能推翻阿萨德政府，但他们仍在等待重建援助。
-* With the leaders of Russia and India visiting, China’s president will show how he can use statecraft, military might and history to push for global influence.
-* 随着俄罗斯和印度领导人的访问，中国国家主席将展示他如何利用治国之道、军事力量和历史来推动全球影响力。
-* A festival known as Summer in Moscow showcases the city’s transformation into an ultramodern metropolis. But the feast can’t last forever.
-* 一个被称为莫斯科夏季的节日展示了这座城市向超现代大都市的转变。但盛宴不可能永远持续下去。
-* One attack was an effort to assassinate Abu Obeida, one of Hamas’s best-known spokesmen, Israeli officials said. It was not immediately clear if that succeeded.
-* 以色列官员说，其中一次袭击是为了暗杀哈马斯最著名的发言人之一阿布·奥贝达。目前尚不清楚这是否成功。
-* After months of negotiation and concessions, President Claudia Sheinbaum of Mexico has found herself in a cycle of pressure from the White House.
-* 经过数月的谈判和让步，墨西哥总统克劳迪娅·谢恩鲍姆（ Claudia Sheinbaum ）发现自己陷入了白宫的压力循环。
-* The remains of Ilan Weiss and Idan Shtivi were retrieved from Gaza as the government looks set to expand a military offensive there.
-* 伊兰·韦斯（ Ilan Weiss ）和伊丹·什蒂维（ Idan Shtivi ）的遗体是从加沙取回的，因为政府似乎准备在那里扩大军事进攻。
-* Ahmed al-Rahawi had led the Houthi cabinet in Yemen since 2024. His killing is unlikely to halt the Iranian-backed group’s missile attacks on Israel.
-* 艾哈迈德·拉哈维（ Ahmed al-Rahawi ）自2024年以来一直领导也门的胡塞内阁。他的杀戮不太可能阻止伊朗支持的组织对以色列的导弹袭击。
-* Thaksin Shinawatra had struck a grand bargain with Thailand’s establishment, analysts say, that allowed his daughter to ascend to the prime minister’s job.
-* 分析人士说，他信·西那瓦（ Thaksin Shinawatra ）与泰国建制派达成了一项重大协议，使他的女儿能够获得总理的职位。
+* The quake, near the border with Pakistan, injured more than 2,500 people, the authorities said. The death toll was expected to rise.
+* 当局说，地震发生在与巴基斯坦接壤的边境附近，造成2500多人受伤。死亡人数预计将上升。
+* Their display of friendship in China was aimed at projecting an alternative to U.S. global leadership, even as serious differences among them remain.
+* 他们在中国展示友谊的目的是为美国的全球领导地位提供一个替代方案，尽管他们之间仍然存在严重分歧。
+* A lurch in policy has shaken the India-U.S. economic alliance against China, leaving India little choice but to consider reversing its own strategy.
+* 政策的动荡动摇了印美对华经济联盟，使印度别无选择，只能考虑扭转自己的战略。
+* A shift toward pressing for a permanent cease-fire deal, alongside plans for a new offensive in Gaza City, means the fighting is unlikely to end soon.
+* 迫切需要达成永久停火协议的转变，以及在加沙城发动新攻势的计划，意味着战斗不太可能很快结束。
+* A giant fire last year consumed much of Canada’s Jasper National Park. Canadian scientists leading research into wildfires are using the blaze to learn lessons for the future.
+* 去年的一场大火吞噬了加拿大贾斯珀国家公园的大部分地区。领导野火研究的加拿大科学家正在利用大火为未来吸取教训。
+* The temporary block ended another last-minute flurry of legal action over the Trump administration’s immigration crackdown.
+* 临时封锁结束了特朗普政府对移民镇压的最后一刻法律诉讼。
+* Ukraine said it had arrested a suspect in the murder of the politician, who had voiced anti-Russian views. The authorities did not explain how the suspect was tied to Moscow.
+* 乌克兰表示，它已逮捕了一名涉嫌谋杀这名政治家的嫌疑人，这名政治家表达了反俄罗斯的观点。当局没有解释嫌疑人是如何与莫斯科联系在一起的。
+* The case of Orville Etoria highlights a tension in President Trump’s deportation agenda, in which immigrants can be sent abroad and detained indefinitely.
+* 奥维尔·埃托里亚（ Orville Etoria ）一案凸显了特朗普总统驱逐议程中的紧张局势，在这一议程中，移民可以被送往国外并被无限期拘留。
+* Thousands of residents and interns were protesting a government proposal that would have dramatically increased the number of medical students in the country.
+* 成千上万的居民和实习生正在抗议一项政府提案，该提案将大幅增加该国的医科学生人数。
+* The move will stop, at least temporarily, travel for medical treatment, attending university, visiting relatives or conducting business.
+* 此举将至少暂时停止旅行以接受治疗、上大学、探亲或开展业务。
 
 ## New York Times United States News
-* Investigators combing through piles of evidence from an attack on a Minneapolis church cautioned that these kinds of shooters often leave more questions than answers.
-* 调查人员梳理了明尼阿波利斯教堂袭击事件中的成堆证据，警告说，这类射手留下的问题往往多于答案。
-* Republicans and Democrats in Congress are wary of the potential consequences of President Trump’s drive to redraw districts.
-* 国会中的共和党人和民主党人对特朗普总统重新划分选区的潜在后果持谨慎态度。
-* Every summer, superfans of durian converge on a remote farm in western Puerto Rico to devour one of the world’s most polarizing fruits.
-* 每年夏天，榴莲的超级粉丝都会聚集在波多黎各西部的一个偏远农场，吞噬世界上最极端的水果之一。
-* The president is looking to add  troops to city streets while cutting funds for programs that work, experts and local officials say. But one idea, beautifying neighborhoods, has buy-in.
-* 专家和地方官员表示，总统正在寻求在城市街道上增加军队，同时削减工作计划的资金。但有一个想法，即美化街区，是可以接受的。
-* President Trump has cut hundreds of thousands of jobs from the federal work force, disproportionately affecting Black employees.
-* 特朗普总统从联邦劳动力中裁减了数十万个工作岗位，不成比例地影响了黑人员工。
-* After she lost her son to an overdose, Serena Fallon went on a quest to hold someone accountable for his death.
-* 在儿子因吸毒过量而去世后，塞雷娜·法伦（ Serena Fallon ）继续寻求对他的死亡负责。
-* He also wants to restrict mail-in voting and allow only paper ballots. The Constitution doesn’t give the president explicit authority over election law.
-* 他还希望限制邮寄投票，只允许纸质选票。宪法没有赋予总统对选举法的明确权力。
-* The man is accused of fatally shooting four people in a bar in Anaconda, Mont. He had led the police on an eight-day manhunt that rattled the community.
-* 这名男子被指控在蒙大拿州Anaconda的一家酒吧致命地射杀了四人。他带领警方进行了为期八天的搜捕，使社区感到不安。
-* In the first Mass since an assailant attacked Annunciation Catholic Church, parishioners gathered to grieve and support one another.
-* 在袭击者袭击天主教堂后的第一次弥撒中，教区居民聚集在一起互相悲伤和支持。
-* The cut by the Trump administration does not appear to have affected the handling of the church shooting this week, but state leaders say it weakens efforts to identify future threats.
-* 特朗普政府的裁员似乎没有影响本周对教堂枪击案的处理，但国家领导人表示，这削弱了确定未来威胁的努力。
+* The Supreme Court ruled in 1989 that burning an American flag is speech protected by the First Amendment. President Trump says it should be punished.
+* 最高法院在1989年裁定，焚烧美国国旗是受第一修正案保护的言论。特朗普总统说，它应该受到惩罚。
+* Republican governors who have mustered National Guard troops for deployment in blue-state cities may re-examine their deployments if federal intervention significantly brings crime down.
+* 如果联邦政府的干预大大降低了犯罪率，已经召集国民警卫队在蓝州城市部署的共和党州长可能会重新审查他们的部署。
+* Mining materials to make cement, gravel and a host of other common products require an explosive that is becoming more expensive and limited in supply.
+* 开采制造水泥、砾石和许多其他常见产品的材料需要一种越来越昂贵且供应有限的爆炸物。
+* The former special counsel, who led the Russia investigation during President Trump’s first term, has had difficulty speaking in recent months. A congressional committee dropped a request for Mr. Mueller to testify this week.
+* 这位前特别顾问在特朗普总统的第一个任期内领导了俄罗斯的调查，最近几个月难以发表讲话。一个国会委员会本周放弃了要求穆勒作证的请求。
+* His lawyers said the man had qualified for a special visa for crime victims and has been awaiting action on his application since 2018.
+* 他的律师说，这名男子有资格获得犯罪受害者的特殊签证，自2018年以来一直在等待对他的申请采取行动。
+* Mr. Giuliani, the former New York City mayor and lawyer for President Trump, suffered a fractured vertebra, his head of security said.
+* 他的安全主管表示，前纽约市市长、特朗普总统的律师朱利安尼椎骨骨折。
+* The victim, whose identity was unknown, was found “lying in a pool of blood” on Saturday night, officials said.
+* 官员说，受害者的身份不明，周六晚上被发现“躺在血泊中”。
+* One of the rioters’ lawyers wants to create a panel that would decide on financial damages for what the rioters believe were unfair prosecutions.
+* 暴乱分子的一名律师希望成立一个小组，就暴乱分子认为是不公平的起诉做出经济损失的决定。
+* Buford Pusser, who was portrayed in the 1973 hit movie, led people to believe that his wife was ambushed by his enemies, cold-case investigators in Tennessee said.
+* 田纳西州的冷案调查人员说， 1973年的热门电影中描绘的Buford Pusser让人们相信他的妻子被他的敌人伏击了。
+* Kristi Noem, the Homeland Security se
+* Kristi Noem ，国土安全部
 
 ## New York Times Asia News
-* After a week of demonstrations, protesters on Sunday directly targeted the people they blamed for economic challenges and police brutality.
-* 经过一周的示威活动，周日的抗议者直接针对他们指责的经济挑战和警察暴行。
+* Hundreds of people were killed, according to the Taliban government, and the death toll was expected to rise.
+* 据塔利班政府称，数百人丧生，死亡人数预计将上升。
+* Their display of friendship in China was aimed at projecting an alternative to U.S. global leadership, even as serious differences among them remain.
+* 他们在中国展示友谊的目的是为美国的全球领导地位提供一个替代方案，尽管他们之间仍然存在严重分歧。
+* The artist Fonki developed a graffiti style that blends ancient motifs with scenes of modern Cambodia.
+* 艺术家Fonki开发了一种涂鸦风格，将古老的图案与现代柬埔寨的场景融为一体。
+* Thousands of residents and interns were protesting a government proposal that would have dramatically increased the number of medical students in the country.
+* 成千上万的居民和实习生正在抗议一项政府提案，该提案将大幅增加该国的医科学生人数。
+* A lurch in policy has shaken the India-U.S. economic alliance against China, leaving India little choice but to consider reversing its own strategy.
+* 政策的动荡动摇了印美对华经济联盟，使印度别无选择，只能考虑扭转自己的战略。
+* The quake, near the border with Pakistan, injured more than 2,500 people, the authorities said. The death toll was expected to rise.
+* 当局说，地震发生在与巴基斯坦接壤的边境附近，造成2500多人受伤。死亡人数预计将上升。
+* Xi Jinping is using a summit with leaders like Narendra Modi and Vladimir Putin as an opportunity to pull countries away from the U.S.
+* 习近平正在利用与纳伦德拉·莫迪（ Narendra Modi ）和弗拉基米尔·普京（ Vladimir Putin ）等领导人的峰会作为将各国从美国拉开的机会
+* Housing communities and businesses that rely on agriculture have been destroyed in the country’s largest province.
+* 在该国最大的省份，依赖农业的住房社区和企业已被摧毁。
+* President Prabowo Subianto of Indonesia acknowledged the concerns of the protesters and said his government would make concessions.
+* 印度尼西亚总统普拉博沃·苏比安托（ Prabowo Subianto ）承认抗议者的担忧，并表示他的政府将做出让步。
 * The first closing of an Apple Store in mainland China hints at broader troubles facing the country’s shopping malls as developers open more of them despite a glut.
 * 中国大陆一家苹果商店的首次关闭暗示了该国购物中心面临的更广泛问题，尽管市场供过于求，但开发商仍开设了更多的购物中心。
-* With the leaders of Russia and India visiting, China’s president will show how he can use statecraft, military might and history to push for global influence.
-* 随着俄罗斯和印度领导人的访问，中国国家主席将展示他如何利用治国之道、军事力量和历史来推动全球影响力。
-* Thaksin Shinawatra had struck a grand bargain with Thailand’s establishment, analysts say, that allowed his daughter to ascend to the prime minister’s job.
-* 分析人士说，他信·西那瓦（ Thaksin Shinawatra ）与泰国建制派达成了一项重大协议，使他的女儿能够获得总理的职位。
-* The U.S. said Samsung and SK Hynix could no longer ship American equipment to their production facilities in China without government licenses.
-* 美国表示，如果没有政府许可，三星和SK海力士不能再将美国设备运往其在中国的生产设施。
-* In spreading protests against the president, three government workers died after jumping from a building that protesters set afire. A fourth person was attacked by a crowd and later died of his injuries.
-* 在散布针对总统的抗议活动中，三名政府工作人员从一座抗议者纵火的建筑物中跳下后死亡。第四个人被人群袭击，后来因受伤而死亡。
-* President Trump’s repeated claims about having “solved” the India-Pakistan war infuriated Prime Minister Narendra Modi of India. And that was only the beginning.
-* 特朗普总统一再声称已经“解决”了印巴战争，这激怒了印度总理纳伦德拉·莫迪（ Narendra Modi ）。而这仅仅是个开始。
-* A series of World War II dramas about China’s fight against Japan is drawing audiences to their feet, and, in some cases, to tears. Some say it helps deflect public discontent.
-* 一系列关于中国与日本斗争的第二次世界大战戏剧正在吸引观众，在某些情况下，还会让观众流泪。有人说，这有助于转移公众的不满情绪。
-* Afghanistan was on a timid recovery path. But four years after the Taliban retook power, it has been badly hit by aid cuts and an inflow of two million Afghans forced out of Iran and Pakistan.
-* 阿富汗正走在一条怯懦的复苏道路上。但在塔利班夺回政权四年后，由于援助削减和200万阿富汗人被迫离开伊朗和巴基斯坦，它受到了严重打击。
-* With international galleries opening local outposts and a Centre Pompidou branch coming soon, Seoul continues to build its reputation as an art capital.
-* 随着国际画廊在当地开设前哨站，蓬皮杜中心分馆即将开业，首尔继续建立其作为艺术之都的声誉。
 
