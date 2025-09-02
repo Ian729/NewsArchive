@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The quake, near the border with Pakistan, injured more than 2,500 people, the authorities said. The death toll was expected to rise.
-* 当局说，地震发生在与巴基斯坦接壤的边境附近，造成2500多人受伤。死亡人数预计将上升。
-* Their display of friendship in China was aimed at projecting an alternative to U.S. global leadership, even as serious differences among them remain.
-* 他们在中国展示友谊的目的是为美国的全球领导地位提供一个替代方案，尽管他们之间仍然存在严重分歧。
+* Eurasian leaders eagerly met the Russian leader at a summit this week, as President Trump has helped ease his isolation over the war in Ukraine.
+* 欧亚领导人在本周的一次峰会上热切地会见了俄罗斯领导人，因为特朗普总统帮助缓解了他对乌克兰战争的孤立。
+* China will mark Japan’s defeat in World War II with a parade of missiles, soldiers and leaders like Kim Jong-un of North Korea and Vladimir Putin of Russia.
+* 中国将以朝鲜的金正恩和俄罗斯的弗拉基米尔·普京等导弹、士兵和领导人的阅兵式来纪念日本在第二次世界大战中的失败。
+* Kyiv sees a well-equipped army as a stronger deterrent to Moscow than any Western pledges to defend it. It is working to attract billions to buy more arms.
+* 基辅认为，一支装备精良的军队比任何西方捍卫它的承诺都更能威慑莫斯科。它正在努力吸引数十亿美元购买更多武器。
+* Brazil’s former president, Jair Bolsonaro, stands trial on Tuesday, accused of plotting a coup after losing the 2022 elections. Evidence suggests this is how he tried to do it.
+* 巴西前总统贾尔·博尔索纳罗（ Jair Bolsonaro ）周二接受审判，被指控在2022年大选失利后策划政变。有证据表明，他就是这么做的。
+* The landslide leveled a village in the remote Marra mountains, the Sudan Liberation Movement/Army said. It asked international aid organizations for help in recovering bodies.
+* 苏丹解放运动/苏丹解放军表示，山体滑坡夷平了偏远马拉山脉的一个村庄。它要求国际援助组织帮助寻找尸体。
+* Beijing has run out of patience with companies slashing prices, and is urging restraint. But fierce competition is also producing a surge of innovation.
+* 北京对公司大幅降价已经没有耐心，并敦促保持克制。但激烈的竞争也带来了创新的激增。
+* At least 1,400 people were killed and more than 3,100 others injured, according to the Afghan authorities, and the death toll was expected to rise.
+* 据阿富汗当局称，至少有1400人死亡， 3100多人受伤，预计死亡人数将上升。
+* Under pressure from the government and each other, some of Mexico’s most powerful criminal groups are amassing homemade mortars, land mines, rocket-propelled grenades and bomber drones.
+* 在政府和彼此的压力下，墨西哥一些最强大的犯罪集团正在积累自制迫击炮、地雷、火箭榴弹和轰炸机。
 * A lurch in policy has shaken the India-U.S. economic alliance against China, leaving India little choice but to consider reversing its own strategy.
 * 政策的动荡动摇了印美对华经济联盟，使印度别无选择，只能考虑扭转自己的战略。
 * A shift toward pressing for a permanent cease-fire deal, alongside plans for a new offensive in Gaza City, means the fighting is unlikely to end soon.
 * 迫切需要达成永久停火协议的转变，以及在加沙城发动新攻势的计划，意味着战斗不太可能很快结束。
-* A giant fire last year consumed much of Canada’s Jasper National Park. Canadian scientists leading research into wildfires are using the blaze to learn lessons for the future.
-* 去年的一场大火吞噬了加拿大贾斯珀国家公园的大部分地区。领导野火研究的加拿大科学家正在利用大火为未来吸取教训。
-* The temporary block ended another last-minute flurry of legal action over the Trump administration’s immigration crackdown.
-* 临时封锁结束了特朗普政府对移民镇压的最后一刻法律诉讼。
-* Ukraine said it had arrested a suspect in the murder of the politician, who had voiced anti-Russian views. The authorities did not explain how the suspect was tied to Moscow.
-* 乌克兰表示，它已逮捕了一名涉嫌谋杀这名政治家的嫌疑人，这名政治家表达了反俄罗斯的观点。当局没有解释嫌疑人是如何与莫斯科联系在一起的。
-* The case of Orville Etoria highlights a tension in President Trump’s deportation agenda, in which immigrants can be sent abroad and detained indefinitely.
-* 奥维尔·埃托里亚（ Orville Etoria ）一案凸显了特朗普总统驱逐议程中的紧张局势，在这一议程中，移民可以被送往国外并被无限期拘留。
-* Thousands of residents and interns were protesting a government proposal that would have dramatically increased the number of medical students in the country.
-* 成千上万的居民和实习生正在抗议一项政府提案，该提案将大幅增加该国的医科学生人数。
-* The move will stop, at least temporarily, travel for medical treatment, attending university, visiting relatives or conducting business.
-* 此举将至少暂时停止旅行以接受治疗、上大学、探亲或开展业务。
 
 ## New York Times United States News
-* The Supreme Court ruled in 1989 that burning an American flag is speech protected by the First Amendment. President Trump says it should be punished.
-* 最高法院在1989年裁定，焚烧美国国旗是受第一修正案保护的言论。特朗普总统说，它应该受到惩罚。
-* Republican governors who have mustered National Guard troops for deployment in blue-state cities may re-examine their deployments if federal intervention significantly brings crime down.
-* 如果联邦政府的干预大大降低了犯罪率，已经召集国民警卫队在蓝州城市部署的共和党州长可能会重新审查他们的部署。
-* Mining materials to make cement, gravel and a host of other common products require an explosive that is becoming more expensive and limited in supply.
-* 开采制造水泥、砾石和许多其他常见产品的材料需要一种越来越昂贵且供应有限的爆炸物。
-* The former special counsel, who led the Russia investigation during President Trump’s first term, has had difficulty speaking in recent months. A congressional committee dropped a request for Mr. Mueller to testify this week.
-* 这位前特别顾问在特朗普总统的第一个任期内领导了俄罗斯的调查，最近几个月难以发表讲话。一个国会委员会本周放弃了要求穆勒作证的请求。
-* His lawyers said the man had qualified for a special visa for crime victims and has been awaiting action on his application since 2018.
-* 他的律师说，这名男子有资格获得犯罪受害者的特殊签证，自2018年以来一直在等待对他的申请采取行动。
-* Mr. Giuliani, the former New York City mayor and lawyer for President Trump, suffered a fractured vertebra, his head of security said.
-* 他的安全主管表示，前纽约市市长、特朗普总统的律师朱利安尼椎骨骨折。
-* The victim, whose identity was unknown, was found “lying in a pool of blood” on Saturday night, officials said.
-* 官员说，受害者的身份不明，周六晚上被发现“躺在血泊中”。
-* One of the rioters’ lawyers wants to create a panel that would decide on financial damages for what the rioters believe were unfair prosecutions.
-* 暴乱分子的一名律师希望成立一个小组，就暴乱分子认为是不公平的起诉做出经济损失的决定。
-* Buford Pusser, who was portrayed in the 1973 hit movie, led people to believe that his wife was ambushed by his enemies, cold-case investigators in Tennessee said.
-* 田纳西州的冷案调查人员说， 1973年的热门电影中描绘的Buford Pusser让人们相信他的妻子被他的敌人伏击了。
-* Kristi Noem, the Homeland Security se
-* Kristi Noem ，国土安全部
+* Lawmakers are continuing their inquiry into Mr. Epstein, the disgraced financier, despite the Trump administration’s efforts to quell public demand for information.
+* 尽管特朗普政府努力压制公众对信息的需求，但立法者仍在继续调查这位声名狼藉的金融家爱泼斯坦。
+* President Trump’s announcement came days after Rudolph W. Giuliani, his former lawyer and a onetime New York City mayor, was hurt in a car accident.
+* 特朗普总统宣布这一消息的几天前，他的前律师、曾任纽约市市长的鲁道夫· W ·朱利安尼(Rudolph W. Giuliani)在一次车祸中受伤。
+* The president and his advisers have suggested they will fight a federal appeals court’s ruling that found many of the administration’s tariffs to be illegal.
+* 总统及其顾问表示，他们将与联邦上诉法院的裁决作斗争，该裁决发现政府的许多关税都是非法的。
+* A new generation of activists has used extreme tactics and viral video to challenge farmers in Sonoma County, a region known for some of the industry’s most humane practices.
+* 新一代活动人士使用极端策略和病毒视频来挑战索诺玛县的农民，索诺玛县以该行业最人性化的做法而闻名。
+* David Warrington, the top lawyer inside the West Wing, focuses on “the art of the possible,” as one Trump adviser said.
+* 正如特朗普的一位顾问所说，白宫西翼的顶级律师大卫·沃灵顿（ David Warrington ）专注于“可能性的艺术”。
+* World Liberty Financial’s cryptocurrency token fell short of investors’ hopes. But a previous deal paved the way for a payment to the Trump family of potentially hundreds of millions of dollars.
+* World Liberty Financial的加密货币代币没有达到投资者的希望。但之前的交易为向特朗普家族支付可能数亿美元的款项铺平了道路。
+* The bodies of a man and a woman were found on Monday, the authorities said. The discovery came after heavy thunderstorms struck the area on Sunday evening.
+* 当局表示，周一发现了一名男子和一名妇女的尸体。这一发现是在周日晚上强雷暴袭击该地区之后发现的。
+* The demonstrations were part of the continuing effort by Trump opponents to try to pressure his administration, even if many events were modest in size.
+* 这些示威活动是特朗普反对者试图向他的政府施压的持续努力的一部分，即使许多事件的规模不大。
+* In 1951, always an adventurer, he was the second person to walk the trail in a “thru-hike,” from Georgia to Maine, in an arduous 123 days. He later met the first to do so.
+* 1951年，他一直是一名冒险家，在艰苦的123天里，他是第二个从佐治亚州到缅因州进行“直通式徒步旅行”的人。后来他遇到了第一个这样做的人。
+* The president, who has targeted collective bargaining contracts for nearly one million government employees, has said their functions touch on national security.
+* 总统的目标是近100万政府雇员的集体谈判合同，他表示，他们的职能涉及国家安全。
 
 ## New York Times Asia News
-* Hundreds of people were killed, according to the Taliban government, and the death toll was expected to rise.
-* 据塔利班政府称，数百人丧生，死亡人数预计将上升。
+* The North Korean leader’s favorite mode of transportation provides him — like his father and grandfather before him — with tight security. But it’s no express train.
+* 像他的父亲和祖父一样，朝鲜领导人最喜欢的交通方式为他提供了严密的安全保障。但这不是特快列车。
+* Takeshi Niinami has stepped down from his post following a police investigation, underscoring Japan’s zero-tolerance drug policies.
+* 新波武（ Takeshi Niinami ）在警方调查后辞职，突显了日本的零容忍毒品政策。
+* The landslide leveled a village in the remote Marra mountains, the Sudan Liberation Movement/Army said. It asked international aid organizations for help in recovering bodies.
+* 苏丹解放运动/苏丹解放军表示，山体滑坡夷平了偏远马拉山脉的一个村庄。它要求国际援助组织帮助寻找尸体。
+* Beijing has run out of patience with companies slashing prices, and is urging restraint. But fierce competition is also producing a surge of innovation.
+* 北京对公司大幅降价已经没有耐心，并敦促保持克制。但激烈的竞争也带来了创新的激增。
+* China will mark Japan’s defeat in World War II with a parade of missiles, soldiers and leaders like Kim Jong-un of North Korea and Vladimir Putin of Russia.
+* 中国将以朝鲜的金正恩和俄罗斯的弗拉基米尔·普京等导弹、士兵和领导人的阅兵式来纪念日本在第二次世界大战中的失败。
+* Hundreds of people were killed and at least 2,500 others were injured in a difficult to reach mountainous region. Officials warned many more people may still be awaiting rescue.
+* 在一个难以到达的山区，数百人死亡，至少2500人受伤。官员们警告说，还有更多的人可能仍在等待救援。
+* Rescue workers struggled to reach isolated areas in eastern Afghanistan after a magnitude 6.0 quake.
+* 在6.0级地震后，救援人员难以到达阿富汗东部的偏远地区。
+* At least 1,400 people were killed and more than 3,100 others injured, according to the Afghan authorities, and the death toll was expected to rise.
+* 据阿富汗当局称，至少有1400人死亡， 3100多人受伤，预计死亡人数将上升。
 * Their display of friendship in China was aimed at projecting an alternative to U.S. global leadership, even as serious differences among them remain.
 * 他们在中国展示友谊的目的是为美国的全球领导地位提供一个替代方案，尽管他们之间仍然存在严重分歧。
 * The artist Fonki developed a graffiti style that blends ancient motifs with scenes of modern Cambodia.
 * 艺术家Fonki开发了一种涂鸦风格，将古老的图案与现代柬埔寨的场景融为一体。
-* Thousands of residents and interns were protesting a government proposal that would have dramatically increased the number of medical students in the country.
-* 成千上万的居民和实习生正在抗议一项政府提案，该提案将大幅增加该国的医科学生人数。
-* A lurch in policy has shaken the India-U.S. economic alliance against China, leaving India little choice but to consider reversing its own strategy.
-* 政策的动荡动摇了印美对华经济联盟，使印度别无选择，只能考虑扭转自己的战略。
-* The quake, near the border with Pakistan, injured more than 2,500 people, the authorities said. The death toll was expected to rise.
-* 当局说，地震发生在与巴基斯坦接壤的边境附近，造成2500多人受伤。死亡人数预计将上升。
-* Xi Jinping is using a summit with leaders like Narendra Modi and Vladimir Putin as an opportunity to pull countries away from the U.S.
-* 习近平正在利用与纳伦德拉·莫迪（ Narendra Modi ）和弗拉基米尔·普京（ Vladimir Putin ）等领导人的峰会作为将各国从美国拉开的机会
-* Housing communities and businesses that rely on agriculture have been destroyed in the country’s largest province.
-* 在该国最大的省份，依赖农业的住房社区和企业已被摧毁。
-* President Prabowo Subianto of Indonesia acknowledged the concerns of the protesters and said his government would make concessions.
-* 印度尼西亚总统普拉博沃·苏比安托（ Prabowo Subianto ）承认抗议者的担忧，并表示他的政府将做出让步。
-* The first closing of an Apple Store in mainland China hints at broader troubles facing the country’s shopping malls as developers open more of them despite a glut.
-* 中国大陆一家苹果商店的首次关闭暗示了该国购物中心面临的更广泛问题，尽管市场供过于求，但开发商仍开设了更多的购物中心。
 
