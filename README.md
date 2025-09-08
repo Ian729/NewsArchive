@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The embattled leader is trying to head off a deep split in his party over a right-wing political surge, a weakened economy and turbulent trade relations with the United States.
-* 这位四面楚歌的领导人正试图阻止他的党内因右翼政治激增、经济疲软和与美国的贸易关系动荡而产生深刻分歧。
-* Carlo, who died at 15, was canonized alongside Pier Giorgio Frassati, who also died young. The church is looking to the two saints to inspire new generations of Catholics.
-* Carlo在15岁去世，与Pier Giorgio Frassati一起被册封，后者也在年轻时去世。教会希望这两位圣人激励新一代的天主教徒。
-* The attack set a government building on fire in an area of the Ukrainian capital that is rarely damaged.
-* 这次袭击在乌克兰首都一处很少受损的地区放火焚烧了一栋政府大楼。
-* Israel’s war in Gaza has displaced most of the 2.2 million Palestinian residents from their homes. Many of them fear it will be permanent, a reprise of the Nakba.
-* 以色列在加沙的战争使220万巴勒斯坦居民中的大多数人流离失所。他们中的许多人担心这将是永久性的，是大灾难的再现。
-* The South Korean government said on Sunday that it would send a charter plane to the United States to retrieve hundreds of workers detained in an immigration raid.
-* 韩国政府周日表示，它将派遣一架包机前往美国，以收回在移民突袭中被拘留的数百名工人。
-* A 12-day war in June upended the shadow war rivalry between Israel and Iran. Some Iranians want to strike back, others want to move on.
-* 6月为期12天的战争颠覆了以色列和伊朗之间的影子战争竞争。一些伊朗人想要反击，另一些人想要继续前进。
-* Portuguese authorities released a highly anticipated preliminary report into the disaster, which killed 16 people this week.
-* 葡萄牙当局发布了一份备受期待的灾难初步报告，这场灾难本周造成16人死亡。
-* The British government condemned the remarks, made without evidence by the cardiologist, Dr. Aseem Malhotra, at an event for the anti-immigration party led by Nigel Farage.
-* 英国政府谴责心脏病专家阿西姆·马尔霍特拉（ Aseem Malhotra ）博士在奈杰尔·法拉奇（ Nigel Farage ）领导的反移民党活动中发表的没有证据的言论。
-* But the vote will not lead to a repeat of the walkout that snarled air travel in Canada last month.
-* 但这次投票不会导致上个月在加拿大骚扰航空旅行的罢工重演。
-* The remains of people killed and left in mass graves in the waning days of the war are being given dignified burials.
-* 在战争结束的日子里，被杀害并留在乱葬坑中的人们的遗体正在被体面地埋葬。
+* A vote of confidence scheduled for Monday appears set to topple Prime Minister François Bayrou and put more pressure on President Emmanuel Macron.
+* 定于周一举行的信任投票似乎将推翻总理弗朗索瓦·贝鲁(François Bayrou) ，并对总统埃马纽埃尔·马克龙(Emmanuel Macron)施加更大
+* The Israeli police described the incident as a terrorist attack and said that the perpetrators had been killed at the scene.
+* 以色列警方将此事件描述为恐怖袭击，并表示肇事者已在现场被杀。
+* Japan, one of the world’s most stable democracies, is experiencing unusually rapid change. Shigeru Ishiba’s departure could herald a leadership crisis.
+* 日本是世界上最稳定的民主国家之一，正在经历异常迅速的变化。石叶茂的离职可能预示着一场领导力危机。
+* Erin Patterson was found guilty of murdering three of her husband’s relatives and trying to kill a fourth by serving them deadly mushrooms.
+* 艾琳·帕特森（ Erin Patterson ）因谋杀丈夫的三名亲戚并试图通过提供致命的蘑菇杀死第四名亲戚而被判有罪。
+* Tensions are heating up in Brazil as the nation enters the final week of former President Jair Bolsonaro’s trial on attempted coup charges.
+* 随着巴西进入前总统贾尔·博尔索纳罗（ Jair Bolsonaro ）因未遂政变指控而受审的最后一周，该国的紧张局势正在升温。
+* A days-long strike on the London Underground over pay and conditions began in earnest on Monday, threatening to upend commuter journeys for most of the week.
+* 伦敦地铁长达数天的工资和条件罢工于周一开始，有可能在本周的大部分时间里颠覆通勤行程。
+* Ukrainians said it was the first time a key building in Kyiv’s government district had been damaged since the war began. Russia has kept attacking despite Trump administration efforts at peace talks.
+* 乌克兰人表示，这是自战争开始以来，基辅政府区的一座关键建筑物首次遭到破坏。尽管特朗普政府在和平谈判中做出了努力，但俄罗斯仍在继续攻击。
+* The profile of U.S. volunteers in the Ukrainian military has changed, shifting more toward people without military experience and those who saw few prospects for themselves at home.
+* 美国志愿者在乌克兰军队中的形象发生了变化，更多地转向没有军事经验的人和那些在国内几乎看不到自己前景的人。
+* A large-scale Israeli assault on the city in northern Gaza could push hundreds of thousands of Palestinians southward toward Egypt’s border.
+* 以色列对加沙北部城市的大规模袭击可能会将数十万巴勒斯坦人向南推向埃及边境。
+* The strike by the Yemeni militants followed the Israeli killing of several of their top leaders a week ago.
+* 也门武装分子的罢工是在一周前以色列杀害其几名高级领导人之后发生的。
 
 ## New York Times United States News
-* Several hundred workers, most of them South Korean nationals, were detained at the construction site of a sprawling electric vehicle battery plant on Thursday.
-* 周四，数百名工人在一家庞大的电动汽车电池厂的建筑工地被拘留，其中大多数是韩国国民。
-* Signs bearing President Trump’s name have gone up at major construction projects financed by the 2021 law, which he strenuously opposed ahead of its passage.
-* 在2021年法律资助的重大建设项目上，已经出现了以特朗普总统的名字命名的迹象，他在该法案通过之前强烈反对。
-* A new crop of candidates has turned away from the aspirational “American dream” message of campaigns past and is leaning into how difficult life can be for working people — including them.
-* 一批新的候选人已经放弃了过去竞选活动的雄心勃勃的“美国梦”信息，转而关注包括他们在内的劳动人民的生活有多么艰难。
-* He started fighting wildfires as a teenager. After inhaling smoke on the front lines for six seasons, he faced an impossible choice.
-* 他十几岁时就开始与野火作斗争。在前线吸入烟雾六个赛季后，他面临着一个不可能的选择。
-* On national security, spending and oversight, the president continues to undercut the legislative branch, and Republicans in charge have done little to stop him.
-* 在国家安全、支出和监督方面，总统继续削弱立法部门，负责的共和党人几乎没有采取任何措施来阻止他。
-* The department had assigned officers to protect the former vice president after her Secret Service detail was terminated. Some criticized the use of the officers.
-* 在她的特勤局细节被终止后，该部门已指派官员保护这位前副总统。一些人批评使用军官。
-* The raid at a Georgia plant being built with heavy investment from South Korea reveals strain as a rush to expand manufacturing in the United States clashes with an immigration crackdown.
-* 对韩国大力投资建造的佐治亚州工厂的突袭显示，急于扩大美国制造业的压力与移民镇压发生冲突。
-* In a social media post, President Trump said Chicago was “about to find out why it’s called the Department of WAR.” Illinois officials condemned the message.
-* 特朗普总统在一篇社交媒体帖子中表示，芝加哥“即将找出它为什么被称为战争部。”伊利诺伊州官员谴责了这一消息。
-* Eric Singer left his Ohio home on his bicycle, never to be seen again. With the help of advances in DNA research, he was finally found.
-* 埃里克·辛格（ Eric Singer ）骑着自行车离开了俄亥俄州的家，再也没有出现过。在DNA研究进展的帮助下，他终于被发现了。
-* The justice’s comments reflected tensions within the judiciary, as trial judges struggle to interpret the Supreme Court’s often cryptic emergency orders.
-* 法官的评论反映了司法机构内部的紧张局势，因为审判法官很难解释最高法院经常含糊不清的紧急命令。
+* Foreign manufacturers were already dealing with tariffs and the end of E.V. tax credits. Now, they face greater scrutiny of their workers’ immigration status.
+* 外国制造商已经在处理关税和电动汽车税收抵免的结束。现在，他们面临着对工人移民身份的更严格审查。
+* Ryan Routh has pleaded not guilty and plans to defend himself in court. The most serious charge against him carries a sentence of up to life in prison.
+* Ryan Routh已表示不认罪，并计划在法庭上为自己辩护。对他最严重的指控是终身监禁。
+* As ICE detains more immigrants and detention centers exceed capacity, the agency is turning to local jails. Allison McCann, a reporter and graphics editor for The New York Times, visited one jail holding detainees in Ohio.
+* 随着ICE拘留更多的移民和拘留中心超过容量，该机构正在转向当地监狱。《纽约时报》的记者和图形编辑艾莉森·麦肯（ Allison McCann ）访问了俄亥俄州一所关押被拘留者的监狱。
+* Residents who love fitness and socializing — and can afford to play — cannot get enough of padel, the racket sport with international cachet.
+* 喜欢健身和社交的居民—并且有能力玩耍—无法获得足够的PADEL ，这是一项具有国际声望的球拍运动。
+* The group was to bestow the Sylvanus Thayer Award on the actor, but it said it was canceling the event to focus on preparing academy cadets for the future.
+* 该组织将向该演员颁发Sylvanus Thayer奖，但它表示将取消该活动，以专注于为未来的学院学员做好准备。
+* He left the House of Representatives while struggling with a crack addiction, his political career seemingly over. Actually, it had just begun.
+* 他在与吸毒成瘾作斗争的同时离开了众议院，他的政治生涯似乎结束了。其实，这才刚刚开始。
+* With the president in attendance at Arthur Ashe Stadium, the men’s final began as hundreds of people were still waiting to go through security screening.
+* 随着总统出席亚瑟·阿什体育场，男子决赛开始了，数百人仍在等待通过安全检查。
+* Mr. Moore said in a TV interview that he “is not running for president.” The first-term governor, who has traded barbs with President Trump, said he was excited about seeking a second term.
+* 摩尔在接受电视采访时说，他“没有竞选总统。“第一任州长曾与特朗普总统交换过意见，他说他对寻求第二个任期感到兴奋。
+* The president had said on social media that Chicago was “about to find out why it’s called the Department of WAR,” drawing a fierce rebuke from Democrats.
+* 总统曾在社交媒体上表示，芝加哥“即将找出它为什么被称为战争部” ，这引起了民主党人的强烈谴责。
+* By promoting suspicions about the institutions he oversees, critics say Robert F. Kennedy Jr. is jeopardizing public health. He says he is pursuing transparency.
+* 批评人士说，小罗伯特· F ·肯尼迪（ Robert F. Kennedy Jr. ）通过促进对他所监管机构的怀疑，正在危及公共卫生。他说他正在追求透明度。
 
 ## New York Times Asia News
+* Protesters stormed the Parliament complex days after the government banned most social media platforms. Dozens of others were injured.
+* 在政府禁止大多数社交媒体平台的几天后，抗议者冲进了议会大楼。另有数十人受伤。
+* ‘Momijigari’ means hunting autumn leaves and people consult forecasts and follow predictions to find the most beautiful displays. This itinerary adds history and a sense of spirituality to the colors.
+* “Momijigari”的意思是狩猎秋天的叶子，人们会参考预测并遵循预测，以找到最美丽的展示品。此行程为色彩增添了历史感和灵性感。
+* Tom Phillips, who vanished with his three children in 2021, was killed after he shot a police officer on Monday, the authorities said. His children were found safe and unharmed.
+* 当局表示，汤姆·菲利普斯（ Tom Phillips ）于2021年与他的三个孩子一起失踪，他在周一开枪打死一名警察后被杀。他的孩子们被发现是安全的，没有受到伤害。
+* Japan, one of the world’s most stable democracies, is experiencing unusually rapid change. Shigeru Ishiba’s departure could herald a leadership crisis.
+* 日本是世界上最稳定的民主国家之一，正在经历异常迅速的变化。石叶茂的离职可能预示着一场领导力危机。
+* Middle-class Indians have been plowing their savings into the stock market, making it far less vulnerable to the shocks of a trade war.
+* 印度中产阶级一直在将储蓄投入股市，使其更不容易受到贸易战的冲击。
+* Our correspondent found a sense of apprehension in the country after the 12-day war with Israel.
+* 在与以色列为期12天的战争之后，我们的记者在该国发现了一种恐惧感。
+* Critics worry a new law could curb freedom of expression, affect tourism and cut communication with the many Nepalis who work abroad.
+* 批评人士担心，新法律可能会限制言论自由，影响旅游业，并切断与许多在国外工作的尼泊尔人的沟通。
 * The South Korean government said on Sunday that it would send a charter plane to the United States to retrieve hundreds of workers detained in an immigration raid.
 * 韩国政府周日表示，它将派遣一架包机前往美国，以收回在移民突袭中被拘留的数百名工人。
 * The embattled leader is trying to head off a deep split in his party over a right-wing political surge, a weakened economy and turbulent trade relations with the United States.
 * 这位四面楚歌的领导人正试图阻止他的党内因右翼政治激增、经济疲软和与美国的贸易关系动荡而产生深刻分歧。
 * The unraveling of relations between the United States and India has convinced many Indian officials that the country should return to its difficult balancing act of nonalignment.
 * 美国和印度之间关系的破裂使许多印度官员相信，该国应该恢复其不结盟的艰难平衡行为。
-* A plan to buy warships shows how Europe is bolstering defenses amid worries about Russian aggression and President Trump’s isolationist policies, analysts say.
-* 分析人士表示，一项购买军舰的计划表明，在对俄罗斯侵略和特朗普总统孤立主义政策的担忧中，欧洲正在加强防御。
-* The country said it had sent diplomats to the site, and South Korea’s foreign minister said he might travel to Washington himself to address the matter.
-* 该国表示已派遣外交官前往该地点，韩国外交部长表示，他可能会亲自前往华盛顿处理此事。
-* A new class of aircraft developed with Boeing, it will be the first military plane designed and manufactured in the country in half a century.
-* 这是与波音公司合作开发的一种新型飞机，将成为该国半个世纪以来设计和制造的第一架军用飞机。
-* Noh was once the entertainment of medieval warriors. Today, remote Sado Islanders embrace one of the world’s oldest surviving types of drama.
-* 能曾经是中世纪战士的娱乐场所。如今，偏远的佐渡岛民欣赏着世界上现存最古老的戏剧类型之一。
-* A new law in Hong Kong could pave the way for digital currencies tied to China.
-* 香港的一项新法律可能会为与中国挂钩的数字货币铺平道路。
-* The Trump administration failed to tell lawmakers about a 2019 SEAL Team 6 incursion into North Korean territory that went awry.
-* 特朗普政府未能告诉立法者2019年海豹突击队6号入侵朝鲜领土的情况。
-* The 2019 operation, greenlit by President Trump, sought a strategic edge. It left unarmed North Koreans dead.
-* 2019年的行动由特朗普总统点亮绿灯，寻求战略优势。它使手无寸铁的朝鲜人丧生。
 
