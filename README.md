@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* A vote of confidence scheduled for Monday appears set to topple Prime Minister François Bayrou and put more pressure on President Emmanuel Macron.
-* 定于周一举行的信任投票似乎将推翻总理弗朗索瓦·贝鲁(François Bayrou) ，并对总统埃马纽埃尔·马克龙(Emmanuel Macron)施加更大
-* The Israeli police described the incident as a terrorist attack and said that the perpetrators had been killed at the scene.
-* 以色列警方将此事件描述为恐怖袭击，并表示肇事者已在现场被杀。
-* Japan, one of the world’s most stable democracies, is experiencing unusually rapid change. Shigeru Ishiba’s departure could herald a leadership crisis.
-* 日本是世界上最稳定的民主国家之一，正在经历异常迅速的变化。石叶茂的离职可能预示着一场领导力危机。
-* Erin Patterson was found guilty of murdering three of her husband’s relatives and trying to kill a fourth by serving them deadly mushrooms.
-* 艾琳·帕特森（ Erin Patterson ）因谋杀丈夫的三名亲戚并试图通过提供致命的蘑菇杀死第四名亲戚而被判有罪。
-* Tensions are heating up in Brazil as the nation enters the final week of former President Jair Bolsonaro’s trial on attempted coup charges.
-* 随着巴西进入前总统贾尔·博尔索纳罗（ Jair Bolsonaro ）因未遂政变指控而受审的最后一周，该国的紧张局势正在升温。
-* A days-long strike on the London Underground over pay and conditions began in earnest on Monday, threatening to upend commuter journeys for most of the week.
-* 伦敦地铁长达数天的工资和条件罢工于周一开始，有可能在本周的大部分时间里颠覆通勤行程。
-* Ukrainians said it was the first time a key building in Kyiv’s government district had been damaged since the war began. Russia has kept attacking despite Trump administration efforts at peace talks.
-* 乌克兰人表示，这是自战争开始以来，基辅政府区的一座关键建筑物首次遭到破坏。尽管特朗普政府在和平谈判中做出了努力，但俄罗斯仍在继续攻击。
-* The profile of U.S. volunteers in the Ukrainian military has changed, shifting more toward people without military experience and those who saw few prospects for themselves at home.
-* 美国志愿者在乌克兰军队中的形象发生了变化，更多地转向没有军事经验的人和那些在国内几乎看不到自己前景的人。
-* A large-scale Israeli assault on the city in northern Gaza could push hundreds of thousands of Palestinians southward toward Egypt’s border.
-* 以色列对加沙北部城市的大规模袭击可能会将数十万巴勒斯坦人向南推向埃及边境。
-* The strike by the Yemeni militants followed the Israeli killing of several of their top leaders a week ago.
-* 也门武装分子的罢工是在一周前以色列杀害其几名高级领导人之后发生的。
+* A day after violent clashes left at least 19 people dead, Prime Minister K.P. Sharma Oli and other ministers quit, with no clear path to assuaging young protesters in the capital.
+* 在暴力冲突导致至少19人死亡的第二天，总理夏尔马·奥利（ K.P. Sharma Oli ）和其他部长辞职，没有明确的途径来安抚首都的年轻抗议者。
+* Hundreds of thousands will have to decide whether to risk staying put or fleeing to already ruined and overcrowded areas in the south as Israel looks set to launch a full invasion.
+* 由于以色列似乎将发动全面入侵，数十万人将不得不决定是留在原地还是逃往南部已经被破坏和过度拥挤的地区。
+* Officials in Tunisia said there was no evidence of an attack on the ship, which the Global Sumud Flotilla hoped to use to bring humanitarian goods to Gaza.
+* 突尼斯官员表示，没有证据表明该船遭到袭击，全球萨穆德船队希望利用该船将人道主义物资运往加沙。
+* Each day of war risks a strike on sites that could scatter radioactive material. Officials say one laboratory near the front has been hit dozens of times.
+* 每天的战争都有可能对可能散布放射性物质的地点发动袭击。官员说，前线附近的一个实验室已被击中数十次。
+* President Emmanuel Macron is expected to appoint a new prime minister, rejecting calls for elections or his resignation.
+* 预计总统埃马纽埃尔·马克龙（ Emmanuel Macron ）将任命一位新总理，拒绝选举或辞职的呼吁。
+* The Supreme Court’s ruling, stemming from past convictions on charges of corruption and abuse of power, was the latest blow to Thaksin Shinawatra.
+* 最高法院的裁决源于过去对腐败和滥用权力指控的定罪，是对他信的最新打击。
+* What to know about the disruption to the city’s underground transit system this week, and alternative ways to travel.
+* 本周有关该市地铁系统运行中断的注意事项，以及其他出行方式。
+* Accidents involving vehicles and trains have been increasing as the Mexican government has pushed to revitalize railroads and build new passenger lines.
+* 随着墨西哥政府推动振兴铁路和建设新的客运线路，涉及车辆和火车的事故一直在增加。
+* The Israeli police described the shooting as a terrorist attack and said that the perpetrators had been killed at the scene.
+* 以色列警方将枪击事件描述为恐怖袭击，并表示肇事者已在现场被杀。
+* Money transfers to Guatemala, Honduras and other nations have increased in recent months, totaling billions of dollars. Undocumented migrants in the United States say they are sending money to relatives while they can.
+* 近几个月来，向危地马拉、洪都拉斯和其他国家的汇款有所增加，总额达数十亿美元。美国的无证移民表示，他们正在尽可能地向亲属汇款。
 
 ## New York Times United States News
-* Foreign manufacturers were already dealing with tariffs and the end of E.V. tax credits. Now, they face greater scrutiny of their workers’ immigration status.
-* 外国制造商已经在处理关税和电动汽车税收抵免的结束。现在，他们面临着对工人移民身份的更严格审查。
-* Ryan Routh has pleaded not guilty and plans to defend himself in court. The most serious charge against him carries a sentence of up to life in prison.
-* Ryan Routh已表示不认罪，并计划在法庭上为自己辩护。对他最严重的指控是终身监禁。
-* As ICE detains more immigrants and detention centers exceed capacity, the agency is turning to local jails. Allison McCann, a reporter and graphics editor for The New York Times, visited one jail holding detainees in Ohio.
-* 随着ICE拘留更多的移民和拘留中心超过容量，该机构正在转向当地监狱。《纽约时报》的记者和图形编辑艾莉森·麦肯（ Allison McCann ）访问了俄亥俄州一所关押被拘留者的监狱。
-* Residents who love fitness and socializing — and can afford to play — cannot get enough of padel, the racket sport with international cachet.
-* 喜欢健身和社交的居民—并且有能力玩耍—无法获得足够的PADEL ，这是一项具有国际声望的球拍运动。
-* The group was to bestow the Sylvanus Thayer Award on the actor, but it said it was canceling the event to focus on preparing academy cadets for the future.
-* 该组织将向该演员颁发Sylvanus Thayer奖，但它表示将取消该活动，以专注于为未来的学院学员做好准备。
-* He left the House of Representatives while struggling with a crack addiction, his political career seemingly over. Actually, it had just begun.
-* 他在与吸毒成瘾作斗争的同时离开了众议院，他的政治生涯似乎结束了。其实，这才刚刚开始。
-* With the president in attendance at Arthur Ashe Stadium, the men’s final began as hundreds of people were still waiting to go through security screening.
-* 随着总统出席亚瑟·阿什体育场，男子决赛开始了，数百人仍在等待通过安全检查。
-* Mr. Moore said in a TV interview that he “is not running for president.” The first-term governor, who has traded barbs with President Trump, said he was excited about seeking a second term.
-* 摩尔在接受电视采访时说，他“没有竞选总统。“第一任州长曾与特朗普总统交换过意见，他说他对寻求第二个任期感到兴奋。
-* The president had said on social media that Chicago was “about to find out why it’s called the Department of WAR,” drawing a fierce rebuke from Democrats.
-* 总统曾在社交媒体上表示，芝加哥“即将找出它为什么被称为战争部” ，这引起了民主党人的强烈谴责。
-* By promoting suspicions about the institutions he oversees, critics say Robert F. Kennedy Jr. is jeopardizing public health. He says he is pursuing transparency.
-* 批评人士说，小罗伯特· F ·肯尼迪（ Robert F. Kennedy Jr. ）通过促进对他所监管机构的怀疑，正在危及公共卫生。他说他正在追求透明度。
+* Republicans want to redraw congressional districts and increase their party’s chances of flipping a seat long held by a Democrat in the Kansas City area.
+* 共和党人希望重新划分国会选区，并增加他们的政党在堪萨斯城地区赢得民主党长期席位的机会。
+* State Representative James Talarico, who is studying to become a Presbyterian pastor, has sparred with Fox News hosts and bantered with Joe Rogan. Now he wants Senator John Cornyn’s seat.
+* 正在学习成为长老会牧师的州众议员詹姆斯·塔拉里科（ James Talarico ）与福克斯新闻主持人争吵，并与乔·罗根（ Joe Rogan ）争吵。现在他想要参议员约翰·科宁（ John Cornyn ）的席位。
+* Almost 40 percent of immigrants living in Chicago are from Mexico. More than 800,000 of the city’s 2.7 million residents identify as Hispanic or Latino.
+* 居住在芝加哥的移民中，近40%来自墨西哥。该市270万居民中有80多万人是西班牙裔或拉丁裔。
+* In a quest to bolster a long-running claim from President Trump concerning undocumented immigrants illegally voting, the Justice Department is seeking detailed voter roll data from over 30 states.
+* 为了支持特朗普总统关于非法投票的无证移民的长期主张，司法部正在从30多个州寻求详细的选民名单数据。
+* Officers in New York State crashed their official vehicles, hit other motorists and arrived to work reeking of alcohol. And yet, they sometimes evaded criminal punishment, an investigation found.
+* 纽约州的官员撞毁了他们的公务车辆，撞到了其他驾驶者，并带着酒臭上班。然而，一项调查发现，他们有时会逃避刑事处罚。
+* The New York Times and New York Focus gathered thousands of files from around half of New York State’s nearly 500 law enforcement agencies.
+* 《纽约时报》和《纽约焦点》收集了纽约州近500个执法机构中约一半的数千份文件。
+* High school seniors had the worst reading scores since 1992 on a national test, a loss probably related to increases in screen time and the pandemic. Their math scores fell as well.
+* 高中毕业生在全国考试中的阅读成绩自1992年以来最差，这一损失可能与屏幕时间的增加和大流行有关。他们的数学成绩也下降了。
+* Giant sequoias can live for thousands of years, but wildfires have killed staggering numbers of the trees in recent years.
+* 巨型红杉可以存活数千年，但近年来野火已经杀死了数量惊人的树木。
+* Republicans said the maneuver to change the Senate’s rules, the latest step that would weaken the filibuster, was necessary to overcome Democratic obstruction of President Trump’s nominees.
+* 共和党人表示，改变参议院规则的策略是削弱议案阻挠的最新举措，对于克服民主党对特朗普总统候选人的阻挠是必要的。
+* The dust-up, at a members-only club in Georgetown, was not the first time Scott Bessent has shown a hot temper.
+* 在乔治敦的一家会员制俱乐部，这并不是斯科特·贝森特（ Scott Bessent ）第一次表现出脾气暴躁。
 
 ## New York Times Asia News
-* Protesters stormed the Parliament complex days after the government banned most social media platforms. Dozens of others were injured.
-* 在政府禁止大多数社交媒体平台的几天后，抗议者冲进了议会大楼。另有数十人受伤。
-* ‘Momijigari’ means hunting autumn leaves and people consult forecasts and follow predictions to find the most beautiful displays. This itinerary adds history and a sense of spirituality to the colors.
-* “Momijigari”的意思是狩猎秋天的叶子，人们会参考预测并遵循预测，以找到最美丽的展示品。此行程为色彩增添了历史感和灵性感。
-* Tom Phillips, who vanished with his three children in 2021, was killed after he shot a police officer on Monday, the authorities said. His children were found safe and unharmed.
-* 当局表示，汤姆·菲利普斯（ Tom Phillips ）于2021年与他的三个孩子一起失踪，他在周一开枪打死一名警察后被杀。他的孩子们被发现是安全的，没有受到伤害。
-* Japan, one of the world’s most stable democracies, is experiencing unusually rapid change. Shigeru Ishiba’s departure could herald a leadership crisis.
-* 日本是世界上最稳定的民主国家之一，正在经历异常迅速的变化。石叶茂的离职可能预示着一场领导力危机。
-* Middle-class Indians have been plowing their savings into the stock market, making it far less vulnerable to the shocks of a trade war.
-* 印度中产阶级一直在将储蓄投入股市，使其更不容易受到贸易战的冲击。
-* Our correspondent found a sense of apprehension in the country after the 12-day war with Israel.
-* 在与以色列为期12天的战争之后，我们的记者在该国发现了一种恐惧感。
-* Critics worry a new law could curb freedom of expression, affect tourism and cut communication with the many Nepalis who work abroad.
-* 批评人士担心，新法律可能会限制言论自由，影响旅游业，并切断与许多在国外工作的尼泊尔人的沟通。
-* The South Korean government said on Sunday that it would send a charter plane to the United States to retrieve hundreds of workers detained in an immigration raid.
-* 韩国政府周日表示，它将派遣一架包机前往美国，以收回在移民突袭中被拘留的数百名工人。
-* The embattled leader is trying to head off a deep split in his party over a right-wing political surge, a weakened economy and turbulent trade relations with the United States.
-* 这位四面楚歌的领导人正试图阻止他的党内因右翼政治激增、经济疲软和与美国的贸易关系动荡而产生深刻分歧。
-* The unraveling of relations between the United States and India has convinced many Indian officials that the country should return to its difficult balancing act of nonalignment.
-* 美国和印度之间关系的破裂使许多印度官员相信，该国应该恢复其不结盟的艰难平衡行为。
+* It was a recent ban on social media that brought young people to the streets, but they came filled with grievances that have built up over years.
+* 这是最近对社交媒体的禁令，使年轻人走上街头，但他们充满了多年来积累的不满。
+* A Chinese man crossed dangerous jungles to enter the United States, in a failed bid for asylum. After being deported home in 2023, he faced a choice: stay or try to leave again?
+* 一名中国男子越过危险的丛林进入美国，申请庇护失败。在2023年被驱逐出境后，他面临着一个选择：留下还是再次离开？
+* A day after violent clashes left at least 19 people dead, Prime Minister K.P. Sharma Oli and other ministers quit, with no clear path to assuaging young protesters in the capital.
+* 在暴力冲突导致至少19人死亡的第二天，总理夏尔马·奥利（ K.P. Sharma Oli ）和其他部长辞职，没有明确的途径来安抚首都的年轻抗议者。
+* Stephen Dacus, head of the chain’s parent company, aims to export its success in Japan, with signature offerings like fresh prepared food.
+* 该连锁店母公司负责人斯蒂芬·达库斯（ Stephen Dacus ）的目标是将其成功出口到日本，并提供新鲜烹饪食品等标志性产品。
+* Convenience stores are a fixture of Japanese life, and 7-Eleven is the country’s dominant chain. They are a place to shop, pay bills and gather during disasters.
+* 便利店是日本生活的固定场所， 7-Eleven是日本的主要连锁店。灾难发生时，这里是购物、支付账单和聚会的场所。
+* The Supreme Court’s ruling, stemming from past convictions on charges of corruption and abuse of power, was the latest blow to Thaksin Shinawatra.
+* 最高法院的裁决源于过去对腐败和滥用权力指控的定罪，是对他信的最新打击。
+* President Emmanuel Macron said he would appoint a new prime minister, the fifth in less than two years, after the government collapsed in a no-confidence vote.
+* 总统埃马纽埃尔·马克龙（ Emmanuel Macron ）表示，他将任命一位新总理，这是政府在不信任投票中崩溃后不到两年内的第五位总理。
+* Already this year, China’s trade surplus with Africa is nearly as big as all of 2024, a sign of how President Trump’s tariffs are reshaping the flow of goods.
+* 今年，中国对非洲的贸易顺差几乎与2024年全年一样大，这表明特朗普总统的关税正在重塑商品流动。
+* Dozens of women who worked in the sex trade in South Korea are seeking an apology and compensation for the rights abuses they suffered while catering to American G.I.s.
+* 数十名在韩国从事性交易的女性正在为她们在迎合美国G.I.时遭受的权利侵犯寻求道歉和赔偿。
+* The government reversed its ban on Facebook, Instagram and other platforms, which had helped to fuel demonstrations by young people who were also angry about corruption.
+* 政府撤销了对Facebook、Instagram和其他平台的禁令，这助长了年轻人的示威活动，他们也对腐败感到愤怒。
 
