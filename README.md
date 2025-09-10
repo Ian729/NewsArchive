@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* A day after violent clashes left at least 19 people dead, Prime Minister K.P. Sharma Oli and other ministers quit, with no clear path to assuaging young protesters in the capital.
-* 在暴力冲突导致至少19人死亡的第二天，总理夏尔马·奥利（ K.P. Sharma Oli ）和其他部长辞职，没有明确的途径来安抚首都的年轻抗议者。
-* Hundreds of thousands will have to decide whether to risk staying put or fleeing to already ruined and overcrowded areas in the south as Israel looks set to launch a full invasion.
-* 由于以色列似乎将发动全面入侵，数十万人将不得不决定是留在原地还是逃往南部已经被破坏和过度拥挤的地区。
-* Officials in Tunisia said there was no evidence of an attack on the ship, which the Global Sumud Flotilla hoped to use to bring humanitarian goods to Gaza.
-* 突尼斯官员表示，没有证据表明该船遭到袭击，全球萨穆德船队希望利用该船将人道主义物资运往加沙。
-* Each day of war risks a strike on sites that could scatter radioactive material. Officials say one laboratory near the front has been hit dozens of times.
-* 每天的战争都有可能对可能散布放射性物质的地点发动袭击。官员说，前线附近的一个实验室已被击中数十次。
-* President Emmanuel Macron is expected to appoint a new prime minister, rejecting calls for elections or his resignation.
-* 预计总统埃马纽埃尔·马克龙（ Emmanuel Macron ）将任命一位新总理，拒绝选举或辞职的呼吁。
-* The Supreme Court’s ruling, stemming from past convictions on charges of corruption and abuse of power, was the latest blow to Thaksin Shinawatra.
-* 最高法院的裁决源于过去对腐败和滥用权力指控的定罪，是对他信的最新打击。
-* What to know about the disruption to the city’s underground transit system this week, and alternative ways to travel.
-* 本周有关该市地铁系统运行中断的注意事项，以及其他出行方式。
-* Accidents involving vehicles and trains have been increasing as the Mexican government has pushed to revitalize railroads and build new passenger lines.
-* 随着墨西哥政府推动振兴铁路和建设新的客运线路，涉及车辆和火车的事故一直在增加。
-* The Israeli police described the shooting as a terrorist attack and said that the perpetrators had been killed at the scene.
-* 以色列警方将枪击事件描述为恐怖袭击，并表示肇事者已在现场被杀。
-* Money transfers to Guatemala, Honduras and other nations have increased in recent months, totaling billions of dollars. Undocumented migrants in the United States say they are sending money to relatives while they can.
-* 近几个月来，向危地马拉、洪都拉斯和其他国家的汇款有所增加，总额达数十亿美元。美国的无证移民表示，他们正在尽可能地向亲属汇款。
-
-## New York Times United States News
-* Republicans want to redraw congressional districts and increase their party’s chances of flipping a seat long held by a Democrat in the Kansas City area.
-* 共和党人希望重新划分国会选区，并增加他们的政党在堪萨斯城地区赢得民主党长期席位的机会。
-* State Representative James Talarico, who is studying to become a Presbyterian pastor, has sparred with Fox News hosts and bantered with Joe Rogan. Now he wants Senator John Cornyn’s seat.
-* 正在学习成为长老会牧师的州众议员詹姆斯·塔拉里科（ James Talarico ）与福克斯新闻主持人争吵，并与乔·罗根（ Joe Rogan ）争吵。现在他想要参议员约翰·科宁（ John Cornyn ）的席位。
-* Almost 40 percent of immigrants living in Chicago are from Mexico. More than 800,000 of the city’s 2.7 million residents identify as Hispanic or Latino.
-* 居住在芝加哥的移民中，近40%来自墨西哥。该市270万居民中有80多万人是西班牙裔或拉丁裔。
-* In a quest to bolster a long-running claim from President Trump concerning undocumented immigrants illegally voting, the Justice Department is seeking detailed voter roll data from over 30 states.
-* 为了支持特朗普总统关于非法投票的无证移民的长期主张，司法部正在从30多个州寻求详细的选民名单数据。
-* Officers in New York State crashed their official vehicles, hit other motorists and arrived to work reeking of alcohol. And yet, they sometimes evaded criminal punishment, an investigation found.
-* 纽约州的官员撞毁了他们的公务车辆，撞到了其他驾驶者，并带着酒臭上班。然而，一项调查发现，他们有时会逃避刑事处罚。
-* The New York Times and New York Focus gathered thousands of files from around half of New York State’s nearly 500 law enforcement agencies.
-* 《纽约时报》和《纽约焦点》收集了纽约州近500个执法机构中约一半的数千份文件。
-* High school seniors had the worst reading scores since 1992 on a national test, a loss probably related to increases in screen time and the pandemic. Their math scores fell as well.
-* 高中毕业生在全国考试中的阅读成绩自1992年以来最差，这一损失可能与屏幕时间的增加和大流行有关。他们的数学成绩也下降了。
-* Giant sequoias can live for thousands of years, but wildfires have killed staggering numbers of the trees in recent years.
-* 巨型红杉可以存活数千年，但近年来野火已经杀死了数量惊人的树木。
-* Republicans said the maneuver to change the Senate’s rules, the latest step that would weaken the filibuster, was necessary to overcome Democratic obstruction of President Trump’s nominees.
-* 共和党人表示，改变参议院规则的策略是削弱议案阻挠的最新举措，对于克服民主党对特朗普总统候选人的阻挠是必要的。
-* The dust-up, at a members-only club in Georgetown, was not the first time Scott Bessent has shown a hot temper.
-* 在乔治敦的一家会员制俱乐部，这并不是斯科特·贝森特（ Scott Bessent ）第一次表现出脾气暴躁。
-
-## New York Times Asia News
-* It was a recent ban on social media that brought young people to the streets, but they came filled with grievances that have built up over years.
-* 这是最近对社交媒体的禁令，使年轻人走上街头，但他们充满了多年来积累的不满。
+* Protesters defied a curfew to set fire to government buildings and the homes of politicians as unrest over censorship and economic issues continued.
+* 由于对审查和经济问题的骚乱仍在继续，抗议者无视宵禁，放火烧毁政府大楼和政客的住所。
+* The Polish military called the incursions an “act of aggression,” adding that NATO air forces had launched warplanes to respond.
+* 波兰军方称这些入侵是“侵略行为” ，并补充说，北约空军已经发射战机进行回应。
+* Israel has ordered hundreds of thousands of people to evacuate the city and go to the southern Gaza Strip, but many residents say it is no safer for them there.
+* 以色列已下令数十万人撤离该市并前往加沙地带南部，但许多居民表示，那里对他们来说并不安全。
+* Protests blocked roads, roundabouts and tram lines across the country as Sébastien Lecornu prepared to take office.
+* 当Sébastien Lecornu准备上任时，全国各地的道路、环形交叉路口和电车线路都受到了抗议活动的阻挡。
+* The Gulf nation of Qatar has been trying to negotiate a cease-fire in the conflict. The attack threatened to destabilize those peace efforts.
+* 海湾国家卡塔尔一直试图在冲突中谈判停火。这次袭击有可能破坏这些和平努力的稳定。
+* Legislators could sink a government proposal that would give some rights to couples who married overseas, raising questions about the city’s status as an international hub.
+* 立法者可能会否决一项政府提案，该提案将赋予在海外结婚的夫妇一些权利，从而引发对该市作为国际枢纽地位的质疑。
+* With Thaksin Shinawatra’s recent fall from favor, his political power is significantly diminished. But it is too early to write him off.
+* 随着他信·西那瓦（ Thaksin Shinawatra ）最近的失宠，他的政治权力大大削弱。但现在注销他还为时过早。
 * A Chinese man crossed dangerous jungles to enter the United States, in a failed bid for asylum. After being deported home in 2023, he faced a choice: stay or try to leave again?
 * 一名中国男子越过危险的丛林进入美国，申请庇护失败。在2023年被驱逐出境后，他面临着一个选择：留下还是再次离开？
-* A day after violent clashes left at least 19 people dead, Prime Minister K.P. Sharma Oli and other ministers quit, with no clear path to assuaging young protesters in the capital.
-* 在暴力冲突导致至少19人死亡的第二天，总理夏尔马·奥利（ K.P. Sharma Oli ）和其他部长辞职，没有明确的途径来安抚首都的年轻抗议者。
-* Stephen Dacus, head of the chain’s parent company, aims to export its success in Japan, with signature offerings like fresh prepared food.
-* 该连锁店母公司负责人斯蒂芬·达库斯（ Stephen Dacus ）的目标是将其成功出口到日本，并提供新鲜烹饪食品等标志性产品。
-* Convenience stores are a fixture of Japanese life, and 7-Eleven is the country’s dominant chain. They are a place to shop, pay bills and gather during disasters.
-* 便利店是日本生活的固定场所， 7-Eleven是日本的主要连锁店。灾难发生时，这里是购物、支付账单和聚会的场所。
-* The Supreme Court’s ruling, stemming from past convictions on charges of corruption and abuse of power, was the latest blow to Thaksin Shinawatra.
-* 最高法院的裁决源于过去对腐败和滥用权力指控的定罪，是对他信的最新打击。
-* President Emmanuel Macron said he would appoint a new prime minister, the fifth in less than two years, after the government collapsed in a no-confidence vote.
-* 总统埃马纽埃尔·马克龙（ Emmanuel Macron ）表示，他将任命一位新总理，这是政府在不信任投票中崩溃后不到两年内的第五位总理。
-* Already this year, China’s trade surplus with Africa is nearly as big as all of 2024, a sign of how President Trump’s tariffs are reshaping the flow of goods.
-* 今年，中国对非洲的贸易顺差几乎与2024年全年一样大，这表明特朗普总统的关税正在重塑商品流动。
-* Dozens of women who worked in the sex trade in South Korea are seeking an apology and compensation for the rights abuses they suffered while catering to American G.I.s.
-* 数十名在韩国从事性交易的女性正在为她们在迎合美国G.I.时遭受的权利侵犯寻求道歉和赔偿。
-* The government reversed its ban on Facebook, Instagram and other platforms, which had helped to fuel demonstrations by young people who were also angry about corruption.
-* 政府撤销了对Facebook、Instagram和其他平台的禁令，这助长了年轻人的示威活动，他们也对腐败感到愤怒。
+* Danish doctors inserted intrauterine devices into thousands of women and girls in Greenland, often without their consent or knowledge, a scandal that has reinforced a legacy of colonial abuses.
+* 丹麦医生在格陵兰的数千名妇女和女孩身上植入了宫内节育器，这往往是在未经他们同意或不知情的情况下进行的，这一丑闻加剧了殖民时期的虐待遗留问题。
+* Iran has not allowed inspections since its nuclear sites were bombed by Israel and the United States in June, but it hopes to stave off Western economic sanctions.
+* 自6月份以色列和美国轰炸伊朗核设施以来，伊朗一直不允许进行检查，但它希望避免西方的经济制裁。
+
+## New York Times United States News
+* The president’s authority to make demands of local police expires on Wednesday night, but the most visible federal interventions in the city will remain for now.
+* 总统向当地警察提出要求的权力将于周三晚上到期，但目前该市最明显的联邦干预措施仍将保持不变。
+* While there is no evidence of a break between them, Health Secretary Robert F. Kennedy Jr. has caused consternation among President Trump and some of his aides.
+* 虽然没有证据表明他们之间存在分歧，但卫生部长小罗伯特· F ·肯尼迪(Robert F. Kennedy Jr.)在特朗普总统和他的一些助手中引起了惊愕。
+* Many American companies have had to shoulder at least some of the costs of tariffs, biting into earnings the same way a corporate tax increase would, analysts say.
+* 分析师表示，许多美国公司不得不承担至少部分关税成本，就像企业增税一样蚕食利润。
+* Commerce Secretary Howard Lutnick has been putting the squeeze on companies and trading partners in an unusual effort to raise revenue and expand the president’s role over the economy.
+* 商务部长霍华德·拉特尼克（ Howard Lutnick ）一直在对公司和贸易伙伴施加压力，以增加收入并扩大总统在经济中的作用。
+* Advances in DNA testing led to a suspect’s arrest in the killing of Valerie Laguna, 26, who was found beaten to death in a cemetery in Cotulla, Texas, in 2005, the authorities said.
+* 当局表示， DNA检测的进展导致一名嫌疑人在杀害26岁的瓦莱丽·拉古纳（ Valerie Laguna ）时被捕，该嫌疑人于2005年在德克萨斯州科图拉的一个墓地被发现殴打致死。
+* A generational shift has been taking place at the annual Sept. 11 remembrance ceremony in New York City.
+* 在纽约市举行的年度9月11日纪念仪式上，一代人的转变正在发生。
+* Mr. Trump made the short trek from the White House to Joe’s Seafood, Prime Steak & Stone Crab to show that his federal crackdown on crime in the nation’s capital was working.
+* 特朗普从白宫到Joe's Seafood、Prime Steak和Stone Crab的短途跋涉表明，他在首都打击犯罪的联邦行动正在发挥作用。
+* President Trump said he was “very unhappy about the way that went down.”
+* 特朗普总统表示，他“对失败的方式非常不满”。
+* Los Angeles residents are anxious once again following a Supreme Court ruling that allowed aggressive immigration raids to resume.
+* 在最高法院允许恢复积极的移民突袭之后，洛杉矶居民再次感到焦虑。
+* James Walkinshaw will fill a seat left open by the death of his former boss, Gerald Connolly, and shrink the Republicans’ majority in the chamber.
+* 詹姆斯·沃金肖（ James Walkinshaw ）将填补他的前任老板杰拉尔德·康诺利（ Gerald Connolly ）去世后留下的空缺席位，并缩小共和党在众议院的
+
+## New York Times Asia News
+* It is unclear when the South Korean detainees will be repatriated. They were previously scheduled to depart the United States on Wednesday.
+* 目前尚不清楚韩国被拘留者何时被遣返。他们原定于周三离开美国。
+* Days of unrest in Nepal have left 22 people dead, triggered the resignation of its prime minister and brought troops to the streets of Kathmandu.
+* 尼泊尔几天的骚乱造成22人死亡，引发总理辞职，并将军队带到加德满都街头。
+* Choi Mal-ja, who was convicted of inflicting bodily harm, said she fought for a retrial so other South Korean women would not suffer as she did.
+* 被判犯有造成人身伤害罪的Choi Mal-ja说，她争取重审，这样其他韩国妇女就不会像她那样受苦。
+* Demonstrator in Kathmandu defied a curfew and set fire to government offices and the homes of politicians on Tuesday during an escalation of unrest.
+* 周二，加德满都的示威者无视宵禁，在骚乱升级期间放火焚烧政府办公室和政客家园。
+* With Thaksin Shinawatra’s recent fall from favor, his political power is significantly diminished. But it is too early to write him off.
+* 随着他信·西那瓦（ Thaksin Shinawatra ）最近的失宠，他的政治权力大大削弱。但现在注销他还为时过早。
+* Human rights groups condemned the use of lethal force against protesters. Experts say Nepal’s army and police have historically not been held to account.
+* 人权组织谴责对抗议者使用致命武力。专家表示，尼泊尔军队和警察历来没有被追究责任。
+* 
+* 
+* Legislators could sink a government proposal that would give some rights to couples who married overseas, raising questions about the city’s status as an international hub.
+* 立法者可能会否决一项政府提案，该提案将赋予在海外结婚的夫妇一些权利，从而引发对该市作为国际枢纽地位的质疑。
+* 
+* 
+* Videos and photos purporting to show the privileged lifestyles of children of the elite have fueled anger among young people.
+* 声称展示精英儿童特权生活方式的视频和照片引发了年轻人的愤怒。
 
