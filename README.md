@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Gazans have had to load up their lives in search of refuge multiple times throughout the war. As thousands were forced to flee again this week, a Times photographer joined them heading south.
+* 在整个战争期间，加沙人不得不多次加倍努力寻找避难所。本周，成千上万的人被迫再次逃离，《纽约时报》的一名摄影师加入了他们，前往南方。
+* Sushila Karki, a former Supreme Court chief justice who was appointed as interim leader, made speed a priority in a process that other jurists deem unconstitutional.
+* 被任命为临时领导人的前最高法院首席大法官苏希拉·卡尔基（ Sushila Karki ）在其他法学家认为违宪的过程中将速度作为优先事项。
+* Drones in Poland and GPS jamming attributed to Russia have intensified a debate over whether the West should impose stiffer penalties for such “hybrid warfare.”
+* 波兰的无人机和归咎于俄罗斯的GPS干扰加剧了关于西方是否应该对这种“混合战争”实施更严厉的惩罚的争论。
+* Latin America’s largest nation is shaping up as a test case on how to defy President Trump.
+* 这个拉丁美洲最大的国家正在成为如何藐视特朗普总统的测试案例。
+* Opposition parties say a move by India’s election commission is part of a wider pattern of election influencing by the government of Prime Minister Narendra Modi, which derides the claims.
+* 反对党表示，印度选举委员会的举动是受总理纳伦德拉·莫迪（ Narendra Modi ）政府影响的更广泛选举模式的一部分，该政府嘲笑这些说法。
+* The frenzy of arson that blazed nationwide this week as protests spread added to those suffering acute burns in a country where fires maim and kill with shocking regularity.
+* 随着抗议活动的蔓延，本周在全国范围内燃烧的纵火狂潮加剧了那些在这个国家遭受急性烧伤的人，在这个国家，火灾以令人震惊的规律致残和杀戮。
+* Millions in military and development funds for Colombia hang in the balance as Washington questions the country’s fight against cocaine.
+* 随着华盛顿对该国打击可卡因的斗争提出质疑，哥伦比亚数百万美元的军事和发展资金悬而未决。
+* As climate change helps fuel more severe heat waves, the city is struggling between maintaining its architectural heritage and keeping apartments livable.
+* 由于气候变化助长了更严重的热浪，这座城市正在维护其建筑遗产和保持公寓宜居之间苦苦挣扎。
 * The foreign policy successes of Keir Starmer of Britain, Emmanuel Macron of France and Friedrich Merz of Germany are in contrast with their dismal domestic performances.
 * 英国的Keir Starmer、法国的Emmanuel Macron和德国的Friedrich Merz的外交政策成功与他们令人沮丧的国内表现形成鲜明对比。
-* Pacific island nations have seen American pledges and attention come and go with geopolitical winds. Recent U.S. pullbacks are met with disappointment but not surprise.
-* 太平洋岛国已经看到美国的承诺和关注随着地缘政治风向而来来去去。美国最近的回调令人失望，但并不意外。
-* All around Honiara, the capital of the Solomon Islands and host of a regional summit, are not-so-subtle hints of donor nations competing for hearts and minds.
-* 霍尼亚拉是所罗门群岛的首都，也是区域峰会的东道主，周围都是捐助国争夺人心的不那么微妙的暗示。
-* A majority of voting justices said they plan to vote to convict Brazil’s former president of trying to hold onto power. A final verdict could come Thursday.
-* 大多数投票法官表示，他们计划投票判定巴西前总统试图掌权。最终判决可能会在周四做出。
-* With institutions burned to the ground and the army in control, Gen Z protesters are pushing for an anti-corruption crusader to be appointed as the country’s interim leader.
-* 随着机构被夷为平地，军队被控制， Z世代的抗议者正在推动任命一名反腐败斗士担任该国的临时领导人。
-* The United States, ordinarily a protector of Israel at the United Nations, signed on to a statement condemning its attack on Hamas in the Qatari capital.
-* 通常在联合国保护以色列的美国签署了一份声明，谴责其对卡塔尔首都哈马斯的袭击。
-* Ukrainian and European officials say President Vladimir V. Putin has become emboldened by a lack of Western pushback.
-* 乌克兰和欧洲官员表示，俄罗斯总统弗拉基米尔· V ·普京(Vladimir V. Putin)因缺乏西方国家的反击而变得胆大妄为。
-* The British government said it withdrew the envoy after newly revealed emails showed the depth of his relationship with Jeffrey Epstein.
-* 英国政府表示，在新近披露的电子邮件显示他与杰弗里·爱泼斯坦（ Jeffrey Epstein ）的关系深厚之后，它撤回了特
-* After an explosion of popular rage tore through the country, its respected army was the only institution left standing. It’s now in talks with the protesters.
-* 在全国各地爆发民众愤怒之后，其受人尊敬的军队是唯一留下来的机构。它现在正在与抗议者进行谈判。
-* A continent already on edge over the Ukraine war sees a Russian challenge to NATO readiness and to an America that wants to disengage from Europe.
-* 一个已经处于乌克兰战争边缘的大陆看到了俄罗斯对北约的准备状态和希望脱离欧洲的美国的挑战。
+* The British government banned Palestine Action under an antiterrorism law, but an intelligence document said most of its activity “would not be classified as terrorism.”
+* 英国政府根据反恐法禁止巴勒斯坦行动，但一份情报文件称，其大部分活动“不会被归类为恐怖主义”。
 
 ## New York Times United States News
+* The messages relied on an enigmatic, coded communication style used by the habitually online.
+* 这些信息依赖于习惯性在线使用的神秘、编码的沟通风格。
+* Colleges are often the setting, and the target, of the nation’s most heated politics. Charlie Kirk’s work on campuses was one factor.
+* 大学通常是这个国家最激烈的政治背景和目标。查理·柯克（ Charlie Kirk ）在校园里的工作是一个因素。
+* Radio and television stations, facing enormous budget holes, are pleading with NPR and PBS to lower their fees as they examine whether to drop national programming altogether.
+* 面临巨大预算漏洞的广播电台和电视台在审查是否完全放弃国家节目时，正在恳求NPR和PBS降低收费。
+* The University of California, Berkeley, told around 160 people that their names were in documents related to antisemitism complaints that were demanded by the Trump administration.
+* 加州大学伯克利分校告诉大约160人，他们的名字出现在特朗普政府要求的与反犹太主义投诉有关的文件中。
+* Plaintiffs accused the Trump administration of using so-called third-country deportations to violate court-ordered protections for migrants, echoing the case of Kilmar Armando Abrego Garcia.
+* 原告指责特朗普政府利用所谓的第三国驱逐出境来违反法院命令对移民的保护，这与Kilmar Armando Abrego Garcia的案件相呼应。
+* Democrats are calling for the creation of a state equivalent of the National Institutes of Health, but first state lawmakers and then voters would need to approve it.
+* 民主党人呼吁建立一个相当于美国国立卫生研究院的州，但首先需要州立法者和选民批准。
+* Vice President JD Vance urged major contributors to win the 2026 midterms to honor Charlie Kirk, who was Mr. Vance’s close friend.
+* 副总裁JD Vance敦促主要贡献者赢得2026年中期选举，以纪念Vance先生的亲密朋友Charlie Kirk。
+* F.B.I. leaders touted the immense federal deployment assigned to find the assassin. But their big break came with a single tip — from the suspect’s own family.
+* 联邦调查局领导人吹捧联邦政府为寻找刺客而进行的大规模部署。但他们的重大突破只有一个小费—来自嫌疑人自己的家人。
 * 
 * 
-* In interviews from across the country, people expressed fear and wariness, and said that the country seemed to be spinning out of control.
-* 在来自全国各地的采访中，人们表达了恐惧和警惕，并表示这个国家似乎正在失控。
-* Vouchers are spurring the growth of low-priced, Christian schools that often serve small populations of students. They’re also pushing up tuition prices.
-* 代金券正在刺激低价基督教学校的发展，这些学校通常为少数学生提供服务。他们还推高了学费。
-* Josh Kraft had harshly criticized the policies of Mayor Michelle Wu, a fellow Democrat, but his message did not resonate with voters.
-* 乔希·卡夫（ Josh Kraft ）严厉批评了民主党市长米歇尔·吴（ Michelle Wu ）的政策，但他的信息并没有引起选民的共鸣。
-* A judge had ordered that Temporary Protected Status be kept in place, but Venezuelans who needed to re-register weren’t able to.
-* 一名法官下令保留临时保护身份，但需要重新登记的委内瑞拉人无法重新登记。
-* The Trump administration had imposed conditions on grants awarded by the Department of Housing and Urban Development that critics viewed as overtly political.
-* 特朗普政府对住房和城市发展部颁发的补助金施加了条件，批评者认为这显然是政治性的。
-* Millions of people saw the brief exchange between the right-wing political activist and a liberal TikToker after footage of the assassination spread like wildfire across social media.
-* 在暗杀的镜头像野火一样在社交媒体上蔓延之后，数百万人看到了右翼政治活动家和自由派TikToker之间的短暂交流。
-* Already, a series of missteps by Kash Patel, the F.B.I. director, in recent months have invited worries that he has eroded public confidence in the agency.
-* 最近几个月，联邦调查局局长卡什·帕特尔（ Kash Patel ）的一系列失误已经引发了人们的担忧，即他已经削弱了公众对该机构的信心。
-* The legislation responds to immigration raids by federal agents who have shielded their identity. It heads to Gov. Gavin Newsom, who has not said whether he would sign it.
-* 该法案回应了隐瞒其身份的联邦特工的移民突袭。它指向州长加文·纽森（ Gavin Newsom ） ，他没有说他是否会签署它。
-* The ruling temporarily put back in effect a law banning Medicaid reimbursements to the organization, jeopardizing a large share of its revenue.
-* 该裁决暂时恢复了禁止医疗补助报销组织的法律，危及其大部分收入。
+* The New York Times examined video footage to better understand what was said during Mr. Kirk’s event at Utah Valley University.
+* 《纽约时报》检查了录像片段，以更好地理解柯克先生在犹他谷大学活动期间所说的话。
 
 ## New York Times Asia News
+* Sushila Karki, a former Supreme Court chief justice who was appointed as interim leader, made speed a priority in a process that other jurists deem unconstitutional.
+* 被任命为临时领导人的前最高法院首席大法官苏希拉·卡尔基（ Sushila Karki ）在其他法学家认为违宪的过程中将速度作为优先事项。
+* The frenzy of arson that blazed nationwide this week as protests spread added to those suffering acute burns in a country where fires maim and kill with shocking regularity.
+* 随着抗议活动的蔓延，本周在全国范围内燃烧的纵火狂潮加剧了那些在这个国家遭受急性烧伤的人，在这个国家，火灾以令人震惊的规律致残和杀戮。
+* Opposition parties say a move by India’s election commission is part of a wider pattern of election influencing by the government of Prime Minister Narendra Modi, which derides the claims.
+* 反对党表示，印度选举委员会的举动是受总理纳伦德拉·莫迪（ Narendra Modi ）政府影响的更广泛选举模式的一部分，该政府嘲笑这些说法。
+* The quake briefly triggered tsunami alerts at nearby coastlines, less than two months after a larger earthquake sent tsunami waves across the Pacific.
+* 这次地震在附近海岸线短暂引发了海啸警报，距离太平洋发生大地震引发海啸波不到两个月。
+* Sushila Karki, a former chief justice, was the choice of the student protesters whose mass rallies led to violent clashes and toppled the government.
+* 前首席大法官苏希拉·卡尔基（ Sushila Karki ）是学生抗议者的选择，他们的大规模集会导致暴力冲突并推翻了政府。
+* The workers, whose detention in a workplace immigration sweep set off outrage in South Korea, expressed both relief and anger.
+* 这些工人被拘留在工作场所的移民扫荡中，在韩国引发了愤怒，他们表达了宽慰和愤怒。
 * All around Honiara, the capital of the Solomon Islands and host of a regional summit, are not-so-subtle hints of donor nations competing for hearts and minds.
 * 霍尼亚拉是所罗门群岛的首都，也是区域峰会的东道主，周围都是捐助国争夺人心的不那么微妙的暗示。
 * Pacific island nations have seen American pledges and attention come and go with geopolitical winds. Recent U.S. pullbacks are met with disappointment but not surprise.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 随着机构被夷为平地，军队被控制， Z世代的抗议者正在推动任命一名反腐败斗士担任该国的临时领导人。
 * “The Parliament of Nepal right now is Discord,” a user said of the platform popular with video gamers, where tens of thousands are debating the nation’s future.
 * 一位用户谈到受视频游戏玩家欢迎的平台时说： “尼泊尔议会现在是Discord ，”成千上万的人正在争论这个国家的未来。
-* The F.B.I. released two grainy images of a person of interest, but the gunman remained at large more than a day after the shooting.
-* 联邦调查局发布了两张令人感兴趣的人的照片，但枪手在枪击事件发生后一天多仍然逍遥法外。
-* On the 40th anniversary of the New Photography series at MoMA, 13 artists and collectives on three continents find ties that bind — and a resurrection.
-* 在MoMA新摄影系列40周年之际，三大洲的13位艺术家和集体发现了纽带—以及复活。
-* Officials and business leaders in both countries are questioning commitments their governments made to invest hundreds of billions in American manufacturing.
-* 两国的官员和商界领袖都在质疑他们的政府对美国制造业投资数千亿美元的承诺。
-* President Lee Jae Myung made the comments as hundreds of South Korean workers swept in an immigration raid were flying home on Thursday.
-* 周四，数百名在移民突袭中被扫荡的韩国工人飞回家时，韩国总统李在明(Lee Jae Myung)发表了上述言论。
-* After an explosion of popular rage tore through the country, its respected army was the only institution left standing. It’s now in talks with the protesters.
-* 在全国各地爆发民众愤怒之后，其受人尊敬的军队是唯一留下来的机构。它现在正在与抗议者进行谈判。
-* The explosion of unrest in Nepal — with fires around the capital, Kathmandu, and the prime minister fleeing the country — was years in the making. Alex Travelli, a New York Times correspondent, describes what happened and why it happened now.
-* 尼泊尔的骚乱爆发—首都加德满都周围发生火灾，总理逃离该国—多年来一直在酝酿之中。《纽约时报》记者Alex Travelli描述了发生的事情以及现在发生的原因。
 
