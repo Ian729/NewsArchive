@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The moves came just before the annual U.N. General Assembly, increasing pressure on Israel and putting key allies at odds with the Trump administration.
-* 这些举动是在一年一度的联合国大会之前采取的，这增加了对以色列的压力，并使主要盟友与特朗普政府产生了分歧。
-* Demonstrations were set off by accusations that flood relief money was embezzled. They are part of a wave of discontent about economic inequality in several countries in Asia.
-* 有人指责洪水救济资金被挪用，引发了示威活动。它们是亚洲几个国家对经济不平等的不满浪潮的一部分。
-* The overthrow of Nepal’s government is the latest in a series of uprisings among India’s neighbors, creating a political churn that complicates its ties.
-* 推翻尼泊尔政府是印度邻国一系列起义中的最新一次，造成了政治动荡，使其关系复杂化。
-* The gains could help counter Moscow’s narrative that Russian advances are unstoppable and that Kyiv should settle for a peace deal, even if it means giving up territory.
-* 这些收益可能有助于反驳莫斯科的说法，即俄罗斯的进步是不可阻挡的，基辅应该接受和平协议，即使这意味着放弃领土。
-* The Allenby Bridge border crossing is the main gateway for Palestinians to leave the Israeli-occupied West Bank.
-* 艾伦比桥过境点是巴勒斯坦人离开以色列占领的约旦河西岸的主要门户。
-* A teacher and journalist has gained a large following for highlighting the apparent luxury items worn by politicians. It has also earned him high-profile detractors.
-* 一位教师和记者因突出政治家所穿的明显奢侈品而获得了大量追随者。这也为他赢得了备受瞩目的诋毁者。
-* A bombing delay enabled rescue of some objects, but archaeologists fear the wider loss of antiquities from the many cultures living there over thousands of years.
-* 轰炸延迟使一些文物得以获救，但考古学家担心，数千年来居住在那里的许多文化的古董会更广泛地丢失。
-* Incheon, the site of a crucial battle of the Korean War, has a singular place in South Korea’s modern history and in its ties with the United States.
-* 仁川是朝鲜战争的关键战场，在韩国的现代历史和与美国的关系中占有独特的地位。
+* France became the latest Western nation to formally recognize Palestinian sovereignty, which remains a largely symbolic gesture. It was followed by calls for Israel to end the war in Gaza and stop its expansion of West Bank settlements.
+* 法国成为最新一个正式承认巴勒斯坦主权的西方国家，这在很大程度上仍然是一个象征性的姿态。随后呼吁以色列停止加沙战争，停止扩张约旦河西岸定居点。
+* Even as criticism of Israel ramps up and a growing number of countries say they’ll recognize a Palestinian state, concrete actions remain limited.
+* 尽管对以色列的批评越来越多，越来越多的国家表示他们将承认巴勒斯坦国，但具体行动仍然有限。
+* Alaa Abd El Fattah, a British-Egyptian dual citizen, was imprisoned for most of the past 12 years as a dissident. He and his mother went on hunger strike to press for his release.
+* 阿拉·阿卜杜勒·法塔赫（ Alaa Abd El Fattah ）是英国-埃及双重公民，在过去12年的大部分时间里作为持不同政见者被监禁。他和他的母亲绝食抗议，要求释放他。
+* Thousands were evacuated and hundreds of flights canceled ahead of the major storm.
+* 在大风暴之前，数千人被疏散，数百个航班被取消。
+* The Middle Eastern states closest to Israel see the attack on Hamas officials in Qatar and the invasion of Gaza City as warning signs of potential threats to their own security.
+* 最接近以色列的中东国家认为，袭击卡塔尔哈马斯官员和入侵加沙城是对其自身安全构成潜在威胁的警告信号。
+* Mr. Putin said Russia didn’t want to provoke a strategic arms race with the United States, but his offer is limited in scope.
+* 普京表示，俄罗斯不想挑起与美国的战略军备竞赛，但他的提议范围有限。
+* The North Korean leader’s comments came days after President Trump said he would travel to South Korea in late October for a regional summit.
+* 在特朗普总统表示他将于10月下旬前往韩国参加地区峰会几天后，这位朝鲜领导人发表了上述言论。
+* A young Greenlandic woman living in Denmark will regain custody of the infant girl taken from her shortly after birth. The case has become the latest flashpoint between Denmark and Greenland.
+* 一名居住在丹麦的年轻格陵兰妇女将在出生后不久重新获得被带走的女婴的监护权。该案已成为丹麦和格陵兰之间的最新爆发点。
 * The wars in Ukraine, Gaza and Sudan will hang over the annual gathering of the U.N. General Assembly next week in New York. So, too, will budget and identity crises.
 * 乌克兰、加沙和苏丹的战争将笼罩下周在纽约举行的联合国大会年度会议。预算和身份危机也将如此。
-* The fallout of the war in Sudan has led to one of the world’s worst humanitarian crises, but aid to its victims is vanishing. Pregnant women’s lives are in the balance.
-* 苏丹战争的后果导致了世界上最严重的人道主义危机之一，但对受害者的援助正在消失。孕妇的生命处于平衡状态。
+* A high-tech greenhouse brings fresh produce to Gjoa Haven, an Inuit hamlet in Canada’s Arctic whose residents have little experience growing plants.
+* 一座高科技温室为Gjoa Haven带来了新鲜农产品， Gjoa Haven是加拿大北极地区的因纽特人小村庄，居民几乎没有种植植物的经验。
 
 ## New York Times United States News
-* High-profile conservative speakers, including President Trump, addressed a packed stadium in Arizona. Erika Kirk forgave her husband’s killer.
-* 包括特朗普总统在内的高调保守派演讲者在亚利桑那州一个拥挤的体育场发表讲话。Erika Kirk原谅了杀害她丈夫的凶手。
-* Sunday’s memorial showcased how Mr. Kirk’s experience dovetailed with the broader story of American evangelicalism over the past decade.
-* 周日的纪念活动展示了柯克先生的经历如何与过去十年美国福音派的更广泛故事相吻合。
-* Texas Republicans redrew the lines for House races in 2026. For one Houston district, that means two elections in the next few months using two different maps, with a generational fight to come.
-* 德克萨斯州共和党人重新划定了2026年众议院竞选的界限。对于休斯顿的一个地区来说，这意味着在未来几个月内使用两张不同的地图进行两次选举，并进行一场代代相传的斗争。
-* Attending Charlie Kirk’s memorial involved lots of standing, worrying and waiting. But for one Colorado Springs woman, it was all worth it.
-* 参加查理·柯克的纪念活动需要很多站立、担忧和等待。但对于一个科罗拉多斯普林斯的女人来说，这一切都是值得的。
-* President Trump oscillated between honoring Charlie Kirk’s life and promoting his own political agenda in his remarks at the conservative activist’s memorial in Arizona.
-* 特朗普总统在亚利桑那州的保守派活动家纪念馆发表讲话时，在纪念查理·柯克的一生和促进自己的政治议程之间摇摆不定。
-* The meeting came just three months after Mr. Musk exited the government in a fit of rage, attacking the president on social media.
-* 就在会议召开三个月前，马斯克愤怒地离开了政府，在社交媒体上攻击了总统。
-* The memorial reflected the degree to which conservative Christianity had melded with Republican politics in the Trump era.
-* 纪念碑反映了保守的基督教在特朗普时代与共和党政治融合的程度。
-* Led by President Trump, the list of guests included high-ranking members of his administration, conservative influencers and far-right media personalities.
-* 在特朗普总统的领导下，嘉宾名单包括他的政府高级官员、保守派影响者和极右翼媒体人士。
-* Many endured stifling heat outside the stadium in Glendale, Ariz. Some who were turned away headed to a nearby arena, while others went home.
-* 许多人在亚利桑那州格伦代尔的体育场外忍受着令人窒息的高温。一些被拒之门外的人前往附近的竞技场，而另一些人则回家了。
-* 
-* 
+* The Secret Service discovered more than 100,000 SIM cards and 300 servers, which could disable cellular towers or be used to conduct surveillance.
+* 特勤局发现了超过10万张SIM卡和300台服务器，它们可以禁用蜂窝塔或用于进行监视。
+* President Trump plans to address the U.N. General Assembly with a rebuke of global institutions, at a moment when he is increasingly isolated in his approach to crises around the world.
+* 特朗普总统计划在联合国大会上谴责全球机构，此时此刻，他对世界各地危机的态度越来越孤立。
+* But despite it all, very little changed on the lists many parents and prospective students turn to as admissions season kicks off.
+* 但尽管如此，随着招生季的开始，许多家长和未来的学生转向名单上的变化很小。
+* “I support the Democrat in the race,” Ms. Harris said during an interview with Rachel Maddow. She added of the Democratic Party, “we’ve got a big tent and we’ve got a lot of stars.”
+* “我在竞选中支持民主党，”哈里斯在接受雷切尔·马多（ Rachel Maddow ）采访时说。她补充说： “我们有一个大帐篷，我们有很多明星。”
+* The president delivered impassioned — if scientifically dubious — remarks about what he described as one of “the most alarming public health developments in history.”
+* 总统就他所称的“历史上最令人震惊的公共卫生发展”之一发表了慷慨激昂的言论--如果在科学上令人怀疑的话。
+* President Trump’s executive order threatened to prosecute donors who support antifascist philosophy and issued a domestic terrorism designation that doesn’t exist under U.S. law.
+* 特朗普总统的行政命令威胁要起诉支持反法西斯哲学的捐助者，并发布了根据美国法律不存在的国内恐怖主义名称。
+* President Trump has been fueled by grievance and animosity over the course of his political and public life.
+* 特朗普总统在政治和公共生活中一直受到不满和仇恨的刺激。
+* The president is pushing up against the statute of limitations in his pursuit of charges against a former F.B.I. director, and also wants the attorney general of New York and a California senator prosecuted.
+* 总统在追究对前联邦调查局局长的指控时，正在推动诉讼时效法规，并希望纽约总检察长和加利福尼亚州参议员受到起诉。
+* Some celebrated ABC’s decision to rescind the show’s suspension, while others criticized it.
+* 一些人庆祝ABC决定撤销节目的暂停，而另一些人则批评它。
+* Some rank-and-file prosecutors are growing alarmed about pressure to bring indictments even when evidence is weak.
+* 一些普通检察官越来越担心即使在证据薄弱的情况下也要提起诉讼的压力。
 
 ## New York Times Asia News
-* Thousands were evacuated and hundreds of flights have been canceled ahead of the major storm, equivalent in wind speed to a Category 5 hurricane.
-* 在大风暴之前，数千人被疏散，数百个航班被取消，相当于5级飓风的风速。
+* Years after Hakyung Lee left New Zealand for her native South Korea, the bodies of her children were found in Auckland. She faces life in prison.
+* 在Hakyung Lee离开新西兰前往韩国多年后，她的孩子的尸体在奥克兰被发现。她面临终身监禁。
+* The bipartisan delegation said more conversations were necessary to avoid accidental “miscalculations and misunderstandings” that could lead to conflict.
+* 两党代表团表示，有必要进行更多对话，以避免可能导致冲突的意外“误判和误解”。
+* Hong Kong canceled hundreds of flights, Macau shuttered casinos and the city of Shenzhen plans to evacuate 400,000 people.
+* 香港取消了数百个航班，澳门关闭了赌场，深圳市计划疏散40万人。
+* Han Hak-ja — the widow of the church’s founder, the Rev. Sun Myung Moon — was accused of bribing a former first lady for business and political favors.
+* 韩学家--教会创始人孙明文牧师的遗孀--被指控贿赂前第一夫人以换取商业和政治利益。
+* We explain how Russia, China, Iran and other countries are trying to strengthen their influence as America retreats.
+* 我们将解释俄罗斯、中国、伊朗和其他国家如何在美国撤退时试图加强其影响力。
+* In China, journalism and public debate were opening up, and then a leader took over and used a series of steps to dictate speech.
+* 在中国，新闻业和公共辩论正在开放，然后一位领导人接管并使用了一系列步骤来发号施令。
+* Mr. Garg sang in dozens of languages and his music blended folk, pop and rock. His hit song “Ya Ali” was featured in the 2006 film “Gangster.”
+* Garg先生用数十种语言演唱，他的音乐融合了民谣、流行音乐和摇滚乐。他的热门歌曲“Ya Ali”出现在2006年的电影“Gangster”中。
+* Thousands were evacuated and hundreds of flights canceled ahead of the major storm.
+* 在大风暴之前，数千人被疏散，数百个航班被取消。
 * Inexpensive airfare and a house swap made a last-minute family trip to French Polynesia an unexpected bargain, with funds left over for splurges.
 * 便宜的机票和置换房屋使最后一刻的家庭旅行成为法属波利尼西亚的意想不到的便宜货，剩下的资金用于挥霍。
 * The North Korean leader’s comments came days after President Trump said he would travel to South Korea in late October for a regional summit.
 * 在特朗普总统表示他将于10月下旬前往韩国参加地区峰会几天后，这位朝鲜领导人发表了上述言论。
-* Taiwan has long been the top provider of screws to the United States. But its factories are struggling to survive under tariffs on steel and aluminum.
-* 长期以来，台湾一直是向美国提供螺丝钉的最大供应商。但其工厂在钢铁和铝的关税下难以生存。
-* Beijing may be buying itself room to negotiate on the matters it cares about most: tariffs, technology and Taiwan.
-* 北京可能正在为其最关心的问题（关税、技术和台湾）腾出谈判空间。
-* It is a first effort by the country’s new government to understand the sequence of violent events that led to the abrupt downfall of the old one.
-* 这是该国新政府首次努力了解导致旧政府突然垮台的一系列暴力事件。
-* Demonstrations were set off by accusations that flood relief money was embezzled. They are part of a wave of discontent about economic inequality in several countries in Asia.
-* 有人指责洪水救济资金被挪用，引发了示威活动。它们是亚洲几个国家对经济不平等的不满浪潮的一部分。
-* The overthrow of Nepal’s government is the latest in a series of uprisings among India’s neighbors, creating a political churn that complicates its ties.
-* 推翻尼泊尔政府是印度邻国一系列起义中的最新一次，造成了政治动荡，使其关系复杂化。
-* Justice Samuel A. Alito Jr., a conservative Catholic, has visited Rome for decades, often teaching or participating in academic conferences.
-* 小塞缪尔· A ·阿利托（ Samuel A. Alito Jr. ）是一位保守的天主教徒，几十年来一直访问罗马，经常教授或参加学术会议。
-* Incheon, the site of a crucial battle of the Korean War, has a singular place in South Korea’s modern history and in its ties with the United States.
-* 仁川是朝鲜战争的关键战场，在韩国的现代历史和与美国的关系中占有独特的地位。
 
