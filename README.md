@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Trump’s pivot could give him room to distance himself from a conflict that he once promised to solve in days or weeks.
-* 特朗普总统的支点可以给他空间，让他远离他曾经承诺在几天或几周内解决的冲突。
-* The Ukrainian leader said in an interview on Fox News that Russia’s unwillingness to take steps toward peace had impacted the American president.
-* 这位乌克兰领导人在接受福克斯新闻采访时表示，俄罗斯不愿意采取措施实现和平，这对美国总统产生了影响。
-* One million residents of Guangdong, in southern China, were evacuated. The storm left 15 dead in Taiwan.
-* 中国南方广东省有100万居民被疏散。台风造成台湾15人死亡。
-* Hernán Cortés toppled the Aztecs, winning Mexico for Spain. His trash-strewn resting place reflects how the conquest is still fueling quarrels and testing ties with Spain.
-* 埃尔南·科尔特斯（ Hernán Cortés ）推翻了阿兹特克人，为西班牙赢得了墨西哥。他满是垃圾的安息之地反映了这场征服仍在助长争吵，并考验着与西班牙的关系。
+* President Xi Jinping told a U.N. climate conference that his country would seek to reduce emissions by at least 7 to 10 percent by 2035. Ukraine’s president appealed for more weapons to fight Russia and warned of the dangers of a new arms race.
+* 习近平主席在联合国气候大会上表示，他的国家将寻求到2035年将排放量至少减少7%至10%。乌克兰总统呼吁提供更多武器来对抗俄罗斯，并警告新一轮军备竞赛的危险。
 * Some of the workers arrested this month at a Hyundai-LG factory said that although they had entered the United States under murky circumstances, they had always planned to return home.
 * 本月在现代-LG工厂被捕的一些工人表示，尽管他们在模糊的情况下进入美国，但他们一直计划回家。
+* One million residents of Guangdong, in southern China, were evacuated before the powerful storm made landfall on Wednesday. At least 18 people have been killed along its path this week.
+* 在周三强风暴登陆之前，中国南方广东省的100万居民被疏散。本周至少有18人在其路径上丧生。
+* Hungry and injured passengers on a medical evacuation flight showed the toll of nearly two years of bombardment.
+* 医疗后送航班上的饥饿和受伤乘客显示了近两年的轰炸造成的损失。
+* Hernán Cortés toppled the Aztecs, winning Mexico for Spain. His trash-strewn resting place reflects how the conquest is still fueling quarrels and testing ties with Spain.
+* 埃尔南·科尔特斯（ Hernán Cortés ）推翻了阿兹特克人，为西班牙赢得了墨西哥。他满是垃圾的安息之地反映了这场征服仍在助长争吵，并考验着与西班牙的关系。
+* The Israeli attack in Gaza City killed nearly two dozen Palestinians, the reports said. The Israeli military said it had hit two “Hamas terrorists.”
+* 报告称，以色列在加沙城的袭击造成近二十多名巴勒斯坦人死亡。以色列军方说，它击中了两名“哈马斯恐怖分子”。
 * A museum’s directors said Chinese and Thai officials pressured them to remove the names of artists whose works criticized China. The curator flew to London, fearing arrest.
 * 一家博物馆的馆长说，中国和泰国官员向他们施压，要求他们删除那些作品批评中国的艺术家的名字。馆长因害怕被捕而飞往伦敦。
-* Ahmed al-Shara has shifted shapes many times during his ascent from rebel commander to national leader. This week, he is expected to be the first Syrian president to address the U.N. General Assembly in 58 years.
-* 艾哈迈德·沙雷（ Ahmed al-Shara ）在从叛军指挥官到国家领导人的崛起过程中多次改变形态。本周，他预计将成为58年来首位在联合国大会上发言的叙利亚总统。
-* Errol Musk has been accused of sexually abusing five of his children and stepchildren since 1993, a Times investigation found. Family members have appealed to Elon Musk for help.
-* 《纽约时报》的一项调查发现，埃罗尔·马斯克（ Errol Musk ）自1993年以来一直被指控性虐待他的五个孩子和继子女。家人已经向埃隆·马斯克（ Elon Musk ）求助。
-* It was not clear who was behind the episode, but Denmark’s prime minister called it the “most serious attack so far” on her country’s infrastructure.
-* 目前尚不清楚这起事件的幕后黑手是谁，但丹麦首相称这是对丹麦基础设施的“迄今为止最严重的袭击”。
-* Filling stations have become must-stop spots for soldiers traveling to and from the front, helping them win a place in Ukrainians’ hearts.
-* 加油站已成为士兵往返前线的必经之地，帮助他们在乌克兰人心中赢得一席之地。
+* U.S. officials say they will pull visas and deport people who trivialize Charlie Kirk’s murder, part of intensifying scrutiny of visa applicants’ views.
+* 美国官员表示，他们将撤销签证，并将那些轻视查理·柯克谋杀案的人驱逐出境，这是加强对签证申请人意见审查的一部分。
+* The Ukrainian leader’s U.N. speech came just a day after President Trump suddenly said Ukraine could win the war with Russia, a change in stance so dramatic it left many Ukrainians wary.
+* 这位乌克兰领导人在联合国发表讲话的前一天，特朗普总统突然表示，乌克兰可以赢得与俄罗斯的战争，这一立场的戏剧性变化让许多乌克兰人感到警惕。
+* The concession from President Lazarus Chakwera came despite reports of irregularities at the polls. Final results showed that Peter Mutharika had won nearly 57 percent of the vote.
+* 尽管有报道称民意调查中存在违规行为，但拉扎罗斯·查克韦拉总统还是做出了让步。最终结果显示，彼得·穆塔里卡赢得了近57%的选票。
 
 ## New York Times United States News
-* A report said DNA collected at checkpoints from about 2,000 Americans, mostly during the Biden administration, was sent to an F.B.I. database. Hundreds were not charged.
-* 一份报告称，在检查站收集的大约2000名美国人的DNA ，主要是在拜登政府期间，被发送到联邦调查局的数据库。数百人没有被收费。
-* Journalists have long shaped history through scrutiny of the military. Now the Defense Department plans to cut off access for reporters who publish even unclassified information without official approval.
-* 记者长期以来一直通过对军队的审查来塑造历史。现在，国防部计划切断未经官方批准发布非机密信息的记者的访问权限。
-* The president has limited immigration judges’ power to release detainees facing deportation. Immigrant rights groups say the policy is illegal.
-* 总统限制了移民法官释放面临驱逐出境的被拘留者的权力。移民权利组织表示，该政策是非法的。
-* New York City’s Democratic mayoral front-runner wants to take on high grocery prices with government-run stores, but city intervention to keep food prices low isn’t new. We went to see what one of those government initiatives looks like today.
-* 纽约市的民主党市长领跑者希望通过政府经营的商店来应对高昂的杂货价格，但城市干预以保持低食品价格并不是什么新鲜事。我们去看看今天的政府举措是什么样子。
-* Ben Stiller, the actor and comedian, called Mr. Kimmel’s opening words a “brilliant monologue,” while some on the right questioned his authenticity.
-* 演员兼喜剧演员本·斯蒂勒（ Ben Stiller ）称金梅尔先生的开场白是“精彩的独白” ，而一些右翼人士则质疑他的真实性。
-* Adelita Grijalva won a special election on Tuesday in a reliably blue patch of her swing state to fill the seat held by her father before his death this year.
-* 阿德利塔·格里哈尔瓦（ Adelita Grijalva ）周二在她的摇摆州的一个可靠的蓝色补丁中赢得了特别选举，以填补她父亲今年去世前的席位。
-* The coming Senate collision in the deep-blue state will be a test of the Democratic Party’s appetite for generational change.
-* 即将到来的参议院在深蓝州的碰撞将考验民主党对代际变革的胃口。
-* President Trump’s speech at the United Nations took an isolating stance. David Sanger, a White House correspondent for The New York Times, explains what that means for the United States.
-* 特朗普总统在联合国的讲话采取了孤立的立场。《纽约时报》白宫记者大卫·桑格（ David Sanger ）解释了这对美国意味着什么。
-* Some homes in the city of Sallisaw, in the eastern part of the state, were damaged, as were trees, power lines and poles, officials said.
-* 官员说，该州东部萨利索市的一些房屋遭到破坏，树木、电线和电线杆也遭到破坏。
-* President Trump’s pivot could give him room to distance himself from a conflict that he once promised to solve in days or weeks.
-* 特朗普总统的支点可以给他空间，让他远离他曾经承诺在几天或几周内解决的冲突。
+* The concrete bed stopped a commercial flight that lost control during landing. The safety system slows a runaway aircraft by collapsing under its weight.
+* 混凝土床阻止了一架在着陆过程中失去控制的商业航班。安全系统通过在飞机重量下坍塌来减慢失控飞机的速度。
+* Members of a Senate panel described a haphazard working and living environment that involved transferring sensitive information to servers “without any verified security controls.”
+* 参议院小组成员描述了一个随意的工作和生活环境，其中涉及将敏感信息传输到服务器， “没有任何经过验证的安全控制”。
+* One detainee was killed and two others were wounded after a gunman opened fire on Wednesday. The gunman died of a self-inflicted gunshot wound.
+* 一名枪手周三开枪后，一名被拘留者被打死，另有两人受伤。枪手死于自己造成的枪伤。
+* William Berry has urged Alabama officials to stop the execution of Geoffrey West, arguing that it would bring neither justice nor closure.
+* 威廉·贝瑞（ William Berry ）敦促阿拉巴马州官员停止处决杰弗里·韦斯特（ Geoffrey West ） ，认为这不会带来正义或关闭。
+* To President Trump, the veracity of statistics and scorekeepers turns on a dime. Linda Qiu, a New York Times reporter, explains Trump’s approach to government data.
+* 对特朗普总统来说，统计数据和记分员的真实性是一毛钱。《纽约时报》记者Linda Qiu解释了特朗普处理政府数据的方法。
+* For years, John Alle complained to Los Angeles officials about homelessness. Now, fed up, he’s trying to make a dent in the problem on his own.
+* 多年来， John Alle向洛杉矶官员抱怨无家可归。现在，厌倦了，他正试图自己解决这个问题。
+* U.S. employers and colleges are contending with more young people who are behind academically. Some are trying to make up where schools have failed.
+* 美国雇主和大学正在与更多在学术上落后的年轻人展开竞争。有些人试图弥补学校的失败。
+* We’re asking because the reading scores of American 12th graders are at record lows.
+* 我们之所以这么问，是因为美国12年级学生的阅读成绩处于创纪录的低点。
+* The president’s top aides told agencies to prepare for potential firings if Congress cannot extend funding before the end of Sept. 30.
+* 总统的高级助手告诉各机构，如果国会无法在9月30日之前延长资金，就要为可能的解雇做好准备。
+* Taylor Budowich, a longtime Trump aide, played a large role in the president’s political operation after he left office in 2021.
+* 特朗普的长期助手泰勒·布多维奇（ Taylor Budowich ）在2021年离任后在总统的政治运作中发挥了重要作用。
 
 ## New York Times Asia News
+* For years, tattoo artists had to work in underground studios or windowless backrooms. They may soon be able to practice their craft in the open.
+* 多年来，纹身艺术家不得不在地下工作室或没有窗户的后台工作。他们可能很快就能在露天练习他们的手艺。
+* The Himalayan region supplies most of India’s apples. But when heavy rains left a major highway blocked for weeks, farmers couldn’t get them to markets.
+* 喜马拉雅地区供应印度大部分苹果。但是，当大雨导致一条主要高速公路封锁数周时，农民无法将它们带到市场。
+* Protesters demanding statehood for Ladakh, a strategically important Himalayan region, clashed with the police.
+* 抗议者要求拉达克建国，这是一个具有重要战略意义的喜马拉雅地区，与警方发生冲突。
+* Some Greenlanders asked why an apology had not come decades earlier, and chalked up the timing to tensions over President Trump’s aim of annexing the island.
+* 一些格陵兰人问道，为什么几十年前没有道歉，并记录了特朗普总统吞并该岛的目标导致紧张局势的时机。
+* Mr. Bhat, a scholar of Persian literature, was a rare and eloquent voice of moderation in Kashmir’s often militant separatist movement.
+* 波斯文学学者巴特先生是克什米尔经常激进的分离主义运动中罕见而雄辩的温和声音。
+* She worked in American consulates around the world but found a home in China’s “Paris of the East,” where she documented a vanishing colonial architecture.
+* 她曾在世界各地的美国领事馆工作，但在中国的“东方巴黎”找到了一个家，在那里她记录了一座正在消失的殖民地建筑。
+* Selling the prospect of high wages and stable migration rules, Germany’s ambassador to India makes a pitch to skilled Indian workers.
+* 德国驻印度大使兜售高工资和稳定移民规则的前景，向熟练的印度工人推销。
+* Hundreds of firefighters and soldiers dispatched to Guangfu have gone door to door to check for trapped residents.
+* 数百名被派往光复的消防员和士兵挨家挨户检查被困居民。
 * A burst pipe in an unfinished extension of Bangkok’s subway system opened a hole more than 60 feet deep in a road near a hospital and royal palaces.
 * 曼谷地铁系统未完工的延伸部分有一根破裂的管道，在医院和皇家宫殿附近的一条道路上开了一个60多英尺深的洞。
 * A museum’s directors said Chinese and Thai officials pressured them to remove the names of artists whose works criticized China. The curator flew to London, fearing arrest.
 * 一家博物馆的馆长说，中国和泰国官员向他们施压，要求他们删除那些作品批评中国的艺术家的名字。馆长因害怕被捕而飞往伦敦。
-* One million residents of Guangdong, in southern China, were evacuated. The storm left 15 dead in Taiwan.
-* 中国南方广东省有100万居民被疏散。台风造成台湾15人死亡。
-* Some of the workers arrested this month at a Hyundai-LG factory said that although they had entered the United States under murky circumstances, they had always planned to return home.
-* 本月在现代-LG工厂被捕的一些工人表示，尽管他们在模糊的情况下进入美国，但他们一直计划回家。
-* In a scathing speech at the General Assembly, the president complained about immigration, green energy and the United Nations itself.
-* 总统在联合国大会上发表了严厉的讲话，抱怨移民、绿色能源和联合国本身。
-* During his speech, the president also disparaged the work of the United Nations, which, he said, “did not even try to help” in any of the conflicts.
-* 在演讲中，总统还贬低了联合国的工作，他说，联合国“甚至没有试图帮助”任何冲突。
-* Years after Hakyung Lee left New Zealand for her native South Korea, the bodies of her children were found in Auckland. She faces life in prison.
-* 在Hakyung Lee离开新西兰前往韩国多年后，她的孩子的尸体在奥克兰被发现。她面临终身监禁。
-* The bipartisan delegation said more conversations were necessary to avoid accidental “miscalculations and misunderstandings” that could lead to conflict.
-* 两党代表团表示，有必要进行更多对话，以避免可能导致冲突的意外“误判和误解”。
-* The storm left 14 dead in Taiwan, and flooded Hong Kong and Macau, disrupting flights.
-* 这场风暴在台湾造成14人死亡，并淹没了香港和澳门，扰乱了航班。
-* Han Hak-ja — the widow of the church’s founder, the Rev. Sun Myung Moon — was accused of bribing a former first lady for business and political favors.
-* 韩学家--教会创始人孙明文牧师的遗孀--被指控贿赂前第一夫人以换取商业和政治利益。
 
