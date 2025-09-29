@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* The highly intelligent cephalopods filled fishing nets and gobbled up crabs and lobsters in Devon and Cornwall this summer.
+* 今年夏天，高度智能的头足类动物在德文郡和康沃尔郡填满了渔网，吞下了螃蟹和龙虾。
+* World leaders will discuss how to assist the Rohingya in the world’s largest refugee settlement. But no one living there is attending the conference at the United Nations.
+* 世界各国领导人将讨论如何在世界上最大的难民安置点帮助罗兴亚人。但那里没有人参加联合国的会议。
+* The president and Prime Minister Benjamin Netanyahu of Israel are set to meet in Washington after a week in which Israel grew more isolated internationally.
+* 以色列总统本雅明·内塔尼亚胡（ Benjamin Netanyahu ）和总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）将在华盛顿会晤，此前一周
+* As Prime Minister Benjamin Netanyahu of Israel and President Trump head into a meeting on Monday, new proposals are under discussion.
+* 随着以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）和特朗普总统周一开会，新提案正在讨论中。
+* At least a dozen people were killed and several others were missing in central Vietnam, where 2 million were without power. Bualoi’s deadly path had started with 10 deaths in the Philippines.
+* 在越南中部，至少有十几人被杀，另有几人失踪，那里有200万人没有电。Bualoi的致命之路始于菲律宾的10人死亡。
+* On a visit to Venezuela, The Times found a nation bracing for potential U.S. military action.
+* 在访问委内瑞拉期间，《泰晤士报》发现一个国家准备采取潜在的美国军事行动。
 * Parliamentary elections in this nation bordering Ukraine come at a critical moment in Moldova’s push for European Union membership.
 * 这个与乌克兰接壤的国家的议会选举正值摩尔多瓦争取加入欧盟的关键时刻。
+* At least four people were killed in the attack, which also wounded dozens of civilians in the capital and around the country.
+* 袭击造成至少4人死亡，首都和全国各地数十名平民受伤。
+* The move comes as the country seeks to break the international isolation it has faced since the Taliban seized power in 2021.
+* 此举正值该国试图打破自2021年塔利班夺取政权以来所面临的国际孤立。
 * Already suffering a 40 percent inflation rate and critical shortages of power and water, many in Iran expect conditions to get worse.
 * 许多伊朗人已经遭受了40 ％的通货膨胀率以及电力和水的严重短缺，他们预计情况会变得更糟。
-* European officials fear that Moscow is escalating its antagonism of Europe as U.S. support recedes. A focus of worry now: election interference in Moldova.
-* 欧洲官员担心，随着美国的支持力度减弱，莫斯科对欧洲的敌意正在升级。现在令人担忧的焦点：摩尔多瓦的选举干预。
-* With the closing of a crossing between a sleepy Ontario island and a village in New York State, islanders face modest inconvenience — and the end of an era.
-* 随着安大略省一个沉睡的岛屿和纽约州一个村庄之间的交叉口关闭，岛民们面临着适度的不便--一个时代的结束。
-* Beijing’s climate and trade pledges at the U.N. highlighted how modest moves can stand out when the United States is pulling back from global leadership.
-* 北京在联合国做出的气候和贸易承诺凸显了当美国退出全球领导地位时，适度的举动可以如何脱颖而出。
-* The stampede took place at an event for Joseph Vijay Chandrasekhar, the popular actor known professionally as Vijay.
-* 踩踏事件发生在约瑟夫·维贾伊·钱德拉塞卡（ Joseph Vijay Chandrasekhar ）的一次活动中，约瑟夫·维贾伊·钱德拉塞卡（ Joseph V
-* The Israeli prime minister faced walkouts and protests at the United Nations, but signaled that resisting Palestinian statehood could become the core of his appeal to Israeli voters.
-* 这位以色列总理在联合国面临罢工和抗议，但他表示，抵制巴勒斯坦建国可能成为他对以色列选民呼吁的核心。
-* Doctors Without Borders pulled its staff from Gaza City as the medical system buckled. The U.N. has warned that more hospitals may have to close.
-* 随着医疗系统的瘫痪，无国界医生组织将其工作人员从加沙市撤出。联合国警告说，更多的医院可能不得不关闭。
-* Ambassador Mike Huckabee is to travel to Cairo for talks that officials said would focus on the Gaza war and tensions between Israel and Egypt.
-* 美国驻联合国大使迈克·赫卡比（ Mike Huckabee ）将前往开罗参加会谈，官员们表示会谈的重点是加沙战争和以色列与埃及之间的紧张关系。
-* The unsuccessful bid to put off the sanctions for six months over Iran’s nuclear program means they would go into effect early Sunday in Iran.
-* 将对伊朗核计划的制裁推迟六个月的努力失败，这意味着制裁将于周日早些时候在伊朗生效。
 
 ## New York Times United States News
-* After a tumultuous year of staffing cuts, government employees now face the prospect of going without pay — or facing even more layoffs.
-* 在经历了一年的动荡裁员之后，政府雇员现在面临着无薪休假的前景，或者面临着更多的裁员。
-* Decarlos Brown Jr. had harbored paranoid delusions for years, yet under state law he was not considered dangerous enough to be treated against his will.
-* 小德卡洛斯·布朗（ Decarlos Brown Jr. ）多年来一直有偏执的妄想症，但根据州法律，他被认为不够危险，无法违背自己的意愿接受治疗。
-* The right-wing Republican congresswoman from Georgia has grown disillusioned with her own party and with President Trump, and increasingly willing to say so.
-* 这位来自格鲁吉亚的右翼共和党女议员对自己的政党和特朗普总统感到失望，并且越来越愿意这么说。
-* A family reckons with the devastation left behind after a former N.F.L. player showed up on their property.
-* 一个家庭认为，一名前NFL球员出现在他们的财产上后，留下了毁灭性的破坏。
-* Eight others were injured in the attack on the bar in Southport, N.C., the authorities said. The Coast Guard later detained a person matching a description of the shooter.
-* 当局称，在北卡罗来纳州南港的酒吧遇袭事件中，另有8人受伤。海岸警卫队后来拘留了一名与枪手描述相符的人。
-* Police said they used DNA to identify a suspect in the Austin killings known as the yogurt shop murders. The case has haunted the city for decades.
-* 警方表示，他们使用DNA识别了被称为酸奶店谋杀案的奥斯汀杀人案的嫌疑人。几十年来，这起案件一直困扰着这座城市。
-* The election technology company Dominion Voting Systems had accused Rudolph W. Giuliani of waging “a viral disinformation campaign” over the 2020 election.
-* 选举技术公司Dominion Voting Systems指责鲁道夫· W ·朱利安尼（ Rudolph W. Giuliani ）在2020年大选期间发动了“病毒式虚假宣传活动”。
-* School Board members in Iowa’s capital made the decision one day after immigration officials accused the superintendent, Ian Roberts, of being in the country illegally.
-* 爱荷华州首府的学校董事会成员在移民官员指控校长伊恩·罗伯茨非法入境后第二天做出了这一决定。
-* The outbreak has killed four people and spread to 15 states, with officials linking it to frozen pasta meals sold at Walmart and Kroger.
-* 疫情已造成4人死亡，并蔓延到15个州，官员将其与沃尔玛和克罗格销售的冷冻面食联系起来。
-* The damage was concentrated in Globe, a small city east of Phoenix, where heavy rains overflowed a creek.
-* 损坏集中在凤凰城以东的一个小城市Globe ，那里的大雨淹没了一条小溪。
+* At least four people were killed after an attacker opened fire at a Church of Jesus Christ of Latter-day Saint building and intentionally set fire to the structure.
+* 袭击者向耶稣基督后期圣徒教堂（ Church of Jesus Christ of Latter-day Saint ）大楼开火，并故意纵火，造成至少4人死亡。
+* The plane’s owner, an 82-year-old veteran, has asked the Supreme Court to hear his case and set limits on forfeitures of property used to commit crimes.
+* 这架飞机的拥有者是一名82岁的退伍军人，他已要求最高法院审理他的案件，并对没收用于犯罪的财产设定限制。
+* Coral Davenport, a New York Times reporter, explains how Russell Vought, the director of the Office of Management and Budget, plans to circumvent Congress’s budgetary powers to advance the Trump administration’s agenda.
+* 《纽约时报》记者珊瑚·达文波特（ Coral Davenport ）解释了管理和预算办公室主任罗素·沃特（ Russell Vought ）计划如何规避国会的预算权力，以推进特朗普政府的议程。
+* The top four congressional leaders were set to gather with President Trump on Monday, but with both sides dug in, there appeared to be little chance of a breakthrough to avoid a shutdown.
+* 国会四大领导人原定于周一与特朗普总统会面，但随着双方的深入，避免政府关门似乎没有什么突破的机会。
+* Without a deal in Congress by Tuesday, the government will run out of funding.
+* 如果没有在周二之前在国会达成协议，政府将耗尽资金。
+* A look at how one state has turbocharged the crackdown on anyone who has criticized Charlie Kirk after his death.
+* 看看一个国家如何加强对查理·柯克去世后批评他的人的镇压。
+* Russell T. Vought spent years drawing up plans to expand presidential power and shrink federal bureaucracy. Now he is moving closer to making that vision a reality, threatening to erode checks and balances.
+* 罗素·沃特（ Russell T. Vought ）花了数年时间制定扩大总统权力和缩小联邦官僚机构的计划。现在，他正朝着实现这一愿景的方向迈进，威胁要削弱制衡。
+* As immigration agents take a more aggressive approach, they have stopped and in some cases detained American citizens.
+* 随着移民代理人采取更具侵略性的做法，他们已经停止行动，并在某些情况下拘留了美国公民。
+* In a phone interview with NBC, Mr. Trump said an investigation of Christopher Wray could be underway, days after the Justice Department’s indictment of James B. Comey.
+* 特朗普在接受美国全国广播公司(NBC)电话采访时表示，在司法部起诉詹姆斯· B ·科米(James B. Comey)几天后，对克里斯托弗·雷(Christopher Wray)的调
+* The suspect, a 40-year-old man, was killed during the attack, officials said.
+* 官员说，这名嫌疑人是一名40岁的男子，在袭击中丧生。
 
 ## New York Times Asia News
+* At least a dozen people were killed and several others were missing in central Vietnam, where 2 million were without power. Bualoi’s deadly path had started with 10 deaths in the Philippines.
+* 在越南中部，至少有十几人被杀，另有几人失踪，那里有200万人没有电。Bualoi的致命之路始于菲律宾的10人死亡。
+* A generation of students in India pinned hopes and family savings on careers that once soared on H-1B visas allowing work in the United States.
+* 印度的一代学生将希望和家庭储蓄寄托在职业上，这些职业曾经在H-1B签证上飙升，允许在美国工作。
+* World leaders will discuss how to assist the Rohingya in the world’s largest refugee settlement. But no one living there is attending the conference at the United Nations.
+* 世界各国领导人将讨论如何在世界上最大的难民安置点帮助罗兴亚人。但那里没有人参加联合国的会议。
+* The move comes as the country seeks to break the international isolation it has faced since the Taliban seized power in 2021.
+* 此举正值该国试图打破自2021年塔利班夺取政权以来所面临的国际孤立。
 * Fears of U.S. surveillance drove Xi Jinping, China’s leader, to elevate the agency and put it at the center of his cyber ambitions.
 * 对美国监控的担忧促使中国领导人习近平提升该机构的地位，并将其置于其网络野心的中心。
 * He pioneered the study of Chinese law, was among the first foreigners to practice commercial law in China and spoke out about human rights there.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 官员说，在数据中心维护工作期间锂电池爆炸后的第二天，数百个国家服务仍处于离线状态。大火于周六扑灭。
 * Beijing’s climate and trade pledges at the U.N. highlighted how modest moves can stand out when the United States is pulling back from global leadership.
 * 北京在联合国做出的气候和贸易承诺凸显了当美国退出全球领导地位时，适度的举动可以如何脱颖而出。
-* The last time North Korea sent officials directly from the capital was in 2018, a year before direct diplomacy between its leader, Kim Jong-un, and President Trump collapsed.
-* 朝鲜上一次直接从首都派遣官员是在2018年，也就是朝鲜领导人金正恩与特朗普总统之间的直接外交崩溃的前一年。
-* Li Qiang, China’s second-highest-ranking official, portrayed Beijing as stable leader at a time when President Trump is pulling back from international institutions.
-* 中国第二高级官员李强表示，在特朗普总统退出国际机构的时候，北京是稳定的领导人。
-* Throughout Asia, the source of about 40 percent of U.S. imports, countries have little to show for weeks of talks trying to finalize deals.
-* 整个亚洲约占美国进口的40 ％ ，各国在数周的谈判中几乎没有什么可展示的，试图最终确定交易。
-* A new visa for science and engineering graduates is part of China’s effort to establish itself as the world leader in science and technology.
-* 科学和工程专业毕业生的新签证是中国努力成为世界科学技术领导者的一部分。
 
