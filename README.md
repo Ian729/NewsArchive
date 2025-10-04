@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Officials said that one of the men killed at the Heaton Park Congregation synagogue in northwestern England had been hit by police gunfire.
-* 官员说，在英格兰西北部希顿公园会堂犹太教堂遇难的一名男子被警察枪击。
-* Sarah Mullally, the bishop of London, will lead the Church of England. She has been a vocal supporter of the rights of women in the church.
-* 伦敦主教莎拉·穆拉利（ Sarah Mullally ）将领导英格兰教会。她一直是教会中妇女权利的直言不讳的支持者。
+* Israel said it would cooperate with the White House to end the war, but much remains unclear about Hamas’s future and whether it will agree to disarm.
+* 以色列表示将与白宫合作结束战争，但仍不清楚哈马斯的未来以及是否会同意解除武装。
+* A strike, and growing prospects of drastic cuts to the state-owned postal service, make life very hard for Canada’s remote communities.
+* 罢工以及国有邮政服务大幅削减的前景日益增长，使加拿大偏远社区的生活变得非常艰难。
+* Hamas’s statement inspired optimism for an end to the war, but did not address several elements of the plan that it had deemed unacceptable.
+* 哈马斯的声明激发了结束战争的乐观情绪，但没有涉及它认为不可接受的计划的几个要素。
+* Sanae Takaichi, a hard-line conservative, was elected as leader by Japan’s embattled governing party, paving the way for her to become prime minister of the coalition government.
+* 强硬的保守派高市早苗（ Sanae Takaichi ）被陷入困境的日本执政党选为领导人，为她成为联合政府的首相铺平了道路。
+* A congregant in Manchester, England, described how fellow worshipers, including the rabbi, used their bodies to barricade the entrance as the assailant tried to force his way in.
+* 英格兰曼彻斯特的一名会众描述了袭击者试图强行进入时，包括拉比在内的其他信徒如何使用他们的身体来封锁入口。
+* The Indian comedian Kunal Kamra was forced offstage after a political joke led to a mob attack. Unlike Jimmy Kimmel, he is unlikely to return anytime soon.
+* 印度喜剧演员库纳尔·卡姆拉（ Kunal Kamra ）在一个政治笑话导致暴徒袭击后被迫下台。与Jimmy Kimmel不同，他不太可能很快回来。
 * The appointment of Yuliia Svyrydenko, a business-oriented official, shows how Kyiv is trying to persuade the Trump administration that working with the country can be lucrative, even in wartime.
 * 尤利娅·斯维里登科（ Yuliia Svyrydenko ）是一名以商业为导向的官员，他的任命表明，基辅正试图说服特朗普政府，即使在战时，与该国合作也可以带来丰厚的利润。
-* The party of Andrej Babis, former leader of the Czech government, is expected to prevail in parliamentary elections that begin Friday.
-* 预计捷克政府前领导人安德烈·巴比斯（ Andrej Babis ）的政党将在周五开始的议会选举中获胜。
+* Sarah Mullally, the bishop of London, has been appointed archbishop of Canterbury. She has been a vocal supporter of the rights of women in the church.
+* 伦敦主教Sarah Mullally被任命为坎特伯雷大主教。她一直是教会中妇女权利的直言不讳的支持者。
 * Japan’s beleaguered governing party will convene for a crucial election that could pave the way for the first female prime minister or the youngest leader in 140 years.
 * 日本陷入困境的执政党将举行重要选举，为140年来首位女首相或最年轻的领导人铺平道路。
-* The airport in Germany was the latest in Europe to shut because of drone sightings. Officials have blamed Russia, which has denied being behind the drone incursions.
-* 由于无人机目击事件，德国机场是欧洲最近关闭的机场。官员们指责俄罗斯，俄罗斯否认是无人机入侵的幕后黑手。
-* A growing protest movement on the African island, despite deadly clashes with security forces, vows to keep fighting until Andry Rajoelina is ousted.
-* 尽管与安全部队发生了致命冲突，但非洲岛上越来越多的抗议运动发誓要继续战斗，直到安德里·拉乔利纳被赶下台。
-* The Danish public has been unsettled by a wave of mysterious drone incursions, which has underscored the country’s vulnerability.
-* 丹麦公众对一波神秘的无人机入侵事件感到不安，这凸显了该国的脆弱性。
-* American comics used Saudi Arabia’s first global comedy festival to skewer a debate raging at home. Critics said the event was part of Saudi efforts to draw attention away from a political crackdown.
-* 美国漫画利用沙特阿拉伯第一个全球喜剧节来煽动国内激烈的辩论。批评人士称，此次事件是沙特努力将人们的注意力从政治镇压中转移开的一部分。
-* Officials were optimistic on Thursday that most of the missing had been accounted for. But severe damage to the area means many people lack shelter, water and electricity.
-* 官员们周四乐观地认为，大多数失踪人员已经找到。但该地区的严重破坏意味着许多人缺乏住所、水和电力。
+* The party of Andrej Babis, former leader of the Czech government, is expected to prevail in parliamentary elections that begin Friday.
+* 预计捷克政府前领导人安德烈·巴比斯（ Andrej Babis ）的政党将在周五开始的议会选举中获胜。
 
 ## New York Times United States News
-* Prosecutors have asked a judge for at least 30 years in prison for Sophie Roske, who traveled from California to Maryland intending to kill Justice Brett Kavanaugh.
-* 苏菲·罗斯克（ Sophie Roske ）从加利福尼亚州前往马里兰州，试图杀死布雷特·卡瓦诺（ Brett Kavanaugh ）法官，检察官已经要求法官至少判处30年徒刑。
-* Duke University kept a low profile. But it is the alma mater of Stephen Miller, a top Trump official who often criticized the school while he was a student.
-* 杜克大学保持低调。但这是斯蒂芬·米勒（ Stephen Miller ）的母校，他是特朗普的高级官员，在他还是学生的时候经常批评这所学校。
-* The death of Balin Miller, 23, shocked his family and onlookers who were watching his ascent of the famed rock face.
-* 23岁的巴林·米勒（ Balin Miller ）的去世震惊了他的家人和旁观者，他们正在观看他攀登着名的岩石面。
-* It was not immediately clear what caused the blast, which residents said felt like an earthquake. The fire was still burning more than two hours after it started.
-* 目前尚不清楚爆炸的原因，居民说这感觉像是地震。火灾开始后两个多小时仍在燃烧。
-* Trump administration officials have issued several legal threats over ICEBlock, a popular app that allows users to alert others to the presence of nearby immigration agents.
-* 特朗普政府官员已经对ICEBlock发出了几项法律威胁， ICEBlock是一款受欢迎的应用程序，允许用户提醒其他人附近有移民代理。
-* Shutdowns are always unpleasant affairs. But President Trump has used his power in aggressive and strikingly personal ways.
-* 停工总是令人不快的事情。但特朗普总统以侵略性和引人注目的个人方式使用了他的权力。
-* The defense secretary raised the issue suggesting women were getting into combat not because they met high standards, but because they were given a pass.
-* 国防部长提出了这个问题，暗示女性参战不是因为她们达到了高标准，而是因为她们获得了通行证。
-* Trump officials want universities to sign on to conservative priorities to get special treatment. Some in higher education say agreeing would end academic freedom.
-* 特朗普官员希望大学加入保守的优先事项，以获得特殊待遇。一些高等教育人士表示，同意将结束学术自由。
-* President Trump, who once insisted he had “nothing to do with Project 2025,” has implemented many of the proposals from the right-wing policy document.
-* 特朗普总统曾坚称他“与2025年项目无关” ，他已经实施了右翼政策文件的许多建议。
-* The out-of-office responses from the accounts of employees on furlough cast blame for the shutdown on Democrats.
-* 休假员工账户上的办公室外回应将关闭归咎于民主党人。
+* The White House has cut or paused billions in funding to Democratic-run cities and states since the federal government came to a halt.
+* 自联邦政府停止运作以来，白宫已削减或暂停向民主党管理的城市和州提供数十亿美元的资金。
+* Messages on official government channels blaming Democrats for the shutdown are one of the most significant hits yet to the longstanding wall between federal workers and politics, historians said.
+* 历史学家表示，官方政府渠道上指责民主党人关闭的消息是迄今为止对联邦工作人员与政治之间长期存在的隔离墙的最重要打击之一。
+* Riley Walz, 23, has gained fame for his online antics. His latest stunt has upset city officials.
+* 23岁的Riley Walz因其在线滑稽动作而声名鹊起。他最近的噱头让市政府官员感到不安。
+* The Trump administration has cut off funding for certain providers around the country whose offerings include abortion. Patients in Maine are among those who will feel the fallout.
+* 特朗普政府已经切断了对全国某些提供堕胎服务的提供者的资助。缅因州的患者也会感受到后果。
+* The defense secretary cites a ‘Trump bump.’ But the Army’s recruiting surge wouldn’t have been possible without the program started three years ago at Fort Jackson.
+* 国防部长引用了“特朗普的颠簸”。“但如果没有三年前在杰克逊堡启动的计划，陆军的招募激增是不可能的。
+* A West Coast version of Zohran Mamdani’s campaign is playing out in Portland. But the socialist city councilors, who say the city has been “run by the rich” for too long, are facing significant opposition.
+* Zohran Mamdani竞选活动的西海岸版本正在波特兰上演。但社会主义市议员表示，这座城市“由富人管理”的时间太长了，他们正面临着强烈的反对意见。
+* The Fort Lauderdale museum, one of the country’s oldest L.G.B.T.Q. institutions, is looking to its rich archives for lessons in how to survive a crisis. Here’s a look inside its collection.
+* 劳德代尔堡博物馆是该国最古老的LGBTQ机构之一，它正在寻找丰富的档案，了解如何在危机中生存下来。以下是其收藏的内容。
+* A man in a vehicle displaying a handwritten sign referring to President Trump refused to exit his car as the authorities shut down surrounding streets. The man was taken into custody.
+* 一名男子在一辆车上展示了一个手写的标语，上面写着特朗普总统拒绝下车，因为当局关闭了周围的街道。这名男子被拘留。
+* Many of the slots would go to white South Africans and others facing “unjust discrimination,” according to people familiar with the matter and documents obtained by The New York Times.
+* 据知情人士和《纽约时报》获得的文件显示，许多名额将流向南非白人和其他面临“不公正歧视”的人。
+* In a social media post, the far-right Georgia congresswoman called on Senate Republicans to eliminate the filibuster, lowering the threshold on future legislation to a simple majority.
+* 在一篇社交媒体帖子中，极右翼的佐治亚州女议员呼吁参议院共和党人取消阻挠议案，将未来立法的门槛降低到简单多数。
 
 ## New York Times Asia News
+* Sanae Takaichi, a hard-line conservative, was elected as leader by Japan’s embattled governing party, paving the way for her to become prime minister of the coalition government.
+* 强硬的保守派高市早苗（ Sanae Takaichi ）被陷入困境的日本执政党选为领导人，为她成为联合政府的首相铺平了道路。
+* Residents are protesting a planned housing facility for foreign workers, exposing the conflict between Japan’s need for labor and anxieties over immigration.
+* 居民们正在抗议计划中的外国工人住房设施，这暴露了日本对劳动力的需求和对移民的焦虑之间的冲突。
+* The Indian comedian Kunal Kamra was forced offstage after a political joke led to a mob attack. Unlike Jimmy Kimmel, he is unlikely to return anytime soon.
+* 印度喜剧演员库纳尔·卡姆拉（ Kunal Kamra ）在一个政治笑话导致暴徒袭击后被迫下台。与Jimmy Kimmel不同，他不太可能很快回来。
+* Four days after the collapse, families of the school’s students in East Java were in shock, demanding answers as the search for bodies churned on.
+* 崩溃四天后，东爪哇的学生家属感到震惊，在搜寻尸体的过程中要求得到答案。
 * Japan’s beleaguered governing party will convene for a crucial election that could pave the way for the first female prime minister or the youngest leader in 140 years.
 * 日本陷入困境的执政党将举行重要选举，为140年来首位女首相或最年轻的领导人铺平道路。
 * Young South Koreans are buying Buddhist merch. Monks and experts hope the buzz will translate into deeper engagement.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 该地区首府的抗议活动因竞争对手游行聚集而引发，而高昂的价格和选举改革要求等熟悉的抱怨则助长了这场抗议活动。
 * The Danish public has been unsettled by a wave of mysterious drone incursions, which has underscored the country’s vulnerability.
 * 丹麦公众对一波神秘的无人机入侵事件感到不安，这凸显了该国的脆弱性。
-* Officials were optimistic on Thursday that most of the missing had been accounted for. But severe damage to the area means many people lack shelter, water and electricity.
-* 官员们周四乐观地认为，大多数失踪人员已经找到。但该地区的严重破坏意味着许多人缺乏住所、水和电力。
-* A family’s campaign to free a student abducted from a rural Israeli town two years ago may be imperiled by an uprising in Nepal and stalled attempts at a cease-fire.
-* 一个家庭为释放两年前在以色列农村城镇被绑架的学生而发起的运动可能会受到尼泊尔起义和停火企图的威胁。
-* Rescuers saved five more students from under the building on Thursday but said they would end the search three days after the deadly accident.
-* 救援人员周四从大楼下又救出了五名学生，但表示他们将在致命事故发生三天后结束搜索。
-* A U.S. aid agency had committed hundreds of millions of dollars to the project, which could help provide clean water. Now its board wants to pull out of the agreement.
-* 一家美国援助机构为该项目投入了数亿美元，这可以帮助提供清洁用水。现在，其董事会希望退出协议。
 
