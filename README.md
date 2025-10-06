@@ -2,53 +2,61 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The longest war of an endless Israeli-Palestinian conflict has come to challenge Israel’s own image and understanding of itself.
-* 无休止的以色列-巴勒斯坦冲突中最长的战争已经挑战了以色列自己的形象和对自己的理解。
-* At Bavaria’s annual celebration of autumn and beer, new generations of partyers and new arrivals to Germany are adding their own twists to traditional fashion.
-* 在巴伐利亚一年一度的秋季和啤酒庆祝活动中，新一代的聚会和新来德国的人正在为传统时尚增添自己的风格。
-* In a country where power is highly centralized, Moscow sets the tone for Vladivostok, 4,000 miles away, complicating longstanding ambitions to make it a trading powerhouse.
-* 在一个权力高度集中的国家，莫斯科为4000英里外的符拉迪沃斯托克定下了基调，使其成为贸易强国的长期抱负复杂化。
-* Indirect negotiations through mediators are planned for Monday in Egypt, but serious obstacles remain to any deal that would free hostages in Gaza in exchange for Palestinian prisoners.
-* 计划于周一在埃及通过调解人进行间接谈判，但任何释放加沙人质以换取巴勒斯坦囚犯的协议仍然存在严重障碍。
-* The attack came at a time of heightened anxiety after a deadly terrorist attack at a synagogue in Manchester.
-* 此次袭击发生在曼彻斯特一座犹太教堂发生致命恐怖袭击后焦虑情绪加剧之际。
-* Syrians are voting indirectly, and President Ahmed al-Shara is appointing a third of the lawmakers. Still, some see this as a step forward after decades of dictatorship.
-* 叙利亚人正在间接投票，艾哈迈德·沙雷总统任命了三分之一的立法者。尽管如此，一些人认为这是在几十年的独裁统治之后向前迈出的一步。
-* The Israeli leader thought he had a plan from the U.S. president that would have represented total victory over Hamas. Suddenly, it looks as though he might not get everything he wants.
-* 这位以色列领导人认为，他从美国总统那里得到了一个计划，代表着对哈马斯的全面胜利。突然间，他看起来好像没有得到他想要的一切。
-* Both sides have reacted positively to a United States proposal for a cease-fire, but many details remain to be ironed out, including whether Hamas will disarm.
-* 双方都对美国提出的停火建议作出了积极反应，但许多细节仍有待解决，包括哈马斯是否会解除武装。
-* Some victims of the Cebu earthquake in the Philippines lived in homes that were supposed to withstand natural disasters.
-* 菲律宾宿务地震的一些受害者居住在应该能够承受自然灾害的房屋中。
-* As bishop of London, Sarah Mullally placed herself in the middle of the church’s most charged issues. But experts predict that her years treating cancer patients could inform how she approaches her new role.
-* 作为伦敦主教，莎拉·穆拉利（ Sarah Mullally ）将自己置于教会最受关注的问题之中。但专家预测，她多年来治疗癌症患者可以告诉她如何接近她的新角色。
-
-## New York Times United States News
-* Some underground attractions are closed, and many outdoor sites have reduced their services.
-* 一些地下景点关闭，许多户外景点减少了服务。
-* Under a new state law, public schools can no longer sponsor gay and gender clubs or “assist” with transitioning, but implementation appears to be varying by the politics of the districts.
-* 根据新的州法律，公立学校不能再赞助同性恋和性别俱乐部或“协助”过渡，但实施情况似乎因地区政治而异。
-* By sending troops to U.S. cities that are not in active crisis, President Trump is breaking with military tradition. Helene Cooper, who covers national security issues for The New York Times, compares his recent actions with earlier domestic military deployments.
-* 特朗普总统向没有陷入危机的美国城市派遣军队，打破了军事传统。为《纽约时报》报道国家安全问题的海琳·库珀（ Helene Cooper ）将他最近的行动与国内早期的军事部署进行了比较。
-* Colorado and more than 20 other states restrict therapists from trying to change the gender identity or sexual orientation of clients under age 18.
-* 科罗拉多州和其他20多个州限制治疗师试图改变18岁以下客户的性别认同或性取向。
-* A proposal to expand the Defense Department’s health care plan to include in vitro fertilization is moving through Congress but could die behind closed doors, again.
-* 扩大国防部医疗保健计划以包括体外受精的提案正在国会通过，但可能会再次闭门造车。
+* Pakistan uprooted the Taliban with U.S. help in the 2010s. But the insurgency has resurfaced with assistance from the Afghan Taliban.
+* 2010年代，巴基斯坦在美国的帮助下铲除了塔利班。但是，在阿富汗塔利班的协助下，叛乱重新浮出水面。
+* Sébastien Lecornu stepped down less than 24 hours after he had formed his cabinet.
+* 塞巴斯蒂安·勒科努（ Sébastien Lecornu ）在组建内阁后不到24小时就辞职了。
+* Two years of intense warfare in Gaza have left its people with a dismembered and disordered society. The destruction is vast and many Gazans have mental and physical wounds that could scar a generation.
+* 加沙两年的激烈战争给加沙人民留下了一个四分五裂和无序的社会。破坏是巨大的，许多加沙人的身心创伤可能会给一代人留下疤痕。
+* Though significant issues remain to be hashed out between Israel and Hamas, some are saying that after two years of death and destruction, a breakthrough may be near.
+* 尽管以色列和哈马斯之间的重大问题仍有待解决，但有些人说，经过两年的死亡和破坏，可能即将取得突破。
+* The government reviews show the country’s challenge as U.S. support wanes and Kyiv pivots to production from a domestic arms industry with a long history of corruption.
+* 政府审查显示，随着美国的支持力度减弱，基辅从一个有着悠久腐败历史的国内军火行业转向生产，该国面临挑战。
+* The snowfall buried tents and reduced visibility. The local authorities said that they were in contact with the hikers and that rescue efforts were underway.
+* 降雪掩埋了帐篷，降低了能见度。当地政府表示，他们正在与徒步旅行者联系，救援工作正在进行中。
+* One man has appealed his conviction in a case in which a Frenchman drugged his wife and invited scores of men to rape her.
+* 一名男子在一起案件中对他的定罪提出上诉，在这起案件中，一名法国人给他的妻子下了药，并邀请了数十名男子强奸她。
+* The Frenchwoman who became a feminist icon will confront one of the men convicted after her husband drugged her and invited them to rape her over nearly 10 years.
+* 这位成为女权主义偶像的法国妇女将在丈夫给她下药并邀请他们强奸她近10年后，面对其中一名被定罪的男子。
+* Kemi Badenoch, whose party is sinking in polls, outlined plans resembling Trump policies against those accused of being in the United States illegally.
+* 凯米·巴德诺赫（ Kemi Badenoch ）的政党在民意调查中陷入困境，他概述了类似特朗普政策的计划，针对那些被指控非法在美国的人。
 * Nicaragua’s authoritarian government has begun holding dissidents without revealing their whereabouts or acknowledging their detention. Two have turned up dead.
 * 尼加拉瓜的威权主义政府已经开始关押持不同政见者，但没有透露他们的下落或承认他们被拘留。其中两人已经死亡。
-* A federal judge appointed by President Trump issued a temporary restraining order, siding for now with Oregon and Portland lawyers who called federalizing the guard a presidential overreach.
-* 特朗普总统任命的一名联邦法官发布了一项临时限制令，暂时支持俄勒冈州和波特兰州的律师，他们称联邦化警卫是总统的过度行为。
-* The clash touched off more protests in the city over immigration enforcement. The Illinois governor said National Guard troops could be deployed soon against his wishes.
-* 这场冲突在该市引发了更多关于移民执法的抗议活动。伊利诺伊州州长表示，国民警卫队可能很快就会违背他的意愿部署。
-* Mr. Sanchez, who works as a Fox Sports commentator, was charged with battery on Saturday, the police said. He was in stable condition after being injured in the early-morning episode in Indianapolis.
-* 警方称，桑切斯先生是一名福克斯体育评论员，周六被指控犯有电池罪。他在印第安纳波利斯清晨受伤后情况稳定。
-* A 13-year-old and 4-year-old were killed, officials said. A 9-year-old and 8-year-old were airlifted for medical care and were in critical condition.
-* 官员说，一名13岁和4岁的孩子被打死。一名9岁和8岁的儿童被空运接受医疗护理，情况危急。
+
+## New York Times United States News
+* Dallin H. Oaks, 93, the next president of the global body, addressed the conference a week after an attack on a  church in Michigan.
+* 93岁的达林· H ·奥克斯（ Dallin H. Oaks ）是该全球机构的下一任主席，他在密歇根州一座教堂遭到袭击一周后在会议上发表讲话。
+* As the justices return to the bench Monday, the court will confront a series of cases central to the president’s agenda.
+* 随着法官周一重返法庭，法院将面临一系列对总统议程至关重要的案件。
+* The president, speaking aboard an aircraft carrier off Norfolk, Va., repeated his claims that the boats were trafficking drugs bound for the United States.
+* 总统在弗吉尼亚州诺福克附近的一艘航空母舰上发表讲话时重申了他的说法，即这些船只正在贩运运往美国的毒品。
+* The student, who had minor injuries, was rescued after being lodged in a tree in Nashville. The instructor was “presumed to have fallen from the sky without a parachute,” the police said.
+* 这名受轻伤的学生被安置在纳什维尔的一棵树上后获救。警方称，这名教官“假定没有降落伞就从天而降”。
+* Senator Chuck Schumer and Speaker Mike Johnson each accused the other of not being “serious” about talks to end the shutdown as the government was closed for a fifth day.
+* 参议员查克·舒默(Chuck Schumer)和议长迈克·约翰逊(Mike Johnson)各自指责对方对结束政府关闭的谈判不“认真” ，因为政府关闭了五天。
+* A recently released affidavit relates new details about the July death in a Kansas jail of a man with medical problems who was handcuffed and face down on a bunk.
+* 最近发布的一份宣誓书涉及7月份在堪萨斯州监狱中死亡的新细节，一名患有医疗问题的男子被戴上手铐，面朝下铺。
+* The account in the federal criminal complaint, which differs significantly from an earlier homeland security statement, says the motorists rammed officers’ vehicle and that an agent shot one when she drove her car at him.
+* 联邦刑事诉讼中的陈述与早些时候的国土安全声明有很大不同，该陈述称，驾车者撞上了警官的车辆，一名特工在开车时向他开了一枪。
+* Ian Roberts rose through the ranks of American education with talent, charm and a riveting back story. He was also hiding a shocking secret.
+* 伊恩·罗伯茨（ Ian Roberts ）凭借才华、魅力和引人入胜的背景故事，在美国教育界崭露头角。他还隐藏着一个令人震惊的秘密。
+* A federal judge in Oregon accused the administration of circumventing her order, even as the president turned to Texas for troops aimed at Chicago and other cities.
+* 俄勒冈州的一名联邦法官指责政府规避她的命令，尽管总统转向德克萨斯州寻求针对芝加哥和其他城市的部队。
+* Gov. JB Pritzker of Illinois said he had ordered state agencies to investigate a raid on a Chicago apartment building where there had been reports of  “nearly naked” children zip-tied by federal officers.
+* 伊利诺伊州州长普利兹克（ JB Pritzker ）表示，他已下令州政府机构调查对芝加哥一栋公寓楼的突袭，那里有报道称联邦官员将“近乎裸体”的儿童绑在拉链上。
 
 ## New York Times Asia News
-* Deadly rainfall, which also hit neighboring India, added to the woes of interim leaders in Nepal who took over last month after nationwide protests.
-* 致命的降雨也袭击了邻国印度，加剧了尼泊尔临时领导人的困境，他们上个月在全国范围内的抗议活动后接管了尼泊尔。
-* The tropical cyclone disrupted transportation, forced more than 151,000 evacuations and raised fears of flooding as it barreled toward Guangdong province.
+* The ram air turbine, used when electrical power or hydraulic pressure fails, was deployed during an Air India flight that landed safely over the weekend. The same system had been activated during a flight that crashed in June.
+* 当电力或液压发生故障时使用的冲压空气涡轮机在印度航空公司的一次航班上部署，该航班在周末安全降落。在6月坠毁的一次飞行中，同样的系统被激活。
+* The snowfall buried tents and reduced visibility. The local authorities said that they were in contact with the hikers and that rescue efforts were underway.
+* 降雪掩埋了帐篷，降低了能见度。当地政府表示，他们正在与徒步旅行者联系，救援工作正在进行中。
+* Pakistan uprooted the Taliban with U.S. help in the 2010s. But the insurgency has resurfaced with assistance from the Afghan Taliban.
+* 2010年代，巴基斯坦在美国的帮助下铲除了塔利班。但是，在阿富汗塔利班的协助下，叛乱重新浮出水面。
+* The governing party’s unexpected choice of Sanae Takaichi as its leader and Japan’s likely next prime minister caused the yen to weaken and stocks to soar on Monday.
+* 执政党出人意料地选择高市早苗(Sanae Takaichi)担任其领导人，并可能成为日本下一任首相，这导致日元贬值，股市周一飙升。
+* Last month, nationwide protests ousted the government. Now, Nepal’s interim leaders are dealing with heavy rains that have snarled transportation and killed dozens.
+* 上个月，全国性的抗议活动推翻了政府。现在，尼泊尔的临时领导人正在应对暴雨，这场暴雨扰乱了交通，造成数十人死亡。
+* The tropical cyclone disrupted transportation, forced more than 151,000 evacuations and raised fears of flooding as it barreled toward Guangdong Province.
 * 热带气旋扰乱了交通，迫使超过151,000人撤离，并在向广东省进发时引发了对洪水的担忧。
 * In a country where power is highly centralized, Moscow sets the tone for Vladivostok, 4,000 miles away, complicating longstanding ambitions to make it a trading powerhouse.
 * 在一个权力高度集中的国家，莫斯科为4000英里外的符拉迪沃斯托克定下了基调，使其成为贸易强国的长期抱负复杂化。
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 高市女士将成为日本首位女首相，在这个国家，女性在最高权力层的代表性严重不足。
 * Sanae Takaichi, a hard-line conservative, was elected as leader by Japan’s embattled governing party, paving the way for her to become prime minister of the coalition government.
 * 强硬的保守派高市早苗（ Sanae Takaichi ）被陷入困境的日本执政党选为领导人，为她成为联合政府的首相铺平了道路。
-* Residents are protesting a planned housing facility for foreign workers, exposing the conflict between Japan’s need for labor and anxieties over immigration.
-* 居民们正在抗议计划中的外国工人住房设施，这暴露了日本对劳动力的需求和对移民的焦虑之间的冲突。
-* The Indian comedian Kunal Kamra was forced offstage after a political joke led to a mob attack. Unlike Jimmy Kimmel, he is unlikely to return anytime soon.
-* 印度喜剧演员库纳尔·卡姆拉（ Kunal Kamra ）在一个政治笑话导致暴徒袭击后被迫下台。与Jimmy Kimmel不同，他不太可能很快回来。
-* Four days after the collapse, families of the school’s students in East Java were in shock, demanding answers as the search for bodies churned on.
-* 崩溃四天后，东爪哇的学生家属感到震惊，在搜寻尸体的过程中要求得到答案。
-* Japan’s beleaguered governing party will convene for a crucial election that could pave the way for the first female prime minister or the youngest leader in 140 years.
-* 日本陷入困境的执政党将举行重要选举，为140年来首位女首相或最年轻的领导人铺平道路。
 
