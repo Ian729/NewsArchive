@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* An exchange of hostages and prisoners was expected this weekend. Prime Minister Benjamin Netanyahu of Israel said he would convene his cabinet to sign off on the agreement, and President Trump said he might travel to the region.
-* 预计本周末将交换人质和囚犯。以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）表示，他将召集内阁签署协议，特朗普总统表示他可能会前往该地区。
-* Even leaders from the far-right Alternative for Germany party, which opposes aid to Ukraine, have embraced the jobs that come with new weapons production.
-* 即使是反对援助乌克兰的极右翼德国另类选择党的领导人也接受了新武器生产带来的工作。
-* China’s baby boom enriched a small Irish town where a Nestlé factory made formula for Chinese newborns. Then a baby bust unraveled it all. Or so it seemed.
-* 中国的婴儿潮丰富了一个爱尔兰小镇，一家雀巢工厂在那里为中国新生儿制作配方奶粉。然后，一个婴儿的半身像揭开了这一切。或者看起来是这样。
+* Prime Minister Benjamin Netanyahu won cabinet approval for the first phase of a cease-fire agreement with Hamas. President Trump said hostages held in Gaza would be released early next week.
+* 总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）获得内阁批准与哈马斯达成停火协议的第一阶段。特朗普总统表示，被扣押在加沙的人质将于下周初获释。
+* Haitian children face intensifying problems of crime, hunger and homelessness as the country’s humanitarian crisis shows no signs of easing, a report from a U.N. agency found.
+* 联合国机构的一份报告发现，海地儿童面临的犯罪、饥饿和无家可归问题日益严重，因为该国的人道主义危机没有缓解的迹象。
+* In Germany’s depressed East, even far-right opponents of support for Ukraine have embraced the jobs that come with new weapons production.
+* 在德国萧条的东部，即使是支持乌克兰的极右翼反对者也接受了新武器生产带来的工作。
 * A new program using satellite imagery seeks to raise pressure on avocado growers by getting support from American buyers.
 * 一项使用卫星图像的新计划旨在通过获得美国买家的支持来增加鳄梨种植者的压力。
+* China’s baby boom enriched a small Irish town where a Nestlé factory made formula for Chinese newborns. Then a baby bust unraveled it all. Or so it seemed.
+* 中国的婴儿潮丰富了一个爱尔兰小镇，一家雀巢工厂在那里为中国新生儿制作配方奶粉。然后，一个婴儿的半身像揭开了这一切。或者看起来是这样。
 * For decades, Thai students have been subjected to unwanted haircuts in class. Many of them carry the humiliating memory into adulthood.
 * 几十年来，泰国学生在课堂上一直受到不必要的发型。他们中的许多人将羞辱的记忆带入成年。
-* The families of hostages held in Gaza were elated that their loved ones might return soon. Still, some expressed frustration at Israel’s government.
-* 被扣押在加沙的人质家属对他们的亲人可能很快就会返回感到高兴。尽管如此，一些人对以色列政府表示沮丧。
-* There was widespread relief in the devastated territory after news emerged that the fighting may end, even though many details of the agreement have yet to be made clear.
-* 尽管协议的许多细节尚未明确，但在有消息称战斗可能会结束后，被摧毁的领土上出现了广泛的缓解。
-* Young people in Nepal rose up against corruption and inequality. But they say they did not expect the bloodshed, arson and government downfall that followed.
-* 尼泊尔的年轻人起来反对腐败和不平等。但他们表示，他们没有预料到随后发生的流血、纵火和政府倒台。
-* Jihad al-Shamie, who attacked a Manchester synagogue on the holiest day of the Jewish calendar, called the emergency services during the attack to claim responsibility.
-* 在犹太历中最神圣的一天袭击曼彻斯特犹太教堂的Jihad al-Shamie在袭击期间致电紧急服务部门声称对此负责。
-* Marriages and other glad occasions in Syria are often celebrated by firing shots in the air. But after nearly 14 years of war, people want the guns to go silent.
-* 在叙利亚，婚姻和其他快乐的场合通常是通过向空中开枪来庆祝的。但经过近14年的战争，人们希望枪声保持沉默。
+* The message signaled a continuation of one of the priorities of his predecessor, Francis.
+* 这一信息标志着他的前任弗朗西斯的优先事项之一的延续。
+* The families of hostages held in Gaza were elated that their loved ones might return soon. Still, some expressed frustration at Israel’s government ahead of a vote on the deal.
+* 被扣押在加沙的人质家属对他们的亲人可能很快就会返回感到高兴。尽管如此，一些人在对该协议进行投票之前对以色列政府表示沮丧。
+* There was a mix of relief, joy, disbelief and fear in the devastated territory after news emerged that the fighting might end, though many details of the agreement have yet to be made clear.
+* 在战斗可能结束的消息传出后，在被摧毁的领土上，人们松了一口气，喜悦，怀疑和恐惧混合在一起，尽管协议的许多细节尚未明确。
+* President Vladimir Putin’s rare acknowledgment of a Russian military mistake came as relations have deteriorated between the two former Soviet states.
+* 俄罗斯总统弗拉基米尔·普京（ Vladimir Putin ）罕见地承认了俄罗斯的军事错误，因为这两个前苏联国家之间的关系已经恶化。
 
 ## New York Times United States News
-* Judge Karin Immergut blocked President Trump from sending National Guardsmen to defend against a “rebellion.” Now three judges will hear the government’s appeal.
-* 卡琳·因默古特（ Karin Immergut ）法官阻止特朗普总统派遣国民警卫队抵御“叛乱”。“现在，三名法官将听取政府的上诉。
-* In a wide-ranging interview, John C. Williams discussed the outlook for interest rates, his concerns about the labor market and the importance of the Fed’s independence. Here is a full transcript.
-* 在一次广泛的采访中， John C. Williams讨论了利率前景、他对劳动力市场的担忧以及美联储独立性的重要性。以下是完整的成绩单。
-* University leaders are wary of a new proposal from the Trump administration to impose far-reaching changes in higher education.
-* 大学领导人对特朗普政府提出的一项新提案持谨慎态度，该提案旨在对高等教育进行意义深远的改革。
-* Thirty canvases, many created for viewers of Ross’s PBS series, “The Joy of Painting,” will be sold to benefit public television stations grappling with funding cuts.
-* 30幅画布，其中许多是为罗斯的PBS系列“绘画的喜悦”的观众创作的，将被出售，以帮助公共电视台解决资金削减问题。
-* As local anxiety builds, Illinois officials say the deployment of Guard troops violates state sovereignty, while the White House says the troops’ presence is needed.
-* 随着当地的焦虑情绪加剧，伊利诺伊州官员表示，部署警卫部队侵犯了国家主权，而白宫则表示需要这些部队的存在。
-* The rapid proliferation of drones in places like Ukraine has set off a growing sense of alarm inside the U.S. Army.
-* 无人机在乌克兰等地迅速扩散，在美国陆军内部引发了越来越多的恐慌感。
-* Federal officials arrested a man they said started a small blaze in January that later rekindled and grew into the fire that devastated Pacific Palisades.
-* 联邦官员逮捕了一名男子，他们说这名男子在1月份引发了一场小火灾，后来重新点燃并成长为摧毁太平洋帕利塞德的火灾。
-* The former Democratic congresswoman, known for her own grilling of executives on Capitol Hill, threatened to abandon an interview after she was asked several follow-up questions.
-* 这位前民主党女议员在国会山以自己对高管的盘问而闻名，在被问及几个后续问题后，她威胁要放弃采访。
-* The theft of the beloved dinosaur statue upset residents of a California community that was damaged by wildfires earlier this year. Then she was returned with an apology.
-* 这座备受喜爱的恐龙雕像被盗，令今年早些时候因野火而受损的加利福尼亚社区居民感到不安。然后她得到了道歉的回报。
-* Republicans in the Senate blocked a measure that would terminate the president’s legally disputed campaign targeting alleged drug runners.
-* 参议院的共和党人阻止了一项措施，该措施将终止总统针对涉嫌贩毒者的有法律争议的竞选活动。
+* Federal courts across the country have heard legal challenges to the mobilization of troops in Los Angeles, Washington, Portland, Ore., and Chicago. Here’s how some judges have ruled.
+* 全国各地的联邦法院都听取了对在洛杉矶、华盛顿、波特兰、俄勒冈州和芝加哥调动军队的法律质疑。以下是一些法官的裁决方式。
+* President Trump and his administration are amplifying the voices of pro-White House podcasters and streamers eager to ratify the president’s description of Oregon’s largest city as a “hellscape.”
+* 特朗普总统及其政府正在放大亲白宫播客和主播的声音，他们渴望批准总统将这座俄勒冈州最大的城市描述为“地狱景观”。
+* The legislation would provide a 3.8 percent pay raise for American troops, while funding weapons and overhauling military procurement.
+* 该法案将为美军提供3.8%的加薪，同时为武器和军事采购提供资金。
+* The federal magistrate judge, Zia M. Faruqui, accused prosecutors of relying on a “facially invalid” indictment to charge a man with felony gun possession.
+* 联邦治安法官齐亚· M ·法鲁基（ Zia M. Faruqui ）指控检察官依靠“面部无效”的起诉书指控一名男子拥有重罪枪支。
+* Judge April M. Perry said the Trump administration had not established that sending in troops over the governor’s objection was legally justified. An appeal is likely.
+* 艾普尔· M ·佩里（ April M. Perry ）法官表示，特朗普政府没有证明派遣军队反对州长的反对在法律上是合理的。可能会提出申诉。
+* New York’s attorney general has joined colleagues nearly 40 times to confront the administration over myriad issues as the president pressures Democratic states.
+* 随着总统向民主党各州施加压力，纽约总检察长已与同事们一起近40次，在无数问题上与政府对抗。
+* The declaration would allow the Los Angeles County Board of Supervisors to enact an eviction moratorium and other protections for immigrants.
+* 该声明将允许洛杉矶县监事会颁布暂停驱逐移民和其他保护措施。
+* John Ismay, who reports on the Pentagon for The New York Times, describes what National Guard troops and civilian law enforcement are doing in cities where President Trump has mobilized them.
+* 为《纽约时报》报道五角大楼的约翰·伊斯梅（ John Ismay ）描述了国民警卫队和民事执法部门在特朗普总统动员他们的城市所做的事情。
+* Ms. James, New York’s attorney general, has said that her decision to seek the office was “about that man in the White House.”
+* 纽约总检察长詹姆斯女士曾表示，她寻求该办公室的决定是“关于白宫的那个男人”。
+* The animosity between New York’s attorney general and the U.S. president dates back years.
+* 纽约总检察长和美国总统之间的敌意可以追溯到几年前。
 
 ## New York Times Asia News
+* The agreement elevates relations to the highest level in years, but appeared to fall short of a formal recognition of Afghanistan’s Taliban government by New Delhi.
+* 该协议将两国关系提升至多年来的最高水平，但似乎没有得到新德里对阿富汗塔利班政府的正式承认。
+* China is using the high-altitude expanse for immense solar panel farms and wind turbines and has begun work on the world’s largest hydroelectric dams.
+* 中国正在将高海拔地区用于巨大的太阳能电池板农场和风力涡轮机，并已开始建设世界上最大的水电站。
+* The 7.4-magnitude quake struck off the eastern coast of Mindanao island on Friday morning. A tsunami warning was issued, but it was later canceled.
+* 周五上午，棉兰老岛东海岸发生7.4级地震。发出了海啸警报，但后来被取消。
 * The move is Beijing’s latest attempt to tighten control over global production of the metals, which are essential to the manufacture of computer chips.
 * 此举是北京方面加强对全球金属生产控制的最新尝试，这些金属对计算机芯片的制造至关重要。
 * China’s baby boom enriched a small Irish town where a Nestlé factory made formula for Chinese newborns. Then a baby bust unraveled it all. Or so it seemed.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 据目击者和流亡文职政府称，军政府瞄准了实皆地区的一个节日，人们也在那里抗议军队统治。
 * Urla, a lush district in western Turkey, is bursting with promise, with easy access to beaches, an up-and-coming gastronomy scene and a well-marked vineyard route.
 * 乌拉（ Urla ）是土耳其西部一个郁郁葱葱的地区，充满希望，可轻松前往海滩、崭露头角的美食场景和标志性的葡萄园路线。
-* As China struggles with economic discontent, internet censors are silencing those who voice doubts about work or marriage, or simply sigh too loudly online.
-* 随着中国在经济不满中挣扎，互联网审查机构正在压制那些对工作或婚姻表示怀疑的人，或者只是在网上大声叹气的人。
-* As it did in 2018, the White House plans to dole out relief funds to struggling U.S. farmers who have lost their biggest customer.
-* 与2018年一样，白宫计划向失去最大客户的陷入困境的美国农民发放救济资金。
-* The island’s lesser-known rugged side delivers staggering natural scenery and a range of outdoor experiences.
-* 岛上鲜为人知的崎岖一侧提供了令人惊叹的自然风光和一系列户外体验。
 
