@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* President Trump is energized after the Mideast deal between Israel and Hamas. But President Volodymyr Zelensky of Ukraine is seeking more weapons to force Russia to negotiate.
+* 在以色列和哈马斯达成中东协议后，特朗普总统充满活力。但乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）正在寻求更多武器来迫使俄罗斯进行谈判。
+* Since its brief June war with Israel, Iran has throttled internet traffic and jammed GPS, making day-to-day tasks online almost impossible and prompting Iranians’ fears of greater surveillance.
+* 自6月与以色列短暂的战争以来，伊朗限制了互联网流量并干扰了GPS ，使日常在线任务几乎不可能进行，并引发了伊朗人对加强监视的担忧。
+* Some former captives have been sent home from the hospital. But a doctor said they all had “endured untold adversity,” as details emerge of their time in Gaza’s tunnels.
+* 一些前俘虏已被从医院送回家。但一名医生表示，随着他们在加沙隧道中度过的时光的细节浮出水面，他们都“经历了无尽的逆境”。
 * As Syria’s regime collapsed, the world’s eyes were on Bashar al-Assad’s getaway flight. Behind him, officials key to his brutal rule made a mass exodus, virtually undetected.
 * 随着叙利亚政权的崩溃，全世界的目光都集中在巴沙尔·阿萨德的逃亡之旅上。在他身后，他残酷统治的关键官员进行了大规模外流，几乎没有被发现。
+* Torrential rains last week brought death and widespread damage. President Claudia Sheinbaum has visited affected areas, facing some angry residents.
+* 上周的暴雨造成了死亡和广泛的破坏。克劳迪娅·谢恩鲍姆（ Claudia Sheinbaum ）总统访问了受影响地区，面对一些愤怒
 * Chinese state media is rallying the public and posting old propaganda footage, but officials are also careful to leave room for talks with President Trump.
 * 中国官方媒体正在集结公众并发布旧的宣传片段，但官员们也小心翼翼地为与特朗普总统的会谈留出空间。
-* The result gives Sébastien Lecornu, France’s prime minister, a reprieve after weeks of political turmoil. But he still has to get a budget passed by the end of the year.
-* 这一结果让法国总理塞巴斯蒂安·勒科努（ Sébastien Lecornu ）在经历了数周的政治动荡后获得了缓刑。但他仍然需要在年底前通过预算。
-* Ceremonies took place on Thursday to commemorate two years since the surprise attack on southern Israel, according to the Jewish calendar.
-* 根据犹太人的日历，周四举行了仪式，以纪念以色列南部遭受突然袭击的两周年。
-* A deep sense of unease has gripped Iran since American and Israeli airstrikes in June, but on a recent visit to the capital, we found that many Iranians seemed to be just trying to get by.
-* 自6月美国和以色列空袭以来，伊朗一直深感不安，但在最近对首都的访问中，我们发现许多伊朗人似乎只是想摆脱困境。
-* Protesters say their anger reflects a lack of economic opportunity on a continent with the world’s youngest population.
-* 抗议者表示，他们的愤怒反映了这个世界上人口最年轻的大陆缺乏经济机会。
-* A video this week captured Hamas fighters in Gaza executing Palestinian rivals as the militant group tries to assert that it is still the dominant force in the territory after two years of war with Israel.
-* 本周的一段视频拍摄了哈马斯战斗人员在加沙处决巴勒斯坦竞争对手，因为激进组织试图断言，在与以色列两年的战争后，它仍然是该地区的主导力量。
-* President Ahmed al-Shara is making his first trip to Moscow, which backed the regime his rebels overthrew. Both sides have reasons to put the past aside.
-* 总统艾哈迈德·沙雷（ Ahmed al-Shara ）正在首次访问莫斯科，莫斯科支持其叛乱分子推翻的政权。双方都有理由把过去放在一边。
-* A pivotal political leader who helped usher in multiparty democracy in the East African country, he ran unsuccessfully for the presidency five times.
-* 作为一位关键的政治领袖，他帮助东非国家引入了多党民主，但五次竞选总统都没有成功。
-* The cease-fire went into effect on Wednesday, hours after explosions hit Kabul and 12 Afghans died in fighting along the countries’ border.
-* 停火协议于周三生效，此前几个小时，喀布尔发生爆炸， 12名阿富汗人在两国边境的战斗中丧生。
+* Viktor Anisimov, one of Ukraine’s top fashion designers, first met Volodymyr Zelensky about 20 years ago, when the future president was a comedian. He didn’t want to wear a suit then either.
+* 乌克兰顶级时装设计师之一维克多·阿尼西莫夫（ Viktor Anisimov ）在大约20年前第一次见到沃洛基米尔·泽伦斯基（ Volodymyr Zelensky ） ，当时未来的总统是一名喜剧演那他也不想穿西装了。
+* Prime Minister Giorgia Meloni condemned the attack on Sigfrido Ranucci, the host of the investigative program “Report.” He was previously under police protection.
+* 总理乔治亚·梅洛尼（ Giorgia Meloni ）谴责了对调查计划“报告”主持人西格弗里多·拉努奇（ Sigfrido Ranucci ）的袭击。“他以前受到警方的保护。
+* It was unclear when Maj. Gen. Mohammed al-Ghomari was killed, or by whom, but Israel appeared to claim the killing.
+* 目前尚不清楚穆罕默德·戈马里（ Mohammed al-Ghomari ）少将何时或被谁杀害，但以色列似乎声称杀害。
+* For much of the 20th century, the C.I.A. devised plots to overthrow governments, kill high-profile leaders or arm dissident groups.
+* 在20世纪的大部分时间里，中情局策划了推翻政府、杀害知名领导人或武装持不同政见团体的阴谋。
 
 ## New York Times United States News
-* It said in a lawsuit that the company was infringing on multiple trademarks it held, including one for a “round pie-like shape with distinct peripheral undulated crimping.”
-* 该公司在一起诉讼中表示，该公司侵犯了其持有的多个商标，包括一个“圆形馅饼形状，具有明显的周边起伏卷曲”的商标。
-* Federal investigators blamed experimental designs, undetected damage and construction flaws for the death of all five people aboard the submersible headed to the Titanic wreckage.
-* 联邦调查人员指责实验设计，未被发现的损坏和施工缺陷导致前往泰坦尼克号残骸的潜水器上的所有五人死亡。
-* In May, 10 inmates escaped from a jail in New Orleans, highlighting the facility’s chronic problems. Derrick Groves was at large for months.
-* 5月， 10名囚犯从新奥尔良的一所监狱逃脱，突显了该设施的长期问题。德里克·格罗夫斯逍遥法外好几个月了。
-* Gov. Gavin Newsom had feared that the ceremony would send missiles over Interstate 5, but the Marines later said that its “live-fire” would be contained.
-* 州长加文·纽森（ Gavin Newsom ）曾担心仪式会向5号州际公路上空发射导弹，但海军陆战队后来表示，其“实弹”将得到控制。
-* The president lauded dozens of executives and businesspeople for the “tremendous amounts of money” they have pledged for his project, which has prompted ethical concerns.
-* 总统赞扬了数十名高管和商人为他的项目承诺的“巨额资金” ，这引起了道德方面的担忧。
-* The terms of the new order indicate that federal agencies will be hiring only with the approval of his political appointees.
-* 新命令的条款表明，联邦机构只有在获得其政治任命的批准后才会招聘。
-* The layoffs have raised fears that the administration could be effectively ending an initiative that provides contraception for millions of low-income women.
-* 裁员引发了人们的担忧，即政府可能有效终止一项为数百万低收入妇女提供避孕药具的举措。
-* Top officials, unwilling to fight for the historical independence of their institutions, watched on Wednesday as President Trump continued his pursuit of controlling law enforcement.
-* 周三，不愿为其机构的历史独立性而战的高级官员观看了特朗普总统继续追求控制执法。
-* Prosecutors in Cuyahoga County, Ohio, filed the charges in juvenile court. The victim’s mother wrote on social media that her daughter was found “unresponsive and unrecognizable.”
-* 俄亥俄州凯霍加县的检察官向少年法庭提出了指控。受害者的母亲在社交媒体上写道，她的女儿被发现“反应迟钝，无法辨认”。
-* The president’s second term is telling us a lot about the constraints that he faced during his first administration.
-* 总统的第二个任期告诉我们很多关于他在第一届政府期间所面临的制约因素。
+* A man was in custody after federal prosecutors accused him of joining Gazan militants in attacking Israel on Oct. 7, 2023. He was also accused of lying to obtain a U.S. visa.
+* 在联邦检察官指控他于2023年10月7日加入加沙武装分子袭击以色列之后，一名男子被拘留。他还被指控为获得美国签证而撒谎。
+* The nationwide protests are playing out as a federal government shutdown lingers and troops are being deployed in cities.
+* 随着联邦政府停摆和军队部署在城市，全国范围内的抗议活动正在进行。
+* A White House proposal for special funding treatment crossed a line for several schools. Some say it feels like a turning point in the federal government’s battle with higher education.
+* 白宫关于特殊资助待遇的提议越过了几所学校的界限。有人说，这感觉像是联邦政府与高等教育斗争的转折点。
+* ICE deported 17-year-old Nory Sontay Ramos and her mother. Devastation met them in Guatemala.
+* ICE驱逐了17岁的Nory Sontay Ramos和她的母亲。他们在危地马拉遭受了严重破坏。
+* Ms. Pelosi, 85, has not yet said whether she will run again. The challenge would be the latest example of the Democratic Party facing a push for generational change.
+* 85岁的佩洛西尚未说她是否会再次参选。挑战将是民主党面临推动代际变革的最新例子。
+* The San Francisco-based firm has told ICE that it could use A.I. to help the agency nearly triple its staff. The company’s C.E.O., once a progressive tech titan, has embraced President Trump.
+* 这家总部位于旧金山的公司告诉ICE ，它可以使用人工智能来帮助该机构将员工人数增加近三倍。该公司的首席执行官曾经是一位进步的科技巨头，他已经拥抱了特朗普总统。
+* Jay Jones apologized for his threatening messages and tried to tie his opponent, Jason Miyares, to President Trump’s policies.
+* 杰伊·琼斯（ Jay Jones ）为他的威胁信息道歉，并试图将他的对手杰森·米亚雷斯（ Jason Miyares ）与特朗普总统的政策联系起来。
+* The cause of the plane crash was not immediately known, officials said.
+* 官员说，飞机失事的原因尚不清楚。
+* Law enforcement departments in several states said that an online trend in which people are tricked into believing a homeless man is in their homes could have dangerous consequences.
+* 几个州的执法部门表示，人们被骗相信无家可归者在家中的在线趋势可能会产生危险的后果。
+* Some charges against the onetime national security adviser resemble the dropped case against President Trump, but there are also differences.
+* 针对这位前国家安全顾问的一些指控类似于针对特朗普总统的案件，但也存在差异。
 
 ## New York Times Asia News
+* His televised address as prime minister, delivered 50 years to the day after Japan announced its surrender, set a marker for his country’s “deep remorse” over wartime atrocities.
+* 在日本宣布投降50年后的第二天，他作为首相发表了电视讲话，为日本对战时暴行的“深深悔恨”树立了标志。
+* Law enforcement departments in several states said that an online trend in which people are tricked into believing a homeless man is in their homes could have dangerous consequences.
+* 几个州的执法部门表示，人们被骗相信无家可归者在家中的在线趋势可能会产生危险的后果。
+* A trip to India to find work led to a career climbing the world’s highest mountain.
+* 前往印度寻找工作，攀登了世界上最高的山峰。
+* He was one of the most pivotal public figures in Kenya. He died this week after fighting against tribalism for decades.
+* 他是肯尼亚最关键的公众人物之一。几十年来，他在与部落主义作斗争后于本周去世。
+* Though Pyongyang has largely pulled its soldiers off the front lines in Ukraine, it is expanding the types of ammunition it supplies to Russia.
+* 尽管平壤在很大程度上将其士兵从乌克兰前线撤出，但它正在扩大向俄罗斯供应的弹药类型。
+* Joshua Plotnik worked to prevent deadly encounters between people and elephants. Then the funding froze.
+* 约书亚·普洛特尼克（ Joshua Plotnik ）致力于防止人与大象之间的致命接触。然后资金冻结了。
+* The government subtly rebuffed the president’s comments that it would stop buying Russian oil, as it tries to avoid a public fight and end a trade dispute with Washington.
+* 政府巧妙地拒绝了总统的言论，即它将停止购买俄罗斯石油，因为它试图避免公开斗争并结束与华盛顿的贸易争端。
 * Chinese state media is rallying the public and posting old propaganda footage, but officials are also careful to leave room for talks with President Trump.
 * 中国官方媒体正在集结公众并发布旧的宣传片段，但官员们也小心翼翼地为与特朗普总统的会谈留出空间。
-* Nexperia, a computer chip maker headquartered in the Netherlands, was taken over by the Dutch government after pressure from officials in Washington.
+* Nexperia, a computer chip maker based in the Netherlands, was taken over by the Dutch government after pressure from officials in Washington.
 * 总部位于荷兰的计算机芯片制造商Nexperia在华盛顿官员的压力下被荷兰政府接管。
 * Treasury Secretary Scott Bessent said China’s dominance of rare earths calls for a more assertive American industrial policy.
 * 美国财政部长斯科特·贝森特（ Scott Bessent ）表示，中国在稀土领域的主导地位要求美国采取更加自信的产业政策。
-* Xi Jinping’s need to project strength before a crucial meeting of Communist Party leaders may help explain why Beijing announced new rare earth controls.
-* 习近平需要在共产党领导人的重要会议之前展示实力，这可能有助于解释为什么北京宣布新的稀土控制措施。
-* The cease-fire went into effect on Wednesday, hours after explosions hit Kabul and 12 Afghans died in fighting along the countries’ border.
-* 停火协议于周三生效，此前几个小时，喀布尔发生爆炸， 12名阿富汗人在两国边境的战斗中丧生。
-* South Korea’s efforts are part of a widening international crackdown on criminal groups running online fraud schemes from Southeast Asia.
-* 韩国的努力是扩大国际打击来自东南亚的在线欺诈计划的犯罪集团的一部分。
-* Protesters say their anger reflects a lack of economic opportunity on a continent with the world’s youngest population.
-* 抗议者表示，他们的愤怒反映了这个世界上人口最年轻的大陆缺乏经济机会。
-* The death toll was expected to climb from the blaze, which also included a nearby chemicals warehouse.
-* 预计死亡人数将从大火中攀升，其中还包括附近的一个化学品仓库。
-* Since Beijing announced a new visa to attract young science and technology graduates, a backlash has erupted online, forcing the government to respond.
-* 自北京宣布新签证以吸引年轻的科技毕业生以来，网上爆发了强烈反对，迫使政府做出回应。
-* Tadashi Yanai champions the U.S. market as vital for Uniqlo’s growth, but remains deeply concerned about rising American protectionism.
-* 柳井正（ Tadashi Yanai ）支持美国市场对优衣库的增长至关重要，但仍对美国保护主义抬头深感担忧。
 
