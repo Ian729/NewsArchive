@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* A round of violence on Sunday was short-lived, but analysts expect more tensions between Israel and Palestinian militants that will put the truce under strain.
-* 周日的一轮暴力是短暂的，但分析人士预计，以色列和巴勒斯坦武装分子之间的紧张局势将使停火受到压力。
-* The Inuit of the far north helped solve the mystery of a doomed 19th-century expedition. Now Canada needs them to strengthen its claim to this newly contested region.
-* 远北的因纽特人帮助解开了19世纪一场注定要失败的探险之谜。现在，加拿大需要他们加强对这个新争议地区的主权要求。
-* Xi Jinping seems to believe that only his continued rule can secure China’s rise. But as he ages, choosing a successor will become riskier and more difficult.
-* 习近平似乎认为，只有他继续统治才能确保中国的崛起。但随着年龄的增长，选择继任者将变得更加冒险和困难。
-* Israel launched a wave of attacks on Gaza after accusing Palestinian militants of attacking its forces across cease-fire lines. Both sides say they are still committed to the truce.
-* 以色列在指责巴勒斯坦武装分子越过停火线袭击其部队后，对加沙发动了一波袭击。双方都表示，他们仍然致力于停战。
-* A stunning heist has raised uncomfortable questions about security at the Paris museum.
-* 一场令人惊叹的抢劫引发了关于巴黎博物馆安全的令人不安的问题。
-* European democracy and rule of law are at risk, the general says, so Europe must give Ukraine whatever it can to pressure Moscow, even if Trump does not.
-* 这位将军说，欧洲的民主和法治面临风险，因此欧洲必须尽其所能向乌克兰施压，即使特朗普没有这样做。
-* The Gaza Humanitarian Foundation has suspended its aid operations because of the cease-fire, but it is also running low on funds and faces logistical obstacles to resuming its work.
-* 由于停火，加沙人道主义基金会已暂停其援助行动，但它也缺乏资金，并面临恢复工作的后勤障碍。
-* President Gustavo Petro said a U.S. strike in the Caribbean had killed a fisherman. President Trump said he would cut aid and impose new tariffs on Colombian imports.
-* 美国总统古斯塔沃·佩特罗（ Gustavo Petro ）表示，美国在加勒比海的袭击造成一名渔民死亡。特朗普总统表示，他将削减援助，并对哥伦比亚进口商品征收新的关税。
-* The robbers employed a portable electric ladder to break into a second-floor wing of the Paris museum that holds the French crown jewels.
-* 劫匪使用便携式电梯闯入巴黎博物馆的二楼翼楼，该翼楼装有法国皇冠上的珠宝。
-* China’s escalating curbs on the critical minerals has given Australia, a longstanding U.S. ally, the opportunity to reposition itself to a transactional president.
-* 中国对关键矿产的限制不断升级，使美国的长期盟友澳大利亚有机会重新定位为交易型总裁。
+* The Trump peace plan calls for an international security force in the Gaza Strip, but countries that might send troops are wary of danger, an unclear mission and being seen as occupiers.
+* 特朗普的和平计划要求在加沙地带建立一支国际安全部队，但可能派遣部队的国家对危险保持警惕，任务不明确，被视为占领者。
+* Sanae Takaichi, a fan of Iron Maiden, had an improbable rise to power. Like her mentor, Shinzo Abe, she is expected to lead Japan to the right.
+* 铁娘子的粉丝高市早苗不太可能掌权。像她的导师安倍晋三一样，她有望带领日本走向右翼。
+* Investigators were looking into the alarm systems at an institution that one expert said “wasn’t built with an obsession over security.”
+* 调查人员正在调查一家机构的报警系统，一位专家表示，该机构“并非建立在对安全的痴迷之上”。
+* As the Kremlin throttles WhatsApp and Telegram, the new MAX messaging app is moving Russia closer to a restricted internet without foreign technology.
+* 随着克里姆林宫遏制WhatsApp和Telegram ，新的MAX消息应用程序正在使俄罗斯更接近没有外国技术的受限互联网。
+* Vice President JD Vance appeared undeterred by recent flare-ups of violence in Gaza, and he declined to set a deadline for when Hamas must disarm.
+* 副总统JD万斯似乎没有被最近在加沙爆发的暴力事件吓倒，他拒绝为哈马斯必须解除武装的时间设定最后期限。
+* Australia’s got reserves and mining expertise, and the United States is eager to invest in alternatives to China. But building mines, refineries and factories could take years.
+* 澳大利亚拥有储量和采矿专业知识，美国渴望投资于中国的替代品。但建造矿山、炼油厂和工厂可能需要数年时间。
+* A contentious meeting between President Trump and President Volodymyr Zelensky of Ukraine produced no obvious progress toward a cease-fire.
+* 特朗普总统和乌克兰总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）之间有争议的会晤没有在停火方面取得明显进展。
+* A woman from China was charged with stealing gold last month from National Museum of Natural History. It’s one of several high-profile recent thefts from French institutions.
+* 上个月，一名中国妇女被控从国家自然历史博物馆盗窃黄金。这是法国机构最近发生的几起备受瞩目的盗窃案之一。
+* In Washington, China hawks say its economy is too weak to withstand a tariff shock. In the city of Yiwu, factories are showing why, for now, that may be a miscalculation.
+* 在华盛顿，中国鹰派人士表示，其经济过于疲软，无法承受关税冲击。在义乌市，工厂正在表明为什么，目前，这可能是一个错误的估计。
+* An interview with a 26-year-old entrepreneur, who has taken seven trips to China to buy handbags, clothes and jewelry. “China is the center of everything,” she said.
+* 采访了一位26岁的企业家，他曾七次前往中国购买手袋、衣服和珠宝。“中国是一切的中心，”她说。
 
 ## New York Times United States News
-* Mandela Barnes, the former lieutenant governor of Wisconsin, lost a race for Senate in 2022. He is likely to run for governor in 2026, while Democrats are eager for new candidates and new ideas.
-* 前威斯康星州副州长曼德拉·巴恩斯（ Mandela Barnes ）在2022年的参议院竞选中失利。他可能在2026年竞选州长，而民主党人渴望新的候选人和新的想法。
-* The shutdown means there is, essentially, no Education Department. The latest round of layoffs would leave few workers to enforce special education and civil rights laws.
-* 政府关门意味着基本上没有教育部门。最新一轮裁员将使很少有工人执行特殊教育和民权法。
-* At least four Republican senators, including the Senate majority leader, signaled their opposition to Paul Ingrassia, the president’s pick to lead the Office of Special Counsel.
-* 至少有四名共和党参议员，包括参议院多数党领袖，表示反对保罗·英格拉西亚（ Paul Ingrassia ） ，总统选择领导特别顾问办公室。
-* Former President Joseph R. Biden Jr. began radiation therapy last month for an aggressive form of prostate cancer. It is unclear if his treatment has ended.
-* 前总统小约瑟夫· R ·拜登（ Joseph R. Biden Jr. ）上个月开始对一种侵袭性前列腺癌进行放射治疗。目前尚不清楚他的治疗是否已经结束。
-* The messages follow a pattern set by the Trump administration, but use notably milder language.
-* 这些信息遵循特朗普政府设定的模式，但使用的语言要温和得多。
-* A Supreme Court ruling, while technically temporary, could set the ground rules for National Guard deployments elsewhere in the country.
-* 最高法院的一项裁决虽然在技术上是暂时的，但可以为国民警卫队在该国其他地方的部署制定基本规则。
-* Representative Robert Garcia and Senator Richard Blumenthal started an inquiry to examine reports of misconduct by immigration agents, focusing on the arrests of citizens.
-* 众议员罗伯特·加西亚（ Robert Garcia ）和参议员理查德·布卢门撒尔（ Richard Blumenthal ）开始调查有关移民代理不当行为的报告，重点是逮捕公民。
-* One of the two, Vanderbilt University, signaled it had reservations.
-* 其中一所范德比尔特大学（ Vanderbilt University ）表示有保留意见。
-* Controllers have already received one reduced check, because the shutdown began in the middle of a pay period. The next pay date, Oct. 28, will be the first fully missed paycheck.
-* 控制器已收到一张减少的支票，因为关机始于付款周期的中间。下一个发薪日， 10月28日，将是第一个完全错过的薪水。
-* President Trump has said that Ms. Willis, the prosecutor who brought election interference charges against him two years ago in Georgia, “should be prosecuted.”
-* 特朗普总统曾表示，两年前在格鲁吉亚对他提出选举干预指控的检察官威利斯女士“应该被起诉”。
+* The president has placed proponents of his false claims into government jobs while dismantling systems built to secure voting, raising fears that he aims to seize authority over elections ahead of next year’s midterms.
+* 总统将其虚假主张的支持者安置在政府工作岗位上，同时拆除了为确保投票而建立的系统，这引发了人们的担忧，即他打算在明年中期选举之前夺取选举权。
+* Wyoming is one of many states that embraced a campaign to encourage more people to enroll in higher education. Some leaders and students wonder if they reached a limit.
+* 怀俄明州是众多鼓励更多人接受高等教育的州之一。一些领导者和学生想知道他们是否达到了极限。
+* The Secret Service said the driver was arrested and there was no longer a threat. President Trump was in the White House at the time, the agency said.
+* 特勤局表示，司机已被捕，不再有威胁。该机构表示，特朗普总统当时在白宫。
+* The country has freed the man, one of two survivors of a U.S. military strike on a submersible vessel last week, defying President Trump’s claim that he would be held and prosecuted.
+* 该国无视特朗普总统声称他将被拘留和起诉的说法，释放了这名男子，他是上周美国军事打击潜水艇的两名幸存者之一。
+* President Trump has proposed construction of an arch in the style of the Arc de Triomphe in Washington in the lead-up to the nation’s 250th anniversary.
+* 特朗普总统提议在美国建国250周年之前，以华盛顿凯旋门风格建造一座拱门。
+* Cards Against Humanity had accused Elon Musk’s company of squatting on land that it owns near the southern border in Texas.
+* Cards Against Humanity指责埃隆·马斯克（ Elon Musk ）的公司擅自占用其在德克萨斯州南部边境附近拥有的土地。
+* The Trump administration is ratcheting up pressure on the Venezuelan president, Nicolás Maduro, while striking vessels that it says are trafficking drugs.
+* 特朗普政府正在加大对委内瑞拉总统尼古拉斯·马杜罗（ Nicolás Maduro ）的压力，同时打击据称是贩毒的船只。
+* Paul Ingrassia’s nomination illustrated how much antisemitic and hateful rhetoric has been explained away or rewarded by Republicans in power.
+* 保罗·英格拉西亚（ Paul Ingrassia ）的提名说明了执政的共和党人已经解释或奖励了多少反犹太主义和仇恨言论。
+* Activists welcome the truce. But the backlash to their demonstrations, some said, offered sobering lessons about power and politics.
+* 活动人士欢迎休战。但一些人表示，对他们示威的强烈反对提供了关于权力和政治的清醒教训。
+* Officials said immigration officers had fired shots after the man rammed a law enforcement vehicle. The immigrant and a deputy marshal were wounded in the shooting.
+* 官员说，在该男子撞上一辆执法车辆后，移民官员开枪射击。这名移民和一名副法警在枪击中受伤。
 
 ## New York Times Asia News
+* A towering wall of speakers on wheels, shaking everything in sight: In many Javanese villages, there’s no big celebration without one.
+* 高耸的扬声器墙，摇晃着眼前的一切：在许多爪哇村庄，没有扬声器就没有盛大的庆祝活动。
+* The fascination with China’s ability to build things America struggles with, from bridges to advanced tech, risks a dangerous miscalculation about what drives China.
+* 从桥梁到先进技术，人们对中国建造美国苦苦挣扎的东西的能力着迷，这有可能对中国的驱动力做出危险的误判。
+* The family of Bipin Joshi, a student, had campaigned internationally for his release and had held out hope until the end that after two years in Gaza, he would return alive.
+* 学生比平·乔希（ Bipin Joshi ）的家人曾在国际上争取释放他，并一直希望在加沙待了两年后，他能活着回来。
 * Australia’s got reserves and mining expertise, and the United States is eager to invest in alternatives to China. But building mines, refineries and factories could take years.
 * 澳大利亚拥有储量和采矿专业知识，美国渴望投资于中国的替代品。但建造矿山、炼油厂和工厂可能需要数年时间。
 * Sanae Takaichi, a fan of Iron Maiden, had an improbable rise to power. Like her mentor, Shinzo Abe, she is expected to lead Japan to the right.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 美国希望通过增加矿产资源丰富的国家的准入，减少对中国的依赖。稀土金属对一系列现代工业至关重要。
 * An all-female repair business is challenging gender norms in China and catering to a growing population of single women seeking safety and comfort at home. We spoke to Ray Hou, who quit her office job to become a professional handywoman, about what motivated her to start a new career.
 * 在中国，一家全女性维修企业正在挑战性别规范，迎合越来越多在家寻求安全和舒适的单身女性的需求。我们采访了辞去办公室工作成为职业女杂工的Ray Hou ，了解是什么促使她开始新的职业生涯。
-* For many young Chinese, the relentless pressure to succeed has given way to a new minimalist lifestyle known as lying flat. We followed Tom Jia, a popular influencer who left his demanding job in Shenzhen to travel across China in search of the country’s most affordable — and least stressful — places to live.
-* 对于许多中国年轻人来说，成功的无情压力已经让位于一种新的极简主义生活方式，即平躺。我们跟随深圳知名网红汤姆·贾（ Tom Jia ）前往中国各地，寻找中国最实惠、压力最小的居住地。
-* As China’s population grows older, a new industry of gig workers is stepping in to help older patients navigate a complex, bureaucratic hospital system. We spent time with Jessica Wang, a 49-year-old mother from Beijing who found steady income and a renewed sense of purpose by becoming a professional hospital companion.
-* 随着中国人口老龄化，一个新的零工行业正在介入，以帮助老年患者应对复杂的官僚医院系统。我们与来自北京的49岁母亲Jessica Wang共度时光，她通过成为一名专业的医院伴侣，找到了稳定的收入和更新的使命感。
-* The biggest public holiday in India, Diwali features prayers for prosperity and good fortune — and lots of sweets.
-* 排灯节是印度最大的公共假日，为繁荣和好运祈祷—还有很多糖果。
 
