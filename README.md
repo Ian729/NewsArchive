@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The sea looks the same. So does the sand. But in Egypt, two beach communities not far from each other have decidedly different ideas about fun.
-* 大海看起来是一样的。沙子也是。但在埃及，两个不远处的海滩社区对乐趣的看法截然不同。
+* President Vladimir V. Putin warned of an overwhelming response if the Trump administration arms Kyiv with powerful missiles it seeks.
+* 俄罗斯总统弗拉基米尔· V ·普京(Vladimir V. Putin)警告称，如果特朗普政府用其寻求的强大导弹武装基辅，美国将做出压倒性的回应。
+* The U.S. campaign targeting what it says is drug trafficking from Venezuela has exposed Trinidad to the fallout: unidentified bodies with burn marks and missing limbs showing up in its territory.
+* 美国针对委内瑞拉贩毒的运动使特立尼达受到影响：特立尼达领土上出现了带有烧伤痕迹和四肢缺失的身份不明的尸体。
+* Vice President JD Vance also called symbolic votes in Israel’s Parliament to take territory a “very stupid political stunt.”
+* 以色列副总统万斯还称，以色列议会的象征性投票是“非常愚蠢的政治噱头”。
 * The protests that rocked Nepal were about more than a social media ban. The economy is so dire that for many, going abroad seems the only way to build a future.
 * 震惊尼泊尔的抗议活动不仅仅是关于社交媒体禁令。经济如此可怕，以至于对许多人来说，出国似乎是建立未来的唯一途径。
-* European Union officials could reach a political agreement as soon as Thursday on a plan for a huge loan to Ukraine backed by Kremlin money frozen in a Belgian financial institution.
-* 欧盟官员最快可能在周四就一项由一家比利时金融机构冻结的克里姆林宫资金支持的向乌克兰提供巨额贷款的计划达成政治协议。
-* While oil markets reacted strongly to the sanctions, analysts said the measures were unlikely to significantly change President Vladimir V. Putin’s war calculations.
-* 尽管石油市场对制裁反应强烈，但分析师表示，这些措施不太可能显著改变俄罗斯总统弗拉基米尔· V ·普京(Vladimir V. Putin)的战争计算。
+* The sea looks the same. So does the sand. But in Egypt, two beach communities not far from each other have decidedly different ideas about fun.
+* 大海看起来是一样的。沙子也是。但在埃及，两个不远处的海滩社区对乐趣的看法截然不同。
+* European Union officials want to make a large loan to Ukraine backed by Russian state assets, but on Thursday, they deferred any clear decision on that plan to December.
+* 欧盟官员希望在俄罗斯国有资产的支持下向乌克兰提供大笔贷款，但周四，他们将关于该计划的任何明确决定推迟到12月。
+* Vice President JD Vance spoke from Israel, as he wrapped up a visit aimed at shoring up a fragile cease-fire between Israel and Hamas.
+* 副总统JD Vance在以色列发表讲话，结束了旨在支持以色列和哈马斯之间脆弱停火的访问。
+* Zhi Dong Zhang, who escaped house arrest in Mexico this summer, is accused of supplying cartels with fentanyl from China, smuggling and money laundering millions under the alias “Brother Wang.”
+* 今年夏天在墨西哥逃脱软禁的Zhi Dong Zhang被指控向卡特尔提供来自中国的芬太尼，以“王兄弟”的名义走私和洗钱数百万美元。
+* The former paratrooper, referred to only as Soldier F, was found not guilty more than a half-century after his unit in Northern Ireland killed 14 unarmed civilians.
+* 这名前伞兵仅被称为士兵F ，他在北爱尔兰的部队杀害了14名手无寸铁的平民，半个多世纪后被判无罪。
 * European leaders signed off on the new measures just hours after President Trump imposed sanctions on Russia’s two biggest oil companies.
 * 就在特朗普总统对俄罗斯两家最大的石油公司实施制裁几小时后，欧洲领导人签署了新措施。
-* Before boarding a plane for Israel, Secretary of State Marco Rubio said that U.N. backing was a potential next step to deploying an international stabilization force to the war-torn enclave.
-* 在登上前往以色列的飞机之前，国务卿马可·卢比奥（ Marco Rubio ）表示，联合国的支持是向饱受战争蹂躏的飞地部署国际稳定部队的潜在下一步。
-* The moment marked the first time that the leaders of the Catholic and Anglican churches had done so in years, offering a display of unity between the Christian faiths.
-* 这一时刻标志着天主教和圣公会教会领导人多年来首次这样做，展示了基督教信仰之间的团结。
-* Ryan Chen has turned an uncanny impersonation of President Trump into a social media career, and a mirror of China’s fascination with America.
-* 瑞安·陈（ Ryan Chen ）把对特朗普总统不可思议的模仿变成了社交媒体事业，也反映了中国对美国的迷恋。
-* Chancellor Friedrich Merz said, “We suspect that Russia is behind most of these drone flights” around vital sites like ports and airports.
-* 总理弗里德里希·默茨（ Friedrich Merz ）说， “我们怀疑俄罗斯是大多数这些无人机飞行的幕后黑手” ，在港口和机场等重要地点。
-* The Swedish warplanes are well suited to the rugged combat operations Ukraine will have to carry out, experts say.
-* 专家说，瑞典战机非常适合乌克兰必须执行的崎岖作战行动。
 
 ## New York Times United States News
-* Darren Bailey, a Republican candidate for governor, lost his son, daughter-in-law and two grandchildren, ages 12 and 7, in a helicopter accident in Montana, his campaign said.
-* 他的竞选团队说，共和党州长候选人达伦·贝利（ Darren Bailey ）在蒙大拿州的一次直升机事故中失去了他的儿子、儿媳和两个孙子，年龄分别为12岁和7岁。
-* The shift mirrors trends at other elite schools after a ban on affirmative action. The Trump administration has said it wants to scrutinize demographics to ensure schools aren’t using racial preferences.
-* 这一转变反映了禁止平权行动后其他精英学校的趋势。特朗普政府表示，它希望仔细审查人口统计数据，以确保学校不使用种族偏好。
-* The Federal Tort Claims Act, the law the president invoked to try to obtain hundreds of millions of dollars, is ordinarily a legal labyrinth that few can navigate.
-* 《联邦侵权索赔法》是总统试图获得数亿美元的法律，通常是一个很少有人能驾驭的法律迷宫。
-* The team in Oklahoma City forfeited its district championship earlier this year after the coach verified that a scoring error had incorrectly crowned them as winners.
-* 今年早些时候，俄克拉荷马城的球队在教练证实得分错误错误地将他们加冕为获胜者后，放弃了地区冠军。
-* Mayor Bruce Harrell of Seattle, 67, is facing a challenge from Katie Wilson, 43, who has a penchant for social media and a focus on cost of living, all reminiscent of Zohran Mamdani.
-* 67岁的西雅图市长布鲁斯·哈雷尔（ Bruce Harrell ）正面临43岁的凯蒂·威尔逊（ Katie Wilson ）的挑战，她喜欢社交媒体，关注生活成本，这一切都让人想起佐赫兰·马姆达尼（ Zohran Mamdani ）。
-* Carol Rosenberg, a reporter who has covered the U.S. military prison at Guantánamo Bay since it opened in 2002, describes a collection of stylized portraits of its detainees in the war against terrorism. The photos were taken as part of a Red Cross program for the detainees to communicate with their families.
-* 卡罗尔·罗森伯格（ Carol Rosenberg ）是一名记者，自2002年关塔那摩湾（ Guantánamo Bay ）军事监狱开放以来一直报道该监狱，她描述了一系列在反恐战争中被拘留者的风格化肖像。这些照片是红十字计划的一部分，旨在让被拘留者与家人沟通。
-* Motorola won a $7 million contract to modernize Kerr County’s emergency radio system. When a devastating flash flood swept through the county, emergency crews had trouble using it.
-* 摩托罗拉赢得了一份价值700万美元的合同，对克尔县的紧急无线电系统进行现代化改造。当一场毁灭性的山洪暴发席卷全县时，应急人员在使用它时遇到了困难。
-* The portraits fill a visual vacuum during a ban on media access to the operation that holds the last 15 U.S. wartime prisoners.
-* 在禁止媒体进入关押最后15名美国战时囚犯的行动期间，这些肖像填补了视觉真空。
-* Gov. Gavin Newsom has a long relationship with Marc Benioff, the chief executive of Salesforce, that dates back to a different era in San Francisco.
-* 州长加文·纽森（ Gavin Newsom ）与Salesforce首席执行官马克·贝尼奥夫（ Marc Benioff ）有着悠久的关系，这可以追溯到旧金山的另一个时代。
-* The San Francisco district attorney said in an interview that she came up with the strategy after seeing federal agents repeatedly roughing up people in Los Angeles and Chicago.
-* 旧金山地区检察官在接受采访时表示，她在看到联邦特工在洛杉矶和芝加哥一再粗暴对待人们后提出了这一策略。
+* Deputy U.S. Attorney General Todd Blanche told top California leaders that they would be prosecuted if they arrested federal agents performing immigration raids.
+* 美国副检察长托德·布兰奇（ Todd Blanche ）告诉加利福尼亚州高层领导人，如果他们逮捕了进行移民搜查的联邦特工，他们将受到起诉。
+* Thousands missed their first paychecks this week, with no end in sight to the government shutdown that began on Oct. 1.
+* 成千上万的人错过了本周的第一笔薪水， 10月1日开始的政府关闭没有结束的迹象。
+* The New York attorney general, indicted by President Trump’s handpicked prosecutor in the Eastern District of Virginia, is expected to plead not guilty in her arraignment on Friday.
+* 由特朗普总统在弗吉尼亚州东区精心挑选的检察官起诉的纽约总检察长预计将在周五的提审中不认罪。
+* Daniel Lurie, the San Francisco mayor, relied on powerful tech executives and his own low-key approach to help his liberal city escape a rush of federal agents.
+* 旧金山市长丹尼尔·卢里（ Daniel Lurie ）依靠强大的科技高管和他自己的低调方法来帮助他的自由主义城市逃离联邦特工的匆忙。
+* Officials say intercepted communications are the core of the intelligence collected on the boats.
+* 官员说，截获的通信是在船上收集的情报的核心。
+* The White House has made no legal argument explaining its bald claim that the president has wartime power to summarily kill people suspected of smuggling drugs.
+* 白宫没有提出任何法律论据来解释其秃头的说法，即总统在战时有权立即杀死涉嫌走私毒品的人。
+* For decades, federal officers have had to rely on more than race or ethnicity to stop and question someone over citizenship. That is now being tested.
+* 几十年来，联邦官员不得不依靠种族或族裔来阻止和质疑某人的公民身份。目前正在进行测试。
+* The president said he was motivated by an ad, paid for by the province of Ontario, that featured Ronald Reagan criticizing tariffs in a 1987 radio address.
+* 总统表示，他的动机是安大略省支付的一则广告，其中罗纳德·里根（ Ronald Reagan ）在1987年的广播讲话中批评关税。
+* Sam O’Hara was playing the “Imperial March” theme from the movie while protesting the deployment of National Guard troops in the capital when he was handcuffed by city police officers.
+* 山姆·奥哈拉（ Sam O’Hara ）正在演奏电影中的“帝国三月”主题，同时抗议在首都部署国民警卫队部队，当时他被市警察戴上手铐。
+* Prosecutors say Jonathan Rinderknecht deliberately set a fire in January that led to one of the most destructive blazes in California history. If convicted, he would face up to 45 years in prison.
+* 检察官说， Jonathan Rinderknecht在1月份故意纵火，导致加利福尼亚州历史上最具破坏性的火灾之一。如果被定罪，他将面临长达45年的监禁。
 
 ## New York Times Asia News
+* A modernist house in a leafy Auckland suburb, an apartment with skyline views in the Central Business District, and rustic lodge near Queenstown.
+* 位于绿树成荫的奥克兰郊区的现代主义房屋，中央商务区的天际线景观公寓，以及皇后镇附近的乡村小屋。
+* In China, a professional can be hired to break up a cheating spouse’s extramarital relationship. Elizabeth Lo’s remarkable film takes us up close.
+* 在中国，可以聘请专业人士来打破作弊配偶的婚外关系。伊丽莎白·罗（ Elizabeth Lo ）的非凡电影让我们近距离接触。
+* The recent surge in demonstrations by far-right groups presents a challenge for the South Korean government, as it prepares to host both Xi Jinping, the leader of China, and President Trump.
+* 最近，极右翼团体的示威活动激增，这给韩国政府带来了挑战，因为它准备接待中国领导人习近平和特朗普总统。
+* In weaponizing its dominance over the crucial minerals, Beijing is using tactics that it once denounced, potentially alienating nations it wants to court.
+* 在将其对关键矿产的主导地位武器化时，北京正在使用曾经谴责的策略，这可能会疏远它想要诉诸的国家。
+* India plans to send its vast work force abroad to countries with labor shortages, like Germany and Japan.
+* 印度计划将其庞大的劳动力派往德国和日本等劳动力短缺的国家。
+* The move underscores the country’s struggle to contain religious extremism without provoking influential clerics who can summon thousands of supporters to the streets.
+* 此举凸显了该国为遏制宗教极端主义而进行的斗争，而不会激起有影响力的神职人员，他们可以召集数千名支持者走上街头。
+* The trade case is coming at a pivotal moment, before a meeting next week between President Trump and China’s leader.
+* 这场贸易争端发生在下周特朗普总统和中国领导人会晤之前的关键时刻。
 * The United States, Britain and South Korea have joined a crackdown on groups running frauds from Southeast Asia. They have their work cut out.
 * 美国、英国和韩国已加入打击东南亚欺诈团体的行列。他们的工作被切断了。
 * Ryan Chen has turned an uncanny impersonation of President Trump into a social media career, and a mirror of China’s fascination with America.
 * 瑞安·陈（ Ryan Chen ）把对特朗普总统不可思议的模仿变成了社交媒体事业，也反映了中国对美国的迷恋。
 * The protests that rocked Nepal were about more than a social media ban. The economy is so dire that for many, going abroad seems the only way to build a future.
 * 震惊尼泊尔的抗议活动不仅仅是关于社交媒体禁令。经济如此可怕，以至于对许多人来说，出国似乎是建立未来的唯一途径。
-* Countries worldwide are buying more than ever from China, but domestic consumption is lagging and government stimulus efforts aren’t working.
-* 世界各国从中国购买的产品比以往任何时候都多，但国内消费滞后，政府刺激措施不起作用。
-* The Trump administration is trying an array of unconventional measures to shore up U.S. rare earths supplies. It remains uncertain whether the strategy will work.
-* 特朗普政府正在尝试采取一系列非常规措施来支撑美国的稀土供应。目前尚不清楚该策略是否会奏效。
-* In “What Is War,” two singular artists, Eiko Otake and Wen Hui, grapple with memories of China and Japan in World War II.
-* 在《什么是战争》中，两位独特的艺术家Eiko Otake和Wen Hui在二战中回忆起中国和日本。
-* Thailand’s deputy finance minister, Vorapak Tanyawong, was accused of ties to the Cambodian cybercrime hubs he had been appointed to combat.
-* 泰国财政部副部长Vorapak Tanyawong被指控与他被任命打击的柬埔寨网络犯罪中心有联系。
-* A towering wall of speakers on wheels, shaking everything in sight: In many Javanese villages, there’s no big celebration without one.
-* 高耸的扬声器墙，摇晃着眼前的一切：在许多爪哇村庄，没有扬声器就没有盛大的庆祝活动。
-* The fascination with China’s ability to build things America struggles with, from bridges to advanced tech, risks a dangerous miscalculation about what drives China.
-* 从桥梁到先进技术，人们对中国建造美国苦苦挣扎的东西的能力着迷，这有可能对中国的驱动力做出危险的误判。
-* The family of Bipin Joshi, a student, had campaigned internationally for his release and had held out hope until the end that after two years in Gaza, he would return alive.
-* 学生比平·乔希（ Bipin Joshi ）的家人曾在国际上争取释放他，并一直希望在加沙待了两年后，他能活着回来。
 
