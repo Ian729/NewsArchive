@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Vladimir V. Putin warned of an overwhelming response if the Trump administration arms Kyiv with powerful missiles it seeks.
-* 俄罗斯总统弗拉基米尔· V ·普京(Vladimir V. Putin)警告称，如果特朗普政府用其寻求的强大导弹武装基辅，美国将做出压倒性的回应。
-* The U.S. campaign targeting what it says is drug trafficking from Venezuela has exposed Trinidad to the fallout: unidentified bodies with burn marks and missing limbs showing up in its territory.
-* 美国针对委内瑞拉贩毒的运动使特立尼达受到影响：特立尼达领土上出现了带有烧伤痕迹和四肢缺失的身份不明的尸体。
-* Vice President JD Vance also called symbolic votes in Israel’s Parliament to take territory a “very stupid political stunt.”
-* 以色列副总统万斯还称，以色列议会的象征性投票是“非常愚蠢的政治噱头”。
-* The protests that rocked Nepal were about more than a social media ban. The economy is so dire that for many, going abroad seems the only way to build a future.
-* 震惊尼泊尔的抗议活动不仅仅是关于社交媒体禁令。经济如此可怕，以至于对许多人来说，出国似乎是建立未来的唯一途径。
-* The sea looks the same. So does the sand. But in Egypt, two beach communities not far from each other have decidedly different ideas about fun.
-* 大海看起来是一样的。沙子也是。但在埃及，两个不远处的海滩社区对乐趣的看法截然不同。
-* European Union officials want to make a large loan to Ukraine backed by Russian state assets, but on Thursday, they deferred any clear decision on that plan to December.
-* 欧盟官员希望在俄罗斯国有资产的支持下向乌克兰提供大笔贷款，但周四，他们将关于该计划的任何明确决定推迟到12月。
-* Vice President JD Vance spoke from Israel, as he wrapped up a visit aimed at shoring up a fragile cease-fire between Israel and Hamas.
-* 副总统JD Vance在以色列发表讲话，结束了旨在支持以色列和哈马斯之间脆弱停火的访问。
-* Zhi Dong Zhang, who escaped house arrest in Mexico this summer, is accused of supplying cartels with fentanyl from China, smuggling and money laundering millions under the alias “Brother Wang.”
-* 今年夏天在墨西哥逃脱软禁的Zhi Dong Zhang被指控向卡特尔提供来自中国的芬太尼，以“王兄弟”的名义走私和洗钱数百万美元。
-* The former paratrooper, referred to only as Soldier F, was found not guilty more than a half-century after his unit in Northern Ireland killed 14 unarmed civilians.
-* 这名前伞兵仅被称为士兵F ，他在北爱尔兰的部队杀害了14名手无寸铁的平民，半个多世纪后被判无罪。
-* European leaders signed off on the new measures just hours after President Trump imposed sanctions on Russia’s two biggest oil companies.
-* 就在特朗普总统对俄罗斯两家最大的石油公司实施制裁几小时后，欧洲领导人签署了新措施。
+* President Trump’s visit shows how the United States and China are vying for influence in Asia over trade, technology and the fate of Taiwan.
+* 特朗普总统的访问表明，美国和中国正在争夺对亚洲贸易、技术和台湾命运的影响力。
+* The main opposition candidates in the Ivory Coast’s presidential election have been barred from the race. Critics say the vote has been rigged.
+* 科特迪瓦总统选举中的主要反对派候选人被禁止参加竞选。批评人士说，投票被操纵了。
+* As winter slows the pace of battlefield combat, Moscow and Kyiv are betting on campaigns against each other’s energy assets to break a stalemate in the conflict.
+* 由于冬季减缓了战场战斗的步伐，莫斯科和基辅正在押注于针对对方能源资产的运动，以打破冲突中的僵局。
+* President Javier Milei of Argentina has earned U.S. support, but he faces a critical legislative election at home amid voter anger over job losses and corruption scandals.
+* 阿根廷总统哈维尔·米莱（ Javier Milei ）赢得了美国的支持，但由于选民对失业和腐败丑闻感到愤怒，他在国内面临一场关键的立法选举。
+* He was asked to cater a climate event for Prince William and 700 guests. But for a renowned chef who wanted to showcase the Amazon’s culinary tradition, it was like “asking Iron Maiden to play jazz.”
+* 他被要求为威廉王子和700位客人举办气候活动。但对于一位想展示亚马逊烹饪传统的着名厨师来说，这就像“让铁娘子演奏爵士乐”。
+* From Kuala Lumpur to Gyeongju, President Trump is casting himself as a deal-maker and peace negotiator, while a wary region looks for tariff relief and steadier ties.
+* 从吉隆坡到庆州，特朗普总统将自己塑造成交易制定者和和平谈判者，而一个谨慎的地区则寻求关税减免和更稳定的关系。
+* One of America’s favorite fall drinks shows up in Brussels and Antwerp, but rarely in Paris and Rome. It has yet to reach the ubiquity — or the sugar content — of its stateside counterpart.
+* 美国最受欢迎的秋季饮品之一出现在布鲁塞尔和安特卫普，但很少出现在巴黎和罗马。它尚未达到其美国同行的普遍性或糖含量。
+* They arrive where the killings end, retrieving bodies, comforting families and bearing the emotional toll of a deadly struggle that shows no sign of stopping.
+* 他们到达杀戮结束的地方，取回尸体，安慰家人，并承受着一场没有停止迹象的致命斗争的情感代价。
+* Britain hosted a meeting of European leaders to discuss bolstering support for Kyiv as winter approaches.
+* 英国主办了一次欧洲领导人会议，讨论在冬季来临之际加强对基辅的支持。
+* Doug Ford has built a reputation for picking fights with President Trump and getting under his skin with publicity-grabbing moves as U.S. tariffs have harmed Ontario’s economy.
+* 随着美国关税损害了安大略省的经济，道格·福特(Doug Ford)因与特朗普总统(President Trump)发生冲突，并以抢占公众注意力的举动而声名狼藉。
 
 ## New York Times United States News
-* Deputy U.S. Attorney General Todd Blanche told top California leaders that they would be prosecuted if they arrested federal agents performing immigration raids.
-* 美国副检察长托德·布兰奇（ Todd Blanche ）告诉加利福尼亚州高层领导人，如果他们逮捕了进行移民搜查的联邦特工，他们将受到起诉。
-* Thousands missed their first paychecks this week, with no end in sight to the government shutdown that began on Oct. 1.
-* 成千上万的人错过了本周的第一笔薪水， 10月1日开始的政府关闭没有结束的迹象。
-* The New York attorney general, indicted by President Trump’s handpicked prosecutor in the Eastern District of Virginia, is expected to plead not guilty in her arraignment on Friday.
-* 由特朗普总统在弗吉尼亚州东区精心挑选的检察官起诉的纽约总检察长预计将在周五的提审中不认罪。
-* Daniel Lurie, the San Francisco mayor, relied on powerful tech executives and his own low-key approach to help his liberal city escape a rush of federal agents.
-* 旧金山市长丹尼尔·卢里（ Daniel Lurie ）依靠强大的科技高管和他自己的低调方法来帮助他的自由主义城市逃离联邦特工的匆忙。
-* Officials say intercepted communications are the core of the intelligence collected on the boats.
-* 官员说，截获的通信是在船上收集的情报的核心。
-* The White House has made no legal argument explaining its bald claim that the president has wartime power to summarily kill people suspected of smuggling drugs.
-* 白宫没有提出任何法律论据来解释其秃头的说法，即总统在战时有权立即杀死涉嫌走私毒品的人。
-* For decades, federal officers have had to rely on more than race or ethnicity to stop and question someone over citizenship. That is now being tested.
-* 几十年来，联邦官员不得不依靠种族或族裔来阻止和质疑某人的公民身份。目前正在进行测试。
-* The president said he was motivated by an ad, paid for by the province of Ontario, that featured Ronald Reagan criticizing tariffs in a 1987 radio address.
-* 总统表示，他的动机是安大略省支付的一则广告，其中罗纳德·里根（ Ronald Reagan ）在1987年的广播讲话中批评关税。
-* Sam O’Hara was playing the “Imperial March” theme from the movie while protesting the deployment of National Guard troops in the capital when he was handcuffed by city police officers.
-* 山姆·奥哈拉（ Sam O’Hara ）正在演奏电影中的“帝国三月”主题，同时抗议在首都部署国民警卫队部队，当时他被市警察戴上手铐。
-* Prosecutors say Jonathan Rinderknecht deliberately set a fire in January that led to one of the most destructive blazes in California history. If convicted, he would face up to 45 years in prison.
-* 检察官说， Jonathan Rinderknecht在1月份故意纵火，导致加利福尼亚州历史上最具破坏性的火灾之一。如果被定罪，他将面临长达45年的监禁。
+* The speaker’s decision to hold the House in an indefinite hiatus during the shutdown is his latest move to diminish the role of the legislative branch — and his own post.
+* 议长决定让众议院在政府关门期间无限期休会，这是他削弱立法部门--以及他自己的职位--作用的最新举措。
+* South Florida will feel some of the most intense reverberations if Congress allows the extra insurance subsidies it approved during the pandemic to expire.
+* 如果国会允许其在疫情期间批准的额外保险补贴到期，南佛罗里达州将感受到一些最强烈的回响。
+* Vice President JD Vance has found himself defending or promoting positions that he once opposed, even as recently as the campaign.
+* 副总裁JD Vance发现自己捍卫或提升了他曾经反对的职位，即使是最近的竞选活动也是如此。
+* The preliminary plan stems from frustration over the pace of the deportations, which are lagging behind President Trump’s demands.
+* 初步计划源于对驱逐速度的沮丧，这落后于特朗普总统的要求。
+* Federal agents detained a man on the city’s North Side on Friday, and residents emerged from their homes, yelling and blowing whistles.
+* 周五，联邦特工在该市北区拘留了一名男子，居民从家中出来，大喊大叫，吹口哨。
+* The Trump administration said that monitors will watch polling in two states, led by Democrats, where key races or issues are on the ballot.
+* 特朗普政府表示，监督员将观看以民主党人为首的两个州的民意调查，这两个州的关键比赛或问题都在选票上。
+* President Trump is embarking on a six-day diplomatic tour of Asia, testing his role as a statesman and negotiator as he pursues a trade deal with Beijing.
+* 特朗普总统正在对亚洲进行为期六天的外交访问，考验他在寻求与北京达成贸易协议时作为政治家和谈判代表的角色。
+* The claim comes after months of President Trump toying with the idea, insisting that he is “not joking” about defying a constitutionally-mandated term limit.
+* 特朗普总统几个月来一直在玩弄这个想法，坚称他“不是在开玩笑” ，而是在无视宪法规定的任期限制。
+* During a hearing on Friday, lawyers told a judge that National Guard troops sent from Republican-led states had been conducting conduct law enforcement work.
+* 在周五的听证会上，律师告诉法官，从共和党领导的州派出的国民警卫队一直在进行执法工作。
+* The Agriculture Department said that it would not use the funds to cover benefits in November, imperiling a program 42 million people use to pay for groceries.
+* 农业部表示，它不会使用这笔资金来支付11月的福利，这危及4200万人用于支付杂货的计划。
 
 ## New York Times Asia News
+* Three photographers were able to capture the red sprite phenomenon, when lightning flashes above thunderstorms, in high definition against the Milky Way.
+* 三位摄影师能够捕捉到闪电在雷暴上空闪烁时的红色精灵现象，以高清晰度对抗银河系。
+* From Kuala Lumpur to Gyeongju, President Trump is casting himself as a deal-maker and peace negotiator, while a wary region looks for tariff relief and steadier ties.
+* 从吉隆坡到庆州，特朗普总统将自己塑造成交易制定者和和平谈判者，而一个谨慎的地区则寻求关税减免和更稳定的关系。
+* President Trump’s visit shows how the United States and China are vying for influence in Asia over trade, technology and the fate of Taiwan.
+* 特朗普总统的访问表明，美国和中国正在争夺对亚洲贸易、技术和台湾命运的影响力。
+* President Trump is embarking on a six-day diplomatic tour of Asia, testing his role as a statesman and negotiator as he pursues a trade deal with Beijing.
+* 特朗普总统正在对亚洲进行为期六天的外交访问，考验他在寻求与北京达成贸易协议时作为政治家和谈判代表的角色。
+* As the wife of King Bhumibol Adulyadej, she traveled the world charming government leaders and the public.
+* 作为普密蓬·阿杜德国王的妻子，她周游了世界迷人的政府领导人和公众。
+* The administration announced its trade investigation on Friday, ahead of a summit between U.S. and Chinese leaders.
+* 在美国和中国领导人举行峰会之前，政府周五宣布了贸易调查。
+* A motorcycle struck the bus and got lodged in it, creating sparks that ignited the fuel tank, the police in Andhra Pradesh State said.
+* 安得拉邦警方称，一辆摩托车撞上公共汽车并停在公共汽车上，产生了点燃油箱的火花。
 * A modernist house in a leafy Auckland suburb, an apartment with skyline views in the Central Business District, and rustic lodge near Queenstown.
 * 位于绿树成荫的奥克兰郊区的现代主义房屋，中央商务区的天际线景观公寓，以及皇后镇附近的乡村小屋。
 * In China, a professional can be hired to break up a cheating spouse’s extramarital relationship. Elizabeth Lo’s remarkable film takes us up close.
 * 在中国，可以聘请专业人士来打破作弊配偶的婚外关系。伊丽莎白·罗（ Elizabeth Lo ）的非凡电影让我们近距离接触。
 * The recent surge in demonstrations by far-right groups presents a challenge for the South Korean government, as it prepares to host both Xi Jinping, the leader of China, and President Trump.
 * 最近，极右翼团体的示威活动激增，这给韩国政府带来了挑战，因为它准备接待中国领导人习近平和特朗普总统。
-* In weaponizing its dominance over the crucial minerals, Beijing is using tactics that it once denounced, potentially alienating nations it wants to court.
-* 在将其对关键矿产的主导地位武器化时，北京正在使用曾经谴责的策略，这可能会疏远它想要诉诸的国家。
-* India plans to send its vast work force abroad to countries with labor shortages, like Germany and Japan.
-* 印度计划将其庞大的劳动力派往德国和日本等劳动力短缺的国家。
-* The move underscores the country’s struggle to contain religious extremism without provoking influential clerics who can summon thousands of supporters to the streets.
-* 此举凸显了该国为遏制宗教极端主义而进行的斗争，而不会激起有影响力的神职人员，他们可以召集数千名支持者走上街头。
-* The trade case is coming at a pivotal moment, before a meeting next week between President Trump and China’s leader.
-* 这场贸易争端发生在下周特朗普总统和中国领导人会晤之前的关键时刻。
-* The United States, Britain and South Korea have joined a crackdown on groups running frauds from Southeast Asia. They have their work cut out.
-* 美国、英国和韩国已加入打击东南亚欺诈团体的行列。他们的工作被切断了。
-* Ryan Chen has turned an uncanny impersonation of President Trump into a social media career, and a mirror of China’s fascination with America.
-* 瑞安·陈（ Ryan Chen ）把对特朗普总统不可思议的模仿变成了社交媒体事业，也反映了中国对美国的迷恋。
-* The protests that rocked Nepal were about more than a social media ban. The economy is so dire that for many, going abroad seems the only way to build a future.
-* 震惊尼泊尔的抗议活动不仅仅是关于社交媒体禁令。经济如此可怕，以至于对许多人来说，出国似乎是建立未来的唯一途径。
 
