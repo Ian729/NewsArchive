@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Trump’s visit shows how the United States and China are vying for influence in Asia over trade, technology and the fate of Taiwan.
-* 特朗普总统的访问表明，美国和中国正在争夺对亚洲贸易、技术和台湾命运的影响力。
-* The main opposition candidates in the Ivory Coast’s presidential election have been barred from the race. Critics say the vote has been rigged.
-* 科特迪瓦总统选举中的主要反对派候选人被禁止参加竞选。批评人士说，投票被操纵了。
-* As winter slows the pace of battlefield combat, Moscow and Kyiv are betting on campaigns against each other’s energy assets to break a stalemate in the conflict.
-* 由于冬季减缓了战场战斗的步伐，莫斯科和基辅正在押注于针对对方能源资产的运动，以打破冲突中的僵局。
-* President Javier Milei of Argentina has earned U.S. support, but he faces a critical legislative election at home amid voter anger over job losses and corruption scandals.
-* 阿根廷总统哈维尔·米莱（ Javier Milei ）赢得了美国的支持，但由于选民对失业和腐败丑闻感到愤怒，他在国内面临一场关键的立法选举。
-* He was asked to cater a climate event for Prince William and 700 guests. But for a renowned chef who wanted to showcase the Amazon’s culinary tradition, it was like “asking Iron Maiden to play jazz.”
-* 他被要求为威廉王子和700位客人举办气候活动。但对于一位想展示亚马逊烹饪传统的着名厨师来说，这就像“让铁娘子演奏爵士乐”。
-* From Kuala Lumpur to Gyeongju, President Trump is casting himself as a deal-maker and peace negotiator, while a wary region looks for tariff relief and steadier ties.
-* 从吉隆坡到庆州，特朗普总统将自己塑造成交易制定者和和平谈判者，而一个谨慎的地区则寻求关税减免和更稳定的关系。
-* One of America’s favorite fall drinks shows up in Brussels and Antwerp, but rarely in Paris and Rome. It has yet to reach the ubiquity — or the sugar content — of its stateside counterpart.
-* 美国最受欢迎的秋季饮品之一出现在布鲁塞尔和安特卫普，但很少出现在巴黎和罗马。它尚未达到其美国同行的普遍性或糖含量。
-* They arrive where the killings end, retrieving bodies, comforting families and bearing the emotional toll of a deadly struggle that shows no sign of stopping.
-* 他们到达杀戮结束的地方，取回尸体，安慰家人，并承受着一场没有停止迹象的致命斗争的情感代价。
-* Britain hosted a meeting of European leaders to discuss bolstering support for Kyiv as winter approaches.
-* 英国主办了一次欧洲领导人会议，讨论在冬季来临之际加强对基辅的支持。
-* Doug Ford has built a reputation for picking fights with President Trump and getting under his skin with publicity-grabbing moves as U.S. tariffs have harmed Ontario’s economy.
-* 随着美国关税损害了安大略省的经济，道格·福特(Doug Ford)因与特朗普总统(President Trump)发生冲突，并以抢占公众注意力的举动而声名狼藉。
+* President Trump also announced a trade deal with Cambodia and a critical minerals agreement with Thailand. The biggest test of his trip lies ahead: talks with China’s leader, Xi Jinping.
+* 特朗普总统还宣布了与柬埔寨的贸易协议以及与泰国的关键矿产协议。他此行的最大考验就在眼前：与中国领导人习近平的会谈。
+* Four thieves broke into the famed Paris museum last week and stole over $100 million in historical jewelry, shocking France and the world. It is unclear how many people were arrested.
+* 上周，四名窃贼闯入着名的巴黎博物馆，偷走了价值1亿多$的历史珠宝，震惊了法国和世界。目前尚不清楚有多少人被捕。
+* Among the flood of Ukrainian defense start-ups, one stands out to both its supporters and its critics: the drone maker Fire Point.
+* 在大量乌克兰国防初创企业中，无人机制造商Fire Point的支持者和批评者都脱颖而出。
+* President Nicolás Maduro’s opponents hope a new period of economic pain will finally topple his government. He is using cryptocurrency to hold on.
+* 尼古拉斯·马杜罗（ Nicolás Maduro ）总统的反对者希望新的经济痛苦时期最终会推翻他的政府。他正在使用加密货币来坚持下去。
+* Negotiators announced on Sunday they have preliminarily agreed on several issues ahead of an expected meeting between President Trump and Xi Jinping this week.
+* 谈判代表周日宣布，在本周特朗普总统和习近平预计会晤之前，他们已经初步商定了几个问题。
+* As a guarantor of the cease-fire, Turkey is keen to play a role in Gaza’s future, seeing political and economic benefits. Israel is having none of it.
+* 作为停火的保障者，土耳其热衷于在加沙的未来中发挥作用，看到政治和经济利益。以色列一无所有。
+* The vote is a key gauge of whether Argentines still back his cost-cutting, pro-market experiment, and whether he can govern effectively for the next two years.
+* 这次投票是衡量阿根廷人是否仍然支持他削减成本的亲市场实验，以及他是否能在未来两年内有效治理的关键指标。
+* Malaysia’s “Furniture City,” the town of Muar, was already losing ground. Then President Trump put kitchen cabinets in his sights.
+* 马来西亚Muar镇的“家具城”已经失去了优势。然后，特朗普总统将厨房橱柜放在他的视线中。
+* President Trump is traveling to Malaysia for the event, his first destination in a nearly weeklong trip.
+* 特朗普总统将前往马来西亚参加此次活动，这是他近一周的旅行中的第一个目的地。
+* The robbery at the Louvre left behind more than broken glass. It battered the pride of a nation that is increasingly glum about itself and its direction.
+* 卢浮宫的抢劫留下的不仅仅是碎玻璃。它打击了一个对自身及其方向越来越沮丧的国家的骄傲。
 
 ## New York Times United States News
+* There is outrage. But also optimism. And then there is the question: Given everything else going on, why now?
+* 有愤怒，但也有乐观。还有一个问题：考虑到其他所有事情，为什么是现在？
+* The state has become a stronghold for President Trump. Now, his efforts on trade, energy and immigration are squeezing farmers, disrupting labor and threatening industries.
+* 该州已成为特朗普总统的据点。现在，他在贸易、能源和移民方面的努力正在挤压农民，扰乱劳动力和威胁行业。
+* Buttressed by courts and support from some Republican lawmakers, federally funded newsrooms that President Trump has tried to eliminate have yet to be rendered obsolete.
+* 在法院和一些共和党议员的支持下，特朗普总统试图消除的联邦资助的新闻编辑室尚未过时。
+* ICE officers were in the process of detaining Josue Castro-Rivera, 24, of Honduras, before he ran onto a busy highway in Norfolk and was struck by a pickup truck, officials said.
+* 官员说， ICE官员正在拘留洪都拉斯24岁的Josue Castro-Rivera ，然后他跑到诺福克的一条繁忙的高速公路上，被一辆皮卡车撞倒。
+* Clifford Proctor, 60, was charged with second-degree murder in the 2015 killing of Brendon Glenn during an attempted arrest.
+* 60岁的克利福德·普罗克特（ Clifford Proctor ）在2015年试图逮捕布伦登·格伦（ Brendon Glenn ）时被指控犯有二级谋杀罪。
+* The base commander on Saturday expanded a previous evacuation order to include “non-mission-essential U.S. citizens.”
+* 这位基地指挥官周六扩大了之前的撤离令，将“非任务必需的美国公民”包括在内。
+* Through more than two dozen books and two organizations he helped start, he had a profound impact on the intellectual and political life of Jewish congregations in the United States.
+* 通过他帮助创办的二十多本书和两个组织，他对美国犹太教会的知识和政治生活产生了深远的影响。
+* Ms. Harris, in an interview with the BBC, gave her strongest indication yet that she was thinking about making another bid for the Oval Office.
+* 哈里斯女士在接受英国广播公司采访时表示，她正在考虑再次竞标椭圆形办公室。
+* Timothy Mellon is a billionaire and a major financial backer of President Trump.
+* 蒂莫西·梅隆（ Timothy Mellon ）是亿万富翁，也是特朗普总统的主要资金支持者。
 * The speaker’s decision to hold the House in an indefinite hiatus during the shutdown is his latest move to diminish the role of the legislative branch — and his own post.
 * 议长决定让众议院在政府关门期间无限期休会，这是他削弱立法部门--以及他自己的职位--作用的最新举措。
-* South Florida will feel some of the most intense reverberations if Congress allows the extra insurance subsidies it approved during the pandemic to expire.
-* 如果国会允许其在疫情期间批准的额外保险补贴到期，南佛罗里达州将感受到一些最强烈的回响。
-* Vice President JD Vance has found himself defending or promoting positions that he once opposed, even as recently as the campaign.
-* 副总裁JD Vance发现自己捍卫或提升了他曾经反对的职位，即使是最近的竞选活动也是如此。
-* The preliminary plan stems from frustration over the pace of the deportations, which are lagging behind President Trump’s demands.
-* 初步计划源于对驱逐速度的沮丧，这落后于特朗普总统的要求。
-* Federal agents detained a man on the city’s North Side on Friday, and residents emerged from their homes, yelling and blowing whistles.
-* 周五，联邦特工在该市北区拘留了一名男子，居民从家中出来，大喊大叫，吹口哨。
-* The Trump administration said that monitors will watch polling in two states, led by Democrats, where key races or issues are on the ballot.
-* 特朗普政府表示，监督员将观看以民主党人为首的两个州的民意调查，这两个州的关键比赛或问题都在选票上。
-* President Trump is embarking on a six-day diplomatic tour of Asia, testing his role as a statesman and negotiator as he pursues a trade deal with Beijing.
-* 特朗普总统正在对亚洲进行为期六天的外交访问，考验他在寻求与北京达成贸易协议时作为政治家和谈判代表的角色。
-* The claim comes after months of President Trump toying with the idea, insisting that he is “not joking” about defying a constitutionally-mandated term limit.
-* 特朗普总统几个月来一直在玩弄这个想法，坚称他“不是在开玩笑” ，而是在无视宪法规定的任期限制。
-* During a hearing on Friday, lawyers told a judge that National Guard troops sent from Republican-led states had been conducting conduct law enforcement work.
-* 在周五的听证会上，律师告诉法官，从共和党领导的州派出的国民警卫队一直在进行执法工作。
-* The Agriculture Department said that it would not use the funds to cover benefits in November, imperiling a program 42 million people use to pay for groceries.
-* 农业部表示，它不会使用这笔资金来支付11月的福利，这危及4200万人用于支付杂货的计划。
 
 ## New York Times Asia News
+* Negotiators announced on Sunday they have preliminarily agreed on several issues ahead of an expected meeting between President Trump and Xi Jinping this week.
+* 谈判代表周日宣布，在本周特朗普总统和习近平预计会晤之前，他们已经初步商定了几个问题。
+* The U.S. announced agreements on Sunday with Malaysia, Thailand and Cambodia, securing support for its efforts to pressure China on trade and critical minerals.
+* 美国周日宣布与马来西亚、泰国和柬埔寨达成协议，确保其在贸易和关键矿产方面向中国施压的努力得到支持。
+* President Trump has repeatedly said that he wants to see the North Korean leader again. Mr. Kim has indicated that he is open to the idea — but only under a strict condition.
+* 特朗普总统多次表示，他希望再次见到朝鲜领导人。金先生表示，他对这个想法持开放态度，但只是在严格的条件下。
+* President Trump is traveling to Malaysia for the event, his first destination in a nearly weeklong trip.
+* 特朗普总统将前往马来西亚参加此次活动，这是他近一周的旅行中的第一个目的地。
+* President Trump presided over several deals during his first day of a nearly weeklong trip. But it was unclear how much they would accomplish.
+* 特朗普总统在为期近一周的访问的第一天主持了几笔交易。但目前还不清楚他们能完成多少。
+* Concern is increasing throughout Southeast Asia as U.S. officials, intent on slowing China, have yet to say how they will define the origin country of imports.
+* 整个东南亚地区的担忧正在加剧，因为美国官员意图减缓中国的步伐，尚未说明他们将如何确定进口原产国。
+* They are expecting President Trump will do for their loved ones what he did for the hostages held by Hamas: set in motion a plan that leads to their release.
+* 他们期待特朗普总统为他们的亲人做他为哈马斯劫持的人质所做的事情：启动一项导致他们获释的计划。
+* Malaysia’s “Furniture City,” the town of Muar, was already losing ground. Then President Trump put kitchen cabinets in his sights.
+* 马来西亚Muar镇的“家具城”已经失去了优势。然后，特朗普总统将厨房橱柜放在他的视线中。
 * Three photographers were able to capture the red sprite phenomenon, when lightning flashes above thunderstorms, in high definition against the Milky Way.
 * 三位摄影师能够捕捉到闪电在雷暴上空闪烁时的红色精灵现象，以高清晰度对抗银河系。
 * From Kuala Lumpur to Gyeongju, President Trump is casting himself as a deal-maker and peace negotiator, while a wary region looks for tariff relief and steadier ties.
 * 从吉隆坡到庆州，特朗普总统将自己塑造成交易制定者和和平谈判者，而一个谨慎的地区则寻求关税减免和更稳定的关系。
-* President Trump’s visit shows how the United States and China are vying for influence in Asia over trade, technology and the fate of Taiwan.
-* 特朗普总统的访问表明，美国和中国正在争夺对亚洲贸易、技术和台湾命运的影响力。
-* President Trump is embarking on a six-day diplomatic tour of Asia, testing his role as a statesman and negotiator as he pursues a trade deal with Beijing.
-* 特朗普总统正在对亚洲进行为期六天的外交访问，考验他在寻求与北京达成贸易协议时作为政治家和谈判代表的角色。
-* As the wife of King Bhumibol Adulyadej, she traveled the world charming government leaders and the public.
-* 作为普密蓬·阿杜德国王的妻子，她周游了世界迷人的政府领导人和公众。
-* The administration announced its trade investigation on Friday, ahead of a summit between U.S. and Chinese leaders.
-* 在美国和中国领导人举行峰会之前，政府周五宣布了贸易调查。
-* A motorcycle struck the bus and got lodged in it, creating sparks that ignited the fuel tank, the police in Andhra Pradesh State said.
-* 安得拉邦警方称，一辆摩托车撞上公共汽车并停在公共汽车上，产生了点燃油箱的火花。
-* A modernist house in a leafy Auckland suburb, an apartment with skyline views in the Central Business District, and rustic lodge near Queenstown.
-* 位于绿树成荫的奥克兰郊区的现代主义房屋，中央商务区的天际线景观公寓，以及皇后镇附近的乡村小屋。
-* In China, a professional can be hired to break up a cheating spouse’s extramarital relationship. Elizabeth Lo’s remarkable film takes us up close.
-* 在中国，可以聘请专业人士来打破作弊配偶的婚外关系。伊丽莎白·罗（ Elizabeth Lo ）的非凡电影让我们近距离接触。
-* The recent surge in demonstrations by far-right groups presents a challenge for the South Korean government, as it prepares to host both Xi Jinping, the leader of China, and President Trump.
-* 最近，极右翼团体的示威活动激增，这给韩国政府带来了挑战，因为它准备接待中国领导人习近平和特朗普总统。
 
