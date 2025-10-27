@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Trump also announced a trade deal with Cambodia and a critical minerals agreement with Thailand. The biggest test of his trip lies ahead: talks with China’s leader, Xi Jinping.
-* 特朗普总统还宣布了与柬埔寨的贸易协议以及与泰国的关键矿产协议。他此行的最大考验就在眼前：与中国领导人习近平的会谈。
-* Four thieves broke into the famed Paris museum last week and stole over $100 million in historical jewelry, shocking France and the world. It is unclear how many people were arrested.
-* 上周，四名窃贼闯入着名的巴黎博物馆，偷走了价值1亿多$的历史珠宝，震惊了法国和世界。目前尚不清楚有多少人被捕。
+* As Prime Minister Sanae Takaichi seeks reassurance from President Trump on trade and security, she will likely play up her ties to Shinzo Abe, a mutual friend.
+* 随着首相高市早苗(Sanae Takaichi)寻求特朗普总统在贸易和安全方面的保证，她可能会与共同的朋友安倍晋三(Shinzo Abe)建立联系。
+* A botched spying case prompted accusations that the British government was soft on China, highlighting tensions between economic and national security interests.
+* 一桩拙劣的间谍案引发了英国政府对中国软弱无力的指责，凸显了经济和国家安全利益之间的紧张关系。
+* Since an Israel-Hamas cease-fire deal came into effect, the U.S. effort to sustain it appears to have constrained Prime Minister Benjamin Netanyahu.
+* 自以色列-哈马斯停火协议生效以来，美国维持停火协议的努力似乎限制了总理本雅明·内塔尼亚胡。
+* A U.S. colonel has gone public with his concern that official findings about the 2022 killing of a Palestinian American reporter were soft-pedaled to appease Israel.
+* 一名美国上校公开表达了他的担忧，即有关2022年杀害一名巴勒斯坦裔美国记者的官方调查结果是为了安抚以色列。
 * Among the flood of Ukrainian defense start-ups, one stands out to both its supporters and its critics: the drone maker Fire Point.
 * 在大量乌克兰国防初创企业中，无人机制造商Fire Point的支持者和批评者都脱颖而出。
+* U.S. allies worry that American volatility and Russian outreach and arms sales, in particular, are driving Vietnam into a new phase.
+* 美国的盟友担心，美国的动荡以及俄罗斯的外联和武器销售正在将越南推向一个新的阶段。
+* The Times examined weapons sales documents from a Russian arms supplier and interviewed dozens of officials from Vietnam, the United States and other countries in the region.
+* 《纽约时报》审查了一家俄罗斯武器供应商的武器销售文件，并采访了来自越南、美国和该地区其他国家的数十名官员。
+* Thieves stole over $100 million in jewelry from the Paris museum. It is unclear how many people were arrested, but one man was caught while trying to leave France.
+* 盗贼从巴黎博物馆偷走了价值1亿多$的珠宝。目前尚不清楚有多少人被捕，但有一名男子在试图离开法国时被捕。
+* The Rapid Support Forces said it had seized the army headquarters in El Fasher, its last major obstacle to controlling the sprawling western region of Sudan.
+* 快速支援部队表示，它已经占领了法希尔的军队总部，这是控制苏丹西部地区的最后一个主要障碍。
 * President Nicolás Maduro’s opponents hope a new period of economic pain will finally topple his government. He is using cryptocurrency to hold on.
 * 尼古拉斯·马杜罗（ Nicolás Maduro ）总统的反对者希望新的经济痛苦时期最终会推翻他的政府。他正在使用加密货币来坚持下去。
-* Negotiators announced on Sunday they have preliminarily agreed on several issues ahead of an expected meeting between President Trump and Xi Jinping this week.
-* 谈判代表周日宣布，在本周特朗普总统和习近平预计会晤之前，他们已经初步商定了几个问题。
-* As a guarantor of the cease-fire, Turkey is keen to play a role in Gaza’s future, seeing political and economic benefits. Israel is having none of it.
-* 作为停火的保障者，土耳其热衷于在加沙的未来中发挥作用，看到政治和经济利益。以色列一无所有。
-* The vote is a key gauge of whether Argentines still back his cost-cutting, pro-market experiment, and whether he can govern effectively for the next two years.
-* 这次投票是衡量阿根廷人是否仍然支持他削减成本的亲市场实验，以及他是否能在未来两年内有效治理的关键指标。
-* Malaysia’s “Furniture City,” the town of Muar, was already losing ground. Then President Trump put kitchen cabinets in his sights.
-* 马来西亚Muar镇的“家具城”已经失去了优势。然后，特朗普总统将厨房橱柜放在他的视线中。
-* President Trump is traveling to Malaysia for the event, his first destination in a nearly weeklong trip.
-* 特朗普总统将前往马来西亚参加此次活动，这是他近一周的旅行中的第一个目的地。
-* The robbery at the Louvre left behind more than broken glass. It battered the pride of a nation that is increasingly glum about itself and its direction.
-* 卢浮宫的抢劫留下的不仅仅是碎玻璃。它打击了一个对自身及其方向越来越沮丧的国家的骄傲。
 
 ## New York Times United States News
-* There is outrage. But also optimism. And then there is the question: Given everything else going on, why now?
-* 有愤怒，但也有乐观。还有一个问题：考虑到其他所有事情，为什么是现在？
-* The state has become a stronghold for President Trump. Now, his efforts on trade, energy and immigration are squeezing farmers, disrupting labor and threatening industries.
-* 该州已成为特朗普总统的据点。现在，他在贸易、能源和移民方面的努力正在挤压农民，扰乱劳动力和威胁行业。
-* Buttressed by courts and support from some Republican lawmakers, federally funded newsrooms that President Trump has tried to eliminate have yet to be rendered obsolete.
-* 在法院和一些共和党议员的支持下，特朗普总统试图消除的联邦资助的新闻编辑室尚未过时。
-* ICE officers were in the process of detaining Josue Castro-Rivera, 24, of Honduras, before he ran onto a busy highway in Norfolk and was struck by a pickup truck, officials said.
-* 官员说， ICE官员正在拘留洪都拉斯24岁的Josue Castro-Rivera ，然后他跑到诺福克的一条繁忙的高速公路上，被一辆皮卡车撞倒。
-* Clifford Proctor, 60, was charged with second-degree murder in the 2015 killing of Brendon Glenn during an attempted arrest.
-* 60岁的克利福德·普罗克特（ Clifford Proctor ）在2015年试图逮捕布伦登·格伦（ Brendon Glenn ）时被指控犯有二级谋杀罪。
-* The base commander on Saturday expanded a previous evacuation order to include “non-mission-essential U.S. citizens.”
-* 这位基地指挥官周六扩大了之前的撤离令，将“非任务必需的美国公民”包括在内。
-* Through more than two dozen books and two organizations he helped start, he had a profound impact on the intellectual and political life of Jewish congregations in the United States.
-* 通过他帮助创办的二十多本书和两个组织，他对美国犹太教会的知识和政治生活产生了深远的影响。
-* Ms. Harris, in an interview with the BBC, gave her strongest indication yet that she was thinking about making another bid for the Oval Office.
-* 哈里斯女士在接受英国广播公司采访时表示，她正在考虑再次竞标椭圆形办公室。
-* Timothy Mellon is a billionaire and a major financial backer of President Trump.
-* 蒂莫西·梅隆（ Timothy Mellon ）是亿万富翁，也是特朗普总统的主要资金支持者。
-* The speaker’s decision to hold the House in an indefinite hiatus during the shutdown is his latest move to diminish the role of the legislative branch — and his own post.
-* 议长决定让众议院在政府关门期间无限期休会，这是他削弱立法部门--以及他自己的职位--作用的最新举措。
+* Several of the leaders President Trump will encounter are either autocrats or presiding over fragile democracies. And some admire his willingness to break the rules.
+* 特朗普总统将遇到的几位领导人要么是独裁者，要么是脆弱的民主国家的主席。有些人钦佩他打破规则的意愿。
+* The justices used the doctrine, a judicially created method of reading statutes, to thwart several major Biden programs.
+* 法官们使用这一学说，这是一种司法创造的解读法规的方法，挫败了几项主要的拜登计划。
+* Abigail Spanberger, the Democratic nominee, has a commanding lead in polls. Her Republican rival, Winsome Earle-Sears, has focused on a texting scandal involving the Democrat running for attorney general.
+* 民主党候选人阿比盖尔·斯潘伯格（ Abigail Spanberger ）在民意调查中领先。她的共和党对手温瑟姆·厄尔-西尔斯（ Winsome Earle-Sears ）一直关注涉及民主党竞选司法部长的短信丑闻。
+* In an interview, the Pennsylvania governor offered his most detailed accounting yet of the April attack — and how he’s grappling with its aftermath.
+* 在一次采访中，宾夕法尼亚州州长提供了他对4月袭击事件最详细的描述—以及他如何应对其后果。
+* History lessons are being wiped from the internet, and California is retreating from ethnic studies, as education swings away from curriculums that are seen as too progressive.
+* 历史课正在从互联网上抹去，加利福尼亚正在退出种族研究，因为教育摆脱了被认为过于进步的课程。
+* A rare flash flood emergency was declared for parts of Lake County on Sunday, which received up to 18 inches of rain.
+* 周日，湖县部分地区宣布发生罕见的山洪暴发紧急情况，降雨量高达18英寸。
+* Prime Minister Mark Carney is focusing on what the country can control, including looking for economic partnerships abroad, especially in Asia.
+* 总理马克·卡尼（ Mark Carney ）专注于该国可以控制的事情，包括寻求海外经济伙伴关系，特别是在亚洲。
+* Growing need and decreased resources are squeezing the charitable food system beyond its capacity, leaders say.
+* 领导人说，不断增长的需求和资源减少正在挤压慈善粮食系统的能力。
+* Whether because of his increasingly mercurial approach or despite it, President Trump has won some foreign policy victories in his second term. The question now is whether he can build on his record.
+* 无论是因为他越来越善变的态度还是尽管如此，特朗普总统在第二个任期内赢得了一些外交政策的胜利。现在的问题是他能否在他的记录上再接再厉。
+* The California governor acknowledged in an interview Sunday on CBS that he would give the question serious thought after the 2026 elections.
+* 加利福尼亚州州长周日在接受哥伦比亚广播公司采访时承认，他将在2026年大选后认真考虑这个问题。
 
 ## New York Times Asia News
-* Negotiators announced on Sunday they have preliminarily agreed on several issues ahead of an expected meeting between President Trump and Xi Jinping this week.
-* 谈判代表周日宣布，在本周特朗普总统和习近平预计会晤之前，他们已经初步商定了几个问题。
-* The U.S. announced agreements on Sunday with Malaysia, Thailand and Cambodia, securing support for its efforts to pressure China on trade and critical minerals.
-* 美国周日宣布与马来西亚、泰国和柬埔寨达成协议，确保其在贸易和关键矿产方面向中国施压的努力得到支持。
-* President Trump has repeatedly said that he wants to see the North Korean leader again. Mr. Kim has indicated that he is open to the idea — but only under a strict condition.
-* 特朗普总统多次表示，他希望再次见到朝鲜领导人。金先生表示，他对这个想法持开放态度，但只是在严格的条件下。
-* President Trump is traveling to Malaysia for the event, his first destination in a nearly weeklong trip.
-* 特朗普总统将前往马来西亚参加此次活动，这是他近一周的旅行中的第一个目的地。
-* President Trump presided over several deals during his first day of a nearly weeklong trip. But it was unclear how much they would accomplish.
-* 特朗普总统在为期近一周的访问的第一天主持了几笔交易。但目前还不清楚他们能完成多少。
-* Concern is increasing throughout Southeast Asia as U.S. officials, intent on slowing China, have yet to say how they will define the origin country of imports.
-* 整个东南亚地区的担忧正在加剧，因为美国官员意图减缓中国的步伐，尚未说明他们将如何确定进口原产国。
-* They are expecting President Trump will do for their loved ones what he did for the hostages held by Hamas: set in motion a plan that leads to their release.
-* 他们期待特朗普总统为他们的亲人做他为哈马斯劫持的人质所做的事情：启动一项导致他们获释的计划。
-* Malaysia’s “Furniture City,” the town of Muar, was already losing ground. Then President Trump put kitchen cabinets in his sights.
-* 马来西亚Muar镇的“家具城”已经失去了优势。然后，特朗普总统将厨房橱柜放在他的视线中。
-* Three photographers were able to capture the red sprite phenomenon, when lightning flashes above thunderstorms, in high definition against the Milky Way.
-* 三位摄影师能够捕捉到闪电在雷暴上空闪烁时的红色精灵现象，以高清晰度对抗银河系。
-* From Kuala Lumpur to Gyeongju, President Trump is casting himself as a deal-maker and peace negotiator, while a wary region looks for tariff relief and steadier ties.
-* 从吉隆坡到庆州，特朗普总统将自己塑造成交易制定者和和平谈判者，而一个谨慎的地区则寻求关税减免和更稳定的关系。
+* The Times examined weapons sales documents from a Russian arms supplier and interviewed dozens of officials from Vietnam, the United States and other countries in the region.
+* 《纽约时报》审查了一家俄罗斯武器供应商的武器销售文件，并采访了来自越南、美国和该地区其他国家的数十名官员。
+* U.S. allies worry that American volatility and Russian outreach and arms sales, in particular, are driving Vietnam into a new phase.
+* 美国的盟友担心，美国的动荡以及俄罗斯的外联和武器销售正在将越南推向一个新的阶段。
+* Several of the leaders President Trump will encounter are either autocrats or presiding over fragile democracies. And some admire his willingness to break the rules.
+* 特朗普总统将遇到的几位领导人要么是独裁者，要么是脆弱的民主国家的主席。有些人钦佩他打破规则的意愿。
+* President Trump has embarked on a six-day diplomatic tour of Asia, testing his role as a statesman and negotiator as he pursues a trade deal with China. Erica L. Green, the White House correspondent for The New York Times, explains what’s at stake.
+* 特朗普总统已开始对亚洲进行为期六天的外交访问，考验他在寻求与中国达成贸易协议时作为政治家和谈判代表的角色。《纽约时报》白宫记者艾丽卡· L ·格林（ Erica L. Green ）解释了利害攸关的事情。
+* A helicopter and a fighter jet went down in separate incidents while operating from a U.S. aircraft carrier on Sunday, the Navy said. The crews were rescued.
+* 海军表示，周日，一架直升机和一架战斗机在美国航母上作战时分别发生事故。船员获救。
+* A botched spying case prompted accusations that the British government was soft on China, highlighting tensions between economic and national security interests.
+* 一桩拙劣的间谍案引发了英国政府对中国软弱无力的指责，凸显了经济和国家安全利益之间的紧张关系。
+* As Prime Minister Sanae Takaichi seeks reassurance from President Trump on trade and security, she will likely play up her ties to Shinzo Abe, a mutual friend.
+* 随着首相高市早苗(Sanae Takaichi)寻求特朗普总统在贸易和安全方面的保证，她可能会与共同的朋友安倍晋三(Shinzo Abe)建立联系。
+* A new prime minister must decide whether to maintain the previous administration’s deferential negotiating strategy that secured a contentious trade deal.
+* 新总理必须决定是否维持前政府的恭敬谈判战略，以确保达成有争议的贸易协议。
+* Whether because of his increasingly mercurial approach or despite it, President Trump has won some foreign policy victories in his second term. The question now is whether he can build on his record.
+* 无论是因为他越来越善变的态度还是尽管如此，特朗普总统在第二个任期内赢得了一些外交政策的胜利。现在的问题是他能否在他的记录上再接再厉。
+* It remains unclear whether the two nations can achieve lasting peace, but that did not deter President Trump from brandishing himself as a peacemaker.
+* 目前尚不清楚两国能否实现持久和平，但这并没有阻止特朗普总统炫耀自己是和平缔造者。
 
