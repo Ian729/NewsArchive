@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* As Prime Minister Sanae Takaichi seeks reassurance from President Trump on trade and security, she will likely play up her ties to Shinzo Abe, a mutual friend.
-* 随着首相高市早苗(Sanae Takaichi)寻求特朗普总统在贸易和安全方面的保证，她可能会与共同的朋友安倍晋三(Shinzo Abe)建立联系。
-* A botched spying case prompted accusations that the British government was soft on China, highlighting tensions between economic and national security interests.
-* 一桩拙劣的间谍案引发了英国政府对中国软弱无力的指责，凸显了经济和国家安全利益之间的紧张关系。
-* Since an Israel-Hamas cease-fire deal came into effect, the U.S. effort to sustain it appears to have constrained Prime Minister Benjamin Netanyahu.
-* 自以色列-哈马斯停火协议生效以来，美国维持停火协议的努力似乎限制了总理本雅明·内塔尼亚胡。
+* Aid to the devastated territory has increased since the cease-fire took effect and prices have fallen. But many trucks going into Gaza are bringing food and commercial goods to sell that most people cannot afford.
+* 自停火生效以来，对受灾地区的援助有所增加，价格下降。但进入加沙的许多卡车正在运送大多数人买不起的粮食和商品。
+* The Category 5 storm is the most powerful in the Atlantic Ocean this year. The authorities in Jamaica and Cuba have issued evacuation orders for tens of thousands of people.
+* 5级风暴是今年大西洋最强的风暴。牙买加和古巴当局已向数万人发出疏散令。
+* President Trump and Sanae Takaichi, the Japanese prime minister, traded compliments during a stop in Tokyo, but signaled no major breakthrough in ongoing trade negotiations.
+* 特朗普总统和日本首相高市早苗(Sanae Takaichi)在东京停留期间互相称赞，但表示正在进行的贸易谈判没有重大突破。
+* China’s leader wants to weaken American support for Taiwan. But first he will want clarity about President Trump’s stance toward the island.
+* 中国领导人希望削弱美国对台湾的支持。但首先，他希望澄清特朗普总统对该岛的立场。
+* Two years after a shock win for the far-right Geert Wilders, the Netherlands is returning to the polls. His hometown shows the pain points of the country’s volatile politics.
+* 在极右翼的吉尔特·怀尔德斯（ Geert Wilders ）以惊人的优势获胜两年后，荷兰正在重返民意调查。他的家乡展示了这个国家动荡的政治的痛点。
+* Gen. Abdel Fattah al-Burhan confirmed that Sudan’s military had retreated from El Fasher, a decisive shift in control of the country’s sprawling Darfur region.
+* 阿卜杜勒·法塔赫·布尔汉（ Abdel Fattah al-Burhan ）将军证实，苏丹军队已从法希尔撤退，这是对该国庞大达尔富尔地区控制权的决定性转变。
+* U.S. allies worry that American volatility and Russian outreach and arms sales, in particular, are driving Vietnam into a new phase.
+* 美国的盟友担心，美国的动荡以及俄罗斯的外联和武器销售正在将越南推向一个新的阶段。
+* As Sanae Takaichi seeks reassurance from President Trump on trade and security, she will likely play up her ties to Shinzo Abe, a mutual friend.
+* 随着高市早苗寻求特朗普总统在贸易和安全方面的保证，她可能会与共同的朋友安倍晋三(Shinzo Abe)建立联系。
 * A U.S. colonel has gone public with his concern that official findings about the 2022 killing of a Palestinian American reporter were soft-pedaled to appease Israel.
 * 一名美国上校公开表达了他的担忧，即有关2022年杀害一名巴勒斯坦裔美国记者的官方调查结果是为了安抚以色列。
-* Among the flood of Ukrainian defense start-ups, one stands out to both its supporters and its critics: the drone maker Fire Point.
-* 在大量乌克兰国防初创企业中，无人机制造商Fire Point的支持者和批评者都脱颖而出。
-* U.S. allies worry that American volatility and Russian outreach and arms sales, in particular, are driving Vietnam into a new phase.
-* 美国的盟友担心，美国的动荡以及俄罗斯的外联和武器销售正在将越南推向一个新的阶段。
-* The Times examined weapons sales documents from a Russian arms supplier and interviewed dozens of officials from Vietnam, the United States and other countries in the region.
-* 《纽约时报》审查了一家俄罗斯武器供应商的武器销售文件，并采访了来自越南、美国和该地区其他国家的数十名官员。
-* Thieves stole over $100 million in jewelry from the Paris museum. It is unclear how many people were arrested, but one man was caught while trying to leave France.
-* 盗贼从巴黎博物馆偷走了价值1亿多$的珠宝。目前尚不清楚有多少人被捕，但有一名男子在试图离开法国时被捕。
-* The Rapid Support Forces said it had seized the army headquarters in El Fasher, its last major obstacle to controlling the sprawling western region of Sudan.
-* 快速支援部队表示，它已经占领了法希尔的军队总部，这是控制苏丹西部地区的最后一个主要障碍。
-* President Nicolás Maduro’s opponents hope a new period of economic pain will finally topple his government. He is using cryptocurrency to hold on.
-* 尼古拉斯·马杜罗（ Nicolás Maduro ）总统的反对者希望新的经济痛苦时期最终会推翻他的政府。他正在使用加密货币来坚持下去。
+* Official election results gave him an eighth term that, if completed, will last until he is 99. Mr. Biya is one of many leaders well over 70 across Africa, the world’s youngest continent.
+* 官方选举结果给了他第八个任期，如果完成，将持续到他99岁。比亚先生是世界上最年轻的非洲大陆70多位领导人之一。
 
 ## New York Times United States News
-* Several of the leaders President Trump will encounter are either autocrats or presiding over fragile democracies. And some admire his willingness to break the rules.
-* 特朗普总统将遇到的几位领导人要么是独裁者，要么是脆弱的民主国家的主席。有些人钦佩他打破规则的意愿。
-* The justices used the doctrine, a judicially created method of reading statutes, to thwart several major Biden programs.
-* 法官们使用这一学说，这是一种司法创造的解读法规的方法，挫败了几项主要的拜登计划。
-* Abigail Spanberger, the Democratic nominee, has a commanding lead in polls. Her Republican rival, Winsome Earle-Sears, has focused on a texting scandal involving the Democrat running for attorney general.
-* 民主党候选人阿比盖尔·斯潘伯格（ Abigail Spanberger ）在民意调查中领先。她的共和党对手温瑟姆·厄尔-西尔斯（ Winsome Earle-Sears ）一直关注涉及民主党竞选司法部长的短信丑闻。
-* In an interview, the Pennsylvania governor offered his most detailed accounting yet of the April attack — and how he’s grappling with its aftermath.
-* 在一次采访中，宾夕法尼亚州州长提供了他对4月袭击事件最详细的描述—以及他如何应对其后果。
-* History lessons are being wiped from the internet, and California is retreating from ethnic studies, as education swings away from curriculums that are seen as too progressive.
-* 历史课正在从互联网上抹去，加利福尼亚正在退出种族研究，因为教育摆脱了被认为过于进步的课程。
-* A rare flash flood emergency was declared for parts of Lake County on Sunday, which received up to 18 inches of rain.
-* 周日，湖县部分地区宣布发生罕见的山洪暴发紧急情况，降雨量高达18英寸。
-* Prime Minister Mark Carney is focusing on what the country can control, including looking for economic partnerships abroad, especially in Asia.
-* 总理马克·卡尼（ Mark Carney ）专注于该国可以控制的事情，包括寻求海外经济伙伴关系，特别是在亚洲。
-* Growing need and decreased resources are squeezing the charitable food system beyond its capacity, leaders say.
-* 领导人说，不断增长的需求和资源减少正在挤压慈善粮食系统的能力。
-* Whether because of his increasingly mercurial approach or despite it, President Trump has won some foreign policy victories in his second term. The question now is whether he can build on his record.
-* 无论是因为他越来越善变的态度还是尽管如此，特朗普总统在第二个任期内赢得了一些外交政策的胜利。现在的问题是他能否在他的记录上再接再厉。
-* The California governor acknowledged in an interview Sunday on CBS that he would give the question serious thought after the 2026 elections.
-* 加利福尼亚州州长周日在接受哥伦比亚广播公司采访时承认，他将在2026年大选后认真考虑这个问题。
+* President Trump has said he hopes the North Korean leader will reach out so they can meet again. But there has been no public response from Mr. Kim.
+* 特朗普总统表示，他希望朝鲜领导人能够伸出援手，以便他们能够再次见面。但金正恩没有公开回应。
+* Rep. Mikie Sherrill of New Jersey and former Rep. Abigail Spanberger of Virginia will appear together on Wednesday, hoping to energize Democratic campaign volunteers, and voters.
+* 新泽西州众议员米基·谢里尔（ Mikie Sherrill ）和弗吉尼亚州前众议员阿比盖尔·斯潘伯格（ Abigail Spanberger ）将于周三共同出席，希望为民主党竞选志愿者和选民注入活力。
+* The repeated use of tear gas by federal immigration officers in Chicago has renewed a debate about how chemical irritants should be used by law enforcement personnel.
+* 芝加哥联邦移民官员反复使用催泪瓦斯，重新引发了一场关于执法人员应如何使用化学刺激物的辩论。
+* Gregory Bovino, a border patrol official who has become a public face of President Trump’s crackdown, was ordered to appear in a Chicago courtroom.
+* 格雷戈里·博维诺（ Gregory Bovino ）是一名边境巡逻官员，他已成为特朗普总统镇压的公众形象，被命令在芝加哥法庭出庭。
+* By nationalizing a local election, Turning Point Action is trying to show it can carry on without its founder and recall a local Republican who endorsed Kamala Harris.
+* 通过将地方选举国有化， “转折点行动”试图表明它可以在没有创始人的情况下继续进行，并召回支持卡马拉·哈里斯的当地共和党人。
+* An unlikely twist in the investigation of a killing in 1983 that still haunts a small town in Oregon.
+* 1983年，俄勒冈州的一个小镇上发生了一起谋杀案，这起谋杀案的调查不太可能出现转折。
+* The lab where Oppenheimer developed the atomic bomb is the linchpin in the United States’ effort to modernize its nuclear weapons. Yet the site has contended with contamination incidents, work disruptions and old infrastructure.
+* 奥本海默研制原子弹的实验室是美国实现核武器现代化的关键。然而，该场地一直面临污染事件、工作中断和基础设施老化等问题。
+* President Trump and Sanae Takaichi, the Japanese prime minister, traded compliments during a stop in Tokyo, but signaled no major breakthrough in ongoing trade negotiations.
+* 特朗普总统和日本首相高市早苗(Sanae Takaichi)在东京停留期间互相称赞，但表示正在进行的贸易谈判没有重大突破。
+* Within days, tens of millions of low-income Americans may lose assistance for food, child care and utilities if the federal government remains shut down.
+* 如果联邦政府继续关闭，数千万低收入美国人可能会在几天内失去食品、儿童保育和公用事业方面的援助。
+* Joel Rayburn had been questioned over ties to a former Trump administration official who admitted to defying the president’s push to withdraw troops from Syria during his first term.
+* 乔尔·雷伯恩（ Joel Rayburn ）因与一名前特朗普政府官员的关系而受到质疑，该官员承认无视总统在第一任期内从叙利亚撤军的推动。
 
 ## New York Times Asia News
+* President Trump has said he hopes the North Korean leader will reach out so they can meet again. But there has been no public response from Mr. Kim.
+* 特朗普总统表示，他希望朝鲜领导人能够伸出援手，以便他们能够再次见面。但金正恩没有公开回应。
+* He has played the roles of dealmaker, peacemaker and showman, on a tour filled with pomp and circumstance.
+* 他在充满盛况和环境的巡回演出中扮演了交易制定者、和平缔造者和表演者的角色。
+* Tetsuya Yamagami, 45, is accused of assassinating Mr. Abe with a homemade gun during an election rally in 2022.
+* 45岁的山上哲也（ Tetsuya Yamagami ）被指控在2022年的选举集会期间用自制枪支暗杀安倍晋三。
+* China’s leader wants to weaken American support for Taiwan. But first he will want clarity about President Trump’s stance toward the island.
+* 中国领导人希望削弱美国对台湾的支持。但首先，他希望澄清特朗普总统对该岛的立场。
+* The Trump administration is hailing a potential deal that may return the U.S.-China relationship to where it was before the president began a trade war against Beijing.
+* 特朗普政府正在欢迎一项潜在的协议，该协议可能会使美中关系恢复到总统对北京发起贸易战之前的水平。
+* A preliminary tariff deal with President Trump called for a large investment in the United States, while China has warned Seoul not to side with Washington.
+* 与特朗普总统达成的初步关税协议要求在美国进行大量投资，而中国则警告首尔不要站在华盛顿一边。
+* China’s far-reaching rules already affect manufacturers of semiconductors, cars and many other products. They will soon become much broader.
+* 中国影响深远的规则已经影响到半导体、汽车和许多其他产品的制造商。它们很快就会变得更加广泛。
 * The Times examined weapons sales documents from a Russian arms supplier and interviewed dozens of officials from Vietnam, the United States and other countries in the region.
 * 《纽约时报》审查了一家俄罗斯武器供应商的武器销售文件，并采访了来自越南、美国和该地区其他国家的数十名官员。
 * U.S. allies worry that American volatility and Russian outreach and arms sales, in particular, are driving Vietnam into a new phase.
 * 美国的盟友担心，美国的动荡以及俄罗斯的外联和武器销售正在将越南推向一个新的阶段。
 * Several of the leaders President Trump will encounter are either autocrats or presiding over fragile democracies. And some admire his willingness to break the rules.
 * 特朗普总统将遇到的几位领导人要么是独裁者，要么是脆弱的民主国家的主席。有些人钦佩他打破规则的意愿。
-* President Trump has embarked on a six-day diplomatic tour of Asia, testing his role as a statesman and negotiator as he pursues a trade deal with China. Erica L. Green, the White House correspondent for The New York Times, explains what’s at stake.
-* 特朗普总统已开始对亚洲进行为期六天的外交访问，考验他在寻求与中国达成贸易协议时作为政治家和谈判代表的角色。《纽约时报》白宫记者艾丽卡· L ·格林（ Erica L. Green ）解释了利害攸关的事情。
-* A helicopter and a fighter jet went down in separate incidents while operating from a U.S. aircraft carrier on Sunday, the Navy said. The crews were rescued.
-* 海军表示，周日，一架直升机和一架战斗机在美国航母上作战时分别发生事故。船员获救。
-* A botched spying case prompted accusations that the British government was soft on China, highlighting tensions between economic and national security interests.
-* 一桩拙劣的间谍案引发了英国政府对中国软弱无力的指责，凸显了经济和国家安全利益之间的紧张关系。
-* As Prime Minister Sanae Takaichi seeks reassurance from President Trump on trade and security, she will likely play up her ties to Shinzo Abe, a mutual friend.
-* 随着首相高市早苗(Sanae Takaichi)寻求特朗普总统在贸易和安全方面的保证，她可能会与共同的朋友安倍晋三(Shinzo Abe)建立联系。
-* A new prime minister must decide whether to maintain the previous administration’s deferential negotiating strategy that secured a contentious trade deal.
-* 新总理必须决定是否维持前政府的恭敬谈判战略，以确保达成有争议的贸易协议。
-* Whether because of his increasingly mercurial approach or despite it, President Trump has won some foreign policy victories in his second term. The question now is whether he can build on his record.
-* 无论是因为他越来越善变的态度还是尽管如此，特朗普总统在第二个任期内赢得了一些外交政策的胜利。现在的问题是他能否在他的记录上再接再厉。
-* It remains unclear whether the two nations can achieve lasting peace, but that did not deter President Trump from brandishing himself as a peacemaker.
-* 目前尚不清楚两国能否实现持久和平，但这并没有阻止特朗普总统炫耀自己是和平缔造者。
 
