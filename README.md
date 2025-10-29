@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Aid to the devastated territory has increased since the cease-fire took effect and prices have fallen. But many trucks going into Gaza are bringing food and commercial goods to sell that most people cannot afford.
-* 自停火生效以来，对受灾地区的援助有所增加，价格下降。但进入加沙的许多卡车正在运送大多数人买不起的粮食和商品。
-* The Category 5 storm is the most powerful in the Atlantic Ocean this year. The authorities in Jamaica and Cuba have issued evacuation orders for tens of thousands of people.
-* 5级风暴是今年大西洋最强的风暴。牙买加和古巴当局已向数万人发出疏散令。
-* President Trump and Sanae Takaichi, the Japanese prime minister, traded compliments during a stop in Tokyo, but signaled no major breakthrough in ongoing trade negotiations.
-* 特朗普总统和日本首相高市早苗(Sanae Takaichi)在东京停留期间互相称赞，但表示正在进行的贸易谈判没有重大突破。
-* China’s leader wants to weaken American support for Taiwan. But first he will want clarity about President Trump’s stance toward the island.
-* 中国领导人希望削弱美国对台湾的支持。但首先，他希望澄清特朗普总统对该岛的立场。
-* Two years after a shock win for the far-right Geert Wilders, the Netherlands is returning to the polls. His hometown shows the pain points of the country’s volatile politics.
-* 在极右翼的吉尔特·怀尔德斯（ Geert Wilders ）以惊人的优势获胜两年后，荷兰正在重返民意调查。他的家乡展示了这个国家动荡的政治的痛点。
-* Gen. Abdel Fattah al-Burhan confirmed that Sudan’s military had retreated from El Fasher, a decisive shift in control of the country’s sprawling Darfur region.
-* 阿卜杜勒·法塔赫·布尔汉（ Abdel Fattah al-Burhan ）将军证实，苏丹军队已从法希尔撤退，这是对该国庞大达尔富尔地区控制权的决定性转变。
-* U.S. allies worry that American volatility and Russian outreach and arms sales, in particular, are driving Vietnam into a new phase.
-* 美国的盟友担心，美国的动荡以及俄罗斯的外联和武器销售正在将越南推向一个新的阶段。
-* As Sanae Takaichi seeks reassurance from President Trump on trade and security, she will likely play up her ties to Shinzo Abe, a mutual friend.
-* 随着高市早苗寻求特朗普总统在贸易和安全方面的保证，她可能会与共同的朋友安倍晋三(Shinzo Abe)建立联系。
-* A U.S. colonel has gone public with his concern that official findings about the 2022 killing of a Palestinian American reporter were soft-pedaled to appease Israel.
-* 一名美国上校公开表达了他的担忧，即有关2022年杀害一名巴勒斯坦裔美国记者的官方调查结果是为了安抚以色列。
-* Official election results gave him an eighth term that, if completed, will last until he is 99. Mr. Biya is one of many leaders well over 70 across Africa, the world’s youngest continent.
-* 官方选举结果给了他第八个任期，如果完成，将持续到他99岁。比亚先生是世界上最年轻的非洲大陆70多位领导人之一。
+* The storm caused widespread damage in Jamaica to infrastructure and cut internet access for most people. Cuba evacuated about 750,000 people ahead of the storm.
+* 这场风暴对牙买加的基础设施造成了广泛破坏，并切断了大多数人的互联网接入。古巴在风暴来临前疏散了大约75万人。
+* Israel said the cease-fire had resumed after what appeared to be the deadliest day since the truce deal was agreed this month.
+* 以色列表示，在本月达成停火协议以来最致命的一天之后，停火已经恢复。
+* Geert Wilders and his far-right party blew up the Dutch governing coalition this year. Will that cost their party seats in Parliament?
+* 海尔特·怀尔德斯（ Geert Wilders ）和他的极右翼政党今年炸毁了荷兰执政联盟。这会花费他们在议会中的党派席位吗？
+* The small European nation of 18 million people is in the middle of its worst housing crunch in decades. But there is no quick political solution.
+* 这个拥有1800万人口的欧洲小国正处于几十年来最严重的住房危机之中。但没有快速的政治解决方案。
+* China’s leader draws on lessons from Lin Zexu, a Qing official whose defiance of Britain led to China’s humiliating defeat but made him a national hero.
+* 中国领导人吸取了清朝官员林则旭的教训，他对英国的蔑视导致了中国的耻辱性失败，但却使他成为民族英雄。
+* Eastern Europeans have migrated in droves to take care of Italy’s aged and infirm. Then they started getting sick, with an ailment dubbed ‘Italy syndrome.’
+* 东欧人成群结队地移民来照顾意大利的老年人和体弱多病的人。然后他们开始生病，患上了一种被称为“意大利综合症”的疾病。
+* China’s leader signaled in its next five-year plan that he is committed to competing in manufacturing and technology despite tensions with Washington.
+* 中国领导人在其下一个五年计划中表示，尽管与华盛顿关系紧张，但他仍致力于在制造业和技术领域展开竞争。
+* It is clear that the sprawling city of Teotihuacan near Mexico City was a major metropolis of the ancient world, but what do all those glyphs mean?
+* 很明显，墨西哥城附近的庞大城市特奥蒂瓦坎是古代世界的主要大都市，但所有这些字形是什么意思？
+* With the number of people killed by bears reaching a record nationwide, the defense ministry is preparing to send the military to one badly hit area to set traps.
+* 随着全国被熊杀害的人数达到创纪录水平，国防部正准备将军队派往一个受灾严重的地区设置陷阱。
+* The Sudanese military withdrew from a key city in Darfur, where fleeing civilians were reported to be coming under attack from R.S.F. paramilitary forces.
+* 苏丹军方从达尔富尔的一个主要城市撤出，据报道，逃离的平民正受到R.S.F.准军事部队的袭击。
 
 ## New York Times United States News
-* President Trump has said he hopes the North Korean leader will reach out so they can meet again. But there has been no public response from Mr. Kim.
-* 特朗普总统表示，他希望朝鲜领导人能够伸出援手，以便他们能够再次见面。但金正恩没有公开回应。
-* Rep. Mikie Sherrill of New Jersey and former Rep. Abigail Spanberger of Virginia will appear together on Wednesday, hoping to energize Democratic campaign volunteers, and voters.
-* 新泽西州众议员米基·谢里尔（ Mikie Sherrill ）和弗吉尼亚州前众议员阿比盖尔·斯潘伯格（ Abigail Spanberger ）将于周三共同出席，希望为民主党竞选志愿者和选民注入活力。
-* The repeated use of tear gas by federal immigration officers in Chicago has renewed a debate about how chemical irritants should be used by law enforcement personnel.
-* 芝加哥联邦移民官员反复使用催泪瓦斯，重新引发了一场关于执法人员应如何使用化学刺激物的辩论。
-* Gregory Bovino, a border patrol official who has become a public face of President Trump’s crackdown, was ordered to appear in a Chicago courtroom.
-* 格雷戈里·博维诺（ Gregory Bovino ）是一名边境巡逻官员，他已成为特朗普总统镇压的公众形象，被命令在芝加哥法庭出庭。
-* By nationalizing a local election, Turning Point Action is trying to show it can carry on without its founder and recall a local Republican who endorsed Kamala Harris.
-* 通过将地方选举国有化， “转折点行动”试图表明它可以在没有创始人的情况下继续进行，并召回支持卡马拉·哈里斯的当地共和党人。
-* An unlikely twist in the investigation of a killing in 1983 that still haunts a small town in Oregon.
-* 1983年，俄勒冈州的一个小镇上发生了一起谋杀案，这起谋杀案的调查不太可能出现转折。
-* The lab where Oppenheimer developed the atomic bomb is the linchpin in the United States’ effort to modernize its nuclear weapons. Yet the site has contended with contamination incidents, work disruptions and old infrastructure.
-* 奥本海默研制原子弹的实验室是美国实现核武器现代化的关键。然而，该场地一直面临污染事件、工作中断和基础设施老化等问题。
-* President Trump and Sanae Takaichi, the Japanese prime minister, traded compliments during a stop in Tokyo, but signaled no major breakthrough in ongoing trade negotiations.
-* 特朗普总统和日本首相高市早苗(Sanae Takaichi)在东京停留期间互相称赞，但表示正在进行的贸易谈判没有重大突破。
-* Within days, tens of millions of low-income Americans may lose assistance for food, child care and utilities if the federal government remains shut down.
-* 如果联邦政府继续关闭，数千万低收入美国人可能会在几天内失去食品、儿童保育和公用事业方面的援助。
-* Joel Rayburn had been questioned over ties to a former Trump administration official who admitted to defying the president’s push to withdraw troops from Syria during his first term.
-* 乔尔·雷伯恩（ Joel Rayburn ）因与一名前特朗普政府官员的关系而受到质疑，该官员承认无视总统在第一任期内从叙利亚撤军的推动。
+* State officials promise large-scale involuntary addiction and mental health treatment at Salt Lake City’s edge. Critics see “a prison, or a warehouse.”
+* 州政府官员承诺在盐湖城边缘进行大规模的非自愿成瘾和心理健康治疗。批评者称之为“监狱或仓库”。
+* A federal court says Republican legislators diluted Black voter strength. New maps may help Democrats break the G.O.P. supermajority in Jackson on Nov. 4.
+* 一家联邦法院称，共和党立法者淡化了黑人选民的力量。11月4日，新地图可能会帮助民主党打破共和党在杰克逊的绝对多数。
+* As political battles upend college campuses, we asked dozens of students what is on their minds as they plan for the future. Politics was only part of it.
+* 随着政治斗争颠覆了大学校园，我们向数十名学生询问了他们对未来的计划。政治只是其中的一部分。
+* Despite the Constitution’s two-term limit, Trump had mused for months about a third term.
+* 尽管宪法规定了两个任期的限制，但特朗普几个月来一直沉思第三个任期。
+* The court ruled that Bill Essayli had been acting “unlawfully” as U.S. attorney in Los Angeles but that he could stay on as the office’s top deputy for now.
+* 法院裁定，比尔·埃塞利（ Bill Essayli ）在洛杉矶担任美国律师的行为“非法” ，但他现在可以继续担任该办公室的首席副手。
+* Judges in the Ninth Circuit voted to have a larger panel reconsider a decision that could have allowed President Trump to use soldiers at the Portland, Ore., immigration building.
+* 第九巡回法院的法官投票决定让一个更大的小组重新考虑一项决定，该决定可能允许特朗普总统在俄勒冈州波特兰的移民大楼使用士兵。
+* The Commission of Fine Arts, an independent federal agency, was established by Congress to advise the president on urban planning and historical preservation.
+* 国会成立了独立的联邦机构美术委员会，就城市规划和历史保护向总统提供建议。
+* The departures of the head of the Agriculture Department’s Food and Nutrition Service and a senior policy adviser spurred worries on Capitol Hill as food aid benefits could halt.
+* 农业部食品和营养局局长和一名高级政策顾问的离职引发了国会山的担忧，因为粮食援助福利可能会停止。
+* Michele Beckwith was ousted by President Trump less than six hours after instructing a top immigration official to abide by the Constitution in his immigration raids.
+* 米歇尔·贝克维斯（ Michele Beckwith ）在指示一名高级移民官员在移民突袭中遵守宪法后不到六小时就被特朗普总统赶下台。
+* The funding was part of a bipartisan measure that Congress approved in response to school shootings, but the Trump administration argued that the grants violated civil rights law.
+* 这笔资金是国会为应对学校枪击事件而批准的两党措施的一部分，但特朗普政府辩称，这些拨款违反了民权法。
 
 ## New York Times Asia News
-* President Trump has said he hopes the North Korean leader will reach out so they can meet again. But there has been no public response from Mr. Kim.
-* 特朗普总统表示，他希望朝鲜领导人能够伸出援手，以便他们能够再次见面。但金正恩没有公开回应。
-* He has played the roles of dealmaker, peacemaker and showman, on a tour filled with pomp and circumstance.
-* 他在充满盛况和环境的巡回演出中扮演了交易制定者、和平缔造者和表演者的角色。
-* Tetsuya Yamagami, 45, is accused of assassinating Mr. Abe with a homemade gun during an election rally in 2022.
-* 45岁的山上哲也（ Tetsuya Yamagami ）被指控在2022年的选举集会期间用自制枪支暗杀安倍晋三。
-* China’s leader wants to weaken American support for Taiwan. But first he will want clarity about President Trump’s stance toward the island.
-* 中国领导人希望削弱美国对台湾的支持。但首先，他希望澄清特朗普总统对该岛的立场。
-* The Trump administration is hailing a potential deal that may return the U.S.-China relationship to where it was before the president began a trade war against Beijing.
-* 特朗普政府正在欢迎一项潜在的协议，该协议可能会使美中关系恢复到总统对北京发起贸易战之前的水平。
-* A preliminary tariff deal with President Trump called for a large investment in the United States, while China has warned Seoul not to side with Washington.
-* 与特朗普总统达成的初步关税协议要求在美国进行大量投资，而中国则警告首尔不要站在华盛顿一边。
-* China’s far-reaching rules already affect manufacturers of semiconductors, cars and many other products. They will soon become much broader.
-* 中国影响深远的规则已经影响到半导体、汽车和许多其他产品的制造商。它们很快就会变得更加广泛。
-* The Times examined weapons sales documents from a Russian arms supplier and interviewed dozens of officials from Vietnam, the United States and other countries in the region.
-* 《纽约时报》审查了一家俄罗斯武器供应商的武器销售文件，并采访了来自越南、美国和该地区其他国家的数十名官员。
-* U.S. allies worry that American volatility and Russian outreach and arms sales, in particular, are driving Vietnam into a new phase.
-* 美国的盟友担心，美国的动荡以及俄罗斯的外联和武器销售正在将越南推向一个新的阶段。
-* Several of the leaders President Trump will encounter are either autocrats or presiding over fragile democracies. And some admire his willingness to break the rules.
-* 特朗普总统将遇到的几位领导人要么是独裁者，要么是脆弱的民主国家的主席。有些人钦佩他打破规则的意愿。
+* The reporter’s passport has been held by the authorities since August. Rights advocates want British officials to raise the issue with Vietnam’s visiting leader.
+* 这名记者的护照自8月以来一直被当局扣押。人权倡导者希望英国官员向来访的越南领导人提出这个问题。
+* With the number of people killed by bears reaching a record nationwide, the defense ministry is preparing to send the military to one badly hit area to set traps.
+* 随着全国被熊杀害的人数达到创纪录水平，国防部正准备将军队派往一个受灾严重的地区设置陷阱。
+* China’s leader signaled in its next five-year plan that he is committed to competing in manufacturing and technology despite tensions with Washington.
+* 中国领导人在其下一个五年计划中表示，尽管与华盛顿关系紧张，但他仍致力于在制造业和技术领域展开竞争。
+* China’s leader draws on lessons from Lin Zexu, a Qing official whose defiance of Britain led to China’s humiliating defeat but made him a national hero.
+* 中国领导人吸取了清朝官员林则旭的教训，他对英国的蔑视导致了中国的耻辱性失败，但却使他成为民族英雄。
+* The country has yet to respond to President Trump’s overtures to meet again with Kim Jong-un, its leader.
+* 该国尚未回应特朗普总统再次会见其领导人金正恩的提议。
+* The authorities have been scrambling to accommodate this year’s Asia-Pacific Economic Cooperation forum in Gyeongju, which is known for tombs, temples and pagodas.
+* 当局一直在争先恐后地举办今年在庆州举行的亚太经济合作组织论坛，该论坛以陵墓、寺庙和宝塔而闻名。
+* In contrast to the Indian city’s scores of residential towers, its best buildings are lower to the ground — and a flamboyant reflection of its multiculturalism.
+* 与这座印度城市数十座住宅塔楼形成鲜明对比的是，其最好的建筑物位于地面以下，这也是其多元文化主义的华丽体现。
+* Toyota said it would sell some of its U.S.-made cars in Japan, one of a number of announcements by companies responding to U.S. pressure over trade imbalances.
+* 丰田表示，它将在日本出售部分美国制造的汽车，这是公司回应美国贸易不平衡压力的一系列公告之一。
+* Mark Carney is pitching Canada as a predictable and responsible alternative to the United States.
+* 马克·卡尼（ Mark Carney ）将加拿大视为美国的可预测和负责任的替代品。
+* Rice is a point of pride in Japan, and the choice was a break from the typical diplomatic practice of showcasing local ingredients.
+* 大米在日本是一个值得骄傲的地方，它的选择是摆脱了展示当地食材的典型外交惯例。
 
