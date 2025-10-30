@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The storm caused widespread damage in Jamaica to infrastructure and cut internet access for most people. Cuba evacuated about 750,000 people ahead of the storm.
-* 这场风暴对牙买加的基础设施造成了广泛破坏，并切断了大多数人的互联网接入。古巴在风暴来临前疏散了大约75万人。
-* Israel said the cease-fire had resumed after what appeared to be the deadliest day since the truce deal was agreed this month.
-* 以色列表示，在本月达成停火协议以来最致命的一天之后，停火已经恢复。
-* Geert Wilders and his far-right party blew up the Dutch governing coalition this year. Will that cost their party seats in Parliament?
-* 海尔特·怀尔德斯（ Geert Wilders ）和他的极右翼政党今年炸毁了荷兰执政联盟。这会花费他们在议会中的党派席位吗？
-* The small European nation of 18 million people is in the middle of its worst housing crunch in decades. But there is no quick political solution.
-* 这个拥有1800万人口的欧洲小国正处于几十年来最严重的住房危机之中。但没有快速的政治解决方案。
-* China’s leader draws on lessons from Lin Zexu, a Qing official whose defiance of Britain led to China’s humiliating defeat but made him a national hero.
-* 中国领导人吸取了清朝官员林则旭的教训，他对英国的蔑视导致了中国的耻辱性失败，但却使他成为民族英雄。
-* Eastern Europeans have migrated in droves to take care of Italy’s aged and infirm. Then they started getting sick, with an ailment dubbed ‘Italy syndrome.’
-* 东欧人成群结队地移民来照顾意大利的老年人和体弱多病的人。然后他们开始生病，患上了一种被称为“意大利综合症”的疾病。
-* China’s leader signaled in its next five-year plan that he is committed to competing in manufacturing and technology despite tensions with Washington.
-* 中国领导人在其下一个五年计划中表示，尽管与华盛顿关系紧张，但他仍致力于在制造业和技术领域展开竞争。
-* It is clear that the sprawling city of Teotihuacan near Mexico City was a major metropolis of the ancient world, but what do all those glyphs mean?
-* 很明显，墨西哥城附近的庞大城市特奥蒂瓦坎是古代世界的主要大都市，但所有这些字形是什么意思？
-* With the number of people killed by bears reaching a record nationwide, the defense ministry is preparing to send the military to one badly hit area to set traps.
-* 随着全国被熊杀害的人数达到创纪录水平，国防部正准备将军队派往一个受灾严重的地区设置陷阱。
-* The Sudanese military withdrew from a key city in Darfur, where fleeing civilians were reported to be coming under attack from R.S.F. paramilitary forces.
-* 苏丹军方从达尔富尔的一个主要城市撤出，据报道，逃离的平民正受到R.S.F.准军事部队的袭击。
+* More than 400,000 Syrians have been displaced in the year since the civil war ended, according to the United Nations, driven by a mix of sectarian violence, acts of revenge and property disputes.
+* 据联合国称，自内战结束以来，在宗派暴力、报复行为和财产纠纷的混合推动下，已有40多万叙利亚人流离失所。
+* During the war, a Ukrainian boy lost his home, his father and his friends. Could he find new buddies at a camp in the mountains?
+* 在战争期间，一名乌克兰男孩失去了家园、父亲和朋友。他能在山上的营地里找到新朋友吗？
+* More than a week after thieves made off with treasures from the Louvre, a picture is emerging of a seemingly well-planned burglary that exploited security lapses at the museum and outpaced the police.
+* 盗贼从卢浮宫偷走宝藏一周多后，一幅看似精心策划的入室盗窃的画面正在浮出水面，该入室盗窃利用了博物馆的安全漏洞，并超过了警方。
+* The socially progressive Democrats 66 were neck and neck with the far-right party of Geert Wilders, who faced a significant setback in an election he forced.
+* 社会进步的民主党人66与极右翼政党吉尔特·怀尔德斯（ Geert Wilders ）并驾齐驱，后者在被迫举行的选举中面临重大挫折。
+* President Trump and the Chinese leader Xi Jinping are being described as “irreplaceable” and “world class leaders” before a meeting seen as critical for shoring up a trade truce.
+* 在一次被视为对支持贸易休战至关重要的会议之前，特朗普总统和中国领导人习近平被描述为“不可替代的”和“世界级领导人”。
+* Thousands of foreign women have moved to the Mexican capital for a “life reset,” creating successful businesses and drawing more expats like them. Not all Mexicans are pleased.
+* 成千上万的外国女性已经搬到墨西哥首都进行“生活重置” ，创造了成功的企业，并吸引了更多像她们一样的外籍人士。并非所有墨西哥人都满意。
+* The authorities have detained seven suspects in total, but have not recovered the stolen jewels.
+* 当局共拘留了7名嫌疑人，但尚未追回被盗的珠宝。
+* After what appeared to be the deadliest day since a truce deal was agreed on this month, Israel said the cease-fire had resumed.
+* 在本月达成停火协议以来似乎最致命的一天之后，以色列表示已恢复停火。
+* Moscow’s forces infiltrated Pokrovsk after months of attacks on the city, a strategic part of Ukraine’s eastern defenses.
+* 莫斯科的部队在对波克罗夫斯克进行了数月的袭击后渗透到这座城市，波克罗夫斯克是乌克兰东部防御的战略组成部分。
+* The test comes days after President Vladimir V. Putin announced the previous trial of another Russian nuclear weapon.
+* 此前几天，俄罗斯总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）宣布先前对俄罗斯另一枚核武器进行试验
 
 ## New York Times United States News
-* State officials promise large-scale involuntary addiction and mental health treatment at Salt Lake City’s edge. Critics see “a prison, or a warehouse.”
-* 州政府官员承诺在盐湖城边缘进行大规模的非自愿成瘾和心理健康治疗。批评者称之为“监狱或仓库”。
-* A federal court says Republican legislators diluted Black voter strength. New maps may help Democrats break the G.O.P. supermajority in Jackson on Nov. 4.
-* 一家联邦法院称，共和党立法者淡化了黑人选民的力量。11月4日，新地图可能会帮助民主党打破共和党在杰克逊的绝对多数。
-* As political battles upend college campuses, we asked dozens of students what is on their minds as they plan for the future. Politics was only part of it.
-* 随着政治斗争颠覆了大学校园，我们向数十名学生询问了他们对未来的计划。政治只是其中的一部分。
-* Despite the Constitution’s two-term limit, Trump had mused for months about a third term.
-* 尽管宪法规定了两个任期的限制，但特朗普几个月来一直沉思第三个任期。
-* The court ruled that Bill Essayli had been acting “unlawfully” as U.S. attorney in Los Angeles but that he could stay on as the office’s top deputy for now.
-* 法院裁定，比尔·埃塞利（ Bill Essayli ）在洛杉矶担任美国律师的行为“非法” ，但他现在可以继续担任该办公室的首席副手。
-* Judges in the Ninth Circuit voted to have a larger panel reconsider a decision that could have allowed President Trump to use soldiers at the Portland, Ore., immigration building.
-* 第九巡回法院的法官投票决定让一个更大的小组重新考虑一项决定，该决定可能允许特朗普总统在俄勒冈州波特兰的移民大楼使用士兵。
-* The Commission of Fine Arts, an independent federal agency, was established by Congress to advise the president on urban planning and historical preservation.
-* 国会成立了独立的联邦机构美术委员会，就城市规划和历史保护向总统提供建议。
-* The departures of the head of the Agriculture Department’s Food and Nutrition Service and a senior policy adviser spurred worries on Capitol Hill as food aid benefits could halt.
-* 农业部食品和营养局局长和一名高级政策顾问的离职引发了国会山的担忧，因为粮食援助福利可能会停止。
-* Michele Beckwith was ousted by President Trump less than six hours after instructing a top immigration official to abide by the Constitution in his immigration raids.
-* 米歇尔·贝克维斯（ Michele Beckwith ）在指示一名高级移民官员在移民突袭中遵守宪法后不到六小时就被特朗普总统赶下台。
-* The funding was part of a bipartisan measure that Congress approved in response to school shootings, but the Trump administration argued that the grants violated civil rights law.
-* 这笔资金是国会为应对学校枪击事件而批准的两党措施的一部分，但特朗普政府辩称，这些拨款违反了民权法。
+* The two leaders reached an agreement on fentanyl, some tariffs and rare earths, at least for a year. But even as the global trade picture cleared a little, Mr. Trump spurred new worries about nuclear proliferation.
+* 两位领导人就芬太尼、一些关税和稀土达成了至少一年的协议。但即使全球贸易形势略有明朗，特朗普也引发了对核扩散的新担忧。
+* The inmates said the officers carried out a weekslong campaign of violence in 2020 at the state’s lone maximum security prison.
+* 囚犯们说， 2020年，这些警察在该州唯一的最高安全监狱进行了为期一周的暴力活动。
+* After a lifetime of scandal, the president expresses doubt that he will be admitted to paradise. But he appears increasingly intent on finding other paths to eternity.
+* 经过一生的丑闻，总统表示怀疑他是否会被允许进入天堂。但他似乎越来越热衷于寻找通往永恒的其他道路。
+* An off-year governor’s race will test the durability of the gains President Trump made in 2024, when the state’s majority-Hispanic townships all swung in his direction.
+* 非年度州长竞选将考验特朗普总统在2024年取得的成果的持久性，当时该州的多数西班牙裔乡镇都朝着他的方向摆动。
+* Beijing has been expanding its arsenal, and distrust between China and the United States over nuclear weapons has deepened, with little hope of an agreement.
+* 北京一直在扩大其核武库，中美之间对核武器的不信任加深，达成协议的希望渺茫。
+* Derek Lopez, 27, defended his posts as performance art and free speech, according to an affidavit. The F.B.I. said he continued to use threatening language despite a warning from agents.
+* 根据一份宣誓书， 27岁的德里克·洛佩兹(Derek Lopez)为自己的职位辩护，称其为表演艺术和言论自由。联邦调查局表示，尽管特工发出警告，他仍继续使用威胁性语言。
+* 
+* 
+* Zoe Rosenberg, a California animal rights activist, was found guilty of conspiracy and trespassing for taking four chickens from a poultry plant.
+* 加利福尼亚动物权利活动家佐伊·罗森伯格（ Zoe Rosenberg ）因从家禽工厂带走四只鸡而被判犯有阴谋和非法入侵罪。
+* Just minutes before he was scheduled to meet President Xi Jinping of China, the president threatened on social media to resume nuclear testing “on an equal basis” with other countries.
+* 就在他计划会见中国国家主席习近平的几分钟前，总统在社交媒体上威胁要与其他国家“平等地”恢复核试验。
+* Two professors at the University of Illinois Urbana-Champaign said they grew suspicious after receiving identical apologies from dozens of students they had accused of academic dishonesty.
+* 伊利诺伊大学香槟分校（ University of Illinois Urbana-Champaign ）的两名教授表示，在收到数十名学生的同样道歉后，他们开始怀疑自己的学术不诚实。
 
 ## New York Times Asia News
-* The reporter’s passport has been held by the authorities since August. Rights advocates want British officials to raise the issue with Vietnam’s visiting leader.
-* 这名记者的护照自8月以来一直被当局扣押。人权倡导者希望英国官员向来访的越南领导人提出这个问题。
-* With the number of people killed by bears reaching a record nationwide, the defense ministry is preparing to send the military to one badly hit area to set traps.
-* 随着全国被熊杀害的人数达到创纪录水平，国防部正准备将军队派往一个受灾严重的地区设置陷阱。
-* China’s leader signaled in its next five-year plan that he is committed to competing in manufacturing and technology despite tensions with Washington.
-* 中国领导人在其下一个五年计划中表示，尽管与华盛顿关系紧张，但他仍致力于在制造业和技术领域展开竞争。
-* China’s leader draws on lessons from Lin Zexu, a Qing official whose defiance of Britain led to China’s humiliating defeat but made him a national hero.
-* 中国领导人吸取了清朝官员林则旭的教训，他对英国的蔑视导致了中国的耻辱性失败，但却使他成为民族英雄。
-* The country has yet to respond to President Trump’s overtures to meet again with Kim Jong-un, its leader.
-* 该国尚未回应特朗普总统再次会见其领导人金正恩的提议。
-* The authorities have been scrambling to accommodate this year’s Asia-Pacific Economic Cooperation forum in Gyeongju, which is known for tombs, temples and pagodas.
-* 当局一直在争先恐后地举办今年在庆州举行的亚太经济合作组织论坛，该论坛以陵墓、寺庙和宝塔而闻名。
-* In contrast to the Indian city’s scores of residential towers, its best buildings are lower to the ground — and a flamboyant reflection of its multiculturalism.
-* 与这座印度城市数十座住宅塔楼形成鲜明对比的是，其最好的建筑物位于地面以下，这也是其多元文化主义的华丽体现。
-* Toyota said it would sell some of its U.S.-made cars in Japan, one of a number of announcements by companies responding to U.S. pressure over trade imbalances.
-* 丰田表示，它将在日本出售部分美国制造的汽车，这是公司回应美国贸易不平衡压力的一系列公告之一。
-* Mark Carney is pitching Canada as a predictable and responsible alternative to the United States.
-* 马克·卡尼（ Mark Carney ）将加拿大视为美国的可预测和负责任的替代品。
-* Rice is a point of pride in Japan, and the choice was a break from the typical diplomatic practice of showcasing local ingredients.
-* 大米在日本是一个值得骄傲的地方，它的选择是摆脱了展示当地食材的典型外交惯例。
+* The two leaders reached an agreement on fentanyl, some tariffs and rare earths, at least for a year. But even as the global trade picture cleared a little, Mr. Trump spurred new worries about nuclear proliferation.
+* 两位领导人就芬太尼、一些关税和稀土达成了至少一年的协议。但即使全球贸易形势略有明朗，特朗普也引发了对核扩散的新担忧。
+* By withholding soybean purchases and rare-earth exports, China extracted relief from U.S. tariffs and delayed export controls, without conceding much in return.
+* 通过扣留大豆采购和稀土出口，中国从美国关税和延迟出口管制中获得了减免，但没有做出太多回报。
+* China agreed to suspend for a year some of its limits on exports of rare earth metals, while the U.S. halved its fentanyl-related tariffs.
+* 中国同意暂停部分稀土金属出口限制一年，而美国将芬太尼相关关税减半。
+* The menus on the president’s tour of three countries in Asia reflected the culinary acrobatics the host nations performed to accommodate his palate and foreign policy goals.
+* 总统访问亚洲三个国家的菜单反映了东道国为适应他的口味和外交政策目标而进行的烹饪杂技表演。
+* President Trump and the Chinese leader Xi Jinping are being described as “irreplaceable” and “world class leaders” before a meeting seen as critical for shoring up a trade truce.
+* 在一次被视为对支持贸易休战至关重要的会议之前，特朗普总统和中国领导人习近平被描述为“不可替代的”和“世界级领导人”。
+* The president signaled he would discuss the sale of Nvidia’s Blackwell chips in a summit on Thursday, a move U.S. officials warned would be a “massive” national security mistake.
+* 总统表示，他将在周四的峰会上讨论出售英伟达的布莱克威尔芯片，美国官员警告说，此举将是一个“巨大的”国家安全错误。
+* President Trump met with Japan’s new prime minister, Sanae Takaichi, on Tuesday. Javier C. Hernández, The Times’s Tokyo bureau chief, looks at their chemistry, given the friendship Mr. Trump had with her mentor, the slain former Prime Minister Shinzo Abe.
+* 周二，特朗普总统会见了日本新首相高市早苗。《纽约时报》东京分社社长哈维尔· C ·埃尔南德斯(Javier C. Hernández)着眼于他们的化学反应，因为特朗普与她的导师、被杀害的前首相安倍晋三(Shinzo Abe)有着友
+* President Trump lamented not being able to speak with Mr. Kim, the North Korean leader, but vowed to end the decades of hostilities between the two Koreas.
+* 特朗普总统对无法与朝鲜领导人金正恩交谈感到遗憾，但发誓要结束两国数十年的敌对行动。
+* President Trump received a replica of a golden crown excavated from an ancient royal tomb in Gyeongju. He called it “very special.”
+* 特朗普总统收到了从庆州一座古老的皇家陵墓中挖掘出来的金色王冠的复制品。他称之为“非常特别”。
+* Until this month, Radio Free Asia had successfully resisted Trump officials who had tried to render it obsolete.
+* 直到本月，自由亚洲电台才成功抵制了试图使其过时的特朗普官员。
 
