@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* During the war, a Ukrainian boy lost his home, his father and his friends. Could he find new buddies at a camp in the mountains?
-* 在战争期间，一名乌克兰男孩失去了家园、父亲和朋友。他能在山上的营地里找到新朋友吗？
-* The two leaders reached an agreement on fentanyl, some tariffs and rare earths, at least for a year. But even as the global trade picture cleared a little, Mr. Trump spurred new worries about nuclear proliferation.
-* 两位领导人就芬太尼、一些关税和稀土达成了至少一年的协议。但即使全球贸易形势略有明朗，特朗普也引发了对核扩散的新担忧。
-* The aurora borealis draws thousands of visitors to the Far North each year. A new play tells the lights’ tales from the perspective of Indigenous creators.
-* 北极光每年都会吸引成千上万的游客来到远北地区。一部新剧从原住民创作者的角度讲述了灯光的故事。
-* More than a week after thieves made off with treasures from the Louvre, a picture is emerging of a seemingly well-planned burglary that exploited security lapses at the museum and outpaced the police.
-* 盗贼从卢浮宫偷走宝藏一周多后，一幅看似精心策划的入室盗窃的画面正在浮出水面，该入室盗窃利用了博物馆的安全漏洞，并超过了警方。
-* More than 400,000 Syrians have been displaced in the year since the civil war ended, according to the United Nations, driven by a mix of sectarian violence, acts of revenge and property disputes.
-* 据联合国称，自内战结束以来，在宗派暴力、报复行为和财产纠纷的混合推动下，已有40多万叙利亚人流离失所。
-* The extraordinary move caps his fall from grace over his ties to the convicted sexual predator Jeffrey Epstein.
-* 这一非凡的举动使他因与被定罪的性掠夺者杰弗里·爱泼斯坦（ Jeffrey Epstein ）的关系而失望。
-* By withholding soybean purchases and rare-earth exports, China extracted relief from U.S. tariffs and delayed export controls, without conceding much in return.
-* 通过扣留大豆采购和稀土出口，中国从美国关税和延迟出口管制中获得了减免，但没有做出太多回报。
-* Hundreds of thousands took to the streets of Jerusalem on Thursday to protest against efforts to end an exemption from military service for Israel’s Haredi religious students.
-* 周四，数十万人走上耶路撒冷街头，抗议结束以色列哈雷迪宗教学生兵役豁免的努力。
-* The progressive Democrats 66 gained seats and tied with the far-right party of Geert Wilders, which fell back sharply from a strong performance two years ago.
-* 进步的民主党人66获得了席位，并与极右翼政党吉尔特·威尔德斯（ Geert Wilders ）并驾齐驱，后者从两年前的强劲表现中大幅回落。
-* Officials experimented with cloud seeding to try and reduce environmental pollutants as residents choke on filthy air.
-* 由于居民被肮脏的空气窒息，官员们尝试了云层播种，试图减少环境污染物。
+* The Canadian prime minister also said that he had asked the province of Ontario not to air the ad that later prompted the president to end trade talks.
+* 加拿大总理还表示，他已要求安大略省不要播出后来促使总统结束贸易谈判的广告。
+* Zohran Mamdani, the leading contender in the Nov. 4 New York election, and Sadiq Khan, London’s mayor, are liberal and Muslim, but they’re navigating varied politics, communities and cities.
+* 11月4日纽约大选的主要竞争者Zohran Mamdani和伦敦市长Sadiq Khan是自由派和穆斯林，但他们正在驾驭不同的政治、社区和城市。
+* Two journalists, both in detention for their work, show how President Aleksandr Lukashenko’s repressive machine grinds on despite warming ties with the U.S.
+* 两名记者都因工作被拘留，他们展示了亚历山大·卢卡申科（ Aleksandr Lukashenko ）总统的镇压机器如何继续工作，尽管与美国的关系正在变暖
+* Election monitors and members of the European Parliament have questioned the election’s integrity, and violent protests have rocked the country.
+* 选举监督员和欧洲议会议员质疑选举的完整性，暴力抗议活动震惊了整个国家。
+* Touting new weapons tests, Moscow signals to Washington that it must contend with the Kremlin’s power and negotiate.
+* 莫斯科吹捧新的武器试验，向华盛顿发出信号，表示它必须与克里姆林宫的权力抗衡并进行谈判。
+* The crown prince of Saudi Arabia is pushing for a security pact and a nuclear deal with the United States yet is not expected to recognize Israel soon, despite President Trump’s wishes.
+* 沙特阿拉伯王储正在推动与美国达成安全协议和核协议，但预计不会很快承认以色列，尽管特朗普总统希望如此。
+* We met five remarkable people who’ve lived for more than a century and have yet to retire. For them, a working life is a richer one.
+* 我们遇到了五位杰出的人，他们已经生活了一个多世纪，但尚未退休。对他们来说，工作生活更丰富。
+* At an Asia-Pacific summit, the Chinese leader urged countries to “resist unilateral bullying,” an appeal that seemed at odds with his country’s recent actions.
+* 在亚太峰会上，这位中国领导人敦促各国“抵制单方面欺凌” ，这一呼吁似乎与中国最近的行动不符。
+* The decision by King Charles III to strip the title of his brother Prince Andrew showed a level of accountability rarely applied to royals.
+* 查理三世国王决定剥夺其兄弟安德鲁王子的头衔，这表明王室成员很少承担一定程度的责任。
+* The Category 5 storm ravaged western Jamaica and drenched the small community of New River, where residents were coping with a massive clean up. At least 19 people have died nationwide, officials said.
+* 5级风暴肆虐牙买加西部，并淹没了新河的小社区，那里的居民正在应对大规模的清理工作。官员说，全国至少有19人死亡。
 
 ## New York Times United States News
-* President Trump traveled to Asia to be a statesman, a showman and a traveling salesman, depending on the audience.
-* 特朗普总统前往亚洲，成为一名政治家、表演家和旅行推销员，具体取决于观众。
-* The Texas attorney general has escalated the pace of high-profile legal actions, raising concern that his Senate campaign is influencing his law enforcement work.
-* 德克萨斯州总检察长加快了备受瞩目的法律诉讼的步伐，引发了人们的担忧，即他的参议院竞选活动正在影响他的执法工作。
-* Outnumbered and facing vast stakes, Justices Kagan and Jackson are split over the best approach: investing in diplomacy inside the court or sounding the alarm outside.
-* 卡根大法官和杰克逊大法官人数众多，面临着巨大的风险，他们对最佳方法存在分歧：在法庭内部投资外交或在外部敲响警钟。
-* The president said it was time for G.O.P. leaders to get rid of the longstanding rule that means most Senate legislation needs 60 votes to pass.
-* 总统表示，现在是共和党领导人摆脱长期规则的时候了，这意味着大多数参议院立法需要60票才能通过。
-* The F.A.A. warned that a lack of certified air traffic controllers in Orlando could cause delays throughout the East Coast.
-* 美国联邦航空局警告说，奥兰多缺乏经过认证的空中交通管制员可能会导致整个东海岸的延误。
-* The Museum of Fine Arts, Boston, said David Drake, the artist, had been “deprived of his creations involuntarily and without compensation.”
-* 波士顿美术博物馆说，这位艺术家大卫·德雷克（ David Drake ） “被非自愿地剥夺了他的作品，没有任何补偿”。
-* The map, which is expected to be approved on Friday morning by the state’s redistricting commission, improves Republicans’ odds of picking up two more seats.
-* 该地图预计将于周五上午获得该州重新划分委员会的批准，提高了共和党获得另外两个席位的可能性。
-* President Trump, who did not wear a costume, and the first lady handed out candy at the annual Halloween celebration at the White House.
-* 特朗普总统没有穿服装，第一夫人在白宫举行的年度万圣节庆祝活动上分发了糖果。
-* Frank Bisignano, who holds top jobs at the Social Security Administration and the I.R.S., sold his stake in Fiserv before the company’s stock cratered this week.
-* 在社会保障管理局和美国国税局担任高级职位的弗兰克·比西尼亚诺（ Frank Bisignano ）出售了他在Fiserv的股份，然后该公司的股票在本周爆发。
-* Defense Secretary Pete Hegseth moved into a home at Fort McNair traditionally reserved for the Army’s vice chief of staff. Secretary of State Marco Rubio and others also now live in military housing.
-* 国防部长皮特·黑格塞斯（ Pete Hegseth ）搬进了麦克奈尔堡（ Fort McNair ）的一所住宅，该住宅传统上是为陆军副国务卿马可·卢比奥和其他人现在也住在军房里。
+* Many corporate interests that have donated to the president’s pet project have business before his administration.
+* 许多捐赠给总统宠物项目的企业利益集团在他执政之前都有业务。
+* In a wide-ranging interview, Stephen I. Miran discussed why he thinks concerns about inflation are overblown and his worries about the economy if the Federal Reserve does not rapidly lower interest rates. Here is a full transcript.
+* 在一次广泛的采访中， Stephen I. Miran讨论了为什么他认为对通货膨胀的担忧被夸大了，以及如果美联储不迅速降低利率，他对经济的担忧。以下是完整的成绩单。
+* A 2013 attempt to leverage minority power in a health care fight blew up on Republicans. Can today be different for Democrats?
+* 2013年试图在医疗保健斗争中利用少数民族权力的尝试在共和党人身上爆炸了。今天的民主党人会有什么不同吗？
+* In a city of often-zany elections, this year’s mayoral race is especially rich in personal stories and longstanding feuds.
+* 在一个经常举行大选的城市，今年的市长竞选特别富有个人故事和长期的仇恨。
+* Federal officials say overhauling the process is necessary to ensure that only fully qualified immigrants become citizens.
+* 联邦官员表示，有必要彻底改革这一流程，以确保只有完全合格的移民才能成为公民。
+* New regulations were supposed to ensure that homeowners in fire zones would have coverage available. But companies can still avoid serving many high-risk areas, a Times investigation found.
+* 新法规旨在确保防火区的房主能够获得保险。但《纽约时报》的一项调查发现，公司仍然可以避免为许多高风险地区提供服务。
+* The ruling on Friday found that Trump had usurped the power vested in Congress and the states to administer and oversee elections protocols.
+* 周五的裁决发现，特朗普篡夺了国会和各州管理和监督选举议定书的权力。
+* President Trump said that he would heed court rulings ordering his administration to fund food stamps during the government shutdown, but there are complications.
+* 特朗普总统表示，他将听取法院裁决，命令他的政府在政府关闭期间为食品券提供资金，但存在并发症。
+* The move broke from generations of precedent and added to the Trump administration’s growing list of restraints on the news media.
+* 此举打破了几代人的先例，并增加了特朗普政府对新闻媒体越来越多的限制。
+* Judges on Friday ordered the federal government to continue providing food assistance during the shutdown. But benefits will still most likely be interrupted.
+* 法官周五下令联邦政府在政府关门期间继续提供粮食援助。但好处仍然很可能会中断。
 
 ## New York Times Asia News
+* We met five remarkable people who’ve lived for more than a century and have yet to retire. For them, a working life is a richer one.
+* 我们遇到了五位杰出的人，他们已经生活了一个多世纪，但尚未退休。对他们来说，工作生活更丰富。
+* Amid skyrocketing demand for artificial intelligence systems, the chip-making giant has been thrust into the economic feud between Beijing and Washington.
+* 在人工智能系统需求飙升的情况下，这家芯片制造巨头已被推入北京和华盛顿之间的经济纠纷。
 * At an Asia-Pacific summit, the Chinese leader urged countries to “resist unilateral bullying,” an appeal that seemed at odds with his country’s recent actions.
 * 在亚太峰会上，这位中国领导人敦促各国“抵制单方面欺凌” ，这一呼吁似乎与中国最近的行动不符。
 * A soccer governing body that both countries have helped bankroll gave them extra rest and home-field advantage to set up World Cup qualification.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 特朗普总统解释说，其他未透露姓名的国家正在测试自己的核武器，尽管自2017年以来没有任何国家进行过测试。
 * President Trump said China would end its boycott and resume buying millions of tons of American soybeans.
 * 特朗普总统表示，中国将结束抵制，恢复购买数百万吨美国大豆。
-* Officials experimented with cloud seeding to try and reduce environmental pollutants as residents choke on filthy air.
-* 由于居民被肮脏的空气窒息，官员们尝试了云层播种，试图减少环境污染物。
-* China has suspended export controls announced this month, but was conspicuously silent about rules imposed earlier, which are snarling global supply chains.
-* 中国已暂停本月宣布的出口管制，但对早些时候实施的规则保持沉默，这些规则正在困扰全球供应链。
 
