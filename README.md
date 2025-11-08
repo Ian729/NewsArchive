@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The Kremlin is focusing its fire on Pokrovsk, a gateway to the Donetsk region, which Russia’s president, Vladimir V. Putin, has long coveted.
-* 俄罗斯总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）长期以来一直梦寐以求的通往顿涅茨克地区的门户波克罗夫斯克（ Pokrovsk ）是克里姆林宫的焦点。
-* As the death toll for Typhoon Kalmaegi rose into the triple digits, the country braced for another storm expected this weekend.
-* 随着台风卡尔梅吉的死亡人数上升到三位数，该国为本周末预计的另一场风暴做好了准备。
-* One province with an outsize number of cases has seen a collision of politics and public health policy.
-* 在一个病例数量超标的省份，政治和公共卫生政策发生了冲突。
-* At least some of the fighters are believed to be in the enclave’s vast tunnel network, marooned behind the “yellow line” that Israeli forces withdrew to as part of the cease-fire.
-* 据信，至少有一些战斗人员被困在飞地庞大的隧道网络中，被困在以色列军队作为停火的一部分撤离的“黄线”后面。
-* Cases of domestic violence in China point to a legal system that looks good on paper but is failing victims because of a lack of resources and political will.
-* 中国的家庭暴力案件表明，法律制度在纸面上看起来不错，但由于缺乏资源和政治意愿，受害者正在失败。
-* The R.S.F. paramilitary group, facing growing condemnation for atrocities in Darfur, said it had agreed to a cease-fire proposal, but it is not yet clear what the military will do.
-* R.S.F.准军事组织面临着对达尔富尔暴行的越来越多的谴责，该组织表示已同意停火提案，但目前尚不清楚军方将采取什么行动。
-* President Trump’s policy has shut the door on all but a tiny fraction of people across the world seeking refuge in the United States from conflict, persecution or both.
-* 特朗普总统的政策已经关闭了除一小部分人之外的所有人在美国寻求庇护以避免冲突、迫害或两者兼而有之的大门。
-* A frontline visit to bring attention to Russian drone attacks on civilians sheds an inadvertent light on the Ukrainian Army’s troop shortages.
-* 为了引起人们对俄罗斯无人机袭击平民的关注，进行了一次前线访问，这无意中揭示了乌克兰军队的短缺情况。
-* Restrictions on publishers and sellers have grown more severe. Volumes are being pulled from shelves or redacted like secret documents, but bookstores remain important sources of community.
-* 对发布商和卖家的限制变得更加严格。大量书籍正在从货架上撤下或像秘密文件一样编辑，但书店仍然是社区的重要来源。
-* The namesake of Mazar-i-Sharif suffered countless cracks in a 6.3-magnitude quake, but, like Afghanistan, it has endured for centuries.
-* 与马扎里沙里夫同名的马扎里沙里夫在6.3级地震中遭受了无数裂缝，但与阿富汗一样，它已经持续了几个世纪。
+* The Times interviewed dozens of migrant men sent to a prison in El Salvador by the Trump administration. Independent forensic analysts called the testimony credible and consistent and said the treatment met the U.N.’s definition of torture.
+* 《纽约时报》采访了特朗普政府送往萨尔瓦多监狱的数十名移民男子。独立法医分析师称证词可信且前后一致，并表示这种待遇符合联合国对酷刑的定义。
+* Few countries are excited about globalization anymore, but Vietnam is still into it — wholeheartedly. Do the reasons go beyond economic growth?
+* 很少有国家对全球化感到兴奋，但越南仍然全心全意地参与其中。原因是否超出了经济增长的范围？
+* Pounding rain and winds of over 150 miles per hour left a trail of devastation in the state of Paraná.
+* 猛烈的雨水和每小时150多英里的风在巴拉那州留下了毁灭性的痕迹。
+* Longevity labs, “immortality islands” and grapeseed pills are part of China’s national project to conquer aging, despite sometimes shaky science and extravagant claims.
+* 长寿实验室、“不朽之岛”和葡萄籽药丸是中国征服衰老的国家项目的一部分，尽管有时科学不稳定，声称过于奢侈。
+* Saad Aljabri, feuding with the de facto Saudi ruler, wants former U.S. officials to help him fend off Saudi corruption claims.
+* 与沙特事实上的统治者发生争执的萨阿德·贾布里（ Saad Aljabri ）希望前美国官员帮助他抵御沙特的腐败指控。
+* Despite a chummy relationship, new U.S. penalties on Russian energy were likely to be a sticking point as President Trump and Prime Minister Viktor Orban of Hungary met.
+* 尽管关系友好，但随着特朗普总统和匈牙利总理维克多·奥尔班（ Viktor Orban ）的会晤，美国对俄罗斯能源的新惩罚可能是一个症结所在。
+* Facing an influx of amphetamines, the kingdom has put hundreds of people to death, many of them foreigners convicted of low-level smuggling.
+* 面对安非他明的涌入，沙特已经处决了数百人，其中许多是被判犯有低级别走私罪的外国人。
+* The alternative, Ambassador Michael Waltz bluntly told diplomats, was to watch the cease-fire between Israel and Hamas give way to a return to war.
+* 迈克尔·华尔兹（ Michael Waltz ）大使直言不讳地告诉外交官，另一种选择是眼睁睁看着以色列和哈马斯之间的停火让位于重新开战。
+* The death toll for Typhoon Kalmaegi rose into the triple digits, and the country is bracing for another cyclone expected this weekend.
+* 台风卡尔梅吉的死亡人数上升到三位数，该国正在为本周末预计的另一场飓风做准备。
+* Many East Germans are more sympathetic toward Moscow than their western compatriots, reflecting decades of Soviet ties and disillusionment since reunification.
+* 许多东德人比西德同胞更同情莫斯科，这反映了苏联统一以来数十年的关系和幻灭。
 
 ## New York Times United States News
-* 
-* 
-* For the 42 million people who rely on the country’s largest anti-hunger program, it has been a chaotic, nerve-racking week. Here are some of their stories.
-* 对于依赖该国最大反饥饿计划的4200万人来说，这是一个混乱、紧张的一周。以下是他们的一些故事。
-* Two city councilors won re-election on Tuesday, though their support for a pride flag at City Hall had sparked challenges from the right. Still, Idaho’s deep embrace of President Trump has the city worried.
-* 两名市议员周二赢得了连任，尽管他们对市政厅自豪旗帜的支持引发了右翼的挑战。尽管如此，爱达荷州对特朗普总统的深深拥抱让这座城市感到担忧。
-* David A. Fahrenthold, an investigative reporter, describes the struggles of the Sierra Club, one of the largest environmental groups in the U.S. The group has lost about 60 percent of its supporters since 2020.
-* 调查记者David A. Fahrenthold描述了塞拉俱乐部的挣扎，塞拉俱乐部是美国最大的环保组织之一，自2020年以来，该组织已失去了约60%的支持者。
-* Even those opposed to President Trump were encouraged by his announcement of a discount on I.V.F. drugs, a policy that followed months of complex negotiations.
-* 即使是那些反对特朗普总统的人也对他宣布的IVF药物折扣感到鼓舞，这是一项经过数月复杂谈判的政策。
-* The environmental group gave up its singular focus on climate change for a broader agenda. The ensuing internal strife left it weakened as it takes on the Trump administration.
-* 为了更广泛的议程，环保组织放弃了对气候变化的单一关注。随之而来的内部冲突使它在面对特朗普政府时被削弱。
-* Experts say the new policy, which ditches software that automatically captured text messages, opens ample room for both willful and unwitting noncompliance with federal records laws.
-* 专家表示，新政策抛弃了自动捕获短信的软件，为故意和无意中不遵守联邦记录法的行为开辟了充足的空间。
-* Representative Nancy Pelosi, after announcing her retirement, was praised by many San Franciscans for her tireless efforts on behalf of the city. Some of her work went unheralded.
-* 众议员南希·佩洛西（ Nancy Pelosi ）在宣布退休后，因其为该市所做的不懈努力而受到许多旧金山人的赞扬。她的一些工作毫无进展。
-* The move comes as the venerable conservative think tank is roiled by turmoil caused by its leader’s defense of a Tucker Carlson interview with a white nationalist.
-* 此举之际，这家受人尊敬的保守派智库因其领导人为塔克·卡尔森（ Tucker Carlson ）对白人民族主义者的采访辩护而引发的动荡而动荡不安。
-* There has been a shift in campus culture. We want to hear from faculty members across the United States.
-* 校园文化发生了转变。我们希望听取美国各地教职员工的意见。
+* The Federal Aviation Administration has required airlines to cut flights to reduce the strain on air traffic controllers, who have gone weeks without a paycheck.
+* 美国联邦航空管理局(Federal Aviation Administration)已要求航空公司削减航班，以减轻空中交通管制员的压力，他们已经数周没有薪水了。
+* We examined falsehoods about SNAP eligibility and costs and the number of unauthorized immigrants receiving benefits.
+* 我们检查了有关SNAP资格和费用的虚假信息，以及未经授权的移民获得福利的数量。
+* Tanya Marie Frazier, 14, never returned from summer school in 1994, and was found dead in a wooded area five days later. The police say a new DNA analysis links a felon to her death.
+* 14岁的Tanya Marie Frazier于1994年从暑期学校再也没有回来，五天后被发现死在树林里。警方称，一项新的DNA分析将一名重罪犯与她的死亡联系起来。
+* Boeing, the plane’s manufacturer, said it had recommended the grounding as a precaution while it conducts further analysis.
+* 这架飞机的制造商波音公司表示，在进行进一步分析时，它建议将停飞作为预防措施。
+* The former president, now a far less popular figure in his party, appeared in Nebraska for an overtly political speech that slammed his successor.
+* 这位前总统现在在他的政党中不那么受欢迎，他出现在内布拉斯加州，发表了一场公开的政治演讲，抨击他的继任者。
+* About 3 percent of Friday’s flights were canceled because of the government shutdown. The percentage could rise to 20 percent as the holidays approach.
+* 由于政府关门，周五约有3%的航班被取消。随着假期的临近，这一比例可能会上升到20%。
+* As Ms. Pelosi announced her retirement, she was celebrated for her long tenure in Washington. But back home, she was remembered for showing up at a terrifying moment when others turned away.
+* 在佩洛西女士宣布退休之际，她在华盛顿的长期任职备受赞誉。但回到家里，她因为在其他人转身离开的可怕时刻出现而被记住。
+* With her temporary block expiring, Judge Karin Immergut said the Trump administration had failed to prove that protesters were hampering President Trump’s policies.
+* 卡琳·因默古特（ Karin Immergut ）法官表示，随着她的临时禁令到期，特朗普政府未能证明抗议者正在阻碍特朗普总统的政策。
+* The email accounts of furloughed government workers had been commandeered to send partisan attacks against Democrats, a move that the ruling said had “added insult to injury.”
+* 休假的政府工作人员的电子邮件帐户已被征用，以对民主党人进行党派攻击，该裁决称此举“增加了伤害”。
+* A fight brewing in Massachusetts could preview Democrats’ age battles.
+* 马萨诸塞州正在酝酿的战斗可能会预示民主党的年龄之战。
 
 ## New York Times Asia News
+* Longevity labs, “immortality islands” and grapeseed pills are part of China’s national project to conquer aging, despite sometimes shaky science and extravagant claims.
+* 长寿实验室、“不朽之岛”和葡萄籽药丸是中国征服衰老的国家项目的一部分，尽管有时科学不稳定，声称过于奢侈。
+* Few countries are excited about globalization anymore, but Vietnam is still into it — wholeheartedly. Do the reasons go beyond economic growth?
+* 很少有国家对全球化感到兴奋，但越南仍然全心全意地参与其中。原因是否超出了经济增长的范围？
+* President Trump has made it easier for countries that are close to Russia and China to build ties with the United States. Those countries are embracing the opportunity.
+* 特朗普总统让与俄罗斯和中国关系密切的国家更容易与美国建立关系。这些国家正在抓住机遇。
+* The Chinese government followed through on promises it made publicly after a recent summit, but has not yet taken other actions sought by the White House.
+* 中国政府履行了在最近一次峰会后公开做出的承诺，但尚未采取白宫寻求的其他行动。
+* Toyota, Honda and Nissan forecast big hits to their profits from higher tariffs that they acknowledged were likely “here to stay.”
+* 丰田(Toyota)、本田(Honda)和日产(Nissan)预计，他们承认可能会“留在这里”的更高关税将对其利润产生重大影响。
 * Exports of cars, solar panels and batteries remain strong, but prices are falling because of factory overcapacity in China.
 * 汽车、太阳能电池板和电池的出口仍然强劲，但由于中国工厂产能过剩，价格正在下降。
 * The Fujian, China’s most advanced carrier, went into official service this week. It brings the country closer to challenging U.S. naval dominance.
@@ -54,16 +64,6 @@ Auto RSS New York Times and Translate
 * 本周，当选美导演指责墨西哥小姐没有参加促销活动时，几名参赛者退出了环球小姐活动。
 * The structure was being demolished when it collapsed. One person was killed, two were rescued, and several more were believed to still be buried.
 * 建筑物倒塌时正在被拆除。一人死亡，两人获救，另有几人据信仍被埋葬。
-* As the death toll for Typhoon Kalmaegi rose into the triple digits, the country braced for another storm expected this weekend.
-* 随着台风卡尔梅吉的死亡人数上升到三位数，该国为本周末预计的另一场风暴做好了准备。
-* President Trump’s policy has shut the door on all but a tiny fraction of people across the world seeking refuge in the United States from conflict, persecution or both.
-* 特朗普总统的政策已经关闭了除一小部分人之外的所有人在美国寻求庇护以避免冲突、迫害或两者兼而有之的大门。
-* Cases of domestic violence in China point to a legal system that looks good on paper but is failing victims because of a lack of resources and political will.
-* 中国的家庭暴力案件表明，法律制度在纸面上看起来不错，但由于缺乏资源和政治意愿，受害者正在失败。
-* Daniel Owen, 47, and his son, Cooper, 15, died after being stung dozens of times last month by what appeared to be so-called murder hornets.
-* 47岁的丹尼尔·欧文（ Daniel Owen ）和他15岁的儿子库珀（ Cooper ）上个月被所谓的谋杀大黄蜂蜇了几十次后死亡。
-* “Dhoom Machale,” a popular Hindi film song played at the end of Zohran Mamdani’s first speech as New York City’s mayor-elect, nodded to his Indian roots.
-* “Dhoom Machale”是一首流行的印地语电影歌曲，在Zohran Mamdani作为纽约市当选市长的第一次演讲结束时播放，向他的印度血统点了点头。
-* A Japanese astronomer captured a pair of objects slamming into the lunar surface in recent days.
-* 最近几天，一名日本天文学家拍摄到一对撞击月球表面的物体。
+* The death toll for Typhoon Kalmaegi rose into the triple digits, and the country is bracing for another cyclone expected this weekend.
+* 台风卡尔梅吉的死亡人数上升到三位数，该国正在为本周末预计的另一场飓风做准备。
 
