@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* A decades-old killing in a tiny village in a northern mountain town has turned the village into a destination for true-crime enthusiasts, creating a headache for remaining residents.
+* 北部山区城镇一个小村庄发生了几十年的屠杀事件，将该村庄变成了真正的犯罪爱好者的目的地，给剩余的居民带来了头痛。
+* With no negotiations, no oversight and no clarity about Iran’s stock of nuclear material, many in the region fear another war with Israel is inevitable.
+* 由于没有谈判，没有监督，也没有明确伊朗的核材料库存，该地区的许多人担心与以色列爆发另一场战争是不可避免的。
+* Boycotts of Israeli universities, largely imposed in Europe, have multiplied since the start of the war and reflect Israel’s international isolation over its conduct in Gaza.
+* 对以色列大学的抵制，主要是在欧洲实施的，自战争开始以来成倍增加，反映了以色列对其在加沙的行为的国际孤立。
+* A tsunami was expected to come ashore with a maximum height of about three feet after a 6.7-magnitude quake struck off Japan’s coast early Sunday evening.
+* 在周日傍晚日本海岸发生6.7级地震后，预计海啸将上岸，最大高度约为3英尺。
+* Jean-Philippe Pleau’s book and play about moving up socially became a cultural reckoning in Quebec, but created a gulf with his family.
+* 让-菲利普·普洛（ Jean-Philippe Pleau ）的书籍和关于社会进步的戏剧成为魁北克的文化清算，但与他的家人产生了鸿沟。
+* Argentina has emerged as a surprisingly prominent destination for L.G.B.T.Q. Russians escaping President Vladimir V. Putin’s escalating anti-gay repression.
+* 阿根廷已成为L.G.B.T.Q.俄罗斯人逃离总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）不断升级的反同性恋镇压的令人惊讶的重要目的地。
+* Typhoon Fung-wong is heading for the main island of Luzon, causing tens of thousands to be evacuated after another storm killed more than 200 last week.
+* 台风Fung-wong正在前往主岛吕宋岛，上周另一场风暴造成200多人死亡，导致数万人撤离。
+* The attack by Russian missiles and drones targeted the capital, Kyiv, and the large cities of Dnipro and Kharkiv, as well as several smaller municipalities.
+* 俄罗斯导弹和无人机袭击了首都基辅、第聂伯罗和哈尔科夫等大城市以及几个较小的城市。
 * The Times interviewed dozens of migrant men sent to a prison in El Salvador by the Trump administration. Independent forensic analysts called the testimony credible and consistent and said the treatment met the U.N.’s definition of torture.
 * 《纽约时报》采访了特朗普政府送往萨尔瓦多监狱的数十名移民男子。独立法医分析师称证词可信且前后一致，并表示这种待遇符合联合国对酷刑的定义。
 * Few countries are excited about globalization anymore, but Vietnam is still into it — wholeheartedly. Do the reasons go beyond economic growth?
 * 很少有国家对全球化感到兴奋，但越南仍然全心全意地参与其中。原因是否超出了经济增长的范围？
-* Pounding rain and winds of over 150 miles per hour left a trail of devastation in the state of Paraná.
-* 猛烈的雨水和每小时150多英里的风在巴拉那州留下了毁灭性的痕迹。
-* Longevity labs, “immortality islands” and grapeseed pills are part of China’s national project to conquer aging, despite sometimes shaky science and extravagant claims.
-* 长寿实验室、“不朽之岛”和葡萄籽药丸是中国征服衰老的国家项目的一部分，尽管有时科学不稳定，声称过于奢侈。
-* Saad Aljabri, feuding with the de facto Saudi ruler, wants former U.S. officials to help him fend off Saudi corruption claims.
-* 与沙特事实上的统治者发生争执的萨阿德·贾布里（ Saad Aljabri ）希望前美国官员帮助他抵御沙特的腐败指控。
-* Despite a chummy relationship, new U.S. penalties on Russian energy were likely to be a sticking point as President Trump and Prime Minister Viktor Orban of Hungary met.
-* 尽管关系友好，但随着特朗普总统和匈牙利总理维克多·奥尔班（ Viktor Orban ）的会晤，美国对俄罗斯能源的新惩罚可能是一个症结所在。
-* Facing an influx of amphetamines, the kingdom has put hundreds of people to death, many of them foreigners convicted of low-level smuggling.
-* 面对安非他明的涌入，沙特已经处决了数百人，其中许多是被判犯有低级别走私罪的外国人。
-* The alternative, Ambassador Michael Waltz bluntly told diplomats, was to watch the cease-fire between Israel and Hamas give way to a return to war.
-* 迈克尔·华尔兹（ Michael Waltz ）大使直言不讳地告诉外交官，另一种选择是眼睁睁看着以色列和哈马斯之间的停火让位于重新开战。
-* The death toll for Typhoon Kalmaegi rose into the triple digits, and the country is bracing for another cyclone expected this weekend.
-* 台风卡尔梅吉的死亡人数上升到三位数，该国正在为本周末预计的另一场飓风做准备。
-* Many East Germans are more sympathetic toward Moscow than their western compatriots, reflecting decades of Soviet ties and disillusionment since reunification.
-* 许多东德人比西德同胞更同情莫斯科，这反映了苏联统一以来数十年的关系和幻灭。
 
 ## New York Times United States News
-* The Federal Aviation Administration has required airlines to cut flights to reduce the strain on air traffic controllers, who have gone weeks without a paycheck.
-* 美国联邦航空管理局(Federal Aviation Administration)已要求航空公司削减航班，以减轻空中交通管制员的压力，他们已经数周没有薪水了。
-* We examined falsehoods about SNAP eligibility and costs and the number of unauthorized immigrants receiving benefits.
-* 我们检查了有关SNAP资格和费用的虚假信息，以及未经授权的移民获得福利的数量。
-* Tanya Marie Frazier, 14, never returned from summer school in 1994, and was found dead in a wooded area five days later. The police say a new DNA analysis links a felon to her death.
-* 14岁的Tanya Marie Frazier于1994年从暑期学校再也没有回来，五天后被发现死在树林里。警方称，一项新的DNA分析将一名重罪犯与她的死亡联系起来。
-* Boeing, the plane’s manufacturer, said it had recommended the grounding as a precaution while it conducts further analysis.
-* 这架飞机的制造商波音公司表示，在进行进一步分析时，它建议将停飞作为预防措施。
-* The former president, now a far less popular figure in his party, appeared in Nebraska for an overtly political speech that slammed his successor.
-* 这位前总统现在在他的政党中不那么受欢迎，他出现在内布拉斯加州，发表了一场公开的政治演讲，抨击他的继任者。
-* About 3 percent of Friday’s flights were canceled because of the government shutdown. The percentage could rise to 20 percent as the holidays approach.
-* 由于政府关门，周五约有3%的航班被取消。随着假期的临近，这一比例可能会上升到20%。
-* As Ms. Pelosi announced her retirement, she was celebrated for her long tenure in Washington. But back home, she was remembered for showing up at a terrifying moment when others turned away.
-* 在佩洛西女士宣布退休之际，她在华盛顿的长期任职备受赞誉。但回到家里，她因为在其他人转身离开的可怕时刻出现而被记住。
-* With her temporary block expiring, Judge Karin Immergut said the Trump administration had failed to prove that protesters were hampering President Trump’s policies.
-* 卡琳·因默古特（ Karin Immergut ）法官表示，随着她的临时禁令到期，特朗普政府未能证明抗议者正在阻碍特朗普总统的政策。
-* The email accounts of furloughed government workers had been commandeered to send partisan attacks against Democrats, a move that the ruling said had “added insult to injury.”
-* 休假的政府工作人员的电子邮件帐户已被征用，以对民主党人进行党派攻击，该裁决称此举“增加了伤害”。
-* A fight brewing in Massachusetts could preview Democrats’ age battles.
-* 马萨诸塞州正在酝酿的战斗可能会预示民主党的年龄之战。
+* In Michigan, Maine and many other states, primary candidates will decide the party’s direction on a host of policy issues, and ultimately whether it has a center-left or left-wing vision.
+* 在密歇根州、缅因州和许多其他州，主要候选人将决定该党在一系列政策问题上的方向，并最终决定它是否具有中左翼或左翼的愿景。
+* The Justice Department moved an inquiry that appeared initially focused on John O. Brennan to South Florida and is beginning to recruit line prosecutors.
+* 司法部将一项最初针对约翰· O ·布伦南的调查转移到南佛罗里达州，并开始招募专职检察官。
+* Would a proposed coin featuring the president on both sides commemorate America’s founding, or undercut its founding principles?
+* 双方总统提议的硬币是纪念美国建国，还是削弱其建国原则？
+* Valentino Luchin, 62, once owned an acclaimed Italian restaurant. Now he sits in a Bay Area jail.
+* 62岁的瓦伦蒂诺·卢钦（ Valentino Luchin ）曾经拥有一家备受赞誉的意大利餐现在他坐在湾区监狱里。
+* A former Goodwill thrift store now houses an urgent care clinic for people experiencing mental health breakdowns in public.
+* 一家前善意旧货店现在为在公共场所经历心理健康崩溃的人们提供紧急护理诊所。
+* A growing coalition of conservatives are speaking out against hormonal birth control, while promoting a more “natural” alternative.
+* 越来越多的保守派联盟反对激素节育，同时提倡更“自然”的替代方案。
+* Two other crew members were critically injured when the helicopter crashed about 30 miles from Nashville. No patients were on board.
+* 直升机在距离纳什维尔约30英里的地方坠毁，另有两名机组人员受重伤。船上没有患者。
+* Weeks of uncertainty during the longest government shutdown in American history have left some states struggling to issue payments to food stamp recipients.
+* 在美国历史上最长的政府关闭期间，数周的不确定性使一些州难以向食品券领取者发放付款。
+* A California jury found that Beth Fischgrund was wrongfully terminated and defamed after she reported an inmate’s violent threat at Salinas Valley State Prison in California.
+* 加利福尼亚州的一个陪审团发现， Beth Fischgrund在加利福尼亚州萨利纳斯谷州立监狱报告了一名囚犯的暴力威胁后，被错误地解雇和诽谤。
+* No Border Patrol agents were injured in the incident on Saturday as an immigration enforcement campaign continues in the city.
+* 由于该市的移民执法活动仍在继续，周六事件中没有边境巡逻人员受伤。
 
 ## New York Times Asia News
+* A tsunami was expected to come ashore with a maximum height of about three feet after a 6.7-magnitude quake struck off Japan’s coast early Sunday evening.
+* 在周日傍晚日本海岸发生6.7级地震后，预计海啸将上岸，最大高度约为3英尺。
+* Typhoon Fung-wong is heading for the main island of Luzon, causing tens of thousands to be evacuated after another storm killed more than 200 last week.
+* 台风Fung-wong正在前往主岛吕宋岛，上周另一场风暴造成200多人死亡，导致数万人撤离。
+* The changes would make it easier for American firms to obtain key minerals, delivering on what the White House said the two countries had agreed to at last month’s summit.
+* 这些变化将使美国公司更容易获得关键矿物，从而兑现白宫表示两国在上个月的峰会上达成的协议。
+* A correspondent for Reuters, he became a global symbol of China’s isolation and of the anti-foreigner hysteria spawned by its Cultural Revolution.
+* 作为路透社的记者，他成为中国孤立和文化大革命引发的反外国人歇斯底里的全球象征。
 * Longevity labs, “immortality islands” and grapeseed pills are part of China’s national project to conquer aging, despite sometimes shaky science and extravagant claims.
 * 长寿实验室、“不朽之岛”和葡萄籽药丸是中国征服衰老的国家项目的一部分，尽管有时科学不稳定，声称过于奢侈。
 * Few countries are excited about globalization anymore, but Vietnam is still into it — wholeheartedly. Do the reasons go beyond economic growth?
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 丰田(Toyota)、本田(Honda)和日产(Nissan)预计，他们承认可能会“留在这里”的更高关税将对其利润产生重大影响。
 * Exports of cars, solar panels and batteries remain strong, but prices are falling because of factory overcapacity in China.
 * 汽车、太阳能电池板和电池的出口仍然强劲，但由于中国工厂产能过剩，价格正在下降。
-* The Fujian, China’s most advanced carrier, went into official service this week. It brings the country closer to challenging U.S. naval dominance.
-* 中国最先进的航空母舰福建本周正式服役。它使该国更接近挑战美国海军主导地位。
-* Several contestants walked out of a Miss Universe event this week when the pageant director berated Miss Mexico for not taking part in promotional activities.
-* 本周，当选美导演指责墨西哥小姐没有参加促销活动时，几名参赛者退出了环球小姐活动。
-* The structure was being demolished when it collapsed. One person was killed, two were rescued, and several more were believed to still be buried.
-* 建筑物倒塌时正在被拆除。一人死亡，两人获救，另有几人据信仍被埋葬。
-* The death toll for Typhoon Kalmaegi rose into the triple digits, and the country is bracing for another cyclone expected this weekend.
-* 台风卡尔梅吉的死亡人数上升到三位数，该国正在为本周末预计的另一场飓风做准备。
 
