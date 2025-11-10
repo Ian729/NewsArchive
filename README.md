@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* A decades-old killing in a tiny village in a northern mountain town has turned the village into a destination for true-crime enthusiasts, creating a headache for remaining residents.
-* 北部山区城镇一个小村庄发生了几十年的屠杀事件，将该村庄变成了真正的犯罪爱好者的目的地，给剩余的居民带来了头痛。
-* With no negotiations, no oversight and no clarity about Iran’s stock of nuclear material, many in the region fear another war with Israel is inevitable.
-* 由于没有谈判，没有监督，也没有明确伊朗的核材料库存，该地区的许多人担心与以色列爆发另一场战争是不可避免的。
-* Boycotts of Israeli universities, largely imposed in Europe, have multiplied since the start of the war and reflect Israel’s international isolation over its conduct in Gaza.
-* 对以色列大学的抵制，主要是在欧洲实施的，自战争开始以来成倍增加，反映了以色列对其在加沙的行为的国际孤立。
-* A tsunami was expected to come ashore with a maximum height of about three feet after a 6.7-magnitude quake struck off Japan’s coast early Sunday evening.
-* 在周日傍晚日本海岸发生6.7级地震后，预计海啸将上岸，最大高度约为3英尺。
-* Jean-Philippe Pleau’s book and play about moving up socially became a cultural reckoning in Quebec, but created a gulf with his family.
-* 让-菲利普·普洛（ Jean-Philippe Pleau ）的书籍和关于社会进步的戏剧成为魁北克的文化清算，但与他的家人产生了鸿沟。
+* A police raid and criminal case against a longtime cultivator of cannabis in New Zealand’s Northland region has stirred up debates about medicinal marijuana.
+* 针对新西兰北部地区长期大麻种植者的警方突袭和刑事案件引发了关于药用大麻的辩论。
+* Grabbing children and leaving their homes behind, residents evacuated before Typhoon Fung-wong hit.
+* 居民们抓住儿童离开家园，在台风Fung-wong袭击前撤离。
+* A Times investigation found that children are routinely deprived of birth certificates, medical care and education. Diplomats and police officers turned the mothers away.
+* 《纽约时报》的一项调查发现，儿童经常被剥夺出生证明、医疗保健和教育。外交官和警察把母亲们拒之门外。
+* We pieced together the details, from Riyadh to Nairobi.
+* 我们拼凑了从利雅得到内罗毕的细节。
+* Ukraine faces a major draft evasion problem, but no place is quite like Vylkove, a Danube River town where men of draft age have all but vanished, many of them trying to avoid military service.
+* 乌克兰面临着一个重大的逃避征兵问题，但没有一个地方像维尔科夫一样，一个多瑙河小镇，在那里，征兵年龄的男人几乎消失了，其中许多人试图逃避服兵役。
+* Indonesia’s president bestowed the honor on the dictator Suharto, who died in 2008, in what many said was a stunning move of revisionist history.
+* 印度尼西亚总统向2008年去世的独裁者苏哈托授予荣誉，许多人认为这是修正主义历史的惊人举动。
+* In 2019, President Trump sent U.S. commandos to to a small village in Syria to kill the leader of the terror group Islamic State. On Monday, Syria’s president, a former associate of that leader, will meet Mr. Trump in the White House.
+* 2019年，特朗普总统派遣美国突击队前往叙利亚的一个小村庄，杀害恐怖组织“伊斯兰国”的领导人。周一，叙利亚总统将在白宫会见特朗普，他曾是这位领导人的助手。
+* South Korea’s ousted leader, Yoon Suk Yeol, was accused of trying to stoke military tensions to justify his short-lived martial law last December.
+* 去年12月，韩国被驱逐的领导人Yoon Suk Yeol被指控试图煽动军事紧张局势，以证明他短暂的戒严令是正当的。
 * Argentina has emerged as a surprisingly prominent destination for L.G.B.T.Q. Russians escaping President Vladimir V. Putin’s escalating anti-gay repression.
 * 阿根廷已成为L.G.B.T.Q.俄罗斯人逃离总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）不断升级的反同性恋镇压的令人惊讶的重要目的地。
-* Typhoon Fung-wong is heading for the main island of Luzon, causing tens of thousands to be evacuated after another storm killed more than 200 last week.
-* 台风Fung-wong正在前往主岛吕宋岛，上周另一场风暴造成200多人死亡，导致数万人撤离。
-* The attack by Russian missiles and drones targeted the capital, Kyiv, and the large cities of Dnipro and Kharkiv, as well as several smaller municipalities.
-* 俄罗斯导弹和无人机袭击了首都基辅、第聂伯罗和哈尔科夫等大城市以及几个较小的城市。
-* The Times interviewed dozens of migrant men sent to a prison in El Salvador by the Trump administration. Independent forensic analysts called the testimony credible and consistent and said the treatment met the U.N.’s definition of torture.
-* 《纽约时报》采访了特朗普政府送往萨尔瓦多监狱的数十名移民男子。独立法医分析师称证词可信且前后一致，并表示这种待遇符合联合国对酷刑的定义。
-* Few countries are excited about globalization anymore, but Vietnam is still into it — wholeheartedly. Do the reasons go beyond economic growth?
-* 很少有国家对全球化感到兴奋，但越南仍然全心全意地参与其中。原因是否超出了经济增长的范围？
+* The abrupt moves followed furor over claims that a documentary had misleadingly edited footage of President Trump’s speech before the Jan. 6 Capitol riot.
+* 突然的举动是因为有人声称一部纪录片误导了特朗普总统在1月6日国会大厦骚乱前的演讲镜头。
 
 ## New York Times United States News
-* In Michigan, Maine and many other states, primary candidates will decide the party’s direction on a host of policy issues, and ultimately whether it has a center-left or left-wing vision.
-* 在密歇根州、缅因州和许多其他州，主要候选人将决定该党在一系列政策问题上的方向，并最终决定它是否具有中左翼或左翼的愿景。
-* The Justice Department moved an inquiry that appeared initially focused on John O. Brennan to South Florida and is beginning to recruit line prosecutors.
-* 司法部将一项最初针对约翰· O ·布伦南的调查转移到南佛罗里达州，并开始招募专职检察官。
-* Would a proposed coin featuring the president on both sides commemorate America’s founding, or undercut its founding principles?
-* 双方总统提议的硬币是纪念美国建国，还是削弱其建国原则？
-* Valentino Luchin, 62, once owned an acclaimed Italian restaurant. Now he sits in a Bay Area jail.
-* 62岁的瓦伦蒂诺·卢钦（ Valentino Luchin ）曾经拥有一家备受赞誉的意大利餐现在他坐在湾区监狱里。
-* A former Goodwill thrift store now houses an urgent care clinic for people experiencing mental health breakdowns in public.
-* 一家前善意旧货店现在为在公共场所经历心理健康崩溃的人们提供紧急护理诊所。
-* A growing coalition of conservatives are speaking out against hormonal birth control, while promoting a more “natural” alternative.
-* 越来越多的保守派联盟反对激素节育，同时提倡更“自然”的替代方案。
-* Two other crew members were critically injured when the helicopter crashed about 30 miles from Nashville. No patients were on board.
-* 直升机在距离纳什维尔约30英里的地方坠毁，另有两名机组人员受重伤。船上没有患者。
-* Weeks of uncertainty during the longest government shutdown in American history have left some states struggling to issue payments to food stamp recipients.
-* 在美国历史上最长的政府关闭期间，数周的不确定性使一些州难以向食品券领取者发放付款。
-* A California jury found that Beth Fischgrund was wrongfully terminated and defamed after she reported an inmate’s violent threat at Salinas Valley State Prison in California.
-* 加利福尼亚州的一个陪审团发现， Beth Fischgrund在加利福尼亚州萨利纳斯谷州立监狱报告了一名囚犯的暴力威胁后，被错误地解雇和诽谤。
-* No Border Patrol agents were injured in the incident on Saturday as an immigration enforcement campaign continues in the city.
-* 由于该市的移民执法活动仍在继续，周六事件中没有边境巡逻人员受伤。
+* 
+* 
+* The issue has buoyed Democrats and is resonating with an American electorate that is souring on the president’s economic agenda.
+* 这个问题鼓舞了民主党人，并引起了美国选民的共鸣，他们对总统的经济议程感到厌恶。
+* A weekend gathering in Texas drew activists, homeopaths, doctors, lawyers, parents and a Republican senator who asked, “Why isn’t Tony Fauci in prison?”
+* 德克萨斯州的一次周末聚会吸引了活动家、顺势疗法者、医生、律师、父母和一位共和党参议员，他们问道： “为什么托尼·福奇没有入狱？”
+* Lower courts condemned the treatment of Damon Landor, a Rastafarian, but found that a federal law protecting religious rights barred him from suing prison officials for money.
+* 下级法院谴责拉斯特法里教徒达蒙·兰德（ Damon Landor ）的待遇，但发现保护宗教权利的联邦法律禁止他起诉监狱官员索要钱财。
+* Supporters of Abigail Spanberger, Virginia’s governor-elect, say they expect her to reverse efforts to impose conservative priorities on the state’s prestigious public university system.
+* 弗吉尼亚州州长当选人阿比盖尔·斯潘伯格（ Abigail Spanberger ）的支持者表示，他们希望她能够扭转将保守派优先事项强加于该州著名公立大学系统的努力。
+* Like many rural small towns, Tieton, Wash., is facing a confluence of circumstances that has made keeping its one-room library, a “civic symbol” for the town, untenable.
+* 和许多乡村小城镇一样，华盛顿州的蒂顿也面临着各种各样的情况，这使得其一室图书馆这个城镇的“公民象征”变得站不住脚。
+* For 40 days, Senator Chuck Schumer kept his caucus unified. But an end approached without Democrats achieving an extension of expiring health insurance subsidies.
+* 在40天的时间里，参议员查克·舒默（ Chuck Schumer ）保持了他的核心小组的统一。但是，民主党人没有延长即将到期的医疗保险补贴就走到了尽头。
+* Some residents are receiving benefits, but the uncertainty over the past weeks has burdened many in the two states, where the cost of food is the highest in the nation.
+* 一些居民正在领取福利，但过去几周的不确定性给这两个州的许多人带来了负担，这两个州的食品成本是全国最高的。
+* With near-daily TV appearances, the transportation secretary has emerged as the face of the Trump administration amid the shutdown.
+* 在政府关门期间，交通部长几乎每天都会出现在电视上，成为特朗普政府的代言人。
+* A small but critical group of Democrats backed legislation to fund the government, providing the votes to move forward with a spending package that would end the shutdown in coming days.
+* 一小部分但至关重要的民主党人支持为政府提供资金的立法，为推进将在未来几天结束关闭的支出计划提供投票。
 
 ## New York Times Asia News
-* A tsunami was expected to come ashore with a maximum height of about three feet after a 6.7-magnitude quake struck off Japan’s coast early Sunday evening.
-* 在周日傍晚日本海岸发生6.7级地震后，预计海啸将上岸，最大高度约为3英尺。
-* Typhoon Fung-wong is heading for the main island of Luzon, causing tens of thousands to be evacuated after another storm killed more than 200 last week.
-* 台风Fung-wong正在前往主岛吕宋岛，上周另一场风暴造成200多人死亡，导致数万人撤离。
+* The episode has contributed to concerns among intelligence allies that Kash Patel, brash and partisan, is also unpredictable and even unreliable.
+* 这一事件引发了情报盟友的担忧，即傲慢和党派的卡什·帕特尔（ Kash Patel ）也是不可预测的，甚至是不可靠的。
+* South Korea’s ousted leader, Yoon Suk Yeol, was accused of trying to stoke military tensions to justify his short-lived martial law last December.
+* 去年12月，韩国被驱逐的领导人Yoon Suk Yeol被指控试图煽动军事紧张局势，以证明他短暂的戒严令是正当的。
+* Indonesia’s president bestowed the honor on the dictator Suharto, who died in 2008, in what many said was a stunning move of revisionist history.
+* 印度尼西亚总统向2008年去世的独裁者苏哈托授予荣誉，许多人认为这是修正主义历史的惊人举动。
+* Grabbing children and leaving their homes behind, residents evacuated before Typhoon Fung-wong hit.
+* 居民们抓住儿童离开家园，在台风Fung-wong袭击前撤离。
+* A police raid and criminal case against a longtime cultivator of cannabis in New Zealand’s Northland region has stirred up debates about medicinal marijuana.
+* 针对新西兰北部地区长期大麻种植者的警方突袭和刑事案件引发了关于药用大麻的辩论。
+* Propelled by interest in all things South Korea, Amorepacific, the cosmetics giant, is expanding its reach into the United States. But so are many of its competitors.
+* 出于对韩国所有事物的兴趣，化妆品巨头爱茉莉太平洋正在将其业务扩展到美国。但它的许多竞争对手也是如此。
+* A boat said to be carrying people from the Rohingya ethnic minority capsized, and another was missing. At least seven bodies were recovered.
+* 一艘据称载有罗兴亚少数民族人员的船只倾覆，另一艘失踪。至少有七具尸体被发现。
+* A 6.7-magnitude quake struck off Japan’s coast early Sunday evening, prompting a tsunami advisory, which was later lifted.
+* 周日傍晚，一场6.7级地震袭击了日本海岸，引发了海啸警报，后来被解除。
+* Typhoon Fung-wong made landfall on the main island of Luzon, prompting the evacuation of more than one million people, just days after an earlier storm killed over 200.
+* 台风Fung-wong在吕宋岛主岛登陆，促使100多万人撤离，就在早些时候的一场风暴造成200多人死亡的几天后。
 * The changes would make it easier for American firms to obtain key minerals, delivering on what the White House said the two countries had agreed to at last month’s summit.
 * 这些变化将使美国公司更容易获得关键矿物，从而兑现白宫表示两国在上个月的峰会上达成的协议。
-* A correspondent for Reuters, he became a global symbol of China’s isolation and of the anti-foreigner hysteria spawned by its Cultural Revolution.
-* 作为路透社的记者，他成为中国孤立和文化大革命引发的反外国人歇斯底里的全球象征。
-* Longevity labs, “immortality islands” and grapeseed pills are part of China’s national project to conquer aging, despite sometimes shaky science and extravagant claims.
-* 长寿实验室、“不朽之岛”和葡萄籽药丸是中国征服衰老的国家项目的一部分，尽管有时科学不稳定，声称过于奢侈。
-* Few countries are excited about globalization anymore, but Vietnam is still into it — wholeheartedly. Do the reasons go beyond economic growth?
-* 很少有国家对全球化感到兴奋，但越南仍然全心全意地参与其中。原因是否超出了经济增长的范围？
-* President Trump has made it easier for countries that are close to Russia and China to build ties with the United States. Those countries are embracing the opportunity.
-* 特朗普总统让与俄罗斯和中国关系密切的国家更容易与美国建立关系。这些国家正在抓住机遇。
-* The Chinese government followed through on promises it made publicly after a recent summit, but has not yet taken other actions sought by the White House.
-* 中国政府履行了在最近一次峰会后公开做出的承诺，但尚未采取白宫寻求的其他行动。
-* Toyota, Honda and Nissan forecast big hits to their profits from higher tariffs that they acknowledged were likely “here to stay.”
-* 丰田(Toyota)、本田(Honda)和日产(Nissan)预计，他们承认可能会“留在这里”的更高关税将对其利润产生重大影响。
-* Exports of cars, solar panels and batteries remain strong, but prices are falling because of factory overcapacity in China.
-* 汽车、太阳能电池板和电池的出口仍然强劲，但由于中国工厂产能过剩，价格正在下降。
 
