@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* A police raid and criminal case against a longtime cultivator of cannabis in New Zealand’s Northland region has stirred up debates about medicinal marijuana.
-* 针对新西兰北部地区长期大麻种植者的警方突袭和刑事案件引发了关于药用大麻的辩论。
-* Grabbing children and leaving their homes behind, residents evacuated before Typhoon Fung-wong hit.
-* 居民们抓住儿童离开家园，在台风Fung-wong袭击前撤离。
+* For decades, Iranians fleeing persecution have found protection in the United States. But this fall, the Trump administration deported a planeload of people to Iran after making a deal with Tehran.
+* 几十年来，逃离迫害的伊朗人在美国得到了保护。但今年秋天，特朗普政府在与德黑兰达成协议后，将一大批人驱逐到伊朗。
+* India’s prime minister, Narendra Modi, said the “conspirators” behind an explosion that killed at least eight people would be brought to justice.
+* 印度总理纳伦德拉·莫迪（ Narendra Modi ）表示，至少造成8人死亡的爆炸背后的“阴谋者”将被绳之以法。
+* After a U.S. occupation, years of sectarian violence and a jihadist insurgency, Iraq has become an improbable haven of calm in the Middle East.
+* 在美国占领、多年的宗派暴力和圣战叛乱之后，伊拉克已成为中东不可思议的平静避风港。
+* Iraq is caught in the conflict between Washington and Tehran, with the Trump administration insisting that the next government disarm powerful Iran-backed militias.
+* 伊拉克陷入了华盛顿和德黑兰之间的冲突，特朗普政府坚持要求下届政府解除伊朗支持的强大民兵的武装。
+* A showcase for independent Chinese films was scrapped after the Chinese authorities pressured directors, moderators and even a volunteer to pull out.
+* 在中国当局向导演、主持人甚至一名志愿者施压要求退出之后，中国独立电影的展览被取消。
+* Ukraine faces a major draft-evasion problem, but no place is quite like Vylkove, a Danube River town where men of draft age have all but vanished, many of them trying to avoid military service.
+* 乌克兰面临着一个主要的逃兵问题，但没有一个地方像维尔科夫一样，一个多瑙河小镇，在那里，征兵年龄的男人几乎消失了，其中许多人试图逃避服兵役。
+* The visit by President Ahmed al-Shara is another step in the transformation of the former rebel leader once wanted by the United States as a terrorist.
+* 艾哈迈德·沙雷（ Ahmed al-Shara ）总统的访问是前反叛领导人转型的又一步骤，这位前反叛领导人曾被美国通缉为恐怖分子。
 * A Times investigation found that children are routinely deprived of birth certificates, medical care and education. Diplomats and police officers turned the mothers away.
 * 《纽约时报》的一项调查发现，儿童经常被剥夺出生证明、医疗保健和教育。外交官和警察把母亲们拒之门外。
-* We pieced together the details, from Riyadh to Nairobi.
-* 我们拼凑了从利雅得到内罗毕的细节。
-* Ukraine faces a major draft evasion problem, but no place is quite like Vylkove, a Danube River town where men of draft age have all but vanished, many of them trying to avoid military service.
-* 乌克兰面临着一个重大的逃避征兵问题，但没有一个地方像维尔科夫一样，一个多瑙河小镇，在那里，征兵年龄的男人几乎消失了，其中许多人试图逃避服兵役。
-* Indonesia’s president bestowed the honor on the dictator Suharto, who died in 2008, in what many said was a stunning move of revisionist history.
-* 印度尼西亚总统向2008年去世的独裁者苏哈托授予荣誉，许多人认为这是修正主义历史的惊人举动。
-* In 2019, President Trump sent U.S. commandos to to a small village in Syria to kill the leader of the terror group Islamic State. On Monday, Syria’s president, a former associate of that leader, will meet Mr. Trump in the White House.
-* 2019年，特朗普总统派遣美国突击队前往叙利亚的一个小村庄，杀害恐怖组织“伊斯兰国”的领导人。周一，叙利亚总统将在白宫会见特朗普，他曾是这位领导人的助手。
-* South Korea’s ousted leader, Yoon Suk Yeol, was accused of trying to stoke military tensions to justify his short-lived martial law last December.
-* 去年12月，韩国被驱逐的领导人Yoon Suk Yeol被指控试图煽动军事紧张局势，以证明他短暂的戒严令是正当的。
-* Argentina has emerged as a surprisingly prominent destination for L.G.B.T.Q. Russians escaping President Vladimir V. Putin’s escalating anti-gay repression.
-* 阿根廷已成为L.G.B.T.Q.俄罗斯人逃离总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）不断升级的反同性恋镇压的令人惊讶的重要目的地。
-* The abrupt moves followed furor over claims that a documentary had misleadingly edited footage of President Trump’s speech before the Jan. 6 Capitol riot.
-* 突然的举动是因为有人声称一部纪录片误导了特朗普总统在1月6日国会大厦骚乱前的演讲镜头。
+* In 2019, President Trump sent U.S. commandos to a small village in Syria to kill the leader of Islamic State. On Monday, Syria’s president, a former associate of that leader, will take another step to strengthen his alliance with the White House.
+* 2019年，特朗普总统派遣美国突击队前往叙利亚的一个小村庄，杀害伊斯兰国领导人。周一，叙利亚总统将采取另一步措施，加强与白宫的联盟。
+* The British public service broadcaster apologized on Monday for a misleadingly edited documentary about President Trump. But the scandal had already claimed two of its top executives.
+* 这家英国公共服务广播公司周一为一部关于特朗普总统的误导性编辑纪录片道歉。但这起丑闻已经导致其两名高管离职。
 
 ## New York Times United States News
-* 
-* 
-* The issue has buoyed Democrats and is resonating with an American electorate that is souring on the president’s economic agenda.
-* 这个问题鼓舞了民主党人，并引起了美国选民的共鸣，他们对总统的经济议程感到厌恶。
-* A weekend gathering in Texas drew activists, homeopaths, doctors, lawyers, parents and a Republican senator who asked, “Why isn’t Tony Fauci in prison?”
-* 德克萨斯州的一次周末聚会吸引了活动家、顺势疗法者、医生、律师、父母和一位共和党参议员，他们问道： “为什么托尼·福奇没有入狱？”
-* Lower courts condemned the treatment of Damon Landor, a Rastafarian, but found that a federal law protecting religious rights barred him from suing prison officials for money.
-* 下级法院谴责拉斯特法里教徒达蒙·兰德（ Damon Landor ）的待遇，但发现保护宗教权利的联邦法律禁止他起诉监狱官员索要钱财。
-* Supporters of Abigail Spanberger, Virginia’s governor-elect, say they expect her to reverse efforts to impose conservative priorities on the state’s prestigious public university system.
-* 弗吉尼亚州州长当选人阿比盖尔·斯潘伯格（ Abigail Spanberger ）的支持者表示，他们希望她能够扭转将保守派优先事项强加于该州著名公立大学系统的努力。
-* Like many rural small towns, Tieton, Wash., is facing a confluence of circumstances that has made keeping its one-room library, a “civic symbol” for the town, untenable.
-* 和许多乡村小城镇一样，华盛顿州的蒂顿也面临着各种各样的情况，这使得其一室图书馆这个城镇的“公民象征”变得站不住脚。
-* For 40 days, Senator Chuck Schumer kept his caucus unified. But an end approached without Democrats achieving an extension of expiring health insurance subsidies.
-* 在40天的时间里，参议员查克·舒默（ Chuck Schumer ）保持了他的核心小组的统一。但是，民主党人没有延长即将到期的医疗保险补贴就走到了尽头。
-* Some residents are receiving benefits, but the uncertainty over the past weeks has burdened many in the two states, where the cost of food is the highest in the nation.
-* 一些居民正在领取福利，但过去几周的不确定性给这两个州的许多人带来了负担，这两个州的食品成本是全国最高的。
-* With near-daily TV appearances, the transportation secretary has emerged as the face of the Trump administration amid the shutdown.
-* 在政府关门期间，交通部长几乎每天都会出现在电视上，成为特朗普政府的代言人。
-* A small but critical group of Democrats backed legislation to fund the government, providing the votes to move forward with a spending package that would end the shutdown in coming days.
-* 一小部分但至关重要的民主党人支持为政府提供资金的立法，为推进将在未来几天结束关闭的支出计划提供投票。
+* Moderate Black voters and young progressives favored Zohran Mamdani for mayor, while Andrew Cuomo won many wealthy New Yorkers and those who voted for Donald Trump.
+* 温和的黑人选民和年轻的进步人士青睐Zohran Mamdani担任市长，而Andrew Cuomo赢得了许多富有的纽约人和投票支持唐纳德特朗普的人。
+* The Kennan Institute, which researches Russia and the surrounding region, has re-emerged in a form that is smaller but more impervious to government control.
+* 研究俄罗斯及其周边地区的凯南研究所（ Kennan Institute ）以一种更小但更不受政府控制的形式重新出现。
+* President Trump pressured Democrats by taking punishing actions no previous administration ever took during a shutdown.
+* 特朗普总统向民主党人施加压力，采取了前任政府在政府关门期间从未采取过的惩罚性行动。
+* The agreement prompted a backlash within the party, not only against the Democratic defectors who supported it, but against Senator Chuck Schumer, the leader who did not.
+* 该协议引发了党内的强烈反对，不仅针对支持该协议的民主党叛逃者，还针对没有支持该协议的参议员查克·舒默（ Chuck Schumer ）。
+* The president said the assertions behind a judgment that he sexually abused and defamed the writer were “implausible” and “unsubstantiated.”
+* 总统表示，判断他性虐待和诽谤作家的说法是“不可信的”和“未经证实的”。
+* Robert Harshbarger Jr. pleaded guilty in 2013 to health care fraud and distributing a misbranded drug. His wife, Diana Harshbarger, is a member of Congress.
+* 小罗伯特·哈什巴格（ Robert Harshbarger Jr. ）于2013年承认犯有医疗保健欺诈和分销品牌错误药物的罪行。他的妻子戴安娜·哈什巴格（ Diana Harshbarger ）是国会议员。
+* More than a dozen people were hospitalized after a bus-like vehicle for passengers crashed into a dock at the Washington airport.
+* 一辆类似巴士的乘客车辆撞上华盛顿机场的码头后，十几人住院治疗。
+* The Supreme Court chose not to revisit a case involving same-sex marriage. The number of married same-sex couples has doubled in the last 10 years.
+* 最高法院选择不重审涉及同性婚姻的案件。在过去十年中，已婚同性伴侣的数量翻了一番。
+* A restless Democratic base is seething at older leaders in Washington.
+* 一个焦躁不安的民主党基础正在华盛顿的年长领导人中沸腾。
+* Parents of campers and counselors who died in the July 4 Texas floods said the camp leadership did little before mounting “a hopeless ‘rescue’ effort from its self-created disaster.”
+* 在7月4日德克萨斯州洪水中死亡的露营者和辅导员的父母表示，营地领导层在“从自我创造的灾难中进行无望的‘救援’努力”之前几乎没有采取任何行动。
 
 ## New York Times Asia News
+* Spread out along the road between Christchurch and Queenstown, lodge hotels, many in remote spots, offer luxury with a sense of place.
+* 酒店分布在基督城（ Christchurch ）和皇后镇（ Queenstown ）之间的道路上，许多位于偏远地区的度假酒店都提供带有地方感的奢华体验。
+* India’s prime minister, Narendra Modi, said the “conspirators” behind an explosion that killed at least eight people would be brought to justice.
+* 印度总理纳伦德拉·莫迪（ Narendra Modi ）表示，至少造成8人死亡的爆炸背后的“阴谋者”将被绳之以法。
+* A showcase for independent Chinese films was scrapped after the Chinese authorities pressured directors, moderators and even a volunteer to pull out.
+* 在中国当局向导演、主持人甚至一名志愿者施压要求退出之后，中国独立电影的展览被取消。
+* The car exploded near a metro station in a historic part of New Delhi on Monday night. Officials are investigating and security is tight around the region.
+* 周一晚上，这辆车在新德里一个历史悠久的地铁站附近爆炸。官员们正在进行调查，该地区的安全局势严峻。
+* India’s top security official said the cause of the blast, near the Red Fort in the capital, was still being investigated.
+* 印度最高安全官员表示，首都红堡附近的爆炸原因仍在调查中。
+* The move, which came after two Thai soldiers were injured by a land mine, imperiled a pledge by the two countries to resolve their longstanding differences at the behest of President Trump.
+* 此举是在两名泰国士兵被地雷炸伤后采取的，危及两国承诺在特朗普总统的要求下解决长期存在的分歧。
+* China will require licenses for export of 13 chemicals used to make the deadly drug, another indicator of thawing tensions between the world’s two largest economies
+* 中国将要求用于制造致命药物的13种化学品的出口许可证，这是世界两大经济体之间紧张局势解冻的另一个指标
 * The episode has contributed to concerns among intelligence allies that Kash Patel, brash and partisan, is also unpredictable and even unreliable.
 * 这一事件引发了情报盟友的担忧，即傲慢和党派的卡什·帕特尔（ Kash Patel ）也是不可预测的，甚至是不可靠的。
 * South Korea’s ousted leader, Yoon Suk Yeol, was accused of trying to stoke military tensions to justify his short-lived martial law last December.
 * 去年12月，韩国被驱逐的领导人Yoon Suk Yeol被指控试图煽动军事紧张局势，以证明他短暂的戒严令是正当的。
 * Indonesia’s president bestowed the honor on the dictator Suharto, who died in 2008, in what many said was a stunning move of revisionist history.
 * 印度尼西亚总统向2008年去世的独裁者苏哈托授予荣誉，许多人认为这是修正主义历史的惊人举动。
-* Grabbing children and leaving their homes behind, residents evacuated before Typhoon Fung-wong hit.
-* 居民们抓住儿童离开家园，在台风Fung-wong袭击前撤离。
-* A police raid and criminal case against a longtime cultivator of cannabis in New Zealand’s Northland region has stirred up debates about medicinal marijuana.
-* 针对新西兰北部地区长期大麻种植者的警方突袭和刑事案件引发了关于药用大麻的辩论。
-* Propelled by interest in all things South Korea, Amorepacific, the cosmetics giant, is expanding its reach into the United States. But so are many of its competitors.
-* 出于对韩国所有事物的兴趣，化妆品巨头爱茉莉太平洋正在将其业务扩展到美国。但它的许多竞争对手也是如此。
-* A boat said to be carrying people from the Rohingya ethnic minority capsized, and another was missing. At least seven bodies were recovered.
-* 一艘据称载有罗兴亚少数民族人员的船只倾覆，另一艘失踪。至少有七具尸体被发现。
-* A 6.7-magnitude quake struck off Japan’s coast early Sunday evening, prompting a tsunami advisory, which was later lifted.
-* 周日傍晚，一场6.7级地震袭击了日本海岸，引发了海啸警报，后来被解除。
-* Typhoon Fung-wong made landfall on the main island of Luzon, prompting the evacuation of more than one million people, just days after an earlier storm killed over 200.
-* 台风Fung-wong在吕宋岛主岛登陆，促使100多万人撤离，就在早些时候的一场风暴造成200多人死亡的几天后。
-* The changes would make it easier for American firms to obtain key minerals, delivering on what the White House said the two countries had agreed to at last month’s summit.
-* 这些变化将使美国公司更容易获得关键矿物，从而兑现白宫表示两国在上个月的峰会上达成的协议。
 
