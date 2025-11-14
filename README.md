@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* From his guerrilla roots, Colombia’s president, Gustavo Petro, has long embraced a confrontational style. Now, he has incurred President Trump’s wrath and is facing political fallout at home.
-* 哥伦比亚总统古斯塔沃·佩特罗（ Gustavo Petro ）从他的游击队根源出发，长期以来一直采取对抗性风格。现在，他招致了特朗普总统的愤怒，并面临着国内的政治影响。
-* The rare explosions in the country’s capitals have not been directly linked, but there are fears the governments will blame each other after their previous military conflict alarmed the world.
-* 该国首都发生的罕见爆炸事件没有直接联系，但人们担心，在他们之前的军事冲突震惊了世界之后，政府会互相指责。
-* José Antonio Morante Camacho says he has fought his last bull. Fans appreciated his artistry but also his honesty about his struggles with mental illness.
-* 何塞·安东尼奥·莫兰特·卡马乔（ José Antonio Morante Camacho ）说，他已经与最后球迷们欣赏他的艺术性，但也欣赏他对精神疾病斗争的诚实。
-* Sanae Takaichi drew criticism for requiring staff to work in the wee hours in a country scarred by “death from overwork.”
-* 高市早苗（ Sanae Takaichi ）因要求员工在凌晨时分在一个因“过度工作而死亡”而伤痕累累的国家工作而受到批评。
-* A constitutional amendment in the nuclear-armed country extends the chief’s power over all the military and brings Pakistan’s highest court under tighter political control.
-* 这个拥有核武器国家的宪法修正案将酋长的权力扩展到所有军队，并将巴基斯坦的最高法院置于更严格的政治控制之下。
-* Large parts of Syria were once overrun by the terrorist group Islamic State. The country’s new government has just committed to a global effort to fight the group.
-* 叙利亚的大部分地区曾经被恐怖组织伊斯兰国占领。该国新政府刚刚承诺在全球范围内努力打击该组织。
-* The shake-up in China’s armed forces comes as both Beijing and Washington are pushing through major changes in their country’s militaries, in different ways.
-* 中国军队的改组发生之际，北京和华盛顿正在以不同的方式推动中国军队的重大变革。
-* The cease-fire with Hamas has blunted the hunger faced by Gazans during the war. But aid agencies say Israeli restrictions are still hobbling their work.
-* 与哈马斯的停火削弱了加沙人在战争期间面临的饥饿。但援助机构表示，以色列的限制措施仍在阻碍他们的工作。
-* Forty-two migrants were presumed dead after a rubber boat capsized off the Libyan coast this month. Many of the presumed victims were fleeing a raging conflict in Sudan.
-* 本月，一艘橡皮艇在利比亚海岸倾覆后， 42名移民被推定死亡。许多被推定的受害者正在逃离苏丹肆虐的冲突。
-* An attempt by Keir Starmer’s allies to undercut a rival has forced into the open a party debate over whether to replace the prime minister.
-* 基尔·斯塔默(Keir Starmer)的盟友试图削弱竞争对手，这迫使一个政党就是否更换总理展开公开辩论。
-
-## New York Times United States News
-* The State Department has reissued visas for many workers detained in a September raid, lawyers said, as the Trump administration tries to undo damage from the operation.
-* 律师们表示，美国国务院已为9月份突袭行动中被拘留的许多工人重新签发了签证，因为特朗普政府试图消除这次行动造成的损害。
-* Proponents of fuller transparency used an arcane rule to prod their leaders to act. When it became clear they had succeeded, the speaker agreed to hold a vote.
-* 更充分的透明度的支持者使用神秘的规则来刺激他们的领导人采取行动。当很明显他们已经成功时，发言人同意进行投票。
-* The drop has been reflected in air and car travel, according to Canadian statistics. Tensions over tariffs placed by the Trump administration spurred calls for Canadians to spend their money at home.
-* 根据加拿大的统计数据，这一下降反映在航空和汽车旅行上。特朗普政府提出的关税紧张局势刺激了加拿大人在国内花钱的呼声。
-* Kevin Roberts, under fire for defending Tucker Carlson’s interview with a white nationalist, said that he did not keep up with the news and that he had simply read an aide’s script.
-* 凯文·罗伯茨（ Kevin Roberts ）因捍卫塔克·卡尔森（ Tucker Carlson ）对白人民族主义者的采访而受到抨击，他说他没有跟上新闻，他只是读了一个助手的剧本。
-* The region was already unsettled by sweeping government layoffs and funding cuts when the shutdown started.
-* 政府关门开始时，该地区已经因大规模政府裁员和资金削减而陷入困境。
-* The outcome could have serious consequences for the cases against two of President Trump’s opponents, James B. Comey, the former F.B.I. director, and Letitia James, the New York attorney general.
-* 这一结果可能会对特朗普总统的两名对手--前联邦调查局局长詹姆斯· B ·科米（ James B. Comey ）和纽约总检察长利蒂西亚·詹姆斯（ Letitia James ）的案件产生严重后果。
-* Anchorage will experiment with internet voting in local elections, betting that its ease and security will win over voters even in an era of election conspiracy theories.
-* 安克雷奇将尝试在地方选举中进行互联网投票，押注即使在选举阴谋理论的时代，其轻松和安全也将赢得选民。
-* After being sidelined for more than a month, they are bracing for the backlog that awaits them and struggling with the financial burden of going without pay.
-* 在被搁置了一个多月后，他们正在为等待他们的积压做准备，并努力应对无薪的经济负担。
-* Calvin Duncan was cleared of murder after he became a legal authority in prison. In New Orleans, his campaign for clerk of criminal court has struck a nerve.
-* 卡尔文·邓肯（ Calvin Duncan ）成为监狱的合法权威后，被清除了谋杀罪。在新奥尔良，他竞选刑事法院书记员一事触动了人们的神经。
-* Thumbs-down emojis flowed onscreen as Washington-area employees learned they would have to show up five days a week. Their union called the move “callous.”
-* 随着华盛顿地区的员工了解到他们必须每周五天出现在屏幕上，拇指朝下的表情符号在屏幕上流动。他们的工会称此举“冷酷无情”。
-
-## New York Times Asia News
-* The State Department has reissued visas for many workers detained in a September raid, lawyers said, as the Trump administration tries to undo damage from the operation.
-* 律师们表示，美国国务院已为9月份突袭行动中被拘留的许多工人重新签发了签证，因为特朗普政府试图消除这次行动造成的损害。
-* A protégé of Ferdinand Marcos, he helped administer eight years of martial law before turning on his patron in the “People Power” uprising of 1986.
-* 作为费迪南德·马科斯（ Ferdinand Marcos ）的门徒，他帮助实施了八年的戒严令，然后在1986年的“人民力量”起义中背叛了他的赞助人。
-* While crowds flock to Koh Samui with its five-star resorts and thong-thronged beaches, Koh Lan, within two hours of Bangkok, offers an alternative.
-* 人群涌向苏梅岛（ Koh Samui ） ，那里有五星级度假村和拥挤的海滩，而距离曼谷不到两小时的兰岛（ Koh Lan ）则提供了另一种选择。
+* Military analysts and some Ukrainian commanders worry that Kyiv may be repeating the mistake of staying in an embattled city longer than it should, aiming to inflict far more casualties than it suffers.
+* 军事分析人士和一些乌克兰指挥官担心，基辅可能会重复在一个四面楚歌的城市停留的时间过长的错误，目的是造成更多的伤亡。
+* Colombia was a top U.S. ally in Latin America until the Trump administration began deadly strikes in international waters. Now, one family wants justice.
+* 在特朗普政府开始在国际水域进行致命打击之前，哥伦比亚是美国在拉丁美洲的主要盟友。现在，一个家庭想要正义。
 * As Pakistan has hired lobbyists with close ties to President Trump, it has also received favorable tariff treatment and unique access in Washington.
 * 由于巴基斯坦聘请了与特朗普总统关系密切的说客，它也在华盛顿获得了优惠的关税待遇和独特的准入。
-* The threatening emails and faxes bear the signature of a man who says he is being impersonated. The police in five nations have failed to stem them.
-* 这些威胁性的电子邮件和传真带有一名男子的签名，他说他正在被冒充。五个国家的警察未能阻止他们。
-* China and the United States say She Zhijiang, a Chinese-born businessman, ran a major scam compound in Myanmar. He was arrested in Bangkok in 2022.
-* 中国和美国称，中国出生的商人聂志江在缅甸经营了一个大型诈骗营地。他于2022年在曼谷被捕。
+* The Faroe Islands, rugged green specks in the North Atlantic, are an underdog. Most of the guys on the team have day jobs.
+* 法罗群岛是北大西洋崎岖不平的绿色斑点，处于劣势。团队中的大多数人都有日常工作。
+* A decade ago, Islamic State militants killed 130 people in an assault that shocked France. Some survivors are still struggling, but for many of their compatriots, memories of the attacks are growing more distant.
+* 十年前，伊斯兰国武装分子在一次震惊法国的袭击中杀死了130人。一些幸存者仍在挣扎，但对于他们的许多同胞来说，对袭击的记忆越来越遥远。
+* Since the 2023 attack on Israel by Hamas, growing settler violence and Israeli attacks on Palestinian militants have thrown the West Bank into turmoil and displaced tens of thousands.
+* 自2023年哈马斯袭击以色列以来，越来越多的定居者暴力和以色列对巴勒斯坦武装分子的袭击使约旦河西岸陷入动荡，数万人流离失所。
+* Newly released files from Jeffrey Epstein include correspondence with Andrew Mountbatten-Windsor and Peter Mandelson, the former British ambassador to Washington.
+* 杰弗里·爱泼斯坦（ Jeffrey Epstein ）新发布的文件包括与安德鲁·蒙巴顿-温莎（ Andrew Mountbatten-Windsor ）和前英国驻华盛顿大使彼得·曼德尔森（
+* The Ukrainian city of Pokrovsk is on the verge of becoming another shattered trophy for the Russian Army.
+* 乌克兰城市波克罗夫斯克即将成为俄罗斯军队的另一个破碎战利品。
 * A Chinese diplomat’s call to cut off the prime minister’s “filthy head” signaled a revival of a combative style Beijing had tried to dial back.
 * 一位中国外交官呼吁切断总理的“肮脏头脑” ，这标志着北京方面试图回击的好斗风格的复兴。
-* A constitutional amendment in the nuclear-armed country extends the chief’s power over all the military and brings Pakistan’s highest court under tighter political control.
-* 这个拥有核武器国家的宪法修正案将酋长的权力扩展到所有军队，并将巴基斯坦的最高法院置于更严格的政治控制之下。
-* The rare explosions in the country’s capitals have not been directly linked, but there are fears the governments will blame each other after their previous military conflict alarmed the world.
-* 该国首都发生的罕见爆炸事件没有直接联系，但人们担心，在他们之前的军事冲突震惊了世界之后，政府会互相指责。
-* Sanae Takaichi drew criticism for requiring staff to work in the wee hours in a country scarred by “death from overwork.”
-* 高市早苗（ Sanae Takaichi ）因要求员工在凌晨时分在一个因“过度工作而死亡”而伤痕累累的国家工作而受到批评。
+* From his guerrilla roots, Colombia’s president, Gustavo Petro, has long embraced a confrontational style. Now, he has incurred President Trump’s wrath and is facing political fallout at home.
+* 哥伦比亚总统古斯塔沃·佩特罗（ Gustavo Petro ）从他的游击队根源出发，长期以来一直采取对抗性风格。现在，他招致了特朗普总统的愤怒，并面临着国内的政治影响。
+
+## New York Times United States News
+* High-ranking inmates known as trusties were ordered to do guards’ bidding, former inmates and guards said, and the culture of violence in the jail went straight to the top.
+* 前囚犯和警卫说，被称为受托人的高级囚犯被命令听从警卫的命令，监狱中的暴力文化直接进入了最高层。
+* President Trump has been dining with billionaires and has taken a keen interest in crises overseas, leading to fears that he is drifting away from his more populist stances.
+* 特朗普总统一直在与亿万富翁共进晚餐，并对海外危机产生了浓厚的兴趣，导致人们担心他正在偏离自己的民粹主义立场。
+* A routine reminder about holiday lights touched off a spirited debate about rules, joy and what it means to make a home when life is always in motion.
+* 关于节日灯光的例行提醒引发了一场关于规则、快乐以及在生活始终处于运动状态时创造一个家意味着什么的激烈辩论。
+* Representative Eric Swalwell, a Democrat, said he would not back down from his criticism of President Trump, and denied wrongdoing.
+* 民主党众议员埃里克·斯沃尔韦尔(Eric Swalwell)表示，他不会放弃对特朗普总统的批评，并否认有不当行为。
+* Some recipients have seen their benefits return but are worried they could still be taken away. Others wonder whether the funding could be stopped again at some point.
+* 一些领取者已经看到他们的福利回归，但担心他们仍然可能被带走。其他人怀疑这笔资金是否会在某个时候再次停止。
+* The employee, Dr. Jenna Norton, was a key organizer of “The Bethesda Declaration,” a scathing public letter issued in June to Dr. Jay Bhattacharya, the N.I.H. director.
+* 该员工珍娜·诺顿（ Jenna Norton ）博士是《贝塞斯达宣言》（ The Bethesda Declaration ）的主要组织者，该宣言是6月份向NIH主任杰伊·巴塔查里亚（ Jay Bhattacharya ）博士发出的一封严厉的公开信。
+* A House investigation that the G.O.P. has tried to use to deflect calls for more transparency has yielded striking revelations that have only fueled the Epstein saga.
+* 共和党试图利用众议院的调查来转移提高透明度的呼声，这引发了引人注目的启示，只会助长爱泼斯坦传奇。
+* The Pack fire has grown to 3,400 acres amid high winds, but a coming winter storm might help firefighters control the blaze.
+* 在大风中， Pack大火已扩大到3,400英亩，但即将到来的冬季风暴可能有助于消防员控制大火。
+* A humpback whale known to locals since 2004 was found dead on Nov. 8. Vessel collisions have become a major threat to humpback whales in the region.
+* 11月8日，当地人自2004年以来就知道的一头座头鲸被发现死亡。船只碰撞已成为该地区座头鲸的主要威胁。
+* The coaching fixture John Beam was gravely wounded in a shooting at Laney College in Oakland, Calif., a commuter school where he is athletic director, according to a city councilman.
+* 一位市议员表示，教练John Beam在加利福尼亚州奥克兰的Laney学院枪击事件中严重受伤，这是一所通勤学校，他是该校的体育主管。
+
+## New York Times Asia News
+* Early results suggested a sweep for the ruling coalition in a state where the opposition claimed foul play over an exercise that deleted millions of voters.
+* 早期的结果表明，在一个反对派声称对数百万选民的演习犯规的州，执政联盟将被扫地出门。
+* Some law enforcement officials say they think organized crime rings from South America, in particular from Colombia, are responsible for the crime sprees.
+* 一些执法官员表示，他们认为来自南美洲，特别是哥伦比亚的有组织犯罪集团应对犯罪狂潮负责。
+* The company claimed that A.I. did most of the hacking with limited human input and said it was a rapid escalation of the technology’s use in cybercrime.
+* 该公司声称，人工智能以有限的人力投入进行了大部分黑客攻击，并表示这是该技术在网络犯罪中的使用的迅速升级。
+* As many elite colleges struggle to adapt to the technology, the nation’s most prestigious universities said dozens of students used artificial intelligence tools to cheat.
+* 由于许多精英大学都在努力适应这项技术，美国最负盛名的大学表示，数十名学生使用人工智能工具进行作弊。
+* Companies are offering much-needed, but expensive, air purification systems to shelter from the smog in one of the world’s most polluted cities.
+* 公司正在提供急需的但昂贵的空气净化系统，以抵御世界上污染最严重的城市之一的雾霾。
+* Fewer women in South Korea are reporting workplace harassment, but those who do say their claims are often not taken seriously or handled sensitively.
+* 韩国举报工作场所骚扰的女性人数较少，但那些表示她们的申诉往往没有得到认真对待或敏感处理。
+* A Pentagon intelligence report says China could try to acquire advanced F-35 technology in Saudi Arabia if the Trump administration sells jets to the kingdom.
+* 五角大楼的一份情报报告称，如果特朗普政府向沙特阿拉伯出售喷气式飞机，中国可能会试图在沙特阿拉伯获得先进的F-35技术。
+* The State Department has reissued visas for many workers detained in a September raid, lawyers said, as the Trump administration tries to undo damage from the operation.
+* 律师们表示，美国国务院已为9月份突袭行动中被拘留的许多工人重新签发了签证，因为特朗普政府试图消除这次行动造成的损害。
+* A protégé of Ferdinand Marcos, he helped administer martial law for eight years before turning on his patron in the “People Power” uprising of 1986.
+* 作为费迪南德·马科斯（ Ferdinand Marcos ）的门徒，他帮助实施了八年的戒严，然后在1986年的“人民力量”起义中背叛了他的赞助人。
+* While crowds flock to Koh Samui with its five-star resorts and thong-thronged beaches, Koh Lan, within two hours of Bangkok, offers an alternative.
+* 人群涌向苏梅岛（ Koh Samui ） ，那里有五星级度假村和拥挤的海滩，而距离曼谷不到两小时的兰岛（ Koh Lan ）则提供了另一种选择。
 
