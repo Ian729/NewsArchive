@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* The town looks straight out of the Wild West, with saloons, sheriffs and cowboy hats galore, but in this endangered patch of the American frontier, everyone is speaking German.
+* 这个小镇看起来像狂野的西部，有很多轿车、治安官和牛仔帽，但在这片濒临灭绝的美国边境地区，每个人都在说德语。
+* A U.S. government cable said that Kremlin-run outlets had scaled up their efforts across Latin America, seeking to turn people against the United States and garner support for Russia.
+* 美国政府的一份电报称，克里姆林宫经营的网点已经扩大了在拉丁美洲的努力，试图让人们反对美国，并赢得对俄罗斯的支持。
+* The announcement on Sunday, which was light on details, came weeks before a similar action takes effect in Australia.
+* 周日的公告细节不多，是在类似行动在澳大利亚生效前几周发布的。
+* Col. Andrei Demurenko’s war story began at Fort Leavenworth, Kan., at a moment of hope and peace. It ended with a mortar blast in Ukraine.
+* 安德烈·德穆连科（ Andrei Demurenko ）上校的战争故事始于堪萨斯州莱文沃思堡（ Fort Leavenworth ） ，那是一个充满希望与和平它以乌克兰的迫击炮爆炸而告终。
+* President Trump lashed out at Ukraine even as the talks on his peace proposal were still taking place, accusing the country’s leadership of being ungrateful for American support.
+* 特朗普总统猛烈抨击乌克兰，尽管他的和平建议的谈判仍在进行，指责该国领导层忘记了美国的支持。
+* With the United States boycotting the summit, other nations sought to strike new deals, and some took a tougher tone with President Trump.
+* 随着美国抵制峰会，其他国家试图达成新的协议，一些国家对特朗普总统采取了更强硬的态度。
 * Russia is remaking Mariupol, which was devastated by a brutal siege in 2022. Ukrainians seeking to move back are finding it hard to recognize the city, or to reclaim their property.
 * 俄罗斯正在改造马里乌波尔（ Mariupol ） ，它在2022年被残酷的围困所摧毁。寻求回归的乌克兰人发现很难认出这座城市，也很难收回自己的财产。
-* The arrest came days before the former president was expected to be ordered to begin a 27-year prison sentence for staging a failed coup.
-* 逮捕发生在这位前总统因发动政变失败而被判处27年徒刑的前几天。
-* Russian missiles hit apartment buildings in Ternopil this week, far from the war’s front line. Dozens of civilians, including children, were killed.
-* 本周，俄罗斯导弹袭击了捷尔诺波尔的公寓楼，远离战争前线。包括儿童在内的数十名平民被杀害。
-* The national team’s success in landing a World Cup slot gave Haitians around the world a momentary reprieve from their country’s deep crises.
-* 国家队成功获得世界杯席位，使世界各地的海地人暂时摆脱了国家的深刻危机。
-* Violence has repeatedly flared up in the weeks since a cease-fire was reached, killing hundreds of Palestinians and at least three Israeli soldiers.
-* 自停火达成以来的几周内，暴力事件一再爆发，造成数百名巴勒斯坦人和至少三名以色列士兵死亡。
-* In a joint statement, the leaders reaffirmed their commitment to Ukraine, which faces the prospect of losing American support if it rejects the latest proposal.
-* 在一份联合声明中，领导人重申了他们对乌克兰的承诺，乌克兰如果拒绝最新提案，将面临失去美国支持的前景。
-* An audacious effort joined two disparate communities, who say they all suffer from the staggering violence and crime affecting the country.
-* 两个截然不同的社区进行了大胆的努力，他们说他们都遭受了影响该国的惊人暴力和犯罪。
-* The Rev. Numa Molina, a Jesuit priest, has championed the poor for decades. Now, he is a power broker and a confidant of Venezuela’s embattled president, Nicolás Maduro.
-* 耶稣会牧师努马·莫利纳（ Numa Molina ）牧师几十年来一直支持穷人。现在，他是一名权力经纪人，也是委内瑞拉陷入困境的总统尼古拉斯·马杜罗（ Nicolás Maduro ）的知己。
-* More young people are steering clear of alcohol. The deepening cultural shift has spawned an epidemic of brewery closures.
-* 越来越多的年轻人开始远离酒精。不断深化的文化转变引发了啤酒厂关闭的流行。
-* President Trump is pressing Kyiv to accept an outcome that yields to President Vladimir V. Putin’s demands.
-* 特朗普总统正在敦促基辅接受符合弗拉基米尔· V ·普京总统要求的结果。
+* Shortly before he was expected to start serving a 27-year sentence, Brazil’s former president took a soldering iron to his tracking device.
+* 预计他将开始服刑27年之前不久，巴西前总统将烙铁放在他的追踪装置上。
+* Like other European leaders, British Labour politicians are borrowing from Denmark’s restrictive asylum policy. One of its architects cautions that “balance” is necessary.
+* 与其他欧洲领导人一样，英国工党政客正在借鉴丹麦的限制性庇护政策。它的一位架构师警告说， “平衡”是必要的。
+* Over nearly four years of wartime leadership, analysts say the Ukrainian leader has repeatedly played weak hands wisely. A U.S. peace plan may be his biggest test.
+* 分析人士表示，在近四年的战时领导中，乌克兰领导人一再明智地发挥软弱的作用。美国的和平计划可能是他最大的考验。
 
 ## New York Times United States News
-* Students and alumni set aside rivalries at the 141st Harvard-Yale football game on Saturday to summon support against attacks on higher education under the Trump administration.
-* 在周六举行的第141届哈佛-耶鲁大学橄榄球比赛中，学生和校友们放弃了竞争，呼吁支持特朗普政府对高等教育的攻击。
-* The president has made misleading statements about the cost of a Thanksgiving meal, breakfast and gasoline and about prices in general.
-* 总统对感恩节膳食、早餐和汽油的成本以及总体价格做出了误导性陈述。
-* The indictment of Gov. Gavin Newsom’s former chief of staff shocked many power players in California. Now, some wonder how far the investigation will spread.
-* 对加州州长加文·纽瑟姆（ Gavin Newsom ）的前参谋长的起诉震惊了加利福尼亚州的许多电力玩家。现在，有些人想知道调查会传播多远。
-* Tensions over right-wing antisemitism have burst to the forefront of Republican politics, and show signs of becoming a fierce point of contention in the midterms and beyond.
-* 右翼反犹太主义的紧张局势已经突然成为共和党政治的最前沿，并显示出在中期及以后成为激烈争论点的迹象。
-* Thousands of undocumented workers rely on fraudulent Social Security numbers. One of them belonged to Dan Kluver.
-* 成千上万的无证工人依靠伪造的社会安全号码。其中一个是丹·克鲁弗的。
-* The F.B.I. director’s travel on government jets has contributed to growing questions inside the administration about whether he is using taxpayer-funded resources inappropriately.
-* 这位联邦调查局局长乘坐公务机出行，导致政府内部越来越多地质疑他是否不当使用纳税人资助的资源。
-* Ms. Greene’s resignation blindsided her conservative Georgia district, which had stuck by her through ups and downs, including her split with the president.
-* 格林女士的辞职蒙蔽了她保守的佐治亚州选区，该选区经历了起起落落，包括她与总统的分裂。
-* Tatiana Schlossberg, a daughter of Caroline Kennedy, revealed a terminal cancer diagnosis in an essay published on the anniversary of her grandfather’s assassination.
-* 卡罗琳·肯尼迪（ Caroline Kennedy ）的女儿塔蒂亚娜·施洛斯伯格（ Tatiana Schlossberg ）在祖父遇刺周年纪念日发表的一篇文章中透露了晚期癌症的诊断。
-* The men, who planned to recruit homeless people for the invasion, took Haitian Creole classes and one enrolled in the U.S. Air Force to prepare for an attack by sailboat, prosecutors said.
-* 检察官说，这些计划招募无家可归者入侵的男子参加了海地克里奥尔语课程，其中一人参加了美国空军，为帆船的袭击做准备。
-* The Georgia congresswoman strove to be both the ultimate Trump warrior and to be taken seriously. She wound up in political exile.
-* 这位佐治亚州女议员努力成为特朗普的终极战士，并受到严肃对待。她最终成为政治流亡者。
+* After Oakland, Calif., reneged on a contract allowing coal shipments, a Kentucky company went under. Courts say the city must now pay hundreds of millions of dollars.
+* 在加利福尼亚州奥克兰违反允许煤炭运输的合同后，肯塔基州的一家公司倒闭了。法院表示，该市现在必须支付数亿美元。
+* Col. Andrei Demurenko’s war story began at Fort Leavenworth, Kan., at a moment of hope and peace. It ended with a mortar blast in Ukraine.
+* 安德烈·德穆连科（ Andrei Demurenko ）上校的战争故事始于堪萨斯州莱文沃思堡（ Fort Leavenworth ） ，那是一个充满希望与和平它以乌克兰的迫击炮爆炸而告终。
+* The San Quentin Giants’ opponents are impressed. But what about the parole board that decides the players’ fate?
+* 圣昆汀巨人队的对手给人留下了深刻的印象。但决定球员命运的假释委员会呢？
+* A new set of billionaires with an interest in higher education has helped oust college presidents and even assisted the Trump administration in its effort to overhaul the industry.
+* 一群对高等教育感兴趣的新亿万富翁帮助推翻了大学校长，甚至协助特朗普政府努力改革该行业。
+* Online sleuths quickly found that some accounts posting about U.S. politics, including those in support of the MAGA movement, appeared not to be based in the United States.
+* 在线侦探很快发现，一些关于美国政治的账户，包括那些支持MAGA运动的账户，似乎并不在美国。
+* A charismatic orator in the 1960s, he called for armed resistance to white oppression. As a Muslim cleric, he was convicted of murder in 2000 and died in detention.
+* 作为20世纪60年代魅力十足的演说家，他呼吁对白人压迫进行武装抵抗。作为一名穆斯林神职人员，他于2000年被判犯有谋杀罪，并在拘留期间死亡。
+* The woman, Morgan Geyser, was taken into custody a day after she left a group home in Wisconsin. The police said she cut off a monitoring bracelet.
+* 这名女子摩根·间歇泉（ Morgan Geyser ）在离开威斯康星州的一个集体住所后一天被拘留。警方说，她切断了一个监控手镯。
+* The former anchor, Stephanie Hockridge, who once worked for a Phoenix station, participated in an elaborate scheme that illegally obtained more than $63 million, prosecutors said.
+* 检察官说，前主播斯蒂芬妮·霍克里奇（ Stephanie Hockridge ）曾在凤凰城车站工作，她参与了一项精心策划的计划，非法获得了超过6300万美元的$。
+* Gen. Dan Caine is making the trip as President Trump is said to have approved plans for covert action in Venezuela.
+* 据说特朗普总统批准了在委内瑞拉采取秘密行动的计划，丹·凯恩将军正在进行这次访问。
+* A female crash-test dummy to replace an outdated model largely based on male proportions would improve safety for women, who face higher fatality and injury risks on the road, officials said.
+* 官员说，女性碰撞测试假人取代主要基于男性比例的过时模型将提高女性的安全性，女性在道路上面临更高的死亡和受伤风险。
 
 ## New York Times Asia News
+* Scientists suggested that climate change could make central Vietnam a global hot spot for destructive storms. This year has seemed to prove the point.
+* 科学家们认为，气候变化可能使越南中部成为破坏性风暴的全球热点。今年似乎证明了这一点。
+* The announcement on Sunday, which was light on details, came weeks before a similar action takes effect in Australia.
+* 周日的公告细节不多，是在类似行动在澳大利亚生效前几周发布的。
+* He reimagined “Once Were Warriors,” a novel about a Maori family, as a film that became a worldwide phenomenon. He went on to direct Hollywood movies.
+* 他将一部关于毛利家庭的小说《曾经是战士》（ Once Were Warriors ）重新构想为一部成为全球现象的电影。他继续执导好莱坞电影。
 * The watch belonged to Isidor Straus, a co-owner of Macy’s who was traveling first class on the Titanic with his wife when it sank in April 1912.
 * 这款腕表属于伊西多·斯特劳斯（ Isidor Straus ） ，他是梅西百货（ Macy's ）的共同所有者， 1912年4月泰坦尼克号沉没时，他和妻子一起乘坐头等舱。
 * Residents and visitors from all over give the city a diverse visual flavor.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * Fátima Bosch于周五在泰国加冕。本月比赛开局艰难，她在被组织者斥责后短暂退出。
 * As some lawmakers press U.S. universities to curtail ties with China, a postdoctoral student’s prosecution raises questions about how big the danger actually is.
 * 随着一些立法者敦促美国大学削减与中国的关系，博士后学生的起诉引发了人们对这种危险实际上有多大的疑问。
-* After stocks briefly rallied on Nvidia’s strong earnings, investors’ growing concerns of an A.I. bubble have returned, driving broad market swings.
-* 在英伟达的强劲盈利短暂反弹之后，投资者对人工智能泡沫日益增长的担忧又回来了，推动了广泛的市场波动。
-* A winner will be crowned after two weeks of competition marred by controversy.
-* 经过两周的争议，优胜者将获得加冕。
-* Howard Lutnick is helping push data center projects. His family companies are profiting from them.
-* Howard Lutnick正在帮助推动数据中心项目。他的家族公司正在从中获利。
 
