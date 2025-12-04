@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Trump’s threat of military action has confronted President Nicolás Maduro of Venezuela with the gravest challenge of his crisis-ridden reign.
-* 特朗普总统的军事行动威胁使委内瑞拉总统尼古拉斯·马杜罗（ Nicolás Maduro ）面临着危机四伏的统治的最严峻挑战。
-* Images of the destruction caused by storms that have torn through South and Southeast Asia.
-* 肆虐南亚和东南亚的风暴造成的破坏的图像。
-* A waterfront Mass in the Lebanese capital capped the pope’s three-day visit to the Middle Eastern nation with the largest proportion of Christians.
-* 在黎巴嫩首都举行的海滨弥撒限制了教皇对中东国家为期三天的访问，这个国家的基督徒比例最大。
-* President Ferdinand R. Marcos Jr. is under fire for an enormous graft scandal that is unfolding under his watch. One prominent voice is his sister Senator Imee Marcos.
-* 小费迪南德· R ·马科斯（ Ferdinand R. Marcos Jr. ）总统因在他的监督下正在发生的巨大的贪污丑闻而受到抨击。一个突出的声音是他的妹妹参议员伊米·马科斯。
-* The two sides did not reach any specific compromises, an aide to President Vladimir V. Putin said, as the United States pushes a plan to end the war in Ukraine.
-* 弗拉基米尔· V ·普京（ Vladimir V. Putin ）总统的助手表示，在美国推动结束乌克兰战争的计划时，双方没有达成任何具体的妥协。
-* Many Filipinos say floods are worse than ever — and now, the government has admitted that vast sums were embezzled from a program meant to fight the problem.
-* 许多菲律宾人说，洪水比以往任何时候都更严重--现在，政府承认，从旨在解决这一问题的计划中挪用了巨额资金。
-* Unusually destructive storms have killed at least 1,350 people across the region and displaced millions in South and Southeast Asia.
-* 该地区至少有1,350人丧生，南亚和东南亚数百万人流离失所。
-* A diplomatic row with Japan over Taiwan has China turning to Britain and France for support, appealing to their shared history as wartime allies.
-* 与日本在台湾问题上的外交争端使中国转向英国和法国寻求支持，呼吁他们作为战时盟友的共同历史。
-* Honduras was on edge after tallies showed two candidates separated by about 500 votes. Then President Trump claimed that officials were rigging results.
-* 在统计显示两名候选人以约500票分开后，洪都拉斯陷入困境。然后，特朗普总统声称官员们正在操纵结果。
-* Young people across Iran have been leading a dramatic change in social mores in recent months. “We have a fearless young generation that is breaking taboos.”
-* 近几个月来，伊朗各地的年轻人一直在引领社会习俗的巨大变化。“我们有无所畏惧的年轻一代，他们正在打破禁忌。”
+* The Israeli government authorized 22 settlements in May, the largest expansion in decades, and Palestinian families are now being forced from their homes.
+* 5月，以色列政府批准了22个定居点，这是几十年来最大规模的扩张，巴勒斯坦家庭现在被迫离开家园。
+* She says Taiwan must embrace its Chinese heritage to avoid war. Her critics say she wants to steer the island into Beijing’s orbit.
+* 她说，台湾必须接受中国的传统，以避免战争。她的批评者说，她想把这个岛屿引入北京的轨道。
+* President William Ruto faces pressure after a Times investigation showed that his government downplayed or ignored the mistreatment of women working in Saudi Arabia.
+* 《纽约时报》的一项调查显示，鲁托总统的政府淡化或忽视了在沙特阿拉伯工作的妇女受到的虐待，此后，鲁托总统面临着压力。
+* The government presents its migrant policy as a welcoming alternative to U.S. crackdowns. But activists say those arriving on boats from Africa are excluded from that embrace.
+* 政府将其移民政策作为美国镇压的热情替代方案。但活动人士表示，那些从非洲乘船抵达的人被排除在这种拥抱之外。
+* The president will meet with the leaders of Rwanda and the Democratic Republic of Congo to advance a deal meant to end a long war in eastern Congo.
+* 总统将与卢旺达和刚果民主共和国领导人会面，以推进旨在结束刚果东部长期战争的协议。
+* The Trump administration, which crippled Russia’s oil sales to India with sanctions, will be watching Mr. Putin’s talks with Prime Minister Narendra Modi.
+* 特朗普政府通过制裁削弱了俄罗斯对印度的石油销售，将观看普京与总理纳伦德拉·莫迪(Narendra Modi)的会谈。
+* As President Emmanuel Macron of France visited China, its leader, Xi Jinping, said his country would play a constructive role in ending the fighting.
+* 法国总统埃马纽埃尔·马克龙（ Emmanuel Macron ）访问中国时，其领导人习近平表示，他的国家将在结束战斗中发挥建设性作用。
+* The militant group took more than 250 hostages from Israel on Oct. 7, 2023, including 31 from Thailand. The remains of all but one other hostage, an Israeli, have been recovered.
+* 2023年10月7日，激进组织从以色列劫持了250多名人质，其中31名来自泰国。除了一名以色列人质外，其他所有人质的遗体都已找到。
+* Israel had agreed to open the Rafah crossing as part of the October cease-fire deal with Hamas but kept it closed. Egypt denied that the border would reopen soon.
+* 作为10月与哈马斯达成的停火协议的一部分，以色列已同意开放拉法过境点，但仍将其关闭。埃及否认边境将很快重新开放。
+* Shop owners say the thieves who took 990 pounds of snails must have been escargot cognoscenti.
+* 商店老板说，偷了990磅蜗牛的窃贼一定是Escargot Cognoscenti。
 
 ## New York Times United States News
-* The three being targeted are Senators John Fetterman, Maggie Hassan and Angus King, an independent who caucuses with Democrats. None are up for re-election next year.
-* 三名目标分别是参议员约翰·费特曼（ John Fetterman ）、玛吉·哈桑（ Maggie Hassan ）和独立人士安格斯·金（ Angus King ） ，他们与民主党人明年没有人参加连任。
-* Treasury Secretary Scott Bessent, who is leading the search for the next Federal Reserve chair, could face President Trump’s wrath if the person chosen does not quickly lower interest rates.
-* 正在领导寻找下一任美联储主席的财政部长斯科特·贝森特（ Scott Bessent ）可能面临特朗普总统的愤怒，如果被选中的人不迅速降低利率。
-* President Trump promised a deal last summer. Other universities have agreed to pay millions to settle with the federal government since then, but Harvard, which was asked to pay much more, has not.
-* 特朗普总统去年夏天承诺达成协议。从那时起，其他大学已同意支付数百万美元与联邦政府和解，但被要求支付更多费用的哈佛大学却没有。
-* Kenner, a suburb of New Orleans, has been transformed by an infusion of newcomers. Immigrants there have been on edge all year, particularly in recent weeks.
-* 肯纳（ Kenner ）是新奥尔良的郊区，已经被新移民的注入所改变。那里的移民全年都在紧张，尤其是在最近几周。
-* Arrested after violating an ordinance on demonstrations outside an amphitheater in Brandon, Miss., Gabriel Olivier wants to block future enforcement of the law.
-* 在违反密西西比州布兰登市圆形剧场外示威条例后被捕。，加布里埃尔·奥利维尔（ Gabriel Olivier ）希望阻止未来执法。
-* William Hendrix wanted a life in politics. He found it, with the Young Republicans.
-* 威廉·亨德里克斯想过政治生活。他和年轻的共和党人一起找到了它。
-* The judge found that immigration agents were likely acting illegally when making arrests without a warrant.
-* 法官发现，移民代理人在没有逮捕令的情况下进行逮捕时可能是非法行为。
-* The push to close the offices appears to contradict a federal judge’s order from April, which required Trump officials to resume operations at V.O.A.
-* 关闭办公室的努力似乎与联邦法官4月份的命令相矛盾，该命令要求特朗普官员恢复在V.O.A.的业务。
-* Matt Van Epps fended off a Democrat to protect Republicans’ slim House majority, but the relatively close margin in a red district sent the party a warning shot before the 2026 midterms.
-* 马特·范·埃普斯（ Matt Van Epps ）击败了民主党人，以保护共和党在众议院的微弱多数，但红色选区的相对接近利润率在2026年中期选举之前向该党发出了警告。
-* Officials told staff members at two student-run publications, called Nineteen Fifty-Six and Alice, that they were not compliant with Attorney General Pam Bondi’s memo on diversity programs.
-* 官员告诉两家学生经营的出版物《一九五六》和《爱丽丝》的工作人员，他们不遵守司法部长帕姆·邦迪（ Pam Bondi ）关于多元化计划的备忘录。
+* The president will meet with the leaders of Rwanda and the Democratic Republic of Congo to advance a deal meant to end a long war in eastern Congo.
+* 总统将与卢旺达和刚果民主共和国领导人会面，以推进旨在结束刚果东部长期战争的协议。
+* Bipartisan congressional oversight is underway, but for now is focusing on narrow details about one missile instead of broader legal issues.
+* 两党的国会监督正在进行中，但目前专注于有关一枚导弹的狭隘细节，而不是更广泛的法律问题。
+* More than a year before the Trump administration granted asylum to the Afghan immigrant, the volunteer’s emails raised concerns that he was unraveling.
+* 在特朗普政府向这名阿富汗移民提供庇护一年多之前，这名志愿者的电子邮件引发了人们的担忧。
+* The health secretary has walled himself off from government scientists and empowered fellow activists to pursue his vaccine agenda.
+* 卫生部长将自己与政府科学家隔离开来，并授权其他活动家追求他的疫苗议程。
+* Mr. Lew is a veteran police officer whose experience includes major operations against drug dealing.
+* Lew先生是一名经验丰富的警官，他的经验包括打击毒品交易的重大行动。
+* This summer, Trump administration officials had lauded the indictment of Timothy J. Leiweke as an effort to root out corruption and unfair business practices.
+* 今年夏天，特朗普政府官员称赞对蒂莫西· J ·莱维克（ Timothy J. Leiweke ）的起诉是为了根除腐败和不公平的商业行为。
+* The volunteer is facing one count of manslaughter after he tried to confront a man who was carrying an AR-15 style rifle at the Salt Lake City event in June.
+* 这名志愿者在6月份的盐湖城活动中试图与一名携带AR-15式步枪的男子对峙后，面临一项过失杀人罪。
+* Workers installed the president’s name on the Washington institute, thrusting it back into the spotlight as it is set to host the signing of a peace deal between Rwanda and Congo.
+* 工人们将总统的名字印在华盛顿研究所上，使其重新成为人们关注的焦点，因为它将主持卢旺达与刚果之间的和平协议的签署。
+* Brad Parscale advised the campaign of Nasry Asfura, a right-wing candidate who was endorsed by the U.S. president.
+* 布拉德·帕斯卡尔（ Brad Parscale ）为右翼候选人纳斯里·阿斯福拉（ Nasry Asfura ）的竞选提供咨询，他得到了美国总统的支
+* The president wanted Moscow and Kyiv to come to terms by Thanksgiving. Negotiations are now stalled, leaving the White House to decide if an agreement is possible anytime soon.
+* 总统希望莫斯科和基辅在感恩节前达成协议。谈判现在陷入僵局，让白宫决定是否可能很快达成协议。
 
 ## New York Times Asia News
-* The authorities quickly arrested critics demanding accountability, signaling an expansive use of the security law to silence dissent over nonpolitical tragedies.
-* 当局迅速逮捕了要求问责的批评者，这标志着广泛使用安全法来压制对非政治悲剧的异议。
-* President Lee Jae Myung reaffirmed wanting to build nuclear-powered submarines at home, despite President Trump’s suggestion that they be built in the United States.
-* 尽管特朗普总统建议在美国建造核动力潜艇，但李在明总统重申希望在国内建造核动力潜艇。
-* The stepped-up enforcement comes as the Trump administration has also moved to reassess the vetting of Afghans who came to the country under the Biden administration.
-* 加大执法力度之际，特朗普政府也开始重新评估对在拜登政府下来到该国的阿富汗人的审查。
-* The authorities arrested four people this week in the latest turn in the country’s effort to stop exploitative recordings.
-* 当局本周逮捕了四人，这是该国努力阻止剥削性录音的最新转折。
-* Images of the destruction caused by storms that have torn through South and Southeast Asia.
-* 肆虐南亚和东南亚的风暴造成的破坏的图像。
-* Many Filipinos say floods are worse than ever — and now, the government has admitted that vast sums were embezzled from a program meant to fight the problem.
-* 许多菲律宾人说，洪水比以往任何时候都更严重--现在，政府承认，从旨在解决这一问题的计划中挪用了巨额资金。
-* President Ferdinand R. Marcos Jr. is under fire for an enormous graft scandal that is unfolding under his watch. One prominent voice is his sister Senator Imee Marcos.
-* 小费迪南德· R ·马科斯（ Ferdinand R. Marcos Jr. ）总统因在他的监督下正在发生的巨大的贪污丑闻而受到抨击。一个突出的声音是他的妹妹参议员伊米·马科斯。
-* We asked readers for their questions for The Times’s executive editor about how we cover the news and make judgment calls in our reporting and editing.
-* 我们向《泰晤士报》执行编辑询问了读者关于我们如何报道新闻以及如何在报道和编辑中做出判断的问题。
-* A diplomatic row with Japan over Taiwan has China turning to Britain and France for support, appealing to their shared history as wartime allies.
-* 与日本在台湾问题上的外交争端使中国转向英国和法国寻求支持，呼吁他们作为战时盟友的共同历史。
-* Unusually destructive storms have killed at least 1,350 people across the region and displaced millions in South and Southeast Asia.
-* 该地区至少有1,350人丧生，南亚和东南亚数百万人流离失所。
+* Officials estimate the damage runs into billions of dollars, a headache for the island nation just recovering from an economic crash.
+* 官员们估计损失高达数十亿美元，这对这个刚刚从经济崩溃中恢复过来的岛国来说是一个令人头疼的问题。
+* As President Emmanuel Macron of France visited China, its leader, Xi Jinping, said his country would play a constructive role in ending the fighting.
+* 法国总统埃马纽埃尔·马克龙（ Emmanuel Macron ）访问中国时，其领导人习近平表示，他的国家将在结束战斗中发挥建设性作用。
+* The success of efforts to turn Phoenix into a dominant center of semiconductor manufacturing may hinge on efforts to train local workers.
+* 将凤凰城变成半导体制造业主导中心的努力能否成功，可能取决于培训当地工人的努力。
+* The transformation of Phoenix into a semiconductor hub by Taiwan’s TSMC illustrates the difficulties of large-scale projects in the United States.
+* 台湾台积电将凤凰城改造成半导体枢纽，说明了美国大型项目的困难。
+* Skilled workers from Taiwan engaged in the chip industry have found ways to ease the transition to America while making an imprint on Greater Phoenix.
+* 来自台湾从事芯片行业的技术工人已经找到了缓解向美国过渡的方法，同时在大凤凰城留下了印记。
+* The militant group took more than 250 hostages from Israel on Oct. 7, 2023, including 31 from Thailand. The remains of all but one other hostage, an Israeli, have been recovered.
+* 2023年10月7日，激进组织从以色列劫持了250多名人质，其中31名来自泰国。除了一名以色列人质外，其他所有人质的遗体都已找到。
+* She says Taiwan must embrace its Chinese heritage to avoid war. Her critics say she wants to steer the island into Beijing’s orbit.
+* 她说，台湾必须接受中国的传统，以避免战争。她的批评者说，她想把这个岛屿引入北京的轨道。
+* The Trump administration, which crippled Russia’s oil sales to India with sanctions, will be watching Mr. Putin’s talks with Prime Minister Narendra Modi.
+* 特朗普政府通过制裁削弱了俄罗斯对印度的石油销售，将观看普京与总理纳伦德拉·莫迪(Narendra Modi)的会谈。
+* In a sign of China’s role in the city, officials have tried to stamp out calls for accountability over a catastrophe that killed at least 159 people.
+* 作为中国在该市发挥作用的一个标志，官员们试图扼杀对一场造成至少159人死亡的灾难追究责任的呼吁。
+* Many logs became forces of destruction in Indonesia last week, in a sign that deforestation compounded the devastation wrought by a cyclone.
+* 上周，许多原木成为印度尼西亚的破坏力量，这表明砍伐森林加剧了飓风造成的破坏。
 
