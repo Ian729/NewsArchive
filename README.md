@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* María Corina Machado, who spent over a year in hiding in Venezuela, greeted supporters in Oslo, hours after her daughter accepted the Nobel Peace Prize in her name.
-* 在委内瑞拉躲藏了一年多的玛丽亚·科里纳·马查多（ María Corina Machado ）在女儿以她的名义接受诺贝尔和平奖几个小时后，在奥斯陆迎接支持者。
+* Many understand the dance their leaders must perform to appease President Trump. But that doesn’t make them any less weary of the rounds and rounds of talks.
+* 许多人理解他们的领导人必须表演的舞蹈来安抚特朗普总统。但这并没有让他们对轮次和轮次的谈判感到厌倦。
+* The national soccer team made it to the knockout stages of the Arab Cup for the first time, uniting fans from Gaza to the West Bank to Cairo to Arab cities in Israel.
+* 国家足球队首次进入阿拉伯杯的淘汰赛阶段，将加沙、西岸、开罗和以色列的阿拉伯城市的球迷团结在一起。
+* Sunniva Gylver, the new Lutheran bishop of Norway’s largest diocese, is having success attracting younger worshipers while preaching an ancient message centered on justice.
+* 挪威最大教区的新任路德教主教Sunniva Gylver在宣讲以正义为中心的古老信息时，成功地吸引了年轻的崇拜者。
+* For China, President Trump’s moves to loosen chip controls, soften U.S. rhetoric and stay silent on tensions with Japan amount to a rare string of strategic gains.
+* 对中国来说，特朗普总统放松芯片管制、软化美国言论以及对与日本的紧张局势保持沉默的举动相当于一连串罕见的战略收益。
+* President Trump’s planned intervention comes as the hostilities entered their fifth day and appeared to escalate, and while Thailand moves toward early elections.
+* 特朗普总统计划进行干预之际，敌对行动已进入第五天并似乎升级，而泰国正朝着提前举行选举的方向迈进。
+* The company said the new law, which makes it illegal for children under 16 to have social media accounts, infringes on children’s rights.
+* 该公司表示，新法律规定16岁以下儿童拥有社交媒体账户是非法的，这侵犯了儿童的权利。
+* María Corina Machado reappeared on the global stage as the Trump administration ramped up its pressure campaign against President Nicolás Maduro.
+* 玛丽亚·科里纳·马查多（ María Corina Machado ）再次出现在全球舞台上，特朗普政府加大了对尼古拉斯·马杜罗（ Nicolás Maduro ）总统的
+* Many single moms and their children are trapped there. She was adamant that her daughter wouldn’t be among them.
+* 许多单身妈妈和他们的孩子被困在那里。她坚定地说，她的女儿不会在他们中间。
+* Critics say Syria’s fledgling government is hobbling military preparedness as it redoes the country’s forces from scratch.
+* 批评人士说，叙利亚刚刚起步的政府正在阻碍军事准备，因为它从头开始重组该国的军队。
 * King Juan Carlos I of Spain abdicated and left for exile years ago. Now, his attempted comeback is giving his family a royal headache.
 * 西班牙国王胡安·卡洛斯一世多年前退位并流亡。现在，他的复出尝试让他的家人感到头疼。
-* The tariffs will apply to goods from China and other nations. Washington has been pressuring Mexico to move away from dealing with China.
-* 关税将适用于来自中国和其他国家的商品。华盛顿一直在向墨西哥施压，要求其放弃与中国打交道。
-* The government faces a dilemma over what to do with civil-war-era prisons and detention camps that hold thousands of ISIS fighters and tens of thousands of their family members.
-* 政府面临着如何处理内战时期的监狱和拘留营的困境，这些监狱和拘留营关押着数千名伊斯兰国战士及其数万名家庭成员。
-* Europeans find themselves stranded between hostile powers, Russia and the United States, with key decisions looming over the future of Ukraine.
-* 欧洲人发现自己被困在俄罗斯和美国这两个敌对大国之间，关键的决定正笼罩着乌克兰的未来。
-* The former chief executive of Nexperia, a Dutch chipmaker, said Dutch officials had known for years that the company’s Chinese owner sought to move its technology to China.
-* 荷兰芯片制造商Nexperia的前首席执行官表示，荷兰官员多年来一直知道该公司的中国所有者试图将其技术转移到中国。
-* Thailand says ordnance replanted by Cambodia has injured or maimed more than a dozen of its soldiers. Cambodia rejects the accusation.
-* 泰国表示，柬埔寨重新种植的弹药已造成十几名士兵受伤或致残。柬埔寨拒绝接受这一指控。
-* The decision by María Corina Machado, the Venezuelan opposition leader, to emerge from hiding and leave the country has electrified her movement but carries political risks.
-* 委内瑞拉反对派领导人玛丽亚·科里纳·马查多（ María Corina Machado ）决定摆脱躲藏状态并离开该国，这使她的运动充满活力，但也带来了政治风险。
-* A new document cites Washington’s shifting strategic priorities and growing pressure on allies under President Trump as sources of uncertainty for Denmark.
-* 一份新文件指出，华盛顿不断变化的战略重点以及对特朗普总统领导下的盟友不断增加的压力是丹麦不确定性的来源。
-* The agency added dozens of nominees to its annual list of the world’s “intangible cultural heritage,” celebrating international customs and cuisine.
-* 该机构在其年度世界“非物质文化遗产”名单中增加了数十名被提名者，以庆祝国际习俗和美食。
 
 ## New York Times United States News
-* The typeface, the target of the State Department’s typographical about-face, has been entangled in politics before.
-* 字体是国务院印刷界的目标，此前一直与政治纠缠在一起。
-* The president continues to brush off an issue that he said he would solve in his first months in office. Some Democrats say he is making the same mistake as his predecessor.
-* 总统继续忽略一个他说他将在上任的头几个月内解决的问题。一些民主党人说，他正在犯与前任相同的错误。
-* President Trump wants a new congressional map in Indiana that would boost Republicans, but he has struggled to win over some state lawmakers in his party.
-* 特朗普总统希望在印第安纳州建立一张新的国会地图，这将提振共和党人，但他一直在努力赢得党内一些州议员的支持。
-* The response to an information request contradicted the administration’s public testimony and raised concerns that it may be trying to evade oversight.
-* 对信息请求的回应与政府的公开证词相矛盾，并引发了对政府可能试图逃避监督的担忧。
-* Federal agents outside an ICE detention facility in Eugene, Ore., had sought to enforce a new rule that prohibits “creating a loud or unusual noise” outside federal property.
-* 俄勒冈州尤金市ICE拘留设施外的联邦特工试图执行一项新规定，禁止在联邦财产外“制造噪音或异常噪音”。
-* The chair of the National Transportation Safety Board warned that a provision in the new defense bill would worsen the risk of midair collisions near the Washington-area airport where a deadly crash in January killed 67 people.
-* 国家运输安全委员会主席警告说，新国防法案中的一项规定将加剧华盛顿地区机场附近发生空中碰撞的风险， 1月份发生的致命事故造成67人死亡。
-* The ship has frequently carried oil from countries under U.S. sanctions, and its tracking data shows multiple recent trips to Iran and Venezuela.
-* 该船经常从受美国制裁的国家运送石油，其跟踪数据显示最近多次前往伊朗和委内瑞拉。
-* After nearly 11 months in office, the president’s tendency to talk about his predecessor is more pronounced than ever.
-* 在执政近11个月后，总统谈论其前任的倾向比以往任何时候都更加明显。
-* The legislation codifies President Trump’s agenda but includes a few measures challenging his policies and insisting on more consultation with Congress.
-* 该立法编纂了特朗普总统的议程，但包括一些挑战其政策并坚持与国会进行更多磋商的措施。
-* As 2028 takes shape, Democrats will face a version of the same dilemma.
-* 随着2028年的形成，民主党将面临同样的困境。
+* Troops who play a part in deadly missions that they see as wrong or unjustified may suffer deep psychological harm as a result, research has shown.
+* 研究表明，参与他们认为错误或不合理的致命任务的部队可能会因此遭受深刻的心理伤害。
+* For more than a decade, the Supreme Court’s conservative majority has chipped away at Congress’s power to insulate independent agencies from politics. Now, the court has signaled its willingness to expand presidential power once again.
+* 十多年来，最高法院的保守派多数已经削弱了国会将独立机构与政治隔离开来的权力。现在，法院已表示愿意再次扩大总统权力。
+* When teachers do assign whole books, they often choose from a stagnant list of classics.
+* 当教师分配整本书时，他们通常会从停滞不前的经典列表中进行选择。
+* The Department of Housing and Urban Development is investigating whether the city’s focus on affordable housing for people of color violated federal law.
+* 住房和城市发展部正在调查该市对有色人种经济适用房的关注是否违反了联邦法律。
+* The report concerns a video in which Senator Mark Kelly, a retired Navy captain, and five other Democratic lawmakers reminded military members of their obligation to refuse illegal orders.
+* 该报告涉及一段视频，其中退役海军上尉参议员马克·凯利（ Mark Kelly ）和其他五名民主党议员提醒军方成员他们有义务拒绝非法命令。
+* Tina Peters was sentenced for a Colorado state crime that the president has no ability to pardon. President Trump has no legal power to free her from prison.
+* 蒂娜·彼得斯（ Tina Peters ）因科罗拉多州的罪行被判刑，总统无力赦免。特朗普总统没有法律权力将她从监狱中释放出来。
+* Austin Dirks used a Garmin satellite device to reach emergency responders, who rescued him in a remote canyon in Arches National Park.
+* 奥斯汀·德克斯（ Austin Dirks ）使用佳明（ Garmin ）卫星设备联系了紧急救援人员，他们在拱门国家公园（ Arches National Park ）的一个偏远峡谷
+* President Trump’s failure to ram through a Republican-friendly House map was a new sign that his iron grip on the party has slipped, and was likely to reverberate nationally.
+* 特朗普总统未能通过共和党友好的众议院地图是一个新的迹象，表明他对该党的铁腕控制已经下滑，并可能在全国范围内引起反响。
+* The speaker has repeatedly lost his grip on the House floor thanks to a once rare parliamentary maneuver that G.O.P. members are increasingly using to force action on legislation.
+* 由于一度罕见的议会演习，议长一再失去对众议院的控制，共和党成员越来越多地利用这一演习来迫使立法行动。
+* The United States is escalating its pressure campaign on Venezuela’s leader, Nicolás Maduro, after seizing an oil tanker off the coast.
+* 美国正在加大对委内瑞拉领导人尼古拉斯·马杜罗（ Nicolás Maduro ）的施压力度，此前他在沿海扣押了一艘油轮。
 
 ## New York Times Asia News
+* Investment in manufacturing, infrastructure and property is expected to fall this year, a remarkable turn for an economy whose growth reshaped the world.
+* 今年制造业、基础设施和房地产投资预计将下降，这对一个经济增长重塑世界的经济体来说是一个显着的转变。
+* President Trump’s planned intervention comes as the hostilities entered their fifth day and appeared to escalate, and while Thailand moves toward early elections.
+* 特朗普总统计划进行干预之际，敌对行动已进入第五天并似乎升级，而泰国正朝着提前举行选举的方向迈进。
+* For China, President Trump’s moves to loosen chip controls, soften U.S. rhetoric and stay silent on tensions with Japan amount to a rare string of strategic gains.
+* 对中国来说，特朗普总统放松芯片管制、软化美国言论以及对与日本的紧张局势保持沉默的举动相当于一连串罕见的战略收益。
+* The company said the new law, which makes it illegal for children under 16 to have social media accounts, infringes on children’s rights.
+* 该公司表示，新法律规定16岁以下儿童拥有社交媒体账户是非法的，这侵犯了儿童的权利。
+* Governments are studying the decision to prohibit youths from using platforms like Facebook and TikTok as worries grow about the potential harm they cause.
+* 各国政府正在研究禁止青少年使用Facebook和TikTok等平台的决定，因为人们越来越担心它们造成的潜在伤害。
+* Lt. Gen. Faiz Hameed, an ally of the former prime minister, Imran Khan, once led Pakistan’s powerful Inter-Services Intelligence agency.
+* 前总理伊姆兰·汗（ Imran Khan ）的盟友法伊兹·哈米德（ Faiz Hameed ）中将曾领导巴基斯坦强大的三军情报局。
+* A tangle of problems at IndiGo, the dominant carrier, resulted in gridlocked airports across the country. Worse, it was the symptom of an even bigger problem.
+* 占主导地位的航空公司IndiGo存在一系列问题，导致全国各地的机场陷入僵局。更糟糕的是，这是一个更大问题的症状。
+* Japan’s government says that the chances of a magnitude 8 earthquake have increased. Scientists can’t predict when one will strike, but it represents a meaningful jump over typical odds.
+* 日本政府表示，发生8级地震的可能性有所增加。科学家无法预测一个人什么时候会罢工，但它代表了一个有意义的跳跃，超越了典型的几率。
 * The widening scope of the conflict between the two neighbors presents a challenge to President Trump’s tariff diplomacy, which he has brandished as a peacemaking tool.
 * 两个邻国之间冲突的范围不断扩大，这对特朗普总统的关税外交提出了挑战，他挥舞着关税外交作为缔造和平的工具。
 * Desperate to catch up with Chinese automakers, Ford is redesigning its fleet with a Silicon Valley-style team. Is it too late?
 * 福特迫切希望赶上中国汽车制造商，正在与硅谷风格的团队重新设计车队。是不是太迟了？
-* Thailand says ordnance replanted by Cambodia has injured or maimed more than a dozen of its soldiers. Cambodia rejects the accusation.
-* 泰国表示，柬埔寨重新种植的弹药已造成十几名士兵受伤或致残。柬埔寨拒绝接受这一指控。
-* Caught between Beijing and the Trump administration, the International Monetary Fund offered mild criticism of China for relying too heavily on exports.
-* 在北京和特朗普政府之间，国际货币基金组织对中国过度依赖出口提出了温和的批评。
-* Coupang said Park Dae-jun would step down to accept “grave responsibility” for the leak that exposed information on nearly 34 million customer accounts.
-* Coupang表示， Park Dae-jun将辞职，对泄露近3400万客户账户信息的泄露承担“重大责任”。
-* The decision by María Corina Machado, the Venezuelan opposition leader, to emerge from hiding and leave the country has electrified her movement but carries political risks.
-* 委内瑞拉反对派领导人玛丽亚·科里纳·马查多（ María Corina Machado ）决定摆脱躲藏状态并离开该国，这使她的运动充满活力，但也带来了政治风险。
-* The former chief executive of Nexperia, a Dutch chipmaker, said Dutch officials had known for years that the company’s Chinese owner sought to move its technology to China.
-* 荷兰芯片制造商Nexperia的前首席执行官表示，荷兰官员多年来一直知道该公司的中国所有者试图将其技术转移到中国。
-* An executive left TSMC for Intel. Taiwan’s government says that could threaten its national security.
-* 一位高管离开台积电，转投英特尔。台湾政府表示，这可能威胁到其国家安全。
-* The measure, which affects anyone under 16, is one of the most sweeping efforts in the world to safeguard young people from the potential harms of the platforms.
-* 这项措施影响到16岁以下的任何人，是世界上保护年轻人免受平台潜在危害的最广泛努力之一。
-* A pair strolling through Tokyo were dressed in outfits that incorporated special and sentimental pieces.
-* 一对在东京漫步的夫妇穿着特别而多愁善感的服装。
 
