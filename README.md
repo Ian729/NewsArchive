@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Ivan Urgant was an unstoppable Russian megastar. Then he expressed opposition to President Vladimir V. Putin’s invasion of Ukraine.
-* 伊万·乌尔甘特是一位势不可挡的俄罗斯巨星。然后，他表示反对弗拉基米尔· V ·普京总统入侵乌克兰。
-* The next steps for the president’s 20-point Gaza peace plan have been mired in uncertainty and a lack of detail, but that may be set to change. Here’s what to know.
-* 总统20点加沙和平计划的后续步骤陷入了不确定性和缺乏细节的困境，但这种情况可能会改变。以下是须知事项。
-* Security has become a top concern for voters across the region who are calling for iron-fisted measures. In Chile, the issue is pushing the country to the right.
-* 安全已成为该地区各地呼吁采取铁腕措施的选民的首要关切。在智利，这个问题正在将国家推向右边。
-* Kim Jong-un hugged the returning troops and awarded the country’s highest medal to nine soldiers killed in action.
-* 金正恩拥抱了回归的部队，并向在行动中阵亡的九名士兵颁发了该国最高勋章。
-* South Korea has a notoriously grueling college entrance exam. This year’s English portion was so difficult that it led to a resignation. Could you answer some of the questions correctly?
-* 众所周知，韩国的大学入学考试非常艰难。今年的英语部分非常困难，导致辞职。您能正确回答一些问题吗？
-* The conflict appeared to have continued unabated on Saturday morning, a day after President Trump said a cease-fire was supposed to have resumed.
-* 周六早上，在特朗普总统表示应该恢复停火的第二天，冲突似乎有增无减。
-* Many understand the dance their leaders must perform to appease President Trump. But that doesn’t make them any less weary of the rounds and rounds of talks.
-* 许多人理解他们的领导人必须表演的舞蹈来安抚特朗普总统。但这并没有让他们对轮次和轮次的谈判感到厌倦。
-* The national soccer team made it to the knockout stages of the Arab Cup for the first time, uniting fans from Gaza to the West Bank to Cairo to Arab cities in Israel.
-* 国家足球队首次进入阿拉伯杯的淘汰赛阶段，将加沙、西岸、开罗和以色列的阿拉伯城市的球迷团结在一起。
-* Sunniva Gylver, the new Lutheran bishop of Norway’s largest diocese, is having success attracting younger worshipers while preaching an ancient message centered on justice.
-* 挪威最大教区的新任路德教主教Sunniva Gylver在宣讲以正义为中心的古老信息时，成功地吸引了年轻的崇拜者。
-* For China, President Trump’s moves to loosen chip controls, soften U.S. rhetoric and stay silent on tensions with Japan amount to a rare string of strategic gains.
-* 对中国来说，特朗普总统放松芯片管制、软化美国言论以及对与日本的紧张局势保持沉默的举动相当于一连串罕见的战略收益。
+* Two people were in custody after the shooting at Australia’s best-known beach during a Jewish event. Video showed two men firing from a bridge at the beach.
+* 在一次犹太活动中，澳大利亚最著名的海滩发生枪击事件后，两人被拘留。视频显示，两名男子从海滩上的一座桥上开枪。
+* The attacks further complicate President Ahmed al-Sharaa’s efforts to unify the country and rebuild relationships with the international community, analysts say.
+* 分析人士说，这些袭击使艾哈迈德·沙雷总统统一国家和重建与国际社会关系的努力进一步复杂化。
+* The rainstorm that battered the enclave this week has left many shivering in tent camps. Despite a cease-fire, rebuilding is still a long way off.
+* 本周肆虐飞地的暴雨使许多人在帐篷营地中颤抖。尽管停火，重建仍有很长的路要走。
+* Jeannette Jara and José Antonio Kast are facing off on Sunday in a deeply polarized election marked by concerns over security and immigration.
+* 珍妮特·贾拉（ Jeannette Jara ）和何塞·安东尼奥·卡斯特（ José Antonio Kast ）周日在一场两极分化的选举中对峙，其特点是
+* The killing of three Americans during what was said to be a counterterrorism operation in central Syria served as a reminder that U.S. troops are still operating in the country.
+* 据称，三名美国人在叙利亚中部的反恐行动中丧生，这提醒人们，美军仍在该国开展行动。
+* Opponents of AfD lawmakers say that their push to publish sensitive details about national security could benefit Russian military planning.
+* AfD议员的反对者表示，他们推动发布有关国家安全的敏感细节可能会有利于俄罗斯的军事计划。
+* Jimmy Lai, the publisher of a popular tabloid, has spent years fighting the landmark national security case brought over his support of the city’s now vanquished pro-democracy movement.
+* 一家受欢迎的小报的出版商吉米·赖（ Jimmy Lai ）花了数年时间与这起具有里程碑意义的国家安全案件作斗争，该案件引发了他对该市现已被击败的民主运动的支持。
+* We set out to investigate worker abuse in Saudi Arabia. We found a system that begins exploiting them before they ever leave home.
+* 我们着手调查沙特阿拉伯的工人虐待行为。我们发现了一个在他们离开家之前就开始利用他们的系统。
+* Rino Barillari has been snapping photos of, and sparring with, the famous for 65 years, from Princess Margaret to Lady Gaga, Peter O’Toole to Spike Lee. He is now a fixture himself in the celebrity firmament.
+* 从玛格丽特公主到Lady Gaga、彼得·奥图尔（ Peter O’Toole ）到斯派克·李（ Spike Lee ） ，里诺·巴里拉里（ Rino Barillari ） 65年来一直在拍摄这位著名女星的照片，并与她进行了他现在是名人苍穹中的固定人物。
+* Two soldiers and a civilian interpreter were killed while supporting counterterror operations, the Pentagon said. They are the first U.S. casualties in Syria since the fall of the dictator Bashar al-Assad.
+* 五角大楼表示，两名士兵和一名平民口译员在支持反恐行动时丧生。这是自独裁者巴沙尔·阿萨德（ Bashar al-Assad ）垮台以来，美国在叙利亚的首次伤亡。
 
 ## New York Times United States News
-* In South Carolina, parents struggle to deal with infections that have brought quarantines and remote learning. Health care workers are bracing for an increase in cases.
-* 在南卡罗来纳州，父母很难应对带来隔离和远程学习的感染。医护人员正在为病例的增加做准备。
-* The president’s stated intention to pardon Tina Peters, jailed for tampering with election machines in 2020, has set off a legal fight over the extent of Mr. Trump’s pardon powers.
-* 总统表示打算赦免蒂娜·彼得斯(Tina Peters) ，她因在2020年篡改选举机器而被判入狱，这引发了一场关于特朗普赦免权的法律斗争。
-* His library foundation has told the I.R.S. that by the end of 2027 it expects to bring in just $11.3 million — not nearly enough for a traditional presidential library.
-* 他的图书馆基金会告诉国税局，到2027年底，它预计将带来1130万美元的收入，这对于传统的总统图书馆来说还远远不够。
-* California and New York are among the states arguing that the Trump administration’s decision to charge that fee for skilled foreign workers is illegal.
-* 加利福尼亚州和纽约州等州认为，特朗普政府对熟练的外国工人收取这项费用的决定是非法的。
-* Justice Department officials have been considering whether to bring new charges against James B. Comey, the former F.B.I. director, after a different judge dismissed the original case against him.
-* 司法部官员一直在考虑是否对前联邦调查局局长詹姆斯· B ·科米(James B. Comey)提出新的指控，此前另一名法官驳回了对他的原始指控。
-* A three-judge panel threw out a lower court’s order, allowing the Trump administration to continue defunding the group and other major abortion providers.
-* 一个由三名法官组成的小组驳回了下级法院的命令，允许特朗普政府继续为该团体和其他主要堕胎提供者提供资金。
-* The seizure last month came amid fears of a renewed conflict between Iran and Israel.
-* 上个月的扣押行动是在担心伊朗和以色列之间重新爆发冲突的情况下发生的。
-* The legislation, expected to come to a vote next week, would make changes that could eventually affect health care costs but are unlikely to immediately curb rising premiums.
-* 预计下周将进行投票的立法将做出最终可能影响医疗保健成本的变化，但不太可能立即遏制保费上涨。
-* The federal government and earthquake experts blamed a technical glitch for the alert that sent warnings hundreds of miles away last week.
-* 联邦政府和地震专家将上周在数百英里外发出警报的警报归咎于技术故障。
-* An American firm with experience in special operations spirited María Corina Machado, the recipient of the Nobel Peace Prize, out of the country in a secretive land, sea and air operation.
-* 一家具有特种作战经验的美国公司将诺贝尔和平奖获得者玛丽亚·科里纳·马查多（ María Corina Machado ）带到了秘密的陆地、海上和空中作战中。
+* 
+* 
+* The Treasury Department unveiled new coins celebrating America’s 250th anniversary. They failed to include planned designs featuring abolition, women’s suffrage and the civil rights movement.
+* 财政部公布了庆祝美国建国250周年的新硬币。他们没有包括以废除死刑、妇女选举权和民权运动为特色的计划设计。
+* The Palisadian-Post was published for 97 years, but the twice-monthly community newspaper couldn’t survive the Los Angeles wildfires.
+* Palisadian-Post出版了97年，但每月两次的社区报纸无法在洛杉矶野火中幸存下来。
+* After heavy rains swelled rivers and flooded neighborhoods in northern Washington, residents returned to soggy homes caked in mud. Many tried to salvage what they could.
+* 在华盛顿北部的暴雨淹没了河流和街区之后，居民们回到了泥泞湿漉漉的房屋。许多人试图挽救他们所能挽救的东西。
+* The New York Times set out to understand — and quantify — just how much things had changed within the agency after President Trump resumed office.
+* 《纽约时报》着手了解--并量化--在特朗普总统恢复任职后，该机构内部发生了多大变化。
+* An investigation by The Times found the administration’s change in enforcement benefited the industry, including companies that had ties to the president.
+* 《纽约时报》的一项调查发现，政府在执法方面的变化使该行业受益，包括与总统有联系的公司。
+* Rural departments have long relied on cheap software solutions to keep their operations running. But fire chiefs report sharp price increases as investors have entered the market.
+* 长期以来，农村部门一直依靠廉价的软件解决方案来保持运营。但消防队长报告称，随着投资者进入市场，价格大幅上涨。
+* For more than a century, this Black soldier from Virginia was remembered by nearly no one. Then this year, someone at the Pentagon found a use for him.
+* 一个多世纪以来，几乎没有人记得这位来自弗吉尼亚州的黑人士兵。然后今年，五角大楼的某个人发现了他的用途。
+* Joseph Oduro, 21, said he was leading an economics study session for about 60 students when a masked man entered the room and started shooting.
+* 21岁的约瑟夫·奥杜罗（ Joseph Oduro ）说，当一名蒙面男子进入房间并开始射击时，他正在为大约60名学生主持经济学学习课程。
+* Both women said the shooting on Saturday had damaged a sense of security they had cultivated for years based on the notion that they were unlikely to witness two school shootings in one lifetime.
+* 两名妇女都表示，周六的枪击事件损害了他们多年来培养的安全感，因为他们认为自己不太可能在一生中目睹两起校园枪击事件。
 
 ## New York Times Asia News
+* Jimmy Lai, the publisher of a popular tabloid, has spent years fighting the landmark national security case brought over his support of the city’s now vanquished pro-democracy movement.
+* 一家受欢迎的小报的出版商吉米·赖（ Jimmy Lai ）花了数年时间与这起具有里程碑意义的国家安全案件作斗争，该案件引发了他对该市现已被击败的民主运动的支持。
+* The killing of three Americans during what was said to be a counterterrorism operation in central Syria served as a reminder that U.S. troops are still operating in the country.
+* 据称，三名美国人在叙利亚中部的反恐行动中丧生，这提醒人们，美军仍在该国开展行动。
+* Anyone in the area should take shelter, the police said. They declined to elaborate, and details of the shooting were not immediately clear.
+* 警方说，该地区的任何人都应该避难。他们拒绝详细说明，枪击事件的细节目前尚不清楚。
 * South Korea has a notoriously grueling college entrance exam. This year’s English portion was so difficult that it led to a resignation. Could you answer some of the questions correctly?
 * 众所周知，韩国的大学入学考试非常艰难。今年的英语部分非常困难，导致辞职。您能正确回答一些问题吗？
 * The conflict appeared to have continued unabated on Saturday morning, a day after President Trump said a cease-fire was supposed to have resumed.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 缅甸军方的喷气式飞机向Mrauk-U的设施投掷了两枚炸弹，叛乱分子和目击者称这是对平民的蓄意袭击。
 * Prosecutors say a city official on Jeju Island in South Korea stole more than $400,000 by pocketing the sale of government-issued trash bags that cost as little as 7 cents each.
 * 检察官说，韩国济州岛的一名市政官员从政府发放的垃圾袋中窃取了40多万$ ，每个垃圾袋的成本仅为7美分。
-* Investment in manufacturing, infrastructure and property is expected to fall this year, a remarkable turn for an economy whose growth reshaped the world.
-* 今年制造业、基础设施和房地产投资预计将下降，这对一个经济增长重塑世界的经济体来说是一个显着的转变。
-* Thailand’s prime minister said he had talked with the U.S. president, urging him to pressure Cambodia to resolve a deadly border clash, after a previous truce broke down.
-* 泰国总理表示，他已经与美国总统进行了交谈，敦促他向柬埔寨施压，要求解决先前停火协议破裂后的致命边境冲突。
-* For China, President Trump’s moves to loosen chip controls, soften U.S. rhetoric and stay silent on tensions with Japan amount to a rare string of strategic gains.
-* 对中国来说，特朗普总统放松芯片管制、软化美国言论以及对与日本的紧张局势保持沉默的举动相当于一连串罕见的战略收益。
 
