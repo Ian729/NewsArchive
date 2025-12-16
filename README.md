@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Officials said a father and son killed at least 15 people at a Jewish holiday celebration. More than three dozen others were hospitalized, including a surviving suspect.
-* 官员说，一对父子在一次犹太节日庆祝活动中杀死了至少15人。另有30多人住院治疗，其中包括一名幸存的嫌疑人。
-* I lived and worked around Bondi for years. The emergency response tells you everything you need to know about the area.
-* 我在邦迪附近生活和工作了多年。应急响应可以告诉您有关该地区的所有信息。
-* A troubling rise in antisemitic attacks and incidents in recent years have left some feeling anger after the kind of deadly attack they felt was sure to happen.
-* 近年来，反犹太主义袭击和事件的令人不安的增加让他们感到愤怒，因为他们认为这种致命的袭击肯定会发生。
-* Jimmy Lai, the publisher of a popular tabloid, was convicted of national security charges on Monday after spending decades supporting the city’s vanquished pro-democracy movement.
-* 一家受欢迎的小报的出版商吉米·赖（ Jimmy Lai ）在花了数十年时间支持该市被击败的民主运动后，于周一被判犯有国家安全罪。
-* He attributed his rags-to-riches ascent to the freedoms of Hong Kong, and has paid a hefty price for defending them.
-* 他将自己的贫富悬殊归功于香港的自由，并为捍卫这些自由付出了沉重的代价。
-* Ukraine’s president met with U.S. negotiators about plans to end the war with Russia. He said he would give up hopes of joining NATO in exchange for security guarantees.
-* 乌克兰总统会见了美国谈判代表，讨论结束与俄罗斯战争的计划。他说，他将放弃加入北约的希望，以换取安全保障。
-* José Antonio Kast has promised to reverse Chile’s recent surge in violent crime. He also says he will deport undocumented migrants.
-* 何塞·安东尼奥·卡斯特（ José Antonio Kast ）承诺扭转智利最近暴力犯罪的激增。他还表示，他将驱逐无证移民。
-* The attack further complicates President Ahmed al-Sharaa’s efforts to unify the country and rebuild relationships with the international community, analysts say.
-* 分析人士说，这次袭击使艾哈迈德·沙雷总统统一国家和重建与国际社会关系的努力进一步复杂化。
-* The killing of the commander, Raed Saad, on Saturday was the highest-profile assassination of a Hamas leader since a cease-fire came into force two months ago.
-* 星期六，指挥官拉埃德·萨阿德（ Raed Saad ）被杀，这是自两个月前停火生效以来对哈马斯领导人最引人注目的暗杀。
-* The rainstorm that battered the enclave this week has left many shivering in tent camps. Despite a cease-fire, rebuilding is still a long way off.
-* 本周肆虐飞地的暴雨使许多人在帐篷营地中颤抖。尽管停火，重建仍有很长的路要走。
+* Prime Minister Anthony Albanese said two gunmen who killed 15 people at a Jewish holiday celebration were motivated by the Islamic State.
+* 总理安东尼·阿尔巴尼斯（ Anthony Albanese ）表示，两名枪手在犹太节日庆祝活动中杀害了15人，这是伊斯兰国的动机。
+* With Israelis rapidly building in the West Bank, Palestinian hikers are increasingly unable to walk across the land.
+* 随着以色列人迅速在约旦河西岸建造房屋，巴勒斯坦徒步旅行者越来越无法穿越这片土地。
+* More than a dozen Bornean elephants have been killed — including five beheaded — in Malaysia in the past 18 months, authorities say.
+* 当局表示，在过去的18个月里，马来西亚已有十几头婆罗洲大象被杀，其中包括五头被斩首的大象。
+* Jimmy Lai spent decades criticizing China’s rulers. He faces up to life in prison after a court found him guilty of national security crimes.
+* Jimmy Lai花了数十年时间批评中国的统治者。在法院判定他犯有国家安全罪后，他面临终身监禁。
+* The police said on Monday that they expected to bring criminal charges against the surviving suspect, who is in a coma after being shot by the police.
+* 警方周一表示，他们预计将对幸存的嫌疑人提起刑事诉讼，该嫌疑人在被警方枪杀后处于昏迷状态。
+* José Antonio Kast, who was elected president on Sunday, is the latest conservative to rise to power promising strict law and order measures.
+* 周日当选总统的何塞·安东尼奥·卡斯特（ José Antonio Kast ）是最新上台的保守派，他承诺采取严格的法律和秩序措施。
+* The new chancellor believes the world needs a stronger Germany. He is still navigating how to do it.
+* 这位新总理认为，世界需要一个更强大的德国。他仍在探索如何做到这一点。
+* Mass demonstrations in Bulgaria were spurred by spreading outrage over graft that many say was fueling an authoritarian power grab.
+* 保加利亚的大规模示威活动是由于对贪污的愤怒而引发的，许多人认为这种愤怒助长了威权主义的权力攫取。
+* Narges Mohammadi and several other Iranian activists were detained last Friday. She has been beaten, requiring emergency medical treatment, and accused of working with Israel, her family said.
+* Narges Mohammadi和其他几名伊朗活动人士上周五被拘留。她的家人说，她遭到殴打，需要紧急医疗，并被指控与以色列合作。
+* The European Union has mounted an “air bridge” effort, with at least eight aid flights planned to Sudan. But getting supplies to the areas with the most dire need is an enormous challenge.
+* 欧盟已经建立了一座“空中桥梁” ，计划至少有8个援助航班飞往苏丹。但是，向最迫切需要的地区运送物资是一项巨大的挑战。
 
 ## New York Times United States News
-* Hours after announcing they had detained a person in connection with the deadly shooting at Brown University, officials appealed to the public for new leads.
-* 在宣布他们拘留了一名与布朗大学致命枪击事件有关的人数小时后，官员们呼吁公众寻找新的线索。
-* The Milwaukee County judge faces federal charges, but she has maintained her innocence.
-* 密尔沃基县法官面临联邦指控，但她坚持自己的清白。
-* A program for deafblind children helped 3-year-old Annie Garner, born with poor vision and no ears, learn to communicate. The Trump administration cut the program’s funding over diversity goals.
-* 一项针对聋盲儿童的计划帮助3岁的安妮·加纳（ Annie Garner ）学习沟通，她出生时视力差，没有耳朵。特朗普政府因多元化目标而削减了该计划的资金。
-* The director’s family said that he and his wife, Michele, had died on Sunday. The police said they had found two bodies at the Reiner home in Los Angeles.
-* 导演的家人说，他和他的妻子米歇尔周日去世了。警方称，他们在洛杉矶的Reiner家中发现了两具尸体。
+* As a manhunt for a gunman who killed two and injured nine at Brown University stretched into a third day, residents and officials alike were growing weary.
+* 在布朗大学（ Brown University ） ，一名枪手打死两人，打伤九人，随着对枪手的追捕持续到第三天，居民和官员都越来越疲惫。
+* The Ivy League school has faced a series of challenges related to protests and politics. Through it all, it has kept its gates open to the city and tried to heal divisions on campus.
+* 常春藤盟校面临着一系列与抗议和政治相关的挑战。通过这一切，它一直向城市敞开大门，并试图治愈校园内的分歧。
+* In public, the White House says it is confronting Venezuela to curb drug trafficking. Behind the scenes, gaining access to the country’s vast oil reserves is a priority.
+* 白宫在公开场合表示，它正在与委内瑞拉对抗，以遏制毒品贩运。在幕后，获得该国丰富的石油储备是一个优先事项。
 * 
 * 
-* 
-* 
-* 
-* 
-* 
-* 
-* The deaths were confirmed by the Los Angeles mayor, Karen Bass. The Los Angeles Police Department said it is investigating “an apparent homicide” at their home.
-* 洛杉矶市长凯伦·巴斯（ Karen Bass ）证实了这些死亡事件。洛杉矶警察局表示，正在调查他们家中的“明显凶杀案”。
-* The killing of two college students brought an unwelcome and unusual spotlight to the mayor of Providence, R.I., a place where many residents know each other.
-* 两名大学生被杀事件给罗德岛州普罗维登斯市市长带来了不受欢迎和不寻常的聚光灯，在这个地方，许多居民互相认识。
+* International patients can bring a hospital as much as $2 million for a transplant. In recent years, they have typically gotten organs faster than U.S. patients.
+* 国际患者可以为移植带来高达200万$的医院。近年来，他们通常比美国患者更快地获得器官。
+* The relationship between the president’s son and Ms. Anderson had been the subject of tabloid speculation during his previous engagement to Kimberly Guilfoyle.
+* 在他之前与金伯利·吉尔福伊尔（ Kimberly Guilfoyle ）订婚期间，总统的儿子和安德森女士之间的关系一直是小报猜测的主题。
+* The attacks brought the number killed since the Trump administration began the strikes on suspected drug smugglers to at least 95.
+* 自特朗普政府开始打击涉嫌毒品走私者以来，这些袭击使死亡人数达到至少95人。
+* The announcement came just hours after prosecutors there charged four government officials with corruption in connection with the half-billion-dollar project.
+* 就在宣布这一消息的几个小时前，那里的检察官指控四名政府官员涉嫌与这个耗资5亿美元的项目有关的腐败。
+* Rob Reiner and his son, Nick, had a dispute at a party hosted by Conan O’Brien the night before the director and his wife were found dead.
+* Rob Reiner和他的儿子Nick在导演和他的妻子被发现死亡的前一天晚上，在柯南·奥布莱恩（ Conan O’Brien ）主持的一个派对上发生了争执。
+* A judge ruled that at least two of three defendants would have to stand trial in a case stemming from a plan to deploy fake electors after Donald Trump lost the 2020 presidential election.
+* 一名法官裁定，在唐纳德·特朗普（ Donald Trump ）在2020年总统大选中失利后，至少有三分之二的被告必须接受审判，该案件源于部署假选民的计划。
 
 ## New York Times Asia News
+* In public, the White House says it is confronting Venezuela to curb drug trafficking. Behind the scenes, gaining access to the country’s vast oil reserves is a priority.
+* 白宫在公开场合表示，它正在与委内瑞拉对抗，以遏制毒品贩运。在幕后，获得该国丰富的石油储备是一个优先事项。
+* It remains unclear what the two men did there last month.
+* 目前尚不清楚这两名男子上个月在那里做了什么。
+* More than a dozen Bornean elephants have been killed — including five beheaded — in Malaysia in the past 18 months, authorities say.
+* 当局表示，在过去的18个月里，马来西亚已有十几头婆罗洲大象被杀，其中包括五头被斩首的大象。
+* Heng Guan fled to the United States and released rare video evidence of China’s clampdown. His supporters say that sending him to Uganda puts him at risk.
+* 恒冠逃往美国，发布了中国镇压的罕见视频证据。他的支持者说，把他送到乌干达会使他处于危险之中。
+* Jimmy Lai spent decades criticizing China’s rulers. He faces up to life in prison after a court found him guilty of national security crimes.
+* Jimmy Lai花了数十年时间批评中国的统治者。在法院判定他犯有国家安全罪后，他面临终身监禁。
+* Two men toting long guns opened fire on hundreds of people who were celebrating Hanukkah on Bondi Beach in Sydney, the core of the Australian city’s Jewish community.
+* 两名携带长枪的男子向在悉尼邦迪海滩庆祝光明节的数百人开火，邦迪海滩是澳大利亚城市犹太社区的核心。
 * Founded in 1990 by three M.I.T. researchers, iRobot introduced its vacuum in 2002. Its restructuring will turn the company over to its largest creditor.
 * IRobot由三位麻省理工学院的研究人员于1990年创立，于2002年推出了真空吸尘器。其重组将把公司交给其最大的债权人。
-* Jimmy Lai, the publisher of a popular tabloid, was convicted of national security charges on Monday after spending decades supporting the city’s vanquished pro-democracy movement.
-* 一家受欢迎的小报的出版商吉米·赖（ Jimmy Lai ）在花了数十年时间支持该市被击败的民主运动后，于周一被判犯有国家安全罪。
+* Jimmy Lai, the Hong Kong publisher and democracy campaigner, was convicted of national security charges in a city where even minor dissent is now whispered.
+* 香港出版商和民主活动家黎智英(Jimmy Lai)在一个城市被判犯有国家安全罪，在这个城市，即使是很小的异议也会被窃窃私语。
 * A broad measure of investment fell more than 10 percent in November, continuing a recent reversal and signaling the depth of China’s property crisis.
 * 11月，总体投资下跌超过10% ，延续了近期的逆转趋势，标志着中国房地产危机的深度。
 * I lived and worked around Bondi for years. The emergency response tells you everything you need to know about the area.
 * 我在邦迪附近生活和工作了多年。应急响应可以告诉您有关该地区的所有信息。
-* 
-* 
-* He attributed his rags-to-riches ascent to the freedoms of Hong Kong, and has paid a hefty price for defending them.
-* 他将自己的贫富悬殊归功于香港的自由，并为捍卫这些自由付出了沉重的代价。
-* 
-* 
-* Jimmy Lai, the publisher of a popular tabloid, has spent years fighting the landmark national security case brought over his support of the city’s now vanquished pro-democracy movement.
-* 一家受欢迎的小报的出版商吉米·赖（ Jimmy Lai ）花了数年时间与这起具有里程碑意义的国家安全案件作斗争，该案件引发了他对该市现已被击败的民主运动的支持。
-* The killing of three Americans during what was said to be a counterterrorism operation in central Syria served as a reminder that U.S. troops are still operating in the country.
-* 据称，三名美国人在叙利亚中部的反恐行动中丧生，这提醒人们，美军仍在该国开展行动。
-* Anyone in the area should take shelter, the police said. They declined to elaborate, and details of the shooting were not immediately clear.
-* 警方说，该地区的任何人都应该避难。他们拒绝详细说明，枪击事件的细节目前尚不清楚。
 
