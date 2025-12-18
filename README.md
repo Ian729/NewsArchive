@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The funeral for Rabbi Eli Schlanger on Wednesday was the first held for one of the 15 people killed in a mass shooting at a Jewish celebration in Sydney, Australia.
-* 周三，拉比伊莱·施兰格（ Eli Schlanger ）的葬礼是澳大利亚悉尼犹太人庆祝活动中大规模枪击事件中遇难的15人之一的首次葬礼。
+* The European Council convenes on Thursday, and at stake is a contentious deal to back Ukraine and its war effort. The final decision is a major test of Europe’s ability to support Ukraine.
+* 欧洲理事会周四召开会议，一项支持乌克兰及其战争努力的有争议的协议岌岌可危。最终决定是对欧洲支持乌克兰能力的重大考验。
+* Dmitri N. Kozak had worked with President Vladimir V. Putin for three decades before quitting in September. His associates described his break with the Russian leader.
+* 德米特里· N ·科扎克（ Dmitri N. Kozak ）与弗拉基米尔· V ·普京（ Vladimir V. Putin ）总统合作了三十年他的同事描述了他与俄罗斯领导人的分手。
+* Despite sky-high inflation, water and energy cuts and prospects for a deal with the U. S. dimming, President Masoud Pezeshkian has apparently thrown up his hands.
+* 尽管通货膨胀率高企，水和能源削减以及与美国达成协议的前景黯淡，但总统马苏德·佩泽什基安（ Masoud Pezeshkian ）显然已经举手示威。
+* Pandas have stood for friendship between China and Japan since 1972. But the last two are about to go, and a dispute over Taiwan could get in the way of sending more.
+* 自1972年以来，熊猫一直代表着中国和日本之间的友谊。但后两者即将消失，台湾争端可能会阻碍派遣更多人。
+* Sydney’s devastated Jewish community gathered for the funeral of “Matilda Bee,” an ebullient, smiling 10-year-old girl.
+* 悉尼饱受摧残的犹太社区聚集在一起参加“玛蒂尔达蜜蜂”的葬礼，玛蒂尔达蜜蜂是一个热情洋溢、微笑着的10岁女孩。
+* Carmakers have known for decades that battery recycling was poisoning people abroad. Nigeria’s crackdown is an effort to catalog the damage.
+* 几十年来，汽车制造商已经知道，电池回收正在毒害国外的人们。尼日利亚的镇压是为了编目损失。
+* A firm controlled by a businessman tied to a seized tanker carrying Venezuelan oil has sold millions of barrels from a Chevron-operated oil field.
+* 一家由一名商人控制的公司与一艘运载委内瑞拉石油的油轮有关，该公司已从雪佛龙运营的油田出售了数百万桶石油。
 * The Australian authorities said the 24-year-old man, who had been shot by the police, woke from a coma on Tuesday afternoon.
 * 澳大利亚当局表示，这名24岁的男子于周二下午从昏迷中醒来。
 * Survivors of the St. Mary’s Catholic School abduction in Nigeria recall their harrowing ordeal and release.
 * 尼日利亚圣玛丽天主教学校绑架事件的幸存者回忆起他们的痛苦折磨和释放。
-* A firm controlled by a businessman sanctioned by the U.S. Treasury for ties to Venezuela’s autocratic president has sold millions of barrels from a Chevron-operated oil field.
-* 一家由商人控制的公司因与委内瑞拉专制总统的关系而受到美国财政部的制裁，该公司已从雪佛龙运营的油田出售了数百万桶石油。
-* In 1989, Gen. Xu Qinxian defied orders to crush the pro-democracy protests in Beijing. Now, leaked video from his court-martial is on YouTube.
-* 1989年，许钦贤将军无视粉碎北京民主抗议活动的命令。现在，他的军事法庭泄露的视频在YouTube上。
-* With Israelis rapidly building in the West Bank, Palestinian hikers are increasingly unable to walk across the land.
-* 随着以色列人迅速在约旦河西岸建造房屋，巴勒斯坦徒步旅行者越来越无法穿越这片土地。
-* Often left out by the United States in peace negotiations, European countries are working to assert their leadership and bolster Ukraine with an ambitious funding plan. But can they agree?
-* 欧洲国家在和平谈判中经常被美国排除在外，它们正在努力维护自己的领导地位，并通过一项雄心勃勃的筹资计划来支持乌克兰。但他们能同意吗？
-* The United States and Trinidad say U.S. Marines installed a radar in Tobago to combat drugs — but this war materiel isn’t designed for operations based at sea or on land.
-* 美国和特立尼达说，美国海军陆战队在多巴哥安装了一个雷达来打击毒品，但这种作战物资并不是专为海上或陆上作战而设计的。
-* The latest proposal is designed to deter future Russian aggression. But Russia is not part of the talks and has shown little willingness to negotiate.
-* 最新提案旨在阻止俄罗斯未来的侵略。但俄罗斯没有参加会谈，也没有表现出谈判的意愿。
-* More than a dozen Bornean elephants have been killed — including five beheaded — in Malaysia in the past 18 months, the authorities say.
-* 当局表示，在过去的18个月里，马来西亚已有十几头婆罗洲大象被杀，其中包括五头被斩首的大象。
+* Sixty years ago, half a million Indonesians were killed in anti-Communist purges. On Bali, resorts and clubs were built atop mass graves.
+* 六十年前， 50万印度尼西亚人在反共清洗中丧生。在巴厘岛，度假村和俱乐部建在万人坑之上。
 
 ## New York Times United States News
-* It is rare for a gunman in a high-profile shooting to get away, and many are apprehended within days. The authorities shared grainy video and begged for tips as the search stretched into its fourth day.
-* 枪手在高调的枪击事件中很少逃脱，许多人在几天内被捕。随着搜索进入第四天，当局分享了粗糙的视频并乞求小费。
-* For the students in the Brown University review session, concerns about grades and questions about economic concepts would be forgotten in an instant.
-* 对于参加布朗大学复习课程的学生来说，对成绩的担忧和对经济概念的问题会在一瞬间被遗忘。
-* The person picked to replace Jerome H. Powell will be thrust into a credibility problem that will be difficult to escape.
-* 被选中接替杰罗姆· H ·鲍威尔（ Jerome H. Powell ）的人将陷入难以逃脱的信誉问题。
-* With tariffs unpopular and prices still high, the White House has teased the promise of tariff rebates and large tax refunds next year.
-* 由于关税不受欢迎，价格仍然很高，白宫嘲笑明年关税退税和大额退税的承诺。
-* A surge of ICE agents has led to 670 arrests and chaotic standoffs in subzero weather.
-* 在零度以下的天气中， ICE特工的激增导致670人被捕和混乱的对峙。
-* The students face discipline for recording Mr. Summers, the former Harvard president, discussing his ties to Jeffrey Epstein in a Harvard class.
-* 这些学生因录制前哈佛校长萨默斯在哈佛的一堂课上讨论他与杰弗里·爱泼斯坦(Jeffrey Epstein)的关系而面临纪律处分。
-* A New York intellectual and onetime liberal stalwart, his Commentary magazine became his platform as his political and social view turned sharply rightward.
-* 作为纽约知识分子和曾经的自由主义者，他的评论杂志成为他的平台，因为他的政治和社会观点急剧转向右翼。
-* The two first-degree murder counts include a special circumstance, which increases the maximum punishment if he is convicted.
-* 两项一级谋杀罪包括一项特殊情况，如果他被定罪，将增加最高刑罚。
-* A person close to the family provided a detailed account of what occurred in the Reiner house after a massage therapist received no response at the gate.
-* 一位与家人关系密切的人详细描述了在按摩治疗师在门口没有收到回复后， Reiner房子里发生的事情。
-* The move is an escalation of military operations and a pressure campaign against Nicolás Maduro, Venezuela’s leader. But its scope and economic impact are not clear.
-* 此举是军事行动的升级，也是对委内瑞拉领导人尼古拉斯·马杜罗(Nicolás Maduro)的施压。但其范围和经济影响尚不清楚。
+* The appointment of Bishop Ronald A. Hicks is expected to bring a markedly different leadership style to New York’s archdiocese.
+* Ronald A. Hicks主教的任命预计将为纽约大主教管区带来明显不同的领导风格。
+* Nick Reiner, charged with murdering his parents, Rob and Michele Singer Reiner, spent much of his life battling drug addiction, an affliction that millions of Americans face.
+* 尼克·雷纳（ Nick Reiner ）被控谋杀他的父母罗布（ Rob ）和米歇尔·辛格·雷纳（ Michele Singer Reiner ） ，他一生中的大部分时间都在与吸毒成瘾作斗争，这是数百万美国人面临的痛
+* The president has tried to minimize their friendship, but documents and interviews reveal an intense and complicated relationship. Chasing women was a game of ego and dominance. Female bodies were currency.
+* 总统试图尽量减少他们的友谊，但文件和采访揭示了一种强烈而复杂的关系。追逐女人是一场自我和统治的游戏。女性的身体是货币。
+* The move may reassure China hawks who are uncertain about the president’s commitment to the self-governing democracy.
+* 此举可能会让那些不确定总统对自治民主的承诺的中国鹰派人士放心。
+* In an 18-minute address, President Trump said the economy was booming despite the public’s consistent concerns about prices. Here are six takeaways from the speech.
+* 特朗普总统在18分钟的讲话中表示，尽管公众对价格一直感到担忧，但经济仍在蓬勃发展。以下是演讲的六个要点。
+* The attack on Wednesday brings the total number killed to at least 99 since the Trump administration began bombing boats suspected of ferrying drugs in the Caribbean Sea and the Pacific Ocean.
+* 自特朗普政府开始轰炸涉嫌在加勒比海和太平洋运送毒品的船只以来，周三的袭击事件使死亡人数至少达到99人。
+* The president cited misleading statistics to insist, wrongly, that prices were coming down.
+* 总统引用了误导性统计数据，错误地坚持认为价格正在下降。
+* New legislation will be drafted to target those who promote violence and to increase penalties for hate speech, the prime minister said Thursday.
+* 总理周四表示，将起草新的立法，针对那些宣扬暴力的人，并加大对仇恨言论的惩罚力度。
+* The president sharply attacked his predecessor while insisting that his own record contained nothing but victories.
+* 总统严厉抨击他的前任，同时坚持认为他自己的记录只包含胜利。
+* Mixing misleading claims with repeated attacks, President Trump promised relief for Americans but said he needed time to deliver it.
+* 特朗普总统将误导性主张与反复袭击相结合，承诺为美国人提供救济，但表示他需要时间来实现这一目标。
 
 ## New York Times Asia News
+* On a mission to understand how Jaipur balances tradition and innovation, a writer and chef explores its street food stands and palatial dining spots.
+* 为了了解斋浦尔如何平衡传统和创新，作家和大厨探索了斋浦尔的街头美食摊和富丽堂皇的用餐场所。
+* Sydney’s devastated Jewish community gathered for the funeral of “Matilda Bee,” an ebullient, smiling 10-year-old girl.
+* 悉尼饱受摧残的犹太社区聚集在一起参加“玛蒂尔达蜜蜂”的葬礼，玛蒂尔达蜜蜂是一个热情洋溢、微笑着的10岁女孩。
+* Pandas have stood for friendship between China and Japan since 1972. But the last two are about to go, and a dispute over Taiwan could get in the way of sending more.
+* 自1972年以来，熊猫一直代表着中国和日本之间的友谊。但后两者即将消失，台湾争端可能会阻碍派遣更多人。
+* Beijing is using its messaging tools to show off its prowess at building infrastructure and project power, taking advantage of what it says is “deep anxiety” in U.S. policies.
+* 北京正在利用其消息传递工具来展示其在建设基础设施和项目电力方面的实力，利用它所说的美国政策中的“深度焦虑”。
+* He won the prestigious award for his daring coverage of the Vietnam War for The Associated Press, and went on to cover conflicts for CNN for nearly two decades.
+* 他因对美联社越南战争的大胆报道而获得了声望很高的奖项，并继续为CNN报道冲突近二十年。
 * The items were taken in the late 19th century from what was then called the Dutch East Indies. Indonesia had been trying to get them back for decades.
 * 这些物品是在19世纪后期从当时被称为荷属东印度群岛的地方取走的。几十年来，印度尼西亚一直试图让他们回来。
 * In 1989, Gen. Xu Qinxian defied orders to crush the pro-democracy protests in Beijing. Now, leaked video from his court-martial is on YouTube.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 澳大利亚当局表示，这名24岁的男子于周二下午从昏迷中醒来。
 * Sixty years ago, half a million Indonesians were killed in anti-Communist purges. On Bali, resorts and clubs were built atop mass graves.
 * 六十年前， 50万印度尼西亚人在反共清洗中丧生。在巴厘岛，度假村和俱乐部建在万人坑之上。
-* The Chinese government is betting that robots will drive economic growth. But the bots can’t really do much yet.
-* 中国政府正在押注机器人将推动经济增长。但机器人还不能真正做太多事情。
-* The move is an escalation of military operations and a pressure campaign against Nicolás Maduro, Venezuela’s leader. But its scope and economic impact are not clear.
-* 此举是军事行动的升级，也是对委内瑞拉领导人尼古拉斯·马杜罗(Nicolás Maduro)的施压。但其范围和经济影响尚不清楚。
-* India claims that Pakistan sponsored the terrorists responsible for killing 26 people in the disputed region, an accusation Pakistan denies.
-* 印度声称巴基斯坦赞助了在争议地区杀害26人的恐怖分子，巴基斯坦否认了这一指控。
-* Trekking across Malaysia, her adopted country, she found more than 150 unrecorded plant species. “She’s one of the greatest botanists who ever lived,” a colleague said.
-* 在她的领养国马来西亚徒步旅行时，她发现了150多种未记录的植物物种。一位同事说： “她是有史以来最伟大的植物学家之一。”
-* The Bondi Beach massacre has people fearing more anti-Jewish violence — and an Islamophobic backlash. But there are reasons to think stability will prevail.
-* 邦迪海滩大屠杀让人们担心更多的反犹暴力—以及伊斯兰恐惧症的反弹。但有理由认为稳定将占上风。
 
