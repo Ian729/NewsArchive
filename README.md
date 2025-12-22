@@ -2,6 +2,14 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* But the explosives did not detonate, according to investigators, who also found a video of the two men training with firearms.
+* 但据调查人员称，爆炸物没有引爆，他们还发现了两名男子用枪支训练的视频。
+* Thousands gathered a week after gunmen killed 15 people at a Hanukkah celebration. But hints of political divisions and anti-immigration rhetoric have emerged.
+* 枪手在光明节庆祝活动中杀害了15人一周后，数千人聚集在一起。但出现了政治分歧和反移民言论的迹象。
+* The attack appeared to be the latest targeted assassination of a senior military official inside Russia’s borders.
+* 这次袭击似乎是俄罗斯境内针对一名高级军官的最新一次有针对性的暗杀事件。
+* The latest vessel to be targeted by the United States in its pressure campaign on Venezuela was sending distress signals as it headed northeast from the Caribbean into the Atlantic.
+* 美国在对委内瑞拉施压行动中针对的最新船只在从加勒比海向东北进入大西洋时发出求救信号。
 * The Pompidou Center is the place to see contemporary art in Paris. Or it was, until curators put its astonishing collection into storage.
 * 蓬皮杜中心（ Pompidou Center ）是欣赏巴黎当代艺术的地方。或者是这样，直到策展人将其惊人的收藏品存入仓库。
 * Ales Bialiatski, who shared the Nobel in 2022, described long hours of backbreaking work and stints in solitary confinement.
@@ -14,38 +22,34 @@ Auto RSS New York Times and Translate
 * 来自美国的非法枪支的扩散助长了加拿大枪支暴力的飙升，大多数用于犯罪的枪支都是越过边境走私的。
 * The attacker killed at last week’s Hanukkah celebration in Australia came from a Muslim area whose residents have long gone abroad to seek better lives.
 * 上周在澳大利亚举行的光明节庆祝活动中遇害的袭击者来自一个穆斯林地区，该地区的居民长期以来一直出国寻求更好的生活。
-* Around a dozen gunmen opened fire at random at bar patrons, the police said. A manhunt for the unknown assailants was underway.
-* 警方称，大约有十几名枪手随意向酒吧顾客开枪。正在搜捕不明身份的袭击者。
-* Armed guards, bollards and secretive precautions became part of life amid antisemitic attacks and blurred lines between anger at Israel and hatred of Jews.
-* 在反犹太主义袭击和对以色列的愤怒和对犹太人的仇恨之间的界限模糊不清的情况下，武装警卫、护柱和秘密预防措施成为生活的一部分。
-* Military brinkmanship between President Trump and Nicolás Maduro of Venezuela has led to an increase in electronic warfare in the region.
-* 委内瑞拉总统特朗普和尼古拉斯·马杜罗之间的军事边缘政策导致该地区的电子战增加。
-* The award-winning Puerto Rican artist, the most-streamed on the planet, is performing eight concerts in Mexico. People flocked from all over the world, including the United States.
-* 这位屡获殊荣的波多黎各艺术家是地球上流量最大的艺术家，目前正在墨西哥举办八场音乐会。人们从世界各地蜂拥而来，包括美国。
 
 ## New York Times United States News
-* Michele Singer Reiner was the guiding force in the lives of her family, stressing the need to help and respect one another.
-* Michele Singer Reiner是她家人生活中的指导力量，强调需要互相帮助和尊重。
-* In his first year back in the White House, President Trump has greatly expanded executive power while embracing the trappings of royalty in ways not seen in the modern era.
-* 在回到白宫的第一年，特朗普总统大大扩展了行政权力，同时以现代时代从未见过的方式接受了皇室的装饰。
-* An increasingly loud contingent supports the Trump administration’s efforts to deport illegal immigrants.
-* 越来越响亮的队伍支持特朗普政府驱逐非法移民的努力。
-* For two decades, Luis Martinez has fought wildfires for the U.S. government. Now he’s facing down cancer, debt and the threat of separation from his 11-year-old.
-* 二十年来，路易斯·马丁内斯一直为美国政府抗击野火。现在，他面临着癌症、债务和与11岁的孩子分居的威胁。
-* Hundreds of thousands of Americans in rural and urban areas alike could see their votes rejected if the court decides that ballots must arrive by Election Day.
-* 如果法院裁定选票必须在选举日之前到达，那么农村和城市地区的数十万美国人可能会看到他们的选票被拒绝。
-* Zohran Mamdani, New York’s mayor-elect, is among the latest politicians to be tagged with the term, raising the question: What did theater kids do to deserve such scorn?
-* 纽约市长当选人佐赫兰·马姆达尼（ Zohran Mamdani ）是最近被贴上这个词标签的政治家之一，他提出了一个问题：戏剧小孩做了什么值得这样的蔑视？
-* The hourslong outage affected nearly a third of the city and forced the closure of transit stations. Service was restored for most customers late Saturday.
-* 长达数小时的停电影响了该市近三分之一的面积，并迫使中转站关闭。大多数客户已于周六晚些时候恢复服务。
-* At AmericaFest, conservative leaders insulted one another, revealing serious rifts over conspiracy theories, antisemitism and who belongs in America.
-* 在AmericaFest上，保守派领导人互相侮辱，揭示了对阴谋论、反犹太主义和谁属于美国的严重分歧。
-* A total of 16 photos were taken down at some point on Saturday from the website that the Justice Department created. One featured an open drawer containing other photos, including at least one of President Trump.
-* 周六，司法部创建的网站上共有16张照片被删除。其中一张是打开的抽屉，里面还有其他照片，包括至少一张特朗普总统的照片。
-* The transcripts and photos were part of Department of Justice files arising from investigations into the disgraced financier and his former girlfriend.
-* 这些成绩单和照片是司法部文件的一部分，这些文件是对这位声名狼藉的金融家及其前女友的调查。
+* A Venezuela-bound vessel fled after rebuffing an attempt by the Coast Guard to seize it, the latest twist in the escalating U.S. pressure campaign against the Maduro government.
+* 一艘驶往委内瑞拉的船只在拒绝海岸警卫队扣押它的企图后逃离，这是美国对马杜罗政府不断升级的压力运动的最新转折。
+* A historical review shows lawmakers without certain familial records went unchallenged as citizens when the 14th Amendment was adopted. The finding appeared to undercut the president’s claims on birthright citizenship.
+* 一项历史回顾显示，当第14修正案通过时，没有某些家庭记录的立法者作为公民没有受到挑战。这一发现似乎削弱了总统对出生公民权的主张。
+* Two weeks of “atmospheric river” deluges took a toll on business in Leavenworth, Wash., and beyond, reminding the region that a warming planet has brought new uncertainty.
+* 两周的“大气河流”洪水给华盛顿州莱文沃思及其他地区的业务造成了损失，提醒该地区，地球变暖带来了新的不确定性。
+* At least four of the 37 men whose sentences were commuted last year could face the death penalty at the state level after a push from the Trump administration.
+* 在特朗普政府的推动下，去年减刑的37名男子中至少有4人可能在州一级面临死刑。
+* As efforts to defund Planned Parenthood lead to the closure of some of its locations, Christian-based clinics that try to dissuade abortions are aiming to fill the gap in women‘s health care. Our reporter Caroline Kitchener describes how this change is playing out in Ames, Iowa.
+* 由于取消计划生育基金的努力导致其一些地点关闭，试图劝阻堕胎的基督教诊所旨在填补妇女医疗保健方面的空白。我们的记者Caroline Kitchener介绍了爱荷华州艾姆斯的这一变化。
+* About 50 Planned Parenthoods have shut down this year, largely a result of efforts by President Trump and Republicans to target the organization.
+* 今年大约有50个计划生育组织已经关闭，这主要是特朗普总统和共和党人针对该组织的努力的结果。
+* Floodwaters swept Shasta County on Sunday, killing at least one person. Forecasters warned that Central California would receive heavy rain later in the week.
+* 周日，洪水席卷了沙斯塔县，造成至少一人死亡。预报员警告说，加利福尼亚州中部将在本周晚些时候降下大雨。
+* The vice president’s plea for a big-tent coalition at an annual conservative gathering belied the cracks in his party over antisemitism, racism and conspiracy theories.
+* 副总统在一年一度的保守派集会上呼吁建立一个大帐篷联盟，掩盖了他的政党在反犹太主义、种族主义和阴谋论方面的裂痕。
+* She began working as a park ranger at age 85, educating visitors about the women and people of color who served on the home front in World War II, herself among them.
+* 她在85岁时开始担任公园护林员，向游客介绍第二次世界大战期间在国内服役的女性和有色人种，她本人就是其中之一。
+* The self-driving cars came to a halt at intersections when the power outage knocked out traffic signals, causing tie-ups but no accidents or injuries.
+* 当停电导致交通信号瘫痪时，自动驾驶汽车在十字路口停了下来，导致捆绑，但没有发生事故或受伤。
 
 ## New York Times Asia News
+* Thousands gathered a week after gunmen killed 15 people at a Hanukkah celebration. But hints of political divisions and anti-immigration rhetoric have emerged.
+* 枪手在光明节庆祝活动中杀害了15人一周后，数千人聚集在一起。但出现了政治分歧和反移民言论的迹象。
+* The Chinese government once focused on political dissidents and exiled activists. Now, federal officials say, it is targeting artists in the United States whose creative protests test its tolerance.
+* 中国政府一度关注持不同政见者和流亡活动人士。现在，联邦官员说，它针对的是美国的艺术家，他们的创意抗议测试了它的容忍度。
 * Intelligence authorities in the Philippines say the father and son apparently slipped out of Davao City during their monthlong stay, but details remain sketchy.
 * 菲律宾情报部门表示，这对父子显然在长达一个月的逗留期间从达沃市溜走，但细节仍然模糊不清。
 * Videos and photographs show how the Chinese authorities have tried to dismantle Zion Church, a Christian network with branches across the country.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 袭击者在台湾首都的一个火车站内投掷烟雾弹，后来继续在附近横冲直撞，从一栋建筑物上坠落而死。
 * The authorities are vowing to crack down after a mass shooting at a Jewish holiday celebration. Experts say that what the country needs might not be new laws.
 * 在犹太节日庆祝活动发生大规模枪击事件后，当局发誓要镇压。专家说，国家需要的可能不是新的法律。
-* Newspaper buildings were set on fire after the death of an activist who was attacked recently. Political leaders fear more violence could derail attempts to restore democracy.
-* 最近一名活动人士遇袭身亡后，报社大楼被纵火焚烧。政治领导人担心更多的暴力可能会破坏恢复民主的努力。
-* Nuno F.G. Loureiro, the professor, and the man suspected in his killing attended the same physics program in Portugal during the 1990s.
-* 教授努诺· F · G ·洛雷罗（ Nuno F.G. Loureiro ）和涉嫌杀人的男子在20世纪90年代在葡萄牙参加了同样的物理课程。
 
