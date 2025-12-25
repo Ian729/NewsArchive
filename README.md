@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* The holidays usually bring home huge numbers from the Venezuelan diaspora. But this year, after international airlines halted almost all service, many people are spending Christmas alone and on edge.
+* 这些假期通常会为委内瑞拉侨民带来大量人口。但今年，在国际航空公司几乎停止所有服务后，许多人独自度过了圣诞节。
+* The first draft essentially called for Ukraine’s surrender. The revised version includes the security guarantees Kyiv wants to prevent future Russian aggression.
+* 初稿基本上要求乌克兰投降。修订后的版本包括基辅希望防止未来俄罗斯侵略的安全保障。
+* The debut followed the North’s first test of a new surface-to-air missile and the arrival of a U.S. nuclear-powered attack sub for a port call in South Korea.
+* 此次首次亮相是在朝鲜首次测试新型地对空导弹以及美国核动力攻击潜艇抵达韩国港口停靠之后。
+* Tarique Rahman, who had managed his party’s political affairs from Britain, is back in his country to campaign in elections.
+* 塔里克·拉赫曼（ Tarique Rahman ）曾在英国管理其政党的政治事务，现在回到他的国家参加竞选。
+* Mykola Leontovych, the Ukrainian composer of the famed festive song, lived in the eastern city of Pokrovsk. Months of Russian assaults have erased most tributes to his life there.
+* 著名节日歌曲的乌克兰作曲家Mykola Leontovych住在东部城市波克罗夫斯克。几个月的俄罗斯袭击抹去了他在那里生活的大部分贡品。
+* The vote in Myanmar, widely seen as a sham, is a bid for legitimacy by the military government. It is also a way for Beijing to exert its influence there.
+* 缅甸的投票被广泛认为是虚假的，是对军政府合法性的投标。这也是北京在那里施加影响的一种方式。
+* For decades, Havaianas flip-flops have been a beloved global symbol of Brazilian culture, worn by millions of people each day. They are now ensnared in a political fight.
+* 几十年来，哈瓦那人字拖一直是巴西文化备受喜爱的全球象征，每天有数百万人穿着。他们现在陷入了一场政治斗争。
 * Since the cease-fire took effect, Israel says it has targeted only militants. But death can come for Gazans while on a family outing or sleeping in a tent.
 * 自停火生效以来，以色列表示它只针对武装分子。但是，加沙人在家庭外出或在帐篷里睡觉时可能会死亡。
 * Built during a cosmopolitan era in the 1960s, the Ariana closed when the Taliban took power, but it was still standing. Now it’s making way for a shopping mall.
 * 阿丽亚娜建于20世纪60年代的国际化时代，在塔利班掌权时关闭，但它仍然屹立不倒。现在它正在为购物中心让路。
 * The offer was the closest Mr. Zelensky has come to addressing the thorny territorial disputes in Donetsk that have repeatedly derailed peace talks.
 * 这是泽伦斯基先生最接近于解决顿涅茨克棘手的领土争端的提议，这些争端一再破坏和平谈判。
-* The country’s production of nuclear warheads has slowed, but its missiles may be poised to strike back fast in case of an attack, an annual assessment found.
-* 一项年度评估发现，该国的核弹头生产已经放缓，但其导弹可能会在发生袭击时迅速反击。
-* Two police officers died in the explosion, the authorities said. Earlier this week a car bomb killed a military commander in the same area of Russia’s capital.
-* 当局说，两名警察在爆炸中丧生。本周早些时候，一枚汽车炸弹在俄罗斯首都的同一地区炸死了一名军事指挥官。
-* While the new restrictions on firearms have broad support, new police powers to crack down on some protests were criticized as limits on civil liberties.
-* 虽然对枪支的新限制得到了广泛的支持，但打击一些抗议活动的新警察权力被批评为对公民自由的限制。
-* Thai warplanes have bombed compounds where people are forced to defraud others online. Rights activists say trafficking victims’ lives are at risk.
-* 泰国战机轰炸了大院，人们被迫在网上欺骗他人。人权活动人士表示，人口贩运受害者的生命处于危险之中。
-* The Houthi rebels and the internationally recognized government plan to exchange about 2,900 detainees, a rare humanitarian win at a time of deepening political stalemate.
-* 胡塞叛乱分子和国际公认的政府计划交换约2,900名被拘留者，这是在政治僵局加深之际罕见的人道主义胜利。
-* French lawmakers passed a special law on Tuesday to avoid a shutdown until a budget is adopted. Negotiations will resume in January.
-* 法国立法者周二通过了一项特别法律，以避免在预算通过之前关闭。谈判将于1月恢复。
-* The Swedish activist Greta Thunberg was arrested after holding a sign that the police said showed support for the group, which Britain banned this year.
-* 瑞典活动家Greta Thunberg在举着警方表示支持该组织的标志后被捕，英国今年禁止了该组织。
 
 ## New York Times United States News
-* After Mayor Andrew Ginther of Columbus said that its policy prohibited local cooperation on immigration enforcement, Elon Musk called him a “traitor.”
-* 在哥伦布市市长安德鲁·金瑟（ Andrew Ginther ）表示其政策禁止在移民执法方面进行当地合作之后，埃隆·马斯克（ Elon Musk ）称他为“叛徒”。
-* The administration has downplayed concerns — from mass job losses, to a potential financial bubble — as President Trump cheers soaring stock prices and faster growth.
-* 随着特朗普总统欢呼股价飙升和增长加快，特朗普政府淡化了人们的担忧--从大规模失业到潜在的金融泡沫。
-* The coalition of states seeks to stop a Trump administration effort to cut off federal funding to hospitals that provide such care.
-* 各州联盟试图阻止特朗普政府切断向提供此类护理的医院提供联邦资金的努力。
-* The Trump administration had sought to require states to account for population losses tied to deportations in order to receive emergency preparedness grants.
-* 特朗普政府曾试图要求各州对与驱逐有关的人口损失负责，以获得应急准备补助金。
-* The ease of recovering information that was not properly redacted digitally suggests that at least some of the documents released by the Justice Department were hastily censored.
-* 恢复未经适当数字编辑的信息的难易程度表明，至少司法部发布的一些文件被匆忙审查。
-* Over the past week, C-17 heavy-lift cargo planes, which usually transport troops and equipment, flew to Puerto Rico at least 16 times, according to flight tracking data reviewed by The New York Times.
-* 根据《纽约时报》审查的航班跟踪数据，过去一周，通常运送部队和设备的C-17重型货机至少飞往波多黎各16次。
-* One friend said Claudio Neves Valente appeared to live a detached life, upset that “he couldn’t be the genius he thought he should be.”
-* 一位朋友说，克劳迪奥·内维斯·瓦伦特（ Claudio Neves Valente ）似乎过着超然的生活，他对“他不可能成为他认为应该成为的天才”感到不安。
-* The troops will join an existing wave of Border Patrol agents, months after Gov. Jeff Landry first suggested that the National Guard could help tamp down on crime in Louisiana.
-* 在州长杰夫·兰德里（ Jeff Landry ）首次建议国民警卫队可以帮助遏制路易斯安那州的犯罪行为几个月后，这些部队将加入现有的边境巡逻队。
-* Deputies responded to a report of an active shooter at the Division of Motor Vehicles office in Wilmington, Del., the authorities said. The gunman has also died, officials said.
-* 当局表示，代表们对位于特拉华州威尔明顿的机动车辆办公室发生枪击事件的报告做出了回应。官员说，枪手也已经死亡。
-* A resident and an employee were killed after two explosions at the Bristol Health and Rehab Center resulted in a large fire and partial collapse of the building, officials said.
-* 官员说，在布里斯托尔健康和康复中心发生两次爆炸导致大火和建筑物部分倒塌后，一名居民和一名员工丧生。
+* The Trump administration has sought to move away from the model, which supporters call “evidence based” but opponents consider overly permissive.
+* 特朗普政府一直试图摆脱这种模式，支持者称之为“以证据为基础” ，但反对者认为这种模式过于宽容。
+* Since President Trump’s rise, Democrats have served as defenders of a political system many Americans believe is broken. Now the party is trying a new approach.
+* 自特朗普总统崛起以来，民主党一直是许多美国人认为已被打破的政治制度的捍卫者。现在，该党正在尝试一种新方法。
+* After a fatal shooting, the Trump administration froze a visa program for Afghans that Republicans in Congress had championed. The G.O.P. has not objected.
+* 在一次致命的枪击事件后，特朗普政府冻结了国会共和党人支持的阿富汗签证计划。G.O.P.没有反对。
+* A single ticket drawn Wednesday night won the second-largest U.S. lottery jackpot ever.
+* 周三晚上抽出的一张彩票赢得了美国有史以来第二大彩票大奖。
+* Chuck Redd, a jazz musician, said he canceled his annual concert after President Trump’s name was affixed to the Washington building’s facade.
+* 爵士音乐家查克·雷德（ Chuck Redd ）表示，在特朗普总统的名字贴在华盛顿大楼的正面之后，他取消了年度音乐会。
+* Imani Dia Smith, who appeared in “The Lion King,” died after she was stabbed at a home in Edison, the authorities said. A man faces murder charges related to the incident.
+* 当局表示，出现在《狮子王》中的伊玛尼·迪亚·史密斯（ Imani Dia Smith ）在爱迪生的一个家中被刺死。一名男子面临与此事件相关的谋杀指控。
+* Federal and local officials said the man, an immigrant from Portugal, tried to flee and harm agents. He and another man were hospitalized after a vehicle they were in crashed.
+* 联邦和地方官员说，这名来自葡萄牙的移民试图逃离并伤害特工。他和另一名男子在一辆车坠毁后住院治疗。
+* A plane from Mexico was on a medical mission on Monday when it crashed into Galveston Bay, and two men on the water that day helped save two lives.
+* 周一，一架来自墨西哥的飞机在医疗任务中坠入加尔维斯顿湾，当天有两名男子在水上帮助挽救了两条生命。
+* The Pacific nation, with a population of 18,000, overcame the resistance of governmental leaders and advisers, to sign a memorandum of understanding with the U.S., and will get additional aid in return.
+* 这个拥有18,000人口的太平洋国家克服了政府领导人和顾问的抵制，与美国签署了谅解备忘录，并将获得额外的援助作为回报。
+* Democratic lawmakers, who had criticized the Justice Department’s release of the material, accused the Trump administration of violating the law mandating the release of the files.
+* 批评司法部公布这些材料的民主党议员指责特朗普政府违反了要求公布这些文件的法律。
 
 ## New York Times Asia News
+* Tarique Rahman, who had managed his party’s political affairs from Britain, is back in his country to campaign in elections.
+* 塔里克·拉赫曼（ Tarique Rahman ）曾在英国管理其政党的政治事务，现在回到他的国家参加竞选。
+* The debut followed the North’s first test of a new surface-to-air missile and the arrival of a U.S. nuclear-powered attack sub for a port call in South Korea.
+* 此次首次亮相是在朝鲜首次测试新型地对空导弹以及美国核动力攻击潜艇抵达韩国港口停靠之后。
+* Found in a forest outside Kuala Lumpur, Malaysia, the plant steals nutrients from subterranean fungi.
+* 该植物在马来西亚吉隆坡郊外的一片森林中发现，从地下真菌中窃取养分。
+* The vote in Myanmar, widely seen as a sham, is a bid for legitimacy by the military government. It is also a way for Beijing to exert its influence there.
+* 缅甸的投票被广泛认为是虚假的，是对军政府合法性的投标。这也是北京在那里施加影响的一种方式。
+* A video of a child crying over her broken A.I. chatbot stirred up conversation in China, with some viewers questioning whether the gadgets are good for children. But the girl’s father says it’s more than a toy; it’s a family member.
+* 一个孩子为她破碎的人工智能聊天机器人哭泣的视频在中国引发了对话，一些观众质疑这些小工具是否适合儿童。但女孩的父亲说它不仅仅是一个玩具；它是一个家庭成员。
+* She was given the “hardest job under heaven”: upholding birth limits enforced by often brutal local officials. She came to support softening the policy, then abolishing it.
+* 她被赋予了“天下最艰难的工作” ：坚持出生限制，通常由残酷的地方官员执行。她开始支持软化政策，然后废除它。
 * The country’s production of nuclear warheads has slowed, but its missiles may be poised to strike back fast in case of an attack, an annual assessment found.
 * 一项年度评估发现，该国的核弹头生产已经放缓，但其导弹可能会在发生袭击时迅速反击。
 * While the new restrictions on firearms have broad support, new police powers to crack down on some protests were criticized as limits on civil liberties.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 泰国战机轰炸了大院，人们被迫在网上欺骗他人。人权活动人士表示，人口贩运受害者的生命处于危险之中。
 * Built during a cosmopolitan era in the 1960s, the Ariana closed when the Taliban took power, but it was still standing. Now it’s making way for a shopping mall.
 * 阿丽亚娜建于20世纪60年代的国际化时代，在塔利班掌权时关闭，但它仍然屹立不倒。现在它正在为购物中心让路。
-* After years of planning for cars that would let drivers take their hands off the wheel and eyes off the road, China’s regulators have become more cautious.
-* 经过多年的汽车计划，让驾驶员将手从方向盘上移开，眼睛从道路上移开，中国的监管机构变得更加谨慎。
-* A union representing career diplomats said such a mass recall had never happened in the history of the U.S. Foreign Service.
-* 代表职业外交官的工会表示，这样的大规模召回在美国外交部历史上从未发生过。
-* Bondholders for one of China’s biggest real estate developers extended a grace period to negotiate a delayed repayment of a $285 million bond issue.
-* 中国最大的房地产开发商之一的债券持有人延长了宽限期，以谈判延迟偿还2.85亿美元的债券发行。
-* Muslim co-workers accused the garment factory worker of blasphemy and dragged him into the street, where an angry mob murdered him.
-* 穆斯林同事指责服装厂工人亵渎神明，并将他拖到街上，一群愤怒的暴徒在那里谋杀了他。
-* Thousands gathered a week after gunmen killed 15 people at a Hanukkah celebration. But hints of political divisions and anti-immigration rhetoric have emerged.
-* 枪手在光明节庆祝活动中杀害了15人一周后，数千人聚集在一起。但出现了政治分歧和反移民言论的迹象。
-* The Chinese government once focused on political dissidents and exiled activists. Now, federal officials say, it is targeting artists in the United States whose creative protests test its tolerance.
-* 中国政府一度关注持不同政见者和流亡活动人士。现在，联邦官员说，它针对的是美国的艺术家，他们的创意抗议测试了它的容忍度。
 
