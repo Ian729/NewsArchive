@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* A crisis more than a century ago involved U.S. aims to assert military supremacy, a hard-partying dictator and frictions among the great powers.
+* 一个多世纪以前的一场危机涉及美国旨在维护军事霸权、强硬的独裁者和大国之间的摩擦。
+* Serhii Tyschenko, a Ukrainian combat medic, spent 472 days in a bunker. His case appears to be an extreme example of a problem that has long plagued Kyiv’s military.
+* 乌克兰作战军医Serhii Tyschenko在掩体中度过了472天。他的案件似乎是一个长期困扰基辅军队的问题的极端例子。
+* Brian Cox once toured as a keyboardist in major rock and pop bands. Now he’s a particle physicist on a new world tour with a dazzling show he designed in an era of science disinformation and denial.
+* 布莱恩·考克斯（ Brian Cox ）曾在主要摇滚和流行乐队担任键盘手。现在，他是一名粒子物理学家，正在进行新的世界巡回演出，他在一个科学虚假信息和否认的时代设计了一个令人眼花缭乱的节目。
+* A coup set off a brutal civil war and made a poor country poorer. Now its military rulers are seeking a veneer of legitimacy by holding elections.
+* 一场政变引发了一场残酷的内战，使一个贫穷的国家变得更加贫穷。现在，其军事统治者正在通过举行选举来寻求合法性的外表。
+* After the country barred children under 16 from using social media, many parents have been asking whether similarly tough action is needed in their own countries.
+* 在该国禁止16岁以下儿童使用社交媒体后，许多家长一直在问，他们自己的国家是否需要采取类似的强硬行动。
+* The 72-hour cease-fire could pave the way for an end to the fighting, which has killed dozens and displaced thousands over nearly three weeks.
+* 72小时的停火可以为结束战斗铺平道路，这场战斗在近三周内造成数十人死亡，数千人流离失所。
+* The assault began around 1:30 a.m. local time on Saturday and continued for nearly 10 hours.
+* 袭击始于当地时间周六凌晨1:30左右，持续了近10个小时。
+* Records show how government departments played down residents’ warnings about corrupt practices and substandard materials that fueled the deadly blaze.
+* 记录显示，政府部门如何淡化居民对腐败行为和不合格材料的警告，这些警告助长了致命的火灾。
+* Amid a ruinous civil war, the military government is holding elections that are widely seen as a sham, as the main opposition remains barred or jailed.
+* 在一场毁灭性的内战中，军政府正在举行被广泛视为虚假的选举，因为主要反对派仍然被禁止或被监禁。
 * After Israel sealed Gaza’s borders, Hoda Abu al-Naja, 12, who suffered from celiac disease, spent months seeking the food and care she needed to combat malnutrition.
 * 在以色列封锁加沙边界后， 12岁的霍达·阿布·纳贾（ Hoda Abu al-Naja ）患有乳糜泻，她花了数月时间寻找与营养不良作斗争所需的食物和护理。
-* The far-right group known as the R.S.S., whose members include Prime Minister Narendra Modi, has spent a century trying to make India a Hindu-first nation.
-* 被称为R.S.S.的极右翼组织，其成员包括总理纳伦德拉·莫迪（ Narendra Modi ） ，花了一个世纪的时间试图使印度成为印度教第一国家。
-* Ryan Wedding rose to fame as a Canadian Olympic athlete, but the authorities say he became one of the world’s biggest drug lords, who ordered an informant executed.
-* Ryan Wedding作为加拿大奥运会运动员声名鹊起，但当局称他成为世界上最大的毒枭之一，他下令处决一名线人。
-* There was no immediate confirmation from the White House about a meeting, which President Volodymyr Zelensky of Ukraine has sought since the latest U.S.-.led push for peace got underway.
-* 白宫没有立即确认乌克兰总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）自美国领导的最新和平努力开始以来一直寻求的会晤。
-* Fighting has caused the spread of illnesses like malaria and cholera. In a worst-case scenario, the situation could threaten regional health security, experts say.
-* 战斗导致了疟疾和霍乱等疾病的传播。专家表示，在最坏的情况下，这种情况可能会威胁到地区卫生安全。
-* The toll on older people and those with disabilities is especially severe as Moscow’s forces repeatedly attack the port city’s infrastructure.
-* 由于莫斯科的部队一再袭击港口城市的基础设施，老年人和残疾人的伤亡尤为严重。
-* After officials called the presidential race for Nasry Asfura, his rival, Salvador Nasralla, disputed the result and expressed ire over the U.S. role.
-* 在官员召集纳斯里·阿斯弗拉（ Nasry Asfura ）的总统竞选之后，他的竞争对手萨尔瓦多·纳斯拉拉（ Salvador Nasralla ）对结果提出异议，并对美国的角色表示愤怒
-* The debut followed the North’s first test of a new surface-to-air missile and the arrival of a U.S. nuclear-powered attack sub for a port call in South Korea.
-* 此次首次亮相是在朝鲜首次测试新型地对空导弹以及美国核动力攻击潜艇抵达韩国港口停靠之后。
-* The first draft essentially called for Ukraine’s surrender. The revised version includes the security guarantees Kyiv wants to prevent future Russian aggression.
-* 初稿基本上要求乌克兰投降。修订后的版本包括基辅希望防止未来俄罗斯侵略的安全保障。
-* The aircraft was on its descent from the mountain when it crashed around the Barafu Camp area in Kilimanjaro National Park, officials said.
-* 官员说，这架飞机在乞力马扎罗国家公园的Barafu营地附近坠毁时正在从山上下降。
 
 ## New York Times United States News
-* Zohran Mamdani’s campaign encouraged canvassers to ditch their scripts in pursuit of genuine, off-the-cuff-conversation. It’s a strategy that some Democratic strategists want to see more of.
-* 佐赫兰·马姆达尼（ Zohran Mamdani ）的竞选活动鼓励拉票者放弃剧本，追求真正的即兴对话。这是一些民主党战略家希望看到更多的战略。
-* The passage of Proposition 50, which redrew California’s congressional map, means that all of the state’s conservative north is likely to be represented by Democrats.
-* 重新绘制加利福尼亚州国会地图的50号提案的通过意味着，该州所有保守的北方都可能由民主党人代表。
-* Alain Rodriguez Colina, who was injured when a cargo plane crashed into his Kentucky workplace more than a month ago, died on Christmas Day.
-* 阿兰·罗德里格斯·科利纳（ Alain Rodriguez Colina ）在一个多月前一架货机坠毁在肯塔基州的工作场所时受伤，于圣诞节当天去世。
-* The attack comes after President Trump ordered the Defense Department last month to prepare to intervene militarily in Nigeria to protect Christians from Islamic militants.
-* 这次袭击发生在特朗普总统上个月命令国防部准备在尼日利亚进行军事干预，以保护基督徒免受伊斯兰武装分子的攻击之后。
-* Imran Ahmed, who runs an organization that chronicles disinformation, was among five Europeans the State Department had barred, claiming they promote censorship.
-* 伊姆兰·艾哈迈德（ Imran Ahmed ）经营着一个记录虚假信息的组织，是国务院禁止的五名欧洲人之一，声称他们促进了审查制度。
-* Many Americans can take advantage of President Trump’s deduction on auto loan interest, but the tax break will provide only modest savings.
-* 许多美国人可以利用特朗普总统对汽车贷款利息的扣除，但税收减免只能提供适度的储蓄。
-* The Baltic nation’s congressional liaison is using candy, an American flag outfit and “Die Hard” jokes to make friends in Congress as the Trump administration turns against Europe.
-* 在特朗普政府反对欧洲之际，波罗的海国家的国会联络员正在使用糖果、美国国旗服装和“Die Hard”笑话在国会结交朋友。
-* The Trump administration has sought to move away from the model, which supporters call “evidence based” but opponents consider overly permissive.
-* 特朗普政府一直试图摆脱这种模式，支持者称之为“以证据为基础” ，但反对者认为这种模式过于宽容。
-* Since President Trump’s rise, Democrats have served as defenders of a political system many Americans believe is broken. Now the party is trying a new approach.
-* 自特朗普总统崛起以来，民主党一直是许多美国人认为已被打破的政治制度的捍卫者。现在，该党正在尝试一种新方法。
-* After a fatal shooting, the Trump administration froze a visa program for Afghans that Republicans in Congress had championed. The G.O.P. has not objected.
-* 在一次致命的枪击事件后，特朗普政府冻结了国会共和党人支持的阿富汗签证计划。G.O.P.没有反对。
+* Discussion of leaving the building, designed by the architect I.M. Pei, has sparked developer interest and prompted debate over the merits of its distinctive design.
+* 由建筑师I.M. Pei设计的离开大楼的讨论引发了开发商的兴趣，并引发了对其独特设计优点的争论。
+* President Trump has driven illegal crossings at the border to record lows, helped bring about an uneasy cease-fire in Gaza and upended the global trading system.
+* 特朗普总统将边境的非法过境点降至历史最低点，帮助加沙实现了令人不安的停火，并颠覆了全球贸易体系。
+* The National Kidney Registry has matched thousands of kidney donors with recipients. It has also paid millions of dollars to a company owned by its founder.
+* 国家肾脏登记处已将数千名肾脏捐赠者与接受者进行了匹配。它还向其创始人拥有的公司支付了数百万美元。
+* California sued after the Trump administration cut grants for the long-planned project. The state says it will seek private investors instead.
+* 在特朗普政府削减了这个长期计划的项目的拨款后，加利福尼亚州提起诉讼。该州表示将寻找私人投资者。
+* The musician Chuck Redd called off the annual Christmas Eve performances after the Kennedy Center board added President Trump’s name to the performing arts center.
+* 在肯尼迪中心董事会将特朗普总统的名字添加到表演艺术中心之后，音乐家查克·雷德（ Chuck Redd ）取消了每年的圣诞节前夕表演。
+* The White House press secretary announced on Instagram that she was pregnant with a daughter who is due in May. She and her husband have a 1-year-old son.
+* 白宫新闻秘书在Instagram上宣布，她怀了一个女儿，女儿将于5月份到期。她和丈夫有一个1岁的儿子。
+* The grand jury received testimony that the man had acted to defend his son, who had faced bullying before the shooting, a local prosecutor said.
+* 当地一名检察官说，大陪审团收到的证词表明，这名男子采取行动是为了他的儿子辩护，他在枪击事件发生前曾面临欺凌。
+* The driver, who is known to her followers as Tea Tyme, was charged with two felonies in connection with the crash last month, the police in Illinois said.
+* 伊利诺伊州警方称，这名司机被她的追随者称为Tea Tyme ，因上个月的撞车事故被指控犯有两项重罪。
+* The shooting happened at the Shoshone County Sheriff’s Office in Wallace, Idaho, on Friday. The gunman was killed by the police, the authorities said.
+* 周五，枪击事件发生在爱达荷州华莱士的肖肖尼县警长办公室。当局说，枪手是被警察打死的。
+* The president is planning to meet with the leader of Ukraine in Florida just as the lawmakers are applying some pressure.
+* 总统计划在立法者施加压力的同时，在佛罗里达会见乌克兰领导人。
 
 ## New York Times Asia News
+* When American studios wouldn’t back his film about a laid-off manager committing gruesome murders, the director returned to Korea. Now he has a hit on his hands.
+* 当美国制片厂不支持他的关于下岗经理犯下可怕谋杀罪的电影时，导演回到了韩国。现在他的手被击中了。
+* A coup set off a brutal civil war and made a poor country poorer. Now its military rulers are seeking a veneer of legitimacy by holding elections.
+* 一场政变引发了一场残酷的内战，使一个贫穷的国家变得更加贫穷。现在，其军事统治者正在通过举行选举来寻求合法性的外表。
+* Amid a ruinous civil war, the military government is holding elections that are widely seen as a sham, as the main opposition remains barred or jailed.
+* 在一场毁灭性的内战中，军政府正在举行被广泛视为虚假的选举，因为主要反对派仍然被禁止或被监禁。
+* The 72-hour cease-fire could pave the way for an end to the fighting, which has killed dozens and displaced thousands over nearly three weeks.
+* 72小时的停火可以为结束战斗铺平道路，这场战斗在近三周内造成数十人死亡，数千人流离失所。
+* Records show how government departments played down residents’ warnings about corrupt practices and substandard materials that fueled the deadly blaze.
+* 记录显示，政府部门如何淡化居民对腐败行为和不合格材料的警告，这些警告助长了致命的火灾。
+* Najib Razak, the former prime minister already serving a sentence linked to the looting of the 1MDB fund, was found guilty of corruption in a related case.
+* 前总理纳吉布·拉扎克（ Najib Razak ）已经在与抢劫1MDB基金有关的判决中服刑，他在一起相关案件中被判犯有腐败罪。
 * Megacities in southern India are attracting enormous investments to help build artificial intelligence infrastructure to serve the world’s most data-hungry country.
 * 印度南部的大城市正在吸引大量投资，以帮助建设人工智能基础设施，为世界上最需要数据的国家服务。
 * A non-Japanese-speaking first-time visitor used Apple’s new in-ear translation feature to connect with locals at bars, sushi classes and even a fire ritual.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 多达25,000只自由放养的狗在印度拉达克的寒冷高海拔沙漠中漫步。这对野生动物和人类来说都是一个问题。
 * Fighting has caused the spread of illnesses like malaria and cholera. In a worst-case scenario, the situation could threaten regional health security, experts say.
 * 战斗导致了疟疾和霍乱等疾病的传播。专家表示，在最坏的情况下，这种情况可能会威胁到地区卫生安全。
-* The far-right group known as the R.S.S., whose members include Prime Minister Narendra Modi, has spent a century trying to make India a Hindu-first nation.
-* 被称为R.S.S.的极右翼组织，其成员包括总理纳伦德拉·莫迪（ Narendra Modi ） ，花了一个世纪的时间试图使印度成为印度教第一国家。
-* The Rashtriya Swayamsevak Sangh, known as the R.S.S., has survived bans and vilification to emerge as the force reshaping India’s secular republic into a Hindu nation.
-* 被称为R.S.S.的Rashtriya Swayamsevak Sangh在禁令和诽谤中幸存下来，成为将印度世俗共和国重塑为印度教国家的力量。
-* The holiday spirit is bringing people together, with celebrations of lights, dance and Santa.
-* 节日精神将人们聚集在一起，庆祝灯光、舞蹈和圣诞老人。
-* Leo XIV’s Christmas address was his first since being elected pontiff and was scrutinized for comparisons with those of his predecessor, Francis.
-* 利奥十四世的圣诞讲话是他当选教皇以来的第一次，并与他的前任弗朗西斯进行了仔细的比较。
-* Tarique Rahman, who had managed his party’s political affairs from Britain, is back in his country to campaign in elections.
-* 塔里克·拉赫曼（ Tarique Rahman ）曾在英国管理其政党的政治事务，现在回到他的国家参加竞选。
-* The debut followed the North’s first test of a new surface-to-air missile and the arrival of a U.S. nuclear-powered attack sub for a port call in South Korea.
-* 此次首次亮相是在朝鲜首次测试新型地对空导弹以及美国核动力攻击潜艇抵达韩国港口停靠之后。
 
