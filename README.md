@@ -2,54 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* China flew bombers and fired long-range artillery during a second day of exercises designed to show its ability to claim the island-democracy by force.
-* 中国在第二天的演习中飞行轰炸机并发射远程火炮，旨在展示其以武力宣称岛屿民主的能力。
-* Yonaguni, a tiny Japanese island near Taiwan, is getting soldiers, radar and missiles. As China’s dispute with Tokyo escalates, some residents are worried.
-* Yonaguni是靠近台湾的一个小岛，正在获得士兵、雷达和导弹。随着中国与东京的争端升级，一些居民感到担忧。
-* The Saudi-led coalition said its strike, at a port in southern Yemen, targeted weapons bound for a separatist group backed by the United Arab Emirates.
-* 沙特领导的联盟表示，它在也门南部的一个港口发动的袭击针对的是由阿拉伯联合酋长国支持的分离主义组织的武器。
-* A.I. has made it easy to put words in people’s mouths, and Prime Minister Keir Starmer of Britain has become a favorite target. The motive, experts say, is not political but financial.
-* 人工智能让人们很容易说话，英国首相基尔·斯塔默（ Keir Starmer ）已成为最受欢迎的目标。专家说，动机不是政治，而是经济。
-* Detty December means a month of “back to back to back” partying in Nigeria’s megacity, both for locals and visiting members of the diaspora. Bring your stamina, dancing shoes and wads of cash.
-* Detty December意味着尼日利亚特大城市一个月的“背靠背”派对，无论是当地人还是侨民。带上您的耐力、舞鞋和大量现金。
-* First came the scorched boat. Then the mangled bodies. Then the packets with traces of marijuana. Now, fishermen fear the ocean that feeds them.
-* 首先是烧焦的船。然后是破碎的尸体。然后是带有大麻痕迹的包裹。现在，渔民害怕喂养他们的海洋。
-* Moscow said a Ukrainian drone attack targeted a residence of President Vladimir V. Putin, which Ukraine denied, accusing the Kremlin of fabricating an excuse not to make peace.
-* 莫斯科表示，乌克兰无人机袭击了总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）的住所，乌克兰予以否认，指责克里姆林宫捏造借口不实现和平。
-* Prime Minister Benjamin Netanyahu of Israel has a series of vexing choices to make in the year ahead on issues including Gaza, conscription and a judicial overhaul, with elections looming.
-* 以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）在未来一年内将在加沙、征兵和司法改革等问题上做出一系列棘手的选择，选举迫在眉睫。
-* Though discussions produced little tangible progress, President Volodymyr Zelensky of Ukraine at least avoided the type of setbacks that have blighted earlier meetings.
-* 尽管讨论没有取得什么实质性进展，但乌克兰总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）至少避免了前几次会议遇到的那种挫折。
-* The United States is expected to adopt the vaccine schedule used by Denmark, a much smaller country with universal health care.
-* 预计美国将采用丹麦使用的疫苗接种时间表，丹麦是一个拥有全民医疗保健的小得多的国家。
+* Russian journalists learned that a government office inadvertently made thousands of sensitive complaints viewable online, including accounts of abuse and coercion in the military.
+* 俄罗斯记者了解到，政府办公室无意中在网上公开了数千起敏感投诉，包括军方虐待和胁迫的报道。
+* Protests have erupted in Aceh Province on the northern tip of Sumatra island, where anger and frustration are mounting over what many see as inadequate relief efforts by a distracted government.
+* 苏门答腊岛北端的亚齐省爆发了抗议活动，人们对许多人认为分心的政府救援工作不足感到愤怒和沮丧。
+* The actress, who died this week at 91, was an icon of 1960s cinema. She was also a hero to the French far right.
+* 这位女演员本周去世，享年91岁，是20世纪60年代电影的标志性人物。她也是法国极右翼的英雄。
+* The repatriation of the Cambodian soldiers captured in July comes on the heels of a 72-hour cease-fire that could end months of border skirmishes.
+* 7月份被俘的柬埔寨士兵的遣返是在72小时停火之后进行的，停火可能会结束数月的边境冲突。
+* Thousands of documents and interviews with Assad-era officials reveal how the regime worked to conceal evidence of its atrocities during the Syrian civil war.
+* 数千份文件和对阿萨德时代官员的采访揭示了该政权如何在叙利亚内战期间隐瞒其暴行的证据。
+* Saudi-led forces struck an Emirati shipment early Tuesday, worsening tensions between the once-close allies. The Saudis said the shipment had arms for a separatist group, which the Emiratis denied.
+* 沙特领导的部队周二早些时候袭击了阿联酋的一批货物，加剧了曾经紧密盟友之间的紧张关系。沙特人说，这批货物为分离主义组织提供武器，阿联酋人否认了这一说法。
+* Iranian leaders face pressure over a currency collapse and threats of possible military strikes from Israel and the United States over Tehran’s nuclear activities.
+* 伊朗领导人面临着货币崩溃的压力，以及以色列和美国可能对德黑兰核活动进行军事打击的威胁。
+* PostNord, the country’s longtime service, is delivering its last letters. Few Danes send snail mail anymore, but some are mourning the end of an era.
+* 该国的长期服务PostNord正在递送最后一封信。很少有丹麦人发送蜗牛邮件，但有些人正在哀悼一个时代的结束。
+* Cecilia Giménez’s repainting of an image of Jesus in 2012 was widely mocked online. But tourists flocked to see her work, reviving her struggling hometown.
+* 塞西莉亚·吉门尼斯（ Cecilia Giménez ）在2012年重新绘制耶稣的形象在网上受到广泛嘲笑。但游客蜂拥而至观看她的作品，重振了她苦苦挣扎的家乡。
+* China’s military also sent warships and aircraft during a second day of exercises designed to show its ability to claim the democratic island.
+* 中国军方还在第二天的演习中派遣了军舰和飞机，旨在展示其宣称拥有民主岛屿的能力。
 
 ## New York Times United States News
-* An inmate says that no one wanted to listen when he tried repeatedly to confess to a crime at a facility known for violence.
-* 一名囚犯说，当他在一家以暴力著称的设施中多次试图承认犯罪时，没有人愿意听。
-* The attack last week, on a dock purportedly used for shipping narcotics, did not kill anyone, people briefed on the operation said. But it was the first known U.S. operation inside Venezuela.
-* 知情人士称，上周在据称用于运输麻醉品的码头发生的袭击没有造成任何人死亡。但这是已知的美国在委内瑞拉境内的第一次行动。
-* The department said the state’s policy of granting unauthorized immigrants in-state financial aid at public colleges and universities violates federal law.
-* 该部门表示，该州在公立高校向未经授权的移民提供州内经济援助的政策违反了联邦法律。
-* The attack was the 30th announced by the U.S. military since early September. It came days after President Trump said the U.S. had struck a coastal site related to drugs and Venezuela.
-* 这次袭击是美国军方自9月初以来宣布的第30次袭击。就在几天前，特朗普总统表示，美国袭击了一个与毒品和委内瑞拉有关的沿海地点。
-* The American and Israeli leaders showed few signs of disagreement after meeting in Florida, giving no public indication of their growing strains over Gaza, Syria and other issues.
-* 美国和以色列领导人在佛罗里达州会晤后几乎没有表现出分歧的迹象，没有公开表明他们在加沙、叙利亚和其他问题上日益紧张。
-* On the fifth anniversary of the attack, which falls next Tuesday, Democrats plan to hold an informal hearing to review President Trump’s clemency for the rioters and G.O.P. attempts to sanitize the event.
-* 在下周二袭击事件发生五周年之际，民主党人计划举行一次非正式听证会，审查特朗普总统对骚乱者和共和党试图消毒事件的宽大处理。
-* The U.S.-led negotiations have made some progress, but still face fundamental challenges, including over security guarantees to counter future Russian aggression.
-* 以美国为首的谈判取得了一些进展，但仍面临着根本性的挑战，包括反对俄罗斯未来侵略的安全保障。
-* There is avid support, deep anger and for one person, regret over his choice last year.
-* 有狂热的支持，深深的愤怒，对于一个人来说，去年他为自己的选择感到遗憾。
-* Officials in Vermont and Buffalo, N.Y., warned residents to stay off the roads as a winter weather system brought thick sheets of ice and snow. Tens of thousands of power customers faced outages.
-* 佛蒙特州和纽约州布法罗市的官员警告居民不要上路，因为冬季天气系统会带来厚厚的冰雪。成千上万的电力客户面临停电。
-* States across the country have also passed new rules around cellphone usage for minors, medically assisted death and gender-related care.
-* 全国各州还通过了关于未成年人使用手机、医疗辅助死亡和性别相关护理的新规定。
+* New York Times reporters spent two days with the Coast Guard’s drug interdiction teams to see how they stop suspected drug smuggling boats and seize narcotics using nonlethal tactics.
+* 《纽约时报》记者与海岸警卫队的毒品拦截小组一起度过了两天，了解他们如何阻止可疑的毒品走私船只，并使用非致命手段缉获毒品。
+* Cutters are still stopping smugglers and seizing drugs, but the prosecutions of go-fast boat crews are dwindling in a realignment of federal resources.
+* 切割者仍在阻止走私者和缉获毒品，但随着联邦资源的重新调整，对快艇船员的起诉正在减少。
+* The twisting saga that separated the Hashemis in Oregon from their infant son has reached a new dead end: President Trump’s hold on all visas to the United States.
+* 将俄勒冈州的哈希米人与他们的婴儿儿子分开的扭曲传奇已经到了一个新的死胡同：特朗普总统持有所有前往美国的签证。
+* In China, trafficking marijuana is punishable by death. But in the United States, it has become a lucrative sideline for some favored sons of the motherland.
+* 在中国，贩运大麻可判处死刑。但在美国，它已经成为祖国一些受青睐的儿子的有利可图的副业。
+* The Republican served for almost three decades in Congress. He said he was withdrawing from public life after the diagnosis.
+* 这位共和党人在国会任职近三十年。他说，在确诊后，他将退出公共生活。
+* The number represents a more precise, and potentially much larger, figure than earlier estimates. The department is seeking to enlist about 400 lawyers to help in the review.
+* 这个数字比早先的估计更精确，而且可能要大得多。该部门正在寻求招募约400名律师来帮助进行审查。
+* A Democrat turned Republican, he was the only Native American during three terms in the House of Representatives and in 12 years in the Senate. He was also a judo expert and an Olympian.
+* 他是民主党人，后来转为共和党人，在众议院三届任期和参议院12年期间，他是唯一的美国原住民。他也是柔道专家和奥运会选手。
+* By holding a left-leaning seat in suburban Des Moines, Democrats ensured that Republicans would not have a supermajority in the State Senate.
+* 通过在得梅因郊区占据左倾席位，民主党确保共和党人在州参议院不会占据绝对多数。
+* The pause affects a funding stream that provides $185 million in annual aid to the state’s day care centers, as federal investigations into fraud in Minnesota’s social services programs continue.
+* 由于联邦政府继续调查明尼苏达州社会服务计划中的欺诈行为，这一暂停影响了每年向该州日托中心提供1.85亿美元援助的资金流。
+* Tatiana Schlossberg, who died on Tuesday, was the granddaughter of John F. Kennedy. But as a journalist, her first editor remembers, she insisted on putting in the work.
+* 周二去世的塔蒂亚娜·施洛斯伯格（ Tatiana Schlossberg ）是约翰·肯尼迪（ John F. Kennedy ）的孙女但作为一名记者，她的第一位编辑记得，她坚持要投入工作。
 
 ## New York Times Asia News
+* The repatriation of the Cambodian soldiers captured in July comes on the heels of a 72-hour cease-fire that could end months of border skirmishes.
+* 7月份被俘的柬埔寨士兵的遣返是在72小时停火之后进行的，停火可能会结束数月的边境冲突。
+* Protests have erupted in Aceh Province on the northern tip of Sumatra island, where anger and frustration are mounting over what many see as inadequate relief efforts by a distracted government.
+* 苏门答腊岛北端的亚齐省爆发了抗议活动，人们对许多人认为分心的政府救援工作不足感到愤怒和沮丧。
+* From Deng Xiaoping to Xi Jinping, generations of Communist Party bosses and military leaders invested in a strategic but heavily polluting industry.
+* 从邓小平到习近平，几代共产党老板和军事领导人投资于一个战略性但污染严重的行业。
+* A World Golf Hall of Famer who could drive a ball more than 300 yards in his prime, he recorded 113 victories.
+* 作为一名世界高尔夫名人堂成员，他可以在巅峰时期驾驶球超过300码，他取得了113场胜利。
 * The band’s label said it had dropped one of the girl group’s five members. NewJeans’s legal battle has drawn public scrutiny of the K-pop industry.
 * 乐队的标签说，它已经放弃了女子组合的五名成员之一。NewJeans的法律纠纷引起了公众对韩国流行音乐行业的审查。
-* China flew bombers and fired long-range artillery during a second day of exercises designed to show its ability to claim the island-democracy by force.
-* 中国在第二天的演习中飞行轰炸机并发射远程火炮，旨在展示其以武力宣称岛屿民主的能力。
+* China’s military also sent warships and aircraft during a second day of exercises designed to show its ability to claim the democratic island.
+* 中国军方还在第二天的演习中派遣了军舰和飞机，旨在展示其宣称拥有民主岛屿的能力。
 * Yonaguni, a tiny Japanese island near Taiwan, is getting soldiers, radar and missiles. As China’s dispute with Tokyo escalates, some residents are worried.
 * Yonaguni是靠近台湾的一个小岛，正在获得士兵、雷达和导弹。随着中国与东京的争端升级，一些居民感到担忧。
 * In office for three terms, she traded the country’s leadership with Sheikh Hasina, the head of another political dynasty, over decades. She was believed to be 80.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 最近开始在新罕布什尔州生产金属的Phoenix Tailings等公司正在使用新的加工方法与中国供应商竞争。
 * On a stopover in Saudi Arabia, the writer strolls along the corniche, lingers over coffee and explores the historic heart of this city on the Red Sea.
 * 这位作家在沙特阿拉伯中途停留，沿着滨海小巷漫步，在咖啡中徘徊，探索这座红海城市的历史中心。
-* The exercises ended months of relative calm across the Taiwan Strait, and came after the Trump administration announced plans for arms sales to the island.
-* 演习结束了台湾海峡数月的相对平静，也是在特朗普政府宣布向台湾出售武器的计划之后。
-* Soaring demand and extreme weather worsened by climate change have wiped out harvests of the popular purple yam.
-* 飙升的需求和极端天气因气候变化而恶化，使流行的紫色山药收成荡然无存。
-* Two brothers, both mechanical engineers, are climbing many of the world’s tall peaks to prove they have been measured incorrectly.
-* 两兄弟都是机械工程师，他们正在攀登世界上许多高峰，以证明他们的测量不正确。
-* Indonesia is building a new, green city in the jungle. Its future is far from certain, but new residents like living there.
-* 印度尼西亚正在丛林中建造一座新的绿色城市。它的未来还远未确定，但新居民喜欢住在那里。
 
