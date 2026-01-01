@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Russian journalists learned that a government office inadvertently made thousands of sensitive complaints viewable online, including accounts of abuse and coercion in the military.
-* 俄罗斯记者了解到，政府办公室无意中在网上公开了数千起敏感投诉，包括军方虐待和胁迫的报道。
+* The fire broke out around 1:30 a.m. at a bar at the Crans-Montana ski resort. Roughly 100 people were injured in the overnight blaze, the Swiss police said.
+* 凌晨1点30分左右， Crans-Montana滑雪胜地的一家酒吧发生了火灾。瑞士警方称，约有100人在夜间大火中受伤。
+* After a year of Russian advances, the goal for 2026 is simply to survive, said one officer in eastern Ukraine. “It’s hard to make any plans,” he said.
+* 乌克兰东部的一名军官说，经过俄罗斯一年的进步， 2026年的目标只是为了生存。“很难制定任何计划，”他说。
 * Protests have erupted in Aceh Province on the northern tip of Sumatra island, where anger and frustration are mounting over what many see as inadequate relief efforts by a distracted government.
 * 苏门答腊岛北端的亚齐省爆发了抗议活动，人们对许多人认为分心的政府救援工作不足感到愤怒和沮丧。
+* Russian journalists learned that a government office inadvertently made thousands of sensitive complaints viewable online, including accounts of abuse and coercion in the military.
+* 俄罗斯记者了解到，政府办公室无意中在网上公开了数千起敏感投诉，包括军方虐待和胁迫的报道。
+* Amid mounting street protests, businesses, universities and government offices stayed closed Wednesday under government orders, in 21 of 31 provinces, including Tehran.
+* 在街头抗议活动不断增加的情况下，包括德黑兰在内的31个省份中有21个省的企业、大学和政府办公室周三根据政府命令关闭。
 * The actress, who died this week at 91, was an icon of 1960s cinema. She was also a hero to the French far right.
 * 这位女演员本周去世，享年91岁，是20世纪60年代电影的标志性人物。她也是法国极右翼的英雄。
-* The repatriation of the Cambodian soldiers captured in July comes on the heels of a 72-hour cease-fire that could end months of border skirmishes.
-* 7月份被俘的柬埔寨士兵的遣返是在72小时停火之后进行的，停火可能会结束数月的边境冲突。
-* Thousands of documents and interviews with Assad-era officials reveal how the regime worked to conceal evidence of its atrocities during the Syrian civil war.
-* 数千份文件和对阿萨德时代官员的采访揭示了该政权如何在叙利亚内战期间隐瞒其暴行的证据。
-* Saudi-led forces struck an Emirati shipment early Tuesday, worsening tensions between the once-close allies. The Saudis said the shipment had arms for a separatist group, which the Emiratis denied.
-* 沙特领导的部队周二早些时候袭击了阿联酋的一批货物，加剧了曾经紧密盟友之间的紧张关系。沙特人说，这批货物为分离主义组织提供武器，阿联酋人否认了这一说法。
-* Iranian leaders face pressure over a currency collapse and threats of possible military strikes from Israel and the United States over Tehran’s nuclear activities.
-* 伊朗领导人面临着货币崩溃的压力，以及以色列和美国可能对德黑兰核活动进行军事打击的威胁。
-* PostNord, the country’s longtime service, is delivering its last letters. Few Danes send snail mail anymore, but some are mourning the end of an era.
-* 该国的长期服务PostNord正在递送最后一封信。很少有丹麦人发送蜗牛邮件，但有些人正在哀悼一个时代的结束。
-* Cecilia Giménez’s repainting of an image of Jesus in 2012 was widely mocked online. But tourists flocked to see her work, reviving her struggling hometown.
-* 塞西莉亚·吉门尼斯（ Cecilia Giménez ）在2012年重新绘制耶稣的形象在网上受到广泛嘲笑。但游客蜂拥而至观看她的作品，重振了她苦苦挣扎的家乡。
-* China’s military also sent warships and aircraft during a second day of exercises designed to show its ability to claim the democratic island.
-* 中国军方还在第二天的演习中派遣了军舰和飞机，旨在展示其宣称拥有民主岛屿的能力。
+* French lawmakers are expected next month to discuss a ban on social media for children. In his New Year’s Eve address, the French president restated his support for restricting their access.
+* 预计法国立法者下个月将讨论禁止儿童使用社交媒体的问题。法国总统在除夕致辞中重申支持限制他们的入境。
+* The number of American citizens held in Venezuela has grown since the start of the U.S. military and economic campaign against President Nicolás Maduro.
+* 自美国对总统尼古拉斯·马杜罗（ Nicolás Maduro ）发起军事和经济攻势以来，被关押在委内瑞拉的美国公民人数有所增加。
+* The robbers stole valuables with an insured value of at least $36 million from a bank in Gelsenkirchen, western Germany.
+* 劫匪从德国西部盖尔森基兴的一家银行偷走了价值至少3600万美元的贵重物品。
+* The West African countries said they made the decisions in retaliation against the Trump administration.
+* 西非国家表示，他们做出这些决定是为了报复特朗普政府。
 
 ## New York Times United States News
-* New York Times reporters spent two days with the Coast Guard’s drug interdiction teams to see how they stop suspected drug smuggling boats and seize narcotics using nonlethal tactics.
-* 《纽约时报》记者与海岸警卫队的毒品拦截小组一起度过了两天，了解他们如何阻止可疑的毒品走私船只，并使用非致命手段缉获毒品。
-* Cutters are still stopping smugglers and seizing drugs, but the prosecutions of go-fast boat crews are dwindling in a realignment of federal resources.
-* 切割者仍在阻止走私者和缉获毒品，但随着联邦资源的重新调整，对快艇船员的起诉正在减少。
-* The twisting saga that separated the Hashemis in Oregon from their infant son has reached a new dead end: President Trump’s hold on all visas to the United States.
-* 将俄勒冈州的哈希米人与他们的婴儿儿子分开的扭曲传奇已经到了一个新的死胡同：特朗普总统持有所有前往美国的签证。
-* In China, trafficking marijuana is punishable by death. But in the United States, it has become a lucrative sideline for some favored sons of the motherland.
-* 在中国，贩运大麻可判处死刑。但在美国，它已经成为祖国一些受青睐的儿子的有利可图的副业。
-* The Republican served for almost three decades in Congress. He said he was withdrawing from public life after the diagnosis.
-* 这位共和党人在国会任职近三十年。他说，在确诊后，他将退出公共生活。
-* The number represents a more precise, and potentially much larger, figure than earlier estimates. The department is seeking to enlist about 400 lawyers to help in the review.
-* 这个数字比早先的估计更精确，而且可能要大得多。该部门正在寻求招募约400名律师来帮助进行审查。
-* A Democrat turned Republican, he was the only Native American during three terms in the House of Representatives and in 12 years in the Senate. He was also a judo expert and an Olympian.
-* 他是民主党人，后来转为共和党人，在众议院三届任期和参议院12年期间，他是唯一的美国原住民。他也是柔道专家和奥运会选手。
-* By holding a left-leaning seat in suburban Des Moines, Democrats ensured that Republicans would not have a supermajority in the State Senate.
-* 通过在得梅因郊区占据左倾席位，民主党确保共和党人在州参议院不会占据绝对多数。
-* The pause affects a funding stream that provides $185 million in annual aid to the state’s day care centers, as federal investigations into fraud in Minnesota’s social services programs continue.
-* 由于联邦政府继续调查明尼苏达州社会服务计划中的欺诈行为，这一暂停影响了每年向该州日托中心提供1.85亿美元援助的资金流。
-* Tatiana Schlossberg, who died on Tuesday, was the granddaughter of John F. Kennedy. But as a journalist, her first editor remembers, she insisted on putting in the work.
-* 周二去世的塔蒂亚娜·施洛斯伯格（ Tatiana Schlossberg ）是约翰·肯尼迪（ John F. Kennedy ）的孙女但作为一名记者，她的第一位编辑记得，她坚持要投入工作。
+* The floods that struck last week just before the first anniversary of the January wildfires show how extreme weather is defining life in the L.A. region.
+* 就在1月野火一周年之前，上周发生的洪水表明，极端天气正在定义洛杉矶地区的生活。
+* The assessment rebutted a claim that the Russian leader made to President Trump in a phone call this week.
+* 该评估反驳了俄罗斯领导人本周在电话中向特朗普总统提出的指控。
+* The listing could make it more challenging for U.S. forces to board the ship, which an arm of the Kremlin’s maritime authority says is now flying the Russian flag.
+* 此次上市可能会使美军登上这艘船更具挑战性，克里姆林宫海事当局的一个部门表示，这艘船现在正在悬挂俄罗斯国旗。
+* The U.S. military attacked a convoy of three boats in the eastern Pacific on Tuesday, and two more on Wednesday, as part of the Trump administration’s campaign against people suspected of drug trafficking.
+* 美国军方周二在东太平洋袭击了一支由三艘船组成的船队，周三又袭击了两艘，这是特朗普政府打击涉嫌贩毒者的行动的一部分。
+* The ruling is a win for Gov. Gavin Newsom, who has vigorously opposed President Trump’s moves to control California’s National Guard since the summer.
+* 这项裁决对加州州长加文·纽瑟姆(Gavin Newsom)来说是一场胜利，他自今年夏天以来一直强烈反对特朗普总统控制加州国民警卫队的举动。
+* The former special counsel accused President Trump of “exploiting” violence on Jan. 6, 2021, according to an interview released by House Republicans.
+* 根据众议院共和党人发布的采访，这位前特别顾问指责特朗普总统在2021年1月6日“利用”暴力。
+* Chief Justice John G. Roberts Jr. did not directly address the tensions between the Trump administration and federal judges who have blocked the president’s agenda.
+* 首席大法官小约翰· G ·罗伯茨（ John G. Roberts Jr. ）没有直接解决特朗普政府与阻止总统议程的联邦法官之间的紧张关系。
+* The ruling found that the administration’s cancellation of the protections for migrants from Honduras, Nepal and Nicaragua was illegal.
+* 该裁决认定，政府取消对洪都拉斯、尼泊尔和尼加拉瓜移民的保护是非法的。
+* The troops had nearly no presence in two of the cities, Portland and Chicago. But the decision signaled a retreat, at least for now, in one of the president’s most audacious attempts to test his power.
+* 这支部队在波特兰和芝加哥这两个城市几乎没有存在。但这一决定标志着总统退缩，至少目前如此，这是总统测试其权力的最大胆尝试之一。
+* The president seems to be at war with the Democratic-led state as he raises the pressure on Colorado leaders to release a convicted election denier, Tina Peters, from state prison.
+* 总统似乎与民主党领导的州处于战争状态，因为他向科罗拉多州领导人施加压力，要求从州监狱释放一名被定罪的选举否认者蒂娜·彼得斯（ Tina Peters ）。
 
 ## New York Times Asia News
+* Beijing is using a ban on the humble mollusk to punish Japan over its apparent willingness to defend Taiwan.
+* 北京方面正在利用对这种卑微软体动物的禁令来惩罚日本显然愿意保卫台湾。
+* See how people across the globe celebrated.
+* 看看世界各地的人们如何庆祝。
+* Huge crowds turned out to say goodbye to Khaleda Zia, the country’s first female prime minister, amid a huge army presence following recent political violence.
+* 在最近的政治暴力事件发生后，大量人群向该国首位女总理卡莉达·齐亚（ Khaleda Zia ）告别。
 * The repatriation of the Cambodian soldiers captured in July comes on the heels of a 72-hour cease-fire that could end months of border skirmishes.
 * 7月份被俘的柬埔寨士兵的遣返是在72小时停火之后进行的，停火可能会结束数月的边境冲突。
 * Protests have erupted in Aceh Province on the northern tip of Sumatra island, where anger and frustration are mounting over what many see as inadequate relief efforts by a distracted government.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 中国军方还在第二天的演习中派遣了军舰和飞机，旨在展示其宣称拥有民主岛屿的能力。
 * Yonaguni, a tiny Japanese island near Taiwan, is getting soldiers, radar and missiles. As China’s dispute with Tokyo escalates, some residents are worried.
 * Yonaguni是靠近台湾的一个小岛，正在获得士兵、雷达和导弹。随着中国与东京的争端升级，一些居民感到担忧。
-* In office for three terms, she traded the country’s leadership with Sheikh Hasina, the head of another political dynasty, over decades. She was believed to be 80.
-* 几十年来，她与另一个政治王朝的领导人谢赫·哈西娜（ Sheikh Hasina ）交换了国家的领导权。她被认为是80岁。
-* Companies like Phoenix Tailings, which recently began producing metal in New Hampshire, are using new processing methods to compete with Chinese suppliers.
-* 最近开始在新罕布什尔州生产金属的Phoenix Tailings等公司正在使用新的加工方法与中国供应商竞争。
-* On a stopover in Saudi Arabia, the writer strolls along the corniche, lingers over coffee and explores the historic heart of this city on the Red Sea.
-* 这位作家在沙特阿拉伯中途停留，沿着滨海小巷漫步，在咖啡中徘徊，探索这座红海城市的历史中心。
 
