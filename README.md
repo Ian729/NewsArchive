@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The local police said that their preliminary toll was about 40 dead, with roughly 115 injured, in the early morning blaze at a bar in the resort town of Crans-Montana.
-* 当地警方表示，清晨在度假小镇Crans-Montana的一家酒吧发生火灾，初步伤亡人数约为40人，约115人受伤。
-* Gen. Mamady Doumbouya, who seized power more than four years ago, took over 80 percent of the vote, according to a government-controlled agency that he set up.
-* 据他设立的一个政府控制机构称，四年多前夺取政权的Mamady Doumbouya将军获得了80 ％以上的选票。
-* Financial pressures have fueled a fifth day of demonstrations around Iran, with at least one person killed in the protests so far, according to the authorities.
-* 据当局称，财政压力助长了伊朗周围第五天的示威活动，到目前为止，至少有一人在抗议活动中丧生。
+* President Trump announced that U.S. forces had carried out “a large scale strike against Venezuela” and were flying President Nicolás Maduro and his wife out of the country. The Trump administration had been building pressure on Mr. Maduro for months.
+* 特朗普总统宣布，美军对委内瑞拉进行了“大规模打击” ，并将总统尼古拉斯·马杜罗（ Nicolás Maduro ）和他的妻子空运出国。特朗普政府几个月来一直在对马杜罗施加压力。
+* While Kyiv has reported progress in negotiations, and is accelerating talks in the coming days, major questions remain unresolved about which countries will provide what kind of security for how long.
+* 尽管基辅报告了谈判进展，并在未来几天加快谈判，但关于哪些国家将在多长时间内提供何种安全保障的主要问题仍未得到解决。
+* It was a haven for the young, where they could find hot chocolate when they wanted quiet and affordable drinks when they did not. Then it turned into a place of death.
+* 这里是年轻人的天堂，当他们想要安静而实惠的饮料时，他们可以在那里找到热巧克力。然后它变成了一个死亡之地。
+* An official said the sparklers were attached to bottles of champagne held too close to the ceiling. Forty people died and more than 100 were injured. Many of the victims were teenagers.
+* 一位官员说，气泡酒附着在太靠近天花板的香槟瓶上。40人死亡， 100多人受伤。许多受害者是青少年。
+* Mr. Trump’s remarks that he was ready to come to the protesters’ “rescue” are a sharp escalation as protests over economic hardship turned deadly.
+* 随着对经济困难的抗议变得致命，特朗普表示他已准备好参加抗议者的“救援”的言论急剧升级。
+* The Saudi-backed government in Yemen said it would send forces to reclaim territory from a group that the United Arab Emirates supports.
+* 沙特支持的也门政府表示，将派遣部队从阿拉伯联合酋长国支持的团体手中收复领土。
+* President Volodymyr Zelensky said that in addition to that appointment, he planned to name a new defense minister as part of “a wave of personnel changes.”
+* 总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）表示，除了这一任命之外，他还计划任命一名新的国防部长，作为“人事变动浪潮”的一部分。
+* A tool for spotting pancreatic cancer in routine CT scans has had promising results, one example of how China is racing to apply A.I. to medicine’s tough problems.
+* 在常规CT扫描中发现胰腺癌的工具已经取得了令人鼓舞的结果，这是中国如何竞相将人工智能应用于医学棘手问题的一个例子。
+* The Zaporizhzhia plant, occupied by Russia, would be crucial to powering Ukraine’s postwar recovery.
+* 被俄罗斯占领的扎波罗热工厂对于乌克兰战后复苏至关重要。
 * At least 80 people were released, including one with U.S. ties, though more than 800 remain detained in Venezuela for opposing President Nicolás Maduro’s rule, rights groups say.
 * 人权组织表示，至少有80人被释放，其中包括一名与美国有联系的人，但仍有800多人因反对尼古拉斯·马杜罗总统的统治而被拘留在委内瑞拉。
-* About 40 people celebrating at a ski resort bar were killed, and 115 were injured, many of them young, the authorities said.
-* 当局表示，约有40人在滑雪胜地酒吧庆祝， 115人受伤，其中许多是年轻人。
-* After a year of Russian advances, the goal for 2026 is simply to survive, said one officer in eastern Ukraine. “It’s hard to make any plans,” he said.
-* 乌克兰东部的一名军官说，经过俄罗斯一年的进步， 2026年的目标只是为了生存。“很难制定任何计划，”他说。
-* Local residents were evacuated after a fire broke out at the Vondelkerk shortly after midnight. The cause of the blaze has not yet been confirmed.
-* 午夜过后不久， Vondelkerk发生火灾，当地居民被疏散。火灾原因尚未确定。
-* Tensions between Saudi Arabia and the United Arab Emirates burst into the open this week with an unusually direct confrontation that has global implications.
-* 沙特阿拉伯和阿拉伯联合酋长国之间的紧张局势本周爆发，发生了具有全球影响的异常直接的对抗。
-* Protests have erupted in Aceh Province on the northern tip of Sumatra island, where anger and frustration are mounting over what many see as inadequate relief efforts by a distracted government.
-* 苏门答腊岛北端的亚齐省爆发了抗议活动，人们对许多人认为分心的政府救援工作不足感到愤怒和沮丧。
-* Russian journalists learned that a government office inadvertently made thousands of sensitive complaints viewable online, including accounts of abuse and coercion in the military.
-* 俄罗斯记者了解到，政府办公室无意中在网上公开了数千起敏感投诉，包括军方虐待和胁迫的报道。
 
 ## New York Times United States News
-* In the 1970s, Congress passed a raft of laws to hold the White House accountable. President Trump has decided they don’t apply to him.
-* 20世纪70年代，国会通过了一系列法律，要求白宫承担责任。特朗普总统已决定不适用于他。
-* The tanker, which had been sailing to Venezuela to pick up oil, has claimed Russian protection, although the U.S. authorities say it is a stateless vessel.
-* 这艘油轮曾驶往委内瑞拉取油，已声称受到俄罗斯的保护，尽管美国当局称这是一艘无国籍船只。
-* A comedy writer bought the web domain TrumpKennedyCenter.org and the satirical site he created is drawing attention amid the backlash over the institution’s renaming.
-* 一位喜剧作家购买了网络域名TrumpKennedyCenter.org ，他创建的讽刺网站引起了人们对该机构更名的强烈反对。
-* After the federal government threatened to withhold funds for Minnesota’s child-care program, citing fraud concerns, parents and providers warned that the effects could be dire.
-* 在联邦政府以欺诈为由威胁要为明尼苏达州的儿童保育计划扣留资金之后，父母和提供者警告说，这种影响可能是可怕的。
-* The floods that struck last week just before the first anniversary of the January wildfires show how extreme weather is defining life in the L.A. region.
-* 就在1月野火一周年之前，上周发生的洪水表明，极端天气正在定义洛杉矶地区的生活。
-* The assessment rebutted a claim that the Russian leader made to President Trump in a phone call this week.
-* 该评估反驳了俄罗斯领导人本周在电话中向特朗普总统提出的指控。
-* The listing could make it more challenging for U.S. forces to board the ship, which an arm of the Kremlin’s maritime authority says is now flying the Russian flag.
-* 此次上市可能会使美军登上这艘船更具挑战性，克里姆林宫海事当局的一个部门表示，这艘船现在正在悬挂俄罗斯国旗。
-* The U.S. military attacked a convoy of three boats in the eastern Pacific on Tuesday, and two more on Wednesday, as part of the Trump administration’s campaign against people suspected of drug trafficking.
-* 美国军方周二在东太平洋袭击了一支由三艘船组成的船队，周三又袭击了两艘，这是特朗普政府打击涉嫌贩毒者的行动的一部分。
-* The ruling is a win for Gov. Gavin Newsom, who has vigorously opposed President Trump’s moves to control California’s National Guard since the summer.
-* 这项裁决对加州州长加文·纽瑟姆(Gavin Newsom)来说是一场胜利，他自今年夏天以来一直强烈反对特朗普总统控制加州国民警卫队的举动。
-* The former special counsel accused President Trump of “exploiting” violence on Jan. 6, 2021, according to an interview released by House Republicans.
-* 根据众议院共和党人发布的采访，这位前特别顾问指责特朗普总统在2021年1月6日“利用”暴力。
+* Since the arrest of Bryan Kohberger in the murder of four college students, a case that captivated the nation, his family has stayed silent. His sister now describes their pain and confusion.
+* 自从布莱恩·科贝格（ Bryan Kohberger ）在四名大学生被谋杀案中被捕以来，他的家人一直保持沉默。他的妹妹现在描述了他们的痛苦和困惑。
+* The Pennsylvania police did not say what charges would be filed against the former baseball star. His lawyer said the drugs were not Mr. Dykstra’s.
+* 宾夕法尼亚州警方没有说明会对这位前棒球明星提出什么指控。他的律师说，这些药物不是Dykstra先生的。
+* A Ninth Circuit panel said the ban ran afoul of a 2022 Supreme Court ruling that required courts to evaluate gun laws based on the country’s “historical tradition of firearm regulation.”
+* 第九巡回法院小组表示，该禁令违反了2022年最高法院的一项裁决，该裁决要求法院根据该国“枪支监管的历史传统”评估枪支法律。
+* Federal prosecutors say two female service members are facing fraud charges after having accepted thousands of dollars for the marriages.
+* 联邦检察官说，两名女军人在接受数千美元的婚姻后面临欺诈指控。
+* Some state-issued identification cards issued to legal immigrants could be valid longer than the people holding them are allowed to remain in the United States, state officials said.
+* 州官员表示，一些发放给合法移民的身份证的有效期可能长于持有者被允许留在美国的时间。
+* The haul highlights how the president’s team has continued aggressive fund-raising from donors with interests before the administration.
+* 这笔交易突显了总统的团队如何继续从在政府之前有兴趣的捐助者那里积极筹集资金。
+* A woman’s body was found on a trail on Crosier Mountain this week, with a mountain lion nearby.
+* 本周在克罗谢尔山的一条小径上发现了一名女子的尸体，附近有一只山狮。
+* The service said that conditions in the area where the search was taking place included nine-foot seas and winds approaching 50 miles per hour.
+* 该服务表示，正在进行搜索的区域的条件包括9英尺的海洋和风速接近每小时50英里。
+* A magistrate judge said he was concerned that the defendant, Brian Cole Jr., had continued after Jan. 6, 2021, to purchase components similar to those prosecutors said he had used to make pipe bombs.
+* 一名地方法官表示，他担心被告小布莱恩·科尔（ Brian Cole Jr. ）在2021年1月6日之后继续购买类似于检察官所说的用于制造管道炸弹的零部件。
+* Lawmakers head into President Trump’s second year facing questions about whether they can reclaim congressional clout in the face of his power grab.
+* 立法者进入特朗普总统的第二年，面临着他们是否能够在他的权力攫取面前收回国会影响力的问题。
 
 ## New York Times Asia News
+* It was not immediately clear what caused the blasts. The United States has been building pressure on Nicolás Maduro, Venezuela’s authoritarian president, for months.
+* 目前尚不清楚爆炸的原因。几个月来，美国一直在对委内瑞拉专制总统尼古拉斯·马杜罗（ Nicolás Maduro ）施加压力。
+* After spending nearly $50 billion to expand the country’s Tengiz oil field, Chevron and its partners encounter more uncertainty.
+* 在花费近500亿美元扩建该国的Tengiz油田后，雪佛龙及其合作伙伴遇到了更多的不确定性。
 * A tool for spotting pancreatic cancer in routine CT scans has had promising results, one example of how China is racing to apply A.I. to medicine’s tough problems.
 * 在常规CT扫描中发现胰腺癌的工具已经取得了令人鼓舞的结果，这是中国如何竞相将人工智能应用于医学棘手问题的一个例子。
 * Beijing is using a ban on the humble mollusk to punish Japan over its apparent willingness to defend Taiwan.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 从邓小平到习近平，几代共产党老板和军事领导人投资于一个战略性但污染严重的行业。
 * A World Golf Hall of Famer who could drive a ball more than 300 yards in his prime, he recorded 113 victories.
 * 作为一名世界高尔夫名人堂成员，他可以在巅峰时期驾驶球超过300码，他取得了113场胜利。
-* The band’s label said it had dropped one of the girl group’s five members. NewJeans’s legal battle has drawn public scrutiny of the K-pop industry.
-* 乐队的标签说，它已经放弃了女子组合的五名成员之一。NewJeans的法律纠纷引起了公众对韩国流行音乐行业的审查。
-* China’s military also sent warships and aircraft during a second day of exercises designed to show its ability to claim the democratic island.
-* 中国军方还在第二天的演习中派遣了军舰和飞机，旨在展示其宣称拥有民主岛屿的能力。
 
