@@ -2,50 +2,52 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Trump announced that U.S. forces had carried out “a large scale strike against Venezuela” and were flying President Nicolás Maduro and his wife out of the country. The Trump administration had been building pressure on Mr. Maduro for months.
-* 特朗普总统宣布，美军对委内瑞拉进行了“大规模打击” ，并将总统尼古拉斯·马杜罗（ Nicolás Maduro ）和他的妻子空运出国。特朗普政府几个月来一直在对马杜罗施加压力。
-* While Kyiv has reported progress in negotiations, and is accelerating talks in the coming days, major questions remain unresolved about which countries will provide what kind of security for how long.
-* 尽管基辅报告了谈判进展，并在未来几天加快谈判，但关于哪些国家将在多长时间内提供何种安全保障的主要问题仍未得到解决。
-* It was a haven for the young, where they could find hot chocolate when they wanted quiet and affordable drinks when they did not. Then it turned into a place of death.
-* 这里是年轻人的天堂，当他们想要安静而实惠的饮料时，他们可以在那里找到热巧克力。然后它变成了一个死亡之地。
-* An official said the sparklers were attached to bottles of champagne held too close to the ceiling. Forty people died and more than 100 were injured. Many of the victims were teenagers.
-* 一位官员说，气泡酒附着在太靠近天花板的香槟瓶上。40人死亡， 100多人受伤。许多受害者是青少年。
-* Mr. Trump’s remarks that he was ready to come to the protesters’ “rescue” are a sharp escalation as protests over economic hardship turned deadly.
-* 随着对经济困难的抗议变得致命，特朗普表示他已准备好参加抗议者的“救援”的言论急剧升级。
-* The Saudi-backed government in Yemen said it would send forces to reclaim territory from a group that the United Arab Emirates supports.
-* 沙特支持的也门政府表示，将派遣部队从阿拉伯联合酋长国支持的团体手中收复领土。
-* President Volodymyr Zelensky said that in addition to that appointment, he planned to name a new defense minister as part of “a wave of personnel changes.”
-* 总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）表示，除了这一任命之外，他还计划任命一名新的国防部长，作为“人事变动浪潮”的一部分。
-* A tool for spotting pancreatic cancer in routine CT scans has had promising results, one example of how China is racing to apply A.I. to medicine’s tough problems.
-* 在常规CT扫描中发现胰腺癌的工具已经取得了令人鼓舞的结果，这是中国如何竞相将人工智能应用于医学棘手问题的一个例子。
-* The Zaporizhzhia plant, occupied by Russia, would be crucial to powering Ukraine’s postwar recovery.
-* 被俄罗斯占领的扎波罗热工厂对于乌克兰战后复苏至关重要。
-* At least 80 people were released, including one with U.S. ties, though more than 800 remain detained in Venezuela for opposing President Nicolás Maduro’s rule, rights groups say.
-* 人权组织表示，至少有80人被释放，其中包括一名与美国有联系的人，但仍有800多人因反对尼古拉斯·马杜罗总统的统治而被拘留在委内瑞拉。
+* The Trump administration faced scrutiny over its plans for Venezuela after seizing President Nicolás Maduro and bringing him to New York to face drug trafficking charges. President Trump said the United States would “run the country,” but there were few indications of how.
+* 特朗普政府在逮捕总统尼古拉斯·马杜罗（ Nicolás Maduro ）并将他带到纽约面临贩毒指控后，其委内瑞拉计划面临审查。特朗普总统表示，美国将“管理这个国家” ，但很少有迹象表明是如何做到的。
+* The Ukrainian leader is reshuffling his cabinet as a corruption scandal reshapes the political landscape at a pivotal point in peace negotiations.
+* 这位乌克兰领导人正在改组他的内阁，因为腐败丑闻在和平谈判的关键时刻重塑了政治格局。
+* Nicolás Maduro balked at a gilded exile. U.S. officials then saw a more pliant option in his vice president, Delcy Rodríguez, known for stabilizing Venezuela’s economy.
+* 尼古拉斯·马杜罗（ Nicolás Maduro ）对镀金的流亡者犹豫不决。随后，美国官员在他以稳定委内瑞拉经济而闻名的副总统德尔西·罗德里格斯（ Delcy Rodríguez ）身上看到了一个更加顺从的选择。
+* On night walks through Highgate Wood, Cindy Blaney shares the whirling wonder of the often-maligned mammals with the humans below.
+* 在夜间漫步海格特伍德（ Highgate Wood ）时，辛迪·布莱尼（ Cindy Blaney ）与下面的人类分享了经常受到诅咒的哺乳动物的旋转奇迹。
+* The former fiancée of Donald Trump Jr., and the former wife of Gov. Gavin Newsom, is working hard and pushing deals with American business interests. She’s also up late at parties.
+* 小唐纳德·特朗普(Donald Trump Jr.)的前未婚妻、州长加文·纽森(Gavin Newsom)的前妻正在努力工作，推动与美国商业利益的交易。她在派对上也迟到了。
+* Enhe was once home to thousands of ethnic Russians. Under Xi Jinping’s push for ethnic unity, little remains beyond nostalgia and props for tourists.
+* 恩河曾经是成千上万俄罗斯人的家园。在习近平推动民族团结的推动下，除了对游客的怀旧和道具之外，几乎没有什么剩余。
+* The fire that killed at least 40 people in a Swiss bar on New Year’s Day was made more likely by apparent flaws in the site’s design and management, experts say.
+* 专家说，新年当天，瑞士一家酒吧发生火灾，造成至少40人死亡，更有可能是因为该酒吧的设计和管理存在明显缺陷。
+* The Swiss authorities say small fireworks on beverage bottles probably ignited foam insulation on the bar’s basement ceiling, setting off the broader blaze.
+* 瑞士当局表示，饮料瓶上的小烟花可能点燃了酒吧地下室天花板上的泡沫隔热材料，引发了更广泛的大火。
+* Days before he was captured, Nicolás Maduro expounded on his precarious position — and tried to offer an olive branch to President Trump.
+* 在他被捕前几天，尼古拉斯·马杜罗（ Nicolás Maduro ）阐述了他岌岌可危的地位—并试图向特朗普总统提供橄榄枝。
+* The interim leader is known for hewing to left-wing ideals, facing sanctions by the U.S. and European Union and building bridges with Venezuela’s business community.
+* 这位临时领导人以坚持左翼理想、面临美国和欧盟的制裁以及与委内瑞拉商界建立桥梁而闻名。
 
 ## New York Times United States News
-* Since the arrest of Bryan Kohberger in the murder of four college students, a case that captivated the nation, his family has stayed silent. His sister now describes their pain and confusion.
-* 自从布莱恩·科贝格（ Bryan Kohberger ）在四名大学生被谋杀案中被捕以来，他的家人一直保持沉默。他的妹妹现在描述了他们的痛苦和困惑。
-* The Pennsylvania police did not say what charges would be filed against the former baseball star. His lawyer said the drugs were not Mr. Dykstra’s.
-* 宾夕法尼亚州警方没有说明会对这位前棒球明星提出什么指控。他的律师说，这些药物不是Dykstra先生的。
-* A Ninth Circuit panel said the ban ran afoul of a 2022 Supreme Court ruling that required courts to evaluate gun laws based on the country’s “historical tradition of firearm regulation.”
-* 第九巡回法院小组表示，该禁令违反了2022年最高法院的一项裁决，该裁决要求法院根据该国“枪支监管的历史传统”评估枪支法律。
-* Federal prosecutors say two female service members are facing fraud charges after having accepted thousands of dollars for the marriages.
-* 联邦检察官说，两名女军人在接受数千美元的婚姻后面临欺诈指控。
-* Some state-issued identification cards issued to legal immigrants could be valid longer than the people holding them are allowed to remain in the United States, state officials said.
-* 州官员表示，一些发放给合法移民的身份证的有效期可能长于持有者被允许留在美国的时间。
-* The haul highlights how the president’s team has continued aggressive fund-raising from donors with interests before the administration.
-* 这笔交易突显了总统的团队如何继续从在政府之前有兴趣的捐助者那里积极筹集资金。
-* A woman’s body was found on a trail on Crosier Mountain this week, with a mountain lion nearby.
-* 本周在克罗谢尔山的一条小径上发现了一名女子的尸体，附近有一只山狮。
-* The service said that conditions in the area where the search was taking place included nine-foot seas and winds approaching 50 miles per hour.
-* 该服务表示，正在进行搜索的区域的条件包括9英尺的海洋和风速接近每小时50英里。
-* A magistrate judge said he was concerned that the defendant, Brian Cole Jr., had continued after Jan. 6, 2021, to purchase components similar to those prosecutors said he had used to make pipe bombs.
-* 一名地方法官表示，他担心被告小布莱恩·科尔（ Brian Cole Jr. ）在2021年1月6日之后继续购买类似于检察官所说的用于制造管道炸弹的零部件。
-* Lawmakers head into President Trump’s second year facing questions about whether they can reclaim congressional clout in the face of his power grab.
-* 立法者进入特朗普总统的第二年，面临着他们是否能够在他的权力攫取面前收回国会影响力的问题。
+* Stockton is known for its grit in the face of tragedy. A recent shooting that left four people dead, including three children, is testing the resilience of a city in search of reinvention.
+* 斯托克顿以面对悲剧的勇气而闻名。最近发生的一起枪击事件造成四人死亡，其中包括三名儿童，这场枪击事件正在考验一座城市寻求重建的复原力。
+* Highways were blocked and a regional airport shut down on Saturday when the latest in a long run of drenching rainstorms coincided with especially high tides.
+* 周六，高速公路被封锁，一个地区机场关闭，当时最近的一场长时间的暴雨恰逢特别高的潮汐。
+* For many, the removal of the Venezuelan leader Nicolás Maduro has not eased uncertainty about their immigration status in the United States.
+* 对许多人来说，委内瑞拉领导人尼古拉斯·马杜罗（ Nicolás Maduro ）的罢免并没有缓解他们在美国移民身份的不确定性。
+* President Trump opened a new chapter in American nation building as he declared that the United States had toppled Venezuela’s leader and would “run” the country for an indefinite period.
+* 特朗普总统开启了美国国家建设的新篇章，他宣称美国已经推翻了委内瑞拉领导人，并将无限期地“统治”该国。
+* President Trump’s pledge that the United States would “run” Venezuela for an indefinite period showed he is willing to enter foreign conflicts he once promised to end.
+* 特朗普总统承诺美国将无限期“统治”委内瑞拉，这表明他愿意参与他曾经承诺结束的外国冲突。
+* The White House had pointed to drug trafficking and migration as reasons to crack down on Nicolás Maduro. But oil emerged as central to President Trump.
+* 白宫指出，贩毒和移民是打击尼古拉斯·马杜罗的理由。但石油成为特朗普总统的核心。
+* The operation revives disputes over the legality of the 1989 Panama intervention, enhanced by President Trump’s vow to “run” Venezuela and Nicolás Maduro’s formal status as president.
+* 这次行动再次引发了对1989年巴拿马干预合法性的争议，特朗普总统发誓要“统治”委内瑞拉，以及尼古拉斯·马杜罗（ Nicolás Maduro ）作为总统的正式地位，加剧了这一争议。
+* In “Mistaken Identity: Race and Class in the Age of Trump,” he argued that focusing on identity obscured a more fundamental injustice: economic inequality.
+* 在“错误的身份：特朗普时代的种族和阶级”中，他认为关注身份掩盖了一个更根本的不公正：经济不平等。
+* The tactically precise operation successfully extracted Mr. Maduro with no loss of American life, a result heralded by President Trump amid larger questions about the legality and rationale for the U.S. actions in Venezuela.
+* 这一战术上精确的行动成功地提取了马杜罗，没有造成美国人的生命损失，特朗普总统预示着这一结果，人们对美国在委内瑞拉的行动的合法性和理由提出了更大的质疑。
+* Hannah C. Dugan, a state court judge, was convicted by a jury in federal court. Wisconsin lawmakers called on her to resign from the bench.
+* 州法院法官Hannah C. Dugan被联邦法院的陪审团定罪。威斯康星州立法者呼吁她辞去法官职务。
 
 ## New York Times Asia News
+* Enhe was once home to thousands of ethnic Russians. Under Xi Jinping’s push for ethnic unity, little remains beyond nostalgia and props for tourists.
+* 恩河曾经是成千上万俄罗斯人的家园。在习近平推动民族团结的推动下，除了对游客的怀旧和道具之外，几乎没有什么剩余。
 * It was not immediately clear what caused the blasts. The United States has been building pressure on Nicolás Maduro, Venezuela’s authoritarian president, for months.
 * 目前尚不清楚爆炸的原因。几个月来，美国一直在对委内瑞拉专制总统尼古拉斯·马杜罗（ Nicolás Maduro ）施加压力。
 * After spending nearly $50 billion to expand the country’s Tengiz oil field, Chevron and its partners encounter more uncertainty.
@@ -64,6 +66,4 @@ Auto RSS New York Times and Translate
 * 苏门答腊岛北端的亚齐省爆发了抗议活动，人们对许多人认为分心的政府救援工作不足感到愤怒和沮丧。
 * From Deng Xiaoping to Xi Jinping, generations of Communist Party bosses and military leaders invested in a strategic but heavily polluting industry.
 * 从邓小平到习近平，几代共产党老板和军事领导人投资于一个战略性但污染严重的行业。
-* A World Golf Hall of Famer who could drive a ball more than 300 yards in his prime, he recorded 113 victories.
-* 作为一名世界高尔夫名人堂成员，他可以在巅峰时期驾驶球超过300码，他取得了113场胜利。
 
