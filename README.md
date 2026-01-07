@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Trump told NBC News that the United States must first “nurse the country back to health,” and named a group of U.S. officials to oversee the next steps.
-* 特朗普总统告诉美国全国广播公司新闻，美国必须首先“让国家恢复健康” ，并任命了一群美国官员来监督接下来的步骤。
+* President Trump said Venezuelan officials had agreed to send millions of barrels. It would be their first major concession since the capture of President Nicolás Maduro.
+* 特朗普总统表示，委内瑞拉官员已同意运送数百万桶石油。这将是他们自尼古拉斯·马杜罗（ Nicolás Maduro ）总统被捕以来的首次重大让步。
 * Venezuela could lose the bulk of its oil export revenues this year if the U.S. blockade stays in place, according to internal government estimates, a scenario that would set off a humanitarian crisis.
 * 据政府内部估计，如果美国继续实施封锁，委内瑞拉今年可能会损失大部分石油出口收入，这种情况将引发人道主义危机。
-* The U.S. assault on Venezuela points to a world where big powers seek to call the shots in their regions, an idea Beijing knows well.
-* 美国对委内瑞拉的攻击指向一个大国寻求在其地区发号施令的世界，北京对此非常清楚。
+* Britain and France firmed up a postwar troop commitment in Ukraine, though Russia has said it will reject any deal that allows NATO-country forces in Ukraine.
+* 英国和法国坚定了战后在乌克兰的部队承诺，尽管俄罗斯表示将拒绝任何允许北约国家军队在乌克兰的协议。
 * Officials in Crans-Montana, the Swiss alpine resort town where a bar fire killed 40 people last week, are facing growing accusations of lax oversight.
 * 瑞士高山度假小镇克兰斯-蒙塔纳（ Crans-Montana ）的官员上周发生酒吧火灾，造成40人死亡，他们正面临越来越多的监管松懈的指控。
+* The U.S. assault on Venezuela points to a world where big powers seek to call the shots in their regions, an idea Beijing knows well.
+* 美国对委内瑞拉的攻击指向一个大国寻求在其地区发号施令的世界，北京对此非常清楚。
+* The talks, in Paris, are the latest bid to reduce tensions between two longtime enemies. A deal would help both curry favor with the Trump administration.
+* 在巴黎举行的会谈是缓解两个长期敌人之间紧张关系的最新举措。达成协议将有助于双方讨好特朗普政府。
 * With Russia still seen as unlikely to stop fighting, the Ukrainian leader’s tone has shifted from upbeat to cautionary.
 * 由于俄罗斯仍被视为不太可能停止战斗，乌克兰领导人的语气已从乐观转向警惕。
+* Rights groups accuse security forces of killing protesters and storming a hospital in the province of Ilam. State media claimed that some protesters were armed.
+* 人权组织指责安全部队杀害抗议者和袭击伊拉姆省的一家医院。官方媒体声称，一些抗议者持有武器。
 * When an exodus of Rohingya fled to Bangladesh a decade ago, the United Nations recorded many of their birthdays as Jan. 1. The date serves as a reminder of a lost identity.
 * 十年前，当罗兴亚人逃往孟加拉国时，联合国将他们的许多生日记录为1月1日。这个日期可以提醒您丢失了身份。
 * Prime Minister Benjamin Netanyahu has proposed a commission with members chosen in a way that departs from existing law.
 * 总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）提出了一个委员会，其成员的选择方式与现行法律背道而驰。
-* The capture of Nicolás Maduro is a devastating blow to the alliance between Venezuela and Cuba. Many wonder if the island nation will be targeted next.
-* 尼古拉斯·马杜罗（ Nicolás Maduro ）的被捕对委内瑞拉和古巴之间的联盟造成了毁灭性的打击。许多人怀疑这个岛国是否会成为下一个目标。
-* The payments are the latest step to alleviate economic pressures, but given the severity of the crisis, critics say, they are likely to do little.
-* 批评人士表示，这笔款项是缓解经济压力的最新举措，但鉴于危机的严重程度，它们可能无济于事。
-* A far-left group took responsibility, saying it was targeting the energy industry. Officials predicted it would take until Thursday to re-establish power in all areas.
-* 一个极左组织承担了责任，称其目标是能源行业。官员们预测，要到周四才能在所有地区重新掌权。
 
 ## New York Times United States News
-* Mr. Walz drew national notice when Kamala Harris chose him as her running mate. A fraud scandal derailed his bid for re-election as Minnesota’s governor.
-* 当卡玛拉·哈里斯(Kamala Harris)选择他作为她的竞选搭档时，瓦尔兹引起了全国的关注。一场欺诈丑闻使他连任明尼苏达州州长的竞选脱轨。
-* The funding pause could jeopardize child care and other programs that serve hundreds of thousands of households in California, Colorado, Illinois, Minnesota and New York.
-* 资金暂停可能会危及为加利福尼亚州、科罗拉多州、伊利诺伊州、明尼苏达州和纽约州数十万家庭服务的儿童保育和其他计划。
-* In a CNN interview, the Trump aide also echoed the president’s intent to run Venezuela as he laid out a case for the United States to control weaker states by flexing its military might.
-* 在接受美国有线电视新闻网采访时，特朗普的助手也回应了总统管理委内瑞拉的意图，因为他提出了一个美国通过展示其军事力量来控制弱国的案例。
-* The son and daughter of Melissa and Mark Hortman have asked the president to remove a social media post promoting a conspiracy theory about the assassination.
-* 梅丽莎（ Melissa ）和马克·霍特曼（ Mark Hortman ）的儿子和女儿要求总统删除社交媒体上关于暗杀阴谋论的帖子。
-* U.S. intelligence suggested María Corina Machado, Venezuela’s opposition leader, would struggle to lead the government. But her relationship with Trump officials had been souring for months.
-* 美国情报显示，委内瑞拉反对派领导人玛丽亚·科里纳·马查多（ María Corina Machado ）将难以领导政府。但她与特朗普官员的关系已经恶化了几个月。
-* The ruling on Monday upheld a lower court’s judgment in April that the Trump administration could not drastically slash funding from the National Institutes of Health.
-* 周一的裁决维持了下级法院4月份的判决，即特朗普政府不能大幅削减美国国立卫生研究院的资金。
-* He took part in White House machinations to stop leaks of classified information by overseeing an investigative unit that resorted to burglary. He then cooperated with Watergate investigators.
-* 他参与了白宫的阴谋，通过监督一个诉诸入室盗窃的调查部门来阻止机密信息的泄露。然后，他与水门事件调查人员合作。
-* A wildly important midterm year is off to a chaotic start, with a raid in Venezuela, an uneasy economy and more. Here’s what we’re curious about.
-* 随着对委内瑞拉的袭击、不稳定的经济等等，一个非常重要的中期年份开始混乱不堪。以下是我们感兴趣的内容。
-* Last year, before capturing President Nicolás Maduro, the Trump administration designated a Venezuelan slang term for drug corruption in the military as a terrorist organization and said he led it.
-* 去年，在抓获总统尼古拉斯·马杜罗（ Nicolás Maduro ）之前，特朗普政府将委内瑞拉俚语中的军方毒品腐败指定为恐怖组织，并表示他领导了这一组织。
-* Some pardoned rioters have been rearrested. Others returned to poverty and mental health challenges. And many became consumed by resentment and demands for payback.
-* 一些被赦免的暴徒再次被捕。其他人则重新陷入贫困和心理健康挑战。许多人被怨恨和回报的要求所吞噬。
+* After wildfires destroyed much of Altadena and Pacific Palisades, residents are struggling with how to move forward and who is to blame.
+* 在阿尔塔迪纳（ Altadena ）和太平洋帕利塞德（ Pacific Palisades ）的大部分地区被野火摧毁后，居民们正在努力解决如何前进以及谁应该受到指责的问题。
+* The “J6ers,” as they refer to themselves, praised President Trump but called for more action from his administration, including financial restitution and prison reform.
+* “J6ers”称赞了特朗普总统，但呼吁他的政府采取更多行动，包括财政归还和监狱改革。
+* A federal judge questioned whether the Trump administration appropriately reviewed safety conditions in Haiti before ending protections for people from the Caribbean nation.
+* 一名联邦法官质疑特朗普政府在结束对海地人民的保护之前是否适当地审查了海地的安全状况。
+* President Trump’s trusted adviser is casting his hard-right gaze abroad, saying the world must be governed by “force.”
+* 特朗普总统值得信赖的顾问正在将他强硬的右眼投向国外，称世界必须由“武力”统治。
+* The specifics of the memo are unclear. But Attorney General Pam Bondi told lawmakers in briefings this week that the administration would share the document with them.
+* 备忘录的具体内容尚不清楚。但司法部长帕姆·邦迪（ Pam Bondi ）在本周的简报中告诉立法者，政府将与他们分享该文件。
+* Timesha Beauchamp, 20, was found alive at a funeral home after she had been pronounced dead during a medical episode in Southfield, Mich. She died weeks later.
+* 20岁的Timesha Beauchamp在密歇根州南菲尔德的一次医疗事件中被宣布死亡后，在一家殡仪馆被发现活着。她几周后去世了。
+* “I don’t think any governor in history has had to fight a war against the federal government every single day,” Gov. Walz said after ending his re-election bid.
+* “我认为历史上没有任何一位州长不得不每天与联邦政府开战，”州长瓦尔兹在结束竞选连任后表示。
+* A city commission had just voted to consider the site of the old Hollywood Center Motel, which has long been vacant, for landmark status.
+* 一个城市委员会刚刚投票决定将长期空置的旧好莱坞中心汽车旅馆的场地视为地标。
+* Austin Smith resigned from the group founded by Charlie Kirk and suspended his bid for re-election to the Arizona House in 2024.
+* 奥斯汀·史密斯（ Austin Smith ）从查理·柯克（ Charlie Kirk ）创立的小组辞职，并于2024年暂停竞选亚利桑那州众议院连任。
+* President Trump has said since his first term that he wants to acquire Greenland, and he asked aides for an updated plan on Monday. European leaders reject the president’s assertions.
+* 特朗普总统自第一个任期以来就表示他希望收购格陵兰岛，并于周一要求助手们更新计划。欧洲领导人拒绝了总统的说法。
 
 ## New York Times Asia News
+* Tokyo is concerned at signs that Beijing may be laying the groundwork to restrict access to the metals vital to manufacturing.
+* 东京担心有迹象表明，北京可能正在为限制获得对制造业至关重要的金属奠定基础。
+* Policies meant to lure importers to Hainan, a resort island off China’s coast, signal an opening up, Beijing says. One expert calls it a “bait and switch.”
+* 北京表示，旨在将进口商吸引到海南（中国沿海的一个度假岛屿）的政策标志着开放。一位专家称之为“诱饵和开关”。
 * The U.S. assault on Venezuela points to a world where big powers seek to call the shots in their regions, an idea Beijing knows well.
 * 美国对委内瑞拉的攻击指向一个大国寻求在其地区发号施令的世界，北京对此非常清楚。
 * The reactions online revealed a Chinese society divided: Some saw what happened in Venezuela as a playbook for seizing Taiwan, while others warned about ideological rigidity.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 恩河曾经是成千上万俄罗斯人的家园。在习近平推动民族团结的推动下，除了对游客的怀旧和道具之外，几乎没有什么剩余。
 * It was not immediately clear what caused the blasts. The United States has been building pressure on Nicolás Maduro, Venezuela’s authoritarian president, for months.
 * 目前尚不清楚爆炸的原因。几个月来，美国一直在对委内瑞拉专制总统尼古拉斯·马杜罗（ Nicolás Maduro ）施加压力。
-* After spending nearly $50 billion to expand the country’s Tengiz oil field, the American oil giant and its partners encounter more uncertainty.
-* 在花费近500亿美元扩大该国的Tengiz油田后，美国石油巨头及其合作伙伴遇到了更多的不确定性。
-* A tool for spotting pancreatic cancer in routine CT scans has had promising results, one example of how China is racing to apply A.I. to medicine’s tough problems.
-* 在常规CT扫描中发现胰腺癌的工具已经取得了令人鼓舞的结果，这是中国如何竞相将人工智能应用于医学棘手问题的一个例子。
 
