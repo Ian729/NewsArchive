@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Trump said Venezuelan officials had agreed to send millions of barrels. It would be their first major concession since the capture of President Nicolás Maduro.
-* 特朗普总统表示，委内瑞拉官员已同意运送数百万桶石油。这将是他们自尼古拉斯·马杜罗（ Nicolás Maduro ）总统被捕以来的首次重大让步。
-* Venezuela could lose the bulk of its oil export revenues this year if the U.S. blockade stays in place, according to internal government estimates, a scenario that would set off a humanitarian crisis.
-* 据政府内部估计，如果美国继续实施封锁，委内瑞拉今年可能会损失大部分石油出口收入，这种情况将引发人道主义危机。
-* Britain and France firmed up a postwar troop commitment in Ukraine, though Russia has said it will reject any deal that allows NATO-country forces in Ukraine.
-* 英国和法国坚定了战后在乌克兰的部队承诺，尽管俄罗斯表示将拒绝任何允许北约国家军队在乌克兰的协议。
-* Officials in Crans-Montana, the Swiss alpine resort town where a bar fire killed 40 people last week, are facing growing accusations of lax oversight.
-* 瑞士高山度假小镇克兰斯-蒙塔纳（ Crans-Montana ）的官员上周发生酒吧火灾，造成40人死亡，他们正面临越来越多的监管松懈的指控。
-* The U.S. assault on Venezuela points to a world where big powers seek to call the shots in their regions, an idea Beijing knows well.
-* 美国对委内瑞拉的攻击指向一个大国寻求在其地区发号施令的世界，北京对此非常清楚。
-* The talks, in Paris, are the latest bid to reduce tensions between two longtime enemies. A deal would help both curry favor with the Trump administration.
-* 在巴黎举行的会谈是缓解两个长期敌人之间紧张关系的最新举措。达成协议将有助于双方讨好特朗普政府。
-* With Russia still seen as unlikely to stop fighting, the Ukrainian leader’s tone has shifted from upbeat to cautionary.
-* 由于俄罗斯仍被视为不太可能停止战斗，乌克兰领导人的语气已从乐观转向警惕。
-* Rights groups accuse security forces of killing protesters and storming a hospital in the province of Ilam. State media claimed that some protesters were armed.
-* 人权组织指责安全部队杀害抗议者和袭击伊拉姆省的一家医院。官方媒体声称，一些抗议者持有武器。
-* When an exodus of Rohingya fled to Bangladesh a decade ago, the United Nations recorded many of their birthdays as Jan. 1. The date serves as a reminder of a lost identity.
-* 十年前，当罗兴亚人逃往孟加拉国时，联合国将他们的许多生日记录为1月1日。这个日期可以提醒您丢失了身份。
-* Prime Minister Benjamin Netanyahu has proposed a commission with members chosen in a way that departs from existing law.
-* 总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）提出了一个委员会，其成员的选择方式与现行法律背道而驰。
+* In an interview with The New York Times, President Trump said “only time will tell” when asked how long the U.S. would want oversight of Venezuela.
+* 特朗普总统在接受《纽约时报》采访时表示，当被问及美国希望对委内瑞拉进行多长时间的监督时， “只有时间才能证明”。
+* Russians find a refuge on the beaches of Sanya from sanctions and “sideways looks,” toasting the New Year beside a Chinese nuclear submarine base.
+* 俄罗斯人在三亚海滩上找到了一个躲避制裁和“侧视”的避难所，在中国核潜艇基地旁边庆祝新年。
+* The conversation appeared to defuse a crisis that erupted after President Trump said military action against Colombia “sounds good.” President Gustavo Petro spoke to The New York Times just before the call.
+* 这次谈话似乎化解了特朗普总统表示对哥伦比亚采取军事行动“听起来不错”后爆发的危机。“古斯塔沃·佩特罗总统在通话前对《纽约时报》发表了讲话。
+* The Marinera, which was seized by the U.S., isn’t the only ship from the “shadow fleet” of oil tankers to switch lately to a Russian identity, seeking protection.
+* 被美国扣押的Marinera并不是“影子船队”中唯一一艘最近转向俄罗斯身份以寻求保护的油轮。
+* A new Gallup survey found that more than half of Venezuelans reported struggling to afford food last year, with economic hardship reaching even the wealthy.
+* 盖洛普的一项新调查发现，去年，超过一半的委内瑞拉人表示难以负担食物，经济困难甚至影响到了富人。
+* The Ukrainian authorities urged residents in the Dnipro region to stock up on water as crews raced to restore service.
+* 乌克兰当局敦促第聂伯罗地区的居民在船员竞相恢复服务时储备水。
+* Needing U.S. support to fend off Russia in Ukraine, European leaders have been cautious about criticizing President Trump on Greenland, Iran, Venezuela and much else.
+* 欧洲领导人需要美国的支持来抵御乌克兰的俄罗斯，他们对在格陵兰岛、伊朗、委内瑞拉和其他许多问题上批评特朗普总统持谨慎态度。
+* Analysts say the Cold War agreement allows the president to increase the American military presence almost at will.
+* 分析人士说，冷战协议允许总统几乎随意增加美国的军事存在。
+* Security forces have boarded buses, searched phones and interrogated people, looking for evidence that they welcomed the capture of Nicolás Maduro.
+* 安全部队登上公共汽车，搜查电话并审问人们，寻找他们欢迎尼古拉斯·马杜罗被捕的证据。
+* Some ask whether the shake-up risks disrupting the agencies’ operations and is political in nature.
+* 有些人质疑此次重组是否会扰乱各机构的运营，是否具有政治性质。
 
 ## New York Times United States News
-* After wildfires destroyed much of Altadena and Pacific Palisades, residents are struggling with how to move forward and who is to blame.
-* 在阿尔塔迪纳（ Altadena ）和太平洋帕利塞德（ Pacific Palisades ）的大部分地区被野火摧毁后，居民们正在努力解决如何前进以及谁应该受到指责的问题。
-* The “J6ers,” as they refer to themselves, praised President Trump but called for more action from his administration, including financial restitution and prison reform.
-* “J6ers”称赞了特朗普总统，但呼吁他的政府采取更多行动，包括财政归还和监狱改革。
-* A federal judge questioned whether the Trump administration appropriately reviewed safety conditions in Haiti before ending protections for people from the Caribbean nation.
-* 一名联邦法官质疑特朗普政府在结束对海地人民的保护之前是否适当地审查了海地的安全状况。
-* President Trump’s trusted adviser is casting his hard-right gaze abroad, saying the world must be governed by “force.”
-* 特朗普总统值得信赖的顾问正在将他强硬的右眼投向国外，称世界必须由“武力”统治。
-* The specifics of the memo are unclear. But Attorney General Pam Bondi told lawmakers in briefings this week that the administration would share the document with them.
-* 备忘录的具体内容尚不清楚。但司法部长帕姆·邦迪（ Pam Bondi ）在本周的简报中告诉立法者，政府将与他们分享该文件。
-* Timesha Beauchamp, 20, was found alive at a funeral home after she had been pronounced dead during a medical episode in Southfield, Mich. She died weeks later.
-* 20岁的Timesha Beauchamp在密歇根州南菲尔德的一次医疗事件中被宣布死亡后，在一家殡仪馆被发现活着。她几周后去世了。
-* “I don’t think any governor in history has had to fight a war against the federal government every single day,” Gov. Walz said after ending his re-election bid.
-* “我认为历史上没有任何一位州长不得不每天与联邦政府开战，”州长瓦尔兹在结束竞选连任后表示。
-* A city commission had just voted to consider the site of the old Hollywood Center Motel, which has long been vacant, for landmark status.
-* 一个城市委员会刚刚投票决定将长期空置的旧好莱坞中心汽车旅馆的场地视为地标。
-* Austin Smith resigned from the group founded by Charlie Kirk and suspended his bid for re-election to the Arizona House in 2024.
-* 奥斯汀·史密斯（ Austin Smith ）从查理·柯克（ Charlie Kirk ）创立的小组辞职，并于2024年暂停竞选亚利桑那州众议院连任。
-* President Trump has said since his first term that he wants to acquire Greenland, and he asked aides for an updated plan on Monday. European leaders reject the president’s assertions.
-* 特朗普总统自第一个任期以来就表示他希望收购格陵兰岛，并于周一要求助手们更新计划。欧洲领导人拒绝了总统的说法。
+* Enrollment increased to more than 301,000 as the system prepared for a budget debate in Sacramento.
+* 随着该系统为萨克拉门托的预算辩论做准备，入学人数增加到301,000多人。
+* Residents of the state said they were reeling after a series of blows that have exposed a deepening rift between the Trump administration and Minnesota leaders.
+* 该州居民表示，他们正在经历一系列打击，这些打击暴露了特朗普政府与明尼苏达州领导人之间日益加深的分歧。
+* The Pennsylvania governor starts out as a clear favorite, but Republicans are trying to make him sweat.
+* 宾夕法尼亚州州长一开始是一个明显的最爱，但共和党人正试图让他出汗。
+* After Claudio Neves Valente was accused of killing two Brown students and a M.I.T. professor, former classmates recalled how he yearned to go to M.I.T. himself and failed, adding to his growing list of resentments.
+* 在克劳迪奥·内维斯·瓦伦特（ Claudio Neves Valente ）被指控杀害两名布朗学生和一名麻省理工学院教授后，前同学回忆起他自己渴望去麻省理工学院却失败了，这增加了他越来越多的怨恨。
+* This year, for the first time, more Americans will earn a minimum wage of $15 per hour or higher than will earn the federal minimum of $7.25 per hour.
+* 今年，更多的美国人将首次获得每小时15 $或更高的最低工资，而不是每小时7.25 $的联邦最低工资。
+* The shooting did not appear to be a targeted attack against the church and seemed to stem from an altercation in its parking lot, the police said.
+* 警方称，枪击事件似乎不是针对教堂的针对性攻击，似乎源于停车场的争吵。
+* The exchange was a glimpse into the president’s reflexive defense of his federal crackdown on immigration.
+* 这次交流瞥见了总统对联邦政府打击移民的反射性辩护。
+* In a wide-ranging conversation with four Times reporters, President Trump talked about the Minneapolis ICE shooting, immigration, Venezuela and even his plans for further White House renovations.
+* 在与四位《泰晤士报》记者的广泛谈话中，特朗普总统谈到了明尼阿波利斯冰枪事件、移民、委内瑞拉，甚至他进一步翻修白宫的计划。
+* In a wide-ranging interview with The New York Times on Wednesday, President Trump said “only time will tell” when it comes to how long the United States aims to control the country.
+* 特朗普总统周三在接受《纽约时报》的广泛采访时表示， “只有时间才能证明”美国打算控制这个国家多久。
+* President Trump’s efforts to court President Vladimir V. Putin of Russia are rife with contradictions about stability and displays of American power.
+* 特朗普总统为俄罗斯总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）开庭的努力充满了稳定和美国实力展示方面的矛盾。
 
 ## New York Times Asia News
+* Regulators said they will look at whether the deal for Manus, a Singapore start-up with Chinese roots, complied with China’s export and investment rules.
+* 监管机构表示，他们将研究新加坡初创企业Manus的交易是否符合中国的出口和投资规则。
+* Russians find a refuge on the beaches of Sanya from sanctions and “sideways looks,” toasting the New Year beside a Chinese nuclear submarine base.
+* 俄罗斯人在三亚海滩上找到了一个躲避制裁和“侧视”的避难所，在中国核潜艇基地旁边庆祝新年。
 * Tokyo is concerned at signs that Beijing may be laying the groundwork to restrict access to the metals vital to manufacturing.
 * 东京担心有迹象表明，北京可能正在为限制获得对制造业至关重要的金属奠定基础。
 * Policies meant to lure importers to Hainan, a resort island off China’s coast, signal an opening up, Beijing says. One expert calls it a “bait and switch.”
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 近几十年来，北京向加拉加斯提供了数十亿美元的贷款，在委内瑞拉领导人下台后，欠款的命运受到质疑。
 * The secretary of state said that a military “quarantine” on some oil exports would stay in place to put pressure on the country’s acting leadership.
 * 这位国务卿表示，对一些石油出口的军事“隔离”将继续存在，以对该国的代理领导层施加压力。
-* Enhe was once home to thousands of ethnic Russians. Under Xi Jinping’s push for ethnic unity, little remains beyond nostalgia and props for tourists.
-* 恩河曾经是成千上万俄罗斯人的家园。在习近平推动民族团结的推动下，除了对游客的怀旧和道具之外，几乎没有什么剩余。
-* It was not immediately clear what caused the blasts. The United States has been building pressure on Nicolás Maduro, Venezuela’s authoritarian president, for months.
-* 目前尚不清楚爆炸的原因。几个月来，美国一直在对委内瑞拉专制总统尼古拉斯·马杜罗（ Nicolás Maduro ）施加压力。
 
