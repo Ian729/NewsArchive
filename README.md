@@ -2,51 +2,59 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* In an interview with The New York Times, President Trump said “only time will tell” when asked how long the U.S. would want oversight of Venezuela.
-* 特朗普总统在接受《纽约时报》采访时表示，当被问及美国希望对委内瑞拉进行多长时间的监督时， “只有时间才能证明”。
+* In a rebuke to the president, the Senate narrowly agreed to bring up a War Powers Act resolution for a vote next week. The measure would require Mr. Trump to seek congressional authorization for military operations in Venezuela.
+* 作为对总统的谴责，参议院勉强同意在下周提出战争权力法案决议进行投票。这项措施将要求特朗普寻求国会授权在委内瑞拉开展军事行动。
+* Myanmar’s junta created a capital to withstand an invasion. Now, the military struggles to project an image of control over a crumbling nation.
+* 缅甸军政府建立了一个首都来抵御入侵。现在，军方正在努力塑造控制一个摇摇欲坠的国家的形象。
 * Russians find a refuge on the beaches of Sanya from sanctions and “sideways looks,” toasting the New Year beside a Chinese nuclear submarine base.
 * 俄罗斯人在三亚海滩上找到了一个躲避制裁和“侧视”的避难所，在中国核潜艇基地旁边庆祝新年。
+* The military said it had completed the first phase of a plan to demilitarize armed groups as fears grew that Israel was preparing a new offensive against Hezbollah.
+* 军方表示，由于人们越来越担心以色列正在准备对真主党发动新的进攻，它已经完成了武装团体非军事化计划的第一阶段。
+* Aidarous al-Zubaidi is wanted on treason charges in Yemen after he led a lightning military offensive that escalated a bitter feud between the Emirates and Saudi Arabia.
+* 艾达鲁斯·祖贝迪（ Aidarous al-Zubaidi ）在也门因叛国罪被通缉，此前他领导了一场闪电般的军事攻势，加剧了阿联酋和沙特阿拉伯之间的激烈争执。
 * The conversation appeared to defuse a crisis that erupted after President Trump said military action against Colombia “sounds good.” President Gustavo Petro spoke to The New York Times just before the call.
 * 这次谈话似乎化解了特朗普总统表示对哥伦比亚采取军事行动“听起来不错”后爆发的危机。“古斯塔沃·佩特罗总统在通话前对《纽约时报》发表了讲话。
-* The Marinera, which was seized by the U.S., isn’t the only ship from the “shadow fleet” of oil tankers to switch lately to a Russian identity, seeking protection.
-* 被美国扣押的Marinera并不是“影子船队”中唯一一艘最近转向俄罗斯身份以寻求保护的油轮。
+* As protests swelled around the country, Iran’s internet was shut down, and the heads of its judiciary and its security services warned of a harsh response amid calls for “freedom, freedom.”
+* 随着全国各地的抗议活动激增，伊朗的互联网被关闭，司法部门和安全部门的负责人在呼吁“自由、自由”的呼声中警告说，伊朗将采取严厉的应对措施。
+* The interim government released some prisoners under pressure from the Trump administration, even as it continued arrests and crackdowns elsewhere.
+* 临时政府在特朗普政府的压力下释放了一些囚犯，尽管它继续在其他地方进行逮捕和镇压。
 * A new Gallup survey found that more than half of Venezuelans reported struggling to afford food last year, with economic hardship reaching even the wealthy.
 * 盖洛普的一项新调查发现，去年，超过一半的委内瑞拉人表示难以负担食物，经济困难甚至影响到了富人。
-* The Ukrainian authorities urged residents in the Dnipro region to stock up on water as crews raced to restore service.
-* 乌克兰当局敦促第聂伯罗地区的居民在船员竞相恢复服务时储备水。
-* Needing U.S. support to fend off Russia in Ukraine, European leaders have been cautious about criticizing President Trump on Greenland, Iran, Venezuela and much else.
-* 欧洲领导人需要美国的支持来抵御乌克兰的俄罗斯，他们对在格陵兰岛、伊朗、委内瑞拉和其他许多问题上批评特朗普总统持谨慎态度。
-* Analysts say the Cold War agreement allows the president to increase the American military presence almost at will.
-* 分析人士说，冷战协议允许总统几乎随意增加美国的军事存在。
-* Security forces have boarded buses, searched phones and interrogated people, looking for evidence that they welcomed the capture of Nicolás Maduro.
-* 安全部队登上公共汽车，搜查电话并审问人们，寻找他们欢迎尼古拉斯·马杜罗被捕的证据。
-* Some ask whether the shake-up risks disrupting the agencies’ operations and is political in nature.
-* 有些人质疑此次重组是否会扰乱各机构的运营，是否具有政治性质。
+* The Marinera, which was seized by the U.S., isn’t the only ship from the “shadow fleet” of oil tankers to switch lately to a Russian identity, seeking protection.
+* 被美国扣押的Marinera并不是“影子船队”中唯一一艘最近转向俄罗斯身份以寻求保护的油轮。
 
 ## New York Times United States News
-* Enrollment increased to more than 301,000 as the system prepared for a budget debate in Sacramento.
-* 随着该系统为萨克拉门托的预算辩论做准备，入学人数增加到301,000多人。
-* Residents of the state said they were reeling after a series of blows that have exposed a deepening rift between the Trump administration and Minnesota leaders.
-* 该州居民表示，他们正在经历一系列打击，这些打击暴露了特朗普政府与明尼苏达州领导人之间日益加深的分歧。
-* The Pennsylvania governor starts out as a clear favorite, but Republicans are trying to make him sweat.
-* 宾夕法尼亚州州长一开始是一个明显的最爱，但共和党人正试图让他出汗。
-* After Claudio Neves Valente was accused of killing two Brown students and a M.I.T. professor, former classmates recalled how he yearned to go to M.I.T. himself and failed, adding to his growing list of resentments.
-* 在克劳迪奥·内维斯·瓦伦特（ Claudio Neves Valente ）被指控杀害两名布朗学生和一名麻省理工学院教授后，前同学回忆起他自己渴望去麻省理工学院却失败了，这增加了他越来越多的怨恨。
-* This year, for the first time, more Americans will earn a minimum wage of $15 per hour or higher than will earn the federal minimum of $7.25 per hour.
-* 今年，更多的美国人将首次获得每小时15 $或更高的最低工资，而不是每小时7.25 $的联邦最低工资。
-* The shooting did not appear to be a targeted attack against the church and seemed to stem from an altercation in its parking lot, the police said.
-* 警方称，枪击事件似乎不是针对教堂的针对性攻击，似乎源于停车场的争吵。
-* The exchange was a glimpse into the president’s reflexive defense of his federal crackdown on immigration.
-* 这次交流瞥见了总统对联邦政府打击移民的反射性辩护。
-* In a wide-ranging conversation with four Times reporters, President Trump talked about the Minneapolis ICE shooting, immigration, Venezuela and even his plans for further White House renovations.
-* 在与四位《泰晤士报》记者的广泛谈话中，特朗普总统谈到了明尼阿波利斯冰枪事件、移民、委内瑞拉，甚至他进一步翻修白宫的计划。
-* In a wide-ranging interview with The New York Times on Wednesday, President Trump said “only time will tell” when it comes to how long the United States aims to control the country.
-* 特朗普总统周三在接受《纽约时报》的广泛采访时表示， “只有时间才能证明”美国打算控制这个国家多久。
-* President Trump’s efforts to court President Vladimir V. Putin of Russia are rife with contradictions about stability and displays of American power.
-* 特朗普总统为俄罗斯总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）开庭的努力充满了稳定和美国实力展示方面的矛盾。
+* The confrontations over the last four months have left two people dead and prompted criticism of federal agencies for allowing officers to open fire on moving vehicles.
+* 过去四个月的对抗导致两人死亡，并引发对联邦机构允许官员向行驶中的车辆开火的批评。
+* The U.S. campaign in Venezuela has drawn from a centuries-old playbook employing naval force — but added some new elements, too.
+* 美国在委内瑞拉的战役借鉴了数百年来使用海军的剧本，但也增加了一些新内容。
+* They don’t like nation building, but they do want to project American power.
+* 他们不喜欢国家建设，但他们确实想投射美国的力量。
+* Brian Heywood, a Seattle-area hedge fund founder, has spent millions to put conservative initiatives in front of Washington lawmakers and voters. Next up: parental rights and transgender athletes.
+* 西雅图地区对冲基金创始人布莱恩·海伍德（ Brian Heywood ）已花费数百万美元在华盛顿立法者和选民面前提出保守的倡议。接下来：父母权利和跨性别运动员。
+* Two people were shot by federal agents during a traffic stop. Gov. Tina Kotek of Oregon has called for a transparent investigation.
+* 在一次交通阻塞中，两人被联邦特工枪杀。俄勒冈州州长Tina Kotek呼吁进行透明的调查。
+* The administration cited without evidence “potential” widespread fraud in its move to cut off funds for child care subsidies and other support for low-income families.
+* 政府在没有证据的情况下引用了“潜在”的普遍欺诈行为，以切断对低收入家庭的儿童保育补贴和其他支持资金。
+* The guidance comes as immigration officers have been met with increasingly hostile protesters in cities.
+* 该指南发布之际，移民官员在城市中遇到了越来越多的敌对抗议者。
+* The president told The Times that he felt “strongly” that Russia would not invade Ukraine again.
+* 总统告诉《泰晤士报》，他“强烈”认为俄罗斯不会再次入侵乌克兰。
+* A new lawsuit claims that Washington State University, where Bryan Kohberger was a Ph.D. student, failed to take decisive action on earlier complaints that he was stalking women.
+* 一项新的诉讼声称，布莱恩·科伯格（ Bryan Kohberger ）是华盛顿州立大学的博士生，他未能对早些时候关于他跟踪女性的投诉采取果断行动。
+* “What I saw in her work was a writer that was trying to illuminate the lives of others,” a faculty member recalled.
+* “我在她的作品中看到的是一位试图照亮他人生活的作家，”一位教职员工回忆道。
 
 ## New York Times Asia News
-* Regulators said they will look at whether the deal for Manus, a Singapore start-up with Chinese roots, complied with China’s export and investment rules.
+* A computer simulation ordered by the government showed that everyone on board would have survived if the concrete berm had been made of materials that easily broke apart.
+* 政府下令进行的计算机模拟表明，如果混凝土护堤是由容易破裂的材料制成的，船上的每个人都会幸存下来。
+* Myanmar’s junta created a capital to withstand an invasion. Now, the military struggles to project an image of control over a crumbling nation.
+* 缅甸军政府建立了一个首都来抵御入侵。现在，军方正在努力塑造控制一个摇摇欲坠的国家的形象。
+* On topic after topic, President Trump made clear that he would be the arbiter of any limits to his authorities, not international law or treaties.
+* 在一个又一个话题上，特朗普总统明确表示，他将成为对其当局的任何限制的仲裁者，而不是国际法或条约。
+* Experts say the scam industry has become a pillar of Cambodia’s economy, but it is under pressure from other countries to crack down.
+* 专家表示，诈骗行业已成为柬埔寨经济的支柱，但受到其他国家打击的压力。
+* Regulators said they would look at whether the deal for Manus, a Singapore start-up with Chinese roots, complied with China’s export and investment rules.
 * 监管机构表示，他们将研究新加坡初创企业Manus的交易是否符合中国的出口和投资规则。
 * Russians find a refuge on the beaches of Sanya from sanctions and “sideways looks,” toasting the New Year beside a Chinese nuclear submarine base.
 * 俄罗斯人在三亚海滩上找到了一个躲避制裁和“侧视”的避难所，在中国核潜艇基地旁边庆祝新年。
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 美国对委内瑞拉的攻击指向一个大国寻求在其地区发号施令的世界，北京对此非常清楚。
 * The reactions online revealed a Chinese society divided: Some saw what happened in Venezuela as a playbook for seizing Taiwan, while others warned about ideological rigidity.
 * 网上的反应揭示了一个分裂的中国社会：一些人认为委内瑞拉发生的事情是夺取台湾的剧本，而另一些人则警告意识形态僵化。
-* When an exodus of Rohingya fled to Bangladesh a decade ago, the United Nations recorded many of their birthdays as Jan. 1. The date serves as a reminder of a lost identity.
-* 十年前，当罗兴亚人逃往孟加拉国时，联合国将他们的许多生日记录为1月1日。这个日期可以提醒您丢失了身份。
-* Mr. Ahn, who made his onscreen debut as a 5-year-old, appeared in more than 180 films. President Lee Jae-myung said he “left a great footprint in Korean film history.”
-* 安先生在5岁时首次亮相银幕，出演了180多部电影。韩国总统李在明说，他“在韩国电影史上留下了巨大的足迹”。
-* Beijing has lent billions to Caracas in recent decades, and the fate of money it is owed is in question after the ouster of Venezuela’s leader.
-* 近几十年来，北京向加拉加斯提供了数十亿美元的贷款，在委内瑞拉领导人下台后，欠款的命运受到质疑。
-* The secretary of state said that a military “quarantine” on some oil exports would stay in place to put pressure on the country’s acting leadership.
-* 这位国务卿表示，对一些石油出口的军事“隔离”将继续存在，以对该国的代理领导层施加压力。
 
