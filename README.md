@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* In a rebuke to the president, the Senate narrowly agreed to bring up a War Powers Act resolution for a vote next week. The measure would require Mr. Trump to seek congressional authorization for military operations in Venezuela.
-* 作为对总统的谴责，参议院勉强同意在下周提出战争权力法案决议进行投票。这项措施将要求特朗普寻求国会授权在委内瑞拉开展军事行动。
+* In a serious challenge to Iran’s authoritarian government, angry protests have spread from the markets and universities of major cities to the impoverished towns in the hinterland.
+* 在对伊朗专制政府的严峻挑战中，愤怒的抗议活动从主要城市的市场和大学蔓延到内地的贫困城镇。
+* For the Russian leader, courting President Trump to secure a favorable resolution in Ukraine, and possibly more, is far more important.
+* 对俄罗斯领导人来说，争取特朗普总统在乌克兰达成有利的解决方案，甚至可能更重要。
+* Delcy Rodríguez, a guerrilla’s daughter, started out as a provocateur. She pivoted to revive a ravaged economy, making her vital to U.S. plans to run Venezuela.
+* 游击队的女儿德尔西·罗德里格斯（ Delcy Rodríguez ）最初是一个挑衅者。她致力于重振饱受蹂躏的经济，这使她对美国管理委内瑞拉的计划至关重要。
+* European officials were stunned that President Trump restated his desire for Greenland after a yearlong effort to dissuade him, according to diplomats and others.
+* 根据外交官和其他人的说法，欧洲官员对特朗普总统重申他对格陵兰岛的渴望感到震惊。
+* President Trump’s retaliation against top officials at the International Criminal Court has shut them out of American services and made even routine daily tasks a challenge.
+* 特朗普总统对国际刑事法院高级官员的报复将他们排除在美国服务之外，甚至使日常任务成为挑战。
+* The attack seemed intended to send a message to Europe as it strongly backs Kyiv in the peace talks.
+* 这次袭击似乎是为了向欧洲发出一个信息，因为它在和平谈判中强烈支持基辅。
+* After days of fierce protest, Ayatollah Ali Khamenei accused protesters of trying to “please” President Trump. Iranian authorities signaled further crackdowns on the demonstrations.
+* 经过数天的激烈抗议，阿亚图拉·阿里·哈梅内伊（ Ayatollah Ali Khamenei ）指责抗议者试图“讨好”特朗普总统。伊朗当局表示将进一步镇压示威活动。
+* President Gustavo Petro said that the new tone between the leaders was “friendly,” but he also resurfaced his deep disagreements with President Trump.
+* 古斯塔沃·佩特罗（ Gustavo Petro ）总统表示，两位领导人之间的新基调是“友好的” ，但他也重新表达了与特朗普总统的深刻分歧。
+* A delegation from the Southern Transitional Council in Riyadh announced its dissolution, but members abroad rejected the news amid fears it was not voluntary.
+* 利雅得南部过渡委员会的一个代表团宣布解散，但由于担心这不是自愿的，海外成员拒绝了这一消息。
 * Myanmar’s junta created a capital to withstand an invasion. Now, the military struggles to project an image of control over a crumbling nation.
 * 缅甸军政府建立了一个首都来抵御入侵。现在，军方正在努力塑造控制一个摇摇欲坠的国家的形象。
-* Russians find a refuge on the beaches of Sanya from sanctions and “sideways looks,” toasting the New Year beside a Chinese nuclear submarine base.
-* 俄罗斯人在三亚海滩上找到了一个躲避制裁和“侧视”的避难所，在中国核潜艇基地旁边庆祝新年。
-* The military said it had completed the first phase of a plan to demilitarize armed groups as fears grew that Israel was preparing a new offensive against Hezbollah.
-* 军方表示，由于人们越来越担心以色列正在准备对真主党发动新的进攻，它已经完成了武装团体非军事化计划的第一阶段。
-* Aidarous al-Zubaidi is wanted on treason charges in Yemen after he led a lightning military offensive that escalated a bitter feud between the Emirates and Saudi Arabia.
-* 艾达鲁斯·祖贝迪（ Aidarous al-Zubaidi ）在也门因叛国罪被通缉，此前他领导了一场闪电般的军事攻势，加剧了阿联酋和沙特阿拉伯之间的激烈争执。
-* The conversation appeared to defuse a crisis that erupted after President Trump said military action against Colombia “sounds good.” President Gustavo Petro spoke to The New York Times just before the call.
-* 这次谈话似乎化解了特朗普总统表示对哥伦比亚采取军事行动“听起来不错”后爆发的危机。“古斯塔沃·佩特罗总统在通话前对《纽约时报》发表了讲话。
-* As protests swelled around the country, Iran’s internet was shut down, and the heads of its judiciary and its security services warned of a harsh response amid calls for “freedom, freedom.”
-* 随着全国各地的抗议活动激增，伊朗的互联网被关闭，司法部门和安全部门的负责人在呼吁“自由、自由”的呼声中警告说，伊朗将采取严厉的应对措施。
-* The interim government released some prisoners under pressure from the Trump administration, even as it continued arrests and crackdowns elsewhere.
-* 临时政府在特朗普政府的压力下释放了一些囚犯，尽管它继续在其他地方进行逮捕和镇压。
-* A new Gallup survey found that more than half of Venezuelans reported struggling to afford food last year, with economic hardship reaching even the wealthy.
-* 盖洛普的一项新调查发现，去年，超过一半的委内瑞拉人表示难以负担食物，经济困难甚至影响到了富人。
-* The Marinera, which was seized by the U.S., isn’t the only ship from the “shadow fleet” of oil tankers to switch lately to a Russian identity, seeking protection.
-* 被美国扣押的Marinera并不是“影子船队”中唯一一艘最近转向俄罗斯身份以寻求保护的油轮。
 
 ## New York Times United States News
-* The confrontations over the last four months have left two people dead and prompted criticism of federal agencies for allowing officers to open fire on moving vehicles.
-* 过去四个月的对抗导致两人死亡，并引发对联邦机构允许官员向行驶中的车辆开火的批评。
-* The U.S. campaign in Venezuela has drawn from a centuries-old playbook employing naval force — but added some new elements, too.
-* 美国在委内瑞拉的战役借鉴了数百年来使用海军的剧本，但也增加了一些新内容。
-* They don’t like nation building, but they do want to project American power.
-* 他们不喜欢国家建设，但他们确实想投射美国的力量。
-* Brian Heywood, a Seattle-area hedge fund founder, has spent millions to put conservative initiatives in front of Washington lawmakers and voters. Next up: parental rights and transgender athletes.
-* 西雅图地区对冲基金创始人布莱恩·海伍德（ Brian Heywood ）已花费数百万美元在华盛顿立法者和选民面前提出保守的倡议。接下来：父母权利和跨性别运动员。
-* Two people were shot by federal agents during a traffic stop. Gov. Tina Kotek of Oregon has called for a transparent investigation.
-* 在一次交通阻塞中，两人被联邦特工枪杀。俄勒冈州州长Tina Kotek呼吁进行透明的调查。
-* The administration cited without evidence “potential” widespread fraud in its move to cut off funds for child care subsidies and other support for low-income families.
-* 政府在没有证据的情况下引用了“潜在”的普遍欺诈行为，以切断对低收入家庭的儿童保育补贴和其他支持资金。
-* The guidance comes as immigration officers have been met with increasingly hostile protesters in cities.
-* 该指南发布之际，移民官员在城市中遇到了越来越多的敌对抗议者。
-* The president told The Times that he felt “strongly” that Russia would not invade Ukraine again.
-* 总统告诉《泰晤士报》，他“强烈”认为俄罗斯不会再次入侵乌克兰。
-* A new lawsuit claims that Washington State University, where Bryan Kohberger was a Ph.D. student, failed to take decisive action on earlier complaints that he was stalking women.
-* 一项新的诉讼声称，布莱恩·科伯格（ Bryan Kohberger ）是华盛顿州立大学的博士生，他未能对早些时候关于他跟踪女性的投诉采取果断行动。
-* “What I saw in her work was a writer that was trying to illuminate the lives of others,” a faculty member recalled.
-* “我在她的作品中看到的是一位试图照亮他人生活的作家，”一位教职员工回忆道。
+* Cooperation among law enforcement agencies is critical to many investigations, experts say. After a series of shootings by immigration agents, the relationship is showing cracks.
+* 专家说，执法机构之间的合作对许多调查至关重要。在移民局经历了一系列枪击事件后，双方的关系出现了裂痕。
+* In an interview with The New York Times, President Trump made a point of keeping distance from certain hard-line immigration policies, even as he continues to demonize and shut out immigrants.
+* 在接受《纽约时报》采访时，特朗普总统强调要与某些强硬的移民政策保持距离，即使他继续妖魔化和排斥移民。
+* Warming seas and increased flooding threaten a way of life for Native Americans who have called the Pacific Northwest coast their home for generations.
+* 海洋变暖和洪水加剧威胁着美洲原住民的生活方式，他们世世代代将太平洋西北海岸称为自己的家园。
+* She was the family’s first baby in 16 years. And she came into their world as the Altadena fire changed everything. They struggled for months to find housing, stability and peace.
+* 她是家里16年来的第一个孩子。她来到他们的世界，阿尔塔迪纳大火改变了一切。他们挣扎了几个月，寻找住房、稳定与和平。
+* The ruling is the latest legal setback to President Trump’s sweeping effort to compel changes to state election standards.
+* 这项裁决是特朗普总统迫使改变州选举标准的广泛努力的最新法律挫折。
+* The president revived a campaign promise he has not actively pursued since taking office.
+* 总统重申了他上任以来没有积极追求的竞选承诺。
+* A federal judge ordered Russell T. Vought, the bureau’s acting director, to keep requesting funds for the financial watchdog’s operations.
+* 一名联邦法官命令该局代理局长拉塞尔·沃特（ Russell T. Vought ）继续为金融监管机构的运营申请资金。
+* People at the beach went to the woman’s rescue and helped her ashore, the authorities said, but she died at a hospital.
+* 当局说，海滩上的人们去救助这名妇女并帮助她上岸，但她在医院死亡。
+* The move was part of a broader effort to to freeze social services to some Democratic-led states amid a fraud investigation in Minnesota.
+* 此举是在明尼苏达州进行欺诈调查期间冻结一些民主党领导的州的社会服务的更广泛努力的一部分。
+* Dr. Mehmet Oz, the head of the Centers for Medicare and Medicaid, and Bill Essayli, a Los Angeles-based prosecutor, said they were investigating federally funded services.
+* 医疗保险和医疗补助中心（ Centers for Medicare and Medicaid ）负责人穆罕默德·奥兹（ Mehmet Oz ）博士和洛杉矶检察官比尔·埃塞利（ Bill Essayli ）表示，他们正在调查联邦政府资助的服务。
 
 ## New York Times Asia News
+* A garbage mound outside Cebu City in the central Philippines collapsed on Thursday. Rescuers were searching for 34 missing people, including some trapped under the debris.
+* 菲律宾中部宿务市外的一个垃圾堆周四倒塌。救援人员正在寻找34名失踪人员，其中一些人被困在废墟下。
+* China built a dominant strategic position in the region as the leading lender and trading partner. It is watching President Trump’s next moves closely.
+* 中国作为领先的银行和贸易伙伴，在该地区建立了主导的战略地位。它正在密切关注特朗普总统的下一步行动。
 * A computer simulation ordered by the government showed that everyone on board would have survived if the concrete berm had been made of materials that easily broke apart.
 * 政府下令进行的计算机模拟表明，如果混凝土护堤是由容易破裂的材料制成的，船上的每个人都会幸存下来。
 * Myanmar’s junta created a capital to withstand an invasion. Now, the military struggles to project an image of control over a crumbling nation.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 东京担心有迹象表明，北京可能正在为限制获得对制造业至关重要的金属奠定基础。
 * Policies meant to lure importers to Hainan, a resort island off China’s coast, signal an opening up, Beijing says. One expert calls it a “bait and switch.”
 * 北京表示，旨在将进口商吸引到海南（中国沿海的一个度假岛屿）的政策标志着开放。一位专家称之为“诱饵和开关”。
-* The U.S. assault on Venezuela points to a world where big powers seek to call the shots in their regions, an idea Beijing knows well.
-* 美国对委内瑞拉的攻击指向一个大国寻求在其地区发号施令的世界，北京对此非常清楚。
-* The reactions online revealed a Chinese society divided: Some saw what happened in Venezuela as a playbook for seizing Taiwan, while others warned about ideological rigidity.
-* 网上的反应揭示了一个分裂的中国社会：一些人认为委内瑞拉发生的事情是夺取台湾的剧本，而另一些人则警告意识形态僵化。
 
