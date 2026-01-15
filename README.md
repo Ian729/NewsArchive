@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* As many as 3,000 feared dead as witnesses describe government forces firing on unarmed protesters.
-* 目击者称，政府军向手无寸铁的抗议者开枪，造成多达3000人死亡。
-* Times journalists got a rare look inside one of the compounds where the online fraud industry makes its billions. Inspirational slogans (“Keep going”) were just the start.
-* 《纽约时报》记者罕见地看到了在线欺诈行业赚取数十亿美元的大院之一。鼓舞人心的口号（ “继续前进” ）只是一个开始。
-* Denmark does not want to sell its territory. But for a real estate mogul turned president, the world’s largest island may be irresistible.
-* 丹麦不想出售其领土。但对于一位成为总统的房地产大亨来说，这个世界上最大的岛屿可能是不可抗拒的。
-* Ms. Le Pen, whose far-right party leads polls in France, was convicted last year of embezzlement. The outcome of her appeal, which started on Tuesday, will determine if she can run for president next year.
-* 去年，法国极右翼政党领导民意调查的勒庞被判犯有贪污罪。她的上诉于周二开始，其结果将决定她是否可以竞选明年的总统。
-* “HELP IS ON ITS WAY,” President Trump said on social media. He has threatened to intervene militarily on behalf of the protesters if Iran uses lethal force.
-* “帮助即将到来，”特朗普总统在社交媒体上说。他威胁说，如果伊朗使用致命武力，他将代表抗议者进行军事干预。
-* The authorities say the decision was made to prevent the spread of misinformation as President Yoweri Museveni seeks his seventh term in office.
-* 当局表示，这一决定是为了防止错误信息的传播，因为约韦里·穆塞韦尼总统正在寻求他的第七个任期。
-* The city’s homicide rate is lower than that of New York, Paris or Toronto, contradicting a narrative promoted by President Trump and others on the populist right.
-* 该市的凶杀率低于纽约、巴黎或多伦多，这与特朗普总统和民粹主义右翼其他人的说法相矛盾。
-* The nearly 14-year civil war prevented Syrians from traveling freely to many parts of their own country. After the conflict ended a year ago, a group of outdoor enthusiasts began exploring newly accessible areas, fueled by a sense of adventure and hope.
-* 近14年的内战使叙利亚人无法自由前往自己国家的许多地方。一年前，冲突结束后，一群户外爱好者开始探索新的无障碍区域，并充满了冒险和希望。
-* Prosecutors said two former employees of Mr. Iglesias, a renowned Spanish singer, had accused him of abuse. His representatives did not respond to requests for comment.
-* 检察官说，西班牙著名歌手伊格莱西亚斯的两名前雇员指控他虐待。他的代表没有回应置评请求。
-* He Jiankui spent three years in prison after creating gene-edited babies. Now back at work, he sees a greater opening for researchers who push boundaries.
-* 贺建奎在创造了基因编辑婴儿后，在狱中度过了三年。现在回到工作岗位上，他看到了为突破界限的研究人员提供更大的开放空间。
+* The Kremlin has tried for years to freeze Ukraine into submission. This winter, its attacks have been the most devastating ever.
+* 克里姆林宫多年来一直试图冻结乌克兰的屈服。今年冬天，它的袭击是有史以来最具破坏性的。
+* Diosdado Cabello, Venezuela’s interior minister, is accused by U.S. prosecutors of drug trafficking and is linked to repression at home, yet remains a powerful figure.
+* 委内瑞拉内政部长迪奥斯达多·卡贝略（ Diosdado Cabello ）被美国检察官指控贩毒，并与国内镇压有关，但仍然是一个强大的人物。
+* The United States is escalating pressure on the Mexican government to permit the U.S. military to target fentanyl labs, according to American officials.
+* 据美国官员称，美国正在加大对墨西哥政府的压力，要求允许美国军方以芬太尼实验室为目标。
+* The Venezuelan opposition leader’s attempts to share her award with the U.S. president have shaken some Norwegians’ faith in their signature soft-power tool.
+* 委内瑞拉反对派领导人试图与美国总统分享她的奖项，这动摇了一些挪威人对其标志性软实力工具的信心。
+* While several of the Gulf Arab countries harbor little love for Iran, they worry that the consequences of rising tensions could blow back on them.
+* 虽然一些海湾阿拉伯国家对伊朗几乎没有热爱，但他们担心紧张局势升级的后果可能会对他们造成打击。
+* The accident, which killed at least two people outside Bangkok, came a day after another crane fell on a train in the northeast, leaving at least 32 people dead.
+* 事故发生在曼谷郊外，造成至少两人死亡，一天前，另一台起重机在东北部的一列火车上坠落，造成至少32人死亡。
+* The fate of the world’s largest island has outsize importance for billions of people on the planet, because as the climate warms, Greenland is losing ice. That has consequences.
+* 这个世界上最大的岛屿的命运对地球上数十亿人来说非常重要，因为随着气候变暖，格陵兰岛正在失去冰。这会产生后果。
+* Félix Plasencia, an envoy of the interim government, will travel to the United States on the day the opposition leader María Corina Machado is to meet President Trump.
+* 临时政府特使费利克斯·普拉森西亚（ Félix Plasencia ）将在反对党领袖玛丽亚·科里纳·马查多（ María Corina Machado ）会见特朗普总统的当天前往美国。
+* The prime minister is seeking new markets for Canadian goods and to mend relations with China after years of deep acrimony between the two nations.
+* 这位总理正在为加拿大商品寻找新的市场，并在两国之间多年的激烈争吵之后修复与中国的关系。
+* Iran had planned to put a 26-year-old protester to death amid the wave of unrest in the country, but apparently stood down for now.
+* 伊朗曾计划在该国骚乱浪潮中将一名26岁的抗议者处死，但显然目前已经下台。
 
 ## New York Times United States News
-* After securing strong recruits on a tough Senate map, the Democratic leader is not only predicting an upset 2026 victory, but also naming the states he thinks his party can flip.
-* 在强硬的参议院地图上获得强大的新兵后，民主党领导人不仅预测2026年的胜利会令人不安，而且还命名了他认为他的政党可以翻转的州。
-* Many indicators appear to suggest that the United States is growing despite tariffs, not because of them.
-* 许多指标似乎表明，尽管征收了关税，但美国仍在增长，而不是因为关税。
-* In Minneapolis and other cities where federal agents have led immigration crackdowns, residents have formed loose networks to track and protest them.
-* 在明尼阿波利斯和联邦特工领导镇压移民的其他城市，居民们形成了松散的网络来追踪和抗议他们。
-* President Trump has left himself plenty of room for maximal intervention. But there are a host of potential wild cards, each with risks for the president.
-* 特朗普总统为自己留下了足够的空间进行最大限度的干预。但是有很多潜在的万能牌，每张都有总统的风险。
-* Republican election officials welcome the review, which relies on a federal verification tool, but they say they have not discovered a major problem when it comes to noncitizen voters.
-* 共和党选举官员欢迎这次审查，该审查依赖于联邦核查工具，但他们表示，在非公民选民方面，他们没有发现重大问题。
-* A White House spokesman said the president “gave an appropriate and unambiguous response.”
-* 白宫发言人表示，总统“给出了适当而明确的回应”。
-* Mayor Jacob Frey, a Democrat, has clashed with his party’s activist wing. His response to ICE has won him new respect at home and new foes in Washington.
-* 民主党市长雅各布·弗雷（ Jacob Frey ）与该党的活动分子发生冲突。他对ICE的回应让他在国内赢得了新的尊重，在华盛顿赢得了新的敌人。
-* It is unclear what possible crime might involve Senator Elissa Slotkin, a Democrat, who has warned in dire terms about the dissolution of American democracy.
-* 目前尚不清楚民主党参议员伊丽莎·斯洛特金（ Elissa Slotkin ）可能涉及什么罪行，她曾严厉警告美国民主的解体。
-* The refugees, many of them from Somalia, had passed security screenings before coming to the United States. The Trump administration has vowed to “re-examine thousands of refugee cases.”
-* 这些难民，其中许多来自索马里，在来到美国之前已经通过了安全检查。特朗普政府誓言要“重新审查成千上万的难民案件”。
-* The indictment, followed by a request to extradite the doctor from California, is an escalation of Louisiana’s efforts to counter states that support providing abortions.
-* 起诉书，以及从加利福尼亚引渡医生的要求，是路易斯安那州努力反击支持提供堕胎的州的升级。
+* Senators are expected to ask Lt. Gen. Joshua M. Rudd, President Trump’s nominee to lead the U.S. Cyber Command, about the mission in Caracas.
+* 预计参议员将向特朗普总统提名的美国网络司令部负责人陆克文中将询问加拉加斯的任务。
+* Pull up a stool at Ye Olde Pickle Factory and listen to a story about America’s urban-rural divide.
+* 在Ye Olde Pickle Factory拉起凳子，聆听一个关于美国城乡鸿沟的故事。
+* Traders in companies with ties to the president’s eldest son can bet on the outcome of events the president affects.
+* 与总统长子有联系的公司的交易员可以押注总统影响事件的结果。
+* The hearing on Thursday followed up on the court’s sweeping finding in September that noncitizen students had the same free speech rights as citizens.
+* 周四的听证会跟进了法院9月份的全面调查结果，即非公民学生与公民享有相同的言论自由权。
+* Harvard still dominates, though it fell to No. 3 on a list measuring academic output. Other American universities are falling farther behind their global peers.
+* 哈佛大学仍然占据主导地位，尽管它在衡量学术产出的榜单上跌至第三位。其他美国大学正在远远落后于其全球同行。
+* Juliana Peres Magalhães wrapped up testimony on Wednesday in the case against Brendan Banfield, her former lover, who is accused of killing his wife and another man.
+* 朱莉安娜·佩雷斯·马加良斯（ Juliana Peres Magalhães ）周三结束了针对她的前情人布伦丹·班菲尔德（ Brendan Banfield ）案的证词，她被指控杀害了他的妻子和另一名男子。
+* The Trump administration has ended Temporary Protected Status for about 600,000 Venezuelan immigrants, part of a broader effort to curb avenues for immigrants to remain in the United States.
+* 特朗普政府已经结束了大约60万委内瑞拉移民的临时保护身份，这是限制移民留在美国的更广泛努力的一部分。
+* The agent shot a Venezuelan man who was resisting arrest, an official said. Protesters and law enforcement officers clashed for hours, as city officials urged people to go home.
+* 一名官员说，这名特工开枪打死了一名拒绝逮捕的委内瑞拉男子。抗议者和执法人员发生了数小时的冲突，市政府官员敦促人们回家。
+* The lawmakers, all Democrats who urged military service members not to follow illegal orders, said prosecutors had contacted them. But it is unclear what crime they might have committed.
+* 所有敦促军人不要服从非法命令的民主党议员都表示，检察官已经联系了他们。但目前尚不清楚他们可能犯下了什么罪行。
+* In a report Wednesday, the National Transportation Safety Board said fractures that appeared to have led the left engine to separate from the plane’s wing had occurred at least four other times.
+* 在周三的一份报告中，美国国家运输安全委员会表示，似乎导致左发动机与飞机机翼分离的断裂至少还发生了四次。
 
 ## New York Times Asia News
+* The accident, which killed at least two people outside Bangkok, came a day after another crane fell on a train in the northeast, leaving at least 32 people dead.
+* 事故发生在曼谷郊外，造成至少两人死亡，一天前，另一台起重机在东北部的一列火车上坠落，造成至少32人死亡。
+* Scientists prepared a high-quality sequence of the giant mammal’s genome based on a specimen preserved in Siberian permafrost.
+* 科学家根据保存在西伯利亚永久冻土中的标本制备了巨型哺乳动物基因组的高质量序列。
 * Prime Minister Sanae Takaichi of Japan and President Lee Jae Myung of South Korea played along to BTS and “KPop Demon Hunters,” in a display meant to show warming ties.
 * 日本首相高市早苗（ Sanae Takaichi ）和韩国总统李宰明（ Lee Jae Myung ）在BTS和“KPop Demon Hunters”上演出，旨在展示温暖的关系。
 * “Blood Money: Lethal Eden” taps into a rising anxiety in China by simulating the experiences of people trafficked for the scam industry.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 在他的互联网平台上，他成为了一个顽强的监管者，为少数股东与金融监管机构作斗争，并揭露了不正当的商业交易。
 * Former President Yoon Suk Yeol faces an insurrection​ charge after his failed attempt to put his country under martial law in 2024.
 * 前总统Yoon Suk Yeol在2024年试图将他的国家置于戒严状态失败后，面临叛乱指控。
-* Organizers said her presence was not “culturally sensitive” after a mass shooting that targeted Jewish Australians. Nearly 200 other writers withdrew in protest.
-* 组织者表示，在针对澳大利亚犹太人的大规模枪击事件发生后，她的存在并不“具有文化敏感性”。另有近200名作家退出抗议。
-* Times journalists got a rare look inside one of the compounds where the online fraud industry makes its billions. Inspirational slogans (“Keep going”) were just the start.
-* 《纽约时报》记者罕见地看到了在线欺诈行业赚取数十亿美元的大院之一。鼓舞人心的口号（ “继续前进” ）只是一个开始。
 
