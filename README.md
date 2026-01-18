@@ -2,51 +2,51 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* The centuries-old trade is enjoying something of a revival, partly driven by rising energy costs. Today’s sweeps use new tools and technology.
+* 几个世纪以来的贸易正在复苏，部分原因是能源成本上涨。今天的扫描使用新的工具和技术。
+* Spotty research from a Christian activist has been used by Republican lawmakers to justify U.S. intervention in the country.
+* 共和党立法者利用一名基督教活动家的零星研究来证明美国对该国的干预是正当的。
+* A Jewish family that fled Iraq generations ago rented its home to France for use as an embassy, but Paris long ago stopped paying it rent, after Iraq stripped Jews of property.
+* 几代前逃离伊拉克的一个犹太家庭将其房屋租给法国用作大使馆，但在伊拉克剥夺犹太人的财产后，巴黎早已停止支付租金。
+* Economic instability in Venezuela after the U.S. raid to capture its president is deepening inflation and rattling the currency, sending grocery bills soaring for millions of people.
+* 在美国突袭夺取委内瑞拉总统后，委内瑞拉的经济不稳定正在加剧通货膨胀，并使货币岌岌可危，导致数百万人的杂货账单飙升。
+* Protests erupted in several Greenlandic cites and in Denmark as President Trump intensified his efforts to take control of the Arctic island.
+* 随着特朗普总统加紧努力控制北极岛屿，几个格陵兰城市和丹麦爆发了抗议活动。
+* Government troops drew closer to Raqqa, the largest city overseen by the Kurds, raising U.S. concerns about the renewal of a wider conflict in the region.
+* 政府军接近库尔德人监管的最大城市拉卡，引发了美国对该地区重新爆发更广泛冲突的担忧。
+* Skiers have also died from avalanche-related accidents in the Swiss and French Alps over the past week.
+* 过去一周，瑞士和法国阿尔卑斯山的滑雪者也死于雪崩相关事故。
 * Current and former commanders, analysts and military bloggers are having a surprisingly open debate about whether drones have made Russia’s longstanding approach to battle obsolete.
 * 现任和前任指挥官、分析师和军事博主正在就无人机是否已使俄罗斯长期的战斗方法过时展开一场令人惊讶的公开辩论。
 * The aid group has refused to comply with new Israeli rules restricting speech and demanding information on staff. Patients are stunned. “I need this place,” says one.
 * 援助组织拒绝遵守以色列限制言论和要求提供工作人员信息的新规定。病人惊呆了。一位病人说：「我需要这个地方。」
-* Ayatollah Ali Khamenei has built his 37-year rule on uncompromising repression. His answer to the current protests is no different.
-* 阿亚图拉·阿里·哈梅内伊（ Ayatollah Ali Khamenei ）在不妥协的镇压下建立了他37年的统治。他对当前抗议活动的回答也不例外。
-* Spain is home to the biggest collection of Venezuelan emigrants outside the Americas. Many cheered the capture of Nicolás Maduro, but are now adapting to the fact that his allies remain in charge.
-* 西班牙是美洲以外委内瑞拉移民人数最多的国家。许多人为尼古拉斯·马杜罗（ Nicolás Maduro ）的被捕而欢呼，但现在正在适应他的盟友仍然负责的事实。
-* President Trump stopped Venezuelan oil shipments to Cuba, and experts say disaster looms. Oil fuels its electric grid and without alternative supplies the country will plunge into extended darkness.
-* 特朗普总统阻止了委内瑞拉向古巴运送石油，专家称灾难迫在眉睫。石油为其电网提供燃料，如果没有替代供应，该国将陷入漫长的黑暗之中。
-* Peshawar is a haven for Afghan artists who fled from the Taliban, which had banned music. A new policy of deportations by Pakistan threatens this community of exiles.
-* 白沙瓦是阿富汗艺术家逃离塔利班的避风港，塔利班禁止音乐。巴基斯坦驱逐出境的新政策威胁到这个流亡社区。
-* The batteries offer an affordable system for those who lack reliable power and the money to buy their own solar panels.
-* 这些电池为那些缺乏可靠电力和购买太阳能电池板的资金的人提供了一个经济实惠的系统。
-* President Ahmed al-Sharaa’s announcement on Friday came after days of fighting between the government and Kurdish forces. On Saturday, those forces began withdrawing from a flashpoint east of Aleppo.
-* 艾哈迈德·沙拉总统周五在政府与库尔德部队之间进行了数天的战斗之后宣布了这一消息。周六，这些部队开始从阿勒颇以东的一个爆发点撤离。
-* “There is massive disappointment and disillusionment,” one Tehran resident said. A human rights group acknowledged that demonstrations had been subdued since Sunday, with thousands of people detained.
-* 一位德黑兰居民说： “人们非常失望和失望。”一个人权组织承认，自周日以来，示威活动已被制服，数千人被拘留。
-* Russia has targeted Ukraine’s energy infrastructure in past winters, but this year intensified its attacks as temperatures in Ukraine plunged well below freezing.
-* 俄罗斯在过去几个冬天瞄准了乌克兰的能源基础设施，但今年由于乌克兰的气温远低于冰点而加剧了袭击。
+* The clash came as world leaders were deciding whether to join President Trump’s “Board of Peace” for Gaza.
+* 这场冲突发生之际，世界各国领导人正在决定是否加入特朗普总统的加沙“和平委员会”。
 
 ## New York Times United States News
-* An intense cat-and-mouse game is putting enraged locals face-to-face with heavily armed agents.
-* 一场激烈的猫捉老鼠游戏让愤怒的当地人与全副武装的特工面对面。
-* The first veto of the president’s second term killed legislation that would have brought clean water to some of the most conservative parts of the state. Residents wonder why.
-* 总统第二任期的第一次否决扼杀了为该州一些最保守的地区带来清洁水的立法。居民想知道为什么。
-* Vocal Trump supporters are demonizing Renee Good, her partner and their allies, with some even using an acronym: AWFUL, or Affluent White Female Urban Liberal.
-* 特朗普的支持者正在妖魔化蕾妮·古德（ Renee Good ）、她的伴侣和他们的盟友，有些人甚至使用缩写：糟糕或富裕的白人女性城市自由主义者。
-* Mr. Caruso had the potential to shake up the contests for Los Angeles mayor or California governor.
-* 卡鲁索有可能动摇洛杉矶市长或加利福尼亚州州长的竞选。
-* With tensions high between the White House and the state, the ruling temporarily halted plans to withhold over $129 million in funding.
-* 由于白宫和国家之间的紧张关系，该裁决暂时停止了扣留超过1.29亿美元资金的计划。
-* A federal judge ordered agents not to retaliate against people “engaging in peaceful and unobstructive protest activity” in the state and not to stop drivers who are not “forcibly obstructing” officers.
-* 一名联邦法官命令特工不要报复在该州“从事和平和无障碍抗议活动”的人，也不要阻止没有“强行阻挠”官员的司机。
-* The Justice Department’s investigation is a major escalation in the state-federal battle over the conduct of immigration agents in Minneapolis.
-* 司法部的调查是明尼阿波利斯移民代理人行为的州-联邦斗争的重大升级。
-* The president also tapped a U.S. general to lead an international peacekeeping force that will be deployed to disarm Hamas and occupy Gaza.
-* 总统还任命一名美国将军领导一支国际维和部队，该部队将被部署来解除哈马斯的武装并占领加沙。
-* A video from Ken Paxton, a Republican primary challenger to Senator John Cornyn of Texas, depicted A.I.-generated imagery of the senator twirling with Jasmine Crockett, a Democratic Senate candidate.
-* 德克萨斯州参议员约翰·科宁（ John Cornyn ）的共和党主要挑战者肯·帕克斯顿（ Ken Paxton ）的视频描绘了AI生成的参议员与民主党参议员候选人茉莉花·克罗克特（ Jasmine Crockett ）一起旋转的图像。
-* Three reporters discuss the Minneapolis chaos and how it could play a role in the midterms.
-* 三位记者讨论了明尼阿波利斯的混乱，以及它如何在中期选举中发挥作用。
+* The potential 2028 presidential candidates showcased a Democratic midterm strategy that would assail G.O.P. votes in favor of cutting Medicaid and allowing health care subsidies to expire.
+* 潜在的2028年总统候选人展示了一项民主党中期战略，该战略将抨击共和党投票赞成削减医疗补助并允许医疗保健补贴到期。
+* Data obtained by The New York Times illustrates the differences between President Trump’s and President Biden’s approaches to deportations. Our data reporter Albert Sun describes what we found.
+* 《纽约时报》获得的数据说明了特朗普总统和拜登总统在驱逐出境方面的差异。我们的数据记者Albert Sun介绍了我们的发现。
+* As the F.B.I. has added payback to its portfolio, Republican lawmakers like Senator Charles E. Grassley have emerged as a clearinghouse for leaks and whistle-blowers.
+* 随着联邦调查局为其投资组合增加回报，像参议员查尔斯· E ·格拉斯利（ Charles E. Grassley ）这样的共和党立法者已经成为泄密者和举报人的清算所。
+* The Department of Homeland Security was formed after 9/11 amid international terrorism threats. Now, its most visible targets are domestic.
+* 在国际恐怖主义威胁下， 9/11之后成立了国土安全部。现在，其最明显的目标是国内。
+* The president urged Representative Julia Letlow of Louisiana to run against Mr. Cassidy, in a move that is likely to further complicate his relationship with Senate Republicans.
+* 总统敦促路易斯安那州众议员朱莉娅·莱特洛（ Julia Letlow ）与卡西迪竞选，此举可能会使他与参议院共和党人的关系进一步复杂化。
+* Abigail Spanberger, a Democrat, appointed new board members at three state schools, hours after she was sworn in as Virginia’s first female governor.
+* 民主党人阿比盖尔·斯潘伯格（ Abigail Spanberger ）在宣誓就任弗吉尼亚州第一位女州长几小时后，任命了三所州立学校的新董事会成员。
+* There were a few surprises, and subtle regional digs, as Democratic state parties angled for early spots on the next presidential primary calendar. The New York Times reviewed their applications.
+* 随着民主党各州党派为下一届总统初选日历的早期位置倾斜，出现了一些惊喜和微妙的区域挖掘。《纽约时报》审查了他们的申请。
+* The restaurant, Dooky Chase’s, is a New Orleans fixture with deep ties to the civil rights movement. The authorities say it was not intentionally targeted.
+* 这家名为Dooky Chase's的餐厅是新奥尔良的一家餐厅，与民权运动有着深厚的联系。当局表示，这不是故意针对的。
+* A protest at City Hall was organized by a conservative influencer to draw attention to a fraud scandal in the state. He was chased by counterprotesters lobbing water balloons in frigid temperatures.
+* 一位保守派网红在市政厅组织了一场抗议活动，以引起人们对该州欺诈丑闻的关注。抗议者在寒冷的气温下投掷水球追赶他。
+* The president escalated his drive to take charge of the Danish territory, targeting Denmark and seven other European countries with a 10 percent rate.
+* 总统加大了对丹麦领土的控制力度，以10%的比率瞄准了丹麦和其他七个欧洲国家。
 
 ## New York Times Asia News
-* Peshawar is a haven for Afghan artists who fled from the Taliban, which had banned music. A new policy of deportations by Pakistan threatens this community of exiles.
+* Peshawar is a haven for Afghan artists who fled from the Taliban, which has banned music. A new policy of deportations by Pakistan threatens this community of exiles.
 * 白沙瓦是阿富汗艺术家逃离塔利班的避风港，塔利班禁止音乐。巴基斯坦驱逐出境的新政策威胁到这个流亡社区。
 * Rescuers in Cebu City have recovered 28 bodies from a garbage mound that collapsed last week. The search continues for eight missing people.
 * 宿务市的救援人员从上周倒塌的垃圾堆中找到了28具尸体。搜寻8名失踪人员的工作仍在继续。
