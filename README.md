@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Intended as China’s version of Dubai’s palm-shaped artificial island, Ocean Flower Island is a $12 billion monument to debt-fueled economic excess.
-* 海洋花岛是中国版的迪拜棕榈形人工岛，价值120亿美元，是债务推动的经济过剩的纪念碑。
+* Officials on Tuesday were struggling to identify bodies from the crash near the southern city of Córdoba, which killed at least 41 people.
+* 周二，官员们正在努力识别南部城市科尔多瓦附近坠机事故中的尸体，该事故造成至少41人死亡。
+* As European leaders try to engage with the American president over Greenland and the future of Ukraine, he is mocking them as weak.
+* 当欧洲领导人试图与美国总统就格陵兰岛和乌克兰的未来进行接触时，他嘲笑他们是软弱的。
+* The government’s move to assert control over areas under Kurdish rule is a major test for President Ahmed al-Sharaa as fresh clashes erupted.
+* 随着新冲突的爆发，政府对库尔德人统治下的地区进行控制的举动对艾哈迈德·沙拉总统来说是一个重大考验。
 * Ángel Godoy was thrown into jail after writing columns that angered the government of President Nicolás Maduro. Now his family is trying to make up for lost time.
 * 安赫尔·戈多伊（ Ángel Godoy ）在撰写激怒尼古拉斯·马杜罗（ Nicolás Maduro ）总统政府的专栏文章后被投入监狱。现在，他的家人正在努力弥补失去的时间。
-* A bombing that killed seven people and injured a dozen more at a noodle restaurant in a busy area of Kabul is likely to heighten China’s growing security concerns in Afghanistan.
-* 喀布尔一个繁忙地区的一家面馆发生爆炸事件，造成7人死亡，十几人受伤，这可能会加剧中国在阿富汗日益增长的安全担忧。
+* The Ukrainian authorities say the repeated attacks on energy infrastructure are an attempt to force the country into submission.
+* 乌克兰当局表示，对能源基础设施的一再袭击是企图迫使该国屈服。
+* The U.S. envoy to Syria said Washington was confident the Syrian government could take over the country’s fight against the Islamic State terrorist group.
+* 美国驻叙利亚特使表示，华盛顿有信心叙利亚政府能够接管该国打击伊斯兰国恐怖组织的斗争。
+* Intended as China’s version of Dubai’s palm-shaped artificial island, Ocean Flower Island is a $12 billion monument to debt-fueled economic excess.
+* 海洋花岛是中国版的迪拜棕榈形人工岛，价值120亿美元，是债务推动的经济过剩的纪念碑。
+* For years, Emmanuel Macron has used friendship to temper President Trump’s most impulsive moves. It’s unclear whether that can still work.
+* 多年来，伊曼纽尔·马克龙（ Emmanuel Macron ）一直利用友谊来缓和特朗普总统最冲动的举动。目前尚不清楚这是否仍然有效。
 * Many of the closed beaches were in Sydney, the site of three of the attacks.
 * 许多关闭的海滩都在悉尼，其中三起袭击发生在悉尼。
-* Crews were working to retrieve bodies after two high-speed trains derailed in southern Spain. The regional authorities said 41 people were hospitalized, with a dozen of them in intensive care.
-* 两列高速列车在西班牙南部出轨后，工作人员正在努力寻找尸体。地区当局表示，有41人住院治疗，其中十几人在重症监护室。
-* In a text, President Trump told Norway’s prime minister that he no longer felt obliged to “think purely of Peace” and that the U.S. needed the island for global security.
-* 在一份文本中，特朗普总统告诉挪威首相，他不再觉得有义务“纯粹考虑和平” ，美国需要这个岛屿来保障全球安全。
-* A year after the dictator fell, Syrians are returning to a country with no clear plan for rebuilding.
-* 独裁者倒台一年后，叙利亚人正在返回一个没有明确重建计划的国家。
-* As President Trump tries to coerce European leaders over Greenland, they are pondering the unthinkable: Is an 80-year-old alliance doomed?
-* 当特朗普总统试图在格陵兰岛问题上胁迫欧洲领导人时，他们正在思考一个不可思议的问题：一个有80年历史的联盟注定要失败吗？
-* Supporters of former president Hugo Chávez, the anti-American socialist, are struggling to come to terms with their government’s pact with Washington.
-* 前总统乌戈·查韦斯（ Hugo Chávez ）的支持者，即反美社会主义者，正在努力接受其政府与华盛顿的协议。
-* New tensions flared a day after a Kurdish-led militia agreed to hand over control of prisons holding some 8,000 Islamic State fighters to the Syrian government.
-* 在一名库尔德人领导的民兵同意将关押约8000名伊斯兰国战士的监狱的控制权移交给叙利亚政府一天后，新的紧张局势爆发。
+* A bombing that killed seven people and injured a dozen more at a noodle restaurant in a busy area of Kabul is likely to heighten China’s growing security concerns in Afghanistan.
+* 喀布尔一个繁忙地区的一家面馆发生爆炸事件，造成7人死亡，十几人受伤，这可能会加剧中国在阿富汗日益增长的安全担忧。
 
 ## New York Times United States News
-* President Trump’s criticism reversed his administration’s previous support for the deal, in which Britain relinquished control of the Indian Ocean islands to Mauritius.
-* 特朗普总统的批评推翻了他的政府此前对该协议的支持，在该协议中，英国将印度洋岛屿的控制权交给了毛里求斯。
-* The aurora borealis has animated myths, art, poetry and music for thousands of years. Here are some examples.
-* 几千年来，北极光一直是神话、艺术、诗歌和音乐的动画。以下是一些示例。
-* After a century of defending other countries against foreign aggression, the United States is now positioned as an imperial power trying to seize another nation’s land.
-* 在捍卫其他国家免受外国侵略的一个世纪之后，美国现在被定位为一个试图夺取另一个国家土地的帝国主义大国。
-* The president has justified many significant moves of his second term with inaccurate claims and overstated boasts.
-* 总统用不准确的说法和夸大的吹嘘来证明他第二任期的许多重大举动是合理的。
-* Thousands of Minneapolis residents have joined a church-run effort to deliver donated groceries to immigrant families who fear being caught in public by federal agents.
-* 成千上万的明尼阿波利斯居民加入了一项由教会运作的努力，向担心被联邦特工在公共场合抓住的移民家庭提供捐赠的杂货。
-* The justices will hear arguments over whether a Hawaii law that imposes restrictions on carrying concealed weapons violates the Second Amendment.
-* 法官将听取关于限制携带隐藏武器的夏威夷法律是否违反第二修正案的争论。
-* With cameras rolling, President Trump met with more than 40 international leaders in his first year back in office.
-* 随着摄像头的滚动，特朗普总统在上任的第一年会见了40多位国际领导人。
-* For decades, there had been an average of 30 each year. With a new deterrent in place, there were none in the second half of 2025.
-* 几十年来，平均每年有30个。有了新的威慑力量， 2025年下半年就没有了。
-* France has said it will not join President Trump’s “Board for Peace.” France’s agriculture minister described the tariff threat as “blackmail.”
-* 法国已表示不会加入特朗普总统的“和平委员会”。法国农业部长将关税威胁描述为“勒索”。
-* Civil rights groups had criticized President Trump for failing to issue a proclamation honoring Martin Luther King Jr. and not attending commemorative events.
-* 民权组织批评特朗普总统没有发布纪念小马丁·路德·金的公告，也没有参加纪念活动。
+* The Supreme Court is hearing oral arguments on Wednesday in the case of Lisa Cook, the Federal Reserve governor whom President Trump is trying to fire. Our reporter Colby Smith describes the importance of Cook’s case for the independence of the central bank.
+* 最高法院将于周三就特朗普总统试图解雇的美联储理事丽莎·库克(Lisa Cook)一案听取口头辩论。我们的记者科尔比·史密斯（ Colby Smith ）描述了库克案例对中央银行独立性的重要性。
+* 
+* 
+* The justices deferred a decision on the president’s efforts to oust Cook, agreeing to hear arguments on Wednesday instead.
+* 法官推迟了总统推翻库克的决定，同意在周三听取争论。
+* Donald J. Trump has unleashed the power of the presidency against American colleges, with mixed results.
+* 唐纳德· J ·特朗普（ Donald J. Trump ）对美国大学释放了总统权力，结果喜忧参半。
+* The gathering of the global elite is set to serve as an all-hands effort to de-escalate tensions between President Trump and America’s allies over his insistence on acquiring Greenland.
+* 全球精英的聚集将成为特朗普总统与美国盟友因其坚持收购格陵兰岛而缓和紧张局势的全力以赴的努力。
+* The family of Geraldo Lunas Campos said a witness saw him choked by guards in an El Paso detention facility this month. Federal officials said he died by suicide.
+* 杰拉尔多·卢纳斯·坎波斯（ Geraldo Lunas Campos ）的家人说，一名目击者本月在埃尔帕索（ El Paso ）拘留设施中看到他被警卫联邦官员说他死于自杀。
+* The plane was heading for Switzerland when it turned back for Joint Base Andrews. A White House official said there had been a minor electrical issue.
+* 这架飞机转向安德鲁斯联合基地时正飞往瑞士。一位白宫官员说，发生了一个小电气问题。
+* The agent told an investigator that he was assaulted with a broom and a shovel before he fired a single shot that wounded a Venezuelan man.
+* 该特工告诉一名调查人员，他被扫帚和铲子殴打，然后开了一枪，打伤了一名委内瑞拉男子。
+* The club, Vendôme, was hosting several right-wing influencers, including Andrew and Tristan Tate, the brothers who are being investigated in Europe in connection with human trafficking.
+* 旺多姆俱乐部接待了几位右翼有影响力的人物，其中包括安德鲁和特里斯坦·泰特（ Tristan Tate ） ，他们正在欧洲接受与贩运人口有关的调查。
+* The Venezuelan opposition leader stressed the need for free elections in her latest bipartisan meeting with lawmakers.
+* 这位委内瑞拉反对派领导人在最近与立法者举行的两党会议上强调了自由选举的必要性。
 
 ## New York Times Asia News
+* Japan is reviving nuclear power, balancing the need for more clean energy against the lingering trauma of the 2011 Fukushima Daiichi disaster.
+* 日本正在复兴核电，平衡对更多清洁能源的需求与2011年福岛第一核电站灾难的挥之不去的创伤。
+* Han Duck-soo was convicted of playing a key role in former President Yoon Suk Yeol’s imposition of martial law, which a court said was an insurrection.
+* Han Duck-soo因在前总统Yoon Suk Yeol实施戒严令中发挥关键作用而被定罪，法院称这是一场叛乱。
+* Taiwan’s domestic gridlock is revealing a deep-seated fracture over how the island should defend itself and how much it can depend on the United States.
+* 台湾的国内僵局揭示了台湾应该如何自卫以及在多大程度上依赖美国的深层次分裂。
+* Tetsuya Yamagami, 45, had admitted to shooting Mr. Abe, Japan’s longest-serving prime minister; but his case divided Japan.
+* 45岁的山上哲也(Tetsuya Yamagami)承认射杀了日本在任时间最长的首相安倍晋三；但他的案子分裂了日本。
+* The islands, which Britain has agreed to hand over to Mauritius, are home to a strategically important U.S.-British military base.
+* 英国已同意将这些岛屿移交给毛里求斯，这些岛屿是具有重要战略意义的美英军事基地的所在地。
+* Prime Minister Keir Starmer’s government approved plans for a massive new Chinese Embassy near Tower Bridge, angering critics who fear it will enable spying.
+* 总理基尔·斯塔默（ Keir Starmer ）的政府批准了在塔桥（ Tower Bridge ）附近建造一个庞大的新中国大使馆的计划，激怒了批评者，他们担心这将使间谍
 * A bombing that killed seven people and injured a dozen more at a noodle restaurant in a busy area of Kabul is likely to heighten China’s growing security concerns in Afghanistan.
 * 喀布尔一个繁忙地区的一家面馆发生爆炸事件，造成7人死亡，十几人受伤，这可能会加剧中国在阿富汗日益增长的安全担忧。
 * Intended as China’s version of Dubai’s palm-shaped artificial island, Ocean Flower Island is a $12 billion monument to debt-fueled economic excess.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 去年秋天，新的国际本科生人数比上一年下降了25%。这一下降带来了财务和竞争挑战。
 * The blaze, which killed at least 23 and left dozens more missing during “wedding season,” burned all night and day through a Karachi plaza with hundreds of shops.
 * 这场大火在“婚礼季节”造成至少23人死亡，数十人失踪，在卡拉奇广场上有数百家商店，一整天都在燃烧。
-* Sanae Takaichi, the first woman to be Japan’s prime minister, is hoping to seize on her popularity by calling a parliamentary election next month.
-* 日本首相高市早苗(Sanae Takaichi)是第一位担任日本首相的女性，她希望通过在下个月举行议会选举来抓住自己的声望。
-* More than 1 percent of New Zealand’s population left over the year ending in October. Many of the migrants were chasing salaries and opportunities in neighboring Australia.
-* 截至10月的一年中，超过1%的新西兰人口离开了新西兰。许多移民在邻国澳大利亚寻找薪水和机会。
-* One of Asia’s most dynamic nations is weighing how to balance government control with raising per capita G.D.P. by about 70 percent in five years.
-* 亚洲最具活力的国家之一正在权衡如何平衡政府控制和在五年内将人均国内生产总值提高约70 ％。
-* China’s population fell for a fourth straight year and its birthrate tumbled as policymakers failed to slow a demographic crisis.
-* 由于政策制定者未能减缓人口危机，中国人口连续第四年下降，出生率暴跌。
-* Falling apartment prices have erased the savings of millions of Chinese households, but exports lifted the economy to 5 percent growth last year.
-* 公寓价格下跌抵消了数百万中国家庭的储蓄，但出口使经济去年增长了5%。
-* Peshawar is a haven for Afghan artists who fled from the Taliban, which has banned music. A new policy of deportations by Pakistan threatens this community of exiles.
-* 白沙瓦是阿富汗艺术家逃离塔利班的避风港，塔利班禁止音乐。巴基斯坦驱逐出境的新政策威胁到这个流亡社区。
 
