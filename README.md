@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Officials on Tuesday were struggling to identify bodies from the crash near the southern city of Córdoba, which killed at least 41 people.
-* 周二，官员们正在努力识别南部城市科尔多瓦附近坠机事故中的尸体，该事故造成至少41人死亡。
-* As European leaders try to engage with the American president over Greenland and the future of Ukraine, he is mocking them as weak.
-* 当欧洲领导人试图与美国总统就格陵兰岛和乌克兰的未来进行接触时，他嘲笑他们是软弱的。
-* The government’s move to assert control over areas under Kurdish rule is a major test for President Ahmed al-Sharaa as fresh clashes erupted.
-* 随着新冲突的爆发，政府对库尔德人统治下的地区进行控制的举动对艾哈迈德·沙拉总统来说是一个重大考验。
-* Ángel Godoy was thrown into jail after writing columns that angered the government of President Nicolás Maduro. Now his family is trying to make up for lost time.
-* 安赫尔·戈多伊（ Ángel Godoy ）在撰写激怒尼古拉斯·马杜罗（ Nicolás Maduro ）总统政府的专栏文章后被投入监狱。现在，他的家人正在努力弥补失去的时间。
-* The Ukrainian authorities say the repeated attacks on energy infrastructure are an attempt to force the country into submission.
-* 乌克兰当局表示，对能源基础设施的一再袭击是企图迫使该国屈服。
-* The U.S. envoy to Syria said Washington was confident the Syrian government could take over the country’s fight against the Islamic State terrorist group.
-* 美国驻叙利亚特使表示，华盛顿有信心叙利亚政府能够接管该国打击伊斯兰国恐怖组织的斗争。
-* Intended as China’s version of Dubai’s palm-shaped artificial island, Ocean Flower Island is a $12 billion monument to debt-fueled economic excess.
-* 海洋花岛是中国版的迪拜棕榈形人工岛，价值120亿美元，是债务推动的经济过剩的纪念碑。
-* For years, Emmanuel Macron has used friendship to temper President Trump’s most impulsive moves. It’s unclear whether that can still work.
-* 多年来，伊曼纽尔·马克龙（ Emmanuel Macron ）一直利用友谊来缓和特朗普总统最冲动的举动。目前尚不清楚这是否仍然有效。
-* Many of the closed beaches were in Sydney, the site of three of the attacks.
-* 许多关闭的海滩都在悉尼，其中三起袭击发生在悉尼。
-* A bombing that killed seven people and injured a dozen more at a noodle restaurant in a busy area of Kabul is likely to heighten China’s growing security concerns in Afghanistan.
-* 喀布尔一个繁忙地区的一家面馆发生爆炸事件，造成7人死亡，十几人受伤，这可能会加剧中国在阿富汗日益增长的安全担忧。
+* 
+* 
+* After President Trump aired his disdain for Europe, its leaders will gather in Brussels Thursday to take stock of what comes next.
+* 在特朗普总统表达了对欧洲的蔑视之后，欧洲领导人将于周四聚集在布鲁塞尔，评估接下来会发生什么。
+* Clad in florals and puffing on a cigarette, Tânia Maria has captivated audiences with a striking, if brief, performance in “The Secret Agent,” Brazil’s latest Oscar contender.
+* Tânia Maria穿着花卉，抽着香烟，在巴西最新的奥斯卡竞争者“秘密特工”中进行了引人注目的短暂表演，吸引了观众。
+* Frenchie Mae Cumpio and her former roommate were convicted of financing terrorism and sentenced to up to 18 years in prison.
+* Frenchie Mae Cumpio和她的前室友因资助恐怖主义而被定罪，并被判处长达18年的监禁。
+* The shooting happened on a day when Australians were honoring the victims of the Bondi Beach massacre, and just after gun laws were tightened.
+* 枪击事件发生在澳大利亚人纪念邦迪海滩大屠杀遇难者的那一天，就在枪支法律收紧之后。
+* Ghada Hatem-Gantzer, a French doctor, founded a one-stop shop to treat female victims of violence. Now, her revolutionary template is used across France.
+* 法国医生Ghada Hatem-Gantzer创立了一家一站式商店，为女性暴力受害者提供治疗。现在，她的革命性模板已在法国各地使用。
+* A majority of those surveyed said they support the intervention, suggesting a shift from ideology to pragmatism, at least for now.
+* 大多数受访者表示他们支持干预，这表明从意识形态到实用主义的转变，至少目前是这样。
+* A Kurdish force that helped defeat the Islamic State is collapsing as the Trump administration turns to back the new Syrian government.
+* 随着特朗普政府开始支持叙利亚新政府，一支帮助击败伊斯兰国的库尔德力量正在崩溃。
+* Taiwan’s domestic gridlock is revealing a deep-seated fracture over how the island should defend itself and how much it can depend on the United States.
+* 台湾的国内僵局揭示了台湾应该如何自卫以及在多大程度上依赖美国的深层次分裂。
+* For years, Nicolás Maduro and his movement used song and dance to rally support. Now, millions of Venezuelans are dancing to a different political tune.
+* 多年来，尼古拉斯·马杜罗（ Nicolás Maduro ）和他的运动使用歌曲和舞蹈来争取支持。现在，数以百万计的委内瑞拉人正在以不同的政治旋律跳舞。
 
 ## New York Times United States News
-* The Supreme Court is hearing oral arguments on Wednesday in the case of Lisa Cook, the Federal Reserve governor whom President Trump is trying to fire. Our reporter Colby Smith describes the importance of Cook’s case for the independence of the central bank.
-* 最高法院将于周三就特朗普总统试图解雇的美联储理事丽莎·库克(Lisa Cook)一案听取口头辩论。我们的记者科尔比·史密斯（ Colby Smith ）描述了库克案例对中央银行独立性的重要性。
-* 
-* 
-* The justices deferred a decision on the president’s efforts to oust Cook, agreeing to hear arguments on Wednesday instead.
-* 法官推迟了总统推翻库克的决定，同意在周三听取争论。
-* Donald J. Trump has unleashed the power of the presidency against American colleges, with mixed results.
-* 唐纳德· J ·特朗普（ Donald J. Trump ）对美国大学释放了总统权力，结果喜忧参半。
-* The gathering of the global elite is set to serve as an all-hands effort to de-escalate tensions between President Trump and America’s allies over his insistence on acquiring Greenland.
-* 全球精英的聚集将成为特朗普总统与美国盟友因其坚持收购格陵兰岛而缓和紧张局势的全力以赴的努力。
-* The family of Geraldo Lunas Campos said a witness saw him choked by guards in an El Paso detention facility this month. Federal officials said he died by suicide.
-* 杰拉尔多·卢纳斯·坎波斯（ Geraldo Lunas Campos ）的家人说，一名目击者本月在埃尔帕索（ El Paso ）拘留设施中看到他被警卫联邦官员说他死于自杀。
-* The plane was heading for Switzerland when it turned back for Joint Base Andrews. A White House official said there had been a minor electrical issue.
-* 这架飞机转向安德鲁斯联合基地时正飞往瑞士。一位白宫官员说，发生了一个小电气问题。
-* The agent told an investigator that he was assaulted with a broom and a shovel before he fired a single shot that wounded a Venezuelan man.
-* 该特工告诉一名调查人员，他被扫帚和铲子殴打，然后开了一枪，打伤了一名委内瑞拉男子。
-* The club, Vendôme, was hosting several right-wing influencers, including Andrew and Tristan Tate, the brothers who are being investigated in Europe in connection with human trafficking.
-* 旺多姆俱乐部接待了几位右翼有影响力的人物，其中包括安德鲁和特里斯坦·泰特（ Tristan Tate ） ，他们正在欧洲接受与贩运人口有关的调查。
-* The Venezuelan opposition leader stressed the need for free elections in her latest bipartisan meeting with lawmakers.
-* 这位委内瑞拉反对派领导人在最近与立法者举行的两党会议上强调了自由选举的必要性。
+* Speaking in Davos, Chancellor Friedrich Merz also implicitly criticized President Trump’s demeaning treatment of European allies.
+* 总理弗里德里希·默茨（ Friedrich Merz ）在达沃斯发表讲话时也含蓄地批评了特朗普总统对欧洲盟友的贬低。
+* The appearance provides Mr. Smith with what is likely to be his best opportunity to challenge President Trump’s assertion that he was persecuted for his politics, not for his misdeeds.
+* 这次出庭为史密斯先生提供了最好的机会，可以质疑特朗普总统关于他因政治而非恶行而受到迫害的说法。
+* A decline in homicides across the country was a stunning reversal after crime rose during the pandemic.
+* 在疫情期间犯罪率上升之后，全国各地的凶杀案下降是一个惊人的逆转。
+* A majority of voters said that Mr. Trump had focused on the wrong priorities and that they disapproved of his handling of top issues, but the president still enjoys strong support from Republicans.
+* 大多数选民表示，特朗普先生专注于错误的优先事项，他们不赞成他处理最重要的问题，但总统仍然得到共和党人的大力支持。
+* Gov. Gavin Newsom of California said the Trump administration had denied him entry to an American venue at the World Economic Forum. It’s not clear if the administration was responsible.
+* 加利福尼亚州州长加文·纽森（ Gavin Newsom ）表示，特朗普政府拒绝他进入世界经济论坛的美国场馆。目前尚不清楚政府是否对此负责。
+* Federal agents have been carrying out an immigration crackdown in Minnesota for weeks. Some residents say they carry a sense of dread even on empty streets.
+* 联邦特工已经在明尼苏达州进行了数周的移民镇压。一些居民说，即使在空荡荡的街道上，他们也带着恐惧感。
+* … without ropes. He considers the impact on his family if something were to go wrong.
+* ……没有绳索。他认为如果出了什么问题，会对他的家人产生影响。
+* President Trump and Ukraine’s leader, Volodymyr Zelensky, are expected to talk about sticking points in negotiations to end the war with Russia.
+* 预计特朗普总统和乌克兰领导人沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）将讨论结束与俄罗斯战争谈判的症结所在。
+* Lawyers for the family of Ms. Good, who was fatally shot by an immigration agent in Minneapolis, have said their firm was conducting an investigation into the shooting.
+* 在明尼阿波利斯被移民代理人枪杀的Good女士家属的律师表示，他们的公司正在对枪击事件进行调查。
+* A whistle-blower group said a memo apparently signed by the leader of Immigration and Customs Enforcement violated constitutional protections against unreasonable search and seizure.
+* 一个举报人团体表示，移民和海关执法局领导人签署的一份备忘录显然违反了防止不合理搜查和扣押的宪法保护规定。
 
 ## New York Times Asia News
+* The setback occurred hours after one of the world’s largest nuclear complexes restarted, ending more than a decade of dormancy following the 2011 Fukushima Daiichi meltdown.
+* 挫折发生在世界上最大的核综合设施之一重新启动数小时后，结束了2011年福岛第一核电站事故后十多年的休眠状态。
+* Frenchie Mae Cumpio and her former roommate were convicted of financing terrorism and sentenced to up to 18 years in prison.
+* Frenchie Mae Cumpio和她的前室友因资助恐怖主义而被定罪，并被判处长达18年的监禁。
+* The president used a keynote speech at the World Economic Forum in Switzerland to renounce the last vestiges of the liberal democratic order.
+* 总统在瑞士世界经济论坛上发表主旨演讲，放弃了自由民主秩序的最后遗迹。
+* A lot of confusion was swirling in Denmark and Greenland after President Trump’s bombshell of a post on social media.
+* 在特朗普总统在社交媒体上发布了一篇令人震惊的帖子之后，丹麦和格陵兰岛出现了很多混乱。
 * Japan is reviving nuclear power, balancing the need for more clean energy against the lingering trauma of the 2011 Fukushima Daiichi disaster.
 * 日本正在复兴核电，平衡对更多清洁能源的需求与2011年福岛第一核电站灾难的挥之不去的创伤。
 * Han Duck-soo was convicted of playing a key role in former President Yoon Suk Yeol’s imposition of martial law, which a court said was an insurrection.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 英国已同意将这些岛屿移交给毛里求斯，这些岛屿是具有重要战略意义的美英军事基地的所在地。
 * Prime Minister Keir Starmer’s government approved plans for a massive new Chinese Embassy near Tower Bridge, angering critics who fear it will enable spying.
 * 总理基尔·斯塔默（ Keir Starmer ）的政府批准了在塔桥（ Tower Bridge ）附近建造一个庞大的新中国大使馆的计划，激怒了批评者，他们担心这将使间谍
-* A bombing that killed seven people and injured a dozen more at a noodle restaurant in a busy area of Kabul is likely to heighten China’s growing security concerns in Afghanistan.
-* 喀布尔一个繁忙地区的一家面馆发生爆炸事件，造成7人死亡，十几人受伤，这可能会加剧中国在阿富汗日益增长的安全担忧。
-* Intended as China’s version of Dubai’s palm-shaped artificial island, Ocean Flower Island is a $12 billion monument to debt-fueled economic excess.
-* 海洋花岛是中国版的迪拜棕榈形人工岛，价值120亿美元，是债务推动的经济过剩的纪念碑。
-* Last fall, the number of new international undergraduates fell by 25 percent compared to the previous year. That drop poses financial and competitive challenges.
-* 去年秋天，新的国际本科生人数比上一年下降了25%。这一下降带来了财务和竞争挑战。
-* The blaze, which killed at least 23 and left dozens more missing during “wedding season,” burned all night and day through a Karachi plaza with hundreds of shops.
-* 这场大火在“婚礼季节”造成至少23人死亡，数十人失踪，在卡拉奇广场上有数百家商店，一整天都在燃烧。
 
