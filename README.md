@@ -2,52 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Shifts in tactics and technology in Ukraine mean that the pace of fighting is no longer decided by whether tanks can navigate frozen fields.
-* 乌克兰战术和技术的转变意味着，战斗的步伐不再取决于坦克是否能够在冻土中航行。
+* Europe’s nationalist leaders once saw President Trump as an ideological ally. Now, as he threatens European sovereignty, they are seeking distance — at least for the moment.
+* 欧洲的民族主义领导人曾将特朗普总统视为意识形态盟友。现在，当他威胁到欧洲主权时，他们正在寻求距离--至少目前是这样。
+* But the shows, which combine dance, drama and music, are also part of an effort by Myanmar’s military rulers to project a veneer of legitimacy.
+* 但这些节目结合了舞蹈、戏剧和音乐，也是缅甸军方统治者为展示合法性所做努力的一部分。
+* Prime Minister Keir Starmer hopes to boost his country’s lagging economy with a trip to Beijing. But he must carefully navigate between two superpowers.
+* 总理凯尔·斯塔默（ Keir Starmer ）希望通过访问北京来提振该国落后的经济。但他必须小心翼翼地在两个超级大国之间穿梭。
+* President Trump said Seoul was not moving fast enough to implement the agreement, which calls for South Korea to invest billions in the United States.
+* 特朗普总统表示，首尔实施该协议的速度不够快，该协议呼吁韩国在美国投资数十亿美元。
+* The recovery of Master Sgt. Ran Gvili’s body paves the way for the next stage of the Gaza cease-fire plan, though the path forward is unclear.
+* 恢复军士长Ran Gvili的尸体为加沙停火计划的下一阶段铺平了道路，尽管前进的道路尚不清楚。
+* Iran and its militia allies say they will respond aggressively in the region if attacked. A U.S. aircraft carrier and warships are approaching the region.
+* 伊朗及其民兵盟友表示，如果遭到袭击，他们将在该地区作出积极回应。一艘美国航母和军舰正在接近该地区。
 * Interim leader Delcy Rodríguez is liberalizing the economy without dismantling her predecessor’s repressive apparatus, raising questions about her aims.
 * 临时领导人德尔西·罗德里格斯（ Delcy Rodríguez ）在不拆除其前任镇压机构的情况下实现经济自由化，这引发了对她目标的质疑。
-* A combat veteran, Zhang Youxia was once seen as the most trusted man in Xi Jinping’s military. Now he is the most public example of disloyalty to Mr. Xi.
-* 张有霞是一名退伍军人，曾经被视为习近平军队中最值得信赖的人。现在，他是对习近平不忠的最公开的例子。
-* Top Afghan officials say they want two American detainees released “as soon as possible,” but the Trump administration says a third one should be included.
-* 阿富汗高级官员表示，他们希望“尽快”释放两名美国被拘留者，但特朗普政府表示，应该包括第三名被拘留者。
-* The mass shooting occurred in an area fought over by drug cartels, just as the Mexican government has sought to show Washington that it is combating criminal groups.
-* 大规模枪击事件发生在贩毒集团争夺的地区，正如墨西哥政府试图向华盛顿表明它正在打击犯罪集团一样。
-* Protests erupted amid a communications blackout. But as video and witness accounts trickle out, the brutality of the regime’s crackdown is becoming clear.
-* 在通讯中断期间爆发了抗议活动。但随着视频和目击者的说法逐渐消失，该政权镇压的残酷性变得越来越明显。
-* Many in Iran are gaining brief and unexplained windows of online connectivity, offering a widening glimpse of the extent of the government crackdown.
-* 伊朗的许多人正在获得简短而无法解释的在线连接窗口，让人们越来越多地看到政府镇压的程度。
-* Sanae Takaichi, the first woman to lead Japan as prime minister, skipped a sumo awards ceremony, reflecting her cautious approach to gender issues.
-* 日本首位担任首相的女性高市早苗（ Sanae Takaichi ）跳过了相扑颁奖典礼，这反映了她对性别问题的谨慎态度。
-* Even as dozens of political prisoners have been freed, at least 66 people taken by state authorities and never heard from again remain missing, relatives and rights groups say.
-* 亲属和人权组织表示，尽管已有数十名政治犯被释放，但至少有66人被国家当局带走，再也没有下落不明。
-* Mette Frederiksen, Denmark’s leader, has taken big risks standing up to Mr. Trump. It might just be working — for now.
-* 丹麦领导人梅特·弗雷德里克森（ Mette Frederiksen ）冒着巨大的风险站在特朗普面前。它可能只是工作—目前。
+* Shifts in tactics and technology in Ukraine mean that the pace of fighting is no longer decided by whether tanks can navigate frozen fields.
+* 乌克兰战术和技术的转变意味着，战斗的步伐不再取决于坦克是否能够在冻土中航行。
+* The Rafah crossing will open at the end of Israel’s search for the remains of the last captive in Gaza.
+* 拉法过境点将在以色列寻找加沙最后一名俘虏遗骸结束时开放。
+* A combat veteran, Zhang Youxia was once seen as the most trusted man in Xi Jinping’s military. Now he has been accused of disloyalty to Mr. Xi.
+* 张有霞是一名退伍军人，曾经被视为习近平军队中最值得信赖的人。现在，他被指控不忠于习近平。
 
 ## New York Times United States News
-* Current and former officials describe growing frustration and disillusionment with the Trump administration’s approach, even as they support the goal of immigration enforcement.
-* 现任和前任官员表示，尽管他们支持移民执法的目标，但他们对特朗普政府的做法越来越感到沮丧和失望。
-* State and local officials say the federal deployment of immigration agents violates the 10th Amendment. The surge, which the Trump administration has defended, has led to three shootings and tense protests.
-* 州和地方官员表示，联邦政府部署移民代理违反了第十修正案。特朗普政府为此辩护的激增导致了三起枪击事件和紧张的抗议活动。
-* Concerns about the affordability of education, housing, health care, having a family and retirement are driving economic anxieties, a New York Times/Siena poll found.
-* 《纽约时报》/锡耶纳的一项民意调查发现，对教育、住房、医疗保健、家庭和退休负担能力的担忧正在引发经济焦虑。
-* Frank Bisignano is the first chief executive of the I.R.S., where there’s hope he will end a chaotic stretch at the agency. The tax filing season, which started Monday, is his first test.
-* 弗兰克·比西尼亚诺（ Frank Bisignano ）是美国国税局的第一任首席执行官，他有希望结束该机构的混乱局面。周一开始的报税季节是他的第一次考验。
-* Support from Republican state leaders for the crime-fighting operation — and to an extent, from the city’s Democratic mayor — has kept tensions to an uneasy simmer.
-* 共和党国家领导人对打击犯罪行动的支持，以及在一定程度上来自该市民主党市长的支持，使紧张局势一直持续到令人不安的酝酿阶段。
-* Dozens of doctors and therapists said chatbots had led their patients to psychosis, isolation and unhealthy habits.
-* 数十名医生和治疗师表示，聊天机器人导致他们的患者出现精神病、孤立和不健康的习惯。
-* More than 20,000 households had no power late Sunday in Lafayette County, a day after freezing rain hit the Oxford area.
-* 周日晚些时候，在牛津地区冻雨后的第二天，拉斐特县有2万多户家庭没有电力供应。
-* Bonito Lake, N.M., received 31 inches, the most in the country, the National Weather Service said
-* 国家气象局表示，新墨西哥州的博尼托湖长31英寸，是全国最长的
-* A Bombardier Challenger 600 crashed during takeoff at the Bangor airport, according to officials, as a paralyzing winter storm lashed the East Coast.
-* 据官员称，一架庞巴迪挑战者600在班戈机场起飞时坠毁，一场令人瘫痪的冬季风暴袭击了东海岸。
-* Top administration officials had earlier, and without evidence, accused each of the shooting victims in Minneapolis of “domestic terrorism.”
-* 政府高级官员早些时候在没有证据的情况下指控明尼阿波利斯的每个枪击受害者都是“国内恐怖主义”。
+* Mr. Vindman will run for the Democratic nomination to take on Senator Ashley Moody, a Republican. The race is an uphill fight for Democrats, but Mr. Vindman could be a strong fund-raiser.
+* 温德曼将竞选民主党提名，接替共和党参议员阿什利·穆迪(Ashley Moody)。这场竞选对民主党人来说是一场艰苦的斗争，但温德曼可能是一个强有力的筹款人。
+* 
+* 
+* Scenes from the violent unrest in Minneapolis played on a loop in many American households over the weekend, prompting reflection about where the nation is heading.
+* 周末，明尼阿波利斯暴力骚乱的场景在许多美国家庭中循环播放，促使人们思考这个国家正在走向何方。
+* The National Transportation Safety Board is set to vote on the probable cause of last year’s crash near Washington and make recommendations.
+* 美国国家运输安全委员会将对去年在华盛顿附近发生坠机事故的可能原因进行投票，并提出建议。
+* Farmers are critical to Iowa’s economy. They have been battered by President Trump’s tariffs and are not yet experiencing the “golden age” that the president promised.
+* 农民对爱荷华州的经济至关重要。他们受到特朗普总统关税的打击，尚未经历总统承诺的“黄金时代”。
+* Violence in Minneapolis in the Wake of Alex Pretti’s Killing
+* 亚历克斯·普雷蒂遇害后的明尼阿波利斯暴力事件
+* When a class in Portland went out for recess on Thursday, their teacher recalled, some of the 6-year-old students anxiously asked, “What about the ICE people?”
+* 他们的老师回忆说，当周四波特兰的一个班级外出休息时，一些6岁的学生焦急地问道： “冰人怎么办？”
+* A flurry of posts from the White House, Department of Labor and Department of Homeland Security have included images, slogans and even a song used by the white nationalist right.
+* 白宫、劳工部和国土安全部发布了一系列帖子，其中包括白人民族主义右翼使用的图片、口号甚至歌曲。
+* Executives who donated to the president’s super PAC met privately with him and urged a repeal of the rule, which was intended to prevent neglect of patients.
+* 向总统的超级PAC捐款的高管与他私下会面，并敦促废除该规则，该规则旨在防止忽视患者。
+* The meeting is a sign that the president is concerned about the fallout from the killing of Alex Pretti, who was shot by immigration agents.
+* 这次会议表明，总统对被移民局特工枪杀的亚历克斯·普雷蒂（ Alex Pretti ）的死因感到担忧。
 
 ## New York Times Asia News
-* A combat veteran, Zhang Youxia was once seen as the most trusted man in Xi Jinping’s military. Now he is the most public example of disloyalty to Mr. Xi.
-* 张有霞是一名退伍军人，曾经被视为习近平军队中最值得信赖的人。现在，他是对习近平不忠的最公开的例子。
+* President Trump said Seoul was not moving fast enough to implement the agreement, which calls for South Korea to invest billions in the United States.
+* 特朗普总统表示，首尔实施该协议的速度不够快，该协议呼吁韩国在美国投资数十亿美元。
+* After nearly 20 years of negotiations, the two sides struck a far-reaching agreement that officials called “the mother of all trade deals.”
+* 经过近20年的谈判，双方达成了一项意义深远的协议，官员们称之为“所有贸易协议的母亲”。
+* Prime Minister Keir Starmer hopes to boost his country’s lagging economy with a trip to Beijing. But he must carefully navigate between two superpowers.
+* 总理凯尔·斯塔默（ Keir Starmer ）希望通过访问北京来提振该国落后的经济。但他必须小心翼翼地在两个超级大国之间穿梭。
+* But the shows, which combine dance, drama and music, are also part of an effort by Myanmar’s military rulers to project a veneer of legitimacy.
+* 但这些节目结合了舞蹈、戏剧和音乐，也是缅甸军方统治者为展示合法性所做努力的一部分。
+* As Japan and China feud, an animal long used in Chinese diplomacy has been summoned back home.
+* 随着日本和中国之间的不和，一种长期用于中国外交的动物被召唤回国。
+* A combat veteran, Zhang Youxia was once seen as the most trusted man in Xi Jinping’s military. Now he has been accused of disloyalty to Mr. Xi.
+* 张有霞是一名退伍军人，曾经被视为习近平军队中最值得信赖的人。现在，他被指控不忠于习近平。
 * Top Afghan officials say they want two American detainees released “as soon as possible,” but the Trump administration says a third one should be included.
 * 阿富汗高级官员表示，他们希望“尽快”释放两名美国被拘留者，但特朗普政府表示，应该包括第三名被拘留者。
 * Two dozen people were still missing after the vessel sank early Monday morning in Basilan Province.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 日本首位担任首相的女性高市早苗（ Sanae Takaichi ）跳过了相扑颁奖典礼，这反映了她对性别问题的谨慎态度。
 * U.S. and European officials say they are unaware of any intelligence that shows China and Russia are endangering the island, which is protected by the NATO security umbrella.
 * 美国和欧洲官员表示，他们不知道有任何情报显示中国和俄罗斯正在危及该岛，该岛受到北约安全保护伞的保护。
-* U.S. trade policy has devastated the Canadian auto industry and pushed the country to reach an agreement that will make it easier for Chinese companies to sell cars there.
-* 美国的贸易政策摧毁了加拿大汽车业，并推动该国达成协议，这将使中国公司更容易在那里销售汽车。
-* The ouster of Gen. Zhang Youxia, who was second only to Xi Jinping in the military hierarchy, marks “the total annihilation of the high command,” one analyst said.
-* 一位分析师表示，在军事等级中仅次于习近平的张有霞将军的下台标志着“最高指挥部的彻底消灭”。
-* The repressive Taliban government is suspicious of the internet. But a start-up in the country is building blockchain-based tools to transform humanitarian aid.
-* 镇压性的塔利班政府对互联网持怀疑态度。但该国的一家初创企业正在构建基于区块链的工具，以转变人道主义援助。
-* To Lam, the head of Vietnam’s Communist Party, will also become president of the nation. His new stature comes with new risks.
-* 越南共产党领导人林郑月娥也将成为国家主席。他的新身材带来了新的风险。
-* Alex Honnold, who climbed a 1,667-foot-tall skyscraper in Taiwan on Sunday, is one of a dozen or so known skyscraper climbers worldwide.
-* 亚历克斯·霍诺德（ Alex Honnold ）周日在台湾攀登了一座1667英尺高的摩天大楼，是全球十几位知名的摩天大楼攀登者之一。
 
