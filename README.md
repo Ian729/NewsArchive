@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* U.S., Russian and Ukrainian negotiators are meeting in the United Arab Emirates, but Russia continues to pummel Ukraine and has not softened demands that Kyiv calls unacceptable.
-* 美国、俄罗斯和乌克兰的谈判代表正在阿联酋举行会议，但俄罗斯继续打击乌克兰，并没有软化基辅称之为不可接受的要求。
+* The authorities are making mass arrests, seizing assets and hunting down doctors who treated protesters. Some Iranians keep showing defiance anyway.
+* 当局正在进行大规模逮捕，没收资产并追捕治疗抗议者的医生。无论如何，一些伊朗人继续表现出蔑视。
+* Some 60,000 evacuees have been left in limbo by confusion and political disputes as Pakistan battles insurgents on its border with Afghanistan.
+* 在巴基斯坦与阿富汗边境的叛乱分子作战时，约有6万名撤离人员因混乱和政治争端而陷入困境。
+* In Cortina d’Ampezzo, a hub for the Games in northern Italy, some residents, including a former Olympian, are annoyed about all the construction. Others are annoyed that they’re annoyed.
+* 在意大利北部的奥运会中心Cortina d 'Ampezzo ，包括前奥运会选手在内的一些居民对所有的施工感到恼火。其他人因为生气而生气。
+* Little has been made public so far, but negotiators were expected to talk about the fate of Ukrainian territory in the east and security guarantees for Ukraine.
+* 到目前为止，几乎没有公开消息，但预计谈判代表将讨论乌克兰东部领土的命运以及对乌克兰的安全保障。
+* A recent production of “Othello” proves that small creative flowers can grow between the dreary slabs of cultural concrete laid by the Communist Party.
+* 最近制作的《奥赛罗》证明，小小的创意花朵可以生长在共产党铺设的沉闷的文化混凝土板之间。
+* Emails, texts, photos and videos show how Jeffrey Epstein, even after becoming a convicted sex offender, burnished his ties to royal family members from several countries and their advisers.
+* 电子邮件、短信、照片和视频显示，杰弗里·爱泼斯坦（ Jeffrey Epstein ）即使在成为一名被定罪的性犯罪者后，仍与来自多个国家的皇室成员及其顾问保持着联系。
 * Academic pressure has become so intense that even preschoolers are taking private extracurricular classes, raising worries about children’s rights.
 * 学术压力变得如此强烈，甚至学龄前儿童也在参加私人课外课程，引发了对儿童权利的担忧。
-* Thousands of police and security officers will work during the Milan-Cortina Games’ opening ceremony. The involvement of some U.S. ICE personnel has stirred opposition.
-* 成千上万的警察和安全人员将在米兰-科尔蒂纳运动会的开幕式上工作。一些美国ICE人员的参与引起了反对。
 * Afghanistan has plunged deeper into a crisis marked by levels of child hunger unseen in 25 years and the closure of almost 450 health centers.
 * 阿富汗陷入了25年来前所未有的儿童饥饿水平和近450个保健中心被关闭的危机。
 * Polls show a growing acceptance of territorial concessions among a war-weary public, if Ukraine receives strong security guarantees.
 * 民意调查显示，如果乌克兰获得强有力的安全保障，厌倦战争的公众越来越接受领土让步。
-* In 1917, the United States bought Caribbean islands from Denmark and agreed to respect Denmark’s hold over Greenland. The deal resurfaced with President Trump’s recent threats to seize Greenland.
-* 1917年，美国从丹麦购买了加勒比岛屿，并同意尊重丹麦对格陵兰岛的控制。随着特朗普总统最近威胁要夺取格陵兰岛，这笔交易重新浮出水面。
-* Mr. el-Qaddafi, 53, a politician and a son of Col. Muammar el-Qaddafi, was killed after four men stormed his house, the lawyer said. No other details were released.
-* 律师说， 53岁的卡扎菲先生是一名政治家，是穆阿迈尔·卡扎菲上校的儿子，在四名男子冲进他的房子后被杀。没有公布其他细节。
-* A feud between Saudi Arabia and the United Arab Emirates is reshaping conflicts and alliances across the Middle East and Africa.
-* 沙特阿拉伯和阿拉伯联合酋长国之间的不和正在重塑中东和非洲的冲突和联盟。
-* In a country roiled by political upheaval recently, retiring the longtime currency, the lev, prompted some concern about inflation but little other angst.
-* 在一个最近因政治动荡而动荡不安的国家，退出长期货币列夫引发了对通货膨胀的一些担忧，但几乎没有其他担忧。
-* Guy Gilboa-Dalal says he was sexually abused by one of his captors in the tunnels of Gaza and threatened with death if he said anything.
-* 盖伊·吉尔博亚-达拉尔（ Guy Gilboa-Dalal ）说，他在加沙地道遭到一名绑架者的性虐待，并威胁说，如果他说什么，就会被处死。
+* Gaza officials said the Israeli airstrikes killed at least 21 Palestinians. Israel said one of its soldiers was critically wounded in the attack by Palestinian gunmen.
+* 加沙官员说，以色列的空袭造成至少21名巴勒斯坦人死亡。以色列说，其中一名士兵在巴勒斯坦枪手的袭击中受重伤。
 
 ## New York Times United States News
-* Mr. Dunn, who rose to prominence for defending the Capitol during the Jan. 6 riot, will run for a hotly contested Southern Maryland seat.
-* 邓恩先生在1月6日的骚乱中因保卫国会大厦而声名鹊起，他将竞选马里兰州南部一个激烈竞争的席位。
-* “It’s like living in fear all the time,” a teenager said about the federal raids that have shattered families.
-* “这就像一直生活在恐惧之中，”一名青少年谈到联邦突袭摧毁了家庭。
-* Senator John Cornyn, once seen as a potential Republican leader in his chamber, is now depending on wealthy party donors to survive a right-wing challenge.
-* 参议员约翰·科宁（ John Cornyn ）曾被视为他所在议院的潜在共和党领袖，现在依靠富有的政党捐助者来应对右翼挑战。
-* Brian O’Hara, who took over a troubled police force and has spent years rebuilding community trust, fears the long-term damage wrought by federal agents.
-* 接管陷入困境的警察部队并花了数年时间重建社区信任的Brian O’Hara担心联邦特工造成的长期损害。
-* Scrutiny of university classrooms is being formalized, with new laws requiring professors to post syllabuses and tip lines for students to complain.
-* 对大学教室的审查正在正式化，新的法律要求教授张贴教学大纲和小费，让学生抱怨。
-* Mr. Robinson’s lawyers argue that the entire prosecution team has a conflict of interest because one prosecutor’s daughter was present when Charlie Kirk was killed.
-* Robinson先生的律师辩称，整个起诉团队存在利益冲突，因为Charlie Kirk被杀时，一名检察官的女儿在场。
-* 
-* 
-* State Representative James Talarico used the word “mediocre” in connection with a former House member who is Black. The controversy has repercussions for a key contest.
-* 州众议员詹姆斯·塔拉里科（ James Talarico ）将“平庸”一词与一名前众议院议员黑人联系起来。这场争议对一场关键比赛产生了影响。
-* In the latest example of his mercurial negotiating style, President Trump went from dropping his ask for a $200 million fine to demanding $1 billion from the university.
-* 在他善变的谈判风格的最新例子中，特朗普总统从放弃要求2亿美元的罚款到要求大学提供10亿美元。
-* Attorneys for Democratic Senator Mark Kelly argued that Defense Secretary Pete Hegseth was brazenly violating the separation of powers by seeking to punish a member of Congress for public statements.
-* 民主党参议员马克·凯利（ Mark Kelly ）的律师辩称，国防部长皮特·黑格塞斯（ Pete Hegseth ）试图惩罚一名国会议员发表公开声明，公然违反了权力分立。
+* Remarks by a prosecutor opened a revealing window onto how the courts in the state are buckling under the weight of a deluge of cases arising from the Trump administration’s campaign.
+* 检察官的言论为该州法院如何在特朗普政府竞选活动引发的大量案件的重压下屈服打开了一扇启示之窗。
+* Calling dibs on the parking spot you shoveled after a blizzard tends to be a respected tradition in northern cities, but a spate of confrontations is a reminder of just how precious a spot can be.
+* 在北方城市，在暴风雪过后铲下的停车位上叫停往往是一个受人尊敬的传统，但一连串的对抗提醒人们，一个停车位是多么珍贵。
+* Some athletes battered by concussions are desperately searching beyond conventional medicine. Researchers see potential in the brain-stimulating power of psilocybin mushrooms.
+* 一些受脑震荡打击的运动员正在拼命寻找传统医学之外的东西。研究人员发现了裸盖菇的大脑刺激能力的潜力。
+* Democrats are tapping candidates with unusual résumés — a Tejano recording star, a smokejumper and a fourth-generation farmer — to compete in areas long seen as inhospitable.
+* 民主党人正在利用具有不寻常简历的候选人（ Tejano唱片明星，跳烟者和第四代农民）在长期以来被视为荒凉的地区竞争。
+* Beijing, Moscow and shaken American allies are seeking new warheads as President Trump ends more than a half century of nuclear arms control with Russia.
+* 随着特朗普总统结束了与俄罗斯长达半个多世纪的核军备控制，北京、莫斯科和动摇的美国盟友正在寻求新的核弹头。
+* Ms. Guthrie, the television anchor, and her siblings released a video on Wednesday night asking for proof that their mother, Nancy, is alive.
+* 电视主播格思里和她的兄弟姐妹周三晚上发布了一段视频，要求证明他们的母亲南希还活着。
+* Both leaders gave versions of what they discussed, but the Chinese president’s take made clear the issue of the island was front and center.
+* 两位领导人都给出了他们讨论的内容的版本，但中国国家主席的态度明确表示，该岛问题是前沿和中心。
+* The authorities said the man, George Zinn, tried to derail their search for Mr. Kirk’s actual killer. He faces up to 15 years in prison on obstruction of justice and other charges.
+* 当局说，这名叫乔治·津恩（ George Zinn ）的男子试图破坏他们对柯克真正凶手的搜寻。他因妨碍司法和其他指控而面临长达15年的监禁。
+* A year into President Trump’s second term, his threats, retreats, twists and turns appear to be wearing on allies and adversaries.
+* 特朗普总统的第二个任期已经过去一年了，他的威胁、退却、曲折似乎在盟友和对手身上磨损。
+* A number of potential presidential candidates are releasing memoirs as the shadow primary heats up.
+* 随着影子初选的升温，一些潜在的总统候选人正在发布回忆录。
 
 ## New York Times Asia News
+* Beijing, Moscow and shaken American allies are seeking new warheads as President Trump ends more than a half century of nuclear arms control with Russia.
+* 随着特朗普总统结束了与俄罗斯长达半个多世纪的核军备控制，北京、莫斯科和动摇的美国盟友正在寻求新的核弹头。
+* Some 60,000 evacuees have been left in limbo by confusion and political disputes as Pakistan battles insurgents on its border with Afghanistan.
+* 在巴基斯坦与阿富汗边境的叛乱分子作战时，约有6万名撤离人员因混乱和政治争端而陷入困境。
+* A recent production of “Othello” proves that small creative flowers can grow between the dreary slabs of cultural concrete laid by the Communist Party.
+* 最近制作的《奥赛罗》证明，小小的创意花朵可以生长在共产党铺设的沉闷的文化混凝土板之间。
+* The move against the men, who wrote an article that was critical of a local official, demonstrates how the space for independent voices has shrunk in China.
+* 这些人撰写了一篇批评当地官员的文章，针对这些人的举动表明，在中国，独立声音的空间是如何缩小的。
 * Afghanistan has plunged deeper into a crisis marked by levels of child hunger unseen in 25 years and the closure of almost 450 health centers.
 * 阿富汗陷入了25年来前所未有的儿童饥饿水平和近450个保健中心被关闭的危机。
 * On The Times’s Visual Investigations team, Christiaan Triebert combines social media sleuthing and traditional reporting to piece together complex stories.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 日本部分地区的降雪也造成约200人受伤。一个城市的降雪量为72英寸，是近40年来最高的。
 * The officials from mountain rescue agencies are accused of carrying out unnecessary helicopter rescues to defraud international insurance companies of nearly $20 million.
 * 山区救援机构的官员被指控进行不必要的直升机救援，以欺骗国际保险公司近2000万美元（ $ ）。
-* Officials and business leaders welcomed lower tariffs, but India has not yet confirmed that it would stop buying Russian oil, which President Trump said Prime Minister Narendra Modi had agreed to.
-* 官员和商界领袖对降低关税表示欢迎，但印度尚未确认是否会停止购买俄罗斯石油，特朗普总统表示，总理纳伦德拉·莫迪(Narendra Modi)已同意购买俄罗斯石油。
-* The “Project Vault” initiative is intended to reduce U.S. reliance on China for key technology components.
-* “Project Vault”计划旨在减少美国对中国关键技术组件的依赖。
-* The agreement was short on details, but President Trump said India had promised to stop buying Russian oil and would buy more U.S. farm goods and other products.
-* 该协议缺乏细节，但特朗普总统表示，印度已承诺停止购买俄罗斯石油，并将购买更多美国农产品和其他产品。
-* After Chinese swimmers won Olympic gold in 2021 despite having tested positive for a banned substance, the World Anti-Doping Agency is considering whether to have an independent body handle testing before major events.
-* 在中国游泳运动员尽管检测出禁用物质呈阳性但仍在2021年赢得奥运会金牌之后，世界反兴奋剂机构正在考虑是否在重大赛事之前有一个独立的机构处理测试。
 
