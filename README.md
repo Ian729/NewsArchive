@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* The Winter Games, which officially open in Italy on Friday, are rooted in international cooperation. That feels out of place to some in a world where old rules no longer apply.
+* 周五在意大利正式开幕的冬奥会植根于国际合作。在一个旧规则不再适用的世界里，这对一些人来说是不合适的。
+* Marco Balich has helped design grand spectacles at more than half a dozen Olympics. On Friday, he’ll do it again, on home turf in Italy.
+* Marco Balich在六届以上的奥运会上帮助设计了宏伟的眼镜。周五，他将在意大利的主场再次这样做。
+* Hikaru Fujita, who’s running in Sunday’s parliamentary election, is a standout in a country where expectant mothers rarely enter national politics.
+* 参加周日议会选举的藤田光（ Hikaru Fujita ）在一个孕妇很少参与国家政治的国家中脱颖而出。
+* Middle Eastern diplomats see a chance for progress on Iran’s nuclear program, but they are pessimistic about other U.S. demands.
+* 中东外交官看到伊朗核计划取得进展的机会，但他们对美国的其他要求持悲观态度。
+* The attack bore the hallmark of several assassination attempts on top military officers in the Russian capital.
+* 这次袭击标志着对俄罗斯首都高级军官的几次暗杀企图。
+* Repairs at key missile sites began soon after they were hit by Israeli and U.S. strikes last year, but work at Iran’s nuclear facilities has been slower.
+* 关键导弹基地的维修工作在去年遭到以色列和美国袭击后不久就开始了，但伊朗核设施的工作进展缓慢。
+* The future queen’s links to Jeffrey Epstein, and her son’s rape trial, have disappointed many Norwegians. But there is still widespread support for the monarchy.
+* 未来的女王与杰弗里·爱泼斯坦（ Jeffrey Epstein ）的联系，以及她儿子的强奸案审判，让许多挪威人感到失望。但君主制仍然得到了广泛的支持。
+* Newly released documents detailed connections between the convicted sex offender Jeffrey Epstein and Peter Mandelson, who was picked to be the U.S. envoy by the British prime minister, Keir Starmer.
+* 新发布的文件详细说明了被定罪的性犯罪者杰弗里·爱泼斯坦（ Jeffrey Epstein ）和彼得·曼德尔森（ Peter Mandelson ）之间的联系，曼德尔森被英国首相基尔·斯塔默（ Keir Starmer ）选
 * The authorities are making mass arrests, seizing assets and hunting down doctors who treated protesters. Some Iranians keep showing defiance anyway.
 * 当局正在进行大规模逮捕，没收资产并追捕治疗抗议者的医生。无论如何，一些伊朗人继续表现出蔑视。
 * Some 60,000 evacuees have been left in limbo by confusion and political disputes as Pakistan battles insurgents on its border with Afghanistan.
 * 在巴基斯坦与阿富汗边境的叛乱分子作战时，约有6万名撤离人员因混乱和政治争端而陷入困境。
-* In Cortina d’Ampezzo, a hub for the Games in northern Italy, some residents, including a former Olympian, are annoyed about all the construction. Others are annoyed that they’re annoyed.
-* 在意大利北部的奥运会中心Cortina d 'Ampezzo ，包括前奥运会选手在内的一些居民对所有的施工感到恼火。其他人因为生气而生气。
-* Little has been made public so far, but negotiators were expected to talk about the fate of Ukrainian territory in the east and security guarantees for Ukraine.
-* 到目前为止，几乎没有公开消息，但预计谈判代表将讨论乌克兰东部领土的命运以及对乌克兰的安全保障。
-* A recent production of “Othello” proves that small creative flowers can grow between the dreary slabs of cultural concrete laid by the Communist Party.
-* 最近制作的《奥赛罗》证明，小小的创意花朵可以生长在共产党铺设的沉闷的文化混凝土板之间。
-* Emails, texts, photos and videos show how Jeffrey Epstein, even after becoming a convicted sex offender, burnished his ties to royal family members from several countries and their advisers.
-* 电子邮件、短信、照片和视频显示，杰弗里·爱泼斯坦（ Jeffrey Epstein ）即使在成为一名被定罪的性犯罪者后，仍与来自多个国家的皇室成员及其顾问保持着联系。
-* Academic pressure has become so intense that even preschoolers are taking private extracurricular classes, raising worries about children’s rights.
-* 学术压力变得如此强烈，甚至学龄前儿童也在参加私人课外课程，引发了对儿童权利的担忧。
-* Afghanistan has plunged deeper into a crisis marked by levels of child hunger unseen in 25 years and the closure of almost 450 health centers.
-* 阿富汗陷入了25年来前所未有的儿童饥饿水平和近450个保健中心被关闭的危机。
-* Polls show a growing acceptance of territorial concessions among a war-weary public, if Ukraine receives strong security guarantees.
-* 民意调查显示，如果乌克兰获得强有力的安全保障，厌倦战争的公众越来越接受领土让步。
-* Gaza officials said the Israeli airstrikes killed at least 21 Palestinians. Israel said one of its soldiers was critically wounded in the attack by Palestinian gunmen.
-* 加沙官员说，以色列的空袭造成至少21名巴勒斯坦人死亡。以色列说，其中一名士兵在巴勒斯坦枪手的袭击中受重伤。
 
 ## New York Times United States News
-* Remarks by a prosecutor opened a revealing window onto how the courts in the state are buckling under the weight of a deluge of cases arising from the Trump administration’s campaign.
-* 检察官的言论为该州法院如何在特朗普政府竞选活动引发的大量案件的重压下屈服打开了一扇启示之窗。
-* Calling dibs on the parking spot you shoveled after a blizzard tends to be a respected tradition in northern cities, but a spate of confrontations is a reminder of just how precious a spot can be.
-* 在北方城市，在暴风雪过后铲下的停车位上叫停往往是一个受人尊敬的传统，但一连串的对抗提醒人们，一个停车位是多么珍贵。
-* Some athletes battered by concussions are desperately searching beyond conventional medicine. Researchers see potential in the brain-stimulating power of psilocybin mushrooms.
-* 一些受脑震荡打击的运动员正在拼命寻找传统医学之外的东西。研究人员发现了裸盖菇的大脑刺激能力的潜力。
-* Democrats are tapping candidates with unusual résumés — a Tejano recording star, a smokejumper and a fourth-generation farmer — to compete in areas long seen as inhospitable.
-* 民主党人正在利用具有不寻常简历的候选人（ Tejano唱片明星，跳烟者和第四代农民）在长期以来被视为荒凉的地区竞争。
-* Beijing, Moscow and shaken American allies are seeking new warheads as President Trump ends more than a half century of nuclear arms control with Russia.
-* 随着特朗普总统结束了与俄罗斯长达半个多世纪的核军备控制，北京、莫斯科和动摇的美国盟友正在寻求新的核弹头。
-* Ms. Guthrie, the television anchor, and her siblings released a video on Wednesday night asking for proof that their mother, Nancy, is alive.
-* 电视主播格思里和她的兄弟姐妹周三晚上发布了一段视频，要求证明他们的母亲南希还活着。
-* Both leaders gave versions of what they discussed, but the Chinese president’s take made clear the issue of the island was front and center.
-* 两位领导人都给出了他们讨论的内容的版本，但中国国家主席的态度明确表示，该岛问题是前沿和中心。
-* The authorities said the man, George Zinn, tried to derail their search for Mr. Kirk’s actual killer. He faces up to 15 years in prison on obstruction of justice and other charges.
-* 当局说，这名叫乔治·津恩（ George Zinn ）的男子试图破坏他们对柯克真正凶手的搜寻。他因妨碍司法和其他指控而面临长达15年的监禁。
-* A year into President Trump’s second term, his threats, retreats, twists and turns appear to be wearing on allies and adversaries.
-* 特朗普总统的第二个任期已经过去一年了，他的威胁、退却、曲折似乎在盟友和对手身上磨损。
-* A number of potential presidential candidates are releasing memoirs as the shadow primary heats up.
-* 随着影子初选的升温，一些潜在的总统候选人正在发布回忆录。
+* Sheriff Dawanna Witt of Hennepin County says she thinks she could help end the crackdown by allowing some measure of cooperation with ICE. She also knows that could cost her re-election.
+* Hennepin县的Dawanna Witt警长说，她认为她可以通过允许与ICE进行某种程度的合作来帮助结束镇压。她也知道这可能会让她连任。
+* When the New England Patriots play in the Super Bowl, a collective sigh will rise from the willful few who live in the region but root for other teams.
+* 当新英格兰爱国者队参加超级碗比赛时，居住在该地区但支持其他球队的少数人将集体叹息。
+* Jeffrey Epstein drafted letters to men like the retail billionaire Leslie Wexner in which he hinted at shared secrets.
+* 杰弗里·爱泼斯坦（ Jeffrey Epstein ）起草了给零售亿万富翁莱斯利·韦克斯纳（ Leslie Wexner ）等人的信，他在信中暗示
+* The Trump administration has criticized state and local “sanctuary” policies during its Minnesota immigration crackdown. The reality on the ground is complicated.
+* 特朗普政府在明尼苏达州的移民镇压期间批评了州和地方的“庇护”政策。实际情况很复杂。
+* The monitoring of law enforcement has a long history, dating back to the 1960s, when leftist groups like the Black Panthers began police patrols.
+* 对执法的监督有着悠久的历史，可以追溯到20世纪60年代，当时像黑豹这样的左翼组织开始了警察巡逻。
+* The progressive lawmaker is taking a larger role in Democratic politics, supporting moderate candidates and helping drive the party’s economic message. Now she is planning a major trip abroad.
+* 这位进步的立法者正在民主党政治中发挥更大的作用，支持温和的候选人，并帮助推动该党的经济信息。现在，她正在计划一次大型出国旅行。
+* Prosecutors said the doctor, John Stevenson Bynon Jr., had cut five patients off from liver transplant eligibility for months without their knowledge. He has pleaded not guilty.
+* 检察官说，这位名叫约翰·史蒂文森·拜农（ John Stevenson Bynon Jr. ）的医生在不知情的情况下切断了五名患者的肝移植资格达数月之久。他已表示不认罪。
+* The Trump administration announced that its deployment of immigration agents in the Twin Cities was diminishing, but many agents remain.
+* 特朗普政府宣布，其在双子城的移民代理部署正在减少，但许多代理人仍然存在。
+* As they appeal a ruling blocking their redistricting efforts, the state’s Democrats proposed redrawing districts in a way that would strongly favor them.
+* 当他们对阻止他们重新划分选区的裁决提出上诉时，该州的民主党人提议以一种强烈支持他们的方式重新划分选区。
+* The Justice Department may have violated a candor rule by not disclosing a 1980 law when seeking a warrant for a Washington Post reporter’s home.
+* 司法部在为《华盛顿邮报》记者的住宅申请搜查令时，可能没有披露1980年的法律，从而违反了坦率的规定。
 
 ## New York Times Asia News
+* The world’s biggest automaker has navigated the industry’s turbulent E.V. transition, but is looking to new leadership to manage intensifying geopolitical challenges.
+* 这家全球最大的汽车制造商经历了行业动荡的电动汽车转型，但正在寻求新的领导层来应对日益加剧的地缘政治挑战。
+* Hikaru Fujita, who’s running in Sunday’s parliamentary election, is a standout in a country where expectant mothers rarely enter national politics.
+* 参加周日议会选举的藤田光（ Hikaru Fujita ）在一个孕妇很少参与国家政治的国家中脱颖而出。
+* The Winter Games, which officially open in Italy on Friday, are rooted in international cooperation. That feels out of place to some in a world where old rules no longer apply.
+* 周五在意大利正式开幕的冬奥会植根于国际合作。在一个旧规则不再适用的世界里，这对一些人来说是不合适的。
 * Beijing, Moscow and shaken American allies are seeking new warheads as President Trump ends more than a half century of nuclear arms control with Russia.
 * 随着特朗普总统结束了与俄罗斯长达半个多世纪的核军备控制，北京、莫斯科和动摇的美国盟友正在寻求新的核弹头。
 * Some 60,000 evacuees have been left in limbo by confusion and political disputes as Pakistan battles insurgents on its border with Afghanistan.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 在《纽约时报》的视觉调查团队中，克里斯蒂安·特里伯特（ Christiaan Triebert ）将社交媒体侦查和传统报道相结合，将复杂的故事拼凑
 * Academic pressure has become so intense that even preschoolers are taking private extracurricular classes, raising worries about children’s rights.
 * 学术压力变得如此强烈，甚至学龄前儿童也在参加私人课外课程，引发了对儿童权利的担忧。
-* U.S. intelligence analysts say that Xi Jinping, China’s leader, has a remarkable level of fear. He has carried out mass purges, and surprised many by removing his top general.
-* 美国情报分析人士表示，中国领导人习近平有着惊人的恐惧感。他进行了大规模的清洗，并推翻了他的最高将军，令许多人感到惊讶。
-* Snowfall in parts of Japan has also left about 200 people injured. One city recorded 72 inches of snow, the highest in almost 40 years.
-* 日本部分地区的降雪也造成约200人受伤。一个城市的降雪量为72英寸，是近40年来最高的。
-* The officials from mountain rescue agencies are accused of carrying out unnecessary helicopter rescues to defraud international insurance companies of nearly $20 million.
-* 山区救援机构的官员被指控进行不必要的直升机救援，以欺骗国际保险公司近2000万美元（ $ ）。
 
