@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* In Milan this week, Olympics officials signaled a willingness to ease years of restrictions imposed on the country over its state-backed doping program and invasion of Ukraine.
-* 本周在米兰，奥运会官员表示愿意放松多年来因其国家支持的兴奋剂计划和入侵乌克兰而对该国施加的限制。
+* The Trump administration, which has tightened the U.S. chokehold on Cuba by cutting off foreign oil, is betting that this is the Cuban communist revolution’s last year.
+* 特朗普政府通过切断外国石油来收紧美国对古巴的控制，它押注这是古巴共产主义革命的最后一年。
+* People across Japan braved snowstorms to vote in the election, a major test of Prime Minister Sanae Takaichi’s leadership. Exit polls projected her party was on course for a landslide victory.
+* 日本各地的人们冒着暴风雪在选举中投票，这是对首相高市早苗（ Sanae Takaichi ）领导力的重大考验。出口民意调查显示，她的政党正在取得压倒性的胜利。
+* Sanae Takaichi, who has proved popular as the first woman to lead Japan as prime minister, hopes to bolster her power in a snap election. But she faces hurdles.
+* 作为第一位领导日本担任首相的女性， Sanae Takaichi希望在提前选举中巩固自己的权力。但她面临着障碍。
+* Stefania Constantini worked in a clothes shop until her sports career took off. The champion curler is now one of Italy’s best hopes at the Winter Games.
+* Stefania Constantini在一家服装店工作，直到她的体育生涯开始。冠军冰壶现在是意大利在冬季奥运会上最大的希望之一。
+* Sunday’s election is a test for the progressive, pro-democracy movement in Thailand, which has been blocked from taking power despite success at the polls.
+* 周日的选举是对泰国进步的亲民主运动的考验，尽管民意调查取得了成功，但该运动仍被阻止掌权。
+* Iran is skilled at prolonging negotiations over its nuclear program, and seems to be hoping President Trump is out for a quick win, rather than a prolonged regional war.
+* 伊朗擅长延长其核计划的谈判，似乎希望特朗普总统能够迅速获胜，而不是旷日持久的地区战争。
+* The progressive People’s Party was leading in surveys conducted before Sunday’s election but the country has a history of overturning voters’ will.
+* 进步的人民党在周日大选前进行的调查中处于领先地位，但该国有推翻选民意愿的历史。
+* The group, which has prompted skepticism from some U.S. allies, is scheduled to meet on Feb. 19, according to the officials.
+* 据官员称，该组织已引起一些美国盟友的怀疑，计划于2月19日举行会议。
 * Many people in the Faroe Islands, a tiny archipelago in the North Atlantic, want to be their own state. The crisis over Greenland, Denmark’s other territory, has complicated that, for now.
 * 法罗群岛是北大西洋的一个小群岛，许多人希望成为自己的国家。目前，丹麦的另一块领土格陵兰岛的危机使这一问题变得更加复杂。
-* Repairs at key missile sites began soon after they were hit by Israeli and U.S. strikes last year, but work at Iran’s nuclear facilities has been slower.
-* 关键导弹基地的维修工作在去年遭到以色列和美国袭击后不久就开始了，但伊朗核设施的工作进展缓慢。
-* Hikaru Fujita, who’s running in Sunday’s parliamentary election, is a standout in a country where expectant mothers rarely enter national politics.
-* 参加周日议会选举的藤田光（ Hikaru Fujita ）在一个孕妇很少参与国家政治的国家中脱颖而出。
-* Greenland’s mini diplomatic scene is about to get more lively as Canada and France set up consulates, following threats by President Trump to take over the island.
-* 在特朗普总统威胁要接管格陵兰岛之后，随着加拿大和法国设立领事馆，格陵兰的小型外交舞台即将变得更加热闹。
-* The Winter Games, which officially open in Italy on Friday, are rooted in international cooperation. That feels out of place to some in a world where old rules no longer apply.
-* 周五在意大利正式开幕的冬奥会植根于国际合作。在一个旧规则不再适用的世界里，这对一些人来说是不合适的。
-* Lt. Gen. Vladimir Alekseyev provided intelligence to the Kremlin for Russia’s invasion of Ukraine and had been penalized by the U.S. twice, including for meddling in elections.
-* 弗拉基米尔·阿列克谢耶夫（ Vladimir Alekseyev ）中将向克里姆林宫提供了俄罗斯入侵乌克兰的情报，并两次受到美国的惩罚，包括干涉选举。
-* President Trump said the negotiations would resume next week. Abbas Araghchi, the Iranian foreign minister, said the talks were off to a “good start.”
-* 特朗普总统表示，谈判将于下周恢复。伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）表示，会谈已经有了“良好的开端”。
-* The bombing, during Friday prayers, was the second major attack in recent months in Islamabad, raising concerns that extremist violence is spreading far from Pakistan’s border areas.
-* 星期五祈祷期间的爆炸事件是最近几个月在伊斯兰堡发生的第二次重大袭击事件，引发了人们对极端主义暴力正在远离巴基斯坦边境地区蔓延的担忧。
-* In a document released on Thursday night, the Israeli leader sought to distance himself from responsibility for intelligence and security failings before the Hamas-led attack.
-* 在周四晚上发布的一份文件中，这位以色列领导人试图在哈马斯领导的袭击之前与情报和安全失误的责任保持距离。
+* Pakistan has made headway against the Islamic State and other militants, but a bloody suicide attack showed how fragile its progress has been.
+* 巴基斯坦在打击伊斯兰国和其他武装分子方面取得了进展，但血腥的自杀式袭击表明其进展是多么脆弱。
 
 ## New York Times United States News
-* The president has escalated his language as his administration takes steps to involve itself more in election matters.
-* 随着他的政府采取措施更多地参与选举事务，总统已经升级了他的语言。
-* Beyond Northern California, fans may not realize that the Super Bowl is actually in this tidy Silicon Valley suburb 45 miles south of San Francisco.
-* 在加利福尼亚北部以外，粉丝们可能没有意识到超级碗实际上是在旧金山以南45英里的这个整洁的硅谷郊区。
-* Some offices are so decimated that the Justice Department has sent in military lawyers. More recently, officials asked for volunteers from other offices who can quickly deploy to places in desperate need.
-* 一些办公室遭到严重破坏，以至于司法部派出了军事律师。最近，官员们要求其他办公室的志愿者能够迅速部署到迫切需要的地方。
-* Federal prosecutors had a warrant to collect evidence from Ms. Good’s vehicle, but Trump administration leaders said to drop it. About a dozen prosecutors have departed, leaving the Minnesota U.S. attorney’s office in turmoil.
-* 联邦检察官有搜查令从古德的车上收集证据，但特朗普政府领导人说要放弃。大约有十几名检察官离职，使明尼苏达州美国检察官办公室陷入动荡。
-* The 41-year-old American aims to complete her comeback by racing in the women’s Olympic downhill on Sunday despite rupturing her left A.C.L. a week ago.
-* 这位41岁的美国人的目标是通过在周日的女子奥运会下坡比赛来完成她的复出，尽管一周前她的左ACL破裂了。
-* Drug syndicates have used .50-caliber ammunition, produced at a plant owned by the U.S. Army and then smuggled across the border, in attacks on Mexican civilians and police.
-* 毒品集团使用在美国陆军拥有的工厂生产的.50口径弹药，然后越过边境走私，袭击墨西哥平民和警察。
-* The decision kept at bay a freeze of nearly $10 billion in child care and other social service funds destined for Minnesota and four other Democratic-led states.
-* 该决定冻结了近100亿美元用于明尼苏达州和其他四个民主党领导的州的儿童保育和其他社会服务基金。
-* Mr. Hegseth’s order appeared to target his alma mater, Harvard’s Kennedy School for public policy.
-* 赫格塞斯的命令似乎是针对他的母校--哈佛大学肯尼迪公共政策学院。
-* Problems with homelessness and open-air drug use have been widely broadcast, but many visitors this week said they found the city surprisingly pleasant.
-* 无家可归和露天吸毒问题已被广泛传播，但本周许多游客表示，他们发现这座城市令人惊讶地愉快。
-* Dr. Christopher M. Palmer said in an interview that the keto diet, while promising, did not “cure” schizophrenia as the health secretary had claimed.
-* 克里斯托弗· M ·帕尔默（ Christopher M. Palmer ）博士在接受采访时表示，酮饮食虽然有希望，但并没有像卫生部长所声称的那样“治愈”精神分裂症。
+* The week leading up to the filing deadline saw candidates dropping from the field and a surprise last-minute challenge to the incumbent mayor, Karen Bass.
+* 在提交截止日期前的一周，候选人从该领域退出，并对现任市长凯伦·巴斯（ Karen Bass ）提出了意外的最后挑战。
+* Young Puerto Ricans say the star has opened the world’s eyes to their challenges, and to the island’s fraught territorial relationship with the U.S. government.
+* 年轻的波多黎各人说，这位明星让世界看到了他们的挑战，以及该岛与美国政府之间令人担忧的领土关系。
+* A new organization blessed by the president is raising money for events and projects that will put a Trumpian spin on the nation’s semiquincentennial.
+* 一个受总统祝福的新组织正在为活动和项目筹集资金，这些活动和项目将为国家的半百年纪念活动带来特朗普式的旋转。
+* Jeffrey Epstein’s longtime companion helped advise on the kickoff of the Clinton Global Initiative and arranged for $1 million in funding for it, emails show.
+* 电子邮件显示，杰弗里·爱泼斯坦（ Jeffrey Epstein ）的长期伴侣帮助为克林顿全球倡议的启动提供建议，并为其安排了100万$的资金。
+* Calls to Ohio’s gambling addiction help line have surged since sports betting was legalized in 2023, something the governor now regrets.
+* 自2023年体育博彩合法化以来，俄亥俄州赌博成瘾帮助热线的呼叫量激增，州长现在对此感到遗憾。
+* A record number of senators running for governor reflects deep frustrations with the upper chamber.
+* 竞选州长的参议员人数创纪录，反映了对上议院的深切沮丧。
+* U.S. presidents have long been accused of plotting to control foreign oil. But President Trump has asserted a U.S. right to take it.
+* 长期以来，美国总统一直被指控阴谋控制外国石油。但特朗普总统声称美国有权接受它。
+* The Whipple Federal Building has become both a staging ground for immigration agents and a hub for demonstrations against the crackdown in the Twin Cities.
+* 惠普尔联邦大厦既是移民代理人的集结地，也是反对双子城镇压的示威游行的枢纽。
+* With the midterm elections nearing, President Trump has found himself in the uncomfortable position of backtracking, even if only by degrees, at key moments.
+* 随着中期选举的临近，特朗普总统在关键时刻发现自己处于倒退的不舒服境地，即使只是在一定程度上。
+* The “Today” show anchor, in a message on social media with her siblings, said the return of their mother Nancy “is the only way we will have peace.”
+* “今日”节目的主播在与她的兄弟姐妹在社交媒体上的一条消息中说，他们的母亲南希的回归“是我们实现和平的唯一途径”。
 
 ## New York Times Asia News
+* Japn
+* Japn
+* 
+* 
+* Prime Minister Sanae Takaichi’s handling of bilateral relations has become a campaign issue. Her earlier comments on Taiwan brought reprisals from Beijing.
+* 高市早苗首相处理双边关系已成为竞选议题。她早些时候对台湾的言论引发了北京的报复。
+* Prime Minister Sanae Takaichi pushed through a record supplemental budget and is proposing tax cuts, raising questions about how the government will pay for it all.
+* 总理高市早苗（ Sanae Takaichi ）推动了创纪录的补充预算，并提议减税，这引发了人们对政府将如何支付这一切的质疑。
+* Sanae Takaichi, who has proved popular as the first woman to lead Japan as prime minister, hopes to bolster her power in a snap election. But she faces hurdles.
+* 作为第一位领导日本担任首相的女性， Sanae Takaichi希望在提前选举中巩固自己的权力。但她面临着障碍。
+* The progressive People’s Party was leading in surveys conducted before Sunday’s election but the country has a history of overturning voters’ will.
+* 进步的人民党在周日大选前进行的调查中处于领先地位，但该国有推翻选民意愿的历史。
+* Sunday’s election is a test for the progressive, pro-democracy movement in Thailand, which has been blocked from taking power despite success at the polls.
+* 周日的选举是对泰国进步的亲民主运动的考验，尽管民意调查取得了成功，但该运动仍被阻止掌权。
+* Pakistan has made headway against the Islamic State and other militants, but a bloody suicide attack showed how fragile its progress has been.
+* 巴基斯坦在打击伊斯兰国和其他武装分子方面取得了进展，但血腥的自杀式袭击表明其进展是多么脆弱。
 * Believed to be 113, she spent decades building an environmental legacy in India, inspired by her grief at being unable to conceive children.
 * 她被认为是113岁，她花了数十年的时间在印度建立环境遗产，灵感来自她对无法怀孕的悲伤。
 * Greenland’s mini diplomatic scene is about to get more lively as Canada and France set up consulates, following threats by President Trump to take over the island.
 * 在特朗普总统威胁要接管格陵兰岛之后，随着加拿大和法国设立领事馆，格陵兰的小型外交舞台即将变得更加热闹。
-* The ruling by China’s highest court followed a recent meeting between China and Canada’s top leaders that led to a thaw in the two countries’ relations.
-* 中国最高法院的裁决是在中国和加拿大最高领导人最近会晤后做出的，这次会晤导致两国关系解冻。
-* The bombing, during Friday prayers, was the second major attack in recent months in Islamabad, raising concerns that extremist violence is spreading far from Pakistan’s border areas.
-* 星期五祈祷期间的爆炸事件是最近几个月在伊斯兰堡发生的第二次重大袭击事件，引发了人们对极端主义暴力正在远离巴基斯坦边境地区蔓延的担忧。
-* The world’s biggest automaker has navigated the industry’s turbulent E.V. transition, but is looking to new leadership to manage intensifying geopolitical challenges.
-* 这家全球最大的汽车制造商经历了行业动荡的电动汽车转型，但正在寻求新的领导层来应对日益加剧的地缘政治挑战。
-* Hikaru Fujita, who’s running in Sunday’s parliamentary election, is a standout in a country where expectant mothers rarely enter national politics.
-* 参加周日议会选举的藤田光（ Hikaru Fujita ）在一个孕妇很少参与国家政治的国家中脱颖而出。
-* The Winter Games, which officially open in Italy on Friday, are rooted in international cooperation. That feels out of place to some in a world where old rules no longer apply.
-* 周五在意大利正式开幕的冬奥会植根于国际合作。在一个旧规则不再适用的世界里，这对一些人来说是不合适的。
-* Beijing, Moscow and shaken American allies are seeking new warheads as President Trump ends more than a half century of nuclear arms control with Russia.
-* 随着特朗普总统结束了与俄罗斯长达半个多世纪的核军备控制，北京、莫斯科和动摇的美国盟友正在寻求新的核弹头。
-* Some 60,000 evacuees have been left in limbo by confusion and political disputes as Pakistan battles insurgents on its border with Afghanistan.
-* 在巴基斯坦与阿富汗边境的叛乱分子作战时，约有6万名撤离人员因混乱和政治争端而陷入困境。
-* A recent production of “Othello” proves that small creative flowers can grow between the dreary slabs of cultural concrete laid by the Communist Party.
-* 最近制作的《奥赛罗》证明，小小的创意花朵可以生长在共产党铺设的沉闷的文化混凝土板之间。
 
