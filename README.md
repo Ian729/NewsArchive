@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* With defiant ingenuity, Kyiv residents are trying to find ways to stay warm in a cruel winter.
-* 基辅居民凭借顽强的聪明才智，正在努力寻找在严酷的冬季保持温暖的方法。
-* Isaac Herzog’s trip led to widespread rallies and tested the restrictions on protests that Australia installed after a deadly attack on a Jewish celebration.
-* 艾萨克·赫尔佐格（ Isaac Herzog ）的访问导致了广泛的集会，并测试了澳大利亚在犹太庆祝活动遭到致命袭击后对抗议活动的限制。
-* Most Italian athletes at the Winter Games subsidize their training by joining the police or the military, which vie to enlist the best talent.
-* 大多数参加冬季奥运会的意大利运动员通过加入警察或军队来补贴他们的训练，这些警察或军队争相招募最优秀的人才。
-* In the post-Assad era, more Jews are visiting a country that some fled decades ago. One hotel restaurant offers a corner where religious dietary requirements are melded with the local cuisine.
-* 在后阿萨德时代，越来越多的犹太人正在访问一个几十年前逃离的国家。一家酒店餐厅提供一个角落，宗教饮食要求与当地美食融为一体。
 * Russian troops have advanced at a glacial pace in recent months, but gains in southern and eastern Ukraine could give Moscow an edge in U.S.-mediated peace talks.
 * 近几个月来，俄罗斯军队以冰川般的速度前进，但乌克兰南部和东部的进展可能会使莫斯科在美国调解的和平谈判中占据优势。
 * The longstanding alliance between Cuba and Mexico is under mounting pressure from the United States, forcing President Claudia Sheinbaum into a precarious balancing act.
 * 古巴和墨西哥之间的长期联盟受到美国越来越大的压力，迫使总统克劳迪娅·谢恩鲍姆（ Claudia Sheinbaum ）采取了不稳定的平衡行动。
-* Malaysian durian farmers saw immense profits over the last decade as China snapped up their produce. But tastes have shifted.
-* 随着中国抢购榴莲农产品，马来西亚榴莲农民在过去十年中获得了巨大的利润。但品味已经发生了变化。
-* Senior U.K. ministers closed ranks after a senior Labour politician urged the prime minister to step down over a scandal involving an ambassador with close ties to Jeffrey Epstein.
-* 一位工党高级政治家敦促首相辞职，因为涉及与杰弗里·爱泼斯坦（ Jeffrey Epstein ）关系密切的大使的丑闻。
-* The security cabinet took actions that make it easier for Jews to buy land in the territory. Critics say the changes violate the Oslo Accords and international law and accelerate attempts to annex the land.
-* 安全内阁采取行动，使犹太人更容易在该领土上购买土地。批评人士说，这些变化违反了《奥斯陆协定》和国际法，并加速了吞并这片土地的企图。
-* The sentence for the media mogul, along with long prison terms for his editors, shows how Hong Kong enforces Xi Jinping’s red lines with a new severity.
-* 对媒体大亨的判决，以及对其编辑的长期监禁，显示了香港如何以新的严厉程度执行习近平的红线。
+* For years Peter Mandelson, a senior British politician, concealed the depth of his friendship with the convicted sex offender Jeffrey Epstein, until new files were released.
+* 多年来，英国资深政治家彼得·曼德尔森（ Peter Mandelson ）一直隐瞒他与被定罪的性犯罪者杰弗里·爱泼斯坦（ Jeffrey Epstein ）的友谊深度，直到新文件发布。
+* Isaac Herzog’s trip led to widespread rallies and tested the restrictions on protests that Australia installed after a deadly attack on a Jewish celebration.
+* 艾萨克·赫尔佐格（ Isaac Herzog ）的访问导致了广泛的集会，并测试了澳大利亚在犹太庆祝活动遭到致命袭击后对抗议活动的限制。
+* Most Italian athletes at the Winter Games subsidize their training by joining the police or the military, which vie to enlist the best talent.
+* 大多数参加冬季奥运会的意大利运动员通过加入警察或军队来补贴他们的训练，这些警察或军队争相招募最优秀的人才。
+* Israel is unlikely to withdraw its troops from the enclave before Hamas and other militant groups lay down their arms.
+* 在哈马斯和其他激进组织放下武器之前，以色列不太可能从飞地撤军。
+* With defiant ingenuity, Kyiv residents are trying to find ways to stay warm in a cruel winter.
+* 基辅居民凭借顽强的聪明才智，正在努力寻找在严酷的冬季保持温暖的方法。
+* President Trump’s threat to block the opening of the new crossing is the latest in a long string of challenges for the project.
+* 特朗普总统威胁要阻止新过境点的开放，这是该项目面临的一系列挑战中的最新挑战。
+* Palestinian and Jewish citizens of Israel joined forces to demand government action in the face of a spiraling death toll from criminal violence among Arabs.
+* 面对阿拉伯人犯罪暴力造成的死亡人数不断上升，以色列的巴勒斯坦和犹太公民联合起来要求政府采取行动。
+* Vladyslav Heraskevych said he would risk disqualification to wear a helmet that the International Olympic Committee said defied a ban on political speech.
+* 弗拉迪斯拉夫·赫拉斯克维奇（ Vladyslav Heraskevych ）表示，他将冒着被取消戴头盔资格的风险，国际奥委会称戴头盔无视政治言论禁令。
 
 ## New York Times United States News
-* The hearing comes more than two months after the Trump administration began its aggressive immigration crackdown in Minnesota.
-* 听证会是在特朗普政府开始在明尼苏达州进行积极的移民镇压两个多月后举行的。
-* Two months after federal agents began operations in the Twin Cities, residents say they have found strength in their sense of community.
-* 在联邦特工开始在双子城开展业务两个月后，居民们表示，他们在社区意识中找到了力量。
-* Republicans have criticized proposed restrictions as overreach, while immigrant advocates and some former ICE officials question if such changes would be effective.
-* 共和党人批评拟议的限制措施过度，而移民倡导者和一些前ICE官员则质疑这种改变是否有效。
-* Republican politicians and strategists in Texas are amping up anti-Muslim rhetoric as a way to energize Republican voters after several elections when the border was the animating force.
-* 德克萨斯州的共和党政治家和战略家正在加大反穆斯林言论的力度，作为在几次选举后激励共和党选民的一种方式，当时边境是充满活力的力量。
-* Our reporter Allison McCann describes a pattern that appears in many of the 16 shooting cases by immigration agents in the interior of the United States over the past year.
-* 我们的记者Allison McCann描述了一种模式，这种模式在过去一年中出现在美国内地移民代理的16起枪击案中。
-* Before the killings of Renee Good and Alex Pretti, allegations against four others shot at by federal immigration agents failed to withstand scrutiny.
-* 在蕾妮·古德（ Renee Good ）和亚历克斯·普雷蒂（ Alex Pretti ）被杀之前，联邦移民局特工对其他四人开枪的指控未能经得起审查。
-* The court pointed to recent rulings by the Supreme Court as precedent to allow the protections for migrants from Nepal, Honduras and Nicaragua to expire.
-* 法院指出，最高法院最近的裁决是允许对来自尼泊尔、洪都拉斯和尼加拉瓜的移民的保护到期的先例。
-* The strike in the eastern Pacific, the third on suspected drug trafficking boats this year, was the second authorized by Gen. Francis L. Donovan, the new head of the Southern Command.
-* 东太平洋的袭击是今年对涉嫌贩毒船只的第三次袭击，是南方司令部新任负责人弗朗西斯· L ·多诺万将军授权的第二次袭击。
-* The Gordie Howe International Bridge, expected to open early this year, was built by Canada to ease cargo transport between Detroit and Windsor, Ontario.
-* Gordie Howe国际大桥预计将于今年年初开放，由加拿大建造，以简化底特律和安大略省温莎之间的货物运输。
-* The move involving Archbishop Fulton J. Sheen, who hosted a popular midcentury radio and TV show and died in 1979, ends a six-year delay.
-* 此举涉及大主教富尔顿· J ·辛（ Fulton J. Sheen ） ，他主持了一个受欢迎的中世纪广播电视节目，并于1979年去世，结束了为期六年的延迟。
+* 
+* 
+* It will be the sixth visit by Prime Minister Benjamin Netanyahu of Israel to the United States to meet with President Trump since the president began his second term.
+* 这将是以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）自总统第二个任期开始以来第六次访问美国，与特朗普总统会面。
+* At a House Judiciary Committee hearing on Wednesday, Attorney General Pam Bondi could face bipartisan skepticism over her handling of the documents.
+* 在周三的众议院司法委员会听证会上，司法部长帕姆·邦迪（ Pam Bondi ）可能面临两党对她处理这些文件的怀疑。
+* President Trump is focused on Iran’s nuclear program, but Prime Minister Benjamin Netanyahu sees a more immediate threat from Tehran’s rapid rebuilding of its ability to launch missiles at Israel.
+* 特朗普总统专注于伊朗的核计划，但总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）认为，德黑兰迅速重建向以色列发射导弹的能力会带来更直接的威胁。
+* J.P. Cooney, a former top deputy to the special counsel Jack Smith, who led two prosecutions of President Trump, plans to seek election to a newly drawn district in Northern and Central Virginia.
+* 曾两次起诉特朗普总统的特别顾问杰克·史密斯（ Jack Smith ）的前高级副手J.P.库尼（ J.P. Cooney ）计划在弗吉尼亚州北部和中部的一个新选区寻求选举。
+* The rare gathering focused on the Western Hemisphere underscored potential implications of the Trump administration’s “Donroe Doctrine.”
+* 这次罕见的聚焦西半球的会议凸显了特朗普政府“唐罗主义”的潜在影响。
+* The appeal by Alex Murdaugh, once a well-connected member of a prominent family law firm, seeks to overturn his conviction in the murders of his wife and son.
+* 亚历克斯·默多（ Alex Murdaugh ）曾是一家著名家族律师事务所的关系密切的成员，他的上诉旨在推翻他对谋杀妻子和儿子的定罪。
+* A young aide behind social posts that echoed white supremacist messaging will help run social media for the much larger Homeland Security Department.
+* 一位与白人至上主义信息相呼应的社交帖子背后的年轻助手将有助于为更大的国土安全部运营社交媒体。
+* The ice that fell during last month’s storm was unsparing: It decimated magnolias, oaks and other species in wealthy suburban enclaves, rural communities and urban parks.
+* 上个月风暴期间降下的冰层无情：它摧毁了富裕的郊区飞地、农村社区和城市公园的木兰、橡树和其他物种。
+* Matthew Goldstein, a reporter for The New York Times who has focused on the financialization of the housing market, looks at a new executive order on housing by President Trump.
+* 专注于房地产市场金融化的《纽约时报》记者马修·戈尔茨坦（ Matthew Goldstein ）审视了特朗普总统关于住房的新行政命令。
 
 ## New York Times Asia News
+* Bangladesh is holding national elections for the first time since 2024, when a student movement ousted the prime minister.
+* 自2024年学生运动罢免总理以来，孟加拉国首次举行全国大选。
+* In her first interview about her father, the exiled Hong Kong activist Anna Kwok said the authorities were targeting her family to try to silence her.
+* 在她关于父亲的第一次采访中，流亡的香港活动家Anna Kwok表示，当局的目标是她的家人，试图让她保持沉默。
 * Isaac Herzog’s trip led to widespread rallies and tested the restrictions on protests that Australia installed after a deadly attack on a Jewish celebration.
 * 艾萨克·赫尔佐格（ Isaac Herzog ）的访问导致了广泛的集会，并测试了澳大利亚在犹太庆祝活动遭到致命袭击后对抗议活动的限制。
 * Malaysian durian farmers saw immense profits over the last decade as China snapped up their produce. But tastes have shifted.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 来自吉米·赖（ Jimmy Lai ）现已倒闭的报纸的两名编辑和一名意见撰稿人分别被判处10年徒刑，这使得这个曾经随心所欲的城市的媒体起诉大幅升级。
 * The country’s cities have been spared the violence of a hard-fought civil war. But as the economy has hollowed out, many urbanites have become desperate.
 * 该国的城市免受了艰苦内战的暴力。但随着经济空心化，许多城市居民变得绝望。
-* The vibrant celebration, banned for two decades, brightened the eastern city of Lahore, where residents face alarming levels of air pollution and political restrictions.
-* 这个充满活力的庆祝活动被禁止了二十年，照亮了东部城市拉合尔，那里的居民面临着惊人的空气污染和政治限制。
-* The heavy sentence for the Hong Kong publisher aligns with mainland cases where influential critics of the Communist Party have been sent to prison for many years.
-* 对香港出版商的严厉判决与内地案例一致，在这些案例中，对共产党有影响力的批评者多年来一直被送进监狱。
 
