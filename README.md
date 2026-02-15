@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Secretary of State Marco Rubio also echoed the Trump administration’s talking points on the threat of Western decline.
-* 国务卿马可·卢比奥（ Marco Rubio ）也回应了特朗普政府关于西方衰落威胁的谈话要点。
-* More people in a still largely conservative and religious nation are rejecting monogamy as they seek new definitions of romance, and of family.
-* 在一个仍然主要是保守和宗教的国家，越来越多的人拒绝一夫一妻制，因为他们寻求对浪漫和家庭的新定义。
-* A Chinese king’s infatuation with a woman was seen as the reason that a golden age collapsed. Evidence suggests climate change and internal strife played bigger roles.
-* 一个中国国王对一个女人的迷恋被认为是黄金时代崩溃的原因。有证据表明，气候变化和内部冲突发挥了更大的作用。
-* More than a year into a cease-fire, the mechanical whir of Israeli drones above the Lebanese capital is a reminder that, in many ways, the war never really ended.
-* 停火一年多来，以色列无人机在黎巴嫩首都上空的机械呼啸提醒人们，在许多方面，战争从未真正结束。
-* The captain’s arrest had raised fears of a broader diplomatic confrontation between Japan and China, which have been at odds for months.
-* 这位船长的被捕引发了人们对日本和中国之间更广泛的外交对抗的担忧，这种对抗已经持续了数月。
-* Peter Biar Ajak, a democracy advocate, was convicted of conspiring to buy and export weapons for a revolt in South Sudan.
-* 民主倡导者彼得·比亚尔·阿贾克（ Peter Biar Ajak ）因阴谋为南苏丹的叛乱购买和出口武器而被定罪。
-* Tarique Rahman, the scion of a political dynasty, returned to sweep his party into government with a promise of change. Some have doubts.
-* 塔里克·拉赫曼（ Tarique Rahman ）是一个政治王朝的继承人，他带着变革的承诺回到了他的政党中。有些人怀疑。
-* The High Court said the ban on Palestine Action as a terrorist group was disproportionate and breached free speech rights. The government said it would appeal, and the ban remained in place for now.
-* 高等法院表示，禁止作为恐怖组织的巴勒斯坦行动是不成比例的，侵犯了言论自由权。政府表示将上诉，禁令目前仍然有效。
-* Carlos Roberto García, an ex-mayor opposed to the Maduro regime, fled Venezuela in 2017. He faces deportation to a country with a long history of punishing political dissidents.
-* 反对马杜罗政权的前市长卡洛斯·罗伯托·加西亚（ Carlos Roberto García ）于2017年逃离委内瑞拉。他面临被驱逐到一个有着惩罚持不同政见者的悠久历史的国家。
-* Sultan Ahmed bin Sulayem was credited with turning the state-backed DP World into a global logistics powerhouse. He was recently identified in correspondence with Jeffrey Epstein.
-* 苏丹艾哈迈德·本·苏莱耶姆（ Sultan Ahmed bin Sulayem ）因将国家支持的迪拜环球港务集团（ DP World ）转变为全球物他最近在与杰弗里·爱泼斯坦（ Jeffrey Epstein ）的通信中被确认。
+* Tax hikes made cigarettes in Australia the most expensive in the world. They have also helped fuel a multibillion-dollar criminal enterprise in bootleg tobacco.
+* 加税使澳大利亚的卷烟成为世界上最昂贵的卷烟。他们还帮助助长了一个价值数十亿美元的非法烟草犯罪集团。
+* Rights groups are investigating the death of Ali Rahbar as a potential extrajudicial killing. Iran denies executions have taken place.
+* 人权组织正在调查阿里·拉赫巴尔（ Ali Rahbar ）的死亡是否可能是法外处决。伊朗否认执行过死刑。
+* The party is dedicated to running the country under Islamic law, but ran on a more moderate platform. It gained far more seats in last week’s election than it ever had before.
+* 该党致力于在伊斯兰法律下管理国家，但在更温和的平台上运行。在上周的选举中，它获得了比以往任何时候都多的席位。
+* Popular paperbacks are being translated with the help of machines, raising anxiety among professionals in the field.
+* 流行的平装书正在机器的帮助下翻译，引起了该领域专业人士的焦虑。
+* A Brazilian skier secured South America’s maiden medal at a Winter Games the day after a Kazakh figure skater won his nation’s first gold in 32 years.
+* 一名巴西滑雪运动员在哈萨克斯坦花样滑冰运动员赢得该国32年来第一枚金牌后的第二天，在冬季奥运会上获得了南美的首枚奖牌。
+* Most had court orders protecting them from removal to their home countries, so they were sent to detention in Cameroon.
+* 大多数人都有法院命令保护他们免于被遣返回国，因此他们被关押在喀麦隆。
+* The toxin was found in the body of the Russian dissident Aleksei A. Navalny, who died in prison two years ago, five governments said, challenging Russia’s official account.
+* 五国政府表示，在两年前死于监狱的俄罗斯持不同政见者阿列克谢·纳瓦尔尼（ Aleksei A. Navalny ）的尸体中发现了这种毒素，这对俄罗斯的官方说法提出了挑战。
+* The Paris prosecutor’s office said it was looking into three new complaints with links to the files and revisiting an earlier investigation into an Epstein associate who died in 2022.
+* 巴黎检察官办公室表示，它正在调查三起与文件有关的新投诉，并重新审视早些时候对2022年去世的爱泼斯坦同事的调查。
+* People protesting the Iranian government gathered near the security conference in Munich, as well as in other cities. More U.S.-Iran talks are expected Tuesday.
+* 抗议伊朗政府的人们聚集在慕尼黑和其他城市的安全会议附近。预计周二将有更多的美伊会谈。
+* In Munich, European leaders were also talking about “de-risking” from the United States, citing President Trump’s unpredictability.
+* 在慕尼黑，欧洲领导人也在谈论从美国“降低风险” ，理由是特朗普总统的不可预测性。
 
 ## New York Times United States News
-* The collapse of the Trump administration’s version of events in the case was only the most recent instance in which officials gave an account of a shooting that was later contradicted.
-* 特朗普政府在此案中的事件版本的崩溃只是最近一次官员对枪击事件的描述，后来与之相矛盾。
-* The F.A.A., citing “a grave risk of fatalities” from a new technology being used on the Mexican border, got caught in a stalemate with the Pentagon, which deemed the weapon “necessary.”
-* 美国联邦航空局以墨西哥边境使用的一种新技术造成“严重的死亡风险”为由，陷入了与五角大楼的僵局，五角大楼认为这种武器是“必要的”。
-* Mr. Klein, who led an education technology company after running the New York City school system, met with Jeffrey Epstein over a period of several months in 2013.
-* 克莱因先生在管理纽约市学校系统后领导了一家教育技术公司，他在2013年的几个月里会见了杰弗里·爱泼斯坦（ Jeffrey Epstein ）。
-* As Congress leaves town without funding their department, airport security officers wonder, “How many more times am I going to be able to do this?”
-* 随着国会在没有为其部门提供资金的情况下离开城镇，机场安全官员想知道， “我还能做多少次？”
-* Not long ago, Vermont had a population problem. Then Act 76 ushered in affordable child care for the first time in the state’s history.
-* 不久前，佛蒙特州出现了人口问题。然后，第76号法案在该州历史上首次引入了负担得起的托儿服务。
-* An upcoming Senate primary contest in Illinois, which is likely to pick the state’s next senator, has centered on Democrats’ future approach to federal immigration policy.
-* 即将在伊利诺伊州举行的参议院初选可能会选出该州的下一任参议员，这场比赛的重点是民主党未来对联邦移民政策的态度。
-* The national party, which is nearly $100 million behind its G.O.P. counterpart, bought the list for $6.5 million.
-* 这个比共和党落后近1亿美元的国家党以650万美元的价格买下了这份名单。
-* California’s wealthiest residents are strategizing to reduce their net worth in case a billionaire tax becomes law. Some may even try to drop below $1 billion on paper.
-* 加利福尼亚州最富有的居民正在制定战略，以减少他们的净资产，以防亿万富翁税收成为法律。有些人甚至可能试图在纸面上跌破10亿$。
-* Larry Bushart’s arrest in Tennessee was condemned as dangerous overreach. Nonetheless, he is no longer arguing about politics online.
-* 拉里·布沙特（ Larry Bushart ）在田纳西州被捕被谴责为危险的过度行为。尽管如此，他不再在网上争论政治。
-* Casey Wasserman, a Los Angeles entertainment executive and the head of the 2028 Olympic Games, has lost clients since his emails with Ghislaine Maxwell surfaced.
-* 洛杉矶娱乐高管、2028年奥运会负责人凯西·瓦瑟曼（ Casey Wasserman ）自从与吉斯琳·麦克斯韦（ Ghislaine Maxwell ）的电子邮件浮出水面以来，已经失
+* President Trump has engaged in a spree of self-aggrandizement unlike any of his predecessors, fostering a mythologized superhuman persona and making himself the inescapable force at home and around the world.
+* 与他的前任不同，特朗普总统进行了大规模的自我扩张，培养了一种神话般的超人形象，并使自己成为国内和世界各地不可避免的力量。
+* In Minneapolis, videos of the Alex Pretti killing undermined the federal government’s account. But an A.I. video of Brad Pitt shows the dangers ahead.
+* 在明尼阿波利斯， Alex Pretti被杀的视频破坏了联邦政府的账户。但布拉德·皮特（ Brad Pitt ）的人工智能视频显示了未来的危险。
+* South Carolina’s state legislature is one of 17, mainly in heavily Republican states, that is moving to handcuff state agencies at a moment of tectonic changes in energy, technology and finance.
+* 南卡罗来纳州的立法机构是17个州之一，主要是在共和党占多数的州，在能源，技术和金融发生结构性变化的时刻，它正在转向手铐州机构。
+* In dozens of states, students have staged walkouts over immigration enforcement. In Texas, they’re doing so despite threats from Gov. Greg Abbott.
+* 在数十个州，学生因移民执法而罢课。在德克萨斯州，尽管受到州长Greg Abbott的威胁，他们还是这样做了。
+* He trained mostly lesser-known, cheaper thoroughbreds in Maryland and was the fifth-winningest trainer in North American history.
+* 他主要在马里兰州训练鲜为人知、更便宜的纯种马，是北美历史上第五位获奖的训练师。
+* David Curl, a retired lawyer, said the woman who lived there was distraught and did not know why investigators were focusing on her home.
+* 退休律师大卫·科尔（ David Curl ）说，住在那里的女人心烦意乱，不知道为什么调查人员会关注她的家。
+* Face was one of the first major-league hurlers to make the closer job a specialty. Not an overpowering pitcher, he finagled outs with a tricky forkball.
+* Face是最早将近距离投掷作为专业的一支大联盟投掷手之一。他不是一个强大的投手，他用一个棘手的叉球出局。
+* It wasn’t fully
+* 它不完全是
+* The attacks since early November had specifically targeted suspected drug smuggling boats in the Pacific Ocean.
+* 自11月初以来的袭击专门针对太平洋上涉嫌毒品走私的船只。
+* Weeks of freezing temperatures and winter storms across parts of the United States have increased the demand for firewood and manufactured fire logs.
+* 美国部分地区数周的寒冷气温和冬季风暴增加了对木柴和人造消防原木的需求。
 
 ## New York Times Asia News
+* The party is dedicated to running the country under Islamic law, but ran on a more moderate platform. It gained far more seats in last week’s election than it ever had before.
+* 该党致力于在伊斯兰法律下管理国家，但在更温和的平台上运行。在上周的选举中，它获得了比以往任何时候都多的席位。
+* Tax hikes made cigarettes in Australia the most expensive in the world. They have also helped fuel a multibillion-dollar criminal enterprise in bootleg tobacco.
+* 加税使澳大利亚的卷烟成为世界上最昂贵的卷烟。他们还帮助助长了一个价值数十亿美元的非法烟草犯罪集团。
+* A Brazilian skier secured South America’s maiden medal at a Winter Games the day after a Kazakh figure skater won his nation’s first gold in 32 years.
+* 一名巴西滑雪运动员在哈萨克斯坦花样滑冰运动员赢得该国32年来第一枚金牌后的第二天，在冬季奥运会上获得了南美的首枚奖牌。
+* The lawyer for the former prime minister claimed he had lost 85 percent of the vision in his right eye because of delayed treatment in prison.
+* 这位前总理的律师声称，由于监狱治疗延迟，他失去了85%的右眼视力。
 * The captain’s arrest had raised fears of a broader diplomatic confrontation between Japan and China, which have been at odds for months.
 * 这位船长的被捕引发了人们对日本和中国之间更广泛的外交对抗的担忧，这种对抗已经持续了数月。
 * A Chinese king’s infatuation with a woman was seen as the reason that a golden age collapsed. Evidence suggests climate change and internal strife played bigger roles.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 十分之八的选民支持旨在捍卫民主和增加妇女参政的改革。
 * The cricket-mad South Asian neighbors have a bitter history, punctuated by violence and wars. It makes this one of the fiercest, and most financially lucrative, rivalries in sports.
 * 蟋蟀疯狂的南亚邻居有着痛苦的历史，充斥着暴力和战争。这使得它成为体育运动中最激烈、最有利可图的竞争对手之一。
-* Tarique Rahman, the scion of a political dynasty, returned to sweep his party into government with a promise of change. Some have doubts.
-* 塔里克·拉赫曼（ Tarique Rahman ）是一个政治王朝的继承人，他带着变革的承诺回到了他的政党中。有些人怀疑。
-* The seizure of the trawler, which Japan said was sailing in its waters in the East China Sea, is likely to add to tensions between Tokyo and Beijing.
-* 日本称拖网渔船在东海水域航行，扣押该拖网渔船可能会加剧东京和北京之间的紧张关系。
-* The Bangladesh Nationalist Party, led by Tarique Rahman, swept to victory on Friday.
-* 由塔里克·拉赫曼（ Tarique Rahman ）领导的孟加拉国民族主义党（ Bangladesh Nationalist Party ）周五大获全胜
-* The widow and two daughters of LG’s former chairman sought to invalidate an inheritance agreement, claiming they were deceived into forfeiting their rightful inheritance.
-* LG前董事长的遗孀和两个女儿试图使继承协议无效，声称他们被欺骗，丧失了合法的继承权。
 
