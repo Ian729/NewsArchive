@@ -2,48 +2,48 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Russian attacks and Ukrainian civilian deaths rose as President Trump’s peace talks dragged on during his first year back in the White House.
+* 随着特朗普总统返回白宫的第一年和平谈判的拖延，俄罗斯的袭击和乌克兰平民的死亡人数有所增加。
+* The Boi Tolo, one of the city’s most iconic street parties, has come to represent the glittery, gritty grass-roots celebration far from the glamour of the official parades.
+* Boi Tolo是这座城市最具标志性的街头派对之一，它代表了闪闪发光、坚韧不拔的基层庆祝活动，远离官方游行的魅力。
+* The robotic cameras chase behind lugers, skiers and speedskaters across the venues in Northern Italy. Some spectators find they’re as much fun to watch as the athletes.
+* 机器人摄像头在意大利北部各个场馆的滑行者、滑雪者和速滑者身后追逐。一些观众发现他们和运动员一样有趣。
+* Ceremonies commemorating the 40 days after protesters were killed are planned this week, challenging the authorities’ ability to restrain them.
+* 本周计划举行纪念抗议者被杀40天后的仪式，挑战当局抑制抗议者的能力。
+* President Trump has called on Iran to reach an immediate accord or else face the threat of a possible U.S. attack.
+* 特朗普总统呼吁伊朗立即达成协议，否则将面临美国可能发动袭击的威胁。
+* Adeliia Petrosian, 18, has the résumé of a medal contender — and ties to coaches and a skater who were at the center of a doping scandal at the last Winter Games.
+* 18岁的阿德莉亚·彼得罗相（ Adeliia Petrosian ）拥有奖牌竞争者的简历，并与上届冬奥会兴奋剂丑闻的中心教练和滑冰运动员有联系。
+* Both sides described previous U.S.-mediated negotiations as productive, although they did not appear to address sticking points like territory and security guarantees.
+* 双方都表示，之前由美国调解的谈判富有成效，尽管它们似乎没有解决领土和安全保障等问题。
 * The advance of the Syrian Army into Kurdish regions could put nearly all the country under one authority. But it ends a dream of autonomy for ethnic Kurds.
 * 叙利亚军队进入库尔德地区，几乎可以将整个国家置于一个权力之下。但它结束了库尔德人自治的梦想。
-* A provincial governor seeks to honor villages that deployed many soldiers to the war in Ukraine with a prestigious title first bestowed on cities that were major World War II battlefields.
-* 一位省长试图表彰在乌克兰战争中部署了许多士兵的村庄，他们首先被授予了二战主要战场的城市。
+* Sedanka has only 250 residents, but dozens of its men left for the front. It is wondering whether recognition that the government promised will ever arrive.
+* Sedanka只有250名居民，但有数十名士兵前往前线。人们想知道政府承诺的承认是否会到来。
 * In the aftermath of another wave of antigovernment unrest, Iran is gripped by a mood of collective grief and uncertainty about the future.
 * 在另一波反政府骚乱之后，伊朗陷入了集体悲伤和对未来的不确定情绪。
-* Nicolás Maduro’s capture and talk of oil investment have pushed prices higher, even as brokers say enthusiasm is outpacing demand in a weak economy.
-* 尼古拉斯·马杜罗（ Nicolás Maduro ）的捕获和对石油投资的谈论推高了价格，尽管经纪人表示，在疲软的经济中，热情超过了需求。
-* By reaching back to Maoist tactics of “rectification,” the Chinese leader is signaling that control over the gun requires a state of perpetual cleansing.
-* 通过回归毛主义的“整风”策略，这位中国领导人发出了一个信号，即对枪支的控制需要一种永久的清洗状态。
-* It hosted the 1956 Olympics and had a role in a James Bond movie. Now Cortina’s beloved stadium is packed with raucous fans, and the occasional cheating scandal, in curling.
-* 它主办了1956年奥运会，并在詹姆斯·邦德的电影中扮演了一个角色。现在，科尔蒂纳心爱的体育场挤满了喧闹的球迷，偶尔也会出现冰壶中的作弊丑闻。
-* As the U.S. message veered from shared heritage and values to shared interests and back again, Europeans wondered what kind of alliance they were left with.
-* 随着美国的信息从共同的遗产和价值观转向共同的利益，再回到共同的利益，欧洲人想知道他们留下了什么样的联盟。
-* Canada plans to unveil a new strategy that will shift its current reliance on American companies to Canadian military suppliers.
-* 加拿大计划推出一项新战略，将目前对美国公司的依赖转向加拿大的军事供应商。
-* Secretary of State Marco Rubio appealed to European leaders in Munich by stressing Christian and cultural bonds that are no longer universal.
-* 国务卿马可·卢比奥（ Marco Rubio ）在慕尼黑呼吁欧洲领导人强调不再具有普遍性的基督教和文化纽带。
-* President Trump called President Isaac Herzog of Israel “disgraceful” because he has not yet pardoned Prime Minister Benjamin Netanyahu in his corruption trial.
-* 特朗普总统称以色列总统艾萨克·赫尔佐格（ Isaac Herzog ） “可耻” ，因为他在腐败审判中尚未赦免总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）。
 
 ## New York Times United States News
-* The Olympic journey of Laila Edwards, the first Black woman to play for the U.S. hockey team, has captivated her hometown, Cleveland Heights.
-* 第一位为美国曲棍球队效力的黑人女性莱拉·爱德华兹（ Laila Edwards ）的奥运之旅让她的家乡克利夫兰高地（ Cleveland Heights ）着迷。
-* Professors and presidents are often eager to raise outside cash. Some are now facing blowback after connecting with Jeffrey Epstein.
-* 教授和校长通常渴望筹集外部资金。有些人现在在与杰弗里·爱泼斯坦（ Jeffrey Epstein ）联系后面临反弹。
-* Prosecutors say Colin Gray is criminally culpable after his teenage son killed two students and two teachers with a rifle that had been a Christmas gift.
-* 检察官说，科林·格雷（ Colin Gray ）十几岁的儿子用一把曾经是圣诞礼物的步枪杀死了两名学生和两名教师，此后，科林·格雷（ Colin Gray ）被判有罪。
-* The Supreme Court and appeals courts have been much more likely to rule in President Trump’s favor than the district courts have been. Why? Our reporter Mattathias Schwartz describes what’s going on.
-* 与地区法院相比，最高法院和上诉法院更有可能做出有利于特朗普总统的裁决。为什么？我们的记者Mattathias Schwartz描述了发生了什么。
-* The Mexican-born mayor of Coldwater was accused of voting illegally as a noncitizen. Many of his neighbors want state and federal officials to back off.
-* 墨西哥出生的Coldwater市长被指控以非公民身份非法投票。他的许多邻居都希望州和联邦官员退缩。
-* Funding for the Department of Homeland Security lapsed on Saturday amid a standoff over restrictions that Democrats have demanded for federal immigration agents. But much of its work continues.
-* 由于民主党人要求对联邦移民代理人施加限制，美国国土安全部的资金周六失效。但它的大部分工作仍在继续。
-* The health secretary said the Food and Drug Administration would “act on” a request from a former F.D.A. commissioner to close a loophole on food safety.
-* 卫生部长表示，美国食品和药物管理局将“根据”前FDA专员的请求采取行动，以弥补食品安全方面的漏洞。
-* The lack of helpful video footage in Nancy Guthrie’s community may be hindered by several factors, experts say.
-* 专家说，南希·格思里（ Nancy Guthrie ）所在社区缺乏有用的视频片段可能会受到几个因素的阻碍。
-* Richard Tillman, brother of the N.F.L. star turned Army Ranger who died in a case of friendly fire in Afghanistan, drove a vehicle into a California post office while it was closed.
-* 理查德·蒂尔曼（ Richard Tillman ）是N.F.L.明星的兄弟，后来在阿富汗友军交火中丧生的陆军突击队员，他在关闭时驾驶一辆汽车驶入加利福尼亚州的一家邮局。
-* Congress members said that President Trump’s coveting of Greenland had left a mark, even as they expressed hope for a less bellicose approach to foreign relations.
-* 国会议员表示，特朗普总统对格陵兰的觊觎留下了印记，尽管他们表示希望在对外关系上采取一种不那么好战的态度。
+* 
+* 
+* 
+* 
+* A new set of oral history interviews documents how Barack Obama and his advisers missed the shifting mood of the country that would ultimately replace him with a successor they considered a “con man,” “clown” and “laughingstock.”
+* 一组新的口述历史访谈记录了巴拉克·奥巴马（ Barack Obama ）及其顾问如何错过了这个国家不断变化的情绪，最终将用他们认为是“骗子”、“小丑”和“笑柄”的继任者取代他。
+* 
+* 
+* The civil rights leader was one of the country’s most influential Black figures.
+* 这位民权领袖是该国最具影响力的黑人人物之一。
+* The Masonic lodge that served as the home base for Dr. King’s activism will soon be open to visitors. It had long been considered endangered.
+* 作为金博士行动主义的基地的共济会小屋将很快向游客开放。长期以来，它一直被认为是濒危物种。
+* In a series of deals over the past three months, lawmakers rejected some of the president’s most aggressive attempts to whittle down the government.
+* 在过去三个月的一系列协议中，立法者拒绝了总统削弱政府的一些最激进的企图。
+* Veterans have taken part in demonstrations against the federal crackdown on illegal immigration in Minnesota. “I believe in the institutions,” one said.
+* 退伍军人参加了反对联邦镇压明尼苏达州非法移民的示威活动。“我相信这些机构，”其中一人说。
+* We want to hear from New Yorkers who rent driveways or have surprising parking garage arrangements.
+* 我们想听听那些租车道或有令人惊讶的停车场安排的纽约人的意见。
+* An impassioned orator, he was a moral and political force who formed a “rainbow coalition” of poor and working-class people. His mission, he said, was “to transform the mind of America.”
+* 作为一个充满激情的演说家，他是一股道德和政治力量，形成了一个由穷人和工人阶级组成的“彩虹联盟”。他说，他的使命是“改变美国人的思想”。
 
 ## New York Times Asia News
 * By reaching back to Maoist tactics of “rectification,” the Chinese leader is signaling that control over the gun requires a state of perpetual cleansing.
