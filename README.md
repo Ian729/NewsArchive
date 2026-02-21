@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Gisèle Pelicot stayed silent after dozens of men were convicted of raping her. Now, Ms. Pelicot is finding peace by publicizing her ordeal and explaining how she survived it.
+* Gisèle Pelicot在数十名男子因强奸她而被定罪后保持沉默。现在， Pelicot女士正在通过宣传她的磨难并解释她是如何幸存下来的来寻找和平。
+* The decision could distract from other challenges facing the continent, like issues with China and the war in Ukraine.
+* 这一决定可能会分散对非洲大陆面临的其他挑战的注意力，比如与中国的问题和乌克兰的战争。
+* Iran’s extensive military abilities and network of regional proxies could draw the United States into a prolonged conflict.
+* 伊朗广泛的军事能力和地区代理人网络可能会使美国陷入旷日持久的冲突。
+* Security officials say easy access by guerrilla groups to commercial drones, cheaply modified into deadly weapons, has put the nation’s army on its heels.
+* 安全官员说，游击队很容易获得商用无人机，这些无人机便宜地改装成致命武器，使国家军队紧随其后。
+* India is using technology as a tool of foreign policy, casting itself as a moral voice for smaller, developing countries.
+* 印度正在利用技术作为外交政策的工具，将自己塑造成较小的发展中国家的道德代言人。
+* A team of skilled technicians and drivers keep the frozen surface at the right temperature and thickness. The challenge? Each event needs a different kind of ice.
+* 熟练的技术人员和驾驶员团队将冻结表面保持在合适的温度和厚度。挑战？每个事件都需要不同类型的ICE。
+* Paolo Zampolli, a special envoy for President Trump, endorsed Russia’s participation at next month’s Paralympics, a move greeted with dismay in European capitals.
+* 特朗普总统的特使保罗·赞波利（ Paolo Zampolli ）支持俄罗斯参加下个月的残奥会，此举在欧洲各国首都受到沮丧的欢迎。
+* Muslims make up a majority in Sambhal, but after deadly clashes over a mosque, they say they the arms of the state are now stifling them.
+* 穆斯林在Sambhal占多数，但在一座清真寺发生致命冲突后，他们说国家的武器现在正在扼杀他们。
 * Hundreds of Ukrainian women and girls have reported sexual violence by Russian troops during the four-year war in Ukraine.
 * 在乌克兰四年战争期间，数百名乌克兰妇女和女孩报告了俄罗斯军队的性暴力行为。
-* Acclaimed overseas for defying censors, Lou Ye is more interested in reaching Chinese audiences, as he holds up a cinematic mirror to their lives in modern China.
-* 娄野因无视审查而在海外备受赞誉，他更感兴趣的是接触中国观众，因为他举起了一面电影镜子，反映他们在现代中国的生活。
-* President Lee Jae Myung gained legitimacy from his predecessor’s conviction​. But South Korea’s political polarization is caustic, and could get worse.
-* Lee Jae Myung总统从其前任的信念中获得了合法性。但韩国的政治两极分化是刻薄的，可能会变得更糟。
-* A provincial governor wants to prohibit women in government and public sector jobs from wearing makeup, stirring outrage and many, many memes.
-* 一位省长希望禁止在政府和公共部门工作的女性化妆，激起愤怒和许多很多模因。
 * An analysis of ship movements shows that the Trump administration is isolating the island at one of its most vulnerable moments.
 * 对船只移动的分析表明，特朗普政府正在最脆弱的时刻之一孤立该岛。
-* Cortina d’Ampezzo, a small Alpine town in northern Italy, is hosting much of the Winter Games. It’s also a home away from home for rich partygoers.
-* 科尔蒂纳丹佩佐（ Cortina d 'Ampezzo ）是意大利北部的一个阿尔卑斯山小镇，主要举办冬季奥运会。这里也是富裕派对爱好者的家外之家。
-* A champion speedskater spoke to reporters with her toddler. The focus on her child was among several instances at the Olympics that highlighted the complexities working mothers face in Italy.
-* 一位冠军速滑运动员与她的蹒跚学步的孩子对记者说话。关注她的孩子是奥运会的几个例子之一，这些例子突出了意大利职业母亲面临的复杂性。
-* Andrew Mountbatten-Windsor, a longtime associate of Jeffrey Epstein, is being investigated on suspicion of misconduct in public office.
-* 杰弗里·爱泼斯坦（ Jeffrey Epstein ）的长期合伙人安德鲁·蒙巴顿-温莎（ Andrew Mountbatten-Windsor ）因涉嫌公职不端行为而受到调查。
-* The bill may bring the release of hundreds of political prisoners. But many critics say the legislation, passed after major pressure from the Trump administration, raises concerns.
-* 该法案可能会释放数百名政治犯。但许多批评人士表示，在特朗普政府施加重大压力后通过的立法引发了担忧。
-* Israeli strikes on Gaza have killed about 600 people since a cease-fire began, according to health officials in the territory. Many displaced Palestinians are still living in tents. And there are some 60 million tons of war debris to be cleared.
-* 据以色列卫生官员称，自停火开始以来，以色列对加沙的袭击已造成约600人死亡。许多流离失所的巴勒斯坦人仍然住在帐篷里。还有大约6000万吨的战争废墟需要清理。
 
 ## New York Times United States News
-* Few laws govern backcountry skiing in California. Experts say that people engage in the sport at their own risk, but guides have responsibilities to keep clients safe.
-* 加利福尼亚州很少有适用于野外滑雪的法律。专家表示，人们参与这项运动的风险由他们自己承担，但导游有责任保护客户的安全。
-* George Mitchell, a former Senate majority leader credited with bringing peace to Northern Ireland, is under renewed scrutiny over his association with Jeffrey Epstein.
-* 前参议院多数党领袖乔治·米切尔（ George Mitchell ）被认为为北爱尔兰带来了和平，他与杰弗里·爱泼斯坦（ Jeffrey Epstein ）的关系受到了新的审查。
-* Freedom House Ambulance Service in Pittsburgh, a pioneer in emergency care, was largely forgotten. Now, members of Congress want to honor it.
-* 匹兹堡的自由之家救护车服务是急救护理的先驱，在很大程度上被遗忘了。现在，国会议员想向它致敬。
-* Like many Democratic primaries, the fight for the right to challenge a Republican House member in the Rio Grande Valley comes down to a choice, shift left or choose the party’s favorite for November.
-* 与许多民主党初选一样，争取在里奥格兰德谷（ Rio Grande Valley ）挑战共和党众议院议员的权利归结为选择左转或选择该党最喜欢的11月。
-* President Trump had lashed out at former President Barack Obama earlier Thursday for telling a podcaster that aliens were real.
-* 特朗普总统周四早些时候猛烈抨击前总统巴拉克•奥巴马（ Barack Obama ） ，因为他告诉播客，外星人是真实的。
-* Other federal buildings across Washington, D.C., are also adorned with huge banners of President Trump.
-* 华盛顿特区的其他联邦大楼也装饰着特朗普总统的巨大横幅。
-* President Trump’s advisers want him to lock down a message on the economy that will resonate ahead of the midterms. But Mr. Trump is never one to stay on message.
-* 特朗普总统的顾问希望他锁定一个将在中期之前引起共鸣的经济信息。但特朗普先生从来都不是一个传达信息的人。
-* When the Trump administration proposed the rule in 2019, housing officials estimated it would also displace thousands of U.S. citizens and legal residents.
-* 当特朗普政府在2019年提出这项规定时，住房官员估计它也将取代数千名美国公民和合法居民。
-* The move comes after a trove of documents released by the Justice Department showed Leon Botstein had a relationship that was closer than previously known with the convicted sex offender.
-* 此前，司法部发布的一系列文件显示， Leon Botstein与被定罪的性犯罪者的关系比以前更密切。
-* President Trump’s executive order aimed at spurring production of a pesticide has infuriated leaders of Health Secretary Robert F. Kennedy Jr.’s MAHA movement.
-* 特朗普总统旨在刺激农药生产的行政命令激怒了卫生部长小罗伯特· F ·肯尼迪（ Robert F. Kennedy Jr. ）领导的MAHA运动的领导人。
+* In his concurrence to the ruling invalidating President Trump’s tariffs, Justice Neil M. Gorsuch made a forceful case for the sanctity of the legislative process — and an implicit critique of its current dysfunction.
+* 大法官尼尔· M ·戈萨奇（ Neil M. Gorsuch ）赞同宣布特朗普总统的关税无效的裁决，为立法程序的神圣性提出了强有力的理由，并对其目前的功能失调提出了含蓄的批评。
+* A fraud scandal had Democrats on the defensive and led Gov. Tim Walz to end his re-election bid. But the ICE surge upended the political landscape.
+* 一场欺诈丑闻让民主党人处于守势，并导致州长蒂姆·瓦尔兹（ Tim Walz ）结束了他的连任竞选。但ICE的激增颠覆了政治格局。
+* New details about the LA28 chairman’s ties to Jeffrey Epstein, as well as anxiety over key infrastructure projects, have thrown the planning into disarray.
+* 有关LA28主席与杰弗里·爱泼斯坦（ Jeffrey Epstein ）关系的新细节，以及对关键基础设施项目的焦虑，使计划陷入混乱。
+* Some reluctant Republicans say an old-school filibuster showdown with Democrats could paralyze the Senate with no guarantee of success. But President Trump and their own colleagues are spoiling for the fight.
+* 一些不情愿的共和党人表示，与民主党人的老派阻挠摊牌可能会使参议院瘫痪，无法保证成功。但特朗普总统和他们自己的同事们正在为这场斗争而战。
+* A.I. companies, along with allied groups and executives, spent at least $83 million on federal elections last year, and huge amounts are set to arrive this year.
+* 去年，人工智能公司以及联盟团体和高管在联邦选举中花费了至少8300万美元，今年将有巨额资金到位。
+* The PAC and the White House say the donation had nothing to do with President Trump’s tirade against a new bridge connecting Detroit and Windsor, Ontario.
+* PAC和白宫表示，这笔捐款与特朗普总统反对连接底特律和安大略省温莎的新桥无关。
+* Legal specialists on the use of lethal force have said the strikes are illegal, extrajudicial killings.
+* 使用致命武力的法律专家表示，罢工是非法的法外处决。
+* The president is plowing ahead with an unpopular policy after the Supreme Court’s rebuke, deepening his party’s risk in the midterm elections.
+* 在最高法院的谴责之后，总统正在推进一项不受欢迎的政策，这加剧了他的政党在中期选举中的风险。
+* The court displayed its independence in what was a stinging rebuke to President Trump, though the ruling is unlikely to have an immediate effect on prices.
+* 法院在对特朗普总统的严厉指责中表现出了独立性，尽管该裁决不太可能对价格产生直接影响。
+* A Texas law passed last year was the first in the nation to explicitly ban clubs based on gender identity in K-12 schools. The judge blocked its enforcement in three school districts.
+* 去年通过的德克萨斯州法律是全国第一个明确禁止K-12学校中基于性别认同的俱乐部。法官阻止了在三个学区的执法。
 
 ## New York Times Asia News
+* India’s prime minister acceded to many of President Trump’s demands under pressure of heavy tariffs. It would be awkward to reject them now.
+* 印度总理在高额关税的压力下接受了特朗普总统的许多要求。现在拒绝他们会很尴尬。
+* The exemption was shut down last year by President Trump based, in part, on the same legal grounds as the tariffs that were invalidated by the Supreme Court.
+* 这项豁免去年被特朗普总统关闭，部分原因与最高法院宣布无效的关税具有相同的法律依据。
+* India is using technology as a tool of foreign policy, casting itself as a moral voice for smaller, developing countries.
+* 印度正在利用技术作为外交政策的工具，将自己塑造成较小的发展中国家的道德代言人。
+* Muslims make up a majority in Sambhal, but after deadly clashes over a mosque, they say they the arms of the state are now stifling them.
+* 穆斯林在Sambhal占多数，但在一座清真寺发生致命冲突后，他们说国家的武器现在正在扼杀他们。
 * From earthquake warnings to bear attack alerts, Beijing is deploying a campaign of exaggeration and disinformation to punish Tokyo’s support for Taiwan.
 * 从地震警报到承担攻击警报，北京正在部署一场夸张和虚假信息的运动，以惩罚东京对台湾的支持。
 * A writer grapples with the death of her sister, and the end of a marriage, during a challenging trek in Tibet.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 娄野因无视审查而在海外备受赞誉，他更感兴趣的是接触中国观众，因为他举起了一面电影镜子，反映他们在现代中国的生活。
 * It all comes down to a love of wordplay.
 * 这一切都归结于对文字游戏的热爱。
-* Legions of fans from around the world have been cheering on Punch, a 7-month-old macaque who had been struggling to socialize at a zoo outside Tokyo.
-* 来自世界各地的粉丝们一直在为Punch欢呼， Punch是一只7个月大的猕猴，一直在东京郊外的动物园里努力社交。
-* As a judge reprimanded former President Yoon Suk Yeol for amplifying political tribalism, demonstrators from warring camps blared slogans outside the courtroom.
-* 一名法官谴责前总统Yoon Suk Yeol放大政治部落主义，来自交战营地的示威者在法庭外高喊口号。
-* 
-* 
-* 
-* 
 
