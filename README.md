@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Ayatollah Ali Khamenei has entrusted Ali Larijani, the top national security official, to ensure the Islamic Republic endures any military attacks and targeted killings.
+* 阿亚图拉·阿里·哈梅内伊（ Ayatollah Ali Khamenei ）已委托最高国家安全官员阿里·拉里贾尼（ Ali Larijani ）确保伊斯兰共和国遭受任何军事袭击和有针对性的杀戮。
+* The Kremlin’s sabotage campaign against European allies of Ukraine has been escalating. It needs people like Aleksei Kolosovsky, 42, to carry it out.
+* 克里姆林宫对乌克兰的欧洲盟友的破坏活动一直在升级。它需要像42岁的阿列克谢·科洛索夫斯基（ Aleksei Kolosovsky ）这样的人来执行。
+* President Trump said his planned meeting with President Xi Jinping would be a grand display, but tensions over trade and defense could dampen the mood.
+* 特朗普总统表示，他计划与习近平主席的会晤将是一次盛大的展示，但贸易和国防方面的紧张局势可能会抑制气氛。
+* In a country where a quarter of the population lacks a family doctor, Canadian communities compete in a zero-sum battle to recruit family doctors.
+* 在一个四分之一的人口缺乏家庭医生的国家，加拿大社区在零和竞争中竞争招募家庭医生。
+* Norway, led by the cross-country skiing sensation Johannes Hoesflot Klaebo, topped the medal table for the fourth straight Winter Games.
+* 挪威由越野滑雪明星Johannes Hoesflot Klaebo领衔，连续第四届冬季运动会夺得奖牌榜冠军。
+* Team Mirai, a political party founded by software engineers, won 11 seats in Japan’s legislature by promising chatbots, self-driving buses and high-tech jobs.
+* 由软件工程师创立的政党Team Mirai通过有前途的聊天机器人、自动驾驶巴士和高科技工作，在日本立法机构中赢得了11个席位。
+* Andrew Mountbatten-Windsor, the former prince, is getting no help from the throne as the crisis over his ties to Jeffrey Epstein intensifies.
+* 随着与杰弗里·爱泼斯坦（ Jeffrey Epstein ）关系的危机加剧，前王子安德鲁·蒙巴顿-温莎（ Andrew Mountbatten-Windsor ）没有得到王位的帮助。
+* Students helped grow initial protests into a national movement crushed by the government. As the new semester began, they chanted and marched again.
+* 学生们帮助将最初的抗议活动发展成为被政府粉碎的全国运动。新学期开始的时候，他们又开始吟唱和游行。
 * Gisèle Pelicot stayed silent after dozens of men were convicted of raping her. Now, Ms. Pelicot is finding peace by publicizing her ordeal and explaining how she survived it.
 * Gisèle Pelicot在数十名男子因强奸她而被定罪后保持沉默。现在， Pelicot女士正在通过宣传她的磨难并解释她是如何幸存下来的来寻找和平。
 * The decision could distract from other challenges facing the continent, like issues with China and the war in Ukraine.
 * 这一决定可能会分散对非洲大陆面临的其他挑战的注意力，比如与中国的问题和乌克兰的战争。
-* Iran’s extensive military abilities and network of regional proxies could draw the United States into a prolonged conflict.
-* 伊朗广泛的军事能力和地区代理人网络可能会使美国陷入旷日持久的冲突。
-* Security officials say easy access by guerrilla groups to commercial drones, cheaply modified into deadly weapons, has put the nation’s army on its heels.
-* 安全官员说，游击队很容易获得商用无人机，这些无人机便宜地改装成致命武器，使国家军队紧随其后。
-* India is using technology as a tool of foreign policy, casting itself as a moral voice for smaller, developing countries.
-* 印度正在利用技术作为外交政策的工具，将自己塑造成较小的发展中国家的道德代言人。
-* A team of skilled technicians and drivers keep the frozen surface at the right temperature and thickness. The challenge? Each event needs a different kind of ice.
-* 熟练的技术人员和驾驶员团队将冻结表面保持在合适的温度和厚度。挑战？每个事件都需要不同类型的ICE。
-* Paolo Zampolli, a special envoy for President Trump, endorsed Russia’s participation at next month’s Paralympics, a move greeted with dismay in European capitals.
-* 特朗普总统的特使保罗·赞波利（ Paolo Zampolli ）支持俄罗斯参加下个月的残奥会，此举在欧洲各国首都受到沮丧的欢迎。
-* Muslims make up a majority in Sambhal, but after deadly clashes over a mosque, they say they the arms of the state are now stifling them.
-* 穆斯林在Sambhal占多数，但在一座清真寺发生致命冲突后，他们说国家的武器现在正在扼杀他们。
-* Hundreds of Ukrainian women and girls have reported sexual violence by Russian troops during the four-year war in Ukraine.
-* 在乌克兰四年战争期间，数百名乌克兰妇女和女孩报告了俄罗斯军队的性暴力行为。
-* An analysis of ship movements shows that the Trump administration is isolating the island at one of its most vulnerable moments.
-* 对船只移动的分析表明，特朗普政府正在最脆弱的时刻之一孤立该岛。
 
 ## New York Times United States News
-* In his concurrence to the ruling invalidating President Trump’s tariffs, Justice Neil M. Gorsuch made a forceful case for the sanctity of the legislative process — and an implicit critique of its current dysfunction.
-* 大法官尼尔· M ·戈萨奇（ Neil M. Gorsuch ）赞同宣布特朗普总统的关税无效的裁决，为立法程序的神圣性提出了强有力的理由，并对其目前的功能失调提出了含蓄的批评。
-* A fraud scandal had Democrats on the defensive and led Gov. Tim Walz to end his re-election bid. But the ICE surge upended the political landscape.
-* 一场欺诈丑闻让民主党人处于守势，并导致州长蒂姆·瓦尔兹（ Tim Walz ）结束了他的连任竞选。但ICE的激增颠覆了政治格局。
-* New details about the LA28 chairman’s ties to Jeffrey Epstein, as well as anxiety over key infrastructure projects, have thrown the planning into disarray.
-* 有关LA28主席与杰弗里·爱泼斯坦（ Jeffrey Epstein ）关系的新细节，以及对关键基础设施项目的焦虑，使计划陷入混乱。
-* Some reluctant Republicans say an old-school filibuster showdown with Democrats could paralyze the Senate with no guarantee of success. But President Trump and their own colleagues are spoiling for the fight.
-* 一些不情愿的共和党人表示，与民主党人的老派阻挠摊牌可能会使参议院瘫痪，无法保证成功。但特朗普总统和他们自己的同事们正在为这场斗争而战。
-* A.I. companies, along with allied groups and executives, spent at least $83 million on federal elections last year, and huge amounts are set to arrive this year.
-* 去年，人工智能公司以及联盟团体和高管在联邦选举中花费了至少8300万美元，今年将有巨额资金到位。
-* The PAC and the White House say the donation had nothing to do with President Trump’s tirade against a new bridge connecting Detroit and Windsor, Ontario.
-* PAC和白宫表示，这笔捐款与特朗普总统反对连接底特律和安大略省温莎的新桥无关。
-* Legal specialists on the use of lethal force have said the strikes are illegal, extrajudicial killings.
-* 使用致命武力的法律专家表示，罢工是非法的法外处决。
-* The president is plowing ahead with an unpopular policy after the Supreme Court’s rebuke, deepening his party’s risk in the midterm elections.
-* 在最高法院的谴责之后，总统正在推进一项不受欢迎的政策，这加剧了他的政党在中期选举中的风险。
-* The court displayed its independence in what was a stinging rebuke to President Trump, though the ruling is unlikely to have an immediate effect on prices.
-* 法院在对特朗普总统的严厉指责中表现出了独立性，尽管该裁决不太可能对价格产生直接影响。
-* A Texas law passed last year was the first in the nation to explicitly ban clubs based on gender identity in K-12 schools. The judge blocked its enforcement in three school districts.
-* 去年通过的德克萨斯州法律是全国第一个明确禁止K-12学校中基于性别认同的俱乐部。法官阻止了在三个学区的执法。
+* Three more skiers have died in the Lake Tahoe area since the deadliest avalanche in California history on Tuesday killed nine.
+* 自周二加州历史上最致命的雪崩造成9人死亡以来，太浩湖地区又有3名滑雪者死亡。
+* Divisions over what and who should come next were evident as G.O.P. critics of the president, weakened in their party, gathered at a summit near Washington.
+* 随着共和党对总统的批评者在华盛顿附近的一次峰会上聚集在一起，他们在党内削弱了对下一步该做什么以及谁该做什么的分歧是显而易见的。
+* Scores of Californians have moved to Tennessee for its friendlier business environment and conservative politics. On Saturday, the Democratic governor accused of driving them away paid a visit.
+* 数十名加利福尼亚人因其更友好的商业环境和保守的政治而搬到了田纳西州。周六，被指控将他们赶走的民主党州长进行了访问。
+* The Cybersecurity and Infrastructure Security Agency has navigated staffing cuts without a Senate-confirmed leader. Employees have become demoralized and concerned about the agency’s ability to ward off threats.
+* 网络安全和基础设施安全局在没有参议院确认的领导人的情况下进行了裁员。员工士气低落，担心该机构抵御威胁的能力。
+* Faith leaders said many people were still afraid to leave their homes, even after the weekslong federal immigration crackdown ended.
+* 宗教领袖表示，即使在长达数周的联邦移民镇压结束后，许多人仍然害怕离开家园。
+* The president yanked his endorsement of Representative Jeff Hurd of Colorado, imperiling Republicans’ chances of holding onto his seat as they brace for midterm losses.
+* 总统拉开了对科罗拉多州众议员杰夫·赫德（ Jeff Hurd ）的支持，危及共和党人在为中期失利做准备时保住席位的机会。
+* The men were skiing on Saturday in a backcountry area of the Big Cottonwood Canyon near Salt Lake City, said officials, who urged caution in unstable snow conditions.
+* 官员们表示，这些男子周六在盐湖城附近的Big Cottonwood Canyon的偏远地区滑雪，他们敦促在不稳定的雪况下谨慎行事。
+* A ninth victim who had been missing was found and recovered, officials said Saturday, from an avalanche that was the deadliest in modern California history.
+* 官员周六表示，第九名失踪的受害者被发现并从加利福尼亚州现代历史上最致命的雪崩中恢复过来。
+* The woman, Rebecca Auborn, pleaded guilty to murder in December. The men, whom she had met for sex in exchange for money, overdosed on fentanyl, the authorities said.
+* 这名女子丽贝卡·奥本（ Rebecca Auborn ）于去年12月承认谋杀罪。当局说，这些男人是她为了换取金钱而遇到的，他们过量服用芬太尼。
+* In rejecting President Trump’s tariffs, the court’s six conservative justices displayed subtle differences in their views of executive power.
+* 在拒绝特朗普总统的关税时，法院的六名保守派大法官在行政权力方面表现出了微妙的分歧。
 
 ## New York Times Asia News
+* Countries that under the threat of tariffs made commitments like enormous investment pledges face the reality that they may have been better off waiting.
+* 面临关税威胁的国家做出了像巨额投资承诺这样的承诺，面临着等待可能更好的现实。
+* President Trump said his planned meeting with President Xi Jinping would be a grand display, but tensions over trade and defense could dampen the mood.
+* 特朗普总统表示，他计划与习近平主席的会晤将是一次盛大的展示，但贸易和国防方面的紧张局势可能会抑制气氛。
+* Team Mirai, a political party founded by software engineers, won 11 seats in Japan’s legislature by promising chatbots, self-driving buses and high-tech jobs.
+* 由软件工程师创立的政党Team Mirai通过有前途的聊天机器人、自动驾驶巴士和高科技工作，在日本立法机构中赢得了11个席位。
 * India’s prime minister acceded to many of President Trump’s demands under pressure of heavy tariffs. It would be awkward to reject them now.
 * 印度总理在高额关税的压力下接受了特朗普总统的许多要求。现在拒绝他们会很尴尬。
 * The exemption was shut down last year by President Trump based, in part, on the same legal grounds as the tariffs that were invalidated by the Supreme Court.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 一位作家在西藏艰难的跋涉中，努力应对姐姐的死亡和婚姻的终结。
 * President Lee Jae Myung gained legitimacy from his predecessor’s conviction​. But South Korea’s political polarization is caustic, and could get worse.
 * Lee Jae Myung总统从其前任的信念中获得了合法性。但韩国的政治两极分化是刻薄的，可能会变得更糟。
-* The countries made official an agreement reached last year, with Indonesia avoiding a higher tariff and committing to cooperate on export controls.
-* 这些国家正式达成了去年达成的协议，印度尼西亚避免了更高的关税，并承诺在出口管制方面进行合作。
-* Acclaimed overseas for defying censors, Lou Ye is more interested in reaching Chinese audiences, as he holds up a cinematic mirror to their lives in modern China.
-* 娄野因无视审查而在海外备受赞誉，他更感兴趣的是接触中国观众，因为他举起了一面电影镜子，反映他们在现代中国的生活。
-* It all comes down to a love of wordplay.
-* 这一切都归结于对文字游戏的热爱。
 
