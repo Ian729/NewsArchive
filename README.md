@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Four years into the war, a major sticking point in talks is control of the eastern Donetsk region. Residents could face an agonizing choice if Ukraine gives up the territory.
-* 战争爆发四年后，谈判的一个主要症结是控制顿涅茨克东部地区。如果乌克兰放弃领土，居民可能会面临痛苦的选择。
-* The U.S. and its allies have spilled blood and treasure to kill drug lords and defeat cartels, but the drugs keep coming and the new groups are more violent than ever.
-* 美国及其盟友为了杀死毒枭和击败卡特尔而洒下了鲜血和财富，但毒品不断涌现，新团体比以往任何时候都更加暴力。
-* Top security officials revealed details of the operation that led to the death of Mexico’s most wanted drug cartel leader.
-* 高级安全官员透露了导致墨西哥头号通缉毒品卡特尔领导人死亡的行动的细节。
-* About half of the country’s federal budget goes toward the fight in Ukraine, money that does little to support its long-term development.
-* 该国大约一半的联邦预算用于乌克兰的斗争，这笔钱对支持其长期发展几乎没有作用。
-* West Yorkshire, where the original “Wuthering Heights” was written, offers a window into the forces that are disrupting British politics.
-* 最初的“呼啸山庄”写在西约克郡，它提供了一个窗口，可以了解扰乱英国政治的力量。
-* Peter Mandelson was arrested on Monday on suspicion of “misconduct in public office” following revelations about his dealings with Jeffrey Epstein, the sex offender.
-* 彼得·曼德尔森（ Peter Mandelson ）因涉嫌与性犯罪者杰弗里·爱泼斯坦（ Jeffrey Epstein ）打交道而于周一被捕，涉嫌“公职不端行为”。
-* The government in Tehran sees capitulating to Washington’s demands on uranium enrichment and ballistic missiles as riskier to its survival than going to war, analysts say.
-* 分析人士说，德黑兰政府认为，屈服于华盛顿对铀浓缩和弹道导弹的要求，对其生存来说比开战风险更大。
-* For two years, settlers attacked Rezeq Abu Naim’s land in the Israeli-occupied West Bank at all hours and in all manners. After another violent incursion over the weekend, his family abandoned their home.
-* 两年来，定居者一直以各种方式攻击Rezeq Abu Naim在以色列占领的约旦河西岸的土地。在周末再次发生暴力入侵后，他的家人离开了他们的家。
-* Hungary said that it would block both the latest sanctions package on Russia and a financial aid package to Kyiv worth about $106 billion.
-* 匈牙利表示，它将阻止对俄罗斯的最新一揽子制裁措施和对基辅的财政援助计划，价值约1060亿美元。
-* Vladyslav Vlasiuk has spent the past four years pressing Western allies to squeeze the Russian economy through more sanctions. He hopes that 2026 will be the tipping point.
-* 弗拉迪斯拉夫·弗拉西乌克（ Vladyslav Vlasiuk ）在过去四年中一直敦促西方盟友通过更多制裁来挤压俄罗斯经济。他希望2026年将是转折点。
+* The Venezuelan leader overestimated his strength and misread his exchange with President Trump in the decisive weeks before his capture by U.S. forces.
+* 这位委内瑞拉领导人高估了他的实力，并误解了他与特朗普总统在被美军俘虏之前的决定性几周的交流。
+* Ukraine must project strength to secure continued Western support. But its people want the world to know they are not superhuman.
+* 乌克兰必须投射力量，以确保西方持续的支持。但它的人民希望世界知道他们不是超人。
+* “Her children have let her down,” said one woman, referring to Queen Elizabeth II. Andrew Mountbatten-Windsor’s fall from grace drew strong reactions from some. Others said they just did not care.
+* “她的孩子们让她失望了，”一位女士说，指的是伊丽莎白女王二世。安德鲁·蒙巴顿-温莎（ Andrew Mountbatten-Windsor ）从恩典中堕落，引起了一些人的强烈反其他人说他们只是不在乎。
+* A triumph in indoor soccer has turned Alireza Ahmadi, 17, and other players from the Hazara minority, long marginalized in Afghanistan, into national heroes.
+* 室内足球的胜利使17岁的阿里雷扎·艾哈迈迪（ Alireza Ahmadi ）和其他长期在阿富汗被边缘化的哈扎拉少数民族球员成为民族英雄。
+* Chancellor Friedrich Merz’s trip will test his ability to address tensions between the countries, at a time of strain between Europe and Washington.
+* 在欧洲和华盛顿之间的紧张局势下，总理弗里德里希·默茨（ Friedrich Merz ）的访问将考验他解决两国之间紧张局势的能力。
+* Negotiators agree that joining the bloc is critical to Kyiv’s future. But obstacles abound, and compromises might forever change how the union works.
+* 谈判代表一致认为，加入欧盟对基辅的未来至关重要。但障碍比比皆是，妥协可能会永远改变工会的运作方式。
+* President Trump has demanded President Claudia Sheinbaum confront the cartels. The killing of El Mencho suggests it might be working — but could come at a cost.
+* 特朗普总统要求总统克劳迪娅·谢恩鲍姆（ Claudia Sheinbaum ）对抗卡特尔杀死El Mencho表明它可能是有效的—但可能是有代价的。
+* Stores are well stocked, and there have been no reports of shortages of food and other essentials, but many Iranians are in limbo as they wait to see whether U.S. forces will attack.
+* 商店库存充足，没有关于食品和其他必需品短缺的报道，但许多伊朗人在等待美国军队是否会发动袭击时处于不确定状态。
+* Laurence des Cars’s departure is the latest setback for the world’s largest museum. Her tenure was marred by labor strikes, water leaks, a ticket scam and security lapses, which led to the heist in October.
+* Laurence des Cars的离开是世界上最大的博物馆的最新挫折。她的任期因劳工罢工、漏水、罚单骗局和安全失误而受到损害，这导致了10月份的抢劫。
+* Around 100 senior officers have been sidelined or vanished since 2022, hollowing out the top ranks and raising questions about the army’s capabilities.
+* 自2022年以来，约有100名高级军官被淘汰或失踪，掏空了高级军衔，引发了对军队能力的质疑。
 
 ## New York Times United States News
-* At the storm’s peak, well over half a million homes and businesses in the Northeast were without power.
-* 在风暴高峰期，东北部有超过50万户家庭和企业没有电力供应。
-* If tradition holds, members of the Supreme Court will attend Trump’s annual speech, just days after ruling against the legality of his tariffs.
-* 如果传统成立，最高法院的成员将在特朗普对关税的合法性做出裁决几天后参加特朗普的年度演讲。
-* Reeling from a major Supreme Court setback and falling approval ratings, the president seeks to reclaim the narrative ahead of the midterms.
-* 由于最高法院的重大挫折和支持率下降，总统试图在中期选举之前重新获得这种说法。
-* The government said the protesters were part of a heavily armed “cell” of left-wing activists, one of whom was accused of shooting an officer at an anti-ICE protest.
-* 政府表示，抗议者是全副武装的左翼活动人士“小组”的一部分，其中一人被指控在反ICE抗议活动中枪杀一名军官。
-* As the president prepares to speak to the nation, Northeastern Pennsylvania is showing discontent on the edges of the Trump coalition and an energized Democratic opposition.
-* 随着总统准备向全国发表讲话，宾夕法尼亚州东北部对特朗普联盟的边缘和充满活力的民主党反对派表现出不满。
-* President Trump will speak at 9 p.m. Eastern time to a joint session of Congress. The New York Times will carry the address live.
-* 特朗普总统将于东部时间晚上9点在国会联席会议上发表讲话。《纽约时报》将直播该地址。
-* Camp Mystic has been the foundation of an invisible network of status and power in Texas. Now that social web is beginning to fray.
-* 神秘营一直是德克萨斯州无形的地位和权力网络的基础。现在，社交网络开始磨损。
-* The Trump administration for months ignored Congress’s demand for a plan on how the Defense Department would spend the money that Republicans pushed through in their sweeping domestic policy bill.
-* 特朗普政府几个月来一直无视国会对国防部如何花费共和党人在其全面的国内政策法案中推动的资金的计划的要求。
-* The remarks differ from what Gen. Dan Caine, the chairman of the Joint Chiefs of Staff, is said to have told the president in high-level White House meetings.
-* 据称，这些言论与参谋长联席会议主席丹·凯恩（ Dan Caine ）在白宫高级别会议上告诉总统的言论不同。
-* The legislation, which the House is expected to vote on Tuesday, would require military and commercial aircraft to use certain tracking technology to avoid collisions.
-* 众议院预计将于周二投票通过的立法将要求军用和商用飞机使用某些跟踪技术来避免碰撞。
+* With the midterms approaching and polls showing unease about the economy, some of President Trump’s arguments about its strength sounded eerily like those of his predecessor.
+* 随着中期选举的临近，民意调查显示出对经济的不安，特朗普总统关于经济实力的一些论点听起来像他的前任一样令人毛骨悚然。
+* A fifth-grade teacher and his principal wife hid in their bedroom as dozens of people who believed he might be a kidnapper appeared on their suburban street.
+* 一名五年级老师和他的主要妻子躲在他们的卧室里，数十名认为他可能是绑架者的人出现在他们的郊区街道上。
+* On the defensive over the economy and with the midterms approaching, President Trump made clear that his political strategy is to paint Democrats as unpatriotic and ‘crazy.’
+* 出于对经济的防御，随着中期选举的临近，特朗普总统明确表示，他的政治策略是将民主党人描绘成不爱国和“疯狂”的人。
+* President Trump turned his State of the Union address into full-blown political theater, handing out medals to war veterans and tossing the spotlight to ice hockey players.
+* 特朗普总统将他的国情咨文演讲变成了成熟的政治剧场，向退伍军人发放奖牌，并将聚光灯投向冰球运动员。
+* Shortly after Secretary of State Marco Rubio was singled out for praise, a New York Times photographer captured him reading messages from Mr. Trump’s special envoy to Venezuela.
+* 在美国国务卿马可·卢比奥(Marco Rubio)被点名表扬后不久，《纽约时报》的一名摄影师拍下了他阅读特朗普委内瑞拉特使的信息。
+* In an address that was heavy on theatrics, President Trump lashed out at Democrats as “crazy” and unpatriotic.
+* 在一场戏剧性的演讲中，特朗普总统猛烈抨击民主党人“疯狂”和不爱国。
+* Even as the president considers an attack, his State of the Union address offered little more than a brief repetition of vague talking points from recent days.
+* 即使总统认为这是一起袭击事件，他的国情咨文演讲也只简短地重复了最近几天的模糊谈话要点。
+* “We all know the answer is no,” the Virginia governor argued in her rebuttal to President Trump’s State of the Union address.
+* “我们都知道答案是否定的，”弗吉尼亚州州长在反驳特朗普总统的国情咨文时说。
+* During the State of the Union address, the president said states “must ban” social transitions among young people without parental consent.
+* 在国情咨文演讲中，总统表示，各州“必须禁止”未经父母同意的年轻人进行社会转型。
+* President Trump spoke for nearly two hours to a joint session of Congress.
+* 特朗普总统在国会联席会议上发表了近两个小时的讲话。
 
 ## New York Times Asia News
+* A triumph in indoor soccer has turned Alireza Ahmadi, 17, and other players from the Hazara minority, long marginalized in Afghanistan, into national heroes.
+* 室内足球的胜利使17岁的阿里雷扎·艾哈迈迪（ Alireza Ahmadi ）和其他长期在阿富汗被边缘化的哈扎拉少数民族球员成为民族英雄。
+* Around 100 senior officers have been sidelined or vanished since 2022, hollowing out the top ranks and raising questions about the army’s capabilities.
+* 自2022年以来，约有100名高级军官被淘汰或失踪，掏空了高级军衔，引发了对军队能力的质疑。
 * Beijing placed the restrictions on 20 Japanese entities with ties to the defense industry, the latest ratcheting up of its monthslong feud with Tokyo.
 * 北京对与国防工业有联系的20家日本实体施加了限制，这是其与东京长达数月的仇恨的最新升级。
 * Faced with soaring ticket prices and bare slopes at many U.S. resorts, Americans are flocking to the island of Hokkaido, which gets up to 50 feet of snow a year.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 关西国际机场位于日本大阪附近，自1994年开业以来，从未丢失过一件行李。我们的东京记者River Akira Davis访问了机场，了解日本文化如何影响机场的成功。
 * The former leader of the Philippines faces a possible trial for the deaths of thousands during his war on drugs. Supporters and opponents gathered in the Netherlands as a key hearing started.
 * 这位菲律宾前领导人在毒品战争期间可能面临数千人死亡的审判。关键听证会开始时，支持者和反对者聚集在荷兰。
-* Countries that under the threat of tariffs made commitments like enormous investment pledges face the reality that they might have been better off waiting.
-* 面临关税威胁的国家做出了像巨额投资承诺这样的承诺，面临着等待可能更好的现实。
-* President Trump said his planned meeting with President Xi Jinping would be a grand display, but tensions over trade and defense could dampen the mood.
-* 特朗普总统表示，他计划与习近平主席的会晤将是一次盛大的展示，但贸易和国防方面的紧张局势可能会抑制气氛。
 
