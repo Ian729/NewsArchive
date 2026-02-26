@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Four people were killed and six others wounded after Cuban border troops engaged in a gunfight near the island’s coast, the Cuban Interior Ministry said.
+* 古巴内政部表示，古巴边防部队在该岛海岸附近发生枪战，造成4人死亡， 6人受伤。
+* Palestinians and Israelis on the right and left all say that the move is a step toward legitimizing the Israeli settlements, which most of the world considers illegal.
+* 右翼和左翼的巴勒斯坦人和以色列人都说，此举是朝着使以色列定居点合法化迈出的一步，世界上大多数人认为这是非法的。
 * The Venezuelan leader overestimated his strength and misread his exchange with President Trump in the decisive weeks before his capture by U.S. forces.
 * 这位委内瑞拉领导人高估了他的实力，并误解了他与特朗普总统在被美军俘虏之前的决定性几周的交流。
 * Ukraine must project strength to secure continued Western support. But its people want the world to know they are not superhuman.
 * 乌克兰必须投射力量，以确保西方持续的支持。但它的人民希望世界知道他们不是超人。
+* Ending more than four decades of conjecture, the Spanish government moved to publish documents from a long-secret investigation of a failed 1981 coup.
+* 西班牙政府结束了四十多年的猜测，开始公布1981年失败政变的长期秘密调查文件。
 * “Her children have let her down,” said one woman, referring to Queen Elizabeth II. Andrew Mountbatten-Windsor’s fall from grace drew strong reactions from some. Others said they just did not care.
 * “她的孩子们让她失望了，”一位女士说，指的是伊丽莎白女王二世。安德鲁·蒙巴顿-温莎（ Andrew Mountbatten-Windsor ）从恩典中堕落，引起了一些人的强烈反其他人说他们只是不在乎。
 * A triumph in indoor soccer has turned Alireza Ahmadi, 17, and other players from the Hazara minority, long marginalized in Afghanistan, into national heroes.
 * 室内足球的胜利使17岁的阿里雷扎·艾哈迈迪（ Alireza Ahmadi ）和其他长期在阿富汗被边缘化的哈扎拉少数民族球员成为民族英雄。
-* Chancellor Friedrich Merz’s trip will test his ability to address tensions between the countries, at a time of strain between Europe and Washington.
-* 在欧洲和华盛顿之间的紧张局势下，总理弗里德里希·默茨（ Friedrich Merz ）的访问将考验他解决两国之间紧张局势的能力。
-* Negotiators agree that joining the bloc is critical to Kyiv’s future. But obstacles abound, and compromises might forever change how the union works.
-* 谈判代表一致认为，加入欧盟对基辅的未来至关重要。但障碍比比皆是，妥协可能会永远改变工会的运作方式。
-* President Trump has demanded President Claudia Sheinbaum confront the cartels. The killing of El Mencho suggests it might be working — but could come at a cost.
-* 特朗普总统要求总统克劳迪娅·谢恩鲍姆（ Claudia Sheinbaum ）对抗卡特尔杀死El Mencho表明它可能是有效的—但可能是有代价的。
-* Stores are well stocked, and there have been no reports of shortages of food and other essentials, but many Iranians are in limbo as they wait to see whether U.S. forces will attack.
-* 商店库存充足，没有关于食品和其他必需品短缺的报道，但许多伊朗人在等待美国军队是否会发动袭击时处于不确定状态。
-* Laurence des Cars’s departure is the latest setback for the world’s largest museum. Her tenure was marred by labor strikes, water leaks, a ticket scam and security lapses, which led to the heist in October.
-* Laurence des Cars的离开是世界上最大的博物馆的最新挫折。她的任期因劳工罢工、漏水、罚单骗局和安全失误而受到损害，这导致了10月份的抢劫。
-* Around 100 senior officers have been sidelined or vanished since 2022, hollowing out the top ranks and raising questions about the army’s capabilities.
-* 自2022年以来，约有100名高级军官被淘汰或失踪，掏空了高级军衔，引发了对军队能力的质疑。
+* Despite his connections with the sex offender Jeffrey Epstein, the former prince is eighth in line to the British throne. That could change.
+* 尽管这位前王子与性犯罪者杰弗里·爱泼斯坦（ Jeffrey Epstein ）有联系，但他是英国王位的第八顺位继承人。这可能会改变。
+* Christophe Leribault, who runs the Palace of Versailles, will replace Laurence des Cars, who resigned months after an audacious jewel heist.
+* 经营凡尔赛宫的克里斯托夫·莱里博（ Christophe Leribault ）将接替劳伦斯·德·卡尔斯（ Laurence des Cars ） ，后者在大胆抢劫珠宝几个月后辞职。
+* Chancellor Friedrich Merz laid out his complaints in a frank message to his hosts on a trip to Beijing that China had designed to showcase their relationship.
+* 英国财政大臣弗里德里希·默茨（ Friedrich Merz ）在北京之行中向房东坦率地传达了他的抱怨，中国计划展示他们的关系。
 
 ## New York Times United States News
-* With the midterms approaching and polls showing unease about the economy, some of President Trump’s arguments about its strength sounded eerily like those of his predecessor.
-* 随着中期选举的临近，民意调查显示出对经济的不安，特朗普总统关于经济实力的一些论点听起来像他的前任一样令人毛骨悚然。
-* A fifth-grade teacher and his principal wife hid in their bedroom as dozens of people who believed he might be a kidnapper appeared on their suburban street.
-* 一名五年级老师和他的主要妻子躲在他们的卧室里，数十名认为他可能是绑架者的人出现在他们的郊区街道上。
-* On the defensive over the economy and with the midterms approaching, President Trump made clear that his political strategy is to paint Democrats as unpatriotic and ‘crazy.’
-* 出于对经济的防御，随着中期选举的临近，特朗普总统明确表示，他的政治策略是将民主党人描绘成不爱国和“疯狂”的人。
-* President Trump turned his State of the Union address into full-blown political theater, handing out medals to war veterans and tossing the spotlight to ice hockey players.
-* 特朗普总统将他的国情咨文演讲变成了成熟的政治剧场，向退伍军人发放奖牌，并将聚光灯投向冰球运动员。
-* Shortly after Secretary of State Marco Rubio was singled out for praise, a New York Times photographer captured him reading messages from Mr. Trump’s special envoy to Venezuela.
-* 在美国国务卿马可·卢比奥(Marco Rubio)被点名表扬后不久，《纽约时报》的一名摄影师拍下了他阅读特朗普委内瑞拉特使的信息。
-* In an address that was heavy on theatrics, President Trump lashed out at Democrats as “crazy” and unpatriotic.
-* 在一场戏剧性的演讲中，特朗普总统猛烈抨击民主党人“疯狂”和不爱国。
-* Even as the president considers an attack, his State of the Union address offered little more than a brief repetition of vague talking points from recent days.
-* 即使总统认为这是一起袭击事件，他的国情咨文演讲也只简短地重复了最近几天的模糊谈话要点。
-* “We all know the answer is no,” the Virginia governor argued in her rebuttal to President Trump’s State of the Union address.
-* “我们都知道答案是否定的，”弗吉尼亚州州长在反驳特朗普总统的国情咨文时说。
-* During the State of the Union address, the president said states “must ban” social transitions among young people without parental consent.
-* 在国情咨文演讲中，总统表示，各州“必须禁止”未经父母同意的年轻人进行社会转型。
-* President Trump spoke for nearly two hours to a joint session of Congress.
-* 特朗普总统在国会联席会议上发表了近两个小时的讲话。
+* Republicans have embraced vouchers, while Democrats have criticized them. But as thousands of preschool parents vie for the funds, the state program may help a progressive goal.
+* 共和党人接受了代金券，而民主党人批评了代金券。但随着成千上万的学龄前父母争夺资金，国家计划可能有助于实现一个进步的目标。
+* Gov. Sarah Huckabee Sanders wants to build a huge, pricey prison to hold the inmates incarcerated under her tough-on-crime agenda, and she hopes to oust fellow Republicans on Tuesday to do it.
+* 州长萨拉·赫卡比·桑德斯（ Sarah Huckabee Sanders ）希望建造一座巨大而昂贵的监狱，以关押因其严厉的打击犯罪议程而被监禁的囚犯，她希望在周二赶走共和党同僚。
+* Experts caution that low-quality, A.I.-generated videos on YouTube geared toward children often feature conflicting information, lack plot structure and can be cognitively overwhelming — all of which could affect young children’s development.
+* 专家警告说， YouTube上由人工智能生成的针对儿童的低质量视频往往具有相互矛盾的信息，缺乏情节结构，并且可能在认知上压倒一切，所有这些都可能影响幼儿的发展。
+* Four armed Cubans aboard a Florida-based speedboat died in a gunfight with Cuban border troops on Wednesday, officials said.
+* 官员说，周三，一艘位于佛罗里达州的快艇上的四名武装古巴人在与古巴边防部队的枪战中丧生。
+* Some officials in the Trump administration hope an attack would force Iran to give up its nuclear enrichment program. Others have doubts.
+* 特朗普政府的一些官员希望这次袭击将迫使伊朗放弃其核浓缩计划。其他人则表示怀疑。
+* Vice President JD Vance said that the Trump administration had been forced to “turn the screws on” Minnesota so the state would respond to allegations of fraud.
+* 副总统JD Vance表示，特朗普政府被迫“打开螺丝钉”明尼苏达州，因此该州将对欺诈指控做出回应。
+* The firings are part of a rolling barrage of retribution aimed at those who worked on the two federal prosecutions of President Trump.
+* 解雇是针对那些参与对特朗普总统的两次联邦起诉的人的连环报复的一部分。
+* The Milwaukee officer used the technology to run searches on his partner’s plate 124 times, officials said, and he also tracked the person’s ex.
+* 官员说，密尔沃基警官使用这项技术对其伴侣的盘子进行了124次搜索，他还跟踪了该人的前任。
+* Our photojournalist Kenny Holston was the only news photographer on the House floor during President Trump’s State of the Union speech. Here’s how he captured his images.
+* 我们的摄影记者肯尼·霍尔斯顿（ Kenny Holston ）是特朗普总统国情咨文演讲中唯一在众议院发言的新闻摄影师。以下是他拍摄照片的方式。
+* Aliya Rahman, a U.S. citizen who was dragged from her vehicle after an ICE agent shattered its window, was charged with unlawful conduct after standing up during President Trump’s speech.
+* 美国公民阿丽亚·拉赫曼（ Aliya Rahman ）在ICE特工打破车窗后被拖下车，在特朗普总统的讲话中站起来后被指控犯有非法行为。
 
 ## New York Times Asia News
+* An anonymous donation of $3.6 million worth of gold highlights frustration with Osaka’s aging waterworks. It will only finance repairs to a fraction of the pipes that need to be replaced.
+* 匿名捐赠价值360万$的黄金凸显了对大阪老化水厂的沮丧。它仅为需要更换的一小部分管道的维修提供资金。
+* China’s play for U.S. allies has a problem: As Germany’s leader showed, Europe’s grievances with Beijing may run deeper than its frustration with Trump.
+* 中国对美国盟友的态度存在问题：正如德国领导人所表明的那样，欧洲对北京的不满可能比对特朗普的沮丧更深。
+* ​ The North Korean leader said that his country can get along well with the United States as long as Washington accepts it as a nuclear weapons state.
+* ​ 这位朝鲜领导人表示，只要华盛顿接受美国作为核武器国家，他的国家就可以与美国相处得很好。
+* Pauline Hanson and her One Nation party have become more palatable for some Australians after the mass shooting at Bondi Beach.
+* 在邦迪海滩发生大规模枪击事件后， Pauline Hanson和她的一个国家党对一些澳大利亚人来说变得更加可口。
+* As China grapples with a shrinking population and historically low birthrate, people are finding romance with chatbots instead.
+* 随着中国努力应对人口萎缩和历史上的低出生率，人们正在寻找与聊天机器人的浪漫。
+* The brief life span of the Dubai chewy cookie reflects the country’s fast-moving food trends, where hype often matters more than taste.
+* 迪拜耐嚼饼干的短暂寿命反映了该国快速发展的食品趋势，炒作往往比口味更重要。
+* 
+* 
+* Chancellor Friedrich Merz laid out his complaints in a frank message to his hosts on a trip to Beijing that China had designed to showcase their relationship.
+* 英国财政大臣弗里德里希·默茨（ Friedrich Merz ）在北京之行中向房东坦率地传达了他的抱怨，中国计划展示他们的关系。
 * A triumph in indoor soccer has turned Alireza Ahmadi, 17, and other players from the Hazara minority, long marginalized in Afghanistan, into national heroes.
 * 室内足球的胜利使17岁的阿里雷扎·艾哈迈迪（ Alireza Ahmadi ）和其他长期在阿富汗被边缘化的哈扎拉少数民族球员成为民族英雄。
 * Around 100 senior officers have been sidelined or vanished since 2022, hollowing out the top ranks and raising questions about the army’s capabilities.
 * 自2022年以来，约有100名高级军官被淘汰或失踪，掏空了高级军衔，引发了对军队能力的质疑。
-* Beijing placed the restrictions on 20 Japanese entities with ties to the defense industry, the latest ratcheting up of its monthslong feud with Tokyo.
-* 北京对与国防工业有联系的20家日本实体施加了限制，这是其与东京长达数月的仇恨的最新升级。
-* Faced with soaring ticket prices and bare slopes at many U.S. resorts, Americans are flocking to the island of Hokkaido, which gets up to 50 feet of snow a year.
-* 面对飙升的门票价格和美国许多度假村的裸露斜坡，美国人纷纷涌向北海道岛，那里每年积雪高达50英尺。
-* If China invades Taiwan and cuts off its chip exports to American companies, the tech industry and the U.S. economy would be crippled.
-* 如果中国入侵台湾并切断对美国公司的芯片出口，科技产业和美国经济将陷入瘫痪。
-* Living in urban China may have given the insects the traits they needed to thrive in the United States, a new study suggests.
-* 一项新的研究表明，生活在中国城市的昆虫可能具有在美国茁壮成长所需的特征。
-* Many important U.S. trading partners are facing higher duties after President Trump, reacting to a Supreme Court setback, set the rate on a new set of global tariffs at 15 percent.
-* 在特朗普总统对最高法院的挫折做出反应后，许多重要的美国贸易伙伴面临更高的关税，将一套新的全球关税税率定为15%。
-* The World’s 50 Best Restaurants will give out its awards this year in a country that has been accused of human rights violations.
-* 今年，全球50家最佳餐厅将在一个被指控侵犯人权的国家颁奖。
-* Kansai International Airport, which is located near Osaka, Japan, hasn’t lost a single piece of luggage since it opened in 1994. River Akira Davis, our Tokyo correspondent, visited the airport to understand how Japanese culture has influenced its success.
-* 关西国际机场位于日本大阪附近，自1994年开业以来，从未丢失过一件行李。我们的东京记者River Akira Davis访问了机场，了解日本文化如何影响机场的成功。
-* The former leader of the Philippines faces a possible trial for the deaths of thousands during his war on drugs. Supporters and opponents gathered in the Netherlands as a key hearing started.
-* 这位菲律宾前领导人在毒品战争期间可能面临数千人死亡的审判。关键听证会开始时，支持者和反对者聚集在荷兰。
 
