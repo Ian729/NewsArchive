@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Four people were killed and six others wounded after Cuban border troops engaged in a gunfight near the island’s coast, the Cuban Interior Ministry said.
-* 古巴内政部表示，古巴边防部队在该岛海岸附近发生枪战，造成4人死亡， 6人受伤。
-* Palestinians and Israelis on the right and left all say that the move is a step toward legitimizing the Israeli settlements, which most of the world considers illegal.
-* 右翼和左翼的巴勒斯坦人和以色列人都说，此举是朝着使以色列定居点合法化迈出的一步，世界上大多数人认为这是非法的。
-* The Venezuelan leader overestimated his strength and misread his exchange with President Trump in the decisive weeks before his capture by U.S. forces.
-* 这位委内瑞拉领导人高估了他的实力，并误解了他与特朗普总统在被美军俘虏之前的决定性几周的交流。
-* Ukraine must project strength to secure continued Western support. But its people want the world to know they are not superhuman.
-* 乌克兰必须投射力量，以确保西方持续的支持。但它的人民希望世界知道他们不是超人。
-* Ending more than four decades of conjecture, the Spanish government moved to publish documents from a long-secret investigation of a failed 1981 coup.
-* 西班牙政府结束了四十多年的猜测，开始公布1981年失败政变的长期秘密调查文件。
-* “Her children have let her down,” said one woman, referring to Queen Elizabeth II. Andrew Mountbatten-Windsor’s fall from grace drew strong reactions from some. Others said they just did not care.
-* “她的孩子们让她失望了，”一位女士说，指的是伊丽莎白女王二世。安德鲁·蒙巴顿-温莎（ Andrew Mountbatten-Windsor ）从恩典中堕落，引起了一些人的强烈反其他人说他们只是不在乎。
-* A triumph in indoor soccer has turned Alireza Ahmadi, 17, and other players from the Hazara minority, long marginalized in Afghanistan, into national heroes.
-* 室内足球的胜利使17岁的阿里雷扎·艾哈迈迪（ Alireza Ahmadi ）和其他长期在阿富汗被边缘化的哈扎拉少数民族球员成为民族英雄。
-* Despite his connections with the sex offender Jeffrey Epstein, the former prince is eighth in line to the British throne. That could change.
-* 尽管这位前王子与性犯罪者杰弗里·爱泼斯坦（ Jeffrey Epstein ）有联系，但他是英国王位的第八顺位继承人。这可能会改变。
-* Christophe Leribault, who runs the Palace of Versailles, will replace Laurence des Cars, who resigned months after an audacious jewel heist.
-* 经营凡尔赛宫的克里斯托夫·莱里博（ Christophe Leribault ）将接替劳伦斯·德·卡尔斯（ Laurence des Cars ） ，后者在大胆抢劫珠宝几个月后辞职。
-* Chancellor Friedrich Merz laid out his complaints in a frank message to his hosts on a trip to Beijing that China had designed to showcase their relationship.
-* 英国财政大臣弗里德里希·默茨（ Friedrich Merz ）在北京之行中向房东坦率地传达了他的抱怨，中国计划展示他们的关系。
-
-## New York Times United States News
-* Republicans have embraced vouchers, while Democrats have criticized them. But as thousands of preschool parents vie for the funds, the state program may help a progressive goal.
-* 共和党人接受了代金券，而民主党人批评了代金券。但随着成千上万的学龄前父母争夺资金，国家计划可能有助于实现一个进步的目标。
-* Gov. Sarah Huckabee Sanders wants to build a huge, pricey prison to hold the inmates incarcerated under her tough-on-crime agenda, and she hopes to oust fellow Republicans on Tuesday to do it.
-* 州长萨拉·赫卡比·桑德斯（ Sarah Huckabee Sanders ）希望建造一座巨大而昂贵的监狱，以关押因其严厉的打击犯罪议程而被监禁的囚犯，她希望在周二赶走共和党同僚。
-* Experts caution that low-quality, A.I.-generated videos on YouTube geared toward children often feature conflicting information, lack plot structure and can be cognitively overwhelming — all of which could affect young children’s development.
-* 专家警告说， YouTube上由人工智能生成的针对儿童的低质量视频往往具有相互矛盾的信息，缺乏情节结构，并且可能在认知上压倒一切，所有这些都可能影响幼儿的发展。
+* President Trump has kept up a steady drumbeat of threats and built up U.S. troops in the region. Iran’s task is to give him a win but also preserve some semblance of nuclear enrichment.
+* 特朗普总统一直保持稳定的威胁，并在该地区建立了美军。伊朗的任务是赢得他的胜利，但也要保留一些核浓缩的假象。
+* New restaurants are popping up in Caracas. Nightclubs are bursting at the seams. The streets are eerily safe — with big exceptions. Could a revival be on the horizon?
+* 加拉加斯正在涌现新的餐厅。夜总会在接缝处爆裂。街道非常安全，但有很多例外。复兴是否即将到来？
+* China’s play for U.S. allies has a problem: As Germany’s leader showed, Europe’s grievances with Beijing may run deeper than its frustration with Trump.
+* 中国对美国盟友的态度存在问题：正如德国领导人所表明的那样，欧洲对北京的不满可能比对特朗普的沮丧更深。
+* Many in Ukraine assume that the alerts are automated. A rare look inside an emergency-response center reveals the specialists who do the pressure-packed job.
+* 乌克兰的许多人认为警报是自动的。在应急响应中心的罕见情况中，可以看到从事压力填充工作的专家。
+* Ukrainian officials said they hoped that trilateral peace negotiations could take place next week.
+* 乌克兰官员表示，他们希望下周能够进行三边和平谈判。
+* The domestic intelligence agency can still spy on the far-right party, and the ruling may not change Germans’ views, but it is a symbolic victory for the AfD.
+* 国内情报机构仍然可以监视极右翼政党，裁决可能不会改变德国人的观点，但这是AfD的象征性胜利。
+* Experts say Prime Minister Mette Frederiksen is trying to capitalize on her success standing up to President Trump.
+* 专家表示，总理梅特·弗雷德里克森（ Mette Frederiksen ）正试图利用她在特朗普总统面前的成功。
+* The indictment against an agent of the Shin Bet security agency added to a growing list of Israelis accused of exploiting their positions in the security forces to profit from the war in Gaza.
+* 对辛贝特安全机构特工的起诉增加了越来越多的被指控利用其在安全部队中的地位从加沙战争中获利的以色列人的名单。
 * Four armed Cubans aboard a Florida-based speedboat died in a gunfight with Cuban border troops on Wednesday, officials said.
 * 官员说，周三，一艘位于佛罗里达州的快艇上的四名武装古巴人在与古巴边防部队的枪战中丧生。
-* Some officials in the Trump administration hope an attack would force Iran to give up its nuclear enrichment program. Others have doubts.
-* 特朗普政府的一些官员希望这次袭击将迫使伊朗放弃其核浓缩计划。其他人则表示怀疑。
-* Vice President JD Vance said that the Trump administration had been forced to “turn the screws on” Minnesota so the state would respond to allegations of fraud.
-* 副总统JD Vance表示，特朗普政府被迫“打开螺丝钉”明尼苏达州，因此该州将对欺诈指控做出回应。
-* The firings are part of a rolling barrage of retribution aimed at those who worked on the two federal prosecutions of President Trump.
-* 解雇是针对那些参与对特朗普总统的两次联邦起诉的人的连环报复的一部分。
-* The Milwaukee officer used the technology to run searches on his partner’s plate 124 times, officials said, and he also tracked the person’s ex.
-* 官员说，密尔沃基警官使用这项技术对其伴侣的盘子进行了124次搜索，他还跟踪了该人的前任。
-* Our photojournalist Kenny Holston was the only news photographer on the House floor during President Trump’s State of the Union speech. Here’s how he captured his images.
-* 我们的摄影记者肯尼·霍尔斯顿（ Kenny Holston ）是特朗普总统国情咨文演讲中唯一在众议院发言的新闻摄影师。以下是他拍摄照片的方式。
-* Aliya Rahman, a U.S. citizen who was dragged from her vehicle after an ICE agent shattered its window, was charged with unlawful conduct after standing up during President Trump’s speech.
-* 美国公民阿丽亚·拉赫曼（ Aliya Rahman ）在ICE特工打破车窗后被拖下车，在特朗普总统的讲话中站起来后被指控犯有非法行为。
+* Germany’s chancellor seeks to reduce Europe’s reliance on China and the United States. He speaks with a bluntness that few business leaders share.
+* 德国总理寻求减少欧洲对中国和美国的依赖。他直言不讳，很少有商界领袖这么说。
+
+## New York Times United States News
+* The U.S. Court of Appeals for the Fifth Circuit ruled that a Texas law banning some performances in front of children can go into effect in March as a legal battle continues.
+* 美国第五巡回上诉法院裁定，随着法律斗争的继续，德克萨斯州禁止在儿童面前进行某些表演的法律可以在3月生效。
+* From a Charlotte-area House race to three statehouse races, North Carolina liberals are signaling that their tolerance for Democratic stalwarts may be coming to an end.
+* 从夏洛特地区的众议院竞选到三场州议会竞选，北卡罗来纳州的自由派正在发出信号，表明他们对民主党中坚分子的宽容可能即将结束。
+* The political class is worried about the historic drop. But the biggest change is among the youngest women, who are the least ready to have children.
+* 政治阶层担心历史性的下降。但变化最大的是最年轻的女性，她们最不愿意生孩子。
+* President Trump’s approach is a revival of the mission of empire — acquiring the territories and resources of sovereign peoples.
+* 特朗普总统的做法是复兴帝国的使命--获取主权人民的领土和资源。
+* After the downing of a Customs and Border Protection drone, the F.A.A. closed the airspace above Fort Hancock, Texas.
+* 在海关和边境保护局的一架无人机被击落后，联邦航空局关闭了德克萨斯州汉考克堡上空的空域。
+* Key elements of the Trump administration’s arguments this week for another military campaign against Iran do not hold up.
+* 特朗普政府本周关于再次对伊朗发动军事行动的论点的关键要素并不成立。
+* Speaking in Wisconsin to support Republicans ahead of the midterm elections, Vice President JD Vance reminded his audience that Democrats had not stood up at the president’s behest on Tuesday.
+* 副总统JD Vance在威斯康星州的中期选举之前发表讲话，支持共和党人，提醒他的听众，民主党人在周二没有按照总统的要求站起来。
+* Gov. Tim Walz of Minnesota laid out legislative measures to prevent fraud after a scandal that has upended the political landscape in the state.
+* 明尼苏达州州长蒂姆·瓦尔兹（ Tim Walz ）在丑闻颠覆了该州的政治格局后，制定了立法措施来防止欺诈行为。
+* The office of a prosecutor based in Miami has issued new subpoenas in a wide-ranging inquiry aimed at President Trump’s perceived foes.
+* 总部设在迈阿密的一名检察官办公室在一项针对特朗普总统所认为的敌人的广泛调查中发出了新的传票。
+* The lawyer Thomas C. Goldstein, who co-founded the SCOTUSblog website, hid millions in gambling income from the government, federal prosecutors said.
+* 联邦检察官说，共同创立SCOTUSblog网站的律师托马斯· C ·戈尔茨坦（ Thomas C. Goldstein ）向政府隐瞒了数百万美元的赌博收入。
 
 ## New York Times Asia News
+* The renewed violence between the neighboring countries stems from Pakistan’s accusations that Afghanistan’s Taliban government has harbored a militant group.
+* 邻国之间重新爆发的暴力事件源于巴基斯坦指责阿富汗塔利班政府窝藏了一个激进组织。
+* South Korea approved Google’s request to export detailed map data, reversing a longstanding restriction that made the tool largely nonfunctional.
+* 韩国批准了谷歌导出详细地图数据的请求，扭转了长期以来使该工具基本无法使用的限制。
+* President Trump’s approach is a revival of the mission of empire — acquiring the territories and resources of sovereign peoples.
+* 特朗普总统的做法是复兴帝国的使命--获取主权人民的领土和资源。
+* The airstrikes came hours after Afghan troops had attacked Pakistani border positions and follow months of worsening relations between the neighboring countries.
+* 空袭发生在阿富汗军队袭击巴基斯坦边境阵地数小时后，此前邻国之间的关系恶化了数月。
+* The man is accused of conspiring with his then girlfriend to kill her mother, whose body was stuffed in a suitcase. He spent 11 years in prison in Bali, Indonesia, on related charges.
+* 这名男子被指控与当时的女友共谋杀害她的母亲，她的尸体被塞进了一个手提箱。他在印度尼西亚巴厘岛因相关指控入狱11年。
+* Amid trade disputes with President Trump, leaders of major U.S. allies have been visiting China. Our foreign correspondent David Pierson describes what’s going on.
+* 在与特朗普总统的贸易争端中，美国主要盟友的领导人一直在访问中国。我们的外国记者David Pierson描述了发生的事情。
+* Top Japanese officials are backing a tech and entrepreneurship initiative led in part by Joichi Ito, whose involvement with Jeffrey Epstein may endanger efforts to get the project off the ground.
+* 日本高级官员正在支持一项由伊藤贞一(Joichi Ito)领导的科技和创业计划，他与杰弗里·爱泼斯坦(Jeffrey Epstein)的关系可能会危及该项目启动的努力。
+* Jacinda Ardern, New Zealand’s former leader, is basing her family in Australia “for the moment,” a spokesman said. She is part of a wave of Kiwis relocating to their larger neighbor.
+* 一位发言人说，新西兰前领导人杰辛达·阿德恩（ Jacinda Ardern ） “暂时”将她的家人安置在澳大利亚。她是新西兰人搬迁到更大邻居的浪潮的一部分。
 * An anonymous donation of $3.6 million worth of gold highlights frustration with Osaka’s aging waterworks. It will only finance repairs to a fraction of the pipes that need to be replaced.
 * 匿名捐赠价值360万$的黄金凸显了对大阪老化水厂的沮丧。它仅为需要更换的一小部分管道的维修提供资金。
 * China’s play for U.S. allies has a problem: As Germany’s leader showed, Europe’s grievances with Beijing may run deeper than its frustration with Trump.
 * 中国对美国盟友的态度存在问题：正如德国领导人所表明的那样，欧洲对北京的不满可能比对特朗普的沮丧更深。
-* ​ The North Korean leader said that his country can get along well with the United States as long as Washington accepts it as a nuclear weapons state.
-* ​ 这位朝鲜领导人表示，只要华盛顿接受美国作为核武器国家，他的国家就可以与美国相处得很好。
-* Pauline Hanson and her One Nation party have become more palatable for some Australians after the mass shooting at Bondi Beach.
-* 在邦迪海滩发生大规模枪击事件后， Pauline Hanson和她的一个国家党对一些澳大利亚人来说变得更加可口。
-* As China grapples with a shrinking population and historically low birthrate, people are finding romance with chatbots instead.
-* 随着中国努力应对人口萎缩和历史上的低出生率，人们正在寻找与聊天机器人的浪漫。
-* The brief life span of the Dubai chewy cookie reflects the country’s fast-moving food trends, where hype often matters more than taste.
-* 迪拜耐嚼饼干的短暂寿命反映了该国快速发展的食品趋势，炒作往往比口味更重要。
-* 
-* 
-* Chancellor Friedrich Merz laid out his complaints in a frank message to his hosts on a trip to Beijing that China had designed to showcase their relationship.
-* 英国财政大臣弗里德里希·默茨（ Friedrich Merz ）在北京之行中向房东坦率地传达了他的抱怨，中国计划展示他们的关系。
-* A triumph in indoor soccer has turned Alireza Ahmadi, 17, and other players from the Hazara minority, long marginalized in Afghanistan, into national heroes.
-* 室内足球的胜利使17岁的阿里雷扎·艾哈迈迪（ Alireza Ahmadi ）和其他长期在阿富汗被边缘化的哈扎拉少数民族球员成为民族英雄。
-* Around 100 senior officers have been sidelined or vanished since 2022, hollowing out the top ranks and raising questions about the army’s capabilities.
-* 自2022年以来，约有100名高级军官被淘汰或失踪，掏空了高级军衔，引发了对军队能力的质疑。
 
