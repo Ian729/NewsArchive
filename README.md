@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Trump has kept up a steady drumbeat of threats and built up U.S. troops in the region. Iran’s task is to give him a win but also preserve some semblance of nuclear enrichment.
-* 特朗普总统一直保持稳定的威胁，并在该地区建立了美军。伊朗的任务是赢得他的胜利，但也要保留一些核浓缩的假象。
-* New restaurants are popping up in Caracas. Nightclubs are bursting at the seams. The streets are eerily safe — with big exceptions. Could a revival be on the horizon?
-* 加拉加斯正在涌现新的餐厅。夜总会在接缝处爆裂。街道非常安全，但有很多例外。复兴是否即将到来？
-* China’s play for U.S. allies has a problem: As Germany’s leader showed, Europe’s grievances with Beijing may run deeper than its frustration with Trump.
-* 中国对美国盟友的态度存在问题：正如德国领导人所表明的那样，欧洲对北京的不满可能比对特朗普的沮丧更深。
-* Many in Ukraine assume that the alerts are automated. A rare look inside an emergency-response center reveals the specialists who do the pressure-packed job.
-* 乌克兰的许多人认为警报是自动的。在应急响应中心的罕见情况中，可以看到从事压力填充工作的专家。
-* Ukrainian officials said they hoped that trilateral peace negotiations could take place next week.
-* 乌克兰官员表示，他们希望下周能够进行三边和平谈判。
-* The domestic intelligence agency can still spy on the far-right party, and the ruling may not change Germans’ views, but it is a symbolic victory for the AfD.
-* 国内情报机构仍然可以监视极右翼政党，裁决可能不会改变德国人的观点，但这是AfD的象征性胜利。
-* Experts say Prime Minister Mette Frederiksen is trying to capitalize on her success standing up to President Trump.
-* 专家表示，总理梅特·弗雷德里克森（ Mette Frederiksen ）正试图利用她在特朗普总统面前的成功。
-* The indictment against an agent of the Shin Bet security agency added to a growing list of Israelis accused of exploiting their positions in the security forces to profit from the war in Gaza.
-* 对辛贝特安全机构特工的起诉增加了越来越多的被指控利用其在安全部队中的地位从加沙战争中获利的以色列人的名单。
-* Four armed Cubans aboard a Florida-based speedboat died in a gunfight with Cuban border troops on Wednesday, officials said.
-* 官员说，周三，一艘位于佛罗里达州的快艇上的四名武装古巴人在与古巴边防部队的枪战中丧生。
-* Germany’s chancellor seeks to reduce Europe’s reliance on China and the United States. He speaks with a bluntness that few business leaders share.
-* 德国总理寻求减少欧洲对中国和美国的依赖。他直言不讳，很少有商界领袖这么说。
+* People raced to shelter from explosions in Tehran as President Trump announced a “massive and ongoing” assault. Israel said it had joined the attack, as the Middle East braced for Iranian retaliation.
+* 随着特朗普总统宣布“大规模且持续”的袭击，人们竞相躲避德黑兰的爆炸事件。以色列表示，它已经加入了这次袭击，因为中东正在为伊朗的报复做准备。
+* El Mencho’s brutality and business acumen put him atop the cartel world, until he made a fatal mistake.
+* El Mencho的残忍和商业头脑使他成为卡特尔世界的佼佼者，直到他犯了一个致命的错误。
+* After blocking foreign oil shipments, the Trump administration is now allowing small amounts of oil to enter Cuba — as long as they circumvent government hands.
+* 在阻止外国石油运输后，特朗普政府现在允许少量石油进入古巴—只要它们绕过政府手中。
+* Prime Minister Mark Carney visits India, Australia and Japan seeking deals to strengthen his country’s links to Indo-Pacific powers and break Canada’s dependence on the United States.
+* 加拿大总理马克·卡尼（ Mark Carney ）访问印度、澳大利亚和日本，寻求达成协议，以加强加拿大与印度洋-太平洋地区大国的联系，并打破加拿大对美国的依赖。
+* The package worth billions of dollars and endorsed by lawmakers is stalled at the State Department as the U.S. and China plan an April summit.
+* 由于美国和中国计划在4月举行峰会，价值数十亿美元并得到立法者支持的一揽子计划在国务院停滞不前。
+* The airstrikes came hours after Afghan troops had attacked Pakistani border positions and follow months of worsening relations between the neighboring countries.
+* 空袭发生在阿富汗军队袭击巴基斯坦边境阵地数小时后，此前邻国之间的关系恶化了数月。
+* A request made to President Trump about the war in Sudan is at the heart of a diplomatic dispute between Saudi Arabia and the United Arab Emirates.
+* 向特朗普总统提出的关于苏丹战争的要求是沙特阿拉伯和阿拉伯联合酋长国之间外交争端的核心。
+* A dozen major blackouts and central heating cutoffs across the country have affected hundreds of thousands during a brutal winter.
+* 在一个残酷的冬季，全国各地的十几次大停电和中央供暖中断影响了数十万人。
+* Judges at the International Criminal Court have heard starkly different interpretations this week of the words of former President Rodrigo Duterte of the Philippines.
+* 国际刑事法院的法官本周听到了对菲律宾前总统罗德里戈·杜特尔特（ Rodrigo Duterte ）的话语截然不同的解释。
+* Facing a serious election challenge, Prime Minister Viktor Orban is holding up a big E.U. loan for Ukraine. Analysts say the timing is no coincidence.
+* 面对严峻的选举挑战，总理维克托·奥尔班（ Viktor Orban ）正在为乌克兰持有一笔巨额欧盟贷款。分析师表示，这一时机并非巧合。
 
 ## New York Times United States News
-* The U.S. Court of Appeals for the Fifth Circuit ruled that a Texas law banning some performances in front of children can go into effect in March as a legal battle continues.
-* 美国第五巡回上诉法院裁定，随着法律斗争的继续，德克萨斯州禁止在儿童面前进行某些表演的法律可以在3月生效。
-* From a Charlotte-area House race to three statehouse races, North Carolina liberals are signaling that their tolerance for Democratic stalwarts may be coming to an end.
-* 从夏洛特地区的众议院竞选到三场州议会竞选，北卡罗来纳州的自由派正在发出信号，表明他们对民主党中坚分子的宽容可能即将结束。
-* The political class is worried about the historic drop. But the biggest change is among the youngest women, who are the least ready to have children.
-* 政治阶层担心历史性的下降。但变化最大的是最年轻的女性，她们最不愿意生孩子。
-* President Trump’s approach is a revival of the mission of empire — acquiring the territories and resources of sovereign peoples.
-* 特朗普总统的做法是复兴帝国的使命--获取主权人民的领土和资源。
-* After the downing of a Customs and Border Protection drone, the F.A.A. closed the airspace above Fort Hancock, Texas.
-* 在海关和边境保护局的一架无人机被击落后，联邦航空局关闭了德克萨斯州汉考克堡上空的空域。
-* Key elements of the Trump administration’s arguments this week for another military campaign against Iran do not hold up.
-* 特朗普政府本周关于再次对伊朗发动军事行动的论点的关键要素并不成立。
-* Speaking in Wisconsin to support Republicans ahead of the midterm elections, Vice President JD Vance reminded his audience that Democrats had not stood up at the president’s behest on Tuesday.
-* 副总统JD Vance在威斯康星州的中期选举之前发表讲话，支持共和党人，提醒他的听众，民主党人在周二没有按照总统的要求站起来。
-* Gov. Tim Walz of Minnesota laid out legislative measures to prevent fraud after a scandal that has upended the political landscape in the state.
-* 明尼苏达州州长蒂姆·瓦尔兹（ Tim Walz ）在丑闻颠覆了该州的政治格局后，制定了立法措施来防止欺诈行为。
-* The office of a prosecutor based in Miami has issued new subpoenas in a wide-ranging inquiry aimed at President Trump’s perceived foes.
-* 总部设在迈阿密的一名检察官办公室在一项针对特朗普总统所认为的敌人的广泛调查中发出了新的传票。
-* The lawyer Thomas C. Goldstein, who co-founded the SCOTUSblog website, hid millions in gambling income from the government, federal prosecutors said.
-* 联邦检察官说，共同创立SCOTUSblog网站的律师托马斯· C ·戈尔茨坦（ Thomas C. Goldstein ）向政府隐瞒了数百万美元的赌博收入。
+* A new inspector general delayed a decision on whether to approve the project and is said to have raised its potential political ramifications, in a test of the watchdog system in President Trump’s second term.
+* 一位新的监察长推迟了是否批准该项目的决定，据说在特朗普总统第二任期的监督系统测试中提出了其潜在的政治影响。
+* Several top state and federal offices are up for grabs amid a period of crisis with few if any precedents in the state’s history.
+* 在危机期间，几个州和联邦最高办公室正在争夺，该州历史上几乎没有任何先例。
+* From big cities like Seattle and Portland, Ore., to small ones like Astoria, Ore., proponents of “nontraditional” romantic relationships are making headway in getting legal recognition.
+* 从俄勒冈州西雅图和波特兰这样的大城市，到俄勒冈州阿斯托利亚这样的小城市， “非传统”浪漫关系的支持者正在获得法律承认方面取得进展。
+* Former F.B.I. officials say Mr. Patel beefed up field office staffing near his girlfriend in Nashville and ordered a team to ferry her on errands and to events.
+* 前联邦调查局官员说，帕特尔加强了他在纳什维尔女友附近的外地办事处人员配备，并命令一个团队将她送去办事和参加活动。
+* The court is set to decide a major case that could scramble the country’s congressional maps. One crucial factor for this year’s elections is when the ruling lands.
+* 法院将裁定一起可能扰乱该国国会地图的重大案件。今年选举的一个关键因素是执政党何时上台。
+* The former officer traveled to China to train pilots of the People’s Liberation Army Air Force without approval from the State Department, the Justice Department said.
+* 司法部表示，这名前军官未经国务院批准前往中国培训人民解放军空军飞行员。
+* A Wisconsin man was found guilty of impersonating an undocumented immigrant in handwritten letters that threatened to kill the president in an effort to get the immigrant deported.
+* 一名威斯康星州男子因手写信件冒充一名无证移民而被判有罪，该信件威胁要杀死总统，以试图将这名移民驱逐出境。
+* Scouting America said it had staved off a demand from the Pentagon to ban girls from the organization and change its name back to Boy Scouts of America.
+* Scouting America表示，它已经阻止了五角大楼的要求，即禁止女孩加入该组织，并将其名称改回美国童子军。
+* The band condemned the Trump administration for using the song “Let Down” in a post showing victims of violent crimes that federal officials said had been committed by illegal immigrants.
+* 乐队谴责特朗普政府在一篇展示暴力犯罪受害者的帖子中使用了“让失望”这首歌，联邦官员称这些受害者是非法移民。
+* During a visit to Texas, President Trump made clear that he would be driving home his depiction of Democrats as out of step ahead of the elections in November.
+* 在访问德克萨斯州期间，特朗普总统明确表示，他将在11月大选之前将民主党人的描述带回家。
 
 ## New York Times Asia News
+* The former officer traveled to China to train pilots of the People’s Liberation Army Air Force without approval from the State Department, the Justice Department said.
+* 司法部表示，这名前军官未经国务院批准前往中国培训人民解放军空军飞行员。
+* The package worth billions of dollars and endorsed by lawmakers is stalled at the State Department as the U.S. and China plan an April summit.
+* 由于美国和中国计划在4月举行峰会，价值数十亿美元并得到立法者支持的一揽子计划在国务院停滞不前。
+* Judges at the International Criminal Court have heard starkly different interpretations this week of the words of former President Rodrigo Duterte of the Philippines.
+* 国际刑事法院的法官本周听到了对菲律宾前总统罗德里戈·杜特尔特（ Rodrigo Duterte ）的话语截然不同的解释。
+* India has grown rapidly despite its slow industrialization, and its economy is now nearly as big as Japan’s.
+* 尽管工业化缓慢，但印度发展迅速，其经济现在几乎与日本一样大。
 * The renewed violence between the neighboring countries stems from Pakistan’s accusations that Afghanistan’s Taliban government has harbored a militant group.
 * 邻国之间重新爆发的暴力事件源于巴基斯坦指责阿富汗塔利班政府窝藏了一个激进组织。
 * South Korea approved Google’s request to export detailed map data, reversing a longstanding restriction that made the tool largely nonfunctional.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 这名男子被指控与当时的女友共谋杀害她的母亲，她的尸体被塞进了一个手提箱。他在印度尼西亚巴厘岛因相关指控入狱11年。
 * Amid trade disputes with President Trump, leaders of major U.S. allies have been visiting China. Our foreign correspondent David Pierson describes what’s going on.
 * 在与特朗普总统的贸易争端中，美国主要盟友的领导人一直在访问中国。我们的外国记者David Pierson描述了发生的事情。
-* Top Japanese officials are backing a tech and entrepreneurship initiative led in part by Joichi Ito, whose involvement with Jeffrey Epstein may endanger efforts to get the project off the ground.
-* 日本高级官员正在支持一项由伊藤贞一(Joichi Ito)领导的科技和创业计划，他与杰弗里·爱泼斯坦(Jeffrey Epstein)的关系可能会危及该项目启动的努力。
-* Jacinda Ardern, New Zealand’s former leader, is basing her family in Australia “for the moment,” a spokesman said. She is part of a wave of Kiwis relocating to their larger neighbor.
-* 一位发言人说，新西兰前领导人杰辛达·阿德恩（ Jacinda Ardern ） “暂时”将她的家人安置在澳大利亚。她是新西兰人搬迁到更大邻居的浪潮的一部分。
-* An anonymous donation of $3.6 million worth of gold highlights frustration with Osaka’s aging waterworks. It will only finance repairs to a fraction of the pipes that need to be replaced.
-* 匿名捐赠价值360万$的黄金凸显了对大阪老化水厂的沮丧。它仅为需要更换的一小部分管道的维修提供资金。
-* China’s play for U.S. allies has a problem: As Germany’s leader showed, Europe’s grievances with Beijing may run deeper than its frustration with Trump.
-* 中国对美国盟友的态度存在问题：正如德国领导人所表明的那样，欧洲对北京的不满可能比对特朗普的沮丧更深。
 
