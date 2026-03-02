@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The death of Ayatollah Ali Khamenei raised questions about leadership succession as attacks on Iran, and its responses, continued.
-* 阿亚图拉·阿里·哈梅内伊（ Ayatollah Ali Khamenei ）的去世引发了人们对领导层继任问题的质疑，因为对伊朗的攻击及其
-* El Mencho’s brutality and business acumen put him atop the cartel world, until he made a fatal mistake.
-* El Mencho的残忍和商业头脑使他成为卡特尔世界的佼佼者，直到他犯了一个致命的错误。
-* After blocking foreign oil shipments, the Trump administration is now allowing small amounts of oil to enter Cuba — as long as they circumvent government hands.
-* 在阻止外国石油运输后，特朗普政府现在允许少量石油进入古巴—只要它们绕过政府手中。
-* Prime Minister Mark Carney visits India, Australia and Japan seeking deals to strengthen his country’s links to Indo-Pacific powers and break Canada’s dependence on the United States.
-* 加拿大总理马克·卡尼（ Mark Carney ）访问印度、澳大利亚和日本，寻求达成协议，以加强加拿大与印度洋-太平洋地区大国的联系，并打破加拿大对美国的依赖。
-* The package worth billions of dollars and endorsed by lawmakers is stalled at the State Department as the U.S. and China plan an April summit.
-* 由于美国和中国计划在4月举行峰会，价值数十亿美元并得到立法者支持的一揽子计划在国务院停滞不前。
-* The airstrikes came hours after Afghan troops had attacked Pakistani border positions and follow months of worsening relations between the neighboring countries.
-* 空袭发生在阿富汗军队袭击巴基斯坦边境阵地数小时后，此前邻国之间的关系恶化了数月。
-* A request made to President Trump about the war in Sudan is at the heart of a diplomatic dispute between Saudi Arabia and the United Arab Emirates.
-* 向特朗普总统提出的关于苏丹战争的要求是沙特阿拉伯和阿拉伯联合酋长国之间外交争端的核心。
-* A dozen major blackouts and central heating cutoffs across the country have affected hundreds of thousands during a brutal winter.
-* 在一个残酷的冬季，全国各地的十几次大停电和中央供暖中断影响了数十万人。
-* Judges at the International Criminal Court have heard starkly different interpretations this week of the words of former President Rodrigo Duterte of the Philippines.
-* 国际刑事法院的法官本周听到了对菲律宾前总统罗德里戈·杜特尔特（ Rodrigo Duterte ）的话语截然不同的解释。
-* Facing a serious election challenge, Prime Minister Viktor Orban is holding up a big E.U. loan for Ukraine. Analysts say the timing is no coincidence.
-* 面对严峻的选举挑战，总理维克托·奥尔班（ Viktor Orban ）正在为乌克兰持有一笔巨额欧盟贷款。分析师表示，这一时机并非巧合。
+* Iran and allied militias, including Hezbollah, attacked Israel and U.S. targets in the Gulf in retaliation for Ayatollah Khamenei’s death. Israel struck in Lebanon as President Trump said that the U.S. assault on Iran would last “four or five weeks.”
+* 伊朗和包括真主党在内的盟军民兵袭击了以色列和美国在海湾地区的目标，以报复哈梅内伊的死亡。以色列在黎巴嫩发动袭击，特朗普总统表示，美国对伊朗的袭击将持续“四五周”。
+* Disregarded by President Trump over Iran, Europe’s leaders are adapting to a world in which they are little more than bystanders.
+* 特朗普总统在伊朗问题上置之不理，欧洲领导人正在适应一个他们只不过是旁观者的世界。
+* Afghan officials said they had thwarted a Pakistani airstrike on the former U.S. base, Bagram airfield, amid an intensifying campaign that has targeted dozens of military sites across the country.
+* 阿富汗官员表示，他们挫败了巴基斯坦对前美军基地巴格拉姆机场的空袭，此次空袭针对的是全国数十个军事基地。
+* Large crowds of people celebrated the killing of Ayatollah Ali Khamenei in American and Israeli strikes, while many others gathered to mourn.
+* 许多人庆祝阿亚图拉·阿里·哈梅内伊在美国和以色列的罢工中遇害，而其他许多人则聚集在一起哀悼。
+* More than 100 people were injured and at least four were killed after Iran fired hundreds of missiles and drones at Gulf cities, including Dubai, Abu Dhabi and Doha.
+* 伊朗向包括迪拜、阿布扎比和多哈在内的海湾城市发射了数百枚导弹和无人机，造成100多人受伤，至少4人死亡。
+* Now that Iran has declared that its supreme leader is dead, it is unclear which of his possible successors might rise.
+* 现在，伊朗已经宣布其最高领导人已经死亡，目前尚不清楚他可能的继任者中有谁会崛起。
+* Here are images from Iran, Israel, Lebanon and elsewhere in the Middle East.
+* 以下是来自伊朗、以色列、黎巴嫩和中东其他地方的图片。
+* Parents in China are turning to A.I. chatbots and other tools to help their children gain an edge and ease the fighting over homework.
+* 中国的父母正在转向人工智能聊天机器人和其他工具，以帮助他们的孩子获得优势并缓解家庭作业的争夺。
+* While the latest tranche of documents about the sex offender Jeffrey Epstein has exposed a deeply American scandal, it is Europe where the aggressive enforcement is taking place.
+* 虽然关于性犯罪者杰弗里·爱泼斯坦（ Jeffrey Epstein ）的最新文件揭露了一起严重的美国丑闻，但正在欧洲进行积极的执法。
+* The Christians known as viruiuchi prostaky see electricity, cars, higher education and much else as distractions from what really matters.
+* 被称为viruiuchi prostaky的基督徒将电力、汽车、高等教育和其他许多东西视为真正重要的事情的分心。
 
 ## New York Times United States News
-* President Trump’s envoys negotiated with Iran over its nuclear program. But Mr. Trump and Prime Minister Benjamin Netanyahu of Israel wanted much more.
-* 特朗普总统的特使与伊朗就其核计划进行了谈判。但特朗普和以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）想要的更多。
-* Should Democrats concentrate on swing voters or their base? Can more traditional Republicans win in the MAGA era? Tuesday’s Senate primary in Texas will show the direction the parties are taking.
-* 民主党应该专注于摇摆选民还是他们的基础？在MAGA时代，更多的传统共和党人能获胜吗？周二在德克萨斯州举行的参议院初选将表明各方正在采取的方向。
-* Some religious groups have sued for access, others have been denied entrance to detention facilities.
-* 一些宗教团体提起诉讼，要求进入拘留设施，其他宗教团体则被拒绝进入拘留设施。
-* Decades of tips and investigations yielded charges against only two people. A combination of missed chances, narrow laws and prosecutors’ limited focus helps explain why.
-* 数十年的线索和调查只对两人提出了指控。错失的机会、狭隘的法律和检察官有限的关注有助于解释原因。
-* Our national security correspondent David E. Sanger examines the war of choice that President Trump has initiated with Iran.
-* 我们的国家安全记者大卫· E ·桑格（ David E. Sanger ）研究了特朗普总统与伊朗发起的选择性战争。
-* The killing of Iran’s supreme leader and other top Iranian officials came after close intelligence sharing between the United States and Israel, according to people familiar with the operation.
-* 据知情人士透露，伊朗最高领导人和其他伊朗高级官员遇害之前，美国和以色列之间进行了密切的情报共享。
-* President Trump did not deliver a formal address to the American public to explain why the country was at war, a departure from his predecessors.
-* 特朗普总统没有向美国公众发表正式讲话，解释为什么这个国家处于战争状态，这与他的前任不同。
-* Californians of Iranian descent said they welcomed the possible end of an oppressive government in Tehran that their families had fled.
-* 伊朗裔加利福尼亚人表示，他们对德黑兰一家人逃离的压迫性政府可能结束表示欢迎。
-* The Los Angeles police did not offer details on the death of a student at Reseda High School, but a family said that a 12-year-old girl attending the school died after being struck with a water bottle.
-* 洛杉矶警方没有提供Reseda高中学生死亡的细节，但一名家庭表示，一名12岁的女孩在学校被水瓶击中后死亡。
-* Republicans largely supported the decision, while Democrats mostly opposed it — but divisions appeared in both parties.
-* 共和党人在很大程度上支持这一决定，而民主党人大多反对这一决定，但两党都出现了分歧。
+* President Trump has said the attacks were necessary for the security of the United States and to free the Iranian people from oppression. Do voters agree?
+* 特朗普总统表示，这些袭击对于美国的安全以及将伊朗人民从压迫中解放出来是必要的。选民同意吗？
+* As Mr. Jackson’s body lies in state in South Carolina on Monday, the city of Greenville, where he fought civil rights battles, is wrestling with how to pay its respects.
+* 由于杰克逊的尸体周一在南卡罗来纳州，他在那里进行民权斗争的格林维尔市正在为如何表达敬意而挣扎。
+* The number of billionaires in the United States has soared, with nowhere feeling the effects quite like Jackson, Wyo. Here’s where all that money came from.
+* 美国的亿万富翁数量飙升，没有一个地方像怀俄明州的杰克逊那样感受到这种影响。这些钱是从这里来的。
+* Ahead of Tuesday’s vote, the Democratic and Republican races have become increasingly personal and contentious.
+* 在周二的投票之前，民主党和共和党的竞选变得越来越个人化和有争议。
+* GOP lawmakers ensured there was enough money for the immigration crackdown, but the funding pause threatens other Homeland Security work.
+* 共和党议员确保有足够的资金进行移民镇压，但资金暂停威胁到国土安全部的其他工作。
+* The case involves a Texas man charged after agents found drugs and a gun in his home and tests the constitutionality of the federal law.
+* 此案涉及一名德克萨斯州男子，该男子在特工在家中发现毒品和枪支并测试联邦法律的合宪性后被起诉。
+* The former president’s son says he is watching closely as the justices on Monday hear a case testing the constitutionality of the federal gun law used to convict him.
+* 这位前总统的儿子说，他正在密切关注法官周一听到的一个案例，该案例测试了用于定罪他的联邦枪支法的合宪性。
+* Lori Chavez-DeRemer is under investigation internally after allegations of misconduct and misuse of department funds.
+* Lori Chavez-DeRemer因涉嫌不当行为和滥用部门资金而正在接受内部调查。
+* As podcasts and talk radio blur the lines between sports and politics, professional athletes — many of whom have found encouragement from President Trump — are running in midterm elections.
+* 由于播客和谈话电台模糊了体育和政治之间的界限，职业运动员--其中许多人得到了特朗普总统的鼓励--正在参加中期选举。
+* Jackson, Wyo., has long been a refuge for the rich. But the last five years saw a boom in wealth of a kind never before seen. Across the country, the 2017 tax cuts minted hundreds of new billionaires.
+* 怀俄明州杰克逊长期以来一直是富人的避难所。但在过去的五年里，我们看到了前所未有的财富繁荣。在全国范围内， 2017年的减税政策造就了数百名新的亿万富翁。
 
 ## New York Times Asia News
+* Afghan officials said they had thwarted a Pakistani airstrike on the former U.S. base, Bagram airfield, amid an intensifying campaign that has targeted dozens of military sites across the country.
+* 阿富汗官员表示，他们挫败了巴基斯坦对前美军基地巴格拉姆机场的空袭，此次空袭针对的是全国数十个军事基地。
+* The Olympic athletes are the subject of uncomfortable public comparisons that present online narratives that overlap more than both sides may realize.
+* 奥林匹克运动员是令人不安的公众比较的对象，这些比较呈现的在线叙述重叠程度超过双方可能意识到的程度。
+* Parents in China are turning to A.I. chatbots and other tools to help their children gain an edge and ease the fighting over homework.
+* 中国的父母正在转向人工智能聊天机器人和其他工具，以帮助他们的孩子获得优势并缓解家庭作业的争夺。
+* Parents in China are using homegrown chatbots like DeepSeek and Doubao as well as Google’s Gemini to help their children with homework and give them an academic edge.
+* 中国的家长正在使用DeepSeek和Doubao等本土聊天机器人以及谷歌的Gemini来帮助他们的孩子完成家庭作业，并赋予他们学术优势。
+* It already proved its effectiveness on the battlefields of Ukraine. Now the Iranian-made Shahed-136 kamikaze has been unleashed across the Arab Gulf.
+* 它已经在乌克兰战场上证明了其有效性。现在，伊朗制造的Shahed-136神风特攻队已经横跨阿拉伯湾。
+* At least 22 people were killed in protests across Pakistan as Iran’s neighbors brace for turmoil and the fallout of a possible regional conflict.
+* 在巴基斯坦各地的抗议活动中，至少有22人丧生，因为伊朗的邻国正准备应对动荡和可能的地区冲突的后果。
 * A major hub in Dubai has suspended operations following U.S.-Israeli strikes on Iran. The sweeping closures are stranding passengers.
 * 在美国-以色列对伊朗发动袭击后，迪拜的一个主要枢纽已暂停运营。全面封锁使乘客陷入困境。
 * Pakistan’s airstrikes in Afghanistan showed its overwhelming superiority in conventional warfare, but the Taliban have refined a lethal repertoire of guerrilla tactics.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 司法部表示，这名前军官未经国务院批准前往中国培训人民解放军空军飞行员。
 * The package worth billions of dollars and endorsed by lawmakers is stalled at the State Department as the U.S. and China plan an April summit.
 * 由于美国和中国计划在4月举行峰会，价值数十亿美元并得到立法者支持的一揽子计划在国务院停滞不前。
-* Judges at the International Criminal Court have heard starkly different interpretations this week of the words of former President Rodrigo Duterte of the Philippines.
-* 国际刑事法院的法官本周听到了对菲律宾前总统罗德里戈·杜特尔特（ Rodrigo Duterte ）的话语截然不同的解释。
-* India has grown rapidly despite its slow industrialization, and its economy is now nearly as big as Japan’s.
-* 尽管工业化缓慢，但印度发展迅速，其经济现在几乎与日本一样大。
-* The renewed violence between the neighboring countries stems from Pakistan’s accusations that Afghanistan’s Taliban government has harbored a militant group.
-* 邻国之间重新爆发的暴力事件源于巴基斯坦指责阿富汗塔利班政府窝藏了一个激进组织。
-* South Korea approved Google’s request to export detailed map data, reversing a longstanding restriction that made the tool largely nonfunctional.
-* 韩国批准了谷歌导出详细地图数据的请求，扭转了长期以来使该工具基本无法使用的限制。
-* President Trump’s approach is a revival of the mission of empire — acquiring the territories and resources of sovereign peoples.
-* 特朗普总统的做法是复兴帝国的使命--获取主权人民的领土和资源。
-* The airstrikes came hours after Afghan troops had attacked Pakistani border positions and follow months of worsening relations between the neighboring countries.
-* 空袭发生在阿富汗军队袭击巴基斯坦边境阵地数小时后，此前邻国之间的关系恶化了数月。
 
