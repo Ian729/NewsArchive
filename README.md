@@ -2,50 +2,52 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* With political activism off-limits, residents of St. Petersburg are finding purpose and community in the “politics of small deeds,” repairing and cleaning architectural treasures.
-* 随着政治活动的禁区，圣彼得堡的居民正在“小事政治”中寻找目标和社区，修复和清理建筑宝藏。
-* The U.S. and Israel have pounded Iran’s leadership and undercut its defense capabilities, but President Trump has offered wildly different explanations for what he hopes to achieve.
-* 美国和以色列抨击了伊朗的领导地位，削弱了其防御能力，但特朗普总统对他希望实现的目标提出了截然不同的解释。
-* At a gathering in Florida, the president asked the leaders of a dozen Latin American and Caribbean nations to help the U.S. military crush armed trafficking groups.
-* 在佛罗里达州的一次聚会上，总统要求十几个拉丁美洲和加勒比国家的领导人帮助美国军队镇压武装贩运组织。
-* U.S. and Israeli strikes on Iran have set off a crippling energy crisis and sparked deadly protests in one of the world’s most populous Muslim nations.
-* 美国和以色列对伊朗的空袭引发了一场严重的能源危机，并在世界上人口最多的穆斯林国家之一引发了致命的抗议活动。
-* From London to Rome and beyond, leaders are facing diplomatic headwinds and criticism at home as they take part in a conflict they did not seek.
-* 从伦敦到罗马乃至更远的地方，领导人在参与他们没有寻求的冲突时，在国内面临外交阻力和批评。
-* At least 10 people were killed when a Russian missile hit a five-story apartment building in the city of Kharkiv, and Kyiv and several other regions also came under attack.
-* 一枚俄罗斯导弹袭击了哈尔科夫市的一栋五层公寓楼，造成至少10人死亡，基辅和其他几个地区也遭到袭击。
-* Humanitarians proposed a loophole in international law. Decades later, Trump is jumping through it.
-* 人道主义者提出了一个国际法漏洞。几十年后，特朗普正在跳过它。
-* China is learning lessons from the war in Iran. Chief among them, the United States may pose an even greater threat than Beijing thought.
-* 中国正在从伊朗战争中吸取教训。其中最主要的是，美国可能构成比北京想象的更大的威胁。
-* For decades, enthusiasts rode the cresting Eisbach creek in the southern German city, some 200 miles from the nearest coast. But the wave has vanished, prompting arguments about how to restore it.
-* 几十年来，爱好者们在德国南部城市的艾斯巴赫溪（ Eisbach creek ）上骑马，距离最近的海岸约200英里。但这股浪潮已经消失，引发了关于如何恢复它的争论。
-* The country is waiting to see if the government seizes on this moment to disarm the Iranian-backed armed group and how the militants will respond.
-* 该国正在等待政府是否抓住这一时机解除伊朗支持的武装团体的武装，以及武装分子将如何应对。
-
-## New York Times United States News
+* Top clerics selected Mojtaba Khamenei to succeed his slain father, despite President Trump’s warning that he was “unacceptable.” Oil prices surged to their highest levels since the pandemic, reflecting growing alarm over a prolonged war.
+* 顶级神职人员选择莫塔巴·哈梅内伊（ Mojtaba Khamenei ）接替他被杀害的父亲，尽管特朗普总统警告说他是“不可接受的”。“油价飙升至疫情以来的最高水平，反映出对长期战争的担忧日益加剧。
+* Many in Iran feel helpless in the face of their entrenched system, and some are becoming increasingly embittered by the fierce American and Israeli bombardment.
+* 面对根深蒂固的制度，伊朗的许多人感到无助，一些人对美国和以色列的猛烈轰炸感到越来越痛苦。
+* As the war in Iran spreads, Kyiv is eagerly offering its hard-won expertise and advanced technology to counter Iranian drones.
+* 随着伊朗战争的蔓延，基辅急切地提供其来之不易的专业知识和先进技术来对抗伊朗无人机。
+* Ukraine’s leader, Volodymyr Zelensky, traveled east to visit frontline troops trying to stave off Russian attacks, and invited reporters for The New York Times to go with him.
+* 乌克兰领导人沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）前往东部访问前线部队，试图避免俄罗斯的袭击，并邀请《纽约时报》的记者与他一起前往。
+* The athletes, who are set to head home, were called ‘traitors’ by Iran’s state media after they didn’t sing their national anthem during a match in Australia.
+* 这些即将回家的运动员在澳大利亚的一场比赛中没有唱国歌，因此被伊朗国家媒体称为“叛徒”。
+* Prosecutors accuse the former Istanbul mayor Ekrem Imamoglu of leading a criminal scheme. His supporters say Turkey’s president is trying to eliminate a political foe.
+* 检察官指控前伊斯坦布尔市长Ekrem Imamoglu领导犯罪计划。他的支持者说，土耳其总统正试图消灭一个政治敌人。
+* Food is bringing thousands of people together to an unexpected place: a plaza west of Toronto. Some fear it’s tearing a neighborhood apart.
+* 美食将成千上万的人聚集在一个意想不到的地方：多伦多以西的广场。有些人担心这会让一个街区四分五裂。
 * With their pervasive military, political and economic clout, the Guards are often considered the main impediment to regime change, or any change, in Iran.
 * 凭借其无处不在的军事、政治和经济影响力，卫队通常被认为是伊朗政权更迭或任何变革的主要障碍。
-* Two brothers who were recognized by their congresswoman last year, along with their parents and younger brother, are facing deportation.
-* 去年被女议员认可的两个兄弟，以及他们的父母和弟弟，正面临被驱逐出境的危险。
-* Representative Thomas Massie’s race against a rival backed by President Trump is shaping up as a key midterm testing ground for G.O.P. attitudes on the war.
-* 众议员托马斯·马西（ Thomas Massie ）与特朗普总统支持的竞争对手的竞争正在成为共和党对战争态度的关键中期试验场。
-* The many similarities between the White House’s justification for war in Iran and Russia’s messaging on Ukraine underscore the risks of a vaguely defined, open-ended war.
-* 白宫为伊朗战争辩护与俄罗斯向乌克兰传达的信息之间的许多相似之处凸显了一场定义模糊、无限期的战争的风险。
-* President Trump thinks Republicans should “take over” election procedures in parts of the United States. But where? Here are some possibilities.
-* 特朗普总统认为，共和党人应该“接管”美国部分地区的选举程序。但是在哪里？这里有一些可能性。
-* The ruling, which said that Kari Lake’s appointment to oversee V.O.A.’s parent agency was invalid, was a major rejection of President Trump’s attempts to dismantle the government-funded news group.
-* 该裁决称，卡里·莱克（ Kari Lake ）被任命监督V.O.A.的母公司是无效的，这是对特朗普总统试图解散政府资助的新闻集团的重大拒绝。
-* The fate of the highly enriched uranium and the options for securing it have become critical issues for the Trump administration.
-* 高浓缩铀的命运以及获得高浓缩铀的选择已成为特朗普政府的关键问题。
-* The U.S. and Israel have pounded Iran’s leadership and undercut its defense capabilities, but President Trump has offered wildly different explanations for what he hopes to achieve.
-* 美国和以色列抨击了伊朗的领导地位，削弱了其防御能力，但特朗普总统对他希望实现的目标提出了截然不同的解释。
-* The decision to award medals to runners who do not complete the entire 26.2-mile race comes as temperatures are set to reach into the 80s on Sunday. Some marathoners disagreed with the change.
-* 在周日气温将达到80度时，决定向未完成整个26.2英里比赛的跑步者颁发奖牌。一些马拉松运动员不同意这种变化。
-* At least six people were dead and well over a dozen injured between the two states after a series of tornadoes on Friday.
-* 星期五发生一系列龙卷风后，两州之间至少有六人死亡，十多人受伤。
+* A youth-led uprising brought Nepal’s government down last year. Now, a 35-year-old politician demanding change is set to become prime minister.
+* 去年，一场由青年领导的起义导致尼泊尔政府垮台。现在，一位要求变革的35岁政治家即将成为总理。
+* Brazil, China and Russia all denounced the U.S.-Israeli attacks, but other nations in the BRICS group haven’t, even though Iran is a fellow member.
+* 巴西、中国和俄罗斯都谴责美以袭击，但金砖国家集团中的其他国家却没有，尽管伊朗是其成员。
+
+## New York Times United States News
+* The Oklahoma senator whom President Trump chose to run the Department of Homeland Security has risen in Washington by styling himself as a MAGA warrior and Trump loyalist.
+* 特朗普总统选择管理国土安全部的俄克拉荷马州参议员通过将自己塑造成MAGA战士和特朗普忠诚者而在华盛顿崛起。
+* 300 billionaires and their families spent more than $3 billion on federal elections in 2024. Here’s a snapshot of how a surging class of ultrawealthy people is spending money on political change.
+* 300名亿万富翁及其家人在2024年的联邦选举中花费了30多$。以下是一个蓬勃发展的超级富豪阶层如何在政治变革上花钱的快照。
+* James Talarico, the Democratic nominee from Texas, hopes to counter what he sees as a conservative takeover of the American church.
+* 来自德克萨斯州的民主党候选人詹姆斯·塔拉里科（ James Talarico ）希望反驳他所认为的保守派对美国教会的接管。
+* The groups are working to educate voters in the South about how they would be affected if the court strikes down a key provision of the Voting Rights Act.
+* 这些团体正在努力教育南方的选民，让他们了解如果法院推翻《投票权法》的一项关键条款，他们将如何受到影响。
+* The longest-serving Black Democrat in Mississippi, Bennie Thompson is a formidable political force. But he is not immune to a national trend of younger candidates going after older incumbents.
+* 本尼·汤普森（ Bennie Thompson ）是密西西比州执政时间最长的黑人民主党人，是一支强大的政治力量。但他并不能幸免于年轻候选人追随年长现任者的全国趋势。
+* Billionaires made 19 percent of all reported federal campaign contributions in 2024, a Times analysis shows, and even more in some local elections. Wealthy donors are reaping the rewards.
+* 《泰晤士报》的分析显示， 2024年，亿万富翁占联邦竞选捐款总额的19% ，在一些地方选举中甚至更多。富有的捐赠者正在收获回报。
+* Antonio Wiley’s mother, Anita, vanished during a time when her hometown Detroit was wracked by drugs and crime. It took three decades and an extraordinary effort by a missing persons detective to locate her.
+* 安东尼奥·威利（ Antonio Wiley ）的母亲安妮塔（ Anita ）在她的家乡底特律（ Detroit ）被毒品和犯罪蹂躏期间失踪。一名失踪人员侦探花了三十年的时间和非凡的努力才找到她。
+* The attack, in the eastern Pacific, was part of a continuing campaign by the U.S. Southern Command to target people suspected of smuggling drugs by sea.
+* 此次袭击发生在东太平洋，是美国南方司令部针对海上走私毒品嫌疑人的持续行动的一部分。
+* The deaths of American troops in the Iran war are resurfacing the hurt felt by families of those lost in previous wars. “I know what they’re feeling — their whole world is falling apart,” one woman said.
+* 美国军队在伊朗战争中的死亡重新凸显了前几次战争中丧生者的家属所感受到的伤害。一位女士说： “我知道他们的感受--他们的整个世界都在分崩离析。”
+* The teacher’s family “supports getting the charges dropped for all involved,” after a planned toilet-paper prank became a fatal car accident.
+* 在计划中的厕纸恶作剧成为致命的车祸后，这位老师的家人“支持取消对所有相关人员的指控”。
 
 ## New York Times Asia News
+* The country found a home in the Middle East for its investments and growing markets for steel, electric vehicles and solar panels. Those are now at stake.
+* 该国为钢铁、电动汽车和太阳能电池板的投资和不断增长的市场在中东找到了一个家。现在这些都岌岌可危。
 * A youth-led uprising brought Nepal’s government down last year. Now, a 35-year-old politician demanding change is set to become prime minister.
 * 去年，一场由青年领导的起义导致尼泊尔政府垮台。现在，一位要求变革的35岁政治家即将成为总理。
 * U.S. and Israeli strikes on Iran have set off a crippling energy crisis and sparked deadly protests in one of the world’s most populous Muslim nations.
@@ -64,6 +66,4 @@ Auto RSS New York Times and Translate
 * 1979年，她因为贫困人口提供关怀和安慰而获得诺贝尔和平奖。
 * With a film career spanning three decades, Miss Wong, who rose to stardom with “The Thief of Baghdad,” was acclaimed as a versatile and talented performer.
 * 凭借三十年的电影生涯，在《巴格达小偷》中崭露头角的黄小姐被誉为多才多艺、才华横溢的表演者。
-* The glamorous official hostess in South Vietnam’s presidential palace, she was a politically powerful and often outspoken figure during the Vietnam War.
-* 她是南越总统府迷人的官方女主人，在越南战争期间是一位政治上强大且经常直言不讳的人物。
 
