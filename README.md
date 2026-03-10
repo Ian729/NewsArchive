@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Top clerics selected Mojtaba Khamenei to succeed his slain father, despite President Trump’s warning that he was “unacceptable.” Oil prices surged to their highest levels since the pandemic, reflecting growing alarm over a prolonged war.
-* 顶级神职人员选择莫塔巴·哈梅内伊（ Mojtaba Khamenei ）接替他被杀害的父亲，尽管特朗普总统警告说他是“不可接受的”。“油价飙升至疫情以来的最高水平，反映出对长期战争的担忧日益加剧。
+* Facing pressure after a surge in energy prices, President Trump said the war would be over “very soon.” He later said the fighting would go on for at least another week.
+* 面对能源价格飙升后的压力，特朗普总统表示，战争将“很快”结束。“他后来表示，战斗将至少持续一周。
+* His father, Ayatollah Ali Khamenei, had turned what was traditionally a religious affairs office into a shadowy national security juggernaut.
+* 他的父亲阿亚图拉·阿里·哈梅内伊（ Ayatollah Ali Khamenei ）将传统上的宗教事务办公室变成了一个阴暗的国家安全巨头。
+* Since the American-Israeli attack on Iran began, at least 12 civilians have been killed in oil-rich Gulf countries. All but one of them were foreign nationals.
+* 自美国-以色列对伊朗的袭击开始以来，至少有12名平民在石油资源丰富的海湾国家被杀害。除一人外，其他人都是外国人。
+* Balendra Shah’s party won a landslide in the election that followed Nepal’s Gen Z revolution. His style is pugnacious.
+* Balendra Shah的政党在尼泊尔Z世代革命之后的选举中赢得了压倒性优势。他的风格是好斗的。
 * Many in Iran feel helpless in the face of their entrenched system, and some are becoming increasingly embittered by the fierce American and Israeli bombardment.
 * 面对根深蒂固的制度，伊朗的许多人感到无助，一些人对美国和以色列的猛烈轰炸感到越来越痛苦。
-* As the war in Iran spreads, Kyiv is eagerly offering its hard-won expertise and advanced technology to counter Iranian drones.
-* 随着伊朗战争的蔓延，基辅急切地提供其来之不易的专业知识和先进技术来对抗伊朗无人机。
 * Ukraine’s leader, Volodymyr Zelensky, traveled east to visit frontline troops trying to stave off Russian attacks, and invited reporters for The New York Times to go with him.
 * 乌克兰领导人沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）前往东部访问前线部队，试图避免俄罗斯的袭击，并邀请《纽约时报》的记者与他一起前往。
-* The athletes, who are set to head home, were called ‘traitors’ by Iran’s state media after they didn’t sing their national anthem during a match in Australia.
-* 这些即将回家的运动员在澳大利亚的一场比赛中没有唱国歌，因此被伊朗国家媒体称为“叛徒”。
+* As the war in Iran spreads, Kyiv is eagerly offering its hard-won expertise and advanced technology to counter Iranian drones.
+* 随着伊朗战争的蔓延，基辅急切地提供其来之不易的专业知识和先进技术来对抗伊朗无人机。
 * Prosecutors accuse the former Istanbul mayor Ekrem Imamoglu of leading a criminal scheme. His supporters say Turkey’s president is trying to eliminate a political foe.
 * 检察官指控前伊斯坦布尔市长Ekrem Imamoglu领导犯罪计划。他的支持者说，土耳其总统正试图消灭一个政治敌人。
+* Ekrem Imamoglu, the former mayor of Istanbul who stands accused of corruption, clashed with the judge and criticized the trial as baseless.
+* 被指控腐败的前伊斯坦布尔市长Ekrem Imamoglu与法官发生冲突，并批评审判毫无根据。
 * Food is bringing thousands of people together to an unexpected place: a plaza west of Toronto. Some fear it’s tearing a neighborhood apart.
 * 美食将成千上万的人聚集在一个意想不到的地方：多伦多以西的广场。有些人担心这会让一个街区四分五裂。
-* With their pervasive military, political and economic clout, the Guards are often considered the main impediment to regime change, or any change, in Iran.
-* 凭借其无处不在的军事、政治和经济影响力，卫队通常被认为是伊朗政权更迭或任何变革的主要障碍。
-* A youth-led uprising brought Nepal’s government down last year. Now, a 35-year-old politician demanding change is set to become prime minister.
-* 去年，一场由青年领导的起义导致尼泊尔政府垮台。现在，一位要求变革的35岁政治家即将成为总理。
-* Brazil, China and Russia all denounced the U.S.-Israeli attacks, but other nations in the BRICS group haven’t, even though Iran is a fellow member.
-* 巴西、中国和俄罗斯都谴责美以袭击，但金砖国家集团中的其他国家却没有，尽管伊朗是其成员。
 
 ## New York Times United States News
-* The Oklahoma senator whom President Trump chose to run the Department of Homeland Security has risen in Washington by styling himself as a MAGA warrior and Trump loyalist.
-* 特朗普总统选择管理国土安全部的俄克拉荷马州参议员通过将自己塑造成MAGA战士和特朗普忠诚者而在华盛顿崛起。
-* 300 billionaires and their families spent more than $3 billion on federal elections in 2024. Here’s a snapshot of how a surging class of ultrawealthy people is spending money on political change.
-* 300名亿万富翁及其家人在2024年的联邦选举中花费了30多$。以下是一个蓬勃发展的超级富豪阶层如何在政治变革上花钱的快照。
-* James Talarico, the Democratic nominee from Texas, hopes to counter what he sees as a conservative takeover of the American church.
-* 来自德克萨斯州的民主党候选人詹姆斯·塔拉里科（ James Talarico ）希望反驳他所认为的保守派对美国教会的接管。
-* The groups are working to educate voters in the South about how they would be affected if the court strikes down a key provision of the Voting Rights Act.
-* 这些团体正在努力教育南方的选民，让他们了解如果法院推翻《投票权法》的一项关键条款，他们将如何受到影响。
-* The longest-serving Black Democrat in Mississippi, Bennie Thompson is a formidable political force. But he is not immune to a national trend of younger candidates going after older incumbents.
-* 本尼·汤普森（ Bennie Thompson ）是密西西比州执政时间最长的黑人民主党人，是一支强大的政治力量。但他并不能幸免于年轻候选人追随年长现任者的全国趋势。
-* Billionaires made 19 percent of all reported federal campaign contributions in 2024, a Times analysis shows, and even more in some local elections. Wealthy donors are reaping the rewards.
-* 《泰晤士报》的分析显示， 2024年，亿万富翁占联邦竞选捐款总额的19% ，在一些地方选举中甚至更多。富有的捐赠者正在收获回报。
-* Antonio Wiley’s mother, Anita, vanished during a time when her hometown Detroit was wracked by drugs and crime. It took three decades and an extraordinary effort by a missing persons detective to locate her.
-* 安东尼奥·威利（ Antonio Wiley ）的母亲安妮塔（ Anita ）在她的家乡底特律（ Detroit ）被毒品和犯罪蹂躏期间失踪。一名失踪人员侦探花了三十年的时间和非凡的努力才找到她。
-* The attack, in the eastern Pacific, was part of a continuing campaign by the U.S. Southern Command to target people suspected of smuggling drugs by sea.
-* 此次袭击发生在东太平洋，是美国南方司令部针对海上走私毒品嫌疑人的持续行动的一部分。
-* The deaths of American troops in the Iran war are resurfacing the hurt felt by families of those lost in previous wars. “I know what they’re feeling — their whole world is falling apart,” one woman said.
-* 美国军队在伊朗战争中的死亡重新凸显了前几次战争中丧生者的家属所感受到的伤害。一位女士说： “我知道他们的感受--他们的整个世界都在分崩离析。”
-* The teacher’s family “supports getting the charges dropped for all involved,” after a planned toilet-paper prank became a fatal car accident.
-* 在计划中的厕纸恶作剧成为致命的车祸后，这位老师的家人“支持取消对所有相关人员的指控”。
+* Shocked by the rapid price increases, many Americans are scrambling to figure out how to stretch their budgets to cover an essential expense.
+* 许多美国人对价格的快速上涨感到震惊，他们正忙于弄清楚如何扩大预算以支付基本开支。
+* It’s primary day in Mississippi, where a younger Democrat is trying to oust a House veteran, and in Georgia, where Marjorie Taylor Greene’s seat is up for grabs.
+* 在密西西比州，一名年轻的民主党人正试图驱逐一名众议院退伍军人，而在佐治亚州，马乔里·泰勒·格林（ Marjorie Taylor Greene ）的席位正在争夺。
+* While the public has historically backed military intervention initially in international conflicts, deep polarization has left the latest strikes against Iran with record-low support.
+* 虽然公众历来支持最初对国际冲突的军事干预，但深刻的两极分化使最近对伊朗的打击得到了创纪录的低支持。
+* The Trump administration, which said it is investigating harassment, sued the University of Pennsylvania after it refused a request to provide information about Jewish students and staff.
+* 特朗普政府表示正在调查骚扰事件，在拒绝提供有关犹太学生和工作人员的信息后，它起诉了宾夕法尼亚大学。
+* The Federal Aviation Administration issued a ground stop for JetBlue flights early Tuesday at the airline’s request. JetBlue later said a “system outage” had been restored and that operations had resumed.
+* 应捷蓝航空公司的要求，美国联邦航空管理局周二早些时候对捷蓝航空公司的航班进行了地面停靠。捷蓝航空后来表示， “系统故障”已恢复，运营已恢复。
+* The president said the U.S. could accompany tankers through the Strait of Hormuz if necessary to keep oil flowing. “We’ve already won in many ways, but we haven’t won enough,” he said.
+* 总统表示，如果有必要，美国可以陪同油轮通过霍尔木兹海峡，以保持石油流动。他说： “我们已经在很多方面赢了，但我们赢得不够多。”
+* The Justice Department said the president has the legal authority to overrule state regulators and reopen an offshore oil pipeline that was shut down after causing a gigantic oil spill.
+* 司法部表示，总统有法律权力推翻州监管机构，并重新开放在造成巨大漏油事件后关闭的海上石油管道。
+* In a rare joint appearance, Justices Ketanji Brown Jackson and Brett M. Kavanaugh offered sharply different views on how the court should handle emergency requests.
+* 在一次罕见的联合出庭中，法官Ketanji Brown Jackson和Brett M. Kavanaugh就法院应如何处理紧急请求提出了截然不同的看法。
+* The attack on Iran has led to a surge in energy prices at a moment when the cost of living is a major issue heading into the fall elections.
+* 对伊朗的袭击导致能源价格飙升，而在秋季选举之前，生活成本是一个主要问题。
+* After a video showed a Tomahawk missile hitting a naval base next to the school, President Trump claimed Iran possesses such weapons. But the U.S. developed the missile and has sold it only to a few close allies.
+* 在一段视频显示一枚战斧导弹击中学校旁边的海军基地后，特朗普总统声称伊朗拥有这种武器。但美国开发了这种导弹，只卖给了几个亲密的盟友。
 
 ## New York Times Asia News
+* Pakistan, Iran’s neighbor, has been striving to remain neutral in the conflict. But its government and military have been forced to act to protect its economy.
+* 伊朗的邻国巴基斯坦一直在努力在冲突中保持中立。但其政府和军方已被迫采取行动保护其经济。
+* China’s oil imports rose nearly 16 percent in the first two months of 2026, adding to its growing energy stockpile.
+* 2026年前两个月，中国的石油进口增长了近16% ，增加了其不断增长的能源储备。
+* Balendra Shah’s party won a landslide in the election that followed Nepal’s Gen Z revolution. His style is pugnacious.
+* Balendra Shah的政党在尼泊尔Z世代革命之后的选举中赢得了压倒性优势。他的风格是好斗的。
+* Concern for the safety of the players had grown after Iranian state media criticized them for not singing the national anthem at a game in Australia.
+* 在伊朗国家媒体批评他们没有在澳大利亚的一场比赛中唱国歌后，对球员安全的担忧有所增加。
+* Finance ministers for the seven industrialized countries met on Monday and said they would consider releasing oil from reserves but were not ready to do so now.
+* 七个工业化国家的财政部长周一举行会议，表示他们将考虑从储备中释放石油，但目前还不准备这样做。
+* Across Asia, where countries are highly exposed to rising oil and gas costs and tightening supply, governments are acting to mitigate economic harm.
+* 在亚洲，各国高度面临石油和天然气成本上升和供应紧张的风险，政府正在采取行动减轻经济损害。
 * The country found a home in the Middle East for its investments and growing markets for steel, electric vehicles and solar panels. Those are now at stake.
 * 该国为钢铁、电动汽车和太阳能电池板的投资和不断增长的市场在中东找到了一个家。现在这些都岌岌可危。
 * A youth-led uprising brought Nepal’s government down last year. Now, a 35-year-old politician demanding change is set to become prime minister.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 美国和以色列对伊朗的空袭引发了一场严重的能源危机，并在世界上人口最多的穆斯林国家之一引发了致命的抗议活动。
 * China is learning lessons from the war in Iran. Chief among them, the United States may pose an even greater threat than Beijing thought.
 * 中国正在从伊朗战争中吸取教训。其中最主要的是，美国可能构成比北京想象的更大的威胁。
-* A federal jury in Brooklyn convicted Asif Merchant on Friday of planning to kill American politicians, in a scheme backed by the Iranian government. Mr. Merchant faces life in prison.
-* 布鲁克林的一个联邦陪审团周五判定Asif Merchant在伊朗政府支持的计划中计划杀害美国政客。Merchant先生面临终身监禁。
-* She was the first democratically elected woman to lead a modern Muslim country.
-* 她是第一位领导现代穆斯林国家的民选女性。
-* The dominant figure in Indian politics for nearly two decades, she was elected prime minister four times before being assassinated by her bodyguards.
-* 她在印度政治中占据了近二十年的主导地位，在被她的保镖暗杀之前，她四次当选总理。
-* She rose to power in 1960 as a widow and mother of three, becoming the first woman in the world to serve as a prime minister.
-* 1960年，她作为寡妇和三个孩子的母亲上台执政，成为世界上第一位担任总理的女性。
-* She won the Nobel Peace Prize in 1979 for providing care and comfort to the impoverished.
-* 1979年，她因为贫困人口提供关怀和安慰而获得诺贝尔和平奖。
-* With a film career spanning three decades, Miss Wong, who rose to stardom with “The Thief of Baghdad,” was acclaimed as a versatile and talented performer.
-* 凭借三十年的电影生涯，在《巴格达小偷》中崭露头角的黄小姐被誉为多才多艺、才华横溢的表演者。
 
