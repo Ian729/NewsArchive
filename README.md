@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Facing pressure after a surge in energy prices, President Trump said the war would be over “very soon.” He later said the fighting would go on for at least another week.
-* 面对能源价格飙升后的压力，特朗普总统表示，战争将“很快”结束。“他后来表示，战斗将至少持续一周。
-* His father, Ayatollah Ali Khamenei, had turned what was traditionally a religious affairs office into a shadowy national security juggernaut.
-* 他的父亲阿亚图拉·阿里·哈梅内伊（ Ayatollah Ali Khamenei ）将传统上的宗教事务办公室变成了一个阴暗的国家安全巨头。
-* Since the American-Israeli attack on Iran began, at least 12 civilians have been killed in oil-rich Gulf countries. All but one of them were foreign nationals.
-* 自美国-以色列对伊朗的袭击开始以来，至少有12名平民在石油资源丰富的海湾国家被杀害。除一人外，其他人都是外国人。
-* Balendra Shah’s party won a landslide in the election that followed Nepal’s Gen Z revolution. His style is pugnacious.
-* Balendra Shah的政党在尼泊尔Z世代革命之后的选举中赢得了压倒性优势。他的风格是好斗的。
-* Many in Iran feel helpless in the face of their entrenched system, and some are becoming increasingly embittered by the fierce American and Israeli bombardment.
-* 面对根深蒂固的制度，伊朗的许多人感到无助，一些人对美国和以色列的猛烈轰炸感到越来越痛苦。
-* Ukraine’s leader, Volodymyr Zelensky, traveled east to visit frontline troops trying to stave off Russian attacks, and invited reporters for The New York Times to go with him.
-* 乌克兰领导人沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）前往东部访问前线部队，试图避免俄罗斯的袭击，并邀请《纽约时报》的记者与他一起前往。
-* As the war in Iran spreads, Kyiv is eagerly offering its hard-won expertise and advanced technology to counter Iranian drones.
-* 随着伊朗战争的蔓延，基辅急切地提供其来之不易的专业知识和先进技术来对抗伊朗无人机。
-* Prosecutors accuse the former Istanbul mayor Ekrem Imamoglu of leading a criminal scheme. His supporters say Turkey’s president is trying to eliminate a political foe.
-* 检察官指控前伊斯坦布尔市长Ekrem Imamoglu领导犯罪计划。他的支持者说，土耳其总统正试图消灭一个政治敌人。
-* Ekrem Imamoglu, the former mayor of Istanbul who stands accused of corruption, clashed with the judge and criticized the trial as baseless.
-* 被指控腐败的前伊斯坦布尔市长Ekrem Imamoglu与法官发生冲突，并批评审判毫无根据。
-* Food is bringing thousands of people together to an unexpected place: a plaza west of Toronto. Some fear it’s tearing a neighborhood apart.
-* 美食将成千上万的人聚集在一个意想不到的地方：多伦多以西的广场。有些人担心这会让一个街区四分五裂。
+* The Strait of Hormuz, a conduit for a fifth of the world’s oil, is all but closed as war in the Middle East expands. A British agency said three ships were hit by unidentified projectiles in or near the strait.
+* 霍尔木兹海峡是世界上五分之一石油的管道，随着中东战争的扩大，霍尔木兹海峡几乎已经关闭。一家英国机构称，三艘船只在海峡内或海峡附近被身份不明的射弹击中。
+* The conflict is reshaping travel patterns, energy dependencies, living costs, trade routes and diplomatic alliances.
+* 这场冲突正在重塑旅行模式、能源依赖、生活成本、贸易路线和外交联盟。
+* The police in London interviewed Virginia Giuffre three times over her allegations about Jeffrey Epstein, Andrew Mountbatten-Windsor and Ghislaine Maxwell, but never began a criminal investigation.
+* 伦敦警方就弗吉尼亚·朱弗尔（ Virginia Giuffre ）对杰弗里·爱泼斯坦（ Jeffrey Epstein ）、安德鲁·蒙巴顿-温莎（ Andrew Mountbatten-Windsor ）和吉斯莱恩·麦克斯韦（ Ghislain
+* The country has prioritized self-sufficiency in producing a crucial battlefield weapon, though weaning itself fully off cheaper Chinese components is difficult.
+* 中国在生产关键的战场武器时优先考虑自给自足，尽管完全摆脱更便宜的中国零部件是困难的。
+* Trump’s agenda for the high-stakes meeting remains unclear to Beijing, Chinese analysts say, while American executives say they haven’t been invited along.
+* 中国分析人士表示，北京方面仍不清楚特朗普高风险会议的议程，而美国高管表示，他们没有受到邀请。
+* For years, China has flown military jets near Taiwan almost daily. Then they suddenly stopped, leaving analysts to wonder why.
+* 多年来，中国几乎每天都在台湾附近使用军用喷气式飞机。然后他们突然停了下来，让分析师想知道为什么。
+* Revered cultural icons that have withstood the upheavals of history are being hit hard in the war being waged by Israel and the United States.
+* 在以色列和美国发动的战争中，经受住历史动荡的崇高文化偶像受到重创。
+* President Trump wants to strike cartels inside Mexico. In Sinaloa State, a cartel stronghold, some residents said they were willing to entertain U.S. intervention.
+* 特朗普总统希望打击墨西哥境内的卡特尔。在卡特尔据点锡那罗亚州，一些居民表示他们愿意接受美国的干预。
+* A wander through some famed watering holes in Ireland’s capital reveals a booming alcohol-free scene and a cultural shift.
+* 在爱尔兰首都的一些著名水坑中漫步，可以看到蓬勃发展的无酒精场景和文化转变。
+* Officials say Mojtaba Khamenei’s legs were hurt, but the circumstances as well as the extent of his injuries were unclear. He has remained out of view since being announced as leader three days ago.
+* 官员说， Mojtaba Khamenei的腿部受伤，但具体情况以及受伤程度尚不清楚。自从三天前被宣布为领导人以来，他一直不为人所见。
 
 ## New York Times United States News
-* Shocked by the rapid price increases, many Americans are scrambling to figure out how to stretch their budgets to cover an essential expense.
-* 许多美国人对价格的快速上涨感到震惊，他们正忙于弄清楚如何扩大预算以支付基本开支。
-* It’s primary day in Mississippi, where a younger Democrat is trying to oust a House veteran, and in Georgia, where Marjorie Taylor Greene’s seat is up for grabs.
-* 在密西西比州，一名年轻的民主党人正试图驱逐一名众议院退伍军人，而在佐治亚州，马乔里·泰勒·格林（ Marjorie Taylor Greene ）的席位正在争夺。
-* While the public has historically backed military intervention initially in international conflicts, deep polarization has left the latest strikes against Iran with record-low support.
-* 虽然公众历来支持最初对国际冲突的军事干预，但深刻的两极分化使最近对伊朗的打击得到了创纪录的低支持。
-* The Trump administration, which said it is investigating harassment, sued the University of Pennsylvania after it refused a request to provide information about Jewish students and staff.
-* 特朗普政府表示正在调查骚扰事件，在拒绝提供有关犹太学生和工作人员的信息后，它起诉了宾夕法尼亚大学。
-* The Federal Aviation Administration issued a ground stop for JetBlue flights early Tuesday at the airline’s request. JetBlue later said a “system outage” had been restored and that operations had resumed.
-* 应捷蓝航空公司的要求，美国联邦航空管理局周二早些时候对捷蓝航空公司的航班进行了地面停靠。捷蓝航空后来表示， “系统故障”已恢复，运营已恢复。
-* The president said the U.S. could accompany tankers through the Strait of Hormuz if necessary to keep oil flowing. “We’ve already won in many ways, but we haven’t won enough,” he said.
-* 总统表示，如果有必要，美国可以陪同油轮通过霍尔木兹海峡，以保持石油流动。他说： “我们已经在很多方面赢了，但我们赢得不够多。”
-* The Justice Department said the president has the legal authority to overrule state regulators and reopen an offshore oil pipeline that was shut down after causing a gigantic oil spill.
-* 司法部表示，总统有法律权力推翻州监管机构，并重新开放在造成巨大漏油事件后关闭的海上石油管道。
-* In a rare joint appearance, Justices Ketanji Brown Jackson and Brett M. Kavanaugh offered sharply different views on how the court should handle emergency requests.
-* 在一次罕见的联合出庭中，法官Ketanji Brown Jackson和Brett M. Kavanaugh就法院应如何处理紧急请求提出了截然不同的看法。
-* The attack on Iran has led to a surge in energy prices at a moment when the cost of living is a major issue heading into the fall elections.
-* 对伊朗的袭击导致能源价格飙升，而在秋季选举之前，生活成本是一个主要问题。
-* After a video showed a Tomahawk missile hitting a naval base next to the school, President Trump claimed Iran possesses such weapons. But the U.S. developed the missile and has sold it only to a few close allies.
-* 在一段视频显示一枚战斧导弹击中学校旁边的海军基地后，特朗普总统声称伊朗拥有这种武器。但美国开发了这种导弹，只卖给了几个亲密的盟友。
+* Bishop Emanuel Shaleta pleaded not guilty to stealing at least $270,000 from the St. Peter Chaldean Catholic Cathedral in El Cajon, Calif.
+* 伊曼纽尔·沙莱塔主教对从加利福尼亚州埃尔卡洪的圣彼得加色丁天主教大教堂偷走至少27万$表示不认罪。
+* The victory by Mr. Thompson, the state’s longest-serving Black Democrat, offers a counterpoint to the broader push nationwide for younger leadership in Congress.
+* 该州任职时间最长的黑人民主党人汤普森先生的胜利，为在全国范围内推动国会年轻领导人提供了一个对比。
+* The program for people traveling internationally, set to come back online at 5 a.m. Wednesday, had been paused amid the shutdown of the Homeland Security Department.
+* 计划于周三凌晨5点恢复在线的国际旅行者计划已在国土安全部关闭期间暂停。
+* In the lead-up to the U.S.-Israeli attack, President Trump downplayed the risks to the energy markets as a short-term concern that should not overshadow the mission to decapitate the Iranian regime.
+* 在美以袭击之前，特朗普总统淡化了能源市场的风险，认为这是一个短期担忧，不应掩盖斩首伊朗政权的使命。
+* The attorney general relocated from a Washington apartment to a base in the area within the past month, according to people familiar with the situation.
+* 据知情人士透露，司法部长在过去一个月内从华盛顿的一套公寓搬到了该地区的一个基地。
+* Through his lawyers, Alberto Carvalho, who was put on leave after the F.B.I. raided his home and office, said that his actions were appropriate but that he would respect the investigative process.
+* 在联邦调查局突袭他的住所和办公室后被休假的阿尔贝托·卡瓦略通过他的律师说，他的行为是适当的，但他会尊重调查过程。
+* Clayton Fuller will face Shawn Harris, a Democrat, in an April runoff. Mr. Fuller’s win over a flashier Republican showed the power of the president’s support.
+* 克莱顿·富勒（ Clayton Fuller ）将在4月的决赛中面对民主党人肖恩·哈里斯（ Shawn Harris ）。富勒先生战胜了一位更耀眼的共和党人，显示了总统支持的力量。
+* Carmen Mejia was cleared of murder in connection with the death of a baby in her care, who was scalded by hot water in 2003 in Austin, Texas. Federal officials said she will be allowed to stay in the U.S.
+* Carmen Mejia因2003年在德克萨斯州奥斯汀被热水烫伤的一名婴儿死亡而被清除谋杀。联邦官员表示，她将被允许留在美国
+* Senate Democratic leaders called on President Trump to dispatch the senior cabinet officials to make the case to Congress and the American public for the war in Iran.
+* 参议院民主党领导人呼吁特朗普总统派遣内阁高级官员向国会和美国公众说明伊朗战争的理由。
+* Iran appears to be targeting what it views as American vulnerabilities, including air defenses meant to guard troops and assets in the region.
+* 伊朗似乎正在瞄准它所认为的美国的脆弱性，包括旨在保卫该地区部队和资产的防空系统。
 
 ## New York Times Asia News
+* Trump’s agenda for the high-stakes meeting remains unclear to Beijing, Chinese analysts say, while American executives say they haven’t been invited along.
+* 中国分析人士表示，北京方面仍不清楚特朗普高风险会议的议程，而美国高管表示，他们没有受到邀请。
+* For years, China has flown military jets near Taiwan almost daily. Then they suddenly stopped, leaving analysts to wonder why.
+* 多年来，中国几乎每天都在台湾附近使用军用喷气式飞机。然后他们突然停了下来，让分析师想知道为什么。
+* Seven members of the Iranian women’s soccer delegation had initially opted to stay in Australia. The reversal was a sign of how fraught that decision was.
+* 伊朗女子足球代表团的七名成员最初选择留在澳大利亚。这种逆转表明了这一决定是多么令人担忧。
+* The concrete runway barrier played a key role in a disaster that killed 179 people. An audit revealed officials skimped on construction fees and then falsified records.
+* 混凝土跑道屏障在一场造成179人死亡的灾难中发挥了关键作用。审计显示，官员们节省了建筑费用，然后伪造了记录。
 * Pakistan, Iran’s neighbor, has been striving to remain neutral in the conflict. But its government and military have been forced to act to protect its economy.
 * 伊朗的邻国巴基斯坦一直在努力在冲突中保持中立。但其政府和军方已被迫采取行动保护其经济。
 * China’s oil imports rose nearly 16 percent in the first two months of 2026, adding to its growing energy stockpile.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 七个工业化国家的财政部长周一举行会议，表示他们将考虑从储备中释放石油，但目前还不准备这样做。
 * Across Asia, where countries are highly exposed to rising oil and gas costs and tightening supply, governments are acting to mitigate economic harm.
 * 在亚洲，各国高度面临石油和天然气成本上升和供应紧张的风险，政府正在采取行动减轻经济损害。
-* The country found a home in the Middle East for its investments and growing markets for steel, electric vehicles and solar panels. Those are now at stake.
-* 该国为钢铁、电动汽车和太阳能电池板的投资和不断增长的市场在中东找到了一个家。现在这些都岌岌可危。
-* A youth-led uprising brought Nepal’s government down last year. Now, a 35-year-old politician demanding change is set to become prime minister.
-* 去年，一场由青年领导的起义导致尼泊尔政府垮台。现在，一位要求变革的35岁政治家即将成为总理。
-* U.S. and Israeli strikes on Iran have set off a crippling energy crisis and sparked deadly protests in one of the world’s most populous Muslim nations.
-* 美国和以色列对伊朗的空袭引发了一场严重的能源危机，并在世界上人口最多的穆斯林国家之一引发了致命的抗议活动。
-* China is learning lessons from the war in Iran. Chief among them, the United States may pose an even greater threat than Beijing thought.
-* 中国正在从伊朗战争中吸取教训。其中最主要的是，美国可能构成比北京想象的更大的威胁。
 
