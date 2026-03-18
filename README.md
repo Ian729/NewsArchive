@@ -2,52 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The attack hit a drug rehabilitation facility, Afghanistan said, suggesting that its victims included civilians. Pakistan said it had targeted an ammunitions depot.
-* 阿富汗表示，这次袭击袭击了一家戒毒机构，表明受害者中包括平民。巴基斯坦表示，它瞄准了一个弹药库。
-* Ali Larijani, one of Iran’s most senior leaders, was killed in overnight strikes, Israel’s defense minister said. Iran did not immediately comment on the claim.
-* 以色列国防部长表示，伊朗最高级领导人之一阿里·拉里贾尼（ Ali Larijani ）在一夜之间的罢工中丧生。伊朗没有立即对这一说法发表评论。
+* Iranian state media confirmed the killings of Ali Larijani, who had served as Iran’s de facto leader recently, and a militia commander late Tuesday. Airstrikes rocked the Lebanese capital early Wednesday.
+* 伊朗国家媒体证实，最近担任伊朗事实上的领导人的阿里·拉里贾尼（ Ali Larijani ）和周二晚些时候的民兵指挥官被杀。星期三早些时候，空袭震惊了黎巴嫩首都。
+* The attack hit a drug rehabilitation facility, and Afghanistan vowed to retaliate, risking an escalation of the conflict between the two countries.
+* 这次袭击袭击了一家戒毒所，阿富汗发誓要进行报复，冒着两国冲突升级的风险。
 * A surge of weapons is flowing from the U.S. to Mexico. These firearms — sourced from gun shops, shows, websites and apps — are funneled across the border to fuel the country’s most violent crimes.
 * 大量武器正从美国流向墨西哥。这些枪支来自枪支商店、表演、网站和应用程序，流经边境，助长了该国最暴力的犯罪。
+* A teaching hospital and two markets in the city of Maiduguri were hit in what a military spokesman said were suicide bombings by Boko Haram.
+* 军方发言人称，博科圣地的自杀式爆炸袭击了迈杜古里市的一家教学医院和两个市场。
+* Still at war with Iran and in control in Venezuela, President Trump is signaling that he is about to intervene in another country.
+* 特朗普总统仍在与伊朗交战并控制着委内瑞拉，他表示他即将干预另一个国家。
+* One of Ayatollah Ali Khamenei’s closest confidants, Mr. Larijani emerged as the face of the government after Mr. Khamenei was killed.
+* 作为阿亚图拉·阿里·哈梅内伊最亲密的知己之一，拉里贾尼在哈梅内伊被杀后成为政府的代言人。
 * Barraged by Iranian attacks and questioning the value of security ties with the United States, nations in the Gulf have turned to Ukraine, Australia and Italy for help.
 * 在伊朗的袭击和质疑与美国的安全关系价值的抨击下，海湾国家向乌克兰、澳大利亚和意大利寻求帮助。
-* With the Xi-Trump summit almost certainly delayed, and tensions rising over the war in Iran, vital issues for both the U.S. and China are also being cast into uncertainty.
-* 随着习近平-特朗普峰会几乎可以肯定的推迟，以及伊朗战争的紧张局势加剧，美国和中国的关键问题也陷入了不确定性。
 * R.A.F. Fairford was the site of repeated antiwar protests during the Iraq war in 2003. Now it is being used again as a base for U.S. bombing missions in the Middle East.
 * 2003年伊拉克战争期间， R.A.F.费尔福德（ R.A.F. Fairford ）一再发生反战抗议活动。现在，它再次被用作美国在中东轰炸任务的基地。
-* European Union ministers and leaders pushed back on ideas to protect the strait, including expanding a maritime operation already in place in the Red Sea.
-* 欧盟部长和领导人推翻了保护海峡的想法，包括在红海扩大已经到位的海上行动。
-* The restrictions on half the continent have been called racist and unfair. “We don’t come to the United States because we’re running away,” one N.B.A. fan said.
-* 对半个大陆的限制被称为种族主义和不公平。一位NBA球迷说： “我们来美国不是因为要逃跑。”
+* With the Xi-Trump summit almost certainly delayed, and tensions rising over the war in Iran, vital issues for both the U.S. and China are also being cast into uncertainty.
+* 随着习近平-特朗普峰会几乎可以肯定的推迟，以及伊朗战争的紧张局势加剧，美国和中国的关键问题也陷入了不确定性。
 * Canada’s prime minister chooses pragmatism in a turbulent world, which means doing business with countries that do not share Canada’s democratic values. Some critics see this as weakness.
 * 加拿大总理在动荡的世界中选择实用主义，这意味着与不认同加拿大民主价值观的国家做生意。一些批评者认为这是软弱。
-* The weeklong fight over Iran’s next leader pitted the Revolutionary Guards against moderates. The generals won, but only over spirited resistance.
-* 为期一周的争夺伊朗下一任领导人的战斗使革命卫队与温和派发生冲突。将军们赢了，但只是在激烈的抵抗中。
 
 ## New York Times United States News
+* Gov. JB Pritzker invested capital, both political and the more traditional kind, in the Senate race of his lieutenant governor, Juliana Stratton. Her victory could help them both.
+* 普利兹克州长在副州长朱莉安娜·斯特拉顿（ Juliana Stratton ）的参议院竞选中投入了政治资本和更传统的资本。她的胜利可以帮助他们俩。
 * 
 * 
-* 
-* 
-* 
-* 
-* Facing a tough nomination fight in a major Senate race, Ms. Mills, the state’s governor, is attacking her Democratic rival over his old Reddit posts and a tattoo that resembled Nazi imagery.
-* 在参议院的一场重大竞选中，面对一场激烈的提名争夺战，该州州长米尔斯女士正在攻击她的民主党对手，因为他的旧Reddit帖子和一个类似于纳粹形象的纹身。
-* 
-* 
-* The first Trump administration defended cluster munitions as “legitimate,” but on Monday, Adm. Brad Cooper condemned them as “inherently indiscriminate.”
-* 第一届特朗普政府辩称集束弹药是“合法的” ，但周一，海军上将布拉德·库珀（ Brad Cooper ）谴责它们“本质上是不分青红皂白的”。
-* The Republican leader said he couldn’t overcome a filibuster but, under relentless pressure from the president and the far right, would put Democrats on the record against the restrictive voter I.D. bill.
-* 这位共和党领导人表示，他无法克服阻挠议案，但在总统和极右翼的无情压力下，他将让民主党人公开反对限制性选民身份法案。
-* The purported sighting in March 2006, covered by a local TV news station, made a lasting impression on the internet — and on Mobile, Ala.
-* 据称2006年3月的目击事件由当地一家电视新闻台报道，在互联网和阿拉巴马州莫比尔给人留下了深刻的印象。
-* An open Senate seat and several crowded House races could measure the power of the grass roots to take on the deep pockets of super PACs.
-* 一个开放的参议院席位和几个拥挤的众议院比赛可以衡量基层力量，以应对超级政治行动委员会的深层财富。
-* As the U.S.-Israel-Iran war continues, conservatism’s most famous figures  are in a rhetorical brawl over America’s role.
-* 随着美国-以色列-伊朗战争的继续，保守主义最著名的人物正在对美国的角色进行口水战。
+* Senator Markwayne Mullin of Oklahoma was chosen to replace the ousted secretary Kristi Noem and will face senators at a confirmation hearing on Wednesday.
+* 俄克拉荷马州参议员马克韦恩·穆林（ Markwayne Mullin ）被选中接替被罢免的秘书克里斯蒂·诺姆（ Kristi Noem ） ，并将在周三的确认听证会上面对参
+* In a Senate hearing on Wednesday, lawmakers are likely to ask about the information provided to the Trump administration ahead of the U.S.-Israeli war against Iran.
+* 在周三的参议院听证会上，议员们可能会询问在美以对伊战争之前向特朗普政府提供的信息。
+* An unusual heat wave is pushing temperatures in San Francisco into the 80s this week, and Los Angeles hit 98 on Tuesday.
+* 本周，一股不寻常的热浪将旧金山的气温推高至上世纪80年代，洛杉矶周二达到98度。
+* This administration has given the company, staffed by the president’s allies, multimillion-dollar contracts it was guaranteed to win.
+* 本届政府为该公司（由总统的盟友组成）提供了数百万美元的合同，它保证会赢。
+* In South Texas, two of President Trump’s top priorities, the economy and immigration, are colliding as ICE raids upend the construction industry and frustrate workers.
+* 在南德克萨斯州，特朗普总统的两个首要任务，即经济和移民，正在发生冲突，因为ICE突袭颠覆了建筑业并使工人感到沮丧。
+* Organizations linked to the pro-Israel lobbying organization had some victories and some less-than-ideal outcomes in closely watched Democratic contests.
+* 与亲以色列游说组织有联系的组织在密切关注的民主党竞选中取得了一些胜利和一些不太理想的结果。
+* Democratic voters put Lt. Gov. Juliana Stratton on a path to the Senate, while the pro-Israel lobby notched its first major victories of the year but also faced a tough defeat.
+* 民主党选民让州长朱莉安娜·斯特拉顿（ Juliana Stratton ）走上了参议院的道路，而亲以色列的游说团体在今年取得了首次重大胜利，但也面临着艰难的失败。
+* Mr. Ford, who received Mr. Davis’s endorsement, emerged from a wide field of candidates seeking to represent a district that includes the West Side of Chicago.
+* 福特先生得到了戴维斯先生的支持，他从众多候选人中脱颖而出，寻求代表一个包括芝加哥西区在内的地区。
 
 ## New York Times Asia News
-* The attack hit a drug rehabilitation facility, Afghanistan said, suggesting that its victims included civilians. Pakistan said it had targeted an ammunitions depot.
-* 阿富汗表示，这次袭击袭击了一家戒毒机构，表明受害者中包括平民。巴基斯坦表示，它瞄准了一个弹药库。
+* In Washington on Thursday, President Trump is expected to press Sanae Takaichi for military help in the Strait of Hormuz. But she faces constraints on what she can offer.
+* 预计特朗普总统将于周四在华盛顿向高市早苗施压，要求在霍尔木兹海峡提供军事援助。但她在提供什么方面面临制约因素。
+* Across Asia, a sharp drop in liquefied natural gas supplies is pushing major importers back toward coal, undermining L.N.G.’s long-held role as a stable energy anchor.
+* 在整个亚洲，液化天然气供应的急剧下降正在推动主要进口商重新转向煤炭，削弱了L.N.G.长期以来作为稳定能源锚的角色。
+* The country appears to be cracking down on people linked to the acquisition of Manus, a Singapore company with Chinese roots, as President Trump prepares to visit Beijing.
+* 随着特朗普总统准备访问北京，该国似乎正在打击与收购马努斯(Manus)有关的人。马努斯是一家有中国血统的新加坡公司。
+* Excitement about A.I. assistant tools is running into growing concerns about the security risks of software that operates autonomously on user’s devices.
+* 对人工智能助手工具的兴奋正在引起人们对在用户设备上自主运行的软件的安全风险的日益关注。
+* The attack hit a drug rehabilitation facility, and Afghanistan vowed to retaliate, risking an escalation of the conflict between the two countries.
+* 这次袭击袭击了一家戒毒所，阿富汗发誓要进行报复，冒着两国冲突升级的风险。
 * With the Xi-Trump summit almost certainly delayed, and tensions rising over the war in Iran, vital issues for both the U.S. and China are also being cast into uncertainty.
 * 随着习近平-特朗普峰会几乎可以肯定的推迟，以及伊朗战争的紧张局势加剧，美国和中国的关键问题也陷入了不确定性。
 * The administration has begun discussing a new “Board of Trade” with China to try to balance what U.S. officials see as an unequal economic relationship.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 孟加拉国正在采取措施节约电力，其工厂需要不断将世界服装缝合在一起。
 * Pakistani airstrikes have killed at least 75 civilians and displaced 115,000 in Afghanistan, with both sides vowing escalation and no talks in sight.
 * 巴基斯坦的空袭在阿富汗造成至少75名平民死亡， 11.5万人流离失所，双方都发誓要升级，而且看不到会谈。
-* Energy Secretary Chris Wright said the Strait of Hormuz, a critical passageway for oil shipments, remained unsafe for tankers. Iran has been firing projectiles and laying mines.
-* 能源部长克里斯·赖特（ Chris Wright ）表示，霍尔木兹海峡是石油运输的关键通道，对油轮来说仍然不安全。伊朗一直在发射炮弹并布设地雷。
-* Emirates, Qatar Airways and Etihad Airways have become some of the world’s largest and most profitable thanks to their location at the center of busy travel routes.
-* 阿联酋航空、卡塔尔航空和阿提哈德航空位于繁忙旅游线路的中心，已成为全球规模最大、利润最高的航空公司之一。
-* Unleashing his inner hawk, Secretary of State Marco Rubio plans President Trump’s military interventions. So far, they favor regime compliance, not change.
-* 国务卿马可·卢比奥（ Marco Rubio ）释放了他的内心鹰派，计划特朗普总统的军事干预。到目前为止，他们倾向于政权合规，而不是改变。
-* Families preparing for Eid al-Fitr and farmers ready for harvest are being squeezed in a country that gets nearly all its oil through the Persian Gulf.
-* 在一个几乎所有石油都通过波斯湾的国家，准备开斋节的家庭和准备收获的农民正在受到挤压。
 
