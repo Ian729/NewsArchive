@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Iranian state media confirmed the killings of Ali Larijani, who had served as Iran’s de facto leader recently, and a militia commander late Tuesday. Airstrikes rocked the Lebanese capital early Wednesday.
-* 伊朗国家媒体证实，最近担任伊朗事实上的领导人的阿里·拉里贾尼（ Ali Larijani ）和周二晚些时候的民兵指挥官被杀。星期三早些时候，空袭震惊了黎巴嫩首都。
-* The attack hit a drug rehabilitation facility, and Afghanistan vowed to retaliate, risking an escalation of the conflict between the two countries.
-* 这次袭击袭击了一家戒毒所，阿富汗发誓要进行报复，冒着两国冲突升级的风险。
-* A surge of weapons is flowing from the U.S. to Mexico. These firearms — sourced from gun shops, shows, websites and apps — are funneled across the border to fuel the country’s most violent crimes.
-* 大量武器正从美国流向墨西哥。这些枪支来自枪支商店、表演、网站和应用程序，流经边境，助长了该国最暴力的犯罪。
-* A teaching hospital and two markets in the city of Maiduguri were hit in what a military spokesman said were suicide bombings by Boko Haram.
-* 军方发言人称，博科圣地的自杀式爆炸袭击了迈杜古里市的一家教学医院和两个市场。
-* Still at war with Iran and in control in Venezuela, President Trump is signaling that he is about to intervene in another country.
-* 特朗普总统仍在与伊朗交战并控制着委内瑞拉，他表示他即将干预另一个国家。
-* One of Ayatollah Ali Khamenei’s closest confidants, Mr. Larijani emerged as the face of the government after Mr. Khamenei was killed.
-* 作为阿亚图拉·阿里·哈梅内伊最亲密的知己之一，拉里贾尼在哈梅内伊被杀后成为政府的代言人。
-* Barraged by Iranian attacks and questioning the value of security ties with the United States, nations in the Gulf have turned to Ukraine, Australia and Italy for help.
-* 在伊朗的袭击和质疑与美国的安全关系价值的抨击下，海湾国家向乌克兰、澳大利亚和意大利寻求帮助。
-* R.A.F. Fairford was the site of repeated antiwar protests during the Iraq war in 2003. Now it is being used again as a base for U.S. bombing missions in the Middle East.
-* 2003年伊拉克战争期间， R.A.F.费尔福德（ R.A.F. Fairford ）一再发生反战抗议活动。现在，它再次被用作美国在中东轰炸任务的基地。
-* With the Xi-Trump summit almost certainly delayed, and tensions rising over the war in Iran, vital issues for both the U.S. and China are also being cast into uncertainty.
-* 随着习近平-特朗普峰会几乎可以肯定的推迟，以及伊朗战争的紧张局势加剧，美国和中国的关键问题也陷入了不确定性。
-* Canada’s prime minister chooses pragmatism in a turbulent world, which means doing business with countries that do not share Canada’s democratic values. Some critics see this as weakness.
-* 加拿大总理在动荡的世界中选择实用主义，这意味着与不认同加拿大民主价值观的国家做生意。一些批评者认为这是软弱。
+* Refineries and gas facilities in Kuwait, Qatar and Saudi Arabia were struck, a day after Iran’s vast South Pars gas field was hit. The sustained attacks heightened fears over the war’s damage to the global economy.
+* 在伊朗广阔的南帕尔斯气田被击中的第二天，科威特、卡塔尔和沙特阿拉伯的炼油厂和天然气设施遭到袭击。持续的袭击加剧了人们对战争对全球经济损失的担忧。
+* Inflation and its consequences for growth are a growing concern for countries where memories of the 2022 energy crisis are fresh.
+* 对2022年能源危机记忆犹新的国家来说，通货膨胀及其对增长的影响越来越令人担忧。
+* European leaders are pushing Prime Minister Viktor Orban to stop blocking a €90 billion loan to Ukraine. But the issue is a rallying cry in remarkably close elections in Hungary set for April 12.
+* 欧洲领导人正在推动总理维克托·奥尔班（ Viktor Orban ）停止阻止向乌克兰提供900亿欧元的贷款。但这个问题是匈牙利定于4月12日举行的非常接近的选举中的口号。
+* The Alternative for Germany party, or AfD, is shunned in federal politics but is a regional force. This fall, it could win broader power for the first time.
+* 德国另类选择党（ AfD ）在联邦政治中被回避，但它是一支地区力量。今年秋天，它可能会首次赢得更广泛的权力。
+* Near the center of Beirut, one image captures the aftermath of an Israeli strike.
+* 在贝鲁特市中心附近，一张照片拍摄了以色列罢工的后果。
+* The TrumpRx website claims to offer the best prices for medications. Here’s where Americans still pay more — and much more.
+* TrumpRx网站声称提供最优惠的药物价格。这就是美国人仍然支付更多费用的地方，甚至更多。
+* Imprisoned for murder, Aleksandr Abbasov-Derskhan sought a new start in life and freedom by signing up to fight in Ukraine. But he says promised benefits proved illusory.
+* 亚历山大·阿巴索夫-德尔斯汗（ Aleksandr Abbasov-Derskhan ）因谋杀罪被监禁，报名参加在乌克兰的战斗，寻求生活和自由的新起点。但他表示，承诺的福利被证明是虚幻的。
+* Iran’s military retaliation, along with the political defiance of its new leaders, evokes a decades-old pattern of unrealized goals for American interventions in the region.
+* 伊朗的军事报复以及新领导人的政治反抗，唤起了美国在该地区干预的数十年未实现目标的模式。
+* At least 143 people were killed in a Pakistani airstrike that hit a drug rehabilitation facility in Kabul on Monday, according to a top U.N. official.
+* 据联合国一名高级官员称，周一，巴基斯坦空袭袭击了喀布尔的一个戒毒所，造成至少143人死亡。
+* A new law allowing abortion up to 12 weeks will be a major shift in an archipelago of 55,000 people, and there are strong feelings on both sides.
+* 一项允许堕胎长达12周的新法律将是一个拥有55,000人的群岛的重大转变，双方都有强烈的感情。
 
 ## New York Times United States News
-* Gov. JB Pritzker invested capital, both political and the more traditional kind, in the Senate race of his lieutenant governor, Juliana Stratton. Her victory could help them both.
-* 普利兹克州长在副州长朱莉安娜·斯特拉顿（ Juliana Stratton ）的参议院竞选中投入了政治资本和更传统的资本。她的胜利可以帮助他们俩。
-* 
-* 
-* Senator Markwayne Mullin of Oklahoma was chosen to replace the ousted secretary Kristi Noem and will face senators at a confirmation hearing on Wednesday.
-* 俄克拉荷马州参议员马克韦恩·穆林（ Markwayne Mullin ）被选中接替被罢免的秘书克里斯蒂·诺姆（ Kristi Noem ） ，并将在周三的确认听证会上面对参
-* In a Senate hearing on Wednesday, lawmakers are likely to ask about the information provided to the Trump administration ahead of the U.S.-Israeli war against Iran.
-* 在周三的参议院听证会上，议员们可能会询问在美以对伊战争之前向特朗普政府提供的信息。
-* An unusual heat wave is pushing temperatures in San Francisco into the 80s this week, and Los Angeles hit 98 on Tuesday.
-* 本周，一股不寻常的热浪将旧金山的气温推高至上世纪80年代，洛杉矶周二达到98度。
-* This administration has given the company, staffed by the president’s allies, multimillion-dollar contracts it was guaranteed to win.
-* 本届政府为该公司（由总统的盟友组成）提供了数百万美元的合同，它保证会赢。
-* In South Texas, two of President Trump’s top priorities, the economy and immigration, are colliding as ICE raids upend the construction industry and frustrate workers.
-* 在南德克萨斯州，特朗普总统的两个首要任务，即经济和移民，正在发生冲突，因为ICE突袭颠覆了建筑业并使工人感到沮丧。
-* Organizations linked to the pro-Israel lobbying organization had some victories and some less-than-ideal outcomes in closely watched Democratic contests.
-* 与亲以色列游说组织有联系的组织在密切关注的民主党竞选中取得了一些胜利和一些不太理想的结果。
-* Democratic voters put Lt. Gov. Juliana Stratton on a path to the Senate, while the pro-Israel lobby notched its first major victories of the year but also faced a tough defeat.
-* 民主党选民让州长朱莉安娜·斯特拉顿（ Juliana Stratton ）走上了参议院的道路，而亲以色列的游说团体在今年取得了首次重大胜利，但也面临着艰难的失败。
-* Mr. Ford, who received Mr. Davis’s endorsement, emerged from a wide field of candidates seeking to represent a district that includes the West Side of Chicago.
-* 福特先生得到了戴维斯先生的支持，他从众多候选人中脱颖而出，寻求代表一个包括芝加哥西区在内的地区。
+* Some states and cities have canceled their observances of Cesar Chavez Day on March 31. Los Angeles leaders said they planned to change the holiday to “Farm Workers Day” and untether it from Mr. Chavez’s birthday.
+* 一些州和城市取消了3月31日的塞萨尔·查韦斯日庆祝活动。洛杉矶领导人表示，他们计划将假期改为“农场工人日” ，并将其从查韦斯的生日解开。
+* Texas, Louisiana and Arkansas have passed laws requiring the posters in public schools. Several other states are considering similar measures.
+* 德克萨斯州、路易斯安那州和阿肯色州已通过法律，要求在公立学校张贴海报。其他几个州也在考虑类似的措施。
+* The billionaire Elon Musk is furiously pushing on social media for Senator John Thune, the majority leader, to pass the SAVE America Act. But so far, he hasn’t publicly spent money to promote the bill.
+* 亿万富翁埃隆·马斯克（ Elon Musk ）正在社交媒体上疯狂地推动多数党领袖约翰·图恩（ John Thune ）参议员通过“拯救美国法案”。但到目前为止，他还没有公开花钱来推动该法案。
+* Two years ago, an older driver killed a couple, their toddler and their baby as her vehicle sped through San Francisco. A judge has indicated that he intends to let her avoid prison, home detention and community service.
+* 两年前，一名年长的司机在她的车穿过旧金山时杀死了一对夫妇、他们的幼儿和他们的婴儿。一名法官表示，他打算让她避开监狱、家庭拘留和社区服务。
+* Prosecutors have struggled to prove in court what the president and his aides have repeatedly said in public: that a network of leftist activists presents a serious threat to national security.
+* 检察官一直在努力在法庭上证明总统及其助手多次在公开场合所说的话：左翼活动家网络对国家安全构成严重威胁。
+* The co-founder of the United Farm Workers talked about her relationship with Cesar Chavez, and the night he raped her.
+* 农场工人联合会的联合创始人谈到了她与塞萨尔·查韦斯的关系，以及他强奸她的那天晚上。
+* Across both of his terms, President Trump has granted clemency to more than 70 allies, donors and others convicted in fraud cases.
+* 在两届任期内，特朗普总统都对70多个盟友、捐助者和其他被判犯有欺诈罪的人给予了宽大处理。
+* Seven law enforcement officers had accused the rapper, whose name is Joseph E. Foreman, of causing them “humiliation” by using images from their 2022 raid on his Ohio home in two music videos.
+* 七名执法人员指控说唱歌手约瑟夫· E ·福尔曼（ Joseph E. Foreman ）在两段音乐视频中使用他们2022年袭击俄亥俄州家中的图像，造成他们“羞辱”。
+* Mr. Duggar, a former star of the TLC reality show, was arrested in Arkansas and was awaiting extradition to Florida, where the authorities said he molested a 9-year-old girl in 2020.
+* Duggar先生是TLC真人秀的前明星，在阿肯色州被捕，正在等待被引渡到佛罗里达州，当局称他在2020年骚扰了一名9岁的女孩。
+* Mr. Kent is under investigation for a possible intelligence leak, according to people familiar with the situation. The inquiry is said to predate his resignation this week as the top U.S. counterterrorism official.
+* 据知情人士透露，肯特先生正在接受可能的情报泄露调查。据称，此次调查是在他本周辞去美国最高反恐官员职务之前进行的。
 
 ## New York Times Asia News
+* Prime Minister Sanae Takaichi got her start in politics as an intern for a trailblazing Colorado lawmaker. She returns to Washington this week to meet with President Trump.
+* 总理高市早苗（ Sanae Takaichi ）作为一名开拓性的科罗拉多州立法者的实习生开始了她的政治生涯。她本周返回华盛顿会见特朗普总统。
+* Japan is deploying subsidies to blunt fuel price increases but remains vulnerable to the long-term economic risks of the war in the Middle East.
+* 日本正在部署补贴以遏制燃料价格上涨，但仍然容易受到中东战争的长期经济风险的影响。
+* In India, China and several other nations, Novo Nordisk is on the verge of losing patent protection for its blockbuster weight loss drug, opening the door for cheaper competing versions.
+* 在印度、中国和其他几个国家，诺和诺德即将失去其重磅减肥药的专利保护，为更便宜的竞争产品打开了大门。
+* At least 143 people were killed in a Pakistani airstrike that hit a drug rehabilitation facility in Kabul on Monday, according to a top U.N. official.
+* 据联合国一名高级官员称，周一，巴基斯坦空袭袭击了喀布尔的一个戒毒所，造成至少143人死亡。
 * In Washington on Thursday, President Trump is expected to press Sanae Takaichi for military help in the Strait of Hormuz. But she faces constraints on what she can offer.
 * 预计特朗普总统将于周四在华盛顿向高市早苗施压，要求在霍尔木兹海峡提供军事援助。但她在提供什么方面面临制约因素。
 * Across Asia, a sharp drop in liquefied natural gas supplies is pushing major importers back toward coal, undermining L.N.G.’s long-held role as a stable energy anchor.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 这次袭击袭击了一家戒毒所，阿富汗发誓要进行报复，冒着两国冲突升级的风险。
 * With the Xi-Trump summit almost certainly delayed, and tensions rising over the war in Iran, vital issues for both the U.S. and China are also being cast into uncertainty.
 * 随着习近平-特朗普峰会几乎可以肯定的推迟，以及伊朗战争的紧张局势加剧，美国和中国的关键问题也陷入了不确定性。
-* The administration has begun discussing a new “Board of Trade” with China to try to balance what U.S. officials see as an unequal economic relationship.
-* 美国政府已经开始讨论与中国建立一个新的“贸易委员会” ，试图平衡美国官员所认为的不平等经济关系。
-* President Trump warned that he could postpone a meeting set to begin in just over two weeks if China refuses to help reopen the Strait of Hormuz.
-* 特朗普总统警告说，如果中国拒绝帮助重新开放霍尔木兹海峡，他可能会推迟两周后开始的会晤。
-* Bangladesh is taking steps to conserve electricity, which its factories need to keep stitching together the world’s clothing.
-* 孟加拉国正在采取措施节约电力，其工厂需要不断将世界服装缝合在一起。
-* Pakistani airstrikes have killed at least 75 civilians and displaced 115,000 in Afghanistan, with both sides vowing escalation and no talks in sight.
-* 巴基斯坦的空袭在阿富汗造成至少75名平民死亡， 11.5万人流离失所，双方都发誓要升级，而且看不到会谈。
 
