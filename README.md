@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The price of oil eased only slightly after the Trump administration sought to calm markets. Israel said it was striking Tehran and several U.S. allies reported attacks.
-* 在特朗普政府试图让市场平静下来后，油价仅略有回落。以色列表示正在袭击德黑兰，几个美国盟友报告了袭击事件。
-* As they start a new year, Iranians are reckoning with bombardment, repression and economic misery. Still, many are holding fast to ancient traditions.
-* 在新的一年开始之际，伊朗人民正在经历轰炸、镇压和经济苦难。尽管如此，许多人仍然坚持古老的传统。
-* The United States views Iran through a prism of global responsibilities and strategic goals. Israel has a more regional approach. After nearly three weeks of war, their paths are diverging.
-* 美国通过全球责任和战略目标的棱镜来看待伊朗。以色列采取了更具区域性的做法。经过近三个星期的战争，他们的道路正在分歧。
-* In an online journal, Yousef Pezeshkian offers readers a mix of personal anecdotes and glimpses behind the scenes as Iranian leaders are picked off one after another.
-* 在一份在线期刊中， Yousef Pezeshkian为读者提供了一系列个人轶事和幕后的一瞥，因为伊朗领导人一个接一个地被挑选出来。
-* Sri Lanka did not agree to the request, officials said, and has tried to remain neutral in the U.S.-Israeli war in Iran.
-* 官员们表示，斯里兰卡不同意这一要求，并试图在美以伊朗战争中保持中立。
-* Across Southeast Asia, a region heavily dependent on energy exports brought via the Strait of Hormuz, lives are being upended by higher oil and gas prices.
-* 在整个东南亚，一个严重依赖通过霍尔木兹海峡带来的能源出口的地区，石油和天然气价格上涨正在颠覆人们的生活。
-* Maria Kalesnikava is campaigning for the West to engage with the regime in Belarus that imprisoned her for more than five years.
-* 玛丽亚·卡莱斯尼卡瓦（ Maria Kalesnikava ）正在为西方与白俄罗斯政权接触而竞选，白俄罗斯政权将她监禁了五年多。
-* The president’s company is eyeing a site for a golf course and luxury apartments. Will a huge landfill and a troubled project history stand in the way?
-* 总统的公司正在寻找高尔夫球场和豪华公寓。巨大的垃圾填埋场和陷入困境的项目历史会阻碍我们吗？
-* Pedro Sánchez, Spain’s prime minister, said the nation’s renewable energy system has softened the financial fallout from the war in Iran. The story is more complex.
-* 西班牙首相佩德罗·桑切斯（ Pedro Sánchez ）表示，该国的可再生能源系统软化了伊朗战争的财政后果。这个故事更复杂。
-* Seeking to reduce its reliance on China, the United States is pushing for a critical minerals deal with Brazil. The South American country is less eager.
-* 为了减少对中国的依赖，美国正在推动与巴西的关键矿产交易。这个南美国家不太热心。
+* Lab-made drugs soaked into the pages of letters, books and even legal documents are being smuggled behind bars, killing inmates and frustrating investigators.
+* 浸泡在信件、书籍甚至法律文件中的实验室制造的药物被走私到监狱，杀死了囚犯并使调查人员感到沮丧。
+* The move reversed earlier efforts to impose “maximum pressure” on the country and reflected how little success the Trump administration has achieved in calming global markets.
+* 此举扭转了此前对该国施加“最大压力”的努力，并反映出特朗普政府在平息全球市场方面取得的成功微乎其微。
+* The Ukrainian president has said he has a “very bad feeling” about the effects of the Iran conflict on Ukraine’s own war.
+* 乌克兰总统表示，他对伊朗冲突对乌克兰自身战争的影响有“非常不好的感觉”。
+* New research suggests that a legendary 200-mile march by Harold Godwinson, the last Anglo-Saxon king of England, may have actually involved some ships.
+* 新的研究表明，英格兰最后一位盎格鲁-撒克逊国王哈罗德·戈德温森（ Harold Godwinson ）传奇性的200英里行军实际上可能涉及一些船只。
+* The comeback by K-pop’s biggest name is being livestreamed by Netflix. The New York Times is covering the show live.
+* Netflix正在直播韩国流行音乐巨头的回归。《纽约时报》正在现场报道该节目。
+* Sri Lanka has kept more than 250 sailors in protective custody since the early days of the war. Iran wants them back, but Sri Lanka is unsure what to do with them.
+* 自战争初期以来，斯里兰卡已经对250多名水手进行了保护性拘留。伊朗希望他们回来，但斯里兰卡不确定如何处理他们。
+* Survivors jumped from windows to escape the blaze, the deadliest at a factory in South Korea in two years. Four people are still missing.
+* 幸存者跳下窗户逃离大火，这是两年来韩国一家工厂最致命的火灾。还有四人下落不明。
+* Sandro Castro has drawn scrutiny for his Instagram posts in which he flaunts a life of luxury while using satire to point out the very deterioration his family’s leadership helped create.
+* 桑德罗·卡斯特罗（ Sandro Castro ）的Instagram帖子受到了严格审查，他在帖子中炫耀奢侈的生活，同时使用讽刺来指出他的家庭领导层帮助造成的恶化。
+* The island’s government, rationing fuel amid shortages from the Iran war, surprised residents by imposing an unusual four-day week.
+* 由于伊朗战争导致燃料短缺，该岛政府实施了不寻常的四天工作周，令居民感到惊讶。
+* A former key aide to the Russian oligarch would face an investigation into her time overseeing the Premier League club should she return to soccer.
+* 如果她重返足球，这位俄罗斯寡头的前关键助手将面临对她监督英超俱乐部时间的调查。
 
 ## New York Times United States News
-* About 50 children were in federal detention in Dilley, Texas this week, down from about 500 in January. It is unclear how many were deported, but some are back at their U.S. schools.
-* 本周，德克萨斯州迪利约有50名儿童被联邦拘留，低于1月份的约500名。目前尚不清楚有多少人被驱逐出境，但有些人已经回到了美国的学校。
-* The pace of ICE arrests nationwide has topped 1,100 per day on average in 2026, but the rate of arrests has varied across the country in sometimes surprising ways.
-* 2026年，全国ICE逮捕的速度平均每天超过1,100人，但逮捕率在全国各地以有时令人惊讶的方式变化。
-* Women describe conditions that violate longstanding agency guidelines for how pregnant detainees should be treated.
-* 女性描述了违反机构关于如何对待怀孕被拘留者的长期准则的情况。
-* The National Transportation Safety Board said that it was investigating a “close call” that happened as the planes were landing on Tuesday evening.
-* 美国国家运输安全委员会表示，正在调查周二晚上飞机降落时发生的“近距离通话”。
-* The accusations of assault have rattled communities across the country that have revered the labor icon for decades.
-* 几十年来，袭击的指控令全国各地尊重劳工偶像的社区感到不安。
-* The ruling provides temporary relief for 21 states seeking to stop the Trump administration from ending federal funding to hospitals that provide gender-transition care.
-* 该裁决为21个州提供了临时救济，这些州试图阻止特朗普政府终止对提供性别过渡护理的医院的联邦资助。
-* Estefany Maria Rodriguez Florez, who works for a Spanish-language outlet, was released on bond in a case that has raised concerns about press freedom.
-* 为一家西班牙语媒体工作的Estefany Maria Rodriguez Florez在一起引起对新闻自由担忧的案件中被保释。
-* Iran launched a missile strike, a disinformation push and a cyberattack targeting Israel all at the same time, analysts say.
-* 分析人士说，伊朗同时发动了针对以色列的导弹袭击、虚假信息推送和网络攻击。
-* Many of America’s founders were fiercely against taking steps that would make its government officials appear like kings, and that included featuring them on the country’s coins.
-* 美国的许多创始人都强烈反对采取让政府官员看起来像国王的措施，其中包括将他们印在该国的硬币上。
-* After the revelations of sex abuse, the public is left to make sense of the labor leader’s work and life.
-* 在性虐待被揭露后，公众不得不理解劳工领袖的工作和生活。
+* The removals followed a New York Times investigation that revealed Chavez sexually abused women and girls.
+* 《纽约时报》的调查显示，查韦斯对女性和女孩进行了性虐待。
+* Shalom Baranes, who arrived in the U.S. as a Libyan refugee and went on to renovate the Pentagon, is baffling fellow architects for accepting the job. But he said some of his previous projects have drawn outrage too.
+* 沙洛姆·巴拉内斯（ Shalom Baranes ）作为利比亚难民抵达美国，并继续翻修五角大楼，他接受了这份工作，这让其他建筑师感到困惑。但他说，他以前的一些项目也引起了愤怒。
+* The war has complicated the Republican message on affordability. Democrats see an opportunity to drive their economic message while tying President Trump to an unpopular overseas conflict.
+* 战争使共和党关于负担能力的信息复杂化。民主党人看到了推动其经济信息的机会，同时将特朗普总统与不受欢迎的海外冲突联系起来。
+* Agronomists at Washington State University are unveiling a new apple, the Sunflare, which they say tastes as good as their Cosmic Crisp but can withstand unpredictable weather.
+* 华盛顿州立大学的农学家正在推出一种新苹果， Sunflare ，他们说它的味道和他们的Cosmic Crisp一样好，但可以承受不可预测的天气。
+* Mary Fong Lau, 80, will perform 200 hours of community service as part of her sentence. Her speeding vehicle crashed into a family as they waited for a bus ride to the zoo in 2024.
+* 作为判决的一部分， 80岁的Mary Fong Lau将进行200小时的社区服务。2024年，她的超速车辆在等待乘坐公交车前往动物园时撞向一个家庭。
+* The ruling cut deeper than left-versus-right politics, declaring that the policy imposed by Defense Secretary Pete Hegseth is unconstitutional.
+* 该裁决比左右政治更深入，宣称国防部长皮特·赫格塞斯（ Pete Hegseth ）强加的政策是违宪的。
+* Animal control officers responded to a pet-adoption facility in Lake Hughes, Calif., after receiving complaints about neglect and overcrowding. No charges have been filed.
+* 动物控制官员在收到有关忽视和过度拥挤的投诉后，对加利福尼亚州休斯湖的一个宠物收养设施做出了回应。尚未提出任何指控。
+* There are several ways the United States could attempt to reopen the waterway, all of which carry substantial risks.
+* 美国有几种方法可以尝试重新开放水道，所有这些都存在重大风险。
+* The reckoning for the labor leader’s sex abuse was swift in Fresno, Calif., the heart of the Central Valley region where the farmworker movement was born. Towns across the nation face similar debates.
+* 在加利福尼亚州弗雷斯诺，对劳工领袖性虐待的清算很快，这是中央山谷地区的心脏，农场工人运动就是在那里诞生的。全国各地的城镇都面临着类似的争论。
+* The state’s wide-open “jungle primary” has Democrats on edge.
+* 该州开放的“丛林初选”让民主党人紧张不安。
 
 ## New York Times Asia News
+* As South Korea rallies around the much-hyped comeback concert for the global superstars, some are questioning whether too many public resources are being used for a corporate production.
+* 随着韩国围绕大肆宣传的全球超级明星复出音乐会集会，一些人质疑是否过多的公共资源被用于企业生产。
+* Those without tickets arrived at the venue before the sun rose on Saturday to stake out areas that offered unobstructed views of the stage.
+* 那些没有门票的人在周六太阳升起之前抵达场地，在那里可以欣赏到畅通无阻的舞台景观。
+* Sri Lanka has kept more than 250 sailors in protective custody since the early days of the war. Iran wants them back, but Sri Lanka is unsure what to do with them.
+* 自战争初期以来，斯里兰卡已经对250多名水手进行了保护性拘留。伊朗希望他们回来，但斯里兰卡不确定如何处理他们。
+* The island’s government, rationing fuel amid shortages from the Iran war, surprised residents by imposing an unusual four-day week.
+* 由于伊朗战争导致燃料短缺，该岛政府实施了不寻常的四天工作周，令居民感到惊讶。
+* Survivors jumped from windows to escape the blaze, the deadliest at a factory in South Korea in two years. Four people are still missing.
+* 幸存者跳下窗户逃离大火，这是两年来韩国一家工厂最致命的火灾。还有四人下落不明。
+* The Danes brought blood supplies, explosives and live ammunition to Greenland as part of contingency plans in case President Trump acted on his threats to seize the island.
+* 作为应急计划的一部分，丹麦人向格陵兰岛运送了血液供应、爆炸物和实弹，以防特朗普总统威胁要夺取该岛。
+* He lived through the first atomic bombing in Japan and then spent decades researching the identities of 12 American P.O.W.s killed in the attack.
+* 他经历了日本的第一次原子弹轰炸，然后花了数十年时间研究在袭击中丧生的12名美国P.O.W.的身份。
 * The group’s new album “Arirang” includes a nod to a beloved Korean folk song and other important historical references.
 * 该集团的新专辑“Arirang”包括一首深受喜爱的韩国民歌和其他重要的历史参考。
 * The K-pop supergroup’s first show in over three years will stream live on Netflix at 7 a.m. Eastern time on Saturday. The New York Times will cover it live from Seoul.
 * 韩国流行音乐超级组合三年多来的第一场演出将于美国东部时间周六上午7点在Netflix上直播。《纽约时报》将从首尔现场直播。
 * Sri Lanka did not agree to the request, officials said, and has tried to remain neutral in the U.S.-Israeli war in Iran.
 * 官员们表示，斯里兰卡不同意这一要求，并试图在美以伊朗战争中保持中立。
-* Japanese members of some K-pop bands have been absent from recent concerts in China. Experts say that’s linked to tension between Tokyo and Beijing.
-* 一些韩国流行乐队的日本成员没有参加最近在中国举行的音乐会。专家说，这与东京和北京之间的紧张关系有关。
-* Some people criticized President Trump’s decision to invoke a painful chapter of history. Others worried it might harm U.S.-Japan relations.
-* 一些人批评特朗普总统援引历史痛苦篇章的决定。其他人则担心这可能会损害美日关系。
-* During her first visit to the White House, Prime Minister Sanae Takaichi drew praise from President Trump. But the war in the Middle East will test their relationship.
-* 在首次访问白宫期间，首相高市早苗得到了特朗普总统的赞扬。但中东战争将考验他们的关系。
-* Across Southeast Asia, a region heavily dependent on energy exports brought via the Strait of Hormuz, lives are being upended by higher oil and gas prices.
-* 在整个东南亚，一个严重依赖通过霍尔木兹海峡带来的能源出口的地区，石油和天然气价格上涨正在颠覆人们的生活。
-* One of the few paths left between the two continents threads through Azerbaijan, Georgia and Turkey, as global conflicts complicate aviation logistics.
-* 由于全球冲突使航空物流复杂化，两大洲之间为数不多的路径之一穿越阿塞拜疆、格鲁吉亚和土耳其。
-* As China and other major suppliers of refined oil in the region restrict exports, import-dependent countries are desperate to secure fuel supplies.
-* 由于中国和该地区其他主要成品油供应商限制出口，依赖进口的国家迫切需要确保燃料供应。
-* President Trump said he told Prime Minister Benjamin Netanyahu of Israel he disapproved of the attack, which sent energy markets reeling. But Israeli officials said the Americans were informed beforehand.
-* 特朗普总统表示，他告诉以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ） ，他不赞成这次袭击，这导致能源市场萎靡不振。但以色列官员表示，事先已经通知了美国人。
 
