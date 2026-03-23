@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Trump issued an ultimatum after Iranian missiles struck cities in southern Israel, including one near the country’s main nuclear research center.
-* 在伊朗导弹袭击以色列南部城市后，特朗普总统发出了最后通牒，其中包括该国主要核研究中心附近的城市。
-* The far-right party had first-round successes in several cities, but so did the far left. Sunday’s second round may clarify who has real momentum.
-* 极右翼政党在几个城市取得了第一轮的成功，但极左翼政党也是如此。周日的第二轮可能会澄清谁有真正的动力。
-* Pierre-Édouard Stérin is financing projects to make France less Muslim, more Catholic and more capitalist. He says his program has trained thousands running for municipal office on Sunday.
-* 皮埃尔-爱德华·施特林（ Pierre-Édouard Stérin ）正在资助一些项目，让法国变得更少穆斯林，更天主教，更资本主义他说，他的计划已经训练了数千人参加周日的市政办公室竞选。
-* Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying displays of wealth.
-* 由于以色列对黎巴嫩首都的袭击而流离失所的数千人现在沿着拥抱地中海的海滨长廊避难。他们与慢跑者、骑自行车者和遛狗者分享，并展示令人眼花缭乱的财富。
-* Voting starts Sunday on a referendum to overhaul Italy’s judiciary. Many people don’t understand the complex proposal — and it could hurt Prime Minister Giorgia Meloni.
-* 投票将于周日开始，旨在改革意大利司法机构的公民投票。许多人不理解这个复杂的提议，这可能会伤害总理乔治亚·梅洛尼（ Giorgia Meloni ）。
-* Molenbeek was branded a hotbed of radicalization after the Paris and Brussels terrorist attacks of a decade ago. Now it is trying to reinvent itself.
-* 在十年前的巴黎和布鲁塞尔恐怖袭击之后，莫伦贝克被称为激进主义的温床。现在，它正试图重塑自己。
-* The center-left government is being challenged by a right-wing populist accused of launching a smear campaign in the final days of a close race.
-* 中左翼政府正受到右翼民粹主义者的挑战，该民粹主义者被指控在近距离竞选的最后几天发起诽谤运动。
-* The Newroz holiday comes at a critical time, as Kurds in Turkey push for peace while their brethren in Syria and Iran fear further conflict.
-* 纽罗斯假期正值关键时刻，土耳其的库尔德人正在推动和平，而叙利亚和伊朗的库尔德人则担心进一步的冲突。
-* Filaret led a movement in Ukraine that created a schism among Orthodox believers and, ultimately, a church independent of Moscow.
-* Filaret在乌克兰领导了一场运动，在东正教信徒中造成了分裂，最终形成了一个独立于莫斯科的教会。
-* Lab-made drugs soaked into the pages of letters, books and even legal documents are being smuggled behind bars, killing inmates and frustrating investigators.
-* 浸泡在信件、书籍甚至法律文件中的实验室制造的药物被走私到监狱，杀死了囚犯并使调查人员感到沮丧。
+* President Trump said the two countries had “productive conversations regarding a complete and total resolution of our hostilities in the Middle East.” Iran did not immediately comment.
+* 特朗普总统表示，两国“就彻底彻底解决我们在中东的敌对行动进行了富有成效的对话。”伊朗没有立即发表评论。
+* Canadian soldiers transported M777 howitzers to the High Arctic to show their ability to fight in an increasingly contested part of the world. It did not go as planned.
+* 加拿大士兵将M777榴弹炮运往高北极，以展示他们在世界上竞争日益激烈的地区作战的能力。它没有按计划进行。
+* The new war has led to panic buying and a surge in food prices for Gazans as they try to recover from Israel’s two-year offensive against Hamas.
+* 新的战争导致恐慌性购买和加沙人的食品价格飙升，因为他们试图从以色列对哈马斯的两年攻势中恢复过来。
+* The war in Iran is choking off Afghanistan’s main economic lifeline and has forced at least 70,000 Afghan workers and students there back home to a nation embroiled in another conflict.
+* 伊朗的战争正在扼杀阿富汗的主要经济命脉，并迫使至少7万名阿富汗工人和学生回到这个卷入另一场冲突的国家。
+* For the past seven decades, Canada has been the junior partner in a military agreement with the United States to protect the Canadian Arctic.
+* 在过去的七十年里，加拿大一直是与美国达成军事协议以保护加拿大北极地区的初级合作伙伴。
+* Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement.
+* 乌克兰已经建立了在线市场，让部队选择自己的无人机，打破了几代标准化和集中化武器采购的局面。
+* The turnout for the K-pop titans’ show was much lower than projected by officials, hitting the bottom line of some restaurants. Shares in the group’s management company also fell.
+* 韩国流行音乐巨头秀的投票率远低于官员的预期，触及了一些餐厅的底线。集团管理公司的股票也下跌了。
+* Tensions in the opposition Nationalist Party could surface this week as lawmakers argue over additional defense funding intended to counter Beijing’s growing might.
+* 反对党国民党(Nationalist Party)的紧张局势可能会在本周浮出水面，因为议员们就旨在对抗北京日益增长的实力的额外国防资金展开争论。
+* Prime Minister Mette Frederiksen is the biggest force this country has seen in decades. The crisis in Greenland has energized her, but are voters itching for change?
+* 总理梅特·弗雷德里克森（ Mette Frederiksen ）是这个国家几十年来最大的力量。格陵兰岛的危机为她注入了活力，但选民们是否渴望变革？
+* France’s far right hoped for major gains in Sunday’s municipal elections, a key bellwether moment before a presidential election next year. Its results were mixed.
+* 法国的极右翼希望在周日的市政选举中取得重大进展，这是明年总统选举前的关键时刻。其结果好坏参半。
 
 ## New York Times United States News
-* Across the South and Southwest, where price hikes have been the most severe, drivers have lamented how the increased costs have cut into their budgets.
-* 在价格上涨最为严重的南部和西南部，司机们对成本增加如何削减预算感到遗憾。
-* Even with oil prices climbing, people in West Texas say it doesn’t feel like the start of another boom, at least not yet.
-* 即使油价攀升，西德克萨斯州的人们也表示，至少现在还不像是另一场繁荣的开始。
-* After a seven-ton fireball exploded above the Cleveland area, a group of meteorite hunters descended too, in the name of science — and possibly cash.
-* 在7吨重的火球在克利夫兰地区上空爆炸后，一群陨石猎人也以科学的名义--可能还有现金--降临了。
-* The Supreme Court is ruling on whether ballots received after Election Day should be disqualified. Our national politics reporter Nick Corasaniti explains how a Supreme Court ruling could affect hundreds of thousands of Americans in rural and urban areas.
-* 最高法院正在裁定选举日后收到的选票是否应被取消资格。我们的国家政治记者Nick Corasaniti解释了最高法院的裁决如何影响农村和城市地区的数十万美国人。
-* The Republican National Committee wants to toss ballots arriving after Election Day. Critics say thousands of votes — a majority cast by Democrats — are at stake.
-* 共和党全国委员会希望在选举日之后扔掉选票。批评人士说，数千张选票—民主党人投的多数票—受到威胁。
-* Washington’s floods in December broke records set just four years before, but as farmers, tribes, fishermen and governments search for solutions, a quick fix, dredging, seems to stand in the way.
-* 华盛顿12月份的洪水打破了四年前的记录，但随着农民、部落、渔民和政府寻求解决方案，快速修复、疏浚似乎阻碍了这一进程。
-* Mr. Beshear, the Democratic governor of Kentucky, sharply criticized Mr. Vance as both angle for potential presidential runs.
-* 肯塔基州民主党州长贝希尔尖锐地批评万斯是潜在总统竞选的两个角度。
-* The president has been known to disparage foes after their deaths. His response to Mr. Mueller’s death drew criticism from Republicans and Democrats.
-* 众所周知，总统在敌人去世后贬低他们。他对穆勒去世的回应引起了共和党人和民主党人的批评。
-* The G.O.P. senator President Trump chose to lead the Department of Homeland Security privately discussed concessions the White House has repeatedly rejected.
-* 共和党参议员特朗普总统选择领导国土安全部，私下讨论了白宫一再拒绝的让步。
-* Thousands of residents on Oahu were allowed to return home on Saturday afternoon as the storm moved to Maui.
-* 周六下午，随着风暴转移到毛伊岛，瓦胡岛上成千上万的居民被允许返回家园。
+* Riverside County Sheriff Chad Bianco, a candidate for governor, recently took possession of more than 650,000 ballots as part of a fraud probe. Election officials say his investigation is baseless.
+* 作为欺诈调查的一部分，州长候选人河滨县治安官查德·比安科（ Chad Bianco ）最近获得了超过65万张选票。选举官员说，他的调查毫无根据。
+* The case focuses on Mississippi’s mail-in ballot law, but the outcome could upend similar rules in more than a dozen states and territories.
+* 该案件的重点是密西西比州的邮寄选票法，但结果可能会颠覆十几个州和地区的类似规则。
+* Up to 200,000 people adopted as children from abroad are vulnerable to deportation by an administration searching for problems with their citizenship.
+* 多达20万人从国外被收养为儿童，很容易被寻找公民身份问题的行政当局驱逐出境。
+* Democrats have had limited political success running on the Affordable Care Act, even with its relative popularity. Now President Trump’s health care cuts may have given the issue new resonance.
+* 民主党在《平价医疗法案》（ Affordable Care Act ）上取得的政治成功有限，尽管该法案相对受欢迎。现在，特朗普总统的医疗保健削减可能给这个问题带来了新的共鸣。
+* As immigrant detentions and self-deportations soar, animal welfare groups in cities like New Orleans scramble to feed, foster and re-home the pets left behind.
+* 随着移民拘留和自我驱逐的飙升，新奥尔良等城市的动物福利团体争先恐后地喂养、寄养和重新安置留下的宠物。
+* Plus, which Western Conference team is getting shipped East?
+* 另外，哪支西部联盟球队将被运往东部？
+* In a new set of oral histories, David Plouffe, President Barack Obama’s political adviser, described how he urged Vice President Joseph R. Biden Jr. not to challenge Hillary Clinton for the nomination.
+* 巴拉克•奥巴马(Barack Obama)总统的政治顾问大卫•普劳夫(David Plouffe)在一套新的口述历史中描述了他如何敦促副总统约瑟夫• R •拜登(Joseph R. Biden Jr.)不要挑战希拉里•克林顿(Hillary Clinton
+* Sheridan Gorman, 18, was killed last week near Loyola University Chicago. The Trump administration has sought to highlight crimes committed by undocumented people in its deportation campaign.
+* 18岁的谢里登·戈尔曼（ Sheridan Gorman ）上周在芝加哥洛约拉大学（ Loyola University Chicago ）特朗普政府一直试图在驱逐出境活动中突出无证件人士犯下的罪行。
+* Republicans have largely been on defense against Democratic criticism. Here are five arguments advanced by figures in both parties.
+* 共和党人在很大程度上一直在为民主党的批评辩护。以下是双方数字提出的五个论点。
+* In recent years, more homes have added air-conditioning, something that may come in handy this week as some areas are expected to see temperatures 40 degrees above normal.
+* 近年来，越来越多的房屋增加了空调，本周可能会派上用场，因为一些地区的气温预计将比正常高出40度。
 
 ## New York Times Asia News
+* The turnout for the K-pop titans’ show was much lower than projected by officials, hitting the bottom line of some restaurants. Shares in the group’s management company also fell.
+* 韩国流行音乐巨头秀的投票率远低于官员的预期，触及了一些餐厅的底线。集团管理公司的股票也下跌了。
+* Tensions in the opposition Nationalist Party could surface this week as lawmakers argue over additional defense funding intended to counter Beijing’s growing might.
+* 反对党国民党(Nationalist Party)的紧张局势可能会在本周浮出水面，因为议员们就旨在对抗北京日益增长的实力的额外国防资金展开争论。
+* The war in Iran is choking off Afghanistan’s main economic lifeline and has forced at least 70,000 Afghan workers and students there back home to a nation embroiled in another conflict.
+* 伊朗的战争正在扼杀阿富汗的主要经济命脉，并迫使至少7万名阿富汗工人和学生回到这个卷入另一场冲突的国家。
+* Prime Minister Mette Frederiksen is the biggest force this country has seen in decades. The crisis in Greenland has energized her, but are voters itching for change?
+* 总理梅特·弗雷德里克森（ Mette Frederiksen ）是这个国家几十年来最大的力量。格陵兰岛的危机为她注入了活力，但选民们是否渴望变革？
 * Generations of Indian workers and businesses have turned the Arab side of the Gulf into a vital appendage of their own country.
 * 几代印度工人和企业已经将海湾的阿拉伯一侧变成了他们自己国家的重要附属物。
 * The group’s first concert in nearly four years — held in the historic center of Seoul — was heavy on songs from its new album. They also played a few old hits.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 自战争初期以来，斯里兰卡已经对250多名水手进行了保护性拘留。伊朗希望他们回来，但斯里兰卡不确定如何处理他们。
 * The island’s government, rationing fuel amid shortages from the Iran war, surprised residents by imposing an unusual four-day week.
 * 由于伊朗战争导致燃料短缺，该岛政府实施了不寻常的四天工作周，令居民感到惊讶。
-* Survivors jumped from windows to escape the blaze, the deadliest at a factory in South Korea in two years. Four people are still missing.
-* 幸存者跳下窗户逃离大火，这是两年来韩国一家工厂最致命的火灾。还有四人下落不明。
-* The Danes brought blood supplies, explosives and live ammunition to Greenland as part of contingency plans in case President Trump acted on his threats to seize the island.
-* 作为应急计划的一部分，丹麦人向格陵兰岛运送了血液供应、爆炸物和实弹，以防特朗普总统威胁要夺取该岛。
-* He lived through the first atomic bombing in Japan and then spent decades researching the identities of 12 American P.O.W.s killed in the attack.
-* 他经历了日本的第一次原子弹轰炸，然后花了数十年时间研究在袭击中丧生的12名美国P.O.W.的身份。
-* The group’s new album “Arirang” includes a nod to a beloved Korean folk song and other important historical references.
-* 该集团的新专辑“Arirang”包括一首深受喜爱的韩国民歌和其他重要的历史参考。
 
