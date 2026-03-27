@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Israel’s defense minister said that Alireza Tangsiri, a key player in Iran’s de facto blockade of the Strait of Hormuz, was dead. Iran has not commented on his condition.
-* 以色列国防部长表示，伊朗事实上封锁霍尔木兹海峡的关键人物Alireza Tangsiri已经死亡。伊朗没有对他的情况发表评论。
-* European politicians risk angering their voters if they join America’s war. Yet they could also face domestic upheaval if they take no action to reopen shipping routes that Iran has blocked and ease an energy crisis.
-* 如果欧洲政客加入美国的战争，他们可能会激怒选民。然而，如果他们不采取行动重新开放伊朗封锁的航线并缓解能源危机，他们也可能面临国内动荡。
-* The Trump administration had options for offloading contraceptives once destined for Africa, a newly obtained memo shows. Instead, it has let them collect dust and go bad.
-* 一份新获得的备忘录显示，特朗普政府可以选择卸下曾经运往非洲的避孕药具。相反，它让他们收集灰尘并变质。
-* The influencer, Zhang Xuefeng, was known for no-nonsense, some said cynical, advice about how to win in China’s educational rat race. He died at 41.
-* 网红张雪峰以严肃的言论而闻名，有人说他愤世嫉俗，建议如何在中国的教育竞赛中获胜。他死于41岁。
-* Hours before a call between President Trump and India’s prime minister, American officials urged India to focus on shared goals and ignore differences.
-* 在特朗普总统和印度总理通话前几个小时，美国官员敦促印度关注共同目标，忽视分歧。
-* Elderly people in isolated villages are going without medicine. One woman said she hadn’t seen a doctor in four years.
-* 偏远村庄的老年人没有药品。一位女士说，她已经四年没有看医生了。
+* President Trump has threatened to attack Iran’s power plants unless it fully reopens the Strait of Hormuz, a vital oil route, by April 6. Israel on Friday launched more strikes on Iran.
+* 特朗普总统威胁要攻击伊朗的发电厂，除非伊朗在4月6日之前完全重新开放重要的石油路线霍尔木兹海峡。以色列周五对伊朗发动了更多罢工。
+* For centuries, an Omani exclave has been defined by a peculiar duality: rugged isolation and proximity to one of the world’s most important trade routes.
+* 几个世纪以来，阿曼飞地一直被定义为一个独特的二元性：崎岖的隔离和靠近世界上最重要的贸易路线之一。
+* The authorities have made a wave of arrests to stop people posting footage of strikes, citing security risks. Experts also see a fear of damage to the countries’ image as safe havens.
+* 当局以安全风险为由进行了一波逮捕，以阻止人们发布罢工镜头。专家们还认为，人们担心这些国家作为避风港的形象会受到损害。
+* A generation ago, foreign fury over the Iraq invasion often blurred into anti-Americanism. Now, some Europeans seem ready to distinguish between the president and the American people.
+* 一代人以前，外国对伊拉克入侵的愤怒往往模糊成反美主义。现在，一些欧洲人似乎准备区分总统和美国人民。
+* A leaked report on the deadly violence and mass arson that broke out last year has put the new leader under pressure to ensure accountability.
+* 一份关于去年爆发的致命暴力和大规模纵火事件的泄露报告使这位新领导人面临确保问责制的压力。
+* Military members sharing clips on Instagram and TikTok have helped recruit badly needed new soldiers, but Bundeswehr officials said they are concerned about security.
+* 在Instagram和TikTok上分享视频的军人帮助招募了急需的新士兵，但德国联邦国防军官员表示，他们担心安全问题。
+* The Trump administration is weighing declaring Brazil’s two largest drug gangs terrorist groups, after lobbying by the sons of jailed former President Jair Bolsonaro.
+* 在被监禁的前总统贾尔·博尔索纳罗（ Jair Bolsonaro ）的儿子游说后，特朗普政府正在权衡宣布巴西最大的两个贩毒团伙恐怖组织。
+* Statehood had been a key issue in this tiny Danish archipelago before President Trump threatened Greenland. Now, Faroese voters are focused more on their own economy than geopolitics.
+* 在特朗普总统威胁格陵兰岛之前，建国一直是这个小小的丹麦群岛的一个关键问题。现在，法罗群岛选民更关注自己的经济，而不是地缘政治。
+* The name of Mr. Lee, a former police inspector, had long incited fear and hatred in the country.
+* 李先生是一名前警察督察，长期以来一直在该国煽动恐惧和仇恨。
 * Cuban health care was once the pride of the island. Now the U.S. oil blockade is upending even basic medical care.
 * 古巴的医疗保健曾经是该岛的骄傲。现在，美国的石油封锁甚至颠覆了基本的医疗服务。
-* In Cameroon, the Trump administration found a partner it could pressure into accepting covertly deported migrants.
-* 在喀麦隆，特朗普政府找到了一个合作伙伴，可以施压接受被秘密驱逐的移民。
-* Moscow’s forces are intensifying their attacks in southern Ukraine after Kyiv made rare gains along the front.
-* 在基辅在前线取得罕见进展后，莫斯科部队正在加强对乌克兰南部的袭击。
-* Stopping Iran’s production of drones is critical to opening the Strait of Hormuz and halting its attacks on Gulf nations. But can it be done?
-* 停止伊朗生产无人机对于开放霍尔木兹海峡和停止对海湾国家的攻击至关重要。但它能做到吗？
 
 ## New York Times United States News
-* Students and others are asking universities, including Harvard and Ohio State, to take down the names of high-profile donors with connections to Jeffrey Epstein. They have not done so yet.
-* 学生和其他人要求包括哈佛大学和俄亥俄州立大学在内的大学删除与杰弗里·爱泼斯坦（ Jeffrey Epstein ）有联系的知名捐赠者的名字。他们还没有这样做。
-* Federal judges are weighing strategies for how to respond to the high stakes, anonymous threats and politicized atmosphere of the Trump era.
-* 联邦法官正在权衡如何应对特朗普时代的高风险、匿名威胁和政治化氛围的策略。
-* As in other Hispanic areas of the country, voters shifted toward Republicans in 2024. But there are increasing signs that this was a blip more than a durable trend.
-* 与该国其他西班牙裔地区一样，选民在2024年转向共和党人。但越来越多的迹象表明，这只是一个昙花一现，而不是一个持久的趋势。
-* Large urban counties and the border were the most affected. And in three-quarters of U.S. counties, population growth either slowed or turned negative.
-* 受影响最大的是大城市县和边境。在美国四分之三的县，人口增长要么放缓，要么转为负增长。
-* Ahead of the midterms, President Trump told a Republican gathering that he wants to go after repeat offenders and “rogue judges that are criminals.”
-* 在中期选举之前，特朗普总统在一次共和党聚会上表示，他希望追捕惯犯和“罪犯流氓法官”。
-* It was unclear whether having agents helping with screening passengers would improve wait times. Some travelers expressed worries.
-* 目前尚不清楚让客服代表帮助筛查乘客是否会缩短等待时间。一些旅行者表达了担忧。
-* The agreement was an extraordinary example of how the Trump administration has offered legal relief to those aligned with the president.
-* 该协议是特朗普政府如何向与总统结盟的人提供法律救济的一个非同寻常的例子。
-* Seven years after leaving office, Matt Bevin, the combative ex-governor, faces charges for not providing financial records sought by his estranged son.
-* 离任七年后，好斗的前州长马特·贝文（ Matt Bevin ）因未提供其疏远的儿子所寻求的财务记录而面临指控。
-* Republicans and Democrats alike have criticized the Trump administration’s moves, taken to stabilize oil markets rocked by the war with Iran, warning that it is benefiting two U.S. adversaries.
-* 共和党和民主党都批评了特朗普政府为稳定因与伊朗的战争而动荡的石油市场而采取的举措，并警告说，这有利于两个美国对手。
-* The temporary price increase, which would take effect on April 26, comes amid a spike in fuel prices tied to the war in Iran.
-* 临时价格上涨将于4月26日生效，此时燃料价格飙升与伊朗战争有关。
+* The bill excludes funding for ICE and the Border Patrol but restores it for federal airport security workers. The House could consider the package on Friday.
+* 该法案不包括ICE和边境巡逻队的资金，但恢复了联邦机场安全工作人员的资金。众议院可以在周五考虑这个套餐。
+* Thousands of demonstrations against the Trump administration are scheduled to take place in cities and towns across the country on Saturday.
+* 计划于周六在全国各地的城镇举行数千次反对特朗普政府的示威活动。
+* Voters in Virginia will decide on April 21 whether to redraw the state’s congressional map. Turnout is even higher, thus far, than it was in last year’s governor’s election.
+* 弗吉尼亚州的选民将于4月21日决定是否重新绘制该州的国会地图。到目前为止，投票率甚至高于去年的州长选举。
+* Defense Secretary Pete Hegseth’s highly unusual decision to remove officers from a one-star promotion list has spurred allegations of racial and gender bias.
+* 国防部长皮特·赫格塞斯（ Pete Hegseth ）将军官从一星晋升名单中删除的非常不寻常的决定引发了对种族和性别偏见的指控。
+* An experiment linking college students in Boston with retirees in Reno, Nev., aims to bridge a cross-generational divide and expand positive social interactions.
+* 一项将波士顿的大学生与内华达州里诺的退休人员联系起来的实验旨在弥合跨代鸿沟，扩大积极的社交互动。
+* Markwayne Mullin, the new homeland security secretary, has promised a different approach, but how much change is likely? Our reporter Hamed Aleaziz describes what we know.
+* 新任国土安全部长马克韦恩·穆林（ Markwayne Mullin ）承诺采取不同的方法，但改变的可能性有多大？我们的记者Hamed Aleaziz描述了我们所知道的。
+* Women in their 60s and beyond will likely play a key role in choosing which Democrat will face Senator Susan Collins: Gov. Janet Mills, 78, or Graham Platner, 41.
+* 60多岁及以上的女性可能会在选择哪位民主党参议员苏珊·柯林斯（ Susan Collins ）时发挥关键作用： 78岁的州长珍妮特·米尔斯（ Janet Mills ）或41岁的格雷厄姆·普拉特纳（ Graham Pl
+* For 20 years, Tim O’Harrow has asked lawmakers to acknowledge that America’s food supply depends on immigrants. Politics went in the other direction.
+* 20年来，蒂姆·奥哈罗（ Tim O'Harrow ）一直要求立法者承认美国的粮食供应依赖于移民。政治走向了另一个方向。
+* Some conservative sheriffs have raised concerns about the aggressive enforcement tactics that Gov. Ron DeSantis, a Republican, has embraced.
+* 一些保守的治安官对共和党州长罗恩·德桑蒂斯（ Ron DeSantis ）所采取的激进执法策略表示担忧。
+* After spending over two years in a psychiatric hospital, Joshua Spriestersbach, 54, should no longer face the risk of being rearrested or jailed for the crimes of the person he was mistaken for.
+* 54岁的约书亚·施普里斯特斯巴赫（ Joshua Spriestersbach ）在精神病院住了两年多后，不应再因被误认的人的罪行而面临再次被捕或入狱的风险。
 
 ## New York Times Asia News
+* From back-street wine bars to world-class museums, new spots are sprouting up all over the world’s most visited city.
+* 从后街的葡萄酒吧到世界一流的博物馆，世界上游客最多的城市都在涌现新的景点。
+* The name of Mr. Lee, a former police inspector, had long incited fear and hatred in the country.
+* 李先生是一名前警察督察，长期以来一直在该国煽动恐惧和仇恨。
+* A leaked report on the deadly violence and mass arson that broke out last year has put the new leader under pressure to ensure accountability.
+* 一份关于去年爆发的致命暴力和大规模纵火事件的泄露报告使这位新领导人面临确保问责制的压力。
+* With a third of the global supply offline because of the war in Iran, gas companies are scrambling to assure critical A.I. chip makers there will be no disruptions.
+* 由于伊朗战争导致全球三分之一的天然气供应中断，天然气公司正在争先恐后地向关键的人工智能芯片制造商保证不会出现中断。
+* Washington, Tehran, Riyadh, Abu Dhabi, Cairo, Istanbul and Brussels have all received calls as Pakistan plays mediator between the United States and Iran.
+* 华盛顿、德黑兰、利雅得、阿布扎比、开罗、伊斯坦布尔和布鲁塞尔都接到了电话，因为巴基斯坦在美国和伊朗之间担任调解人。
+* The reprieve would ease disruptions in Malaysia’s energy supply, but the prime minister has vowed to make preparations for a more volatile future.
+* 缓刑将缓解马来西亚能源供应的中断，但总理发誓要为更加动荡的未来做好准备。
+* Steve Witkoff, a diplomatic envoy, used the Board of Peace to announce an agreement that could raze a Pakistan-owned Manhattan hotel. Now the country is involved in negotiating peace talks with Iran.
+* 外交特使史蒂夫·维特科夫（ Steve Witkoff ）利用和平委员会宣布了一项协议，该协议可能将巴基斯坦拥有的曼哈顿酒店夷为平地。现在，该国正在参与与伊朗的和平谈判谈判。
 * Elderly people in isolated villages are going without medicine. One woman said she hadn’t seen a doctor in four years.
 * 偏远村庄的老年人没有药品。一位女士说，她已经四年没有看医生了。
 * Contemporary artists from across Thailand and beyond honor the island’s rich history of applied arts.
 * 来自泰国各地及其他地区的当代艺术家向岛上丰富的应用艺术历史致敬。
 * Hours before a call between President Trump and India’s prime minister, American officials urged India to focus on shared goals and ignore differences.
 * 在特朗普总统和印度总理通话前几个小时，美国官员敦促印度关注共同目标，忽视分歧。
-* The influencer, Zhang Xuefeng, was known for no-nonsense, some said cynical, advice about how to win in China’s educational rat race. He died at 41.
-* 网红张雪峰以严肃的言论而闻名，有人说他愤世嫉俗，建议如何在中国的教育竞赛中获胜。他死于41岁。
-* A recipient of his profession’s prestigious Fields Medal, he devised an algorithm that helps solve mathematical “singularities.” It now permeates the field.
-* 作为专业著名的菲尔兹奖的获得者，他设计了一种算法来帮助解决数学“奇点”。“它现在渗透到田野里。
-* In Denmark’s election, it was local issues, not Greenland or foreign policy, that counted. That hurt the prime minister, Mette Frederiksen.
-* 在丹麦的选举中，重要的是地方问题，而不是格陵兰岛或外交政策。这伤害了总理梅特·弗雷德里克森（ Mette Frederiksen ）。
-* The Trump administration said the Middle East would “recede” in importance as the China challenge took priority. But the president started the war in Iran.
-* 特朗普政府表示，随着中国的挑战成为优先事项，中东的重要性将“退缩”。但总统在伊朗发动了战争。
-* A gallon has climbed to nearly $6 in the state, about $2 above the national average.
-* 该州的一加仑已攀升至近$ 6 ，比全国平均水平高出约$ 2。
-* Their troubles could cascade across Asia because they export a majority of their products.
-* 他们的麻烦可能会蔓延到整个亚洲，因为他们出口了大部分产品。
-* Moscow may be challenging President Trump’s effort to choke Cuba’s economy. China also has suspected listening posts on the island.
-* 莫斯科可能正在挑战特朗普总统扼杀古巴经济的努力。中国还怀疑岛上有监听站。
 
