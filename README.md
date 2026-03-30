@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* President Trump characterized the move as a “sign of respect” even as fighting between Israel and Iran continued and the war dragged into its second month.
+* 特朗普总统将这一举动描述为“尊重的标志” ，尽管以色列和伊朗之间的战斗仍在继续，战争已进入第二个月。
+* The Emirates’ largest city pitched itself to foreign workers and tourists as a sun-soaked safe haven in a volatile region. War has challenged that image.
+* 阿联酋最大的城市向外国工人和游客推销自己，作为一个动荡地区阳光普照的避风港。战争挑战了这种形象。
+* Joseph Kabila, the former president, faces the death penalty after the government convicted him of treason last year. He says the charges are bogus.
+* 前总统约瑟夫·卡比拉（ Joseph Kabila ）在去年被政府定罪为叛国罪后面临死刑。他说指控是伪造的。
+* Senior Gen. Min Aung Hlaing stepped down as commander in chief and is expected to be installed as the next civilian leader of the country by its rubber-stamp Parliament.
+* Min Aung Hlaing大将辞去总司令职务，预计将由其橡皮图章议会任命为该国的下一任文职领导人。
+* Members of President Trump’s circle, working in plain sight, have caught the eye of Denmark’s intelligence services for trying to make friends and cut deals on the Danish territory.
+* 特朗普总统的圈子成员在显而易见的情况下工作，已经引起了丹麦情报部门的注意，因为他们试图在丹麦领土上结交朋友并达成协议。
+* Gao Zhen, who emigrated to the United States years ago, was arrested during a visit to China and now faces up to three years in prison for artwork.
+* 高震多年前移居美国，在访问中国期间被捕，现在因艺术品面临长达三年的监禁。
+* The measures in Victoria and Tasmania are temporary, but show how far and how intensely the oil shock from the war in Iran has spread.
+* 维多利亚州和塔斯马尼亚州的措施是暂时的，但表明了伊朗战争带来的石油冲击已经蔓延了多远和多深。
+* The tanker full of crude oil could reach its expected destination by Monday, providing a lifeline to the island amid intense U.S. pressure.
+* 这艘满载原油的油轮可能在周一到达预期目的地，在美国的巨大压力下为该岛提供生命线。
 * A wave of strikes across the Middle East in recent days shows that Iran has not lost the capacity to retaliate.
 * 最近几天，中东各地一波又一波的罢工表明，伊朗并没有失去报复的能力。
-* The city wants to redevelop a shantytown in Gangnam district, where hundreds are defying eviction, fighting for a right to own a home in an area notorious for the exorbitant cost of housing.
-* 该市希望在江南区重建一个棚户区，那里有数百人无视驱逐，争夺在一个以高昂的住房成本而臭名昭著的地区拥有房屋的权利。
-* Israel said it launched a wave of strikes targeting infrastructure in Tehran and other areas, and Iran retaliated. Officials from Saudi Arabia, Egypt and Turkey were meeting in Pakistan in hopes of finding a way to end the war.
-* 以色列表示，它针对德黑兰和其他地区的基础设施发动了一波罢工，伊朗进行了报复。沙特阿拉伯、埃及和土耳其的官员在巴基斯坦举行会议，希望找到结束战争的方法。
-* The Ukrainian president visited the Middle East, where he sought to shift his country from a recipient of military aid to a supplier.
-* 乌克兰总统访问了中东，在那里他试图将他的国家从军事援助的受援国转变为供应国。
-* These groups’ dream has long been to establish federal autonomy, akin to that of their fellow Kurds in Iraq. With Iran’s leaders battered and degraded, they hope their moment has come.
-* 这些团体的梦想长期以来一直是建立联邦自治，类似于他们在伊拉克的同胞库尔德人的自治。随着伊朗领导人遭到殴打和贬低，他们希望自己的时刻已经到来。
-* 
-* 
-* Few islanders still observe Lent, but they cling to a tradition once seen as defying the all-powerful Roman Catholic Church.
-* 很少有岛民仍然遵守四旬期，但他们坚持曾经被视为无视全能罗马天主教会的传统。
-* Prosecutors say the police thwarted an attacker as he was trying to detonate explosives. The episode is being investigated as possible terrorism.
-* 检察官说，警方挫败了一名试图引爆爆炸物的袭击者。该事件正在作为可能的恐怖主义进行调查。
-* The foreign ministers of Saudi Arabia, Turkey and Egypt are expected in Islamabad on Sunday as the Pakistani government strives to find a diplomatic solution to the war.
-* 预计沙特阿拉伯、土耳其和埃及的外交部长将于周日在伊斯兰堡举行会议，因为巴基斯坦政府正在努力寻找战争的外交解决方案。
-* As Trump officials demand changes, Castro family members are suddenly popping up across Cuba’s political scene. Some even ask: Could one be the “Cuban Delcy?”
-* 随着特朗普官员要求改变，卡斯特罗家族成员突然出现在古巴的政治舞台上。有些人甚至问：可能是“古巴德尔西”吗？
+* Seeking a comeback after voters flocked to Mark Carney’s Liberals, the New Democrats picked Avi Lewis, a scion of a leftist political dynasty.
+* 在选民涌向马克·卡尼（ Mark Carney ）的自由党之后，新民主党人选择了左翼政治王朝的后裔阿维·刘易斯（ Avi Lewis ）。
 
 ## New York Times United States News
-* The war in Iran was a galvanizing force, but plenty of protesters focused on President Trump’s immigration crackdown. Senate candidates in several key races joined the crowds.
-* 伊朗战争是一股鼓舞人心的力量，但很多抗议者都把注意力集中在特朗普总统的移民镇压上。几个关键比赛的参议院候选人加入了人群。
-* The accident at LaGuardia has raised questions about whether the minimum standard of two air traffic controllers on overnight shifts is sufficient.
-* 拉瓜迪亚机场的事故引发了两名空中交通管制员过夜轮班的最低标准是否足够的问题。
-* In his remote headquarters, the United Farm Workers leader began to see himself as not just a union leader, but a visionary healer.
-* 在他偏远的总部，这位农场工人联合会的领导人开始认为自己不仅是一位工会领袖，而且是一位有远见的治疗师。
-* A runoff election in two months sets up a fight between an incumbent who some say is not conservative enough and a challenger trying to shed scandals.
-* 两个月的决选引发了现任总统与试图摆脱丑闻的挑战者之间的斗争，有人说现任总统不够保守。
-* As immigrant detainee deaths have increased, conditions in detention facilities nationwide are coming under more scrutiny.
-* 随着移民被拘留者死亡人数的增加，全国拘留设施的条件正在受到更多审查。
-* President Trump signed a memo late Friday ordering the Department of Homeland Security to restore pay to airport screeners.
-* 特朗普总统周五晚些时候签署了一份备忘录，命令国土安全部恢复机场安检员的薪酬。
-* Conference organizers presented the poll results as a rebuttal to narratives that Republicans were split over the Iran war and support for Israel.
-* 会议组织者提出了民意调查结果，以反驳共和党人在伊朗战争和对以色列的支持方面存在分歧的说法。
-* The deadlock that left the Department of Homeland Security shuttered highlighted Republican divisions that are flaring ahead of the midterm elections.
-* 国土安全部陷入的僵局凸显了共和党在中期选举之前爆发的分歧。
-* The urgent instructions at the Trump administration’s behest to gather and relay the files on Representative Eric Swalwell have alarmed some career law enforcement officials.
-* 特朗普政府要求收集和转发众议员埃里克·斯沃尔韦尔（ Eric Swalwell ）的文件的紧急指示令一些职业执法官员感到震惊。
-* Thousands of organized demonstrations stretched across the country. Minnesota was a focal point of the protests after a tumultuous immigration crackdown.
-* 成千上万的有组织的示威活动在全国各地蔓延。在动荡的移民镇压之后，明尼苏达州成为抗议活动的焦点。
+* Transportation Security Agency officers have called out of work or quit after weeks of not getting paid during a partial government shutdown. ICE agents have begun to fill their roles.
+* 在政府部分关闭期间，运输安全局官员在数周内没有得到报酬后，已经要求失业或辞职。ICE特工已经开始填补他们的角色。
+* Markwayne Mullin, the incoming D.H.S. secretary, faces a difficult balance: a public reset of the agency while delivering on President Trump’s deportation agenda.
+* 即将上任的国土安全部部长马克韦恩·穆林（ Markwayne Mullin ）面临着一个艰难的平衡：该机构的公开重置，同时实现特朗普总统的驱逐议程。
+* Before President Trump’s order to limit birthright citizenship, there was widespread agreement that the 14th Amendment guaranteed citizenship for U.S.-born babies.
+* 在特朗普总统下令限制与生俱来的公民身份之前，人们普遍认为，第14修正案保证了美国出生婴儿的公民身份。
+* Inmates in Texas prisons want a federal court to force the state to provide air-conditioning for all its prison cells.
+* 德克萨斯州监狱的囚犯希望联邦法院强制该州为其所有监狱牢房提供空调。
+* Plans for a wall in Big Bend National Park prompted public protests and behind-the-scenes lobbying to sway the Trump administration to stop.
+* 大弯国家公园（ Big Bend National Park ）修建隔离墙的计划引发了公众抗议和幕后游说，以动摇特朗普政府停止行动。
+* A University of North Carolina program was intended to promote civil discourse and ideological diversity. Some of its early conservative supporters say it is doing the opposite.
+* 北卡罗来纳大学的一个项目旨在促进公民话语和意识形态的多样性。它的一些早期保守派支持者表示，它正在做相反的事情。
+* The commandos have not been assigned specific roles. But President Trump has expressed concern about the now-closed Strait of Hormuz and Iran’s store of enriched uranium.
+* 尚未为突击队员分配特定角色。但特朗普总统对现已关闭的霍尔木兹海峡和伊朗的浓缩铀储存表示担忧。
+* Already pinched by the high costs of living, some families have modified how they plan to travel by road and air as the Iran war pushes gas and oil prices higher.
+* 由于高昂的生活成本，一些家庭已经改变了他们的陆路和空中旅行计划，因为伊朗战争推高了天然气和石油价格。
+* The arrival of 2,500 Marines and another 2,500 sailors is keeping the number of American troops in the region at roughly 10,000 more than usual.
+* 2,500名海军陆战队员和另外2,500名水兵的到来使美军在该地区的人数比平时增加了大约10,000人。
+* Transportation safety officers are set to be paid on Monday, but Tom Homan, the White House’s border czar, said ICE agents may stay where there are shortages.
+* 运输安全官员定于周一领取薪水，但白宫边境沙皇汤姆·霍曼（ Tom Homan ）表示， ICE特工可能会留在短缺的地方。
 
 ## New York Times Asia News
+* The planned visit by Cheng Li-wun appears designed to show Beijing’s influence and convey a benign message ahead of the summit with President Trump.
+* 郑利文计划的访问似乎旨在展示北京的影响力，并在与特朗普总统举行峰会之前传达一个温和的信息。
+* Experiencing the rawness of nature, but with an emphasis on luxury, deep in the ancient rainforests of Borneo and where Langkawi meets the Andaman Sea
+* 体验原始的大自然，但强调奢华，深入婆罗洲的古老雨林和兰卡威与安达曼海的交汇处
+* Senior Gen. Min Aung Hlaing stepped down as commander in chief and is expected to be installed as the next civilian leader of the country by its rubber-stamp Parliament.
+* Min Aung Hlaing大将辞去总司令职务，预计将由其橡皮图章议会任命为该国的下一任文职领导人。
+* With a cutoff in shipments imminent, Asian countries, the biggest importers of liquefied natural gas from the Middle East, are already burning more coal and reducing consumption.
+* 随着出货量即将截止，中东最大的液化天然气进口国亚洲国家已经在燃烧更多的煤炭并减少消费。
+* Gao Zhen, who emigrated to the United States years ago, was arrested during a visit to China and now faces up to three years in prison for artwork.
+* 高震多年前移居美国，在访问中国期间被捕，现在因艺术品面临长达三年的监禁。
 * The U.S. and other exporters are poised for a windfall, but disruptions to Persian Gulf supplies are also pushing gas-buying countries to consider alternatives like coal, solar and nuclear energy.
 * 美国和其他出口商已经准备好迎接意外收获，但波斯湾供应中断也促使天然气购买国考虑煤炭、太阳能和核能等替代能源。
 * The city wants to redevelop a shantytown in Gangnam district, where hundreds are defying eviction, fighting for a right to own a home in an area notorious for the exorbitant cost of housing.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 特朗普政府要求收集和转发众议员埃里克·斯沃尔韦尔（ Eric Swalwell ）的文件的紧急指示令一些职业执法官员感到震惊。
 * Mr. Musk’s participation was notable because it is rare for a private citizen to be on a call between heads of state. It also suggests that Mr. Musk is back on better terms with the president.
 * 马斯克的参与值得注意，因为私人公民很少在国家元首之间通话。这也表明马斯克与总统恢复了更好的关系。
-* In promoting its new album, the K-pop superstars looked back to a late-19th-century moment featuring the unofficial anthem Arirang for inspiration.
-* 在宣传其新专辑时， K-pop超级巨星回顾了19世纪晚期的时刻，其中以非官方国歌《阿里朗》为灵感。
-* A small street stall and a big restaurant chain in India rethought how to cook after the war in the Middle East squeezed their supply of liquified petroleum gas.
-* 在中东战争后，印度的一个小街头摊位和一家大型连锁餐厅重新考虑如何烹饪，挤压了他们的液化石油气供应。
-* From back-street wine bars to world-class museums, new spots are sprouting up all over the world’s most visited city.
-* 从后街的葡萄酒吧到世界一流的博物馆，世界上游客最多的城市都在涌现新的景点。
-* The name of Mr. Lee, a former police inspector, had long incited fear and hatred in the country.
-* 李先生是一名前警察督察，长期以来一直在该国煽动恐惧和仇恨。
-* A leaked report on the deadly violence and mass arson that broke out last year has put the new leader under pressure to ensure accountability.
-* 一份关于去年爆发的致命暴力和大规模纵火事件的泄露报告使这位新领导人面临确保问责制的压力。
 
