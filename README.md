@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* In his address, President Trump also repeated his threats to hit Iranian infrastructure, including electrical plants, unless a deal was struck.
-* 特朗普总统在讲话中还再次威胁要袭击伊朗的基础设施，包括发电厂，除非达成协议。
+* The strike set several refinery units ablaze, its operator said. There was no sign of a deal to end the war after President Trump threatened to destroy Iran’s infrastructure.
+* 其运营商表示，罢工点燃了几个炼油厂。在特朗普总统威胁要摧毁伊朗的基础设施后，没有达成结束战争的协议的迹象。
+* A majority of Israelis support the war with Iran, but many doubt that it will solve Israel’s long-term security problems. Some also question their prime minister’s assurances and motives.
+* 大多数以色列人支持与伊朗的战争，但许多人怀疑它能否解决以色列的长期安全问题。有些人还质疑总理的保证和动机。
+* A Times investigation found that abductions of women and girls from Syria’s Alawite minority were more common, and more brutal, than the government has acknowledged.
+* 《泰晤士报》的一项调查发现，绑架叙利亚阿拉维派少数民族妇女和女孩的现象比政府承认的更为常见，也更为残忍。
+* There is no organized opposition on the island because many critics of the regime have fled. But anti-government protests have been growing.
+* 岛上没有有组织的反对派，因为该政权的许多批评者已经逃离。但反政府抗议活动一直在增加。
+* Shanghai’s many layers of architecture, culture and politics have made it a difficult fit for the Communist Party’s preferred narrative of Chinese victimhood and Western sins.
+* 上海多层次的建筑、文化和政治使其难以适应共产党对中国受害者和西方罪恶的偏爱。
+* U Min Aung Hlaing’s elevation to the civilian post is the conclusion of elections in the country, which were stage managed by the military.
+* U Min Aung Hlaing升任文职职位是该国选举的结束，选举由军方管理。
 * While hundreds of other journalists fled into exile after Moscow’s invasion of Ukraine in 2022, the Nobel Peace Prize laureate Dmitri A. Muratov stayed. But he did not stay quiet.
 * 2022年莫斯科入侵乌克兰后，数百名其他记者流亡海外，而诺贝尔和平奖获得者德米特里· A ·穆拉托夫（ Dmitri A. Muratov ）则留下来。但他没有保持沉默。
 * The cousin, Antoine Kassis, was found guilty of conspiracy to support a terrorist group, after trying to sell weapons from the fallen regime to a Colombian militia.
 * 堂兄安托万·卡西斯（ Antoine Kassis ）在试图向哥伦比亚民兵出售堕落政权的武器后，被判犯有阴谋支持恐怖组织的罪行。
 * The U.S. space agency launched a lunar flyby Wednesday, but Beijing is pursuing its own space program with formidable focus. Here’s what we know about it, in photos and videos.
 * 美国航天局周三发射了一次月球飞越，但北京正在进行自己的太空计划，重点令人生畏。以下是我们在照片和视频中了解到的信息。
-* The Pentagon is in talks with Denmark for access to three more areas on the Arctic island. Several Greenlanders said they didn’t like the idea.
-* 五角大楼正在与丹麦就进入北极岛上另外三个地区进行谈判。几个格陵兰人说他们不喜欢这个主意。
-* A shortage of affordable housing in the coastal city in South Africa has forced many people to live far outside the city center, while tourists occupy prime real estate.
-* 南非沿海城市经济适用房短缺，迫使许多人居住在远离市中心的地方，而游客则占据了优质房地产。
-* Decades-old prison buildings were designed to be secure from the ground but not the air. Experts say that makes a lucrative smuggling trade hard to tackle.
-* 几十年前的监狱建筑被设计为在地面上而不是在空中安全。专家表示，这使得利润丰厚的走私贸易难以解决。
-* The Palestinian children were born prematurely in the early days of the war and moved from a besieged hospital to Egypt. They have now returned home to the enclave, which lies in ruins.
-* 巴勒斯坦儿童在战争初期过早出生，并从被围困的医院转移到埃及。他们现在已经回到了飞地的家园，飞地是一片废墟。
-* An Argentine woman, who is white, could face years in prison after being accused of racism. The case has set off intense debate in Argentina and Brazil.
-* 一名阿根廷白人妇女在被指控种族主义后可能面临数年的监禁。这起案件在阿根廷和巴西引发了激烈的辩论。
-* Israel has issued sweeping evacuation warnings, and pressed some Christian and Druse leaders to expel Shiite Muslims from southern towns, the leaders said.
-* 领导人表示，以色列已发出全面撤离警告，并敦促一些基督徒和德鲁斯领导人将什叶派穆斯林驱逐出南部城镇。
+* The announcement of a second shipment follows the arrival of a first oil tanker sent by the Kremlin earlier this week.
+* 在本周早些时候克里姆林宫派出的第一艘油轮抵达后，宣布了第二批油轮。
 
 ## New York Times United States News
-* A 4.6-magnitude quake struck near Boulder Creek, Calif., early Thursday.
-* 周四早些时候，加利福尼亚州博尔德溪附近发生了一场4.6级地震。
-* As Robert F. Kennedy Jr. calls for medical schools to redesign curriculums, an agency that oversees dozens has deleted diversity standards and added nutrition.
-* 当小罗伯特· F ·肯尼迪（ Robert F. Kennedy Jr. ）呼吁医学院重新设计课程时，一个负责监督数十个课程的机构删除了多样性标准，并增加了营养。
-* The Democratic fund-raising group is facing investigations from the Justice Department and congressional Republicans ahead of the midterm elections.
-* 在中期选举之前，民主党筹款小组正面临司法部和国会共和党人的调查。
-* Adherents to biblical patriarchy support household voting: One household, one vote — the husband’s. They say the idea is catching on.
-* 圣经父权制的拥护者支持家庭投票：一户一票--丈夫的。他们说这个想法正在流行。
-* Prosecutors in Galveston County say that in the 1980s, a man killed a teenager and helped hide the remains of a woman, two of the dozens of bodies found on land known as the Texas Killing Fields.
-* 加尔维斯顿县的检察官说，在20世纪80年代，一名男子杀害了一名青少年，并帮助隐藏了一名妇女的遗体，这是在被称为德克萨斯杀戮场的土地上发现的数十具尸体中的两具。
-* President Trump did not define a clear path out of the conflict, which he estimated would end within three weeks.
-* 特朗普总统没有明确界定摆脱冲突的途径，他估计冲突将在三周内结束。
-* The president made his case for the U.S. attack, and said that the main objectives had been achieved.
-* 总统为美国的袭击辩护，并表示主要目标已经实现。
-* A federal judge in California ordered agents to thoroughly document any future stops in an area spanning 34 counties.
-* 加利福尼亚州的一名联邦法官命令特工彻底记录未来在34个县的地区停留的任何情况。
-* The man made multiple threats on Facebook and said that the law enforcement agents responding to arrest him would be killed, officials said.
-* 官员说，这名男子在Facebook上发出了多次威胁，并表示回应逮捕他的执法人员将被杀害。
-* Removing sanctions would allow Delcy Rodríguez, the country’s acting leader, to conduct business with U.S. companies and potentially meet with President Trump.
-* 取消制裁将使该国代理领导人德尔西·罗德里格斯（ Delcy Rodríguez ）能够与美国公司开展业务，并可能与特朗普总统会面。
+* Demand Justice plans to tie Republicans running for Senate this year to a possible fight to fill vacancies that could emerge on the Supreme Court.
+* Demand Justice计划将今年竞选参议院的共和党人与可能的斗争联系起来，以填补最高法院可能出现的空缺。
+* The left is creating new, obscure nonprofits to funnel hundreds of millions of dollars into politics and advocacy.
+* 左翼正在创建新的、晦涩难懂的非营利组织，将数亿美元用于政治和宣传。
+* As Muslim private schools try to join Texas’ new voucher program, top Republicans have vowed to stop what they call “radical Islamic indoctrination.”
+* 随着穆斯林私立学校试图加入德克萨斯州的新代金券计划，共和党高层发誓要停止他们所谓的“激进的伊斯兰教化”。
+* Using philanthropy for campaign donations is illegal. But an exception for some nonprofits has allowed Democratic billionaires like Bill Gates and Michael Bloomberg to remain anonymous when they want to play politics.
+* 使用慈善事业进行竞选捐款是非法的。但一些非营利组织的例外情况是，比尔·盖茨(Bill Gates)和迈克尔·布隆伯格(Michael Bloomberg)等民主党亿万富翁在玩政治游戏时可以保持匿名。
+* The state legislature failed to push back a deadline that requires Georgia to get rid of its current voting system and find a new one — all before November.
+* 州立法机构未能推迟要求格鲁吉亚在11月之前取消现行投票制度并找到新投票制度的最后期限。
+* Pam Bondi had a feeling her days as attorney general were numbered. But she didn’t expect President Trump to drop the curtain quite so soon.
+* 帕姆·邦迪（ Pam Bondi ）有一种感觉，她作为司法部长的日子已经屈指可数了。但她没想到特朗普总统这么快就落幕了。
+* The hip-hop titan was forced to sign papers releasing a rapper known as Pooh Shiesty from his record contract during an armed confrontation in January at a Dallas music studio, officials said.
+* 官员说，这位嘻哈巨人被迫签署文件，在1月份在达拉斯音乐工作室举行的武装对抗中释放了一名名叫Pooh Shiesty的说唱歌手。
+* Many shootings at military bases have involved troops bringing guns they purchased onto base grounds and opening fire on fellow service members.
+* 军事基地的许多枪击事件都涉及部队将他们购买的枪支带到基地，并向其他服务人员开火。
+* President Trump is asking U.S. allies to “go to” the Strait of Hormuz “and just take it.” Eric Schmitt, our national security correspondent, explains how difficult it would be to clear the strait by force.
+* 特朗普总统要求美国盟友“前往”霍尔木兹海峡“并接受它。“我们的国家安全记者埃里克·施密特（ Eric Schmitt ）解释说，用武力清理海峡是多么困难。
+* Senior Army officers reacted with anger and frustration to news of Gen. Randy George’s dismissal, characterizing it as the latest blow to the service.
+* 陆军高级军官对兰迪·乔治将军被解雇的消息感到愤怒和沮丧，称这是对军队的最新打击。
 
 ## New York Times Asia News
+* U Min Aung Hlaing’s elevation to the civilian post is the conclusion of elections in the country, which were stage managed by the military.
+* U Min Aung Hlaing升任文职职位是该国选举的结束，选举由军方管理。
+* Shanghai’s many layers of architecture, culture and politics have made it a difficult fit for the Communist Party’s preferred narrative of Chinese victimhood and Western sins.
+* 上海多层次的建筑、文化和政治使其难以适应共产党对中国受害者和西方罪恶的偏爱。
+* With Jane Goodall and Dian Fossey, she was one of three prominent researchers of great apes who were sometimes called the “trimates.”
+* 与简·古道尔（ Jane Goodall ）和黛安·福西（ Dian Fossey ）一起，她是三位杰出的类人猿研究人员之一，他们有时被称为“修剪物”。
+* A hiker in New Zealand fell 180 feet down a waterfall and was evacuated without her dog. A crowd-funded rescue effort reunited them.
+* 新西兰的一名徒步旅行者从180英尺高的瀑布上坠落，在没有狗的情况下被疏散。群众资助的救援工作使他们重新团聚。
 * The U.S. space agency launched a lunar flyby Wednesday, but Beijing is pursuing its own space program with formidable focus. Here’s what we know about it, in photos and videos.
 * 美国航天局周三发射了一次月球飞越，但北京正在进行自己的太空计划，重点令人生畏。以下是我们在照片和视频中了解到的信息。
 * Any decision by Iran to keep fighting would complicate President Trump’s stated goal of trying to end the war within weeks.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 澳大利亚总理安东尼·阿尔巴尼斯（ Anthony Albanese ）在周三罕见的全国讲话中恳求澳大利亚人不要对燃油价格上涨感到恐慌。
 * The competition will bring together singers representing 10 nations including South Korea, the Philippines and Vietnam.
 * 比赛将汇集来自韩国、菲律宾和越南等10个国家的歌手。
-* Attire spotted outside in Tokyo had a past life as military gear.
-* 在东京外面发现的服装曾经是军事装备。
-* Indonesia says the two companies are violating its law that bars children under 16 from the social media. Australia has similar concerns.
-* 印度尼西亚表示，这两家公司违反了禁止16岁以下儿童使用社交媒体的法律。澳大利亚也有类似的担忧。
-* Four visiting senators urged Taiwan to break an impasse over a $40 billion budget proposal, highlighting concerns in Washington about the threat from China.
-* 四名来访的参议员敦促台湾打破400亿美元预算提案的僵局，突显了华盛顿对中国威胁的担忧。
-* Experts use artificial intelligence to analyze data, plus thousands of crowdsourced photos, to forecast the prized flowers, which are a multibillion-dollar attraction.
-* 专家们使用人工智能来分析数据，加上成千上万的众包照片，来预测珍贵的花朵，这是一个价值数十亿美元的景点。
 
