@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The strike set several refinery units ablaze, its operator said. There was no sign of a deal to end the war after President Trump threatened to destroy Iran’s infrastructure.
-* 其运营商表示，罢工点燃了几个炼油厂。在特朗普总统威胁要摧毁伊朗的基础设施后，没有达成结束战争的协议的迹象。
-* A majority of Israelis support the war with Iran, but many doubt that it will solve Israel’s long-term security problems. Some also question their prime minister’s assurances and motives.
-* 大多数以色列人支持与伊朗的战争，但许多人怀疑它能否解决以色列的长期安全问题。有些人还质疑总理的保证和动机。
-* A Times investigation found that abductions of women and girls from Syria’s Alawite minority were more common, and more brutal, than the government has acknowledged.
-* 《泰晤士报》的一项调查发现，绑架叙利亚阿拉维派少数民族妇女和女孩的现象比政府承认的更为常见，也更为残忍。
+* The White House has turned deportations, a signature domestic issue, into a major piece of foreign policy. Here’s what we know about the program.
+* 白宫已将驱逐出境（这是一个标志性的国内问题）变成了一项重要的外交政策。以下是我们对该计划的了解。
+* Families gathered for picnics and games this week to mark the end of the Iranian new year holiday, seizing on a brief chance to celebrate.
+* 本周，家人聚集在一起野餐和游戏，纪念伊朗新年假期的结束，抓住短暂的机会庆祝。
+* Iran downed an F-15E, the first U.S. warplane the country has shot down in the war. In southwest Iran, one person was killed when a projectile struck the perimeter of a nuclear power plant, Iranian media reported.
+* 伊朗击落了一架F-15E ，这是该国在战争中击落的第一架美国战机。据伊朗媒体报道，在伊朗西南部，一枚射弹击中核电站周边，造成一人死亡。
+* European leaders and other officials have ideas for bringing shipping back to the strait once the Iran war ends. But none of them are sure bets.
+* 欧洲领导人和其他官员有在伊朗战争结束后将航运带回海峡的想法。但没有一个是肯定的赌注。
+* The convicted sex offender gave Anil Ambani information on appointments and foreign policy. Some seemed prescient, though there was no evidence he was close to the administration.
+* 被定罪的性犯罪者向Anil Ambani提供了有关任命和外交政策的信息。有些人似乎有先见之明，但没有证据表明他与政府关系密切。
+* An F-15E Strike Eagle was lost to enemy fire and an A-10 Warthog crashed in the Persian Gulf region on Friday, officials said. A rescue helicopter was also fired upon.
+* 官员说，一架F-15E “攻击鹰”在敌人的炮火中丧生，一架A-10 “疣猪”周五在波斯湾地区坠毁。一架救援直升机也遭到射击。
+* Ronald Young Jr. was in the Army when his Apache Longbow copter went down during the U.S. invasion of Iraq.
+* 小罗纳德·杨（ Ronald Young Jr. ）在美国入侵伊拉克期间，他的阿帕奇长弓直升机在陆军中坠毁。
 * There is no organized opposition on the island because many critics of the regime have fled. But anti-government protests have been growing.
 * 岛上没有有组织的反对派，因为该政权的许多批评者已经逃离。但反政府抗议活动一直在增加。
-* Shanghai’s many layers of architecture, culture and politics have made it a difficult fit for the Communist Party’s preferred narrative of Chinese victimhood and Western sins.
-* 上海多层次的建筑、文化和政治使其难以适应共产党对中国受害者和西方罪恶的偏爱。
-* U Min Aung Hlaing’s elevation to the civilian post is the conclusion of elections in the country, which were stage managed by the military.
-* U Min Aung Hlaing升任文职职位是该国选举的结束，选举由军方管理。
-* While hundreds of other journalists fled into exile after Moscow’s invasion of Ukraine in 2022, the Nobel Peace Prize laureate Dmitri A. Muratov stayed. But he did not stay quiet.
-* 2022年莫斯科入侵乌克兰后，数百名其他记者流亡海外，而诺贝尔和平奖获得者德米特里· A ·穆拉托夫（ Dmitri A. Muratov ）则留下来。但他没有保持沉默。
-* The cousin, Antoine Kassis, was found guilty of conspiracy to support a terrorist group, after trying to sell weapons from the fallen regime to a Colombian militia.
-* 堂兄安托万·卡西斯（ Antoine Kassis ）在试图向哥伦比亚民兵出售堕落政权的武器后，被判犯有阴谋支持恐怖组织的罪行。
-* The U.S. space agency launched a lunar flyby Wednesday, but Beijing is pursuing its own space program with formidable focus. Here’s what we know about it, in photos and videos.
-* 美国航天局周三发射了一次月球飞越，但北京正在进行自己的太空计划，重点令人生畏。以下是我们在照片和视频中了解到的信息。
-* The announcement of a second shipment follows the arrival of a first oil tanker sent by the Kremlin earlier this week.
-* 在本周早些时候克里姆林宫派出的第一艘油轮抵达后，宣布了第二批油轮。
+* A Times investigation found that abductions of women and girls from Syria’s Alawite minority were more common, and more brutal, than the government has acknowledged.
+* 《泰晤士报》的一项调查发现，绑架叙利亚阿拉维派少数民族妇女和女孩的现象比政府承认的更为常见，也更为残忍。
+* Rima Hassan, a member of the European Parliament, could face seven years in prison for the post, in which she quoted a perpetrator of a 1972 massacre in Israel.
+* 欧洲议会议员里马·哈桑（ Rima Hassan ）可能因该职位而面临七年监禁，她引用了1972年以色列大屠杀的肇事者的话。
 
 ## New York Times United States News
-* Demand Justice plans to tie Republicans running for Senate this year to a possible fight to fill vacancies that could emerge on the Supreme Court.
-* Demand Justice计划将今年竞选参议院的共和党人与可能的斗争联系起来，以填补最高法院可能出现的空缺。
-* The left is creating new, obscure nonprofits to funnel hundreds of millions of dollars into politics and advocacy.
-* 左翼正在创建新的、晦涩难懂的非营利组织，将数亿美元用于政治和宣传。
-* As Muslim private schools try to join Texas’ new voucher program, top Republicans have vowed to stop what they call “radical Islamic indoctrination.”
-* 随着穆斯林私立学校试图加入德克萨斯州的新代金券计划，共和党高层发誓要停止他们所谓的“激进的伊斯兰教化”。
-* Using philanthropy for campaign donations is illegal. But an exception for some nonprofits has allowed Democratic billionaires like Bill Gates and Michael Bloomberg to remain anonymous when they want to play politics.
-* 使用慈善事业进行竞选捐款是非法的。但一些非营利组织的例外情况是，比尔·盖茨(Bill Gates)和迈克尔·布隆伯格(Michael Bloomberg)等民主党亿万富翁在玩政治游戏时可以保持匿名。
-* The state legislature failed to push back a deadline that requires Georgia to get rid of its current voting system and find a new one — all before November.
-* 州立法机构未能推迟要求格鲁吉亚在11月之前取消现行投票制度并找到新投票制度的最后期限。
-* Pam Bondi had a feeling her days as attorney general were numbered. But she didn’t expect President Trump to drop the curtain quite so soon.
-* 帕姆·邦迪（ Pam Bondi ）有一种感觉，她作为司法部长的日子已经屈指可数了。但她没想到特朗普总统这么快就落幕了。
-* The hip-hop titan was forced to sign papers releasing a rapper known as Pooh Shiesty from his record contract during an armed confrontation in January at a Dallas music studio, officials said.
-* 官员说，这位嘻哈巨人被迫签署文件，在1月份在达拉斯音乐工作室举行的武装对抗中释放了一名名叫Pooh Shiesty的说唱歌手。
-* Many shootings at military bases have involved troops bringing guns they purchased onto base grounds and opening fire on fellow service members.
-* 军事基地的许多枪击事件都涉及部队将他们购买的枪支带到基地，并向其他服务人员开火。
-* President Trump is asking U.S. allies to “go to” the Strait of Hormuz “and just take it.” Eric Schmitt, our national security correspondent, explains how difficult it would be to clear the strait by force.
-* 特朗普总统要求美国盟友“前往”霍尔木兹海峡“并接受它。“我们的国家安全记者埃里克·施密特（ Eric Schmitt ）解释说，用武力清理海峡是多么困难。
-* Senior Army officers reacted with anger and frustration to news of Gen. Randy George’s dismissal, characterizing it as the latest blow to the service.
-* 陆军高级军官对兰迪·乔治将军被解雇的消息感到愤怒和沮丧，称这是对军队的最新打击。
+* The name atop the Justice Department’s organizational chart matters less than the presence of a president whose demands for revenge have become so extreme that even his most obsequious appointees have fallen short.
+* 司法部组织结构图上的名字比总统的存在更重要，总统对报复的要求已经变得如此极端，以至于即使是他最恭顺的被任命者也落空了。
+* President Trump bet that American firepower could cow Iran into compliance. So far, Iran’s leaders have been unwilling to quit.
+* 特朗普总统打赌，美国的火力可能会让伊朗遵守规定。到目前为止，伊朗领导人一直不愿意退出。
+* The Artemis II mission elicited deep feelings for many Americans, particularly in Houston, the home of mission control.
+* 阿尔忒弥斯二号任务引起了许多美国人的深切感情，特别是在任务控制中心休斯顿。
+* Politically disconnected young men, especially Latinos, helped fuel President Trump’s victory, but in this economy, they could move to unconventional candidates like Dan Osborn in Nebraska.
+* 政治上与世隔绝的年轻人，特别是拉美裔，帮助推动了特朗普总统的胜利，但在这个经济体中，他们可能会转向像内布拉斯加州的丹·奥斯本（ Dan Osborn ）这样的非传统候选人。
+* Physicians from 39 countries are being pushed out of U.S. hospitals as a policy blocks their ability to work.
+* 来自39个国家的医生被逐出美国医院，因为政策阻碍了他们的工作能力。
+* The memorandum calls for paying employees at the Coast Guard, Federal Emergency Management Agency and Cybersecurity and Infrastructure Security Agency who have gone without pay during a record-long shutdown.
+* 该备忘录要求向海岸警卫队、联邦紧急事务管理局以及网络安全和基础设施安全局的员工支付工资，这些员工在创纪录的长期停工期间无薪。
+* Immigration lawyers and former federal officials say the case of Salah Sarsour echoes those against other pro-Palestinian activists.
+* 移民律师和前联邦官员表示， Salah Sarsour的案件与其他亲巴勒斯坦活动人士的案件相呼应。
+* With the midterms approaching, the president may be running out of time to get new cabinet members confirmed without bipartisan support.
+* 随着中期选举的临近，在没有两党支持的情况下，总统可能没有时间让新的内阁成员得到确认。
+* President Trump and administration officials have extended more pronounced overtures to Christians in public statements and executive orders.
+* 特朗普总统和政府官员在公开声明和行政命令中向基督徒发出了更明显的提议。
+* A review of Camp East Montana in Texas found failures in medical care, disease control and oversight, including improperly documented uses of force.
+* 对德克萨斯州东蒙大拿营的审查发现，在医疗护理、疾病控制和监督方面存在缺陷，包括不当记录的武力使用。
 
 ## New York Times Asia News
+* The convicted sex offender gave Anil Ambani information on appointments and foreign policy. Some seemed prescient, though there was no evidence he was close to the administration.
+* 被定罪的性犯罪者向Anil Ambani提供了有关任命和外交政策的信息。有些人似乎有先见之明，但没有证据表明他与政府关系密切。
+* Surging gasoline prices in the Philippines have forced some people to cancel or scale back the Visita Iglesia, a Holy Week tradition in which Catholics travel to seven churches.
+* 菲律宾汽油价格飙升迫使一些人取消或缩减Visita Iglesia ，这是天主教徒前往七个教堂的圣周传统。
+* India’s 2027 census will shape how wealth and power is distributed and inform policies around castes and women in the world’s most populous nation.
+* 印度的2027年人口普查将塑造财富和权力的分配方式，并为世界上人口最多的国家围绕种姓和妇女的政策提供信息。
 * U Min Aung Hlaing’s elevation to the civilian post is the conclusion of elections in the country, which were stage managed by the military.
 * U Min Aung Hlaing升任文职职位是该国选举的结束，选举由军方管理。
 * Shanghai’s many layers of architecture, culture and politics have made it a difficult fit for the Communist Party’s preferred narrative of Chinese victimhood and Western sins.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 伊朗继续战斗的任何决定都将使特朗普总统试图在几周内结束战争的既定目标复杂化。
 * The former chairman of a financial group was brought to China in handcuffs, the latest high-level capture in a widening investigation into organized crime.
 * 这位金融集团前董事长被戴着手铐带到中国，这是对有组织犯罪调查的最新一次高层抓捕。
-* The authorities in Wuhan, the site of one of the world’s largest experiments in self-driving cars, cited a “system failure” after widespread reports on Tuesday evening.
-* 世界上最大的自动驾驶汽车试验基地之一武汉当局在周二晚上的广泛报道后引用了“系统故障”。
-* Prime Minister Anthony Albanese pleaded with Australians not to panic over higher fuel prices, in a rare national address on Wednesday.
-* 澳大利亚总理安东尼·阿尔巴尼斯（ Anthony Albanese ）在周三罕见的全国讲话中恳求澳大利亚人不要对燃油价格上涨感到恐慌。
-* The competition will bring together singers representing 10 nations including South Korea, the Philippines and Vietnam.
-* 比赛将汇集来自韩国、菲律宾和越南等10个国家的歌手。
 
