@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* The rescue followed a two-day race between U.S. and Iranian forces to reach the injured airman, officials said. On Saturday, Israel attacked Iran’s largest petrochemical industrial complex.
+* 官员说，在救援之前，美国和伊朗军队进行了为期两天的比赛，以找到受伤的飞行员。周六，以色列袭击了伊朗最大的石化工业综合体。
+* The Chinese government tightened rules to curb what it described as illegal drone use, but some users say the changes are now restricting too many flights.
+* 中国政府收紧了规定，以遏制其所谓的非法使用无人机，但一些用户表示，这些变化现在限制了太多的航班。
+* Defense systems that shoot projectiles out of the sky have become one of the most important components of warfare, so much so that militaries face a diminishing supply.
+* 从天空发射射弹的防御系统已经成为战争中最重要的组成部分之一，以至于军队面临着供应减少的问题。
+* Gangs tore through several rural communities last weekend, underscoring the challenges that will face the new, U.N.-backed Gang Suppression Force starting to enter the country.
+* 上周末，帮派袭击了几个农村社区，凸显了新的联合国支持的帮派镇压部队开始进入该国所面临的挑战。
+* Floods have killed at least 77 people this week and destroyed or damaged thousands of homes, and an earthquake on Friday killed a dozen more.
+* 本周洪水造成至少77人死亡，数千所房屋被摧毁或损坏，周五的地震造成十几人死亡。
+* An airman was rescued on Saturday night, President Trump said. The rescue came after a risky two-day operation deep inside Iran.
+* 特朗普总统说，一名飞行员在周六晚上获救。救援行动是在伊朗境内进行为期两天的危险行动之后进行的。
 * The White House has turned deportations, a signature domestic issue, into a major piece of foreign policy. Here’s what we know about the program.
 * 白宫已将驱逐出境（这是一个标志性的国内问题）变成了一项重要的外交政策。以下是我们对该计划的了解。
 * Families gathered for picnics and games this week to mark the end of the Iranian new year holiday, seizing on a brief chance to celebrate.
 * 本周，家人聚集在一起野餐和游戏，纪念伊朗新年假期的结束，抓住短暂的机会庆祝。
-* Iran downed an F-15E, the first U.S. warplane the country has shot down in the war. In southwest Iran, one person was killed when a projectile struck the perimeter of a nuclear power plant, Iranian media reported.
-* 伊朗击落了一架F-15E ，这是该国在战争中击落的第一架美国战机。据伊朗媒体报道，在伊朗西南部，一枚射弹击中核电站周边，造成一人死亡。
 * European leaders and other officials have ideas for bringing shipping back to the strait once the Iran war ends. But none of them are sure bets.
 * 欧洲领导人和其他官员有在伊朗战争结束后将航运带回海峡的想法。但没有一个是肯定的赌注。
-* The convicted sex offender gave Anil Ambani information on appointments and foreign policy. Some seemed prescient, though there was no evidence he was close to the administration.
-* 被定罪的性犯罪者向Anil Ambani提供了有关任命和外交政策的信息。有些人似乎有先见之明，但没有证据表明他与政府关系密切。
-* An F-15E Strike Eagle was lost to enemy fire and an A-10 Warthog crashed in the Persian Gulf region on Friday, officials said. A rescue helicopter was also fired upon.
-* 官员说，一架F-15E “攻击鹰”在敌人的炮火中丧生，一架A-10 “疣猪”周五在波斯湾地区坠毁。一架救援直升机也遭到射击。
-* Ronald Young Jr. was in the Army when his Apache Longbow copter went down during the U.S. invasion of Iraq.
-* 小罗纳德·杨（ Ronald Young Jr. ）在美国入侵伊拉克期间，他的阿帕奇长弓直升机在陆军中坠毁。
-* There is no organized opposition on the island because many critics of the regime have fled. But anti-government protests have been growing.
-* 岛上没有有组织的反对派，因为该政权的许多批评者已经逃离。但反政府抗议活动一直在增加。
-* A Times investigation found that abductions of women and girls from Syria’s Alawite minority were more common, and more brutal, than the government has acknowledged.
-* 《泰晤士报》的一项调查发现，绑架叙利亚阿拉维派少数民族妇女和女孩的现象比政府承认的更为常见，也更为残忍。
-* Rima Hassan, a member of the European Parliament, could face seven years in prison for the post, in which she quoted a perpetrator of a 1972 massacre in Israel.
-* 欧洲议会议员里马·哈桑（ Rima Hassan ）可能因该职位而面临七年监禁，她引用了1972年以色列大屠杀的肇事者的话。
+* A fourth suspect was arrested after showing up at a hearing for the defendants, the police said. The March attack was widely condemned but has not been declared a terrorist incident.
+* 警方称，第四名嫌疑人在出席被告听证会后被捕。3月份的袭击受到广泛谴责，但尚未被宣布为恐怖事件。
 
 ## New York Times United States News
+* From the gas pump to the auto show, drivers are talking about electric vehicles.
+* 从加油站到车展，司机都在谈论电动汽车。
+* “This is actually God’s word,” says one collector. “Why not have a really nice copy of it?”
+* 一位收藏家说：「这实际上是上帝的话。」“为什么不买一本非常好的副本呢？”
+* Andrea García and her siblings are carrying on in a home reshaped by fear, loss and new responsibility.
+* 安德烈亚·加西亚（ Andrea García ）和她的兄弟姐妹在一个被恐惧、失落和新责任重塑的家中继续生活。
+* The architect of President Trump’s mass deportation campaign wants “a moratorium on immigration from third world countries until we can heal ourselves as a nation.” The chaos in Minneapolis has not pushed him off that course.
+* 特朗普总统的大规模驱逐运动的建筑师希望“在我们能够治愈自己作为一个国家之前，暂停来自第三世界国家的移民。“明尼阿波利斯的混乱并没有把他推开。
+* An Air Force officer of a F-15E Strike Eagle shot down on Friday by Iran spent a day in hostile territory with little more than a pistol for protection.
+* 周五，一名被伊朗击落的F-15E攻击鹰空军军官在敌对领土上呆了一天，只带了一把手枪进行保护。
+* The Trump administration had said it would collect data from colleges to ensure compliance with a Supreme Court ruling ending affirmative action in admissions.
+* 特朗普政府曾表示，它将从大学收集数据，以确保遵守最高法院终止录取平权行动的裁决。
+* Some of the pedestrians at the parade in New Iberia, La., were critically hurt, according to the authorities, who said the driver was intoxicated.
+* 据当局称，路易斯安那州新伊比利亚州游行中的一些行人受了重伤，他们说司机喝醉了。
+* As older members of Congress head for the exits amid growing pressure for fresh faces in the Democratic Party, some of the most seasoned Black lawmakers are resisting retirement.
+* 随着年长的国会议员在民主党内对新面孔的压力越来越大，一些最有经验的黑人立法者正在抵制退休。
 * The name atop the Justice Department’s organizational chart matters less than the presence of a president whose demands for revenge have become so extreme that even his most obsequious appointees have fallen short.
 * 司法部组织结构图上的名字比总统的存在更重要，总统对报复的要求已经变得如此极端，以至于即使是他最恭顺的被任命者也落空了。
 * President Trump bet that American firepower could cow Iran into compliance. So far, Iran’s leaders have been unwilling to quit.
 * 特朗普总统打赌，美国的火力可能会让伊朗遵守规定。到目前为止，伊朗领导人一直不愿意退出。
-* The Artemis II mission elicited deep feelings for many Americans, particularly in Houston, the home of mission control.
-* 阿尔忒弥斯二号任务引起了许多美国人的深切感情，特别是在任务控制中心休斯顿。
-* Politically disconnected young men, especially Latinos, helped fuel President Trump’s victory, but in this economy, they could move to unconventional candidates like Dan Osborn in Nebraska.
-* 政治上与世隔绝的年轻人，特别是拉美裔，帮助推动了特朗普总统的胜利，但在这个经济体中，他们可能会转向像内布拉斯加州的丹·奥斯本（ Dan Osborn ）这样的非传统候选人。
-* Physicians from 39 countries are being pushed out of U.S. hospitals as a policy blocks their ability to work.
-* 来自39个国家的医生被逐出美国医院，因为政策阻碍了他们的工作能力。
-* The memorandum calls for paying employees at the Coast Guard, Federal Emergency Management Agency and Cybersecurity and Infrastructure Security Agency who have gone without pay during a record-long shutdown.
-* 该备忘录要求向海岸警卫队、联邦紧急事务管理局以及网络安全和基础设施安全局的员工支付工资，这些员工在创纪录的长期停工期间无薪。
-* Immigration lawyers and former federal officials say the case of Salah Sarsour echoes those against other pro-Palestinian activists.
-* 移民律师和前联邦官员表示， Salah Sarsour的案件与其他亲巴勒斯坦活动人士的案件相呼应。
-* With the midterms approaching, the president may be running out of time to get new cabinet members confirmed without bipartisan support.
-* 随着中期选举的临近，在没有两党支持的情况下，总统可能没有时间让新的内阁成员得到确认。
-* President Trump and administration officials have extended more pronounced overtures to Christians in public statements and executive orders.
-* 特朗普总统和政府官员在公开声明和行政命令中向基督徒发出了更明显的提议。
-* A review of Camp East Montana in Texas found failures in medical care, disease control and oversight, including improperly documented uses of force.
-* 对德克萨斯州东蒙大拿营的审查发现，在医疗护理、疾病控制和监督方面存在缺陷，包括不当记录的武力使用。
 
 ## New York Times Asia News
+* The Chinese government tightened rules to curb what it described as illegal drone use, but some users say the changes are now restricting too many flights.
+* 中国政府收紧了规定，以遏制其所谓的非法使用无人机，但一些用户表示，这些变化现在限制了太多的航班。
+* Floods have killed at least 77 people this week and destroyed or damaged thousands of homes, and an earthquake on Friday killed a dozen more.
+* 本周洪水造成至少77人死亡，数千所房屋被摧毁或损坏，周五的地震造成十几人死亡。
 * The convicted sex offender gave Anil Ambani information on appointments and foreign policy. Some seemed prescient, though there was no evidence he was close to the administration.
 * 被定罪的性犯罪者向Anil Ambani提供了有关任命和外交政策的信息。有些人似乎有先见之明，但没有证据表明他与政府关系密切。
 * Surging gasoline prices in the Philippines have forced some people to cancel or scale back the Visita Iglesia, a Holy Week tradition in which Catholics travel to seven churches.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 新西兰的一名徒步旅行者从180英尺高的瀑布上坠落，在没有狗的情况下被疏散。群众资助的救援工作使他们重新团聚。
 * The U.S. space agency launched a lunar flyby Wednesday, but Beijing is pursuing its own space program with formidable focus. Here’s what we know about it, in photos and videos.
 * 美国航天局周三发射了一次月球飞越，但北京正在进行自己的太空计划，重点令人生畏。以下是我们在照片和视频中了解到的信息。
-* Any decision by Iran to keep fighting would complicate President Trump’s stated goal of trying to end the war within weeks.
-* 伊朗继续战斗的任何决定都将使特朗普总统试图在几周内结束战争的既定目标复杂化。
-* The former chairman of a financial group was brought to China in handcuffs, the latest high-level capture in a widening investigation into organized crime.
-* 这位金融集团前董事长被戴着手铐带到中国，这是对有组织犯罪调查的最新一次高层抓捕。
 
