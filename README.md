@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The rescue followed a two-day race between U.S. and Iranian forces to reach the injured airman, officials said. On Saturday, Israel attacked Iran’s largest petrochemical industrial complex.
-* 官员说，在救援之前，美国和伊朗军队进行了为期两天的比赛，以找到受伤的飞行员。周六，以色列袭击了伊朗最大的石化工业综合体。
+* Iran said it would respond “crushingly” if President Trump carried out his threats to strike power plants and bridges unless Tehran reopens the Strait of Hormuz. An Israeli strike killed an Iranian intelligence chief overnight.
+* 伊朗表示，如果特朗普总统威胁要袭击发电厂和桥梁，除非德黑兰重新开放霍尔木兹海峡，否则伊朗将做出“严厉的”回应。以色列的一次空袭在一夜之间杀死了一名伊朗情报部门负责人。
+* Prime Minister Viktor Orban has made hostility to Ukraine a centerpiece of his campaign. Moscow seems determined to repay the favor.
+* 总理维克托·奥尔班（ Viktor Orban ）将对乌克兰的敌意作为其竞选活动的核心。莫斯科似乎决心偿还这份恩惠。
+* Jeffrey Epstein spent his last days of freedom in Paris, meeting with influential figures. It was a playbook he used everywhere he lived to stamp a veneer of respectability on a life of sordid criminality.
+* 杰弗里·爱泼斯坦（ Jeffrey Epstein ）在巴黎度过了他自由的最后几天，与有影响力的人物会面。无论他住在哪里，他都会用这本剧本来给肮脏的犯罪生活贴上体面的印记。
+* In the age of drone warfare, Russia is expected to exploit the return of vegetation to help conceal its troops.
+* 在无人机战争时代，俄罗斯有望利用植被的恢复来帮助隐藏其军队。
+* After Iran shot down a U.S. plane and U.S. forces pulled off a risky ground operation to extricate a stranded airman, both sides claimed victory. That confidence could fuel further escalation.
+* 在伊朗击落一架美国飞机后，美国军队进行了一次危险的地面行动，以解救一名滞留的飞行员，双方都声称取得了胜利。这种信心可能会进一步升级。
+* Prime Minister Keir Starmer said he was “deeply concerned” that the rapper known for antisemitic and racist comments had been booked to perform at the Wireless Festival.
+* 总理基尔·斯塔默（ Keir Starmer ）表示，他“深感关切”这位以反犹太主义和种族主义言论而闻名的说唱歌手已被预订在无线音乐节上演出。
+* The pontiff’s Easter remarks follow a Palm Sunday homily in which he said God rejected the prayers of “those who wage war.”
+* 教皇的复活节讲话是在棕榈主日讲道之后发表的，他说上帝拒绝了“那些发动战争的人”的祈祷。
+* Survivors said at least 100 people were on a boat that had left Libya for Europe. Only 32 of those aboard are known to have survived.
+* 幸存者说，至少有100人在一艘离开利比亚前往欧洲的船上。已知船上只有32人幸存下来。
 * The Chinese government tightened rules to curb what it described as illegal drone use, but some users say the changes are now restricting too many flights.
 * 中国政府收紧了规定，以遏制其所谓的非法使用无人机，但一些用户表示，这些变化现在限制了太多的航班。
-* Defense systems that shoot projectiles out of the sky have become one of the most important components of warfare, so much so that militaries face a diminishing supply.
-* 从天空发射射弹的防御系统已经成为战争中最重要的组成部分之一，以至于军队面临着供应减少的问题。
-* Gangs tore through several rural communities last weekend, underscoring the challenges that will face the new, U.N.-backed Gang Suppression Force starting to enter the country.
-* 上周末，帮派袭击了几个农村社区，凸显了新的联合国支持的帮派镇压部队开始进入该国所面临的挑战。
-* Floods have killed at least 77 people this week and destroyed or damaged thousands of homes, and an earthquake on Friday killed a dozen more.
-* 本周洪水造成至少77人死亡，数千所房屋被摧毁或损坏，周五的地震造成十几人死亡。
 * An airman was rescued on Saturday night, President Trump said. The rescue came after a risky two-day operation deep inside Iran.
 * 特朗普总统说，一名飞行员在周六晚上获救。救援行动是在伊朗境内进行为期两天的危险行动之后进行的。
-* The White House has turned deportations, a signature domestic issue, into a major piece of foreign policy. Here’s what we know about the program.
-* 白宫已将驱逐出境（这是一个标志性的国内问题）变成了一项重要的外交政策。以下是我们对该计划的了解。
-* Families gathered for picnics and games this week to mark the end of the Iranian new year holiday, seizing on a brief chance to celebrate.
-* 本周，家人聚集在一起野餐和游戏，纪念伊朗新年假期的结束，抓住短暂的机会庆祝。
-* European leaders and other officials have ideas for bringing shipping back to the strait once the Iran war ends. But none of them are sure bets.
-* 欧洲领导人和其他官员有在伊朗战争结束后将航运带回海峡的想法。但没有一个是肯定的赌注。
-* A fourth suspect was arrested after showing up at a hearing for the defendants, the police said. The March attack was widely condemned but has not been declared a terrorist incident.
-* 警方称，第四名嫌疑人在出席被告听证会后被捕。3月份的袭击受到广泛谴责，但尚未被宣布为恐怖事件。
 
 ## New York Times United States News
-* From the gas pump to the auto show, drivers are talking about electric vehicles.
-* 从加油站到车展，司机都在谈论电动汽车。
-* “This is actually God’s word,” says one collector. “Why not have a really nice copy of it?”
-* 一位收藏家说：「这实际上是上帝的话。」“为什么不买一本非常好的副本呢？”
-* Andrea García and her siblings are carrying on in a home reshaped by fear, loss and new responsibility.
-* 安德烈亚·加西亚（ Andrea García ）和她的兄弟姐妹在一个被恐惧、失落和新责任重塑的家中继续生活。
-* The architect of President Trump’s mass deportation campaign wants “a moratorium on immigration from third world countries until we can heal ourselves as a nation.” The chaos in Minneapolis has not pushed him off that course.
-* 特朗普总统的大规模驱逐运动的建筑师希望“在我们能够治愈自己作为一个国家之前，暂停来自第三世界国家的移民。“明尼阿波利斯的混乱并没有把他推开。
-* An Air Force officer of a F-15E Strike Eagle shot down on Friday by Iran spent a day in hostile territory with little more than a pistol for protection.
-* 周五，一名被伊朗击落的F-15E攻击鹰空军军官在敌对领土上呆了一天，只带了一把手枪进行保护。
-* The Trump administration had said it would collect data from colleges to ensure compliance with a Supreme Court ruling ending affirmative action in admissions.
-* 特朗普政府曾表示，它将从大学收集数据，以确保遵守最高法院终止录取平权行动的裁决。
-* Some of the pedestrians at the parade in New Iberia, La., were critically hurt, according to the authorities, who said the driver was intoxicated.
-* 据当局称，路易斯安那州新伊比利亚州游行中的一些行人受了重伤，他们说司机喝醉了。
-* As older members of Congress head for the exits amid growing pressure for fresh faces in the Democratic Party, some of the most seasoned Black lawmakers are resisting retirement.
-* 随着年长的国会议员在民主党内对新面孔的压力越来越大，一些最有经验的黑人立法者正在抵制退休。
-* The name atop the Justice Department’s organizational chart matters less than the presence of a president whose demands for revenge have become so extreme that even his most obsequious appointees have fallen short.
-* 司法部组织结构图上的名字比总统的存在更重要，总统对报复的要求已经变得如此极端，以至于即使是他最恭顺的被任命者也落空了。
-* President Trump bet that American firepower could cow Iran into compliance. So far, Iran’s leaders have been unwilling to quit.
-* 特朗普总统打赌，美国的火力可能会让伊朗遵守规定。到目前为止，伊朗领导人一直不愿意退出。
+* Tuesday’s special House election runoff in a conservative stretch of Georgia is one of the first to showcase disagreements over the conflict, including within the G.O.P.
+* 周二在格鲁吉亚保守地区举行的特别众议院选举决赛是首批展示冲突分歧的人之一，包括在共和党内部。
+* Prosecutors did not watch video of the nonfatal shooting until weeks after charging the wounded man, an official said.
+* 一名官员说，检察官直到指控受伤男子几周后才观看非致命射击的视频。
+* The Trump administration’s campaign to curtail international students is not just hitting the elite schools targeted by the government.
+* 特朗普政府遏制国际学生的运动不仅打击了政府针对的精英学校。
+* In an expletive-laced social media post, the president said Iran should open the Strait of Hormuz or he would bomb bridges and power plants.
+* 总统在一篇带有咒骂色彩的社交媒体帖子中表示，伊朗应该开放霍尔木兹海峡，否则他将轰炸桥梁和发电厂。
+* The 22-year-old wife of an Army staff sergeant came to the U.S. as a toddler. She was taken from a military base where the couple planned to live.
+* 这位22岁的陆军参谋中士的妻子在蹒跚学步时来到美国。她被从这对夫妇计划居住的军事基地带走。
+* Ruby’s Pantry had 85 locations in communities in Minnesota, Wisconsin, North Dakota and Iowa.
+* Ruby's Pantry在明尼苏达州、威斯康星州、北达科他州和爱荷华州的社区拥有85家分店。
+* A 21-year-old woman, her baby and a 16-year-old girl were killed after a nearly 100-foot tree fell in a wooded area in northern Germany, the police said.
+* 警方称，一名21岁的女子、她的婴儿和一名16岁的女孩在德国北部一片树木繁茂的地区倒下近100英尺的树木后被杀害。
+* A swing-district Republican called the war an “incredible operation,” and President Trump drew backlash from political figures in both parties over a social media post.
+* 一位摇摆区的共和党人称这场战争是“令人难以置信的行动” ，特朗普总统在社交媒体帖子上引起了两党政治人物的强烈反对。
+* For the Iranians, the Air Force colonel whose fighter jet had been shot down was possible leverage. For the U.S. military, finding him was a moral imperative.
+* 对于伊朗人来说，战斗机被击落的空军上校可能是杠杆。对于美国军方来说，找到他是道德上的当务之急。
+* The president said he would bomb Iran “back to the Stone Ages.” Until this administration, American leaders had insisted they were trying to follow international law in war.
+* 总统表示，他将轰炸伊朗“回到石器时代”。“在本届政府之前，美国领导人一直坚称他们试图在战争中遵守国际法。
 
 ## New York Times Asia News
+* Long concerned about geopolitical crises, China redoubled efforts to secure energy security when President Trump started raising the stakes in his first term.
+* 长期以来，中国一直担心地缘政治危机，当特朗普总统在他的第一个任期内开始提高赌注时，中国加倍努力确保能源安全。
+* The president said he would bomb Iran “back to the Stone Ages.” Until this administration, American leaders had insisted they were trying to follow international law in war.
+* 总统表示，他将轰炸伊朗“回到石器时代”。“在本届政府之前，美国领导人一直坚称他们试图在战争中遵守国际法。
 * The Chinese government tightened rules to curb what it described as illegal drone use, but some users say the changes are now restricting too many flights.
 * 中国政府收紧了规定，以遏制其所谓的非法使用无人机，但一些用户表示，这些变化现在限制了太多的航班。
 * Floods have killed at least 77 people this week and destroyed or damaged thousands of homes, and an earthquake on Friday killed a dozen more.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 上海多层次的建筑、文化和政治使其难以适应共产党对中国受害者和西方罪恶的偏爱。
 * With Jane Goodall and Dian Fossey, she was one of three prominent researchers of great apes who were sometimes called the “trimates.”
 * 与简·古道尔（ Jane Goodall ）和黛安·福西（ Dian Fossey ）一起，她是三位杰出的类人猿研究人员之一，他们有时被称为“修剪物”。
-* A hiker in New Zealand fell 180 feet down a waterfall and was evacuated without her dog. A crowd-funded rescue effort reunited them.
-* 新西兰的一名徒步旅行者从180英尺高的瀑布上坠落，在没有狗的情况下被疏散。群众资助的救援工作使他们重新团聚。
-* The U.S. space agency launched a lunar flyby Wednesday, but Beijing is pursuing its own space program with formidable focus. Here’s what we know about it, in photos and videos.
-* 美国航天局周三发射了一次月球飞越，但北京正在进行自己的太空计划，重点令人生畏。以下是我们在照片和视频中了解到的信息。
 
