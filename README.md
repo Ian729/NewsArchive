@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Israel and Iran traded fresh attacks on Tuesday after President Trump said a cease-fire proposal was “not good enough.” Mr. Trump has threatened to destroy Iran’s bridges and power plants if it does not reopen the Strait of Hormuz by 8 p.m. Eastern.
-* 周二，在特朗普总统表示停火提案“不够好”之后，以色列和伊朗进行了新的袭击。“特朗普先生威胁说，如果伊朗在东部时间晚上8点之前不重新开放霍尔木兹海峡，他将摧毁伊朗的桥梁和发电厂。
-* Prime Minister Viktor Orban’s policies affecting the Roma minority have put those voters in play in upcoming parliamentary elections. In a tight race, they could make the difference.
-* 总理维克托·奥尔班（ Viktor Orban ）影响罗姆少数民族的政策让这些选民在即将举行的议会选举中发挥了作用。在紧张的比赛中，他们可以发挥作用。
-* The trip by the American vice president, JD Vance, makes clear that Russia is not the only country invested in a victory for Hungary’s leader, Viktor Orban.
-* 美国副总统万斯（ JD Vance ）的访问清楚地表明，俄罗斯并不是唯一一个为匈牙利领导人维克托·奥尔班（ Viktor Orban ）的胜利而投资的国家。
-* For centuries, the bones of some six million people were buried in the catacombs beneath the city. Curators are trying to preserve and modernize the tunnels while maintaining the spooky ambience.
-* 几个世纪以来，大约600万人的骨头被埋葬在城市地下的地下墓穴中。策展人正在努力保护和现代化隧道，同时保持幽灵般的氛围。
-* Jeffrey Epstein spent his last days of freedom in Paris, meeting with influential figures. It was a playbook he used everywhere he lived to stamp a veneer of respectability on a life of sordid criminality.
-* 杰弗里·爱泼斯坦（ Jeffrey Epstein ）在巴黎度过了他自由的最后几天，与有影响力的人物会面。无论他住在哪里，他都会用这本剧本来给肮脏的犯罪生活贴上体面的印记。
-* Court documents raise questions about the Argentine president’s statements that he had no connection to the launch of the $Libra cryptocurrency.
-* 法院文件对阿根廷总统的声明提出质疑，称他与$ Libra加密货币的推出无关。
-* The demand reflects both the U.S. administration’s eagerness to secure a lasting cease-fire in Gaza and its growing impatience with the Palestinian militant group.
-* 这一要求反映了美国政府渴望在加沙实现持久停火，以及对巴勒斯坦激进组织越来越不耐烦。
-* Global leaders are struggling in their efforts to find a way to end the American-Israeli war on Iran, and they are spooked about what President Trump might do next.
-* 全球领导人正在努力寻找结束美以对伊朗战争的方法，他们对特朗普总统下一步可能做什么感到震惊。
-* Prime Minister Viktor Orban has made hostility to Ukraine a centerpiece of his campaign. Moscow seems determined to repay the favor.
-* 总理维克托·奥尔班（ Viktor Orban ）将对乌克兰的敌意作为其竞选活动的核心。莫斯科似乎决心偿还这份恩惠。
-* In the age of drone warfare, Russia is expected to exploit the return of vegetation to help conceal its troops.
-* 在无人机战争时代，俄罗斯有望利用植被的恢复来帮助隐藏其军队。
+* Global relief at the pause in fighting was tempered by uncertainty over what happens next. Israel declared its support for the two-week truce between the U.S. and Iran, but said it did not include its war against Hezbollah in Lebanon.
+* 战斗暂停的全球救济因接下来会发生什么的不确定性而得到缓和。以色列宣布支持美国和伊朗之间为期两周的停火协议，但表示不包括与黎巴嫩真主党的战争。
+* Across Europe and the globe, the war has damaged economies, roiled politics and underscored a lack of options in dealing with President Trump’s whims.
+* 在整个欧洲和全球范围内，这场战争破坏了经济，扰乱了政治，并凸显出在应对特朗普总统的突发奇想方面缺乏选择。
+* Some wells can be turned on in days or weeks, but bringing the Gulf’s energy system back to something akin to normal will take months.
+* 一些水井可以在几天或几周内开启，但要使海湾的能源系统恢复正常，需要几个月的时间。
+* Dominic Khoo made waves in Singapore as an investor in expensive timepieces. Now many of his clients accuse him of fraud.
+* Dominic Khoo作为昂贵时计的投资者，在新加坡掀起了波澜。现在，他的许多客户都指责他欺诈。
+* After the deadliest attack in Afghanistan since the Taliban took over, families searched among photos and remains for signs of their relatives.
+* 在阿富汗发生自塔利班接管以来最致命的袭击事件后，家人在照片中搜索，并仍在寻找亲人的迹象。
+* The American leaders slathered on the praise for the nationalist standard-bearer just days before an election he could lose.
+* 美国领导人在可能失败的选举前几天对这位民族主义旗手赞不绝口。
+* As the Persian Gulf conflict boosts the oil revenue that finances Moscow’s war against Ukraine, Kyiv’s forces are striking at Russia’s ability to refine and ship its crude.
+* 随着波斯湾冲突增加了为莫斯科对乌克兰战争提供资金的石油收入，基辅的部队正在打击俄罗斯精炼和运输原油的能力。
+* Prime Minister Keir Starmer’s government blocked the artist formerly known as Kanye West from entering Britain for the three-day Wireless Festival in July.
+* 总理基尔·斯塔默（ Keir Starmer ）的政府在7月份阻止这位前身为坎耶·韦斯特（ Kanye West ）的艺术家进入英国参加为期三天的无线音
+* The journalist, Shelly Kittleson, was abducted by a militia allied with Iran and held for a week. Iraqi officials say she was freed in exchange for the release of militia members.
+* 记者雪莉·基特尔森（ Shelly Kittleson ）被与伊朗结盟的民兵绑架并被关押了一周。伊拉克官员说，她被释放，以换取民兵成员的释放。
+* Images of Kim Ju-ae at the helm of the military vehicle, with her father riding on top, added to speculation that she was being groomed to succeed him as North Korea’s leader.
+* 金珠爱（ Kim Ju-ae ）掌舵军车，父亲骑在车顶的图片，加剧了人们的猜测，即她正在准备接替金珠爱（ Kim Ju-ae ）担任朝鲜领导人。
 
 ## New York Times United States News
-* Clay Fuller, a Republican allied with President Trump, will face Shawn Harris, a Democrat, in the election to fill the remainder of Ms. Greene’s term after her resignation from Congress.
-* 与特朗普总统结盟的共和党人克莱·富勒(Clay Fuller)将在选举中面对民主党人肖恩·哈里斯(Shawn Harris) ，以填补格林从国会辞职后剩余的任期。
-* President Trump, his administration and G.O.P. lawmakers have claimed widespread issues with mailed ballots and fraudulent voting, but the evidence doesn’t support them.
-* 特朗普总统、他的政府和共和党议员声称邮寄选票和欺诈性投票存在普遍问题，但证据并不支持他们。
-* Both the Democratic and Republican parties in Arizona have been locked in a legal battle with a chapter of the group “No Labels” as it tries to rechristen itself.
-* 亚利桑那州的民主党和共和党都陷入了与“无标签”组织的一场法律斗争中，因为它试图重新命名自己。
-* Elections for the Wisconsin Supreme Court have previously brought record-breaking spending and national attention. Tuesday’s race has been a more muted affair.
-* 威斯康星州最高法院的选举此前已经带来了破纪录的支出和全国关注。周二的比赛一直比较平静。
-* Education officials are planning an overhaul to English and social studies in the nation’s largest Republican led state.
-* 教育官员正计划对该国最大的共和党领导的州的英语和社会研究进行彻底改革。
-* The conversation celebrated a small, but significant, step in an ambitious plan for missions to the moon and Mars that Mr. Trump had set early in his first term.
-* 这次谈话庆祝了特朗普在第一个任期初期制定的雄心勃勃的月球和火星任务计划中的一个小而重要的步骤。
-* The former member of the chart-topping Atlanta trio was in stable condition after being shot in Hollywood, Fla., his representative said. The police said they had detained two people.
-* 他的代表说，这位前亚特兰大三人组的成员在佛罗里达州好莱坞被枪杀后状况稳定。警方说，他们拘留了两人。
-* President Trump endorsed Steve Hilton, a Republican, in the governor’s race, which could help Democrats avoid being shut out of the general election.
-* 特朗普总统在州长竞选中支持共和党人史蒂夫·希尔顿（ Steve Hilton ） ，这可以帮助民主党人避免被排除在大选之外。
-* The gray whale, which some locals affectionately named Willapa Willy, was found on Saturday afternoon after first being spotted swimming up the Willapa River last week.
-* 一些当地人亲切地称之为Willapa Willy的灰鲸是在上周六下午首次被发现在Willapa河上游泳后被发现的。
-* President Trump also asserted that God supports the American war against Iran “because God is good, and God wants to see people taken care of.”
-* 特朗普总统还声称，上帝支持美国对伊朗的战争， “因为上帝是善良的，上帝希望看到人们得到照顾。”
+* A Republican won Marjorie Taylor Greene’s seat, but Democrats shifted the district 25 points to the left since the 2024 presidential race. Conservative candidates lost in Wisconsin, too.
+* 一位共和党人赢得了马乔里·泰勒·格林（ Marjorie Taylor Greene ）的席位，但自2024年总统大选以来，民主党人将该地区向左移动了25分。保守党候选人也在威斯康星州落败。
+* After citizens in Republican states used ballot measures to protect abortion, expand Medicaid and raise the minimum wage, statehouses are moving to make such initiatives much harder.
+* 在共和党各州的公民使用投票措施来保护堕胎、扩大医疗补助和提高最低工资之后，州议会正在采取行动，使这些举措变得更加困难。
+* Alicia Halvensleben, the president of the city’s Common Council, defeated a Republican legislator, continuing a string of Trump-era mayoral wins for Democrats.
+* 该市议会主席艾丽西亚·哈尔文斯莱本（ Alicia Halvensleben ）击败了共和党立法者，继续为民主党赢得特朗普时代的一系列市长胜利。
+* Democrats continued to raise serious questions about a path forward while Republican leaders were mostly mum on President Trump’s decision to de-escalate tensions.
+* 民主党人继续对前进的道路提出严重质疑，而共和党领导人大多对特朗普总统缓和紧张局势的决定保持沉默。
+* Shawn Harris lost by about 12 percentage points in the 14th Congressional District, but he shifted the district 25 points to the left.
+* 肖恩·哈里斯（ Shawn Harris ）在第14届国会选区输了大约12个百分点，但他将选区向左移动了25个百分点。
+* With Judge Chris Taylor’s win, liberals increased their hold on the court. Races for the Wisconsin Supreme Court often draw national attention, but not this year.
+* 随着克里斯·泰勒法官的胜利，自由派增加了对球场的控制。威斯康星州最高法院的竞选经常引起全国的关注，但今年却没有。
+* Our reporter Helene Cooper walks us through the high-stakes operation to rescue a downed U.S. airman in Iran.
+* 我们的记者海伦·库珀（ Helene Cooper ）带领我们完成了高风险的行动，以营救一名在伊朗被击落的美国飞行员。
+* Tech leaders see Matt Mahan, a moderate Democrat, as their best option in the California governor’s race, but tensions have risen as he has struggled to gain traction in polls.
+* 技术领导人将温和的民主党人马特·马汉（ Matt Mahan ）视为加州州长竞选中的最佳选择，但随着他努力在民意调查中获得牵引力，紧张局势加剧。
+* Democrats had hoped for a strong showing, but the conservative district in Northwest Georgia elected Clay Fuller after President Trump endorsed him.
+* 民主党人本来希望表现强劲，但乔治亚州西北部的保守派选区在特朗普总统支持克莱·富勒之后选出了他。
+* This year’s election has featured more undecided voters and lower overall awareness compared with recent cycles.
+* 与最近的选举周期相比，今年的选举有更多的选民犹豫不决，整体意识较低。
 
 ## New York Times Asia News
+* Beijing appeared to have helped push Tehran to accept the two-week deal with the United States, reflecting China’s growing influence and its stake in avoiding a wider war.
+* 北京似乎帮助推动德黑兰接受与美国为期两周的协议，这反映了中国在避免更广泛战争方面日益增长的影响力和利害关系。
+* Markets reacted positively after the United States and Iran reached a last-minute cease-fire agreement.
+* 在美国和伊朗在最后一刻达成停火协议后，市场做出了积极反应。
+* Natural gas is hard to store, but China has found a way to do it, while also developing alternate suppliers and expanding production at home.
+* 天然气很难储存，但中国已经找到了一种方法，同时还开发了替代供应商并扩大了国内生产。
+* Dominic Khoo made waves in Singapore as an investor in expensive timepieces. Now many of his clients accuse him of fraud.
+* Dominic Khoo作为昂贵时计的投资者，在新加坡掀起了波澜。现在，他的许多客户都指责他欺诈。
+* U.S. imports from China have shrunk drastically. But billions of dollars of the change appear to be the result of accounting gimmicks and outright fraud.
+* 美国从中国的进口大幅萎缩。但数十亿美元的变化似乎是会计噱头和赤裸裸的欺诈行为的结果。
 * Images of Kim Ju-ae at the helm of the military vehicle, with her father riding on top, added to speculation that she was being groomed to succeed him as North Korea’s leader.
 * 金珠爱（ Kim Ju-ae ）掌舵军车，父亲骑在车顶的图片，加剧了人们的猜测，即她正在准备接替金珠爱（ Kim Ju-ae ）担任朝鲜领导人。
 * After the deadliest attack in Afghanistan since the Taliban took over, families searched among photos and remains for signs of their relatives.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 各机构正在努力处理其藏品中的人类遗骸，这些遗骸被用来证明揭穿种族理论的正当性。
 * Long concerned about geopolitical crises, China redoubled efforts to secure energy security when President Trump started raising the stakes in his first term.
 * 长期以来，中国一直担心地缘政治危机，当特朗普总统在他的第一个任期内开始提高赌注时，中国加倍努力确保能源安全。
-* The president said he would bomb Iran “back to the Stone Ages.” Until this administration, American leaders had insisted they were trying to follow international law in war.
-* 总统表示，他将轰炸伊朗“回到石器时代”。“在本届政府之前，美国领导人一直坚称他们试图在战争中遵守国际法。
-* The Chinese government tightened rules to curb what it described as illegal drone use, but some users say the changes are now restricting too many flights.
-* 中国政府收紧了规定，以遏制其所谓的非法使用无人机，但一些用户表示，这些变化现在限制了太多的航班。
-* Floods have killed at least 77 people this week and destroyed or damaged thousands of homes, and an earthquake on Friday killed a dozen more.
-* 本周洪水造成至少77人死亡，数千所房屋被摧毁或损坏，周五的地震造成十几人死亡。
-* The convicted sex offender gave Anil Ambani information on appointments and foreign policy. Some seemed prescient, though there was no evidence he was close to the administration.
-* 被定罪的性犯罪者向Anil Ambani提供了有关任命和外交政策的信息。有些人似乎有先见之明，但没有证据表明他与政府关系密切。
-* Surging gasoline prices in the Philippines have forced some people to cancel or scale back the Visita Iglesia, a Holy Week tradition in which Catholics travel to seven churches.
-* 菲律宾汽油价格飙升迫使一些人取消或缩减Visita Iglesia ，这是天主教徒前往七个教堂的圣周传统。
 
