@@ -2,54 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Global relief at the pause in fighting was tempered by uncertainty over what happens next. Israel declared its support for the two-week truce between the U.S. and Iran, but said it did not include its war against Hezbollah in Lebanon.
-* 战斗暂停的全球救济因接下来会发生什么的不确定性而得到缓和。以色列宣布支持美国和伊朗之间为期两周的停火协议，但表示不包括与黎巴嫩真主党的战争。
-* Across Europe and the globe, the war has damaged economies, roiled politics and underscored a lack of options in dealing with President Trump’s whims.
-* 在整个欧洲和全球范围内，这场战争破坏了经济，扰乱了政治，并凸显出在应对特朗普总统的突发奇想方面缺乏选择。
-* Some wells can be turned on in days or weeks, but bringing the Gulf’s energy system back to something akin to normal will take months.
-* 一些水井可以在几天或几周内开启，但要使海湾的能源系统恢复正常，需要几个月的时间。
+* Israeli forces killed more than 200 people in strikes against Hezbollah, the Iran-backed militant group, on Wednesday. Top European diplomats called for Lebanon to be included in the cease-fire.
+* 周三，以色列军队在对伊朗支持的激进组织真主党的罢工中杀死了200多人。欧洲高级外交官呼吁将黎巴嫩纳入停火协议。
+* Critics wonder if this is America’s “Suez moment,” when a leading power signals the start of its international decline.
+* 批评人士怀疑这是否是美国的“苏伊士时刻” ，当一个领先的力量标志着其国际衰落的开始。
+* The two-week truce agreement already seems to be on shaky ground over two issues, the Strait of Hormuz and the status of Lebanon.
+* 在霍尔木兹海峡和黎巴嫩地位这两个问题上，为期两周的停火协议似乎已经站不住脚。
+* Zealous officials burned their predecessors’ romance novels. Now, young Muslim women in northern Nigeria publish their erotic books in installments on WhatsApp.
+* 狂热的官员烧毁了他们前辈的浪漫小说。现在，尼日利亚北部的年轻穆斯林妇女在WhatsApp上分期出版她们的色情书籍。
+* An entrepreneur behind drones that make the final strike themselves epitomizes the transformation of Ukraine’s civilian technology industry into a defense powerhouse.
+* 无人机背后的企业家自己进行最后的打击，体现了乌克兰民用技术产业向国防强国的转变。
+* In the eastern state of Saxony-Anhalt, the Alternative for Germany could win control of the government this fall. Once in power, it has a plan to overhaul German society.
+* 在东部的萨克森-安哈特州，德国的替代方案可能会在今年秋天赢得政府的控制权。一旦掌权，它就有一个彻底改革德国社会的计划。
+* A study said church attendance had soared among British young people, a trend reversal that excited religious conservatives around the world. Turns out it wasn’t true.
+* 一项研究表明，英国年轻人参加教会的人数激增，这一趋势逆转了全世界宗教保守派的兴奋。原来这不是真的。
+* Vietnam, the world’s No. 2 rice exporter, cut production as power prices surged. Even with a temporary cease-fire in Iran, worries linger over the world’s food supply.
+* 世界第二大米出口国越南因电价飙升而减产。即使伊朗暂时停火，人们对世界粮食供应的担忧依然挥之不去。
+* Countries including Australia, Spain and others have already passed bans or are working on plans to restrict teenagers’ access to social sites.
+* 包括澳大利亚、西班牙和其他国家在内的国家已经通过了禁令，或正在制定限制青少年访问社交网站的计划。
 * Dominic Khoo made waves in Singapore as an investor in expensive timepieces. Now many of his clients accuse him of fraud.
 * Dominic Khoo作为昂贵时计的投资者，在新加坡掀起了波澜。现在，他的许多客户都指责他欺诈。
-* After the deadliest attack in Afghanistan since the Taliban took over, families searched among photos and remains for signs of their relatives.
-* 在阿富汗发生自塔利班接管以来最致命的袭击事件后，家人在照片中搜索，并仍在寻找亲人的迹象。
-* The American leaders slathered on the praise for the nationalist standard-bearer just days before an election he could lose.
-* 美国领导人在可能失败的选举前几天对这位民族主义旗手赞不绝口。
-* As the Persian Gulf conflict boosts the oil revenue that finances Moscow’s war against Ukraine, Kyiv’s forces are striking at Russia’s ability to refine and ship its crude.
-* 随着波斯湾冲突增加了为莫斯科对乌克兰战争提供资金的石油收入，基辅的部队正在打击俄罗斯精炼和运输原油的能力。
-* Prime Minister Keir Starmer’s government blocked the artist formerly known as Kanye West from entering Britain for the three-day Wireless Festival in July.
-* 总理基尔·斯塔默（ Keir Starmer ）的政府在7月份阻止这位前身为坎耶·韦斯特（ Kanye West ）的艺术家进入英国参加为期三天的无线音
-* The journalist, Shelly Kittleson, was abducted by a militia allied with Iran and held for a week. Iraqi officials say she was freed in exchange for the release of militia members.
-* 记者雪莉·基特尔森（ Shelly Kittleson ）被与伊朗结盟的民兵绑架并被关押了一周。伊拉克官员说，她被释放，以换取民兵成员的释放。
-* Images of Kim Ju-ae at the helm of the military vehicle, with her father riding on top, added to speculation that she was being groomed to succeed him as North Korea’s leader.
-* 金珠爱（ Kim Ju-ae ）掌舵军车，父亲骑在车顶的图片，加剧了人们的猜测，即她正在准备接替金珠爱（ Kim Ju-ae ）担任朝鲜领导人。
 
 ## New York Times United States News
-* A Republican won Marjorie Taylor Greene’s seat, but Democrats shifted the district 25 points to the left since the 2024 presidential race. Conservative candidates lost in Wisconsin, too.
-* 一位共和党人赢得了马乔里·泰勒·格林（ Marjorie Taylor Greene ）的席位，但自2024年总统大选以来，民主党人将该地区向左移动了25分。保守党候选人也在威斯康星州落败。
-* After citizens in Republican states used ballot measures to protect abortion, expand Medicaid and raise the minimum wage, statehouses are moving to make such initiatives much harder.
-* 在共和党各州的公民使用投票措施来保护堕胎、扩大医疗补助和提高最低工资之后，州议会正在采取行动，使这些举措变得更加困难。
-* Alicia Halvensleben, the president of the city’s Common Council, defeated a Republican legislator, continuing a string of Trump-era mayoral wins for Democrats.
-* 该市议会主席艾丽西亚·哈尔文斯莱本（ Alicia Halvensleben ）击败了共和党立法者，继续为民主党赢得特朗普时代的一系列市长胜利。
-* Democrats continued to raise serious questions about a path forward while Republican leaders were mostly mum on President Trump’s decision to de-escalate tensions.
-* 民主党人继续对前进的道路提出严重质疑，而共和党领导人大多对特朗普总统缓和紧张局势的决定保持沉默。
-* Shawn Harris lost by about 12 percentage points in the 14th Congressional District, but he shifted the district 25 points to the left.
-* 肖恩·哈里斯（ Shawn Harris ）在第14届国会选区输了大约12个百分点，但他将选区向左移动了25个百分点。
-* With Judge Chris Taylor’s win, liberals increased their hold on the court. Races for the Wisconsin Supreme Court often draw national attention, but not this year.
-* 随着克里斯·泰勒法官的胜利，自由派增加了对球场的控制。威斯康星州最高法院的竞选经常引起全国的关注，但今年却没有。
-* Our reporter Helene Cooper walks us through the high-stakes operation to rescue a downed U.S. airman in Iran.
-* 我们的记者海伦·库珀（ Helene Cooper ）带领我们完成了高风险的行动，以营救一名在伊朗被击落的美国飞行员。
-* Tech leaders see Matt Mahan, a moderate Democrat, as their best option in the California governor’s race, but tensions have risen as he has struggled to gain traction in polls.
-* 技术领导人将温和的民主党人马特·马汉（ Matt Mahan ）视为加州州长竞选中的最佳选择，但随着他努力在民意调查中获得牵引力，紧张局势加剧。
-* Democrats had hoped for a strong showing, but the conservative district in Northwest Georgia elected Clay Fuller after President Trump endorsed him.
-* 民主党人本来希望表现强劲，但乔治亚州西北部的保守派选区在特朗普总统支持克莱·富勒之后选出了他。
-* This year’s election has featured more undecided voters and lower overall awareness compared with recent cycles.
-* 与最近的选举周期相比，今年的选举有更多的选民犹豫不决，整体意识较低。
+* The winners of a lottery for a presale prioritizing locals often came away with sticker shock. Still, organizers said early sales had “significantly exceeded” those of other Games.
+* 优先考虑当地人的预售彩票中奖者往往会因为贴纸震撼而离开。尽管如此，组织者表示，早期销售“大大超过”其他奥运会。
+* Homesteading, for all its bucolic imagery, taps into the desire to escape from the disquiet of modern America, where anything can happen.
+* 乡村庄园拥有丰富的田园形象，充分利用了逃离现代美国不安的愿望，在那里任何事情都可能发生。
+* The Tremont, Pa., area has roughly 2,000 residents and limited resources. The Trump administration plans to convert a warehouse there to hold nearly four times as many people.
+* 宾夕法尼亚州特里蒙特地区约有2000名居民，资源有限。特朗普政府计划在那里改造一个仓库，以容纳近四倍的人口。
+* Judges are ordering an unprecedented number of people deported after coming under significant pressure from the administration to do so or risk losing their jobs.
+* 在政府施加巨大压力后，法官下令将前所未有的人数驱逐出境，否则将面临失去工作的风险。
+* These gentle giants forage in shallow waters, primarily along the coast of Florida, and often have fatal encounters with boats. What can be done to help them?
+* 这些温和的巨人主要在佛罗里达海岸的浅水中觅食，经常与船只发生致命的遭遇。可以做些什么来帮助他们？
+* In person, on social media and in campaign ads, Democratic politicians are swearing with glee. It is usually aimed at President Trump.
+* 面对面，在社交媒体和竞选广告中，民主党政客们欢呼雀跃。它通常针对特朗普总统。
+* Proponents of renewable power will control the Phoenix area utility’s policymaking for the first time after they won an unusually contentious race that drew attention from national groups.
+* 可再生能源的支持者在赢得一场异常有争议的比赛后，将首次控制凤凰城地区公用事业的政策制定，这场比赛引起了国家团体的注意。
+* The fertility rate has been falling since 2007, in large part because of a plunge among teenagers.
+* 自2007年以来，生育率一直在下降，这在很大程度上是由于青少年的暴跌。
+* President Trump announced a conditional cease-fire with Israel on Iran, but the fundamental issues that led to the war remain unresolved.
+* 特朗普总统宣布与以色列就伊朗问题有条件停火，但导致战争的根本问题仍未得到解决。
+* A special prosecutor said a review of the incident found there was not sufficient evidence to charge Doug Diny, the mayor of Wausau.
+* 一名特别检察官表示，对该事件的审查发现，没有足够的证据指控沃索市市长道格·丁尼（ Doug Diny ）。
 
 ## New York Times Asia News
+* The country has been leveraging armed conflicts abroad, such as Russia’s war against Ukraine, to bolster its own military capabilities.
+* 该国一直在利用国外的武装冲突（例如俄罗斯对乌克兰的战争）来加强自身的军事能力。
+* Vietnam, the world’s No. 2 rice exporter, cut production as power prices surged. Even with a temporary cease-fire in Iran, worries linger over the world’s food supply.
+* 世界第二大米出口国越南因电价飙升而减产。即使伊朗暂时停火，人们对世界粮食供应的担忧依然挥之不去。
+* The war in Iran, now in a two-week ceasefire, drove up the costs of fertilizer and fuel, pressuring farmers far from the Gulf. Our Vietnam bureau chief, Damien Cave, reports from the Mekong Delta on how the strain on the rice industry is signaling food supply problems and higher prices to come.
+* 伊朗的战争现已停火两周，推高了化肥和燃料的成本，给远离海湾地区的农民施加了压力。我们的越南局局长Damien Cave在湄公河三角洲报告了稻米业的压力如何表明粮食供应问题和未来价格上涨。
+* Analysts said oil and natural gas energy companies would not quickly restore production unless attacks stopped and ships started moving through the Strait of Hormuz.
+* 分析师表示，除非停止袭击，船舶开始通过霍尔木兹海峡，否则石油和天然气能源公司不会迅速恢复生产。
 * Beijing appeared to have helped push Tehran to accept the two-week deal with the United States, reflecting China’s growing influence and its stake in avoiding a wider war.
 * 北京似乎帮助推动德黑兰接受与美国为期两周的协议，这反映了中国在避免更广泛战争方面日益增长的影响力和利害关系。
-* Markets reacted positively after the United States and Iran reached a last-minute cease-fire agreement.
-* 在美国和伊朗在最后一刻达成停火协议后，市场做出了积极反应。
+* Despite confusions about the terms of the deal, investors on Wednesday welcomed the move toward de-escalation between Iran and the United States.
+* 尽管对交易条款感到困惑，但投资者周三对伊朗和美国之间的降级举动表示欢迎。
 * Natural gas is hard to store, but China has found a way to do it, while also developing alternate suppliers and expanding production at home.
 * 天然气很难储存，但中国已经找到了一种方法，同时还开发了替代供应商并扩大了国内生产。
 * Dominic Khoo made waves in Singapore as an investor in expensive timepieces. Now many of his clients accuse him of fraud.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 美国从中国的进口大幅萎缩。但数十亿美元的变化似乎是会计噱头和赤裸裸的欺诈行为的结果。
 * Images of Kim Ju-ae at the helm of the military vehicle, with her father riding on top, added to speculation that she was being groomed to succeed him as North Korea’s leader.
 * 金珠爱（ Kim Ju-ae ）掌舵军车，父亲骑在车顶的图片，加剧了人们的猜测，即她正在准备接替金珠爱（ Kim Ju-ae ）担任朝鲜领导人。
-* After the deadliest attack in Afghanistan since the Taliban took over, families searched among photos and remains for signs of their relatives.
-* 在阿富汗发生自塔利班接管以来最致命的袭击事件后，家人在照片中搜索，并仍在寻找亲人的迹象。
-* The suspect, charged with five counts of murder, is accused of killing or ordering the killings of unarmed civilians during the Afghan war.
-* 被控五项谋杀罪的嫌疑人被控在阿富汗战争期间杀害或下令杀害手无寸铁的平民。
-* Institutions are grappling with the human remains in their collections that were used to justify debunked theories about race.
-* 各机构正在努力处理其藏品中的人类遗骸，这些遗骸被用来证明揭穿种族理论的正当性。
-* Long concerned about geopolitical crises, China redoubled efforts to secure energy security when President Trump started raising the stakes in his first term.
-* 长期以来，中国一直担心地缘政治危机，当特朗普总统在他的第一个任期内开始提高赌注时，中国加倍努力确保能源安全。
 
