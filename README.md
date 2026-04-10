@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Israeli forces killed more than 200 people in strikes against Hezbollah, the Iran-backed militant group, on Wednesday. Top European diplomats called for Lebanon to be included in the cease-fire.
-* 周三，以色列军队在对伊朗支持的激进组织真主党的罢工中杀死了200多人。欧洲高级外交官呼吁将黎巴嫩纳入停火协议。
+* Israel said it would continue striking the Iran-backed militia. Iran said it would not attend peace talks with the United States in Pakistan if the truce was not extended to Lebanon.
+* 以色列表示将继续打击伊朗支持的民兵。伊朗表示，如果休战不延伸到黎巴嫩，它将不会参加在巴基斯坦与美国的和平谈判。
+* Even after a cease-fire, Iran is keeping a chokehold on traffic, forcing countries to cut deals that could put them at odds with the U.S.
+* 即使在停火之后，伊朗仍在控制交通，迫使各国削减可能使它们与美国发生冲突的交易
+* Lake Balaton was beloved as a vacation spot. Now, luxury real estate projects serve many friends of Prime Minister Viktor Orban, and the locals are fed up.
+* 巴拉顿湖（ Lake Balaton ）作为度假胜地深受喜爱。现在，豪华房地产项目为总理维克多·欧尔班（ Viktor Orban ）的许多朋友服务，当地人已经受够了。
+* Xi Jinping held rare talks with a Taiwanese opposition leader, Cheng Li-wun, who floated the idea of some day inviting Mr. Xi to visit Taiwan.
+* 习近平与台湾反对派领导人程立文举行了罕见的会谈，他提出了有朝一日邀请习近平访问台湾的想法。
+* Mfundi Vundla spent 21 years in exile and created the popular television show “Generations.” His latest project is a play that explores the imperfections of the fight against apartheid.
+* Mfundi Vundla在流亡中度过了21年，并创作了受欢迎的电视节目“Generations.“他的最新项目是一部探索反对种族隔离斗争的不完美的戏剧。
+* The U.S. has made it impossible for them to stay legally, and their own country makes it difficult for them to return.
+* 美国使他们无法合法居留，他们自己的国家使他们很难返回。
+* For Iran’s theocratic rulers, just surviving the U.S.-Israeli onslaught means victory. But the seeds of their next crisis may already be planted.
+* 对于伊朗的神权统治者来说，在美以进攻中幸存下来就意味着胜利。但他们下一次危机的种子可能已经播下。
 * Critics wonder if this is America’s “Suez moment,” when a leading power signals the start of its international decline.
 * 批评人士怀疑这是否是美国的“苏伊士时刻” ，当一个领先的力量标志着其国际衰落的开始。
-* The two-week truce agreement already seems to be on shaky ground over two issues, the Strait of Hormuz and the status of Lebanon.
-* 在霍尔木兹海峡和黎巴嫩地位这两个问题上，为期两周的停火协议似乎已经站不住脚。
 * Zealous officials burned their predecessors’ romance novels. Now, young Muslim women in northern Nigeria publish their erotic books in installments on WhatsApp.
 * 狂热的官员烧毁了他们前辈的浪漫小说。现在，尼日利亚北部的年轻穆斯林妇女在WhatsApp上分期出版她们的色情书籍。
-* An entrepreneur behind drones that make the final strike themselves epitomizes the transformation of Ukraine’s civilian technology industry into a defense powerhouse.
-* 无人机背后的企业家自己进行最后的打击，体现了乌克兰民用技术产业向国防强国的转变。
-* In the eastern state of Saxony-Anhalt, the Alternative for Germany could win control of the government this fall. Once in power, it has a plan to overhaul German society.
-* 在东部的萨克森-安哈特州，德国的替代方案可能会在今年秋天赢得政府的控制权。一旦掌权，它就有一个彻底改革德国社会的计划。
-* A study said church attendance had soared among British young people, a trend reversal that excited religious conservatives around the world. Turns out it wasn’t true.
-* 一项研究表明，英国年轻人参加教会的人数激增，这一趋势逆转了全世界宗教保守派的兴奋。原来这不是真的。
-* Vietnam, the world’s No. 2 rice exporter, cut production as power prices surged. Even with a temporary cease-fire in Iran, worries linger over the world’s food supply.
-* 世界第二大米出口国越南因电价飙升而减产。即使伊朗暂时停火，人们对世界粮食供应的担忧依然挥之不去。
-* Countries including Australia, Spain and others have already passed bans or are working on plans to restrict teenagers’ access to social sites.
-* 包括澳大利亚、西班牙和其他国家在内的国家已经通过了禁令，或正在制定限制青少年访问社交网站的计划。
-* Dominic Khoo made waves in Singapore as an investor in expensive timepieces. Now many of his clients accuse him of fraud.
-* Dominic Khoo作为昂贵时计的投资者，在新加坡掀起了波澜。现在，他的许多客户都指责他欺诈。
+* Talks to end the war in Ukraine could resume soon, said President Volodymyr Zelensky as he expressed skepticism about a breakthrough.
+* 总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）表示，结束乌克兰战争的谈判可能很快就会恢复，他对突破表示怀疑。
 
 ## New York Times United States News
-* The winners of a lottery for a presale prioritizing locals often came away with sticker shock. Still, organizers said early sales had “significantly exceeded” those of other Games.
-* 优先考虑当地人的预售彩票中奖者往往会因为贴纸震撼而离开。尽管如此，组织者表示，早期销售“大大超过”其他奥运会。
-* Homesteading, for all its bucolic imagery, taps into the desire to escape from the disquiet of modern America, where anything can happen.
-* 乡村庄园拥有丰富的田园形象，充分利用了逃离现代美国不安的愿望，在那里任何事情都可能发生。
-* The Tremont, Pa., area has roughly 2,000 residents and limited resources. The Trump administration plans to convert a warehouse there to hold nearly four times as many people.
-* 宾夕法尼亚州特里蒙特地区约有2000名居民，资源有限。特朗普政府计划在那里改造一个仓库，以容纳近四倍的人口。
-* Judges are ordering an unprecedented number of people deported after coming under significant pressure from the administration to do so or risk losing their jobs.
-* 在政府施加巨大压力后，法官下令将前所未有的人数驱逐出境，否则将面临失去工作的风险。
-* These gentle giants forage in shallow waters, primarily along the coast of Florida, and often have fatal encounters with boats. What can be done to help them?
-* 这些温和的巨人主要在佛罗里达海岸的浅水中觅食，经常与船只发生致命的遭遇。可以做些什么来帮助他们？
-* In person, on social media and in campaign ads, Democratic politicians are swearing with glee. It is usually aimed at President Trump.
-* 面对面，在社交媒体和竞选广告中，民主党政客们欢呼雀跃。它通常针对特朗普总统。
-* Proponents of renewable power will control the Phoenix area utility’s policymaking for the first time after they won an unusually contentious race that drew attention from national groups.
-* 可再生能源的支持者在赢得一场异常有争议的比赛后，将首次控制凤凰城地区公用事业的政策制定，这场比赛引起了国家团体的注意。
-* The fertility rate has been falling since 2007, in large part because of a plunge among teenagers.
-* 自2007年以来，生育率一直在下降，这在很大程度上是由于青少年的暴跌。
-* President Trump announced a conditional cease-fire with Israel on Iran, but the fundamental issues that led to the war remain unresolved.
-* 特朗普总统宣布与以色列就伊朗问题有条件停火，但导致战争的根本问题仍未得到解决。
-* A special prosecutor said a review of the incident found there was not sufficient evidence to charge Doug Diny, the mayor of Wausau.
-* 一名特别检察官表示，对该事件的审查发现，没有足够的证据指控沃索市市长道格·丁尼（ Doug Diny ）。
+* Vice President JD Vance is leading negotiations this weekend toward an end to a war that he had opposed starting.
+* 副总统JD Vance本周末正在领导谈判，以结束他曾反对发动的战争。
+* Avid players of video games have emerged as a target demographic for recruiters at range of federal agencies, including the military and the Department of Homeland Security.
+* 视频游戏的狂热玩家已经成为包括军方和国土安全部在内的联邦机构招聘人员的目标人群。
+* At a gathering in New York, potential candidates made overtures to a vital Democratic constituency.
+* 在纽约的一次聚会上，潜在的候选人向一个重要的民主党选区提出了建议。
+* California’s ballot initiative wars are so lucrative that signature gatherers are offering cash and pizza for names on a petition. The exchange is illegal, and state officials say they are investigating.
+* 加利福尼亚州的选票倡议战争是如此有利可图，以至于签名采集者为请愿书上的名字提供现金和披萨。这种交换是非法的，州政府官员表示他们正在调查。
+* Since imposing a $100,000 fee on new visas in September, the Trump administration has upended the skilled worker program.
+* 自9月份对新签证征收10万美元费用以来，特朗普政府颠覆了技术工人计划。
+* In the Pacific Northwest, mail-in ballots have been the norm for decades, but President Trump’s war on such voting has turned a point of regional pride into another partisan battle line.
+* 在太平洋西北地区，邮寄选票几十年来一直是常态，但特朗普总统对这种投票的战争已将地区自豪感变成了另一条党派战线。
+* A Times examination reveals thousands of threats against state judges, in addition to assaults and fatal attacks. Judges say local law enforcement agencies often can’t offer adequate protection.
+* 《纽约时报》的一项调查显示，除了袭击和致命袭击之外，还有数以千计的针对州法官的威胁。法官表示，当地执法机构往往无法提供足够的保护。
+* The directive came amid a surge of suspiciously well-timed trades on oil and prediction markets just ahead of crucial moments in the conflict.
+* 该指令是在冲突的关键时刻之前，石油和预测市场上可疑的及时交易激增之际发布的。
+* For decades, draft-eligible men ages 18 to 25 have been required to register with the Selective Service System. Most states offer a registration option on driver’s license applications.
+* 几十年来， 18至25岁符合征兵条件的男性被要求在选择性服务系统中注册。大多数州都为驾驶执照申请提供登记选项。
+* In a lengthy social media post, the president attacked Tucker Carlson, Megyn Kelly and others in starkly personal terms. He also criticized the editorial board of The Wall Street Journal.
+* 在一篇冗长的社交媒体帖子中，总统以赤裸裸的个人言论攻击了塔克·卡尔森（ Tucker Carlson ）、梅根·凯利（ Megyn他还批评了《华尔街日报》的编辑委员会。
 
 ## New York Times Asia News
+* Through art, food, tourism and academics, an increasingly isolated Moscow is seeking to cement lasting ties with Pyongyang.
+* 通过艺术、美食、旅游和学术，一个日益孤立的莫斯科正在寻求巩固与平壤的持久关系。
+* Many long-haul truckers in China have a tight budget and live frugally on the road, sleeping and cooking in their vehicles. Now, the pain at the pump is forcing some drivers to rethink their lives.
+* 中国的许多长途卡车司机预算紧张，在路上生活节俭，在车上睡觉和做饭。现在，加油站的痛苦迫使一些司机重新思考他们的生活。
+* Xi Jinping held rare talks with a Taiwanese opposition leader, Cheng Li-wun, who floated the idea of some day inviting Mr. Xi to visit Taiwan.
+* 习近平与台湾反对派领导人程立文举行了罕见的会谈，他提出了有朝一日邀请习近平访问台湾的想法。
 * The country has been leveraging armed conflicts abroad, such as Russia’s war against Ukraine, to bolster its own military capabilities.
 * 该国一直在利用国外的武装冲突（例如俄罗斯对乌克兰的战争）来加强自身的军事能力。
 * Vietnam, the world’s No. 2 rice exporter, cut production as power prices surged. Even with a temporary cease-fire in Iran, worries linger over the world’s food supply.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 尽管对交易条款感到困惑，但投资者周三对伊朗和美国之间的降级举动表示欢迎。
 * Natural gas is hard to store, but China has found a way to do it, while also developing alternate suppliers and expanding production at home.
 * 天然气很难储存，但中国已经找到了一种方法，同时还开发了替代供应商并扩大了国内生产。
-* Dominic Khoo made waves in Singapore as an investor in expensive timepieces. Now many of his clients accuse him of fraud.
-* Dominic Khoo作为昂贵时计的投资者，在新加坡掀起了波澜。现在，他的许多客户都指责他欺诈。
-* U.S. imports from China have shrunk drastically. But billions of dollars of the change appear to be the result of accounting gimmicks and outright fraud.
-* 美国从中国的进口大幅萎缩。但数十亿美元的变化似乎是会计噱头和赤裸裸的欺诈行为的结果。
-* Images of Kim Ju-ae at the helm of the military vehicle, with her father riding on top, added to speculation that she was being groomed to succeed him as North Korea’s leader.
-* 金珠爱（ Kim Ju-ae ）掌舵军车，父亲骑在车顶的图片，加剧了人们的猜测，即她正在准备接替金珠爱（ Kim Ju-ae ）担任朝鲜领导人。
 
