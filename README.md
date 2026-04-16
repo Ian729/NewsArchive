@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Catholicism is growing fast on the continent, yet Africans play a comparatively small role in church leadership. Cameroon, which Leo XIV will visit Wednesday, shows the divide.
-* 天主教在非洲大陆迅速发展，但非洲人在教会领导中发挥的作用相对较小。利奥十四世将于周三访问的喀麦隆显示了这一分歧。
+* Pakistan’s foreign ministry said it expected to host a second round of U.S.-Iran talks but did not say when, as a Pakistani delegation visited the Iranian capital.
+* 巴基斯坦外交部表示，预计将主办第二轮美伊会谈，但没有说明何时作为巴基斯坦代表团访问伊朗首都。
+* Moscow is again ramping up missile and drone attacks on civilian targets, dispelling any notion that a temporary cease-fire for Orthodox Easter might become more lasting.
+* 莫斯科再次加大了对平民目标的导弹和无人机袭击，消除了东正教复活节临时停火可能变得更持久的任何想法。
+* An effort to privatize the facility is a key test of whether Kyiv can overcome concerns about Russian attacks and corruption to attract foreign investment.
+* 该设施私有化的努力是对基辅能否克服对俄罗斯袭击和腐败的担忧以吸引外国投资的关键考验。
+* Corruption and economic mismanagement brought down Hungary’s authoritarian leader. Will his political disciples avoid those pitfalls?
+* 腐败和经济管理不善导致匈牙利独裁领导人下台。他的政治弟子会避免这些陷阱吗？
+* In a cloud forest village, a network of residents, foreigners and pacifist Quakers offered a precarious yet vital sanctuary for families expelled by the U.S. government.
+* 在一个云雾森林村庄，一个由居民、外国人和和平主义贵格会教徒组成的网络为被美国政府驱逐的家庭提供了一个不稳定但至关重要的庇护所。
+* China used a visit by the Vietnamese leader to show a deepening of security ties that analysts say far outpaces U.S. defense ties in the region.
+* 中国利用这位越南领导人的访问展示了安全关系的深化，分析人士称，这种关系远远超过了美国在该地区的防务关系。
+* Catholicism is growing fast on the continent, yet Africans play a comparatively small role in church leadership. Cameroon, where Leo XIV arrived on Wednesday, shows the disparity.
+* 天主教在非洲大陆迅速发展，但非洲人在教会领导中发挥的作用相对较小。利奥十四世周三抵达的喀麦隆显示了这种差异。
 * China has denied claims this month by U.S. intelligence that it might have shipped arms to Iran. In recent years, China has supported Iran with dual-use parts.
 * 中国本月否认了美国情报部门声称其可能向伊朗运送武器的说法。近年来，中国用两用零部件支持伊朗。
 * Oleksiy Klochkovsky has driven mail and parcels around the front line in Ukraine for four years. He keeps one ear tuned for danger from above.
 * 四年来， Oleksiy Klochkovsky一直在乌克兰前线运送邮件和包裹。他保持一只耳朵从上面调出危险。
-* Sugey Amaya’s brother was detained in El Salvador’s mass arrest campaign four years ago. She has devoted her life to helping prisoners like him.
-* 四年前， Sugey Amaya的兄弟在萨尔瓦多的大规模逮捕行动中被拘留。她一生致力于帮助像他这样的囚犯。
-* For years, Peter Magyar was a loyal ally of Viktor Orban, the far-right Hungarian leader. Then he changed sides — and defeated his former boss in a landslide victory on Sunday. Does he represent real change?
-* 多年来，彼得·马贾尔（ Peter Magyar ）一直是匈牙利极右翼领导人维克多·欧尔班（ Viktor Orban ）的忠实盟友。然后他改变了立场—并在周日以压倒性的胜利击败了他的前任老板。他代表了真正的变化吗？
-* Migrant workers in the United Arab Emirates, whose hospitality industry has been hit hard by the war with Iran, are facing furloughs, pay cuts and even repatriation.
-* 阿拉伯联合酋长国的接待业受到伊朗战争的严重打击，移民工人正面临休假、减薪甚至遣返。
-* The Danish government has contributed more than $250 million to Mykolaiv, as the Trump administration pushes a more business-focused plan.
-* 随着特朗普政府推动一项更加以商业为中心的计划，丹麦政府已向尼古拉耶夫捐赠了2.5亿多$。
-* The rising star in global centrist politics has secured a majority in the Canadian Parliament. Critics are crying foul.
-* 这颗全球中间派政治的冉冉升起的新星在加拿大议会中获得了多数席位。批评家们哭得很厉害。
-* Some theologians say the pontiff’s understanding of Augustine’s teachings helped inform his response to President Trump’s negative comments about him.
-* 一些神学家说，教皇对奥古斯丁教义的理解有助于他对特朗普总统对他的负面评论做出回应。
-* The body of a man accused of spying for Iran, Mohammed al-Mousawi, showed signs of torture, witnesses said. The U.N. has called for an investigation.
-* 目击者称，一名被指控为伊朗从事间谍活动的男子穆罕默德·穆萨维（ Mohammed al-Mousawi ）的尸体上有遭受酷刑的迹象。联合国呼吁进行调查。
+* President Claudia Sheinbaum of Mexico is under pressure to end one of her country’s most painful tragedies: the disappearance of more than 133,000 people.
+* 墨西哥总统克劳迪娅·谢恩鲍姆（ Claudia Sheinbaum ）面临着结束该国最痛苦悲剧之一的压力：超过133,000人失踪。
 
 ## New York Times United States News
-* More Perfect Union, a left-wing media organization, hopes to win back young voters and build a new generation of college influencers with its More Perfect University program.
-* 左翼媒体组织More Perfect Union希望通过其More Perfect University计划赢回年轻选民，并培养新一代大学影响力。
-* An influential order of nuns decided to complete its mission when the last sister dies. The only question left is how to finish well.
-* 当最后一个姐姐去世时，一群有影响力的修女决定完成其使命。剩下的唯一问题是如何完成。
-* Vivek Ramaswamy has all but cleared the field ahead of the May primary for Ohio governor, but whether a finance and pharma billionaire is the man for the moment is another question.
-* 维韦克·拉马斯瓦米（ Vivek Ramaswamy ）在5月份俄亥俄州州长初选之前几乎已经清除了这一领域，但目前金融和制药亿万富翁是否是另一个问题。
-* The Justice Department’s criminal inquiry into the Federal Reserve threatens to delay the confirmation of the next chair.
-* 司法部对美联储的刑事调查可能会推迟下一任主席的确认。
-* Vice President JD Vance appeared to express sympathy with critics of the war with Iran: “I recognize that young voters do not love the policy we have in the Middle East, OK. I understand.”
-* 副总统JD Vance似乎对伊朗战争的批评者表示同情： “我认识到年轻选民不喜欢我们在中东的政策，好吧。我明白了。”
-* The vice president, who is Catholic, took issue with Pope Leo XIV’s statement that disciples of Christ are “never on the side of those who once wielded the sword and today drop bombs.”
-* 副总统是天主教徒，他对教皇利奥十四世的声明提出异议，即基督的门徒“永远不会站在那些曾经挥舞剑，今天投下炸弹的人一边”。
-* The gathering ended with encouraging words, even as Israel continued to refuse to halt its military campaign against Iran-backed Hezbollah in Lebanon.
-* 会议以鼓舞人心的话语结束，尽管以色列继续拒绝停止对黎巴嫩境内伊朗支持的真主党的军事行动。
-* Senate leaders say key provisions fall short of what is necessary to prevent aircraft from midair collisions.
-* 参议院领导人表示，关键条款不足以防止飞机在空中相撞。
-* Democratic candidates see sudden voter interest in the sleepy contest as a campaign opportunity. All are scrambling for support from former backers of Eric Swalwell.
-* 民主党候选人将选民突然对昏昏欲睡的竞选感兴趣视为竞选机会。所有人都在争先恐后地寻求Eric Swalwell的前支持者的支持。
-* The boat was carrying 19 migrants from Mexico to Southern California when it overturned in May 2025, the authorities said. Two of the victims were children.
-* 当局说，这艘船在2025年5月倾覆时载有19名从墨西哥到南加州的移民。其中两名受害者是儿童。
+* Money from Democratic donors has flowed into the coffers of the party’s top Senate candidates — especially its nominee in Texas.
+* 来自民主党捐赠者的资金已经流入该党最高参议院候选人的金库，尤其是德克萨斯州的候选人。
+* Democrats in key Senate races out-raised their Republican rivals, but super PACs on the right are poised to play a powerful role in the midterms, new campaign finance filings showed.
+* 新的竞选财务文件显示，关键参议院竞选中的民主党人超过了他们的共和党竞争对手，但右翼的超级政治行动委员会准备在中期选举中发挥强大作用。
+* Robert F. Kennedy Jr. is expected to defend staff and funding cuts at the Health and Human Services Department he oversees.
+* 预计小罗伯特· F ·肯尼迪（ Robert F. Kennedy Jr. ）将为他所监管的卫生与公众服务部（ Health and Human Services Department ）的员工和资金削减
+* The Democrat-controlled legislature passed the measure on Tuesday, but Gov. Janet Mills, a Democrat running for Senate, has yet to say whether she will sign it.
+* 民主党控制的立法机构周二通过了该措施，但竞选参议院的民主党州长珍妮特·米尔斯（ Janet Mills ）尚未表示她是否会签署该措施。
+* President Trump has lashed out at enemies, allies and even the pope, and made it harder for Republicans to keep the focus on economic issues in a midterm election year.
+* 特朗普总统猛烈抨击敌人、盟友甚至教皇，并使共和党人更难在中期选举年继续关注经济问题。
+* The vice president is also the finance chair of the Republican National Committee, allowing him to court donors who could prove helpful should he run for president.
+* 副总统也是共和党全国委员会的财政主席，允许他向捐赠者求助，如果他竞选总统，捐赠者可能会有所帮助。
+* Ohio State isn’t the only university in turmoil, but few others have faced so many issues lately. One lawmaker called the school “a national embarrassment.”
+* 俄亥俄州立大学并不是唯一一所陷入动荡的大学，但最近很少有其他大学面临如此多的问题。一位议员称这所学校是“全国性的尴尬”。
+* “I wanted something new and something traditional and something that felt holy.”
+* 「我想要一些新的东西，一些传统的东西，一些感觉神圣的东西。」
+* It was the third such attack by the U.S. military in three days, and the 51st attack in a campaign against people who the United States has accused of smuggling drugs.
+* 这是美国军方在三天内第三次发动此类袭击，也是针对美国指控走私毒品者的第51次袭击。
+* The California Supreme Court upheld a lower court’s decision that said Mr. Eastman, had violated the rules of professional ethics.
+* 加利福尼亚州最高法院维持了下级法院的裁决，称伊士曼先生违反了职业道德规则。
 
 ## New York Times Asia News
+* After talks in Islamabad last weekend led to a two-week cease-fire, Pakistan is offering to host another round in an attempt to sustain ongoing peace efforts.
+* 上周末在伊斯兰堡举行的会谈导致为期两周的停火，巴基斯坦提出主办另一轮会谈，试图维持正在进行的和平努力。
+* China used a visit by the Vietnamese leader to show a deepening of security ties that analysts say far outpaces U.S. defense ties in the region.
+* 中国利用这位越南领导人的访问展示了安全关系的深化，分析人士称，这种关系远远超过了美国在该地区的防务关系。
+* Oil prices stabilized and stocks rose on optimism that diplomatic talks could yield a permanent peace deal.
+* 油价企稳，库存上涨，原因是对外交谈判可能达成永久和平协议的乐观情绪。
+* A steep slide in housing prices has left consumers less prosperous and less willing to spend, but the government is pouring money into new rail lines and other projects.
+* 房价的急剧下跌使消费者不那么繁荣，也不太愿意花钱，但政府正在向新的铁路线和其他项目投入资金。
+* With supply chains at risk, the aid to Southeast Asian nations is aimed at securing the availability of oil-based products, including medical equipment.
+* 由于供应链面临风险，对东南亚国家的援助旨在确保包括医疗设备在内的石油产品的可用性。
 * Known for desecrating a monument to victims of sexual slavery, the former YouTuber was convicted on multiple charges and given a six-month sentence.
 * 这位前YouTuber以亵渎性奴役受害者纪念碑而闻名，因多项指控被定罪并被判处六个月徒刑。
-* Despite hailing the negotiations as a “historic milestone,” Washington did not call for a halt to Israeli strikes or for a withdrawal from Lebanese territory.
-* 尽管华盛顿称赞谈判是“历史性的里程碑” ，但并未呼吁以色列停止罢工或撤出黎巴嫩领土。
+* Despite hailing negotiations between the two sides as a “historic milestone,” Washington did not call for a halt to Israeli strikes or for a withdrawal from Lebanese territory.
+* 尽管华盛顿称赞双方的谈判是“历史性的里程碑” ，但并未呼吁以色列停止罢工或撤出黎巴嫩领土。
 * But there were no early reports of casualties from the storm, which was named Sinlaku and was moving northwest of the region.
 * 但没有关于风暴造成人员伤亡的早期报道，该风暴名为Sinlaku ，正在该地区西北部移动。
 * China has denied claims this month by U.S. intelligence that it might have shipped arms to Iran. In recent years, China has supported Iran with dual-use parts.
 * 中国本月否认了美国情报部门声称其可能向伊朗运送武器的说法。近年来，中国用两用零部件支持伊朗。
 * The country’s creaking electricity grid is lagging behind its push for renewable sources — just as its growing economy hungers for oil stranded by war.
 * 该国摇摇欲坠的电网落后于其对可再生能源的推动—正如其不断增长的经济对战争搁浅的石油的渴望一样。
-* In a thinly veiled critique of the war in Iran, China’s leader said the world could not risk reverting “to the law of the jungle.”
-* 在对伊朗战争的毫不掩饰的批评中，中国领导人表示，世界不能冒险回到“丛林法则”。
-* Investors saw a possible path to peace, with the United States and Iran trading proposals for Iran to suspend nuclear activity.
-* 投资者看到了一条通往和平的可能道路，美国和伊朗就伊朗暂停核活动的提案进行了交易。
-* The storm, named Sinlaku, was expected to make landfall on Tuesday evening in Tinian and Saipan, where tens of thousands of people were urged to shelter in place.
-* 这场名为Sinlaku的风暴预计将于周二晚上在天宁岛和塞班岛登陆，成千上万的人被敦促到那里避难。
-* Multinationals in China are concerned that the regulations could allow authorities to penalize companies and executives for shifting supply chains away from the country.
-* 中国的跨国公司担心，这些法规可能允许当局惩罚将供应链从中国转移出去的公司和高管。
-* South Korea doesn’t have enough arenas to show off its own A-list talent. That’s why BTS began its world tour in a once-neglected, 22-year-old soccer stadium.
-* 韩国没有足够的舞台来炫耀自己的一线人才。这就是为什么BTS在一个曾经被忽视的22年历史的足球场开始世界巡回演出。
 
