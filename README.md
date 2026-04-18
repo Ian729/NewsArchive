@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* It was unclear if the agreement between Prime Minister Benjamin Netanyahu and the Lebanese government was being honored. Hezbollah, the Iranian-backed militia, acknowledged the temporary truce but did not say if it would abide by it.
-* 目前尚不清楚本雅明·内塔尼亚胡总理与黎巴嫩政府之间的协议是否得到遵守。伊朗支持的民兵真主党承认暂时停战，但没有说是否会遵守。
-* Despite the economic risks from the war, Beijing will likely stick to a hands-off approach. It is wary of being entangled in a conflict it opposed and has little sway over.
-* 尽管战争带来了经济风险，但北京可能会坚持不干涉的做法。它对卷入它所反对的冲突持谨慎态度，几乎没有什么影响力。
-* An effort to privatize the facility is a key test of whether Kyiv can overcome concerns about Russian attacks and corruption to attract foreign investment.
-* 该设施私有化的努力是对基辅能否克服对俄罗斯袭击和腐败的担忧以吸引外国投资的关键考验。
-* In a cloud forest village, a network of residents, foreigners and pacifist Quakers offered a precarious yet vital sanctuary for families expelled by the U.S. government.
-* 在一个云雾森林村庄，一个由居民、外国人和和平主义贵格会教徒组成的网络为被美国政府驱逐的家庭提供了一个不稳定但至关重要的庇护所。
-* For days, Pope Leo XIV has attracted criticism from President Trump and his allies for refusing to back the war in Iran. On Thursday, he reiterated his calls for peace.
-* 几天来，教皇利奥十四世因拒绝支持伊朗战争而受到特朗普总统及其盟友的批评。周四，他重申了对和平的呼吁。
-* Corruption and economic mismanagement brought down Hungary’s authoritarian leader. Will his political disciples avoid those pitfalls?
-* 腐败和经济管理不善导致匈牙利独裁领导人下台。他的政治弟子会避免这些陷阱吗？
-* Moscow is again ramping up missile and drone attacks on civilian targets, dispelling any notion that a temporary cease-fire for Orthodox Easter might become more lasting.
-* 莫斯科再次加大了对平民目标的导弹和无人机袭击，消除了东正教复活节临时停火可能变得更持久的任何想法。
-* After talks in Islamabad last weekend led to a two-week cease-fire, Pakistan is offering to host another round in an attempt to sustain continuing peace efforts.
-* 上周末在伊斯兰堡举行的会谈导致为期两周的停火，巴基斯坦提出主办另一轮会谈，试图维持持续的和平努力。
-* The officer was charged with assault leading to death, in the case of a man who was accused by Bahraini authorities of espionage during a domestic crackdown tied to the war in Iran.
-* 这名警官被指控犯有导致死亡的攻击罪，案件涉及一名男子，他在与伊朗战争有关的国内镇压期间被巴林当局指控从事间谍活动。
-* The leftist lawmaker has been a prime target of President Trump’s attacks on South Africa. The ruling, handed down after a conviction on gun charges, leaves Mr. Malema’s political future in doubt.
-* 这位左翼议员一直是特朗普总统袭击南非的主要目标。这项裁决是在对枪支指控定罪后做出的，这让马勒马先生的政治前途充满疑问。
+* The military said it would keep the vital waterway under its control until the U.S. ended its blockade of Iranian ports. The statement added to the uncertainty over access to the strait.
+* 军方表示，在美国结束对伊朗港口的封锁之前，它将保持对重要水道的控制。该声明增加了进入该海峡的不确定性。
+* Separate from the regular Iranian Navy, with boats that often go more than 115 miles per hour, it’s what a retired U.S. official calls a “disruptive force.”
+* 除了拥有时速超过115英里的船只的伊朗正规海军之外，一位退休的美国官员称之为“破坏性力量”。
+* The successor to Venezuela’s captured President Nicolás Maduro is purging the people who kept him in power.
+* 委内瑞拉被俘总统尼古拉斯·马杜罗（ Nicolás Maduro ）的继任者正在清洗让他掌权的人。
+* His visit includes a trip to a shrine where enslaved Africans were baptized before being forced into the treacherous voyage across the Atlantic Ocean.
+* 他的访问包括参观一座神社，在那里，被奴役的非洲人在被迫踏上穿越大西洋的危险航行之前接受了洗礼。
+* After his election last year, Leo XIV developed a reputation as a mild-mannered mediator. President Trump’s attacks have made him more combative.
+* 去年当选后，利奥十四世以温和的调解人而闻名。特朗普总统的攻击使他更加好斗。
+* To leftists abroad, Prime Minister Pedro Sánchez of Spain is a hero for standing up to President Trump. At home, Mr. Trump is seen as Mr. Sánchez’s political savior from thorny domestic challenges.
+* 对于国外的左翼分子来说，西班牙首相佩德罗·桑切斯（ Pedro Sánchez ）是勇敢面对特朗普总统的英雄。在国内，特朗普被视为桑切斯摆脱国内棘手挑战的政治救星。
+* Five years out of college, Samuel Samson has driven the Trump administration’s push to upend America’s postwar relationship with Europe.
+* 大学毕业五年后，塞缪尔·萨姆森（ Samuel Samson ）推动特朗普政府推动颠覆美国与欧洲的战后关系。
+* Authorities are using drones, troops and A.I. to crack down on cocaine smuggling. But gangs are finding new ways to move record amounts of drugs across the world.
+* 当局正在使用无人机、军队和人工智能来打击可卡因走私。但帮派正在寻找新的方法，将创纪录数量的毒品运往世界各地。
+* Lebanese people who had been displaced by fighting expressed a mix of excitement and uncertainty about a pause in Israel’s campaign against Hezbollah.
+* 因战斗而流离失所的黎巴嫩人对以色列对真主党的运动暂停表示兴奋和不确定。
+* Prime Minister Keir Starmer appears to have been kept in the dark repeatedly over Peter Mandelson, the Jeffrey Epstein associate — fueling an image of weakness.
+* 总理基尔·斯塔默（ Keir Starmer ）似乎一再因杰弗里·爱泼斯坦（ Jeffrey Epstein ）的同事彼得·曼德尔森（ Peter Mandelson ）而被蒙在鼓里，这助长了
 
 ## New York Times United States News
-* James Talarico, the Democratic nominee, has been amassing campaign cash as Senator John Cornyn and Attorney General Ken Paxton still battle each other.
-* 民主党候选人詹姆斯·塔拉里科（ James Talarico ）一直在积累竞选资金，因为参议员约翰·科宁（ John Cornyn ）和司法部长肯·帕克斯顿（ Ken Paxton ）仍在相互竞争。
-* She wanted to pry her late mother’s vineyard from two of her brothers. Instead, her lawyers were fined nearly $110,000 for citing bogus case law generated by artificial intelligence.
-* 她想从她的两个兄弟那里撬开她已故母亲的葡萄园。相反，她的律师因引用人工智能产生的虚假判例法而被罚款近11万美元$。
-* Diana Acosta Verde, who came into the United States illegally when she was six months pregnant, had to leave her baby at a hospital while she returned to a detention center.
-* 黛安娜·阿科斯塔·佛德（ Diana Acosta Verde ）在怀孕六个月时非法进入美国，在返回拘留中心时不得不将婴儿留在医院。
-* Restaurant operators say labor shortages, rising costs and worker fear have prompted an unusual alliance of industry and political leaders in Texas to call for legal pathways to hire immigrants.
-* 餐厅运营商表示，劳动力短缺、成本上升和工人恐惧促使德克萨斯州的工业和政治领导人组成了一个不寻常的联盟，呼吁通过法律途径雇用移民。
-* The Senate would need to also approve the stopgap measure that passed the House early Friday. Libertarian-leaning House Republicans had balked at a long-term extension.
-* 参议院还需要批准周五早些时候通过众议院的权宜措施。倾向于自由意志主义的众议院共和党人对长期延期犹豫不决。
-* At an economic event, the president sought to downplay the financial hardship that has followed his war with Iran, saying that “we’re having some fake inflation because of the fuel, the energy prices.”
-* 在一次经济事件中，总统试图淡化与伊朗的战争带来的财政困难，称“由于燃料和能源价格的原因，我们出现了一些虚假的通货膨胀。”
-* Todd Lyons said he would leave to spend more time with his family. He has spoken about a surge in threats against ICE officers, saying that he knew the reality firsthand.
-* 托德·莱昂斯（ Todd Lyons ）表示，他将离开这里，与家人共度更多时光。他谈到了对ICE官员的威胁激增，并说他亲自了解现实。
-* The suspect is accused of carrying out a string of attacks in the Atlanta area that killed two women and injured a homeless man. The authorities described the attacks as random.
-* 嫌疑人被指控在亚特兰大地区进行了一系列袭击，造成两名妇女死亡，一名无家可归的男子受伤。当局将这些袭击描述为随机袭击。
-* Set to be in place throughout the summer, the limit aims to ease congestion after less than 60 percent of flights ran on schedule.
-* 该限制将在整个夏季实施，旨在缓解不到60%的航班按时运行后的拥堵状况。
-* The police in suburban Chicago said they found no explosive devices. The investigation comes amid a public dispute between the pope and President Trump over the Iran war.
-* 芝加哥郊区的警方说，他们没有发现爆炸装置。此次调查是在教皇和特朗普总统就伊朗战争发生公开争执之际进行的。
+* Celeste Rivas Hernandez went missing from Lake Elsinore, Calif., at age 13. The musician known as D4vd has been detained in connection with her death.
+* Celeste Rivas Hernandez 13岁时从加利福尼亚州埃尔西诺湖失踪。这位名为D4vd的音乐家因与她的死亡有关而被拘留。
+* Iran’s government could emerge from the conflict with a blueprint to keep adversaries at bay, regardless of any restrictions on its nuclear program.
+* 无论伊朗的核计划受到何种限制，伊朗政府都可以从冲突中走出来，制定一个遏制对手的蓝图。
+* Students at the University of Arkansas disagreed with Turning Point’s direction, pointing to challenges ahead for the conservative group.
+* 阿肯色大学的学生不同意转折点的方向，指出了保守派群体面临的挑战。
+* Dozens of Democratic doctors are running for office in the midterms, including some spurred by opposition to Robert F. Kennedy Jr. and his anti-vaccine stance.
+* 数十名民主党医生正在中期竞选公职，其中包括一些反对小罗伯特· F ·肯尼迪（ Robert F. Kennedy Jr. ）及其反疫苗立场的人。
+* Confidential memos written by the justices shed light on how they came to issue emergency orders in cases about the scope of presidential power.
+* 法官们撰写的机密备忘录阐明了他们如何在有关总统权力范围的案件中发出紧急命令。
+* For years, Republican state legislators in Montana have been willing to team up with Democrats, but in nearly two dozen races on June 2, a nationally attuned right has those lawmakers in its sights.
+* 多年来，蒙大拿州的共和党州议员一直愿意与民主党人合作，但在6月2日的近二十场比赛中，一项全国性的权利让这些立法者看到了它的存在。
+* Secret memos obtained by The New York Times illuminate the origins of the court’s now-routine “shadow docket” rulings on presidential power.
+* 《纽约时报》获得的秘密备忘录阐明了法院现在对总统权力的例行“影子备忘录”裁决的起源。
+* The New York Times obtained a trove of documents illuminating the inner workings of the court as it embraced a secretive track for making major decisions.
+* 《纽约时报》获得了大量文件，阐明了法院的内部运作，因为它拥抱了做出重大决定的秘密轨道。
+* President Trump told a crowd of supporters that the price of oil and gas was coming down, part of an effort in recent days to present a rosier picture of the nearly two-month-long Iran war.
+* 特朗普总统告诉一群支持者，石油和天然气价格正在下跌，这是最近几天努力展示近两个月伊朗战争的更美好画面的一部分。
+* He will read a passage from the Old Testament that his Christian supporters cite as a call to national repentance and divine blessing.
+* 他将阅读旧约中的一段经文，他的基督徒支持者引用这段经文来呼吁国家悔改和神的祝福。
 
 ## New York Times Asia News
+* Analysts said energy and shipping companies would be reluctant to fully restore operations until they were confident that hostilities were over.
+* 分析师表示，能源和航运公司不愿意完全恢复运营，直到他们确信敌对行动已经结束。
+* The remarkable catalog of dates is one of the longest-running records of climate change. Its creator died, setting off a search for a successor.
+* 引人注目的日期目录是气候变化历史最悠久的记录之一。它的创造者死了，开始寻找继任者。
 * U Win Myint is a close ally of Ms. Aung San Suu Kyi, the country’s civilian leader. Both were forced from power by the military in a 2021 coup and imprisoned.
 * U Win Myint是该国文职领导人昂山素季的亲密盟友。两人都在2021年的政变中被军方迫使下台并被监禁。
 * Producers and the cultural authorities hope that technology can overcome a language barrier and take the country’s shows to the world.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 上周末在伊斯兰堡举行的会谈导致为期两周的停火，巴基斯坦提出主办另一轮会谈，试图维持持续的和平努力。
 * China used a visit by the Vietnamese leader to show a deepening of security ties that analysts say far outpaces U.S. defense ties in the region.
 * 中国利用这位越南领导人的访问展示了安全关系的深化，分析人士称，这种关系远远超过了美国在该地区的防务关系。
-* Oil prices stabilized and stocks rose on optimism that diplomatic talks could yield a permanent peace deal.
-* 油价企稳，库存上涨，原因是对外交谈判可能达成永久和平协议的乐观情绪。
-* A steep slide in housing prices has left consumers less prosperous and less willing to spend, but the government is pouring money into new rail lines and other projects.
-* 房价的急剧下跌使消费者不那么繁荣，也不太愿意花钱，但政府正在向新的铁路线和其他项目投入资金。
 
