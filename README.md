@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Iran reversed course on reopening the strategic waterway, warning it would block transit as long as the U.S. blockade of ships from Iranian ports remained in effect.
-* 伊朗改变了重新开放战略航道的路线，警告说，只要美国对伊朗港口船只的封锁仍然有效，它将阻止过境。
-* Many youth-led protests around the world have failed to bring meaningful change. But in Nepal, a new government is promising to do things differently.
-* 世界各地的许多青年领导的抗议活动未能带来有意义的变化。但在尼泊尔，新政府正在承诺以不同的方式做事。
-* The gas-rich Gulf nation is in a state of “strategic shock” after the war dealt a serious blow to its economy, sending ripples around the world.
-* 这个天然气资源丰富的海湾国家在战争对其经济造成严重打击后处于“战略冲击”状态，在世界各地引发涟漪。
-* The Black Sea country is holding its eighth election in five years, with Bulgarians yearning for the kind of prosperous life enjoyed by other Europeans.
-* 这个黑海国家正在举行五年来的第八次选举，保加利亚人渴望其他欧洲人所享有的繁荣生活。
-* Over the past year or so, young people have rallied across continents to oust old-guard governments. What’s happened since?
-* 在过去一年左右的时间里，年轻人集结在各大洲，推翻守旧政府。之后发生了什么？
-* The delegation told Cuba’s leadership that it had only a narrow window of time to make the economic and political changes demanded by the Trump administration.
-* 该代表团告诉古巴领导人，它只有很短的时间来进行特朗普政府要求的经济和政治变革。
-* It was the deadliest mass shooting in Ukraine in years, where firearms have proliferated since the war with Russia began.
-* 这是乌克兰多年来最致命的大规模枪击事件，自与俄罗斯的战争开始以来，枪支激增。
-* Although much of the regular Iranian navy is destroyed, the Islamic Revolutionary Guards Corps can still deploy small, speedy boats to disrupt shipping.
-* 尽管伊朗正规海军大部分被摧毁，但伊斯兰革命卫队仍然可以部署小型快艇来扰乱航运。
-* Pope Leo responded directly on Monday to a presidential attack. But since then, he said, some of his statements during his Africa trip have been misconstrued.
-* 教皇利奥周一直接回应了总统的袭击。但他说，从那时起，他在非洲之行中的一些陈述被误解了。
-* The successor to Venezuela’s captured President Nicolás Maduro is purging the people who kept him in power.
-* 委内瑞拉被俘总统尼古拉斯·马杜罗（ Nicolás Maduro ）的继任者正在清洗让他掌权的人。
+* President Trump said that a U.S. Navy destroyer had fired on an Iran-flagged vessel that was trying to evade a blockade. He also said an American delegation was heading to Pakistan for more peace talks, but an Iranian official said there were “no plans” for negotiations.
+* 特朗普总统表示，一艘美国海军驱逐舰向一艘试图逃避封锁的悬挂伊朗国旗的船只开火。他还表示，美国代表团将前往巴基斯坦进行更多的和平谈判，但一名伊朗官员表示， “没有计划”进行谈判。
+* The Asia-Pacific was hit hard and quick by the war in Iran and its energy bottlenecks. Scenes of crisis there indicate that problems are multiplying and spreading.
+* 伊朗战争及其能源瓶颈对亚太地区造成了沉重而迅速的打击。那里的危机场景表明，问题正在成倍增加和蔓延。
+* A decade after Mohammed bin Salman unveiled his “Vision 2030” program to transform the country’s economy, the kingdom is facing financial strains and reassessing its trajectory.
+* 在穆罕默德·本·萨勒曼（ Mohammed bin Salman ）公布其转变该国经济的“2030年愿景”计划十年后，沙特王国正面临金融压力并重新评估其发展轨迹。
+* With deep spiritual ties to Iran, Pakistan’s minority Shiites are angry about the killing of Iran’s top clerics in U.S.-Israeli strikes, complicating Pakistan’s role as mediator.
+* 巴基斯坦的少数什叶派与伊朗有着深厚的精神联系，他们对伊朗最高神职人员在美以空袭中遇害感到愤怒，这使巴基斯坦作为调解人的角色复杂化。
+* Prime Minister Keir Starmer will address British lawmakers on Monday after it emerged that Peter Mandelson, his onetime ambassador to the United States, was rejected for top security clearances.
+* 基尔·斯塔默（ Keir Starmer ）总理将于周一向英国立法者发表讲话，此前有消息称，他曾任驻美国大使彼得·曼德尔森（ Peter Mandelson ）被拒绝获得最高安全许可。
+* The 7.5-magnitude undersea quake occurred off Iwate Prefecture, on the northeastern coast of Japan’s main island, Honshu. Waves of up to 10 feet were forecast.
+* 这场7.5级海底地震发生在日本本州岛东北海岸的岩手县附近。预测了高达10英尺的海浪。
+* Ukraine is using unmanned ground vehicles armed with bombs, guns or rockets to carry out attacks and keep its soldiers out of harm’s way.
+* 乌克兰正在使用配备炸弹、枪支或火箭的无人驾驶地面车辆进行袭击，并防止其士兵受到伤害。
+* Argentina’s right-wing president has tamed the country’s runaway inflation. Now he wants to transform its values.
+* 阿根廷右翼总统驯服了该国失控的通货膨胀。现在他想转变它的价值观。
+* The U.S. remains an essential player. The problem, one analyst said, is how to deal effectively with a power that is “indispensable, coercive and unpredictable at the same time.”
+* 美国仍然是一个重要的参与者。一位分析师表示，问题在于如何有效应对“同时不可或缺、强制性和不可预测”的权力。
+* Two senior Hamas officials in Gaza said the group was prepared to relinquish some automatic rifles and other arms, a concession that falls short of Israeli-U.S. demands.
+* 哈马斯在加沙的两名高级官员表示，该组织准备放弃一些自动步枪和其他武器，这一让步没有达到以色列和美国的要求。
 
 ## New York Times United States News
-* The attempt by the Khayyats to influence foreign policy while discussions are underway about potential Trump family deals is an increasingly common feature of the president’s second term.
-* 在讨论特朗普家族潜在交易的同时，海亚特人试图影响外交政策，这是总统第二任期越来越普遍的特征。
-* Some Muslim voters were once drawn to Republican positions on family values and individual liberty, but as Southern politicians stoke anti-Islamic sentiment, many feel threatened.
-* 一些穆斯林选民曾经被共和党对家庭价值观和个人自由的立场所吸引，但随着南方政客煽动反伊斯兰情绪，许多人感到受到威胁。
-* The California residents collected more than $141,000 in insurance payouts after staging bear attacks on their luxury cars, state officials said.
-* 州官员说，加利福尼亚州居民在对他们的豪华轿车进行熊袭击后，收到了超过141,000 $的保险金。
-* Former Vice President Kamala Harris, Senator Cory Booker of New Jersey and Gov. Andy Beshear of Kentucky spoke at a gathering of party insiders in Detroit, fueling presidential speculation.
-* 前副总统卡马拉·哈里斯（ Kamala Harris ）、新泽西州参议员科里·布克（ Cory Booker ）和肯塔基州州长安迪·贝希尔（ Andy Beshear ）在底特律的一次党内人士聚会上发表讲话，助长了总统的猜测。
-* A former lawyer for President Trump’s campaign, Joseph diGenova, is said to be planning to split time between Miami and Fort Pierce, where a grand jury overseen by a Trump-favored judge sits.
-* 据说，特朗普总统竞选团队的前律师约瑟夫·迪热诺娃（ Joseph diGenova ）计划在迈阿密和皮尔斯堡之间分配时间，由特朗普青睐的法官监督的大陪审团坐在那里。
-* Some 1,000 protesters tried to storm a private breeding and lab facility in Wisconsin in an effort to steal thousands of beagles that are bred for medical experimentation.
-* 大约1000名抗议者试图冲进威斯康星州的一个私人育种和实验室设施，试图偷走数千只用于医学实验的小猎犬。
-* A California man was charged with grand theft after the police said he reaped about $34,000 in what an official called an “off the charts” pasta-and-switch scheme involving Lego kits.
-* 一名加利福尼亚州男子被指控犯有重大盗窃罪，此前警方称他获得了大约34,000 $ ，一名官员称这是一项涉及乐高套件的“图表外”意大利面和开关计划。
-* The case of the missing Martin family was unsolved until a diver found a car in an Oregon river in 2024. Officials, relying on DNA tests, said Thursday that they had identified the remains of three people.
-* 直到2024年，一名潜水员在俄勒冈州的一条河中发现了一辆汽车，失踪的马丁家族的案件才得以解决。依靠DNA测试的官员周四表示，他们已经确定了三人的遗体。
-* The ship, the Mariana, was found overturned days after the Coast Guard lost contact with its crew, after a super typhoon struck.
-* 这艘名为“马里亚纳”的船在超级台风袭击后，在海岸警卫队与船员失去联系的几天后被发现被推翻。
-* In the latest ruling, an appeals court in Washington allowed construction to continue until at least June while it considered the case.
-* 在最新的裁决中，华盛顿的一个上诉法院允许在审理案件期间至少持续到6月。
+* The vice president is again center stage, after abruptly leaving the first round of high-level Iranian peace talks without an agreement.
+* 在突然在没有达成协议的情况下离开第一轮伊朗高级别和平谈判后，副总统再次成为中心舞台。
+* With Virginians voting Tuesday to accept or reject redistricting, candidates from both parties await the voters’ judgment to decide whether — or where — to run for Congress.
+* 随着弗吉尼亚州人周二投票接受或拒绝重新划分选区，两党的候选人都在等待选民的判断，以决定是否或在哪里竞选国会议员。
+* New documents reveal what professors did to help Jeffrey Epstein get inside Harvard’s gates.
+* 新文件揭示了教授们如何帮助杰弗里·爱泼斯坦（ Jeffrey Epstein ）进入哈佛大学。
+* The latest attack raised the death toll to at least 180 in the campaign by the United States against people it accuses of smuggling drugs at sea.
+* 最近的袭击事件使美国针对被指控在海上走私毒品的人的运动中的死亡人数增加到至少180人。
+* The military said it had disabled the vessel after it ignored repeated warnings to stop, amid a U.S. blockade of Iranian ports. Marines boarded the ship and seized it.
+* 军方表示，在美国封锁伊朗港口期间，该船无视一再发出的停船警告，已将其禁用。海军陆战队员登上了这艘船并抓住了它。
+* At churches with connections to Pope Leo and the Trump administration, pastors and parishioners speak out on the feud between the president and the pontiff.
+* 在与教皇利奥和特朗普政府有联系的教堂中，牧师和教区居民就总统和教皇之间的争执发表意见。
+* A fellow student who had witnessed the kidnapping called the police, and other students helped track the girl to a gas station.
+* 目击绑架的同学报警，其他同学帮忙追踪女孩到加油站。
+* Weighed down by President Trump’s approval ratings, some Republican incumbents are struggling to raise money while Democrats look for targets like a Tennessee seat south of Nashville.
+* 受特朗普总统的支持率拖累，一些共和党现任议员正在努力筹集资金，而民主党人则在寻找像纳什维尔以南的田纳西州席位这样的目标。
+* He was one of five University of Buffalo faculty members fired for not signing loyalty oaths. In a landmark decision, the Supreme Court ruled in their favor.
+* 他是因未签署忠诚誓言而被解雇的五名布法罗大学教职员工之一。在一项具有里程碑意义的决定中，最高法院作出了有利于他们的裁决。
+* The Department of Justice is seeking ballots and other materials from the 2024 election. Michigan officials call it election interference.
+* 司法部正在寻求2024年大选的选票和其他材料。密歇根州官员称之为选举干预。
 
 ## New York Times Asia News
+* With deep spiritual ties to Iran, Pakistan’s minority Shiites are angry about the killing of Iran’s top clerics in U.S.-Israeli strikes, complicating Pakistan’s role as mediator.
+* 巴基斯坦的少数什叶派与伊朗有着深厚的精神联系，他们对伊朗最高神职人员在美以空袭中遇害感到愤怒，这使巴基斯坦作为调解人的角色复杂化。
+* The 7.7-magnitude undersea quake occurred off Iwate Prefecture, on the northeastern coast of Japan’s main island, Honshu.
+* 这场7.7级海底地震发生在日本本州岛东北海岸的岩手县附近。
+* The Asia-Pacific was hit hard and quick by the war in Iran and its energy bottlenecks. Scenes of crisis there indicate that problems are multiplying and spreading.
+* 伊朗战争及其能源瓶颈对亚太地区造成了沉重而迅速的打击。那里的危机场景表明，问题正在成倍增加和蔓延。
+* The android won a half-marathon for robots (and humans) on Sunday in Beijing, achieving a technological milestone while finishing faster than any person in history.
+* 这款机器人周日在北京赢得了机器人（和人类）的半程马拉松比赛，取得了技术上的里程碑，同时比历史上任何人都更快地完成比赛。
+* A community of stilt homes on the island of Borneo was reduced to ash in an overnight blaze.
+* 婆罗洲岛上的一群高跷房屋在一夜之间的大火中化为灰烬。
 * Over the past year or so, young people have rallied across continents to oust old-guard governments. What’s happened since?
 * 在过去一年左右的时间里，年轻人集结在各大洲，推翻守旧政府。之后发生了什么？
 * Many youth-led protests around the world have failed to bring meaningful change. But in Nepal, a new government is promising to do things differently.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 引人注目的日期目录是气候变化历史最悠久的记录之一。它的创造者死了，开始寻找继任者。
 * U Win Myint is a close ally of Ms. Aung San Suu Kyi, the country’s civilian leader. Both were forced from power by the military in a 2021 coup and imprisoned.
 * U Win Myint是该国文职领导人昂山素季的亲密盟友。两人都在2021年的政变中被军方迫使下台并被监禁。
-* Producers and the cultural authorities hope that technology can overcome a language barrier and take the country’s shows to the world.
-* 制作人和文化当局希望技术能够克服语言障碍，将该国的节目带到世界各地。
-* The severe disruption of oil supplies from the Middle East as a result of the war has prompted South Korea and the Philippines to make deals with Russia and Iran.
-* 战争导致中东石油供应严重中断，促使韩国和菲律宾与俄罗斯和伊朗达成协议。
-* Hundreds of migrants from Bangladesh, including Rohingya refugees, are feared dead after a boat to Malaysia overturned.
-* 数百名来自孟加拉国的移民，包括罗兴亚难民，在一艘前往马来西亚的船被推翻后恐怕已经死亡。
-* Despite the economic risks from the war, Beijing will likely stick to a hands-off approach. It is wary of being entangled in a conflict it opposed and has little sway over.
-* 尽管战争带来了经济风险，但北京可能会坚持不干涉的做法。它对卷入它所反对的冲突持谨慎态度，几乎没有什么影响力。
-* Sri Lanka had been refusing to send back the Iranian Navy personnel, including survivors from a warship that the United States torpedoed, during active hostilities.
-* 在目前的敌对行动中，斯里兰卡一直拒绝遣返伊朗海军人员，包括美国鱼雷摧毁的一艘军舰的幸存者。
 
