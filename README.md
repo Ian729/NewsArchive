@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Iran’s Revolutionary Guards said they had attacked and seized two cargo ships near the Strait of Hormuz, state media reported. Both sides were seeking to exert control in the waterway even as President Trump renewed a cease-fire.
-* 据伊朗国家媒体报道，伊朗革命卫队表示，他们在霍尔木兹海峡附近袭击并扣押了两艘货船。尽管特朗普总统延长了停火，但双方都在寻求对水道进行控制。
+* Oil was hovering above $100 a barrel and there were no public signs of a breakthrough in peace efforts. The White House said President Trump does not view Iran’s reported seizures as a cease-fire violation.
+* 石油价格徘徊在每桶100 $以上，和平努力没有取得突破的公开迹象。白宫表示，特朗普总统并不认为伊朗报告的缉获行动违反停火协议。
+* The killing of Ayatollah Ali Khamenei ushered in a new form of collective leadership in the country, with more power for the Revolutionary Guards.
+* 阿亚图拉·阿里·哈梅内伊（ Ayatollah Ali Khamenei ）被杀后，该国迎来了一种新的集体领导形式，革命卫队拥有更多权力。
+* The world’s third-largest exporter of natural gas, Australia has been too lenient in taxing lucrative gas exports, many in the country argue.
+* 澳大利亚是世界第三大天然气出口国，许多人认为，澳大利亚对利润丰厚的天然气出口征税过于宽松。
+* Unlike previous European assistance packages, the latest one is heavily weighted toward military spending, reflecting a view that the war is far from over.
+* 与之前的欧洲援助计划不同，最新的援助计划在很大程度上侧重于军费开支，这反映了一种观点，即战争远未结束。
+* With a record of pro-Russia statements, Rumen Radev handily won elections this week. Now Bulgarians and his E.U. partners wait to see which way he will turn.
+* 凭借亲俄言论的记录，鲁门·拉德夫（ Rumen Radev ）本周轻松赢得了选举。现在，保加利亚人和他的欧盟伙伴在等着看他会走哪条路。
+* The B’nei Menashe believe they are the children of Manasseh, a king of Judah exiled about 2,800 years ago. Evidence is thin, but Israel is welcoming them “home.”
+* B 'nei Menashe人认为他们是玛拿西的子孙，玛拿西是大约2800年前被流放的犹大国王。证据很少，但以色列欢迎他们“回家”。
+* The head-on collision of two local trains happened north of Copenhagen on Thursday morning, the authorities said. The cause was not yet known.
+* 当局表示，周四早上，两列当地火车正面相撞发生在哥本哈根北部。原因尚不清楚。
 * A new law forces Ukrainians in the captured regions to get Russian title deeds or risk losing their homes.
 * 一项新法律迫使被占领地区的乌克兰人获得俄罗斯地契，否则将面临失去家园的风险。
+* Iran’s leaders believe that they can withstand an enduring standoff longer than President Trump. The strategy could be economically devastating for average Iranians.
+* 伊朗领导人认为，他们能够承受比特朗普总统更长时间的持久对峙。该战略对普通伊朗人来说可能是经济上的毁灭性打击。
 * As the pontiff arrives in the tiny authoritarian nation of Equatorial Guinea, some Catholics in Africa say they are excited about his visit but are feeling a little left out.
 * 当教皇抵达赤道几内亚这个小小的威权国家时，非洲的一些天主教徒表示，他们对他的访问感到兴奋，但感到有点被忽视。
-* Pahalgam, with steep ravines, grassy hillsides and pine forests, is a base for Hindu pilgrimages that business operators hope will revive visitors.
-* 帕哈尔甘（ Pahalgam ）拥有陡峭的峡谷、草地山坡和松树林，是印度教朝圣的基地，商业经营者希望能够重振游客。
-* After months of impasse because of objections from Prime Minister Viktor Orban of Hungary, ambassadors were meeting to discuss a key step on the way to disbursing the much-needed money.
-* 由于匈牙利总理维克托·奥尔班（ Viktor Orban ）的反对而陷入僵局数月后，大使们正在开会讨论支付急需的资金的关键步骤。
-* Iran’s retaliatory attacks on the United Arab Emirates have put the U.A.E.’s large Iranian expatriate community in an uncomfortable position.
-* 伊朗对阿联酋的报复性攻击使阿联酋庞大的伊朗侨民社区处于不舒服的境地。
-* The F.B.I. believed the child was kidnapped by a transgender parent to potentially undergo gender transition surgery, according to court filings.
-* 根据法庭文件，联邦调查局认为这名儿童被跨性别父母绑架，可能是为了接受性别转换手术。
-* The proposal, which was approved by Parliament on Tuesday, will ban the supply or sale of tobacco products to anyone born in 2009 or after, permanently.
-* 该提案于周二获得议会批准，将禁止向2009年或之后出生的任何人永久供应或销售烟草制品。
-* The Navy destroyers enforcing a blockade of Iranian ports carry weapons fielded after an American warship was attacked and nearly sunk more than 25 years ago.
-* 对伊朗港口实施封锁的海军驱逐舰携带着美国军舰在25年前遭到袭击并几乎沉没后部署的武器。
-* A U.S. aid worker said that the Afghans, who were evacuated to Qatar, would face a choice between moving to the Democratic Republic of Congo and living under the Taliban.
-* 一名美国援助工作者表示，撤离到卡塔尔的阿富汗人将面临搬到刚果民主共和国或在塔利班统治下生活的选择。
 
 ## New York Times United States News
-* Utah Valley University was thrilled that Sharon McMahon, a best-selling author, would speak at its graduation. And then her old posts resurfaced.
-* 犹他谷大学很高兴畅销书作家沙龙·麦克马洪（ Sharon McMahon ）将在毕业典礼上发表演讲。然后她的旧帖子重新浮出水面。
-* The Trump administration and Democratic state leaders are blaming each other for what everyone agrees is a big problem. The president has targeted California and Gov. Gavin Newsom in particular.
-* 特朗普政府和民主党国家领导人正在互相指责，因为每个人都认为这是一个大问题。总统特别针对加利福尼亚州和州长Gavin Newsom。
-* Gov. Greg Abbott gave the leaders of Houston, Dallas and Austin until Wednesday to amend their policies to his liking, or return over $150 million in police funding.
-* 州长格雷格·阿博特（ Greg Abbott ）让休斯顿、达拉斯和奥斯汀的领导人在周三之前根据自己的喜好修改政策，否则将退还超过1.5亿美元的警方资金。
-* A law meant to end surprise medical billing accidentally created a multibillion-dollar industry that is making doctors richer.
-* 一项旨在结束意外医疗账单的法律意外地创造了一个价值数十亿美元的行业，使医生变得更加富有。
-* “We cannot bring a stick to a knife fight”: Democrats are increasingly open to extreme measures, including gerrymandering, when the stakes are high.
-* “我们不能拿刀打架” ：当利害关系重大时，民主党人越来越愿意接受极端措施，包括挑拨离间。
-* Shauni Kerkhoff was wrongfully implicated in the notorious Capitol Hill pipe-bomb case. Can she ever fully move on?
-* Shauni Kerkhoff被错误地卷入了臭名昭著的国会山管道炸弹案。她还能继续前进吗？
-* The arrest came two days after a gunman carried out a rampage that left eight children dead in Shreveport and injured two adults.
-* 两天前，一名枪手在什里夫波特横冲直撞，造成8名儿童死亡，两名成年人受伤。
-* Virginia’s approval of an aggressive gerrymander could give Democrats up to four additional House seats as they seek to win back Congress.
-* 弗吉尼亚州批准一个咄咄逼人的gerrymander可能会给民主党增加多达四个众议院席位，因为他们试图赢回国会。
-* The officer faces a misdemeanor charge after an encounter in Colorado, becoming one of the few federal agents to be prosecuted by local officials during the immigration crackdown.
-* 这名官员在科罗拉多州遭遇轻罪指控后，成为少数几个在移民镇压期间被当地官员起诉的联邦特工之一。
-* Democrats now hold six of the state’s 11 seats in the U.S. House, but the new map could allow the party to win 10 of them.
-* 民主党现在在美国众议院的11个席位中占有6个席位，但新地图可以让该党赢得其中的10个席位。
+* Seth Bodnar, an independent, could have the best chance of breaking the Republican stranglehold in Montana, but the state’s Democrats are choosing to fight.
+* 独立人士塞思·博德纳（ Seth Bodnar ）最有可能打破共和党在蒙大拿州的束缚，但该州的民主党人正在选择战斗。
+* The nonpartisan primary remains volatile after the departure of Eric Swalwell. A televised debate featured six leading candidates, but produced few fireworks.
+* 埃里克·斯沃尔韦尔（ Eric Swalwell ）离开后，无党派初选仍然不稳定。一场电视辩论有六名领先的候选人参加，但很少有烟花爆竹。
+* Republicans pushed through a budget plan with a $70 billion increase for immigration enforcement after an overnight session in which they beat back Democratic proposals aimed at lowering costs.
+* 共和党人在一夜之间的会议上击败了旨在降低成本的民主党提案后，推动了一项预算计划，增加了700亿美元的移民执法。
+* In four days of congressional testimony, the health secretary sought to please the White House and his MAHA base at the same time.
+* 在为期四天的国会证词中，卫生部长试图同时取悦白宫及其MAHA基地。
+* F.B.I. applications to surveil Mr. Page, a 2016 Trump campaign adviser, during the investigation into Russia’s interference in the election had myriad errors and omissions, an inspector general found.
+* 联邦调查局局长发现，在对俄罗斯干预选举的调查中，联邦调查局要求监视2016年特朗普竞选顾问佩奇先生的申请存在无数错误和遗漏。
+* Northern Virginia carried the measure to victory even as turnout in Democratic areas lagged and nearly all of the state shifted right from last year’s governor’s race.
+* 即使民主党地区的投票率落后，北弗吉尼亚州也取得了胜利，几乎所有州都从去年的州长竞选中转移到了北弗吉尼亚州。
+* The prediction market said the candidates violated new rules. The platform and its competitors face growing scrutiny from lawmakers and regulators over how political betting is policed.
+* 预测市场表示，候选人违反了新规则。该平台及其竞争对手面临着立法者和监管机构对政治博彩监管方式的日益严格的审查。
+* Ms. Noem, the homeland security secretary at the time, was at a restaurant in Washington with her family when her bag was taken with $3,000 and her security badge inside.
+* 当时的国土安全部长诺姆女士和家人在华盛顿的一家餐馆里，她的包被带走了，里面有3000 $和她的安全徽章。
+* Representative Ro Khanna had asked Buckingham Palace for a private meeting between the victims and King Charles during his planned visit to the U.S. next week.
+* 众议员Ro Khanna曾要求白金汉宫在下周访问美国期间与受害者和查尔斯国王私下会面。
+* Teresa Peroni, 27, was last seen on July 4, 1983, in Selma, Ore. Marcus Sanfratello, the man seen with her that day, pleaded guilty to first-degree manslaughter after his arrest last year.
+* 27岁的特蕾莎·佩罗尼（ Teresa Peroni ）最后一次出现在1983年7月4日，地点在俄勒冈州塞尔玛。那天与她见面的Marcus Sanfratello在去年被捕后承认犯有一级过失杀人罪。
 
 ## New York Times Asia News
+* Investors wrestled with uncertainty about the cease-fire between the United States and Iran.
+* 投资者在美国和伊朗之间停火的不确定性中挣扎。
+* The world’s third-largest exporter of natural gas, Australia has been too lenient in taxing lucrative gas exports, many in the country argue.
+* 澳大利亚是世界第三大天然气出口国，许多人认为，澳大利亚对利润丰厚的天然气出口征税过于宽松。
+* The B’nei Menashe believe they are the children of Manasseh, a king of Judah exiled about 2,800 years ago. Evidence is thin, but Israel is welcoming them “home.”
+* B 'nei Menashe人认为他们是玛拿西的子孙，玛拿西是大约2800年前被流放的犹大国王。证据很少，但以色列欢迎他们“回家”。
+* The seizure of two cargo vessels by Iran in the Strait of Hormuz on Wednesday cast doubt on plans for a second round of talks in Pakistan’s capital.
+* 周三，伊朗在霍尔木兹海峡扣押了两艘货船，这让人对在巴基斯坦首都举行第二轮会谈的计划产生了怀疑。
+* A member of the other plane’s crew was making a video to commemorate the mission, the government said in a report on the 2021 crash. No one was hurt.
+* 政府在一份关于2021年坠机事件的报告中说，另一架飞机的机组人员正在制作一段视频来纪念这次任务。没有人受伤。
+* An American soldier was injured in a 2016 suicide bombing in Afghanistan. The justices cleared the way for the soldier to proceed with a lawsuit against a military contractor.
+* 一名美国士兵在2016年阿富汗的自杀式炸弹袭击中受伤。法官为士兵对军事承包商提起诉讼扫清了道路。
+* Artificial intelligence tools are making it faster than ever to reproduce creative work. Does copyright even matter anymore?
+* 人工智能工具使重现创造性工作的速度比以往任何时候都快。版权还重要吗？
 * For many people in Japan, the country’s regular tremors are not a big deal. Officials are urging them to prepare for the next catastrophic quake.
 * 对于许多日本人来说，这个国家经常发生的震动并不是什么大不了的事情。官员们敦促他们为下一次灾难性地震做好准备。
 * Pahalgam, with steep ravines, grassy hillsides and pine forests, is a base for Hindu pilgrimages that business operators hope will revive visitors.
 * 帕哈尔甘（ Pahalgam ）拥有陡峭的峡谷、草地山坡和松树林，是印度教朝圣的基地，商业经营者希望能够重振游客。
-* The proposal, which was approved by Parliament on Tuesday, will ban the supply or sale of tobacco products to anyone born in 2009 or after, permanently.
-* 该提案于周二获得议会批准，将禁止向2009年或之后出生的任何人永久供应或销售烟草制品。
 * There were landslides, flash floods and the closure of more than 100 schools in Wellington and the surrounding region.
 * 惠灵顿及周边地区发生了山体滑坡、山洪暴发和100多所学校关闭。
-* Investors assessed the growing uncertainty about the start of a second round of peace talks between the United States and Iran.
-* 投资者评估了美国和伊朗之间开始第二轮和平谈判的不确定性日益增加。
-* Prime Minister Sanae Takaichi reversed limits on arms exports as Japan faces rising threats from China and unpredictability from its main ally, the United States.
-* 日本首相高市早苗(Sanae Takaichi)扭转了对武器出口的限制，因为日本面临来自中国的日益严重的威胁，以及来自其主要盟友美国的不可预测性。
-* With deep spiritual ties to Iran, Pakistan’s minority Shiites are angry about the killing of Iran’s top clerics in U.S.-Israeli strikes, complicating Pakistan’s role as mediator.
-* 巴基斯坦的少数什叶派与伊朗有着深厚的精神联系，他们对伊朗最高神职人员在美以空袭中遇害感到愤怒，这使巴基斯坦作为调解人的角色复杂化。
-* The 7.7-magnitude undersea quake occurred off Iwate Prefecture, on the northeastern coast of Japan’s main island, Honshu.
-* 这场7.7级海底地震发生在日本本州岛东北海岸的岩手县附近。
-* The Asia-Pacific was hit hard and quick by the war in Iran and its energy bottlenecks. Scenes of crisis there indicate that problems are multiplying and spreading.
-* 伊朗战争及其能源瓶颈对亚太地区造成了沉重而迅速的打击。那里的危机场景表明，问题正在成倍增加和蔓延。
-* The android won a race featuring robots and humans on Sunday in Beijing, achieving a technological milestone while finishing faster than any person in history.
-* 这款机器人周日在北京赢得了一场由机器人和人类参加的比赛，达到了一个技术里程碑，同时完成速度比历史上任何人都快。
 
