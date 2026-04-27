@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* As prices for the precious metal soar, the industry’s guardrails have broken down.
-* 随着贵金属价格的飙升，该行业的护栏已经崩溃。
+* We ended up in a Colombian mine controlled by a drug cartel.
+* 我们最终进入了一个由贩毒集团控制的哥伦比亚矿井。
+* Not since his mother, Queen Elizabeth II, traveled to Washington after the Suez Crisis has a visit by the British monarch come at such a fraught time in Anglo-American relations.
+* 自从他的母亲伊丽莎白二世女王在苏伊士危机后前往华盛顿以来，这位英国君主的访问是在英美关系如此紧张的时刻进行的。
+* The two countries discussed long-term military cooperation, as they opened a memorial for North Korean troops killed in Russia’s war in Ukraine.
+* 两国讨论了长期的军事合作，为在俄罗斯乌克兰战争中丧生的朝鲜军队开设了纪念碑。
+* The death of the minister, Gen. Sadio Camara, a central figure in the country’s military government, comes amid escalating violence in the region.
+* 在该地区暴力升级之际，该国军政府中心人物萨迪奥·卡马拉（ Sadio Camara ）将军去世。
+* They signed petitions, organized rallies and held strategy sessions over karaoke, debating how far to push the authorities in their dispute with a developer.
+* 他们签署了请愿书，组织了集会，并就卡拉OK举行了战略会议，讨论在与开发商的纠纷中如何推动当局。
 * President Isaac Herzog of Israel has decided not to issue a pardon to Prime Minister Benjamin Netanyahu in his corruption case at this time, and instead will seek mediation, officials say.
 * 官员说，以色列总统艾萨克·赫尔佐格（ Isaac Herzog ）此时决定不赦免本雅明·内塔尼亚胡（ Benjamin Netanyahu ）总理的腐败案件，而是寻求调解。
+* Each side is betting it can last longer than the other, analysts say. But there are risks in a stalemate without a deal.
+* 分析师表示，双方都押注它可以比另一方持续更长时间。但是，在没有达成协议的情况下，僵局存在风险。
+* As prices for the precious metal soar, the industry’s guardrails have broken down.
+* 随着贵金属价格的飙升，该行业的护栏已经崩溃。
 * Officers denied that an illegal, large-scale gold operation was underway within earshot of their posts. But we had seen it with our own eyes.
 * 官员否认在他们的岗位上正在进行非法的大规模黄金交易。但我们亲眼目睹了这一切。
-* Ideas have been floated for how the contaminated zone could bring economic benefits to Ukraine. But for the foreseeable future, it will be an army-controlled security belt.
-* 关于污染区如何为乌克兰带来经济利益的想法已经浮出水面。但在可预见的未来，它将成为军队控制的安全地带。
-* It was not clear whether President Trump would send his negotiators for a new round of discussions after abruptly calling off a trip by his top advisers on Saturday.
-* 目前尚不清楚特朗普总统是否会在周六突然取消其高级顾问的访问后，派遣他的谈判代表进行新一轮讨论。
-* Officials had locked the city down, anticipating talks between U.S. and Iranian delegations. But they didn’t happen. “What did I close my business for?” one business owner asked.
-* 官员们已经封锁了这座城市，期待美国和伊朗代表团之间的会谈。但他们没有发生。一位企业主问道： “我关闭公司的原因是什么？”
-* Nieves González, a 29-year-old painter, once worked in relative obscurity in Andalusia. Her picture of the British singer Lily Allen changed that.
-* 29岁的画家涅韦斯·冈萨雷斯（ Nieves González ）曾在安达卢西亚相对默默无闻地工作。她的英国歌手莉莉·艾伦的照片改变了这一点。
-* Outgoing prime minister, Viktor Orban, who helped found the Fidesz party, said he would leave his Parliament seat but hoped to remain as head of his party.
-* 即将离任的总理维克托·奥尔班（ Viktor Orban ）帮助建立了自由民主党（ Fidesz ） ，他说他将离开他的议会席位，但希望继续担任该党的领导人。
-* The British royals are set to arrive on Monday for a visit hosted by President Trump, with a garden party, an address to Congress and a banquet on the schedule.
-* 英国王室成员将于周一抵达，由特朗普总统主持访问，届时将举行花园派对，向国会发表讲话，并按计划举行宴会。
-* Huge crowds of visitors during cherry blossom season have put a picturesque Japanese town on edge. Some residents are trying to take charge.
-* 在樱花盛开的季节，大量的游客将一个风景如画的日本小镇置于边缘。一些居民正试图掌控局面。
+* Cease-fires in Lebanon and Iran are on shaky ground, with military attacks flaring and direct talks between Washington and Tehran to end their war stalled.
+* 黎巴嫩和伊朗的停火情况不稳定，军事袭击爆发，华盛顿和德黑兰之间为结束战争而进行的直接谈判陷入僵局。
 
 ## New York Times United States News
-* Mr. Trump’s
-* 特朗普先生的
-* It was not clear if the authorities had entered the home in Torrance, Calif., a white-collar city of about 150,000 people close to popular beaches.
-* 目前尚不清楚当局是否进入了加利福尼亚州托伦斯的家中，托伦斯是一个拥有约15万人口的白领城市，靠近受欢迎的海滩。
 * 
 * 
-* A gunman carrying multiple weapons attempted to break into the dinner that President Trump was attending. Police have taken a suspect into custody.
-* 一名携带多件武器的枪手试图闯入特朗普总统正在参加的晚宴。警方已将一名嫌疑人拘留。
-* Legislation and regulatory tweaks enacted over the past year have altered who is eligible, what recipients can buy and how much some receive in benefits, among other changes.
-* 过去一年颁布的立法和监管调整改变了谁有资格获得，接受者可以购买什么，以及一些人获得多少福利，以及其他变化。
-* President Trump posted surveillance footage of Nilufa Easmin’s brutal killing by another immigrant to advance his agenda. Behind the rhetoric was a more nuanced story.
-* 特朗普总统发布了Nilufa Easmin被另一名移民残忍杀害的监控录像，以推进他的议程。修辞的背后是一个更加细致入微的故事。
-* 
-* 
-* Very little was clear about what had happened at the Washington Hilton on Saturday night. But the president wanted to talk about it.
-* 很少有人知道星期六晚上华盛顿希尔顿酒店发生了什么。但总统想谈谈这件事。
-* After two previous assassination attempts, the effort by an armed man to storm the White House Correspondents’ Association dinner is sure to raise questions about security and political violence.
-* 在前两次暗杀企图之后，一名武装分子袭击白宫记者协会晚宴的努力肯定会引发有关安全和政治暴力的问题。
-* Shots were fired at the hotel hosting the White House correspondents’ dinner. Authorities said the attack was carried out by a lone gunman who was brought down by the Secret Service.
-* 接待白宫记者晚宴的酒店遭到枪击。当局表示，这次袭击是由一名被特勤局击毙的孤独枪手实施的。
+* Gunfire at a press gala on Saturday underscored the ever growing club of political figures whose lives have been upended by violence.
+* 周六的新闻发布会上的枪声突显了日益增长的政治人物俱乐部，他们的生活被暴力所颠覆。
+* A man who has worked as a tutor and graduated from the California Institute of Technology is being held by authorities in connection with the armed attack at the White House correspondents’ dinner.
+* 一名曾担任导师并从加州理工学院毕业的男子因与白宫记者晚宴上的武装袭击有关而被当局拘留。
+* The woman, who is a beekeeper, was sentenced to six months after being convicted of using the bees as a weapon against deputies during a 2022 eviction.
+* 这名养蜂人因在2022年被驱逐期间使用蜜蜂作为武器对付副手而被判处六个月徒刑。
+* The independent senator from Vermont says top Democrats should tell candidates they will otherwise lose access to party resources.
+* 这位来自佛蒙特州的独立参议员表示，民主党高层应该告诉候选人，否则他们将失去获得党内资源的机会。
+* All eyes are on Florida and Virginia, where a special session and courtroom proceedings set for this week factor into the battle for the House in the midterms.
+* 所有的目光都集中在佛罗里达州和弗吉尼亚州，本周的特别会议和法庭诉讼程序将成为众议院中期争夺战的因素。
+* Geofence searches allow law enforcement to find suspects and witnesses by sweeping up location data from cellphone users near crime scenes.
+* 地理围栏搜索允许执法部门通过扫描犯罪现场附近的手机用户的位置数据来寻找嫌疑人和证人。
+* What constitutes unacceptable behavior? And how many accusers does it take for an allegation to be believed? Societal standards remain nebulous.
+* 什么是不可接受的行为？一个指控需要多少人才能被相信？社会标准仍然模糊不清。
+* The measure calls for placing a one-time 5 percent tax on the assets of California residents with at least $1.1 billion. Opponents are backing competing measures to counter the tax.
+* 该措施要求对加利福尼亚州居民的资产征收一次性5 ％的税，至少$ 11亿。反对者正在支持竞争性措施来对抗税收。
+* Moving to a new venue, or the East Wing? Plans for the White House Correspondents’ Association dinner are fluid following Saturday’s shocking events.
+* 搬到一个新的场地，还是东翼？周六令人震惊的事件发生后，白宫记者协会晚宴的计划很不稳定。
 
 ## New York Times Asia News
+* Mr. Rai documented major figures like the Dalai Lama and Indira Gandhi, as well as the victims of a poison gas leak in the city of Bhopal.
+* Rai先生记录了达赖喇嘛和英迪拉·甘地等重要人物，以及博帕尔市毒气泄漏的受害者。
+* China’s strategic reserves of oil and natural gas have insulated it somewhat, but its manufacturing-based economy is beginning to falter.
+* 中国的石油和天然气战略储备在一定程度上使其绝缘，但其以制造业为基础的经济正开始动摇。
+* The impact of the ruling was not immediately clear, but it could send a chilling signal to Chinese tech founders seeking to team up with foreign companies.
+* 该裁决的影响尚不清楚，但它可能会向寻求与外国公司合作的中国科技创始人发出一个令人不寒而栗的信号。
+* The two countries discussed long-term military cooperation, as they opened a memorial for North Korean troops killed in Russia’s war in Ukraine.
+* 两国讨论了长期的军事合作，为在俄罗斯乌克兰战争中丧生的朝鲜军队开设了纪念碑。
+* They signed petitions, organized rallies and held strategy sessions over karaoke, debating how far to push the authorities in their dispute with a developer.
+* 他们签署了请愿书，组织了集会，并就卡拉OK举行了战略会议，讨论在与开发商的纠纷中如何推动当局。
+* Geely is challenging the giant BYD by adapting quickly to swings in demand and energy prices, seizing on interest in electric vehicles prompted by the war in Iran.
+* 吉利正在迅速适应需求和能源价格的波动，抓住伊朗战争引发的对电动汽车的兴趣，从而挑战比亚迪。
 * Officials had locked the city down, anticipating talks between U.S. and Iranian delegations. But they didn’t happen. “What did I close my business for?” one business owner asked.
 * 官员们已经封锁了这座城市，期待美国和伊朗代表团之间的会谈。但他们没有发生。一位企业主问道： “我关闭公司的原因是什么？”
 * Huge crowds of visitors during cherry blossom season have put a picturesque Japanese town on edge. Some residents are trying to take charge.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 三个城市的澳新军团日黎明服务中断。询问者似乎瞄准了一种广泛的原住民习俗，旨在承认这片土地的原始居民。
 * In an unsanctioned mission, the Foreign Service officer helped evacuate about 200 South Vietnamese citizens from Saigon days before the city fell in 1975.
 * 在一次未经批准的任务中，这名外交官在1975年西贡陷落前几天帮助从西贡撤离了大约200名南越公民。
-* Glacial ice has sealed the gateway to Everest’s summit, keeping hundreds of climbers from reaching the top. “Icefall doctors” are on the case.
-* 冰川封闭了通往珠穆朗玛峰的门户，阻止了数百名登山者登顶。“冰瀑医生”正在处理此案。
-* K-pop stars must develop stamina and prevent injuries while also maintaining the lithe physique their industry demands, the band’s former trainer says.
-* 乐队前教练说，韩国流行音乐明星必须培养耐力，防止受伤，同时保持行业要求的轻盈体质。
-* Young athletes are being recruited to plug a staff shortage in Japan’s nursing homes. The results are reshaping elder care.
-* 正在招募年轻运动员来填补日本养老院的人员短缺问题。其结果是重塑了老年护理。
-* Iran’s foreign minister has already arrived in the country, state media reported. He was believed to be carrying a written response to a U.S. proposal to end the war.
-* 据官方媒体报道，伊朗外交部长已经抵达该国。据信，他正在对美国提出的结束战争的建议进行书面答复。
-* Facing sky-high fuel costs linked to the war in Iran, airlines are cutting routes and raising prices. European vacations are looking a lot less affordable.
-* 面对与伊朗战争相关的高昂燃料成本，航空公司正在削减航线并提高价格。欧洲度假看起来不太实惠。
-* The jury said it would “refrain from considering” countries whose leaders are facing charges of crimes against humanity, which would affect Israel and Russia.
-* 陪审团表示，它将“避免考虑”其领导人面临危害人类罪指控的国家，这将影响以色列和俄罗斯。
 
