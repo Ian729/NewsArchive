@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The kingdom is pulling back from a costly and high-profile golf venture amid mounting financial concerns, raising questions about its plans.
-* 由于财务问题日益严重，沙特正在退出昂贵且备受瞩目的高尔夫企业，这引发了对其计划的质疑。
-* Moving the deposed civilian leader to a “designated residence” for the rest of her prison sentence is part of an effort by Myanmar’s regime to portray legitimacy.
-* 将被废黜的平民领袖转移到“指定住所”服刑，这是缅甸政权努力塑造合法性的一部分。
-* Cafes and coffee shops give Iranians affordable places to talk about their hopes, fears and the cost of living as well as to seek company in uncertain times.
-* 咖啡馆和咖啡馆为伊朗人提供了负担得起的场所，可以谈论他们的希望、恐惧和生活成本，并在不确定的时期寻找公司。
-* Police in Alice Springs fired rubber bullets and tear gas to disperse an angry crowd demanding justice.
-* 爱丽斯泉的警察发射橡皮子弹和催泪瓦斯，驱散愤怒的群众，要求伸张正义。
+* After Chancellor Friedrich Merz upset President Trump with criticism of the war, he offered no public sign he believed Mr. Trump’s threats to pull troops were serious.
+* 在总理弗里德里希·默茨（ Friedrich Merz ）批评战争令特朗普总统心烦意乱之后，他没有公开表示他认为特朗普撤军的威胁是认真的。
+* The average wait for a test in England and Scotland has hit 22 weeks, up from five weeks before the pandemic, leading to frustration and attempts to jump the line.
+* 在英格兰和苏格兰，测试的平均等待时间从疫情前的五周增加到22周，导致人们感到沮丧，并试图跳过这条线。
+* U.S. officials say they will “unleash prosperity” by commandeering the oil industry. Many people in Caracas say it will take far more than that.
+* 美国官员表示，他们将通过征用石油工业来“释放繁荣”。加拉加斯的许多人说，需要做的远不止这些。
+* Though Jordan mostly sat out the conflicts, its tourism high season was nearly wiped out at popular sites. Visitors canceled flights, hotels and tours.
+* 虽然约旦大部分时间都在冲突中闲逛，但其旅游旺季在热门景点几乎消失了。游客取消了航班、酒店和旅游。
+* Cherry blossom viewing, or hanami, is a cherished rite in Japan. Some Japanese are also doing it in South Korea.
+* 观赏樱花（ hanami ）在日本是一种珍贵的仪式。一些日本人也在韩国这样做。
+* Negotiations to end the war are at an impasse over Iran’s nuclear program and the Strait of Hormuz, which remains mostly shut.
+* 结束战争的谈判在伊朗核计划和霍尔木兹海峡问题上陷入僵局，霍尔木兹海峡大部分仍然关闭。
+* Visitors can apply for a five-year visa if they take lessons in “soft power” activities like the Thai martial art. Training does not have to be grueling, and sparring is optional.
+* 如果游客参加泰国武术等“软实力”活动，可以申请五年签证。培训不一定是艰苦的，练习是可选的。
+* U.S. prosecutors accused Rubén Rocha Moya of protecting the powerful Sinaloa Cartel in exchange for bribes and political support, setting off a national scandal.
+* 美国检察官指控Rubén Rocha Moya保护强大的锡那罗亚卡特尔，以换取贿赂和政治支持，引发全国丑闻。
 * With the cease-fire fraying and Israel demolishing villages in the south, many Hezbollah supporters in Lebanon are putting aside their annoyance with the group and turning to it for protection.
 * 随着停火的磨损和以色列拆除南部的村庄，黎巴嫩的许多真主党支持者正在搁置他们对该组织的烦恼，转向它寻求保护。
-* Delyan Peevski was a focus of protests that led to elections in April. Can a new government shake his hold on power?
-* Delyan Peevski是导致4月选举的抗议活动的焦点。新政府能否动摇他对权力的控制？
 * The arrests of nine people are reminders of the threat Russia poses in Europe at a time when Washington has shifted focus to the Middle East.
 * 九人的被捕提醒人们，在华盛顿将重点转移到中东之际，俄罗斯对欧洲构成了威胁。
-* After months of upheaval, many are attempting to get on with their lives while quietly grappling with grief, economic stress and a loss of hope.
-* 在经历了数月的动荡之后，许多人正试图继续他们的生活，同时悄悄地应对悲伤、经济压力和失去希望。
-* Officials are investigating similar attacks across Europe, all claimed by a shadowy Islamist group that may be using low-cost, unsophisticated methods to sow fear in Jewish communities.
-* 官员们正在调查欧洲各地的类似袭击事件，所有这些袭击事件都是由一个神秘的伊斯兰组织声称的，该组织可能正在使用低成本、简单的方法在犹太社区播下恐惧。
-* Ratna Debnath is a candidate for Prime Minister Narendra Modi’s party, which is campaigning on women’s safety in an Indian state election.
-* 拉特娜·德布纳特（ Ratna Debnath ）是总理纳伦德拉·莫迪（ Narendra Modi ）领导的政党的候选人，该党正在印度州选举中倡导女性安全。
 
 ## New York Times United States News
-* The exit of Gov. Janet Mills kicked off the general election early in what is likely to be one of the most important, expensive and combative Senate races of 2026.
-* 州长珍妮特·米尔斯（ Janet Mills ）的退出在大选初期拉开了序幕，这可能是2026年最重要、最昂贵、最激烈的参议院竞选之一。
-* Chris Larsen, who hails from California, plans to spend $3.5 million to help Alex Bores, a New York congressional candidate at the center of a proxy war over A.I. regulation.
-* 来自加利福尼亚州的克里斯·拉森(Chris Larsen)计划花费350万美元($ 350万)来帮助纽约国会候选人亚历克斯·博尔斯(Alex Bores) ，他是围绕人工智能监管的代理人战争的核心人物。
-* Sabrina Tavernise, a national writer-at-large, traveled to Saline Township, Mich., where the state’s first hyperscale A.I. data center is under construction. Residents are banding together to oppose the center, crossing political lines in surprising new ways.
-* 全国无名作家Sabrina Tavernise前往密歇根州的Saline Township ，那里正在建设该州第一个超大规模人工智能数据中心。居民正在联合起来反对该中心，以令人惊讶的新方式跨越政治界限。
-* Americans have soured on the projects, polls show, and the sentiment is profoundly bipartisan. How that will change our politics?
-* 民意调查显示，美国人对这些项目感到不满，这种情绪是两党的深刻情绪。这将如何改变我们的政治？
-* Republicans sliced Nashville into three G.O.P.-leaning congressional districts in 2022. After the Supreme Court decision on voting rights, Memphis could be next.
-* 2022年，共和党人将纳什维尔划分为三个倾向于共和党的国会选区。在最高法院就投票权做出裁决后，孟菲斯可能成为下一个。
-* The top Senate Democrat and the Maine contender had what was described as a cordial conversation despite Schumer’s backing of his primary opponent.
-* 尽管舒默支持他的主要对手，但参议院民主党高层和缅因州的竞争者还是进行了所谓的亲切交谈。
-* The Department of Motor Vehicles says it could suspend or revoke permits for Waymo taxis and other driverless cars for continued violations.
-* 美国机动车辆管理局表示，如果继续违反规定，可能会暂停或吊销Waymo出租车和其他无人驾驶汽车的许可证。
-* A former employee returned to a franchise in Grapevine, Texas, to process 800 phony refunds to his credit cards, the authorities said.
-* 当局说，一名前雇员回到德克萨斯州格雷普韦恩的一家特许经营店，处理800笔虚假退款到他的信用卡上。
-* The secretary was also questioned over civilian deaths, an accusation of antisemitic remarks and women in combat.
-* 秘书还被问及平民死亡、反犹太主义言论和妇女参与战斗的指控。
-* While the defense industry has announced plans to make more munitions, much of that expanded production will not quickly kick in.
-* 虽然国防工业已宣布计划生产更多弹药，但大部分扩大的产量不会很快投入使用。
+* The defense secretary and Representative Seth Moulton, a Democrat, debated the Iran war through the prism of their shared experiences fighting Iraq.
+* 国防部长兼民主党众议员塞思·莫尔顿（ Seth Moulton ）通过他们与伊拉克作战的共同经历来辩论伊朗战争。
+* Plans for the project include formal gardens, reflecting pools and plazas alongside the statues of 250 notable Americans, according to documents obtained by The New York Times.
+* 根据《纽约时报》获得的文件，该项目的计划包括正式的花园、泳池和广场以及250名著名美国人的雕像。
+* Three Republican women who had a hand in forcing the resignations of lawmakers accused of sexual misconduct said they are out to name and shame more offenders. It is not clear how far they will go.
+* 三名参与迫使被指控性行为不端的立法者辞职的共和党女性表示，她们不愿透露姓名，并为更多的违法者感到羞耻。目前尚不清楚他们会走多远。
+* The president’s push to punish political enemies in his own party will play a starring role in a series of Republican primaries this month in which he has backed challengers.
+* 总统推动惩罚自己党内的政治敌人，将在本月的一系列共和党初选中发挥主导作用，他在这些初选中支持挑战者。
+* From the Gold Rush to the A.I. boom, San Francisco has always drawn those seeking riches. Now, people are deciphering riddles and digging up the city to find a box filled with cold, hard cash.
+* 从淘金热到人工智能热潮，旧金山一直吸引着那些追求财富的人。现在，人们正在破译谜语，在城市里挖掘，发现一个装满冰冷硬钱的盒子。
+* The candidate in Kentucky, Nate Morris, said he would be joining the Trump administration. He met with the president a day before his announcement.
+* 肯塔基州的候选人内特·莫里斯（ Nate Morris ）表示，他将加入特朗普政府。他在宣布前一天会见了总统。
+* The winner will serve out the rest of Representative David Scott’s seat in Congress after the longtime lawmaker’s death last month.
+* 获胜者将在长期立法者上个月去世后担任众议员大卫·斯科特在国会的其余席位。
+* Jenna Norton had filed a whistle-blower complaint claiming that the agency leadership had retaliated against her.
+* 珍娜·诺顿（ Jenna Norton ）提起了举报人投诉，声称机构领导层对她进行了报复。
+* After a debate over the war, students say the university president hit them with his vehicle. He says he was the victim in the incident.
+* 在关于战争的辩论之后，学生们说大学校长用他的车撞了他们。他说他是这起事件的受害者。
+* Eric Swalwell used social media to boost his image and meet women, accusers said. Some of those same women used apps and influencers to join forces years later.
+* 原告说， Eric Swalwell利用社交媒体来提升他的形象并结识女性。其中一些女性在多年后使用应用程序和影响者加入了力量。
 
 ## New York Times Asia News
+* Cherry blossom viewing, or hanami, is a cherished rite in Japan. Some Japanese are also doing it in South Korea.
+* 观赏樱花（ hanami ）在日本是一种珍贵的仪式。一些日本人也在韩国这样做。
+* Visitors can apply for a five-year visa if they take lessons in “soft power” activities like the Thai martial art. Training does not have to be grueling, and sparring is optional.
+* 如果游客参加泰国武术等“软实力”活动，可以申请五年签证。培训不一定是艰苦的，练习是可选的。
+* High fuel costs are imperiling the Japanese sento, a long-declining industry that remains a vital social lifeline for the country’s isolated elderly.
+* 高昂的燃料成本正在危及日本銭汤，这是一个长期衰落的行业，仍然是该国与世隔绝的老年人的重要社会生命线。
 * Soaring jet fuel prices stemming from the war, the government of India said, have forced it to hike hajj package prices for its citizens.
 * 印度政府表示，战争导致的喷气燃料价格飙升迫使它提高了公民的朝觐套餐价格。
 * Moving the deposed civilian leader to a “designated residence” for the rest of her prison sentence is part of an effort by Myanmar’s regime to portray legitimacy.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 一家动物福利组织称，德克萨斯州的养鸡者利用这家航空公司非法运送公鸡进行斗鸡。
 * Mayor Zohran Mamdani of New York suggested that Britain should return the gem, a symbol of colonial plunder. Here’s the back story of the famed jewel.
 * 纽约市长佐赫兰·马姆达尼（ Zohran Mamdani ）建议英国归还这块宝石，这是殖民掠夺的象征。以下是著名珠宝的背景故事。
-* A Jewish security group told police an attack on the community was “likely” because of heightened antisemitism, days before December’s mass shooting in Sydney.
-* 一个犹太安全组织告诉警方，在12月悉尼大规模枪击事件发生前几天，由于反犹太主义加剧，对该社区的袭击“可能”发生。
-* Strong earnings and economic data buck fears that prolonged disruption to Middle East fuel supplies will eventually dent economic growth.
-* 强劲的收益和经济数据打消了人们的担忧，即中东燃料供应的长期中断最终将削弱经济增长。
-* Ratna Debnath is a candidate for Prime Minister Narendra Modi’s party, which is campaigning on women’s safety in an Indian state election.
-* 拉特娜·德布纳特（ Ratna Debnath ）是总理纳伦德拉·莫迪（ Narendra Modi ）领导的政党的候选人，该党正在印度州选举中倡导女性安全。
 
