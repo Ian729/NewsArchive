@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* After Chancellor Friedrich Merz upset President Trump with criticism of the war, he offered no public sign he believed Mr. Trump’s threats to pull troops were serious.
-* 在总理弗里德里希·默茨（ Friedrich Merz ）批评战争令特朗普总统心烦意乱之后，他没有公开表示他认为特朗普撤军的威胁是认真的。
-* The average wait for a test in England and Scotland has hit 22 weeks, up from five weeks before the pandemic, leading to frustration and attempts to jump the line.
-* 在英格兰和苏格兰，测试的平均等待时间从疫情前的五周增加到22周，导致人们感到沮丧，并试图跳过这条线。
+* Global demand for critical minerals, used to build drones and electric cars, is surging, setting of a new wave of criminality in the world’s largest rainforest.
+* 全球对用于制造无人机和电动汽车的关键矿物的需求正在飙升，在世界上最大的热带雨林中引发了新一轮的犯罪浪潮。
+* The U.S. indictment of a Mexican governor has spotlighted cartel corruption, strained cross-border relations and handed President Claudia Sheinbaum a thorny choice.
+* 美国对墨西哥州长的起诉凸显了卡特尔腐败、紧张的跨境关系，并使总统克劳迪娅·谢恩鲍姆做出了棘手的选择。
+* Vote counting starts on Monday after over 154 million people participated in elections for state legislatures last month. The contests can tilt the balance of power for the whole country.
+* 在上个月超过1.54亿人参加了州议会选举之后，计票工作于周一开始。比赛可以使整个国家的权力平衡倾斜。
+* A.I.-generated microdramas have taken off. Celebrities have threatened legal action against the use of their likeness, while actors say jobs have dried up.
+* 人工智能产生的微剧已经起飞。名人威胁要对使用他们的肖像采取法律行动，而演员说工作已经枯竭。
+* Attacks by the Baloch Liberation Army could derail Pakistan’s plans for a billion-dollar mining deal with the Trump administration.
+* 俾路支解放军的袭击可能会破坏巴基斯坦与特朗普政府达成价值数十亿美元的采矿协议的计划。
+* We witnessed crossfire while waiting for the Jaffer Express, a vital lifeline through Balochistan. For many, it’s the only way home.
+* 我们在等待Jaffer Express时目睹了交火， Jaffer Express是穿越俾路支省的重要生命线。对许多人来说，这是唯一回家的路。
+* The attack’s location and timing fueled concerns about potential collaboration between Somalia’s pirates and Yemen’s Houthi rebels amid the Iran war.
+* 这次袭击的地点和时间引发了人们对索马里海盗和也门胡塞叛乱分子在伊朗战争期间潜在合作的担忧。
+* This Arctic region has seen a boom in tourism, but as tourists chase the northern lights, scammers chase their money.
+* 这个北极地区的旅游业蓬勃发展，但随着游客追逐北极光，骗子追逐他们的钱。
+* Germany had appeared not to believe President Trump’s threats to pull troops from the country. Once it was announced, Berlin offered a measured response.
+* 德国似乎不相信特朗普总统威胁要从该国撤军。一旦宣布，柏林提供了一个有分寸的回应。
 * U.S. officials say they will “unleash prosperity” by commandeering the oil industry. Many people in Caracas say it will take far more than that.
 * 美国官员表示，他们将通过征用石油工业来“释放繁荣”。加拉加斯的许多人说，需要做的远不止这些。
-* Though Jordan mostly sat out the conflicts, its tourism high season was nearly wiped out at popular sites. Visitors canceled flights, hotels and tours.
-* 虽然约旦大部分时间都在冲突中闲逛，但其旅游旺季在热门景点几乎消失了。游客取消了航班、酒店和旅游。
-* Cherry blossom viewing, or hanami, is a cherished rite in Japan. Some Japanese are also doing it in South Korea.
-* 观赏樱花（ hanami ）在日本是一种珍贵的仪式。一些日本人也在韩国这样做。
-* Negotiations to end the war are at an impasse over Iran’s nuclear program and the Strait of Hormuz, which remains mostly shut.
-* 结束战争的谈判在伊朗核计划和霍尔木兹海峡问题上陷入僵局，霍尔木兹海峡大部分仍然关闭。
-* Visitors can apply for a five-year visa if they take lessons in “soft power” activities like the Thai martial art. Training does not have to be grueling, and sparring is optional.
-* 如果游客参加泰国武术等“软实力”活动，可以申请五年签证。培训不一定是艰苦的，练习是可选的。
-* U.S. prosecutors accused Rubén Rocha Moya of protecting the powerful Sinaloa Cartel in exchange for bribes and political support, setting off a national scandal.
-* 美国检察官指控Rubén Rocha Moya保护强大的锡那罗亚卡特尔，以换取贿赂和政治支持，引发全国丑闻。
-* With the cease-fire fraying and Israel demolishing villages in the south, many Hezbollah supporters in Lebanon are putting aside their annoyance with the group and turning to it for protection.
-* 随着停火的磨损和以色列拆除南部的村庄，黎巴嫩的许多真主党支持者正在搁置他们对该组织的烦恼，转向它寻求保护。
-* The arrests of nine people are reminders of the threat Russia poses in Europe at a time when Washington has shifted focus to the Middle East.
-* 九人的被捕提醒人们，在华盛顿将重点转移到中东之际，俄罗斯对欧洲构成了威胁。
 
 ## New York Times United States News
-* The defense secretary and Representative Seth Moulton, a Democrat, debated the Iran war through the prism of their shared experiences fighting Iraq.
-* 国防部长兼民主党众议员塞思·莫尔顿（ Seth Moulton ）通过他们与伊拉克作战的共同经历来辩论伊朗战争。
-* Plans for the project include formal gardens, reflecting pools and plazas alongside the statues of 250 notable Americans, according to documents obtained by The New York Times.
-* 根据《纽约时报》获得的文件，该项目的计划包括正式的花园、泳池和广场以及250名著名美国人的雕像。
-* Three Republican women who had a hand in forcing the resignations of lawmakers accused of sexual misconduct said they are out to name and shame more offenders. It is not clear how far they will go.
-* 三名参与迫使被指控性行为不端的立法者辞职的共和党女性表示，她们不愿透露姓名，并为更多的违法者感到羞耻。目前尚不清楚他们会走多远。
-* The president’s push to punish political enemies in his own party will play a starring role in a series of Republican primaries this month in which he has backed challengers.
-* 总统推动惩罚自己党内的政治敌人，将在本月的一系列共和党初选中发挥主导作用，他在这些初选中支持挑战者。
-* From the Gold Rush to the A.I. boom, San Francisco has always drawn those seeking riches. Now, people are deciphering riddles and digging up the city to find a box filled with cold, hard cash.
-* 从淘金热到人工智能热潮，旧金山一直吸引着那些追求财富的人。现在，人们正在破译谜语，在城市里挖掘，发现一个装满冰冷硬钱的盒子。
-* The candidate in Kentucky, Nate Morris, said he would be joining the Trump administration. He met with the president a day before his announcement.
-* 肯塔基州的候选人内特·莫里斯（ Nate Morris ）表示，他将加入特朗普政府。他在宣布前一天会见了总统。
-* The winner will serve out the rest of Representative David Scott’s seat in Congress after the longtime lawmaker’s death last month.
-* 获胜者将在长期立法者上个月去世后担任众议员大卫·斯科特在国会的其余席位。
-* Jenna Norton had filed a whistle-blower complaint claiming that the agency leadership had retaliated against her.
-* 珍娜·诺顿（ Jenna Norton ）提起了举报人投诉，声称机构领导层对她进行了报复。
-* After a debate over the war, students say the university president hit them with his vehicle. He says he was the victim in the incident.
-* 在关于战争的辩论之后，学生们说大学校长用他的车撞了他们。他说他是这起事件的受害者。
-* Eric Swalwell used social media to boost his image and meet women, accusers said. Some of those same women used apps and influencers to join forces years later.
-* 原告说， Eric Swalwell利用社交媒体来提升他的形象并结识女性。其中一些女性在多年后使用应用程序和影响者加入了力量。
+* In a career that included 35 years at The New York Times, he chronicled the Rev. Jesse Jackson’s 1984 presidential run and the bombing at the 1996 Olympics in Atlanta.
+* 在《纽约时报》工作了35年的职业生涯中，他记录了杰西·杰克逊牧师1984年的总统竞选和1996年亚特兰大奥运会的爆炸事件。
+* President Trump’s predictions of a relatively short-term conflict with minimal economic consequences appear to be crumbling.
+* 特朗普总统对经济后果最小的相对短期冲突的预测似乎正在崩溃。
+* Each new attack, like the London stabbings last week, brings a heightened sense of caution to an already wary population.
+* 每一次新的袭击，就像上周伦敦的刺杀事件一样，都给已经警惕的人群带来了高度的谨慎感。
+* The Supreme Court ruling said there must be proof that a racial group was “intentionally” disadvantaged. The dissent called it “well-nigh impossible.”
+* 最高法院的裁决表示，必须有证据表明一个种族群体“故意”处于不利地位。异议人士称之为“几乎不可能”。
+* The growing unease over artificial intelligence is something elements of the left and the right can agree on in a polarized age.
+* 对人工智能日益增长的不安是左翼和右翼在两极分化的时代可以达成一致的因素。
+* Some wish Kamala Harris had decided to run for governor in California, where Democrats are struggling to break through, rather than weigh another White House run.
+* 有些人希望卡马拉·哈里斯（ Kamala Harris ）决定竞选加利福尼亚州州长，民主党人正在努力突破，而不是权衡另一次白宫竞选。
+* The Watsons were dairy farmers for generations, the rhythms of their lives defined by their cows. Until this spring.
+* 屈臣氏几代人都是奶农，他们的生活节奏由奶牛决定。直到今年春天。
+* Scott Colom, a state prosecutor, is running against Senator Cindy Hyde-Smith, a Republican who denied him a seat on the federal bench. In a tough year for the G.O.P., Democrats see hope for his long-shot bid.
+* 州检察官斯科特·科洛姆（ Scott Colom ）正在与共和党参议员辛迪·海德-史密斯（ Cindy Hyde-Smith ）竞选，后者拒绝了他在联邦法官中的席位。在共和党艰难的一年里，民主党人看到了他长期竞选的希望。
+* The election on Tuesday will test the influence of President Trump, who endorsed challengers to Republican state senators who scuttled his push to redraw political maps.
+* 周二的选举将考验特朗普总统的影响力，特朗普总统支持共和党州参议员的挑战者，他们破坏了他重新绘制政治地图的努力。
+* Prosecutors have accused the man of hitting federal agents with his vehicle as they tried to arrest him.
+* 检察官指控这名男子在试图逮捕他时用他的车辆击中联邦特工。
 
 ## New York Times Asia News
+* Vote counting starts on Monday after over 154 million people participated in elections for state legislatures last month. The contests can tilt the balance of power for the whole country.
+* 在上个月超过1.54亿人参加了州议会选举之后，计票工作于周一开始。比赛可以使整个国家的权力平衡倾斜。
+* People in Costa Rica and other Latin American, Asian and African countries are increasingly buying electric vehicles to avoid spiking fuel prices.
+* 哥斯达黎加和其他拉丁美洲、亚洲和非洲国家的人们越来越多地购买电动汽车，以避免燃油价格飙升。
+* A.I.-generated microdramas have taken off. Celebrities have threatened legal action against the use of their likeness, while actors say jobs have dried up.
+* 人工智能产生的微剧已经起飞。名人威胁要对使用他们的肖像采取法律行动，而演员说工作已经枯竭。
+* Attacks by the Baloch Liberation Army could derail Pakistan’s plans for a billion-dollar mining deal with the Trump administration.
+* 俾路支解放军的袭击可能会破坏巴基斯坦与特朗普政府达成价值数十亿美元的采矿协议的计划。
+* We witnessed crossfire while waiting for the Jaffer Express, a vital lifeline through Balochistan. For many, it’s the only way home.
+* 我们在等待Jaffer Express时目睹了交火， Jaffer Express是穿越俾路支省的重要生命线。对许多人来说，这是唯一回家的路。
+* New A.I. tools are changing China’s entertainment industry and transforming one of its most popular genres: the microdrama.
+* 新的人工智能工具正在改变中国的娱乐业，并改变其最受欢迎的流派之一：微剧。
 * Cherry blossom viewing, or hanami, is a cherished rite in Japan. Some Japanese are also doing it in South Korea.
 * 观赏樱花（ hanami ）在日本是一种珍贵的仪式。一些日本人也在韩国这样做。
 * Visitors can apply for a five-year visa if they take lessons in “soft power” activities like the Thai martial art. Training does not have to be grueling, and sparring is optional.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 高昂的燃料成本正在危及日本銭汤，这是一个长期衰落的行业，仍然是该国与世隔绝的老年人的重要社会生命线。
 * Soaring jet fuel prices stemming from the war, the government of India said, have forced it to hike hajj package prices for its citizens.
 * 印度政府表示，战争导致的喷气燃料价格飙升迫使它提高了公民的朝觐套餐价格。
-* Moving the deposed civilian leader to a “designated residence” for the rest of her prison sentence is part of an effort by Myanmar’s regime to portray legitimacy.
-* 将被废黜的平民领袖转移到“指定住所”服刑，这是缅甸政权努力塑造合法性的一部分。
-* Recognition of Aboriginal Australians has become standard at most public events. Increasingly, the right is taking aim at the practice.
-* 在大多数公共活动中，对澳大利亚原住民的认可已成为标准。右翼越来越多地瞄准这种做法。
-* The ousted civilian leader has been detained since a military coup forced her from power in 2021.
-* 这位被驱逐的文职领导人自2021年军事政变迫使她下台以来一直被拘留。
-* If President Trump flies to China as planned in May, the primary topic will clearly be the rippling economic effects of a war that Beijing has made clear it viewed as unnecessary.
-* 如果特朗普总统按计划在5月份飞往中国，主要议题显然是北京方面明确表示不必要的战争的连锁经济影响。
-* The airline was used by chicken breeders in Texas to illegally transport roosters for cockfights, an animal welfare group said.
-* 一家动物福利组织称，德克萨斯州的养鸡者利用这家航空公司非法运送公鸡进行斗鸡。
-* Mayor Zohran Mamdani of New York suggested that Britain should return the gem, a symbol of colonial plunder. Here’s the back story of the famed jewel.
-* 纽约市长佐赫兰·马姆达尼（ Zohran Mamdani ）建议英国归还这块宝石，这是殖民掠夺的象征。以下是著名珠宝的背景故事。
 
