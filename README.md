@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* A senior Iranian military official warned that any vessel that tries to cross the Strait of Hormuz without permission would be “at risk.”
-* 一名伊朗高级军官警告说，任何未经许可试图穿越霍尔木兹海峡的船只都将“处于危险之中”。
-* Ejae, the movie’s breakout star, was the face of K-pop in 2025. Facing questions of art, national belonging and authenticity, she wants to be much more.
-* 这部电影的突破明星Ejae是2025年K-pop的代言人。面对艺术、民族归属和真实性的问题，她希望做得更多。
+* Mohammad Bagher Ghalibaf, Iran’s top negotiator, accused the United States of violating the shaky cease-fire, after Iranian forces fired at vessels that the U.S. Navy was guiding through the strait.
+* 伊朗首席谈判代表穆罕默德·巴盖尔·加里巴夫（ Mohammad Bagher Ghalibaf ）指责美国违反了不稳定的停火协议，此前伊朗军队向美国海军正在引导穿越海峡的船只开火。
+* Trump officials and their Venezuelan allies have promised a new era of accountability to unlock Venezuela’s immense oil wealth. But the country’s oil industry remains a black hole.
+* 特朗普及其委内瑞拉盟友承诺开启一个新的问责时代，以释放委内瑞拉巨大的石油财富。但该国的石油工业仍然是一个黑洞。
+* Officials say competition between the countries is healthy. But tensions are mounting over energy quotas, regional conflicts and their different visions for the Middle East.
+* 官员们表示，两国之间的竞争是健康的。但由于能源配额、地区冲突以及他们对中东的不同愿景，紧张局势正在加剧。
+* Known as C/2025 R3 PANSTARRS, the comet will be visible to stargazers using a telescope in New Zealand, Australia and South Africa.
+* 这颗彗星被称为C/2025 R3 PANSTARRS ，新西兰、澳大利亚和南非的望远镜都可以看到这颗彗星。
+* A New York Times reporter joined a group of cyclists on a route meant to break down Cape Town’s lingering racial and economic barriers.
+* 《纽约时报》的一名记者加入了一群骑自行车的人的行列，这条路线旨在打破开普敦挥之不去的种族和经济障碍。
+* The governments have no official diplomatic or military ties. But a loose network led by company executives and volunteers is bridging some of that gulf.
+* 两国政府没有正式的外交或军事关系。但是，由公司高管和志愿者领导的松散网络正在弥合其中的一些鸿沟。
+* Passengers on the MV Hondius have not received permission from the authorities in Cape Verde, in the Atlantic Ocean, to disembark. Three people have died and at least three others were ill.
+* MV Hondius上的乘客尚未获得大西洋佛得角当局下船的许可。三人死亡，至少三人患病。
+* Dozens more were injured in the explosion, which appeared to be one of the country’s deadliest in recent years.
+* 还有数十人在爆炸中受伤，这似乎是近年来该国最致命的爆炸之一。
+* France must decide what to do with two orcas marooned at a deserted marine park: move them to another park, or release them into an open-water sanctuary.
+* 法国必须决定如何处理在一个废弃的海洋公园被困的两只虎鲸：将它们转移到另一个公园，或者将它们释放到开放水域的避难所。
 * Israel has failed to arrest a wave of violence against Palestinians, prompting military officials to urge the government to intervene.
 * 以色列未能遏制针对巴勒斯坦人的暴力浪潮，促使军方官员敦促政府进行干预。
-* Secretary of State Marco Rubio’s trip will come after President Trump criticized Pope Leo XIV and then turned on Prime Minister Giorgia Meloni of Italy for defending the pontiff.
-* 国务卿马可·卢比奥（ Marco Rubio ）的访问将在特朗普总统批评教皇利奥十四世之后进行，然后转向意大利总理乔治亚·梅洛尼（ Giorgia Meloni ）为教皇辩护。
-* Lee Chun Ho lost four members of his household in last November’s apartment-tower blaze. He’s now telling an investigative committee what contractors ignored.
-* 李春浩在去年11月的公寓楼大火中失去了四名家庭成员。他现在正在告诉一个调查委员会，承包商忽略了什么。
-* Describing the transfer of the crew from the MV Touska cargo ship back to Iran as a ‘confidence-building measure’ between U.S. and Iranian officials, Pakistan again plays a mediating role.
-* 巴基斯坦将从MV Touska货船将船员转移回伊朗描述为美国和伊朗官员之间的“建立信任措施” ，再次发挥了调解作用。
-* Air defenses in the Russian capital were breached as Ukraine expands long-range strikes.
-* 随着乌克兰扩大远程打击，俄罗斯首都的防空系统遭到破坏。
-* A growing number of men across the continent say they are being promised jobs in Russia, only to be forced into the war. Some go as mercenaries, but many more are drawn unwittingly.
-* 非洲大陆越来越多的男性表示，他们得到了在俄罗斯工作的承诺，但却被迫参战。有些人成为雇佣兵，但更多的人在不知不觉中被吸引。
-* Three passengers of the MV Hondius died after showing symptoms of the rare disease. Health authorities confirmed one case and are investigating five others.
-* MV Hondius的三名乘客在出现罕见疾病症状后死亡。卫生当局确认了一起病例，并正在调查另外五起病例。
-* Global demand for critical minerals, used to build drones and electric cars, is surging, setting of a new wave of criminality in the world’s largest rainforest.
-* 全球对用于制造无人机和电动汽车的关键矿物的需求正在飙升，在世界上最大的热带雨林中引发了新一轮的犯罪浪潮。
 
 ## New York Times United States News
-* The shooting took place near Arcadia Lake, northeast of Oklahoma City, where a crowd of young people was having a party, the police said.
-* 警方称，枪击事件发生在俄克拉荷马城东北部的阿卡迪亚湖附近，一群年轻人在那里举行派对。
-* The party’s congressional campaign arm is promoting more contenders to take down at-risk Republicans — and is taking sides in some competitive primaries.
-* 该党的国会竞选部门正在推动更多的竞争者击败有风险的共和党人，并在一些竞争性的初选中站在一边。
-* State lawmakers declined to back a Trump-inspired plan to move 1,300 homeless people to a campus on the edge of Salt Lake City, but supporters are trying to keep the plan’s spirit alive.
-* 州议员拒绝支持特朗普启发的将1300名无家可归者转移到盐湖城边缘的校园的计划，但支持者正试图保持该计划的精神。
-* How would soldiers from places like Florida, Texas and Georgia fight and persevere in temperatures as low as minus 40 degrees?
-* 来自佛罗里达州、德克萨斯州和佐治亚州等地的士兵如何在低至零下40度的温度下战斗和坚持？
-* The Trump administration is evicting bison herds from federal grasslands in Montana, siding with ranchers and Republican leaders over environmentalists and tribal leaders.
-* 特朗普政府正在从蒙大拿州的联邦草原上驱逐野牛群，与牧场主和共和党领导人站在一起，而不是环保主义者和部落领袖。
-* Cellphone bans got devices out of students’ hands, according to the first large study. But behavior and academics have not improved, at least so far.
-* 第一项大型研究显示，手机禁令将设备从学生手中夺走。但至少到目前为止，行为和学术都没有得到改善。
-* The teenagers, who had faced deportation after a high-profile detention, took the stage on Sunday thanks to an invitation from one of country music’s biggest stars.
-* 这些青少年在一次备受瞩目的拘留后面临驱逐出境，在乡村音乐界最大明星之一的邀请下，他们于周日登上舞台。
-* President Trump offered few details on how the new program, which he called Project Freedom, would work, but said interference would be dealt with “forcefully.”
-* 特朗普总统几乎没有提供有关他称之为“自由项目”的新计划将如何运作的细节，但表示将“有力地”处理干涉。
-* With President Trump’s visit to Beijing looming, China is pushing Iran to negotiate even as its companies export material that could be used by Iran’s military.
-* 随着特朗普总统对北京的访问迫在眉睫，中国正在推动伊朗进行谈判，即使其公司出口的材料可能被伊朗军方使用。
-* The conspiracy theories around the Butler, Pa., assassination attempt hurt Helen Comperatore, but in this age of distrust, partisanship and social media, she nurtures a conspiracy theory of her own.
-* 围绕宾夕法尼亚州巴特勒暗杀未遂的阴谋论伤害了海伦·孔佩拉托尔，但在这个充满不信任、党派偏见和社交媒体的时代，她培养了自己的阴谋论。
+* Voters are starting to make decisions after receiving their primary ballots this week. The election includes a turbulent governor’s race and a competitive mayoral contest in Los Angeles.
+* 选民在本周收到初选选票后开始做出决定。选举包括动荡的州长竞选和洛杉矶的竞争性市长竞选。
+* The Texas attorney general is heading into the runoff against Senator John Cornyn without the support of some of his longtime backers.
+* 德克萨斯州总检察长在没有他的一些长期支持者的支持下，正在与参议员约翰·科宁（ John Cornyn ）进行决选。
+* President Trump is endorsing candidates in a series of primary elections this month, trying to defeat incumbents in his own party who have crossed him. Our national political correspondent Shane Goldmacher explains.
+* 特朗普总统本月在一系列初选中支持候选人，试图击败他所在政党中超越他的现任总统。我们的国家政治记者Shane Goldmacher解释说。
+* The president is seeking political payback for Republican state legislators in Indiana who rejected his push to redraw the state’s political map last year.
+* 总统正在为印第安纳州的共和党州议员寻求政治回报，他们拒绝了他去年推动重绘该州政治地图的努力。
+* Ohio’s unusual contest — with a little-known incumbent and a well-known challenger — shows how Democrats are hoping to capitalize on G.O.P. voters’ anger at the Jeffrey Epstein scandal.
+* 俄亥俄州不同寻常的比赛--一位鲜为人知的现任者和一位著名的挑战者--表明民主党人希望如何利用共和党选民对杰弗里·爱泼斯坦(Jeffrey Epstein)丑闻的愤怒。
+* The aerial strike raised the death toll to at least 187 in the U.S. campaign against boats the Trump administration accuses of smuggling drugs.
+* 这次空袭将特朗普政府指控走私毒品的美国船只的死亡人数提高到至少187人。
+* The Los Angeles suspect was lonely and angry and felt “enslaved” by rich people, prosecutors say. After being romantically spurned, they say, he went into the mountains and lit a fire.
+* 检察官说，这名洛杉矶嫌疑人感到孤独和愤怒，并感到被富人“奴役”。他们说，在被浪漫地唾弃之后，他走进山里点燃了一堆火。
+* The National Mall and its surroundings are one of the safest areas in Washington.
+* 国家广场及其周边地区是华盛顿最安全的地区之一。
+* At a White House event for Small Business Week, he described the economy as “roaring” and predicted that gas prices would go down soon.
+* 在白宫小企业周的活动中，他将经济描述为“咆哮” ，并预测天然气价格将很快下跌。
+* Louisiana voters who successfully challenged the state’s voting map as an illegal racial gerrymander had asked the justices to quickly return the case to the lower courts, clearing the way for a new map.
+* 路易斯安那州的选民成功地对该州的投票地图提出质疑，称其为非法的种族gerrymander ，他们要求法官迅速将案件退回下级法院，为新地图铺平道路。
 
 ## New York Times Asia News
+* An inheritance dispute over the former chairman’s estate has prompted a criminal complaint over how the dynastic chaebol family behind LG divides its assets.
+* 这位前董事长遗产的继承纠纷引发了对LG背后的王朝财阀家族如何分割其资产的刑事诉讼。
+* Known as C/2025 R3 PANSTARRS, the comet will be visible to stargazers using a telescope in New Zealand, Australia and South Africa.
+* 这颗彗星被称为C/2025 R3 PANSTARRS ，新西兰、澳大利亚和南非的望远镜都可以看到这颗彗星。
+* Oil prices fell, giving back some of the gains from the previous day as attacks in the Middle East raised concerns about the war starting again.
+* 油价下跌，回报了前一天的部分涨幅，因为中东的袭击引发了人们对战争再次开始的担忧。
+* Dozens more were injured in the explosion, which appeared to be one of the country’s deadliest in recent years.
+* 还有数十人在爆炸中受伤，这似乎是近年来该国最致命的爆炸之一。
+* An industrial policy of subsidies and import restrictions laid the foundations for China to become almost as dominant in wind turbines as in solar panels.
+* 补贴和进口限制的产业政策为中国在风力涡轮机和太阳能电池板中几乎一样占据主导地位奠定了基础。
+* The party of Prime Minister Narendra Modi took control of West Bengal for the first time and made gains around the country. Its defeated opponents accused it of cheating.
+* 总理纳伦德拉·莫迪（ Narendra Modi ）的政党首次控制了西孟加拉邦，并在全国各地取得了进展。被击败的对手指责它作弊。
+* China told its independent refineries to disregard U.S. sanctions over their purchases of Iranian crude.
+* 中国告诉其独立炼油厂无视美国对其购买伊朗原油的制裁。
 * Evidence shared at hearings show how disabled alarms, flammable materials and ignored warnings contributed to the deaths of 168 people in the complex.
 * 听证会上分享的证据表明，残疾警报器、易燃材料和被忽视的警告如何导致该建筑群中168人死亡。
 * Ejae, the movie’s breakout star, was the face of K-pop in 2025. Facing questions of art, national belonging and authenticity, she wants to be much more.
 * 这部电影的突破明星Ejae是2025年K-pop的代言人。面对艺术、民族归属和真实性的问题，她希望做得更多。
 * Lee Chun Ho lost four members of his household in last November’s apartment-tower blaze. He’s now telling an investigative committee what contractors ignored.
 * 李春浩在去年11月的公寓楼大火中失去了四名家庭成员。他现在正在告诉一个调查委员会，承包商忽略了什么。
-* In India, Firozabad has depended on its glassmaking industry for centuries. Fuel prices are starting to shatter businesses already under pressure.
-* 在印度，菲罗扎巴德几个世纪以来一直依赖其玻璃制造业。燃油价格开始打破已经承受压力的企业。
-* With President Trump’s visit to Beijing looming, China is pushing Iran to negotiate even as its companies export material that could be used by Iran’s military.
-* 随着特朗普总统对北京的访问迫在眉睫，中国正在推动伊朗进行谈判，即使其公司出口的材料可能被伊朗军方使用。
-* Vote counting starts on Monday after over 154 million people participated in elections for state legislatures last month. The contests can tilt the balance of power for the whole country.
-* 在上个月超过1.54亿人参加了州议会选举之后，计票工作于周一开始。比赛可以使整个国家的权力平衡倾斜。
-* People in Costa Rica and other Latin American, Asian and African countries are increasingly buying electric vehicles to avoid spiking fuel prices.
-* 哥斯达黎加和其他拉丁美洲、亚洲和非洲国家的人们越来越多地购买电动汽车，以避免燃油价格飙升。
-* A.I.-generated microdramas have taken off. Celebrities have threatened legal action against the use of their likeness, while actors say jobs have dried up.
-* 人工智能产生的微剧已经起飞。名人威胁要对使用他们的肖像采取法律行动，而演员说工作已经枯竭。
-* Attacks by the Baloch Liberation Army could derail Pakistan’s plans for a billion-dollar mining deal with the Trump administration.
-* 俾路支解放军的袭击可能会破坏巴基斯坦与特朗普政府达成价值数十亿美元的采矿协议的计划。
-* We witnessed crossfire while waiting for the Jaffer Express, a vital lifeline through Balochistan. For many, it’s the only way home.
-* 我们在等待Jaffer Express时目睹了交火， Jaffer Express是穿越俾路支省的重要生命线。对许多人来说，这是唯一回家的路。
 
