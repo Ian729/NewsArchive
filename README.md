@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The president made the announcement in a social media post just hours after Secretary of State Marco Rubio had affirmed the newly created mission, which bore little connection to the original justification for war.
-* 就在国务卿马可·卢比奥（ Marco Rubio ）确认新成立的任务几小时后，总统在一篇社交媒体帖子中宣布了这一消息，该任务与最初的战争理由几乎没有联系。
-* Trump officials and their Venezuelan allies have promised a new era of accountability to unlock Venezuela’s immense oil wealth. But the country’s oil industry remains a black hole.
-* 特朗普及其委内瑞拉盟友承诺开启一个新的问责时代，以释放委内瑞拉巨大的石油财富。但该国的石油工业仍然是一个黑洞。
-* The president is trying to ratchet up the economic pressure on Tehran, but Iran’s government is unlikely to make a deal without a big, face-saving compromise.
-* 总统正试图加大对德黑兰的经济压力，但伊朗政府不太可能在没有重大妥协的情况下达成协议。
-* Known as C/2025 R3 PANSTARRS, the comet will be visible to stargazers using a telescope in New Zealand, Australia and South Africa.
-* 这颗彗星被称为C/2025 R3 PANSTARRS ，新西兰、澳大利亚和南非的望远镜都可以看到这颗彗星。
-* With his triumph in West Bengal state elections, Prime Minister Narendra Modi has moved closer to his dream of an opposition-free India.
-* 随着他在西孟加拉邦选举中的胜利，总理纳伦德拉·莫迪（ Narendra Modi ）更接近实现无反对派印度的梦想。
-* A New York Times reporter joined a group of cyclists on a route meant to break down Cape Town’s lingering racial and economic barriers.
-* 《纽约时报》的一名记者加入了一群骑自行车的人的行列，这条路线旨在打破开普敦挥之不去的种族和经济障碍。
-* The governments have no official diplomatic or military ties. But a loose network led by company executives and volunteers is bridging some of that gulf.
-* 两国政府没有正式的外交或军事关系。但是，由公司高管和志愿者领导的松散网络正在弥合其中的一些鸿沟。
-* Officials say competition between the countries is healthy. But tensions are mounting over energy quotas, regional conflicts and their different visions for the Middle East.
-* 官员们表示，两国之间的竞争是健康的。但由于能源配额、地区冲突以及他们对中东的不同愿景，紧张局势正在加剧。
-* The Spanish government will receive the vessel. The World Health Organization said human-to-human transmission may have played a role in the outbreak.
-* 西班牙政府将接收这艘船。世界卫生组织表示，人与人之间的传播可能在疫情中发挥了作用。
-* Dozens more were injured in the explosion, which appeared to be one of the country’s deadliest in recent years.
-* 还有数十人在爆炸中受伤，这似乎是近年来该国最致命的爆炸之一。
+* Intelligence agents have privately warned of the potential of hybrid attacks from Iran-linked groups. But political leaders, including Chancellor Friedrich Merz, have publicly played down the risk.
+* 情报人员私下警告说，与伊朗有关的团体可能会发动混合攻击。但包括总理弗里德里希·默茨（ Friedrich Merz ）在内的政治领导人已经公开淡化了这种风险。
+* Polls predict historic losses for Prime Minister Keir Starmer’s Labour Party on Thursday as anti-immigrant Reform U.K. makes gains, and a new era of multiparty politics takes shape.
+* 民意调查预测，随着英国反移民改革取得进展，总理基尔·斯塔默（ Keir Starmer ）的工党将在周四遭受历史性损失，多党政治的新时代正在形成。
+* President Trump and President Luiz Inácio Lula da Silva, who have had a rocky relationship, will meet on Thursday for talks on security, trade and critical minerals.
+* 特朗普总统和总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）曾经有过不愉快的关系，他们将于周四举行会谈，讨论安全、贸易和关键矿产
+* Four women and nine children arrived in Australia from detention camps in northeast Syria after a yearslong controversy over their fate.
+* 经过长达一年的命运争议，四名妇女和九名儿童从叙利亚东北部的拘留营抵达澳大利亚。
+* Local elections in England, and parliamentary elections in Scotland and Wales, take place on Thursday. The governing Labour Party is expected to do very badly.
+* 英格兰的地方选举以及苏格兰和威尔士的议会选举将于周四举行。预计执政的工党将做得非常糟糕。
+* Three people with possible symptoms of the disease were evacuated on Wednesday morning from the MV Hondius before it headed to the Canary Islands.
+* 周三早上，三名可能患有该病症状的人在前往加那利群岛之前从MV Hondius撤离。
+* Dynamic ticket pricing has made this year’s tournament the most expensive in history, pushing Argentine fans to extremes.
+* 动态门票定价使今年的比赛成为历史上最昂贵的比赛，将阿根廷球迷推向了极致。
+* Tehran says it can endure the pain, but its oil may soon have nowhere to go.
+* 德黑兰表示，它可以忍受痛苦，但它的石油可能很快就无处可去了。
+* After 42 years of slavery, Josiah Henson escaped to Canada, where he wrote a memoir, founded a school and led others to freedom. But his home long bore the name “Uncle Tom,” to the offense of many.
+* 在经历了42年的奴隶制之后，约西亚·汉森逃到了加拿大，在那里他写了一本回忆录，创办了一所学校，并带领其他人获得了自由。但他的家长期以来一直以“汤姆叔叔”的名字命名，这让许多人感到不快。
+* A year into his papacy, Leo has shown a readiness to challenge Washington, defying any concerns about the election of an American pontiff.
+* 在担任教皇一年后，利奥已经准备好挑战华盛顿，无视对选举美国教皇的任何担忧。
 
 ## New York Times United States News
-* The Democratic Congressional Campaign Committee’s intervention in contested primaries in critical House races has highlighted deep divides over the party’s tactics and its future.
-* 民主党国会竞选委员会在关键的众议院竞选中对有争议的初选进行干预，凸显了该党的策略及其未来的深刻分歧。
-* Massachusetts voters approved a ballot measure in 2024 authorizing Diana DiZoglio, the state auditor, to closely scrutinize the State Legislature. Lawmakers are resisting.
-* 马萨诸塞州选民在2024年批准了一项投票措施，授权州审计员Diana DiZoglio密切关注州议会。立法者正在抵制。
-* After Watergate, Congress tried to curtail the role of money in politics. But a pivotal Supreme Court case nipped it in the bud. Years later, new details are emerging on how wealthy Americans were conferred with a “right to spend” on elections.
-* 在水门事件之后，国会试图削弱金钱在政治中的作用。但一个关键的最高法院案件使它陷入萌芽状态。多年后，关于富裕的美国人如何被赋予在选举中“花钱的权利”的新细节正在浮出水面。
-* Seven candidates sparred in the first nationally televised debate in the 2026 California governor’s race. Many tried to launch attacks in a last-ditch effort to gain ground on their opponents.
-* 七名候选人在2026年加利福尼亚州州长竞选中的第一次全国电视辩论中争论不休。许多人试图发动攻击，以最后的努力来击败对手。
-* Officials said they were examining the shooting of Silverio Villegas-Gonzalez last summer during a Chicago-area crackdown on illegal immigration.
-* 官员们表示，他们正在调查去年夏天在芝加哥地区打击非法移民期间发生的Silverio Villegas-Gonzalez枪击事件。
-* Gov. Gretchen Whitmer, a Democrat, allowed the swing district seat to sit vacant for more than a year as her party clung to a slim majority.
-* 民主党州长格雷琴·惠特默（ Gretchen Whitmer ）允许摇摆区席位空缺一年多，因为她的政党坚持微弱的多数。
-* Mohamed Sabry Soliman, who was charged in an attack that injured more than a dozen people and killed one, will be sentenced to life in prison, according to court documents.
-* 根据法庭文件，穆罕默德·萨布里·索利曼（ Mohamed Sabry Soliman ）在一次造成十几人受伤并造成一人死亡的袭击中被起诉，将被判处终身监禁。
-* The president helped unseat most of the state lawmakers he targeted after they rebuffed his call to draw new House maps to help Republicans.
-* 总统帮助推翻了他所针对的大多数州议员，因为他们拒绝了他的呼吁，即绘制新的众议院地图以帮助共和党人。
-* The attack was the second in two days, and the latest in an ongoing campaign against people the United States says are engaged in drug smuggling at sea.
-* 这次袭击是两天内的第二次袭击，也是针对美国声称在海上从事毒品走私活动的人员的最新一次持续行动。
-* Madison Sheahan, whose candidacy promised to test how general-election voters viewed President Trump’s immigration agenda, lost to a rival who billed himself as a “MAGA Republican.”
-* 麦迪逊·谢汉（ Madison Sheahan ）的候选资格承诺测试大选选民如何看待特朗普总统的移民议程，他输给了一个自称为“MAGA共和党人”的竞争对手。
+* The meeting at the Vatican followed President Trump’s condemnation of Pope Leo XIV for opposing the war in Iran.
+* 在梵蒂冈举行会议之前，特朗普总统谴责教皇利奥十四世反对伊朗战争。
+* The city where he planted his empire came to embody his ambitions and his confidence. Mr. Turner died on Wednesday at 87.
+* 他建立帝国的城市体现了他的野心和信心。特纳先生于周三去世，享年87岁。
+* Here are ways Florida’s advanced high school history program, which students can use for college credit, differs from other curriculums.
+* 以下是佛罗里达州的高级高中历史课程，学生可以将其用于大学学分，不同于其他课程。
+* Across the country, police and city officials are trying to crack down on sometimes violent youth gatherings, but the teens themselves say they need some way to socialize and blow off steam.
+* 在全国各地，警方和市政官员正试图打击有时暴力的青年集会，但青少年自己表示，他们需要某种方式来社交和释放压力。
+* Candidates debated housing and insurance policy in the first half, then furiously attacked one another at the end.
+* 候选人在上半年就住房和保险政策进行了辩论，然后在最后激烈地互相攻击。
+* Federal and local officers raided businesses on Wednesday. Last summer, immigration tensions flared between federal and local officials at the same park.
+* 周三，联邦和当地官员突袭了企业。去年夏天，同一公园的联邦和地方官员之间爆发了移民紧张局势。
+* The ruling is the latest in a saga driven by President Trump’s desire for redemption in the state, which he lost in 2020. The county is likely to appeal.
+* 这项裁决是特朗普总统渴望在该州获得救赎的传奇故事中的最新一次，他在2020年失去了这一愿望。县政府可能会提出上诉。
+* The Republican senator from Maine, running for re-election at age 73 in one of this year’s top Senate races, made the disclosure after mounting online scrutiny on the left.
+* 这位来自缅因州的共和党参议员在今年参议院最高竞选之一中以73岁的年龄竞选连任，他在左翼进行在线审查后披露了这一消息。
+* Four candidates have emerged as leaders in the primary election to succeed Gov. Gavin Newsom.
+* 在接替州长加文·纽森（ Gavin Newsom ）的初选中，有四名候选人成为领袖。
+* 
+* 
 
 ## New York Times Asia News
+* The star often refuses roles unless he clicks with the filmmaker. That’s how he came to work with Wong Kar-wai, Hou Hsiao-Hsien and now Ildiko Enyedi.
+* 这位明星经常拒绝角色，除非他点击电影制片人。这就是他与黄家伟、侯晓贤和现在的伊迪科·恩耶迪合作的原因。
+* Four women and nine children arrived in Australia from detention camps in northeast Syria after a yearslong controversy over their fate.
+* 经过长达一年的命运争议，四名妇女和九名儿童从叙利亚东北部的拘留营抵达澳大利亚。
+* Investors waited for news on the situation in the Middle East, as the U.S. and Iran gave mixed signals on peace negotiations.
+* 投资者等待有关中东局势的消息，因为美国和伊朗对和平谈判发出的信号好坏参半。
+* The war in Iran has left China’s neighbors appealing for help, handing Beijing the kind of sway it has long sought.
+* 伊朗战争让中国的邻国寻求帮助，让北京获得了它长期以来寻求的影响力。
+* From classrooms to crowded buses, people across South and Southeast Asia are adjusting to life with less cooling — or none at all — as the war in Iran drives an energy crunch.
+* 从教室到拥挤的公共汽车，随着伊朗战争导致能源紧缩，南亚和东南亚的人们正在适应更少的冷却（或根本没有冷却）的生活。
+* Gabi, the newest monk at a temple in Seoul that is looking to spread Buddhism, vowed to not overcharge as it seeks enlightenment.
+* Gabi是首尔一家希望传播佛教的寺庙的最新僧侣，他发誓在寻求启蒙时不会过度收费。
 * China’s top diplomat also warned against the restarting of hostilities as he met with Iran’s foreign minister. The U.S. has urged China to pressure Iran to reopen the waterway.
 * 中国最高外交官在与伊朗外交部长会晤时也警告不要重启敌对行动。美国已敦促中国向伊朗施压，要求重新开放这条水道。
 * Oil prices fell and stocks rose after President Trump’s about-face to pause the U.S. operation to escort commercial ships through the Strait of Hormuz
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 在中国的影响力日益增强，对美国的怀疑正在蔓延之际，日本首相高市早苗(Sanae Takaichi)正试图提升日本的形象。
 * Since the family of rodent-borne infections were identified in the 1950s, they have turned up all over the world.
 * 自20世纪50年代发现啮齿动物传播感染家族以来，它们已经在世界各地出现。
-* With his triumph in West Bengal state elections, Prime Minister Narendra Modi has moved closer to his dream of an opposition-free India.
-* 随着他在西孟加拉邦选举中的胜利，总理纳伦德拉·莫迪（ Narendra Modi ）更接近实现无反对派印度的梦想。
-* An inheritance dispute over the former chairman’s estate has prompted a criminal complaint over how the dynastic chaebol family behind LG divides its assets.
-* 这位前董事长遗产的继承纠纷引发了对LG背后的王朝财阀家族如何分割其资产的刑事诉讼。
-* Known as C/2025 R3 PANSTARRS, the comet will be visible to stargazers using a telescope in New Zealand, Australia and South Africa.
-* 这颗彗星被称为C/2025 R3 PANSTARRS ，新西兰、澳大利亚和南非的望远镜都可以看到这颗彗星。
-* Oil prices fell, giving back some of the gains from the previous day as attacks in the Middle East raised concerns about the war starting again.
-* 油价下跌，回报了前一天的部分涨幅，因为中东的袭击引发了人们对战争再次开始的担忧。
-* Dozens more were injured in the explosion, which appeared to be one of the country’s deadliest in recent years.
-* 还有数十人在爆炸中受伤，这似乎是近年来该国最致命的爆炸之一。
-* An industrial policy of subsidies and import restrictions laid the foundations for China to become almost as dominant in wind turbines as in solar panels.
-* 补贴和进口限制的产业政策为中国在风力涡轮机和太阳能电池板中几乎一样占据主导地位奠定了基础。
 
