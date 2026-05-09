@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The United States said it had attacked Iranian military targets in response to strikes on American ships. Washington and Tehran are debating a peace proposal, Iranian officials said.
-* 美国表示，它袭击了伊朗的军事目标，以回应对美国船只的袭击。伊朗官员表示，华盛顿和德黑兰正在就一项和平建议进行辩论。
-* With votes still being tallied, Prime Minister Keir Starmer took responsibility for Labour losing hundreds of municipal seats but insisted he would not resign.
-* 由于选票仍在统计中，总理基尔·斯塔默（ Keir Starmer ）对工党失去数百个市政席位负责，但坚称他不会辞职。
-* As Pakistan mediates between the U.S. and Iran, its ties to the Emirates have deteriorated. Pakistani workers say they are now being sent home en masse.
-* 随着巴基斯坦在美国和伊朗之间进行调解，其与阿联酋的关系已经恶化。巴基斯坦工人说，他们现在被集体送回家。
-* A spree of thefts last summer heightened alarm in France over protection of cultural and rural heritage.
-* 去年夏天的一连串盗窃案加剧了法国对保护文化和农村遗产的担忧。
-* Judges ruled that an impeachment hearing should be held over a case involving money stolen from a couch at President Cyril Ramaphosa’s farm six years ago.
-* 法官裁定，应就六年前在总统西里尔·拉马福萨（ Cyril Ramaphosa ）农场沙发上被盗钱财的案件举行弹劾听证会。
-* America’s ability to deter China in a war over Taiwan is weakened, Chinese analysts say, giving Beijing leverage in an upcoming summit with President Trump.
-* 中国分析人士表示，美国在台湾战争中威慑中国的能力受到削弱，这让北京在即将与特朗普总统举行的峰会上发挥了杠杆作用。
-* As the country heads into Victory Day, the economy is stalling, internet restrictions are growing and the Kremlin is fearing Ukrainian attacks.
-* 随着该国进入胜利日，经济停滞不前，互联网限制不断增加，克里姆林宫担心乌克兰的袭击。
-* With time running out, Taiwanese lawmakers approved funds for buying U.S. weapons, fearing they could lose support if they didn’t act now.
-* 随着时间的推移，台湾立法者批准了购买美国武器的资金，担心如果他们现在不采取行动，他们可能会失去支持。
-* Indonesian authorities said other climbers had safely evacuated Mount Dukono, which had been off-limits because of volcanic activity.
-* 印度尼西亚当局表示，其他登山者已安全撤离杜科诺山，由于火山活动，杜科诺山一直是禁区。
-* Intelligence agents have privately warned of the potential of hybrid attacks from Iran-linked groups. But political leaders, including Chancellor Friedrich Merz, have publicly played down the risk.
-* 情报人员私下警告说，与伊朗有关的团体可能会发动混合攻击。但包括总理弗里德里希·默茨（ Friedrich Merz ）在内的政治领导人已经公开淡化了这种风险。
+* Xi Jinping spent 13 years building a military to rival that of the United States. But the stronger the Chinese forces grew, the less he trusted the generals he had handpicked to run them.
+* 习近平花了13年时间建立了一支与美国相媲美的军队。但中国军队越强大，他就越不信任他精心挑选的将军们。
+* The event, shrunken because of security fears, adds to a sense that Moscow and other Russian cities can no longer be insulated from the war.
+* 这一事件因安全担忧而缩小，增加了一种感觉，即莫斯科和其他俄罗斯城市再也不能与战争隔绝。
+* The landlocked body of water has taken on new significance, with Russia shipping military and commercial goods to bolster Tehran’s ability to withstand the U.S. assault.
+* 内陆水域具有新的意义，俄罗斯运送军事和商业货物以加强德黑兰抵御美国攻击的能力。
+* The macaque, now 9 months old, has been attracting tens of thousands of visitors to a small Japanese zoo. He ignores the attention.
+* 这只猕猴现已9个月大，吸引了成千上万的游客来到一个小型日本动物园。他忽略了注意力。
+* One Nation, an anti-immigration party with Trumpian policies that has risen in popularity, won a seat in Parliament’s lower house for the first time.
+* 拥有特朗普政策的反移民政党One Nation首次赢得了议会下院的席位。
+* Peter Magyar, the incoming prime minister, has promised to push out “puppets of the old regime.” Many are jumping first.
+* 即将上任的总理彼得·马贾尔（ Peter Magyar ）承诺推翻“旧政权的傀儡”。“很多人先跳。
+* The number raises the prospect that about half a million soldiers in total have died on the Russian and Ukrainian sides.
+* 这一数字增加了俄罗斯和乌克兰方面总共约50万士兵死亡的前景。
+* The former opposition leader, who won a landslide election, now faces the formidable job of dismantling what his predecessor called an “illiberal democracy.”
+* 这位前反对派领导人赢得了压倒性选举，现在面临着拆除他的前任所谓的“非自由民主”的艰巨任务。
+* The war in Iran, trade, artificial intelligence and Taiwan are expected to be on the agenda. But expectations are modest.
+* 预计伊朗、贸易、人工智能和台湾的战争将提上议事日程。但人们的期望并不高。
+* King Frederik X has appointed a right-leaning politician to try to form the next government.
+* 国王弗雷德里克十世任命了一位右倾政治家，试图组建下一届政府。
 
 ## New York Times United States News
-* Secretary of State Marco Rubio flew to Rome this week after an unexpected spat between President Trump and Prime Minister Giorgia Meloni of Italy, once one of the president’s best friends in Europe.
-* 国务卿马可·卢比奥（ Marco Rubio ）本周飞往罗马，此前特朗普总统和意大利总理乔治亚·梅洛尼（ Giorgia Meloni ）之间发生了意想不到的口角，后者曾是总统在欧洲最好的朋友之一。
-* Rob Sand, Iowa’s auditor, is campaigning for governor with a pragmatic message that eschews strict partisanship.
-* 爱荷华州的审计师罗布·桑（ Rob Sand ）正在为州长竞选，他传达了一个务实的信息，即避免严格的党派偏见。
-* The State Department said it would review all Mexican consulates in the United States, following claims in conservative media that the consulates interfere in politics.
-* 美国国务院表示，在保守派媒体声称墨西哥驻美国领事馆干涉政治后，它将审查所有墨西哥驻美国领事馆。
-* Jason Meade had been searching for a fugitive when he shot Casey Goodson Jr. in 2020. It is rare for a law enforcement official to be convicted in a killing that occurs on the job.
-* 杰森·米德（ Jason Meade ）在2020年枪杀小凯西·古德森（ Casey Goodson Jr. ）时一直在寻找一名逃犯执法人员很少因在工作中发生的杀人事件而被定罪。
-* The Trump administration is moving to more strictly enforce a 1996 law that gives the State Department the authority to revoke passports over unpaid child support.
-* 特朗普政府正在采取行动，更严格地执行1996年的一项法律，该法律赋予国务院撤销无偿儿童抚养费护照的权力。
-* The state program employs helicopters and small planes to shoot black and brown bears of any age in a large area of southwestern Alaska. Two conservation groups have sued to stop it.
-* 该州计划在阿拉斯加西南部的大片地区使用直升机和小型飞机拍摄任何年龄的黑熊和棕熊。两个保护组织已经起诉以阻止它。
-* Saudi Arabia’s refusal of support suggests that President Trump’s unpredictable approach to Iran has strained ties with one of his closest allies in the Middle East.
-* 沙特阿拉伯拒绝支持表明，特朗普总统对伊朗采取的不可预测的态度使他与中东最亲密的盟友之一的关系紧张。
-* In an opinion piece in The Washington Post, the Pennsylvania senator wrote that while he was “at odds” with the party’s approach to some issues, his values had not changed.
-* 这位宾夕法尼亚州参议员在《华盛顿邮报》的一篇评论文章中写道，虽然他与该党对某些问题的态度“不一致” ，但他的价值观并没有改变。
-* The exchange was the latest twist in a week of mixed signals in the region and tensions over the Strait of Hormuz, as President Trump searches for an off-ramp in the war that he started.
-* 这次交流是该地区一周来出现的最新转折，该地区的信号好坏参半，霍尔木兹海峡局势紧张，因为特朗普总统正在寻找他发动的战争的匝道。
-* The request comes after a federal appeals court temporarily blocked a Food and Drug Administration regulation that has greatly expanded access to the abortion pill mifepristone.
-* 此前，联邦上诉法院暂时阻止了美国食品和药物管理局的一项规定，该规定极大地扩大了堕胎药米非司酮的使用范围。
+* The plane suffered an engine fire but was safely evacuated. Details were not available about the person the Frontier Airlines pilots said was hit.
+* 飞机发生发动机起火，但已安全撤离。Frontier Airlines飞行员称被击中的人的详细信息尚不可用。
+* Republicans are charging ahead in the nation’s redistricting race, and showing new bullishness after months of growing midterm fears.
+* 共和党人正在全国重新划分选区的竞选中领先，并在经历了数月日益增长的中期担忧后表现出新的看涨情绪。
+* Gov. Abigail Spanberger had initially been skeptical of the push for new maps, but as the state’s leading Democrat she had a political stake in its fate.
+* 州长阿比盖尔·斯潘伯格（ Abigail Spanberger ）最初对推动新地图持怀疑态度，但作为该州的主要民主党人，她与其命运息息相关。
+* The “majority-minority” House districts struck down by the Supreme Court last week sent a surge of Black and Hispanic lawmakers to Congress. They also opened opportunities for the G.O.P.
+* 上周被最高法院推翻的“多数少数民族”众议院选区向国会派出了大量黑人和西班牙裔立法者。他们还为G.O.P.
+* Four states are considering drawing new maps in the coming weeks. Another dozen or more could join the fray next year.
+* 四个州正在考虑在未来几周内绘制新地图。明年还有十几个或更多人可能会加入这场斗争。
+* A staff member on the House China Committee was promised $10,000 for U.S. policy insights, on issues like Venezuela and rare-earth minerals.
+* 众议院中国委员会的一名工作人员获得了10,000 $的承诺，以获得美国在委内瑞拉和稀土矿物等问题上的政策见解。
+* Harvard’s boxing club is drawing new members. So are boxing clubs at other colleges, as students look for real-life connection.
+* 哈佛大学的拳击俱乐部正在吸引新会员。其他大学的拳击俱乐部也是如此，因为学生们正在寻找现实生活中的联系。
+* Of the 57 attacks in the Caribbean and eastern Pacific against boats accused of drug trafficking, there have rarely been survivors.
+* 在加勒比海和东太平洋对被控贩毒船只的57次袭击中，很少有幸存者。
+* The death of Valentina Orellana-Peralta, a 14-year-old bystander, occurred at a store where the police were responding to reports of an assault.
+* 14岁的旁观者Valentina Orellana-Peralta的死亡发生在一家商店，警方正在回应有关袭击的报道。
+* State officials urged the justices to allow them to jettison Alabama’s congressional district map, citing the Supreme Court’s recent decision that dealt a blow to the Voting Rights Act.
+* 州官员敦促法官允许他们抛弃阿拉巴马州的国会选区地图，理由是最高法院最近的决定对投票权法案造成了打击。
 
 ## New York Times Asia News
+* One Nation, an anti-immigration party with Trumpian policies that has risen in popularity, won a seat in Parliament’s lower house for the first time.
+* 拥有特朗普政策的反移民政党One Nation首次赢得了议会下院的席位。
+* A staff member on the House China Committee was promised $10,000 for U.S. policy insights, on issues like Venezuela and rare-earth minerals.
+* 众议院中国委员会的一名工作人员获得了10,000 $的承诺，以获得美国在委内瑞拉和稀土矿物等问题上的政策见解。
+* The country’s exports surged and its trade surplus with the United States widened ahead of President Trump’s scheduled visit next week to Beijing.
+* 在特朗普总统下周访问北京之前，该国的出口激增，对美国的贸易顺差扩大。
+* The macaque, now 9 months old, has been attracting tens of thousands of visitors to a small Japanese zoo. He ignores the attention.
+* 这只猕猴现已9个月大，吸引了成千上万的游客来到一个小型日本动物园。他忽略了注意力。
+* The war in Iran, trade, artificial intelligence and Taiwan are expected to be on the agenda. But expectations are modest.
+* 预计伊朗、贸易、人工智能和台湾的战争将提上议事日程。但人们的期望并不高。
+* Xi Jinping spent 13 years building a military to rival that of the United States. But the stronger the Chinese forces grew, the less he trusted the generals he had handpicked to run them.
+* 习近平花了13年时间建立了一支与美国相媲美的军队。但中国军队越强大，他就越不信任他精心挑选的将军们。
+* “Wild Swans,” a best-selling 1991 memoir, told the story of a stoic mother holding her family together amid torture and imprisonment under Mao’s regime.
+* 1991年畅销回忆录《野天鹅》讲述了一位坚忍的母亲在毛泽东政权的折磨和监禁中将家人团结在一起的故事。
 * With time running out, Taiwanese lawmakers approved funds for buying U.S. weapons, fearing they could lose support if they didn’t act now.
 * 随着时间的推移，台湾立法者批准了购买美国武器的资金，担心如果他们现在不采取行动，他们可能会失去支持。
 * As Pakistan mediates between the U.S. and Iran, its ties to the Emirates have deteriorated. Pakistani workers say they are now being sent home en masse.
 * 随着巴基斯坦在美国和伊朗之间进行调解，其与阿联酋的关系已经恶化。巴基斯坦工人说，他们现在被集体送回家。
 * Indonesian authorities said other climbers had safely evacuated Mount Dukono, which had been off-limits because of volcanic activity.
 * 印度尼西亚当局表示，其他登山者已安全撤离杜科诺山，由于火山活动，杜科诺山一直是禁区。
-* “A Rumor of War,” about his service as a Marine Corps infantry officer and published in 1977, relentlessly detailed “the things men do in war and the things war does to them.”
-* 关于他作为海军陆战队步兵军官服役的“战争谣言”于1977年出版，无情地详细介绍了“男人在战争中做的事情和战争对他们所做的事情”。
-* America’s ability to deter China in a war over Taiwan is weakened, Chinese analysts say, giving Beijing leverage in an upcoming summit with President Trump.
-* 中国分析人士表示，美国在台湾战争中威慑中国的能力受到削弱，这让北京在即将与特朗普总统举行的峰会上发挥了杠杆作用。
-* The United States and its partners have burned through an enormous amount of air defense missiles in the Iran war, and production is slow.
-* 美国及其合作伙伴在伊朗战争中烧毁了大量防空导弹，生产速度缓慢。
-* A report by the U.S. National Transportation Safety Board offers new details about the China Eastern Airlines crash in 2022, which killed all 132 people on board.
-* 美国国家运输安全委员会的一份报告提供了有关2022年中国东方航空公司坠机事故的新细节，该事故造成机上所有132人死亡。
-* Gen. Wei Fenghe and Gen. Li Shangfu are likely to spend the rest of their lives in prison after receiving suspended death sentences.
-* 魏凤和将军和李上福将军在被判处死刑缓期执行后，很可能会在狱中度过余生。
-* The star often refuses roles unless he clicks with the filmmaker. That’s how he came to work with Wong Kar-wai, Hou Hsiao-Hsien and now Ildiko Enyedi.
-* 这位明星经常拒绝角色，除非他点击电影制片人。这就是他与黄家伟、侯晓贤和现在的伊迪科·恩耶迪合作的原因。
-* The police said two of them would face charges of crimes against humanity and the third would face a charge of belonging to a terrorist group.
-* 警方表示，其中两人将面临危害人类罪的指控，第三人将面临属于恐怖组织的指控。
 
