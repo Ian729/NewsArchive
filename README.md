@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Prime Minister Keir Starmer vowed to continue in office as he met with cabinet members. Dozens of Labour Party lawmakers had urged him to step down after heavy losses in local elections.
+* 总理凯尔·斯塔默（ Keir Starmer ）在会见内阁成员时发誓要继续任职。在地方选举中遭受重大损失后，数十名工党议员敦促他辞职。
+* Michal Gatchalian dared to speak out against sexual abuse by a priest in the devoutly Catholic Philippines. He’s now a lawyer helping other victims.
+* Michal Gatchalian敢于公开反对虔诚的天主教菲律宾牧师的性虐待。他现在是一名律师，帮助其他受害者。
+* Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island.
+* 北京称台湾是“中国核心利益的核心”。“习近平可能会把重点放在让特朗普总统放慢批准更多用于自治岛屿的武器上。
+* Despite its long slog in Ukraine and the loss of former allies like Syria, Russia is benefiting from costly energy, a clever narrative and America’s own failure to achieve a quick victory.
+* 尽管俄罗斯在乌克兰经历了漫长的磨难，失去了叙利亚等前盟友，但它正受益于昂贵的能源、巧妙的叙述以及美国自己未能迅速取得胜利。
+* Video shows Senator Ronald dela Rosa, who is wanted by the International Criminal Court over Rodrigo Duterte’s drug war, dashing into the Philippine Senate.
+* 视频显示，国际刑事法院因罗德里戈·杜特尔特（ Rodrigo Duterte ）的毒品战争而通缉的参议员罗纳德·德拉罗萨（ Ronald dela Rosa ）冲入菲律宾参议院。
+* Facilities tied to Coca-Cola, Cargill, Mondelez and others appear to have been deliberately hit. The Trump administration’s muted response has raised concerns.
+* 与可口可乐、嘉吉、Mondelez和其他公司有关的设施似乎受到了蓄意袭击。特朗普政府的温和回应引发了担忧。
+* President Emmanuel Macron has appointed a string of allies who will remain in critical state positions after next year’s presidential election, and who could thwart a far-right successor.
+* 总统埃马纽埃尔·马克龙（ Emmanuel Macron ）任命了一系列盟友，这些盟友将在明年的总统大选后继续担任重要的国家职位，并可能挫败极右翼的继任者。
 * Asian nations worry that the president might trade security commitments for better economic terms with China during his planned meeting with Xi Jinping this week.
 * 亚洲国家担心，特朗普可能会在本周与习近平的会晤中，以安全承诺换取更好的经济条件。
-* Tehran said its conditions for a peace deal include U.S. war reparations, recognition of its sovereignty over the Strait of Hormuz and an end to American sanctions, Iranian state media reported.
-* 据伊朗官方媒体报道，德黑兰表示，其达成和平协议的条件包括美国对战争的赔偿、承认其对霍尔木兹海峡的主权以及结束美国的制裁。
-* Prime Minister Keir Starmer of Britain used a speech to attempt to quell a mutiny in the Labour Party after last week’s dire election results.
-* 英国首相凯尔·斯塔默（ Keir Starmer ）在上周可怕的选举结果之后发表讲话，试图平息工党的叛乱。
-* With peace talks on ice and Ukraine now more self-reliant, President Volodymyr Zelensky seems to be stepping away from the United States.
-* 随着关于ICE的和平谈判和乌克兰现在更加自力更生，总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）似乎正在远离美国。
+* Iran defended its demands for a peace deal and President Trump called them “garbage.” Mr. Trump said he wanted to suspend the federal gasoline tax, which would require congressional approval.
+* 伊朗为其达成和平协议的要求进行了辩护，特朗普总统称之为“垃圾”。特朗普表示，他希望暂停联邦汽油税，这将需要国会的批准。
 * Israel’s efforts to influence Eurovision’s vote were broader and started years earlier than previously known.
 * 以色列影响欧洲电视网投票的努力范围更广，比以前知道的要早几年开始。
-* Exclusive voting data shows that, despite Eurovision’s assurances, an Israeli campaign could easily have influenced last year’s contest.
-* 独家投票数据显示，尽管欧洲电视网做出了保证，但以色列的竞选活动很容易影响去年的比赛。
-* Mr. Thaksin has long been a foil to Thailand’s conservative establishment. He still holds significant influence, with his political party a member of the governing coalition.
-* 他信长期以来一直是泰国保守派的陪衬。他仍然拥有重要的影响力，他的政党是执政联盟的成员。
-* Small groups of passengers and crew left the ship after it anchored off Spain’s Canary Islands on Sunday. Those aboard were expected to be flown to their home countries, officials said.
-* 周日，这艘船在西班牙加那利群岛停泊后，一小群乘客和船员离开了这艘船。官员说，船上人员预计将被空运回国。
-* The health authorities are working to calm fears and contain the rare virus. Three passengers died after traveling on the ship, and several others fell ill or tested positive.
-* 卫生当局正在努力平息恐惧并遏制这种罕见病毒。三名乘客在乘船后死亡，另有几人生病或检测呈阳性。
-* Colombia is planning to cull a population of wild hippos, the offspring of the drug lord’s pets, dividing a town where hippos are the main draw.
-* 哥伦比亚正计划淘汰一群野生河马，这是毒枭宠物的后代，将河马作为主要吸引力的城镇划分开来。
 
 ## New York Times United States News
-* The company said that it had identified, for the first time, hackers using artificial intelligence to discover an unknown bug. The attempted attack represents “a taste of what’s to come,” one expert said.
-* 该公司表示，它已首次发现黑客使用人工智能来发现一个未知的漏洞。一位专家说，这次未遂袭击代表了“对未来的品味”。
-* The pop star is suing the electronics giant for more than $15 million, accusing it of using her image without authorization.
-* 这位流行歌星正在以超过1500万美元的价格起诉这家电子巨头，指责它未经授权使用她的形象。
-* The Trump administration has held up the sale for months ahead of President Trump’s meeting this week with President Xi Jinping of China.
-* 在特朗普总统本周与中国国家主席习近平会晤之前，特朗普政府已经推迟了几个月的销售。
-* The slowed pace of grants by the National Science Foundation, under attack from the White House, could put the United States at a disadvantage with China, the scientists warned.
-* 科学家们警告说，美国国家科学基金会(National Science Foundation)的资助步伐放缓，受到白宫的攻击，可能使美国与中国处于不利地位。
-* Students say they have been passed over for jobs and interviews because of visa restrictions. Some have a Plan B: leaving the United States.
-* 学生们说，由于签证限制，他们被错过了工作和面试机会。有些人有一个B计划：离开美国。
-* One Democrat is accused of being a Republican in disguise. Another plans to drop out to boost an independent. It’s primary eve in one of the country’s most unusual midterm contests.
-* 一名民主党人被指控为伪装的共和党人。另一个计划退出以促进独立。这是该国最不寻常的中期竞赛之一的初选前夕。
-* Security and other expenses are piling up for host cities. In the smallest metro area staging games, the bill includes temporary bus systems in two states.
-* 主办城市的安全和其他费用正在堆积如山。在最小的都会区举办比赛中，该法案包括两个州的临时公交系统。
-* The Justice Department ended a deal that had helped fund a solution to the sewage crisis in rural Alabama. “Almost like we are starting all over again,” one activist said.
-* 司法部终止了一项帮助解决阿拉巴马州农村污水危机的协议。一位活动人士说： “几乎就像我们重新开始一样。”
-* Students are practicing cursive in clubs after school and in libraries after it was cut from the Common Core curriculum. Some states are reintroducing it into schools.
-* 学生在放学后在俱乐部和图书馆练习草书，这是从共同核心课程中删除的。一些州正在将其重新引入学校。
-* Seventeen Americans from a cruise ship that faced a hantavirus outbreak arrived in Nebraska and will be monitored at a quarantine center. One tested positive for the Andes virus, health officials said.
-* 来自一艘面临汉坦病毒爆发的游轮的17名美国人抵达内布拉斯加州，并将在隔离中心接受监测。卫生官员说，其中一人对安第斯病毒检测呈阳性。
+* Steve Hilton, a Republican front-runner for governor, posted a video of his Del Taco order. Social media users accused him of misunderstanding the state’s Mexican food culture.
+* 共和党州长领跑者史蒂夫·希尔顿（ Steve Hilton ）发布了他的德尔塔科（ Del Taco ）订单的视频。社交媒体用户指责他误解了该州的墨西哥饮食文化。
+* After a warm winter that brought more rain than snow, the state’s snowpack was the lowest it has ever been.
+* 经过一个温暖的冬天，带来了比雪更多的雨水，该州的积雪是有史以来最低的。
+* The latest artificial intelligence models from Anthropic and OpenAI are extending the United States’ lead over China and intensifying the rivalry between the countries.
+* 来自Anthropic和OpenAI的最新人工智能模型正在扩大美国对中国的领先地位，并加剧两国之间的竞争。
+* Democrats will choose a candidate in a House battleground in Nebraska, and an unusual Senate primary could decide the fate of Omaha’s “blue dot” vote.
+* 民主党人将在内布拉斯加州的众议院战场上选择一名候选人，而参议院不寻常的初选可能会决定奥马哈“蓝点”投票的命运。
+* Mr. Frank speaks about the missteps of the Democratic Party and his hope for its future. “Frankly, if I weren’t dying, people wouldn’t be paying as much attention.”
+* 弗兰克先生谈到了民主党的失误以及他对民主党未来的希望。“坦率地说，如果我没有死，人们就不会那么关注我了。”
+* After the state ordered the removal of rainbow crosswalks, San Antonio used colorful sidewalks to keep public pride symbols alive in the city.
+* 在该州下令拆除彩虹人行横道后，圣安东尼奥使用五颜六色的人行道来保持该市的公共自豪感标志。
+* As people fled their cars along the busy riverfront road, a state trooper and an armed civilian ran toward the gunman and exchanged fire with him.
+* 当人们沿着繁忙的河滨公路逃离汽车时，一名州警和一名武装平民跑向枪手并与他交火。
+* Instructure, which provides Canvas software to thousands of schools and universities around the world, did not say what it had given the hackers in exchange for the stolen data.
+* Instructure向全球数千所学校和大学提供Canvas软件，但没有透露它向黑客提供了什么以换取被盗数据。
+* The 2000 terrorism case has been going on for so long that the parents of fallen sailors and shipmates who survived the attack have died.
+* 2000年的恐怖主义案件已经持续了很长时间，以至于在袭击中幸存下来的水手和船员的父母已经死亡。
+* Critics raised concerns over press freedom after The Journal disclosed receiving subpoenas related to an article on deliberations on the risks of military action in Iran.
+* 在《华尔街日报》披露收到与一篇关于审议伊朗军事行动风险的文章有关的传票后，批评者提出了对新闻自由的担忧。
 
 ## New York Times Asia News
+* The food giant Calbee said shortages of naphtha, a crude-oil derivative used in inks, were forcing it to switch to black-and-white packaging for its salty products.
+* 食品巨头Calbee表示，油墨中使用的原油衍生物石脑油短缺，迫使它改用黑白包装来包装其咸产品。
+* Video shows Senator Ronald dela Rosa, who is wanted by the International Criminal Court over Rodrigo Duterte’s drug war, dashing into the Philippine Senate.
+* 视频显示，国际刑事法院因罗德里戈·杜特尔特（ Rodrigo Duterte ）的毒品战争而通缉的参议员罗纳德·德拉罗萨（ Ronald dela Rosa ）冲入菲律宾参议院。
+* Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island.
+* 北京称台湾是“中国核心利益的核心”。“习近平可能会把重点放在让特朗普总统放慢批准更多用于自治岛屿的武器上。
+* Before this week’s U.S.-Chinese summit, Beijing reached a milestone in its quest for technological self-sufficiency.
+* 在本周的美中峰会之前，北京在寻求技术自给自足方面达到了一个里程碑。
+* Michal Gatchalian dared to speak out against sexual abuse by a priest in the devoutly Catholic Philippines. He’s now a lawyer helping other victims.
+* Michal Gatchalian敢于公开反对虔诚的天主教菲律宾牧师的性虐待。他现在是一名律师，帮助其他受害者。
+* For decades, many Chinese viewed the United States with a mix of admiration, envy and resentment. President Trump’s volatile second term shattered that image.
+* 几十年来，许多中国人对美国充满了钦佩、嫉妒和怨恨。特朗普总统动荡的第二个任期打破了这一形象。
+* President Trump said the fragile cease-fire was on “life support,” and India’s leader urged residents to cut back on purchases and travel.
+* 特朗普总统表示，脆弱的停火是“生命支持” ，印度领导人敦促居民减少购买和旅行。
+* Under pressure from the economic fallout of the war in Iran and politically emboldened, Prime Minister Narendra Modi asks Indians to sacrifice.
+* 在伊朗战争的经济后果和政治胆识的压力下，总理纳伦德拉·莫迪（ Narendra Modi ）要求印度人做出牺牲。
 * But the prosecution of Ms. Duterte, who has become the archrival to President Ferdinand R. Marcos Jr., is likely to fail again in the Senate.
 * 但杜特尔特已经成为小费迪南德· R ·马科斯(Ferdinand R. Marcos Jr.)总统的主要竞争对手，对她的起诉很可能在参议院再次失败。
-* Nearly two dozen countries were moving to repatriate their citizens who were aboard the cruise ship where three passengers died in a hantavirus outbreak.
-* 近二十几个国家正在采取行动，遣返乘坐邮轮的公民，其中三名乘客在汉坦病毒爆发中丧生。
-* Beijing is signaling that it is ready for a trade showdown, and it is building up a legal arsenal in preparation.
-* 北京方面表示已准备好进行贸易摊牌，并正在建立法律武器库。
-* Students say they have been passed over for jobs and interviews because of visa restrictions. Some have a Plan B: leaving the United States.
-* 学生们说，由于签证限制，他们被错过了工作和面试机会。有些人有一个B计划：离开美国。
-* Asian nations worry that the president might trade security commitments for better economic terms with China during his planned meeting with Xi Jinping this week.
-* 亚洲国家担心，特朗普可能会在本周与习近平的会晤中，以安全承诺换取更好的经济条件。
-* Mr. Thaksin has long been a foil to Thailand’s conservative establishment. He still holds significant influence, with his political party a member of the governing coalition.
-* 他信长期以来一直是泰国保守派的陪衬。他仍然拥有重要的影响力，他的政党是执政联盟的成员。
-* The draft, which is mandatory for men, is a deeply divisive issue in the country. But volunteer enlistments have soared amid a surge in nationalism and a sluggish economy.
-* 该草案对男性来说是强制性的，是该国一个极具分歧的问题。但在民族主义激增和经济低迷的情况下，志愿者入伍人数飙升。
-* Demonstrators are opposed to Prime Minister Sanae Takaichi’s efforts to build up military power and move the country away from its pacifist identity.
-* 示威者反对总理高市早苗（ Sanae Takaichi ）建立军事力量并使该国摆脱其和平主义身份的努力。
-* One Nation, an anti-immigration party with Trumpian policies that has risen in popularity, won a seat in Parliament’s lower house for the first time.
-* 拥有特朗普政策的反移民政党One Nation首次赢得了议会下院的席位。
-* A staff member on the House China Committee was promised $10,000 for U.S. policy insights, on issues like Venezuela and rare-earth minerals.
-* 众议院中国委员会的一名工作人员获得了10,000 $的承诺，以获得美国在委内瑞拉和稀土矿物等问题上的政策见解。
+* Nearly two dozen countries are repatriating citizens who were aboard the MV Hondius, where three passengers died in a hantavirus outbreak.
+* 近二十几个国家正在遣返MV Hondius上的公民，其中三名乘客在汉坦病毒爆发中死亡。
 
