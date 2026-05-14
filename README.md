@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* During the first round of two days of talks, Xi Jinping issued a stern warning about Taiwan while Trump touted all the top business leaders in his delegation.
+* 在第一轮为期两天的会谈中，习近平对台湾发出严厉警告，而特朗普则吹捧其代表团中的所有高级商界领袖。
+* Mr. Musk is part of a delegation of business leaders to China, where his interests include Tesla’s electric vehicle factory and solar panels.
+* 马斯克是前往中国的商界领袖代表团的成员，他的兴趣包括特斯拉的电动汽车工厂和太阳能电池板。
+* From satellite phone check-ins to a borrowed royal plane, new details show how Taiwan’s leader’s team outwitted China and pulled off an audacious journey to southern Africa.
+* 从卫星电话值机到借来的皇家飞机，新的细节展示了台湾领导人的团队如何战胜中国，开启了一场大胆的南部非洲之旅。
+* Senator Ronald dela Rosa, who is wanted by the International Criminal Court in The Hague, had been holed up in the building when shots rang out.
+* 海牙国际刑事法院通缉的参议员罗纳德·德拉·罗萨（ Ronald dela Rosa ）在枪声响起时躲在大楼里。
+* The scientific investigation into the origin of cruise infection has become entangled with international finger pointing.
+* 对邮轮感染起源的科学调查已经与国际指责纠缠在一起。
+* One of the most prominent activists for Mexico’s disappeared recently found the remains of one missing son. Now she has turned her attention to finding the other.
+* 墨西哥失踪者中最着名的活动家之一最近发现了一个失踪儿子的遗体。现在她把注意力转向了寻找对方。
+* At least five people were killed and dozens were wounded in a drone and missile strike, the latest in a series of attacks since a three-day truce expired on Monday.
+* 在一次无人机和导弹袭击中，至少有5人死亡，数十人受伤，这是自周一为期三天的休战结束以来发生的一系列袭击事件中的最新一起。
+* The unusual ruling came after the judge found that the Trump administration had most likely violated the law by deporting the 55-year-old woman to the African country despite its refusal to take her.
+* 这一不寻常的裁决是在法官发现特朗普政府最有可能违反法律将这名55岁的女子驱逐到这个非洲国家之后做出的，尽管它拒绝将她带走。
+* Beijing approved export licenses for hundreds of American slaughterhouses to resume beef shipments, ending a 15-month ban.
+* 北京批准了数百家美国屠宰场恢复牛肉运输的出口许可证，结束了为期15个月的禁令。
 * Encounters with other world leaders reveal a side of China’s leader that the public rarely sees, and offer clues to how he will approach President Trump in Beijing.
 * 与其他世界领导人的接触揭示了公众很少看到的中国领导人的一面，并提供了他将如何在北京与特朗普总统接触的线索。
-* The promise of Keir Starmer’s Labour Party in 2024 was renewed stability — but that now appears to be under threat.
-* Keir Starmer的工党在2024年的承诺是恢复稳定—但现在似乎受到威胁。
-* Wolder, near the Belgian border, is waiting to see if the skeleton it dug up in a church is Count d’Artagnan, from Alexandre Dumas’s tale.
-* 靠近比利时边境的沃尔德正在等待，看看它在教堂里挖掘出来的骨架是否是亚历山大·杜马斯（ Alexandre Dumas ）的故事中的达达尼昂伯爵（ Count d 'Artagnan ）。
-* Temporary truces have become a tool of performative diplomacy, an end in themselves rather than a prelude to a lasting settlement, analysts say.
-* 分析人士说，暂时停战已成为一种执行外交的工具，它本身就是一个目的，而不是持久和解的前奏。
-* Catherine is visiting Reggio Emilia, an Italian city celebrated for its approach to early childhood education.
-* 凯瑟琳正在参观意大利城市雷焦艾米利亚（ Reggio Emilia ） ，这座城市因其幼儿教育方法而闻名。
-* Dozens of Gulf citizens have been accused of belonging to Iran-linked terrorism cells as the war accelerates a shift toward deeper authoritarianism in the region.
-* 随着战争加速该地区向更深层次的威权主义的转变，数十名海湾公民被指控属于与伊朗有关的恐怖主义组织。
-* The leaders of both countries are expected to discuss the risks from artificial intelligence, but neither country is willing to be the first to slow down.
-* 预计两国领导人将讨论人工智能的风险，但两国都不愿意成为第一个放缓的国家。
-* Stuck with the fallout from America’s war in Iran, European leaders have criticized the president publicly. When he’s been angered, they haven’t backed down.
-* 受美国在伊朗战争的影响，欧洲领导人公开批评奥巴马总统。当他被激怒时，他们没有退缩。
-* The property developer says the war in Iran and Trump’s “unpopularity” contributed to the collapse of a plan for a 91-story building on the Gold Coast.
-* 这家房地产开发商表示，伊朗战争和特朗普的“不受欢迎”导致黄金海岸一栋91层建筑的计划崩溃。
-* Vessels are traveling without transmitting critical information meant to keep the waters safe, maritime intelligence experts say.
-* 海事情报专家表示，船只行驶时没有传输旨在确保水域安全的关键信息。
 
 ## New York Times United States News
-* A family of guns that was once ubiquitous in the U.S. firearms marketplace has started to vanish for a variety of reasons.
-* 由于各种原因，曾经在美国枪支市场上无处不在的枪支家族已经开始消失。
-* Rising demand, municipal dysfunction and drought have pushed Corpus Christi to the edge of a water emergency, offering a cautionary tale for the rest of the country.
-* 不断上升的需求、市政机能失调和干旱将科珀斯克里斯蒂推向了水资源紧急情况的边缘，为该国其他地区提供了一个警示故事。
-* The president came into office planning harsher trade moves on China than on the rest of the world. Here’s why he’s had to scale them back.
-* 总统上任后计划对中国采取比世界其他地区更严厉的贸易行动。这就是为什么他不得不缩减它们的原因。
-* Jensen Huang boarded Air Force One in Alaska, joining a delegation of more than a dozen business leaders accompanying President Trump on his trip to Beijing.
-* 詹森·黄（ Jensen Huang ）在阿拉斯加登上了空军一号（ Air Force One ） ，加入了由十几位商界领袖组成的代表团，陪同特朗普总统访问北京。
-* “This is not a ‘gotcha’ piece, right?” the leading Democratic candidate for California governor asked a television reporter before an interview.
-* “这不是‘陷阱‘ ，对吧？”这位加州州长民主党主要候选人在接受采访前问一位电视记者。
-* Democrats in Nebraska appear headed toward the Senate matchup they want, while their primary for a key House district was too close to call.
-* 内布拉斯加州的民主党人似乎正朝着他们想要的参议院对决迈进，而他们在关键的众议院选区的初选距离太近了。
-* Democrats face an uphill fight as they seek to unseat Gov. Jim Pillen, who is running for another term in the solidly Republican state.
-* 民主党人正面临着一场艰苦的战斗，因为他们试图推翻州长吉姆·皮伦（ Jim Pillen ） ，后者正在竞选这个坚定的共和党州的另一个任期。
-* A report from the Congressional Budget Office said that space-based interceptors, which do not currently exist, would probably consume 60 percent of the total cost.
-* 美国国会预算办公室的一份报告称，目前尚不存在的天基拦截器可能会消耗总成本的60%。
-* Mayor Daniel Lurie and city leaders have enforced bans on camping and moved people off sidewalks to reduce visible homelessness. Critics say too many homeless people are housed in jail.
-* 市长丹尼尔·卢里（ Daniel Lurie ）和城市领导人已禁止露营，并将人们从人行道上移开，以减少明显的无家可归现象。批评人士说，太多的无家可归者被关在监狱里。
-* They face at least 10 years in prison, and the authorities accused one of the men of being associated with the Sinaloa Cartel.
-* 他们面临至少10年的监禁，当局指控其中一名男子与锡那罗亚卡特尔有关联。
+* The State Supreme Court cited a local court clerk in reversing the result of one of the most-watched murder trials of the last decade. It has raised painful memories in the state’s Lowcountry region.
+* 州最高法院援引当地法院书记员的话，推翻了过去十年中最受关注的谋杀案审判之一的结果。它在该州的低地地区引起了痛苦的回忆。
+* The Times broke the story that has become a dominant line of attack against Xavier Becerra, the Democratic front-runner. Here are five things to know about it.
+* 《纽约时报》打破了这个故事，成为对民主党领跑者泽维尔·贝塞拉（ Xavier Becerra ）的主要攻击线。以下是您需要了解的五件事。
+* It’s a nightmare faced by families all around Los Angeles: After wildfire smoke blanketed homes, schools and offices with toxic chemicals, when is it OK to go back?
+* 洛杉矶各地的家庭都面临着一场噩梦：在野火烟雾笼罩住宅、学校和办公室后，什么时候可以回去？
+* Bo French, a hard-liner known for wild social media posts, is seeking a bigger megaphone. Big oil companies, and top officials like Greg Abbott, want to stop him.
+* Bo French是一位以疯狂的社交媒体帖子而闻名的强硬派，他正在寻求更大的扩音器。大型石油公司和Greg Abbott等高级官员都想阻止他。
+* Where do battle tanks and military trucks go when their service has ended? Enthusiasts and professionals put them to work for search and rescue, marketing and just having fun.
+* 服役结束后，作战坦克和军用卡车会去哪里？爱好者和专业人士让他们从事搜索和救援、营销以及娱乐方面的工作。
+* New census estimates show that the nation’s largest cities saw the sharpest slowdowns in population growth over the past year amid declines in immigration and plunging birthrates.
+* 新的人口普查估计显示，在过去一年中，由于移民人数下降和出生率下降，美国最大的城市的人口增长放缓幅度最大。
+* Gov. Henry McMaster, a Republican, appears prepared to thrust the state into the nation’s redistricting wars.
+* 共和党州长亨利·麦克马斯特（ Henry McMaster ）似乎准备将该州推入该国的重新划分战争。
+* The passenger, who had tested positive once in the Canary Islands, was being monitored in a special biocontainment facility in Omaha, until a new test came back negative.
+* 这名乘客曾在加那利群岛检测呈阳性，目前正在奥马哈的一个特殊生物防护设施中接受监测，直到新的检测结果呈阴性。
+* Those on board, who were all Bahamian adults, spent about five hours stranded on a raft before rescuers hoisted them to safety. All were in stable condition, officials said.
+* 船上的人都是巴哈马成年人，在救援人员将他们吊到安全地带之前，他们被困在木筏上大约五个小时。官员说，所有人的情况都很稳定。
+* The move escalates the administration’s feud with legal disciplinary bodies over the ethical conduct of government lawyers.
+* 此举加剧了政府与法律纪律机构对政府律师道德行为的不满。
 
 ## New York Times Asia News
-* Nadiem Makarim founded a popular app before joining Indonesia’s government. Now he could face 18 years in prison, targeted in what critics call a dubious anticorruption campaign.
-* Nadiem Makarim在加入印度尼西亚政府之前创立了一个受欢迎的应用程序。现在，他可能面临18年的监禁，批评者称这是一场可疑的反腐败运动。
-* The president came into office planning harsher trade moves on China than on the rest of the world. Here’s why he’s had to scale them back.
-* 总统上任后计划对中国采取比世界其他地区更严厉的贸易行动。这就是为什么他不得不缩减它们的原因。
-* A central question hanging over the summit this week is whether China will agree to extend a temporary postponement of even tougher rare-earth export controls.
-* 本周峰会上悬而未决的一个核心问题是，中国是否会同意暂时推迟更严格的稀土出口管制。
-* The leaders of both countries are expected to discuss the risks from artificial intelligence, but neither country is willing to be the first to slow down.
-* 预计两国领导人将讨论人工智能的风险，但两国都不愿意成为第一个放缓的国家。
-* As President Trump prepares to meet with Xi Jinping, a trade war that once threatened to freeze commerce between the two countries has given way to an uneasy truce.
-* 在特朗普总统准备与习近平会晤之际，一场曾经威胁要冻结两国贸易的贸易战已经让位于令人不安的休战。
-* Encounters with other world leaders reveal a side of China’s leader that the public rarely sees, and offer clues to how he will approach President Trump in Beijing.
-* 与其他世界领导人的接触揭示了公众很少看到的中国领导人的一面，并提供了他将如何在北京与特朗普总统接触的线索。
-* Jensen Huang boarded Air Force One in Alaska, joining a delegation of more than a dozen business leaders accompanying President Trump on his trip to Beijing.
-* 詹森·黄（ Jensen Huang ）在阿拉斯加登上了空军一号（ Air Force One ） ，加入了由十几位商界领袖组成的代表团，陪同特朗普总统访问北京。
-* With talks at an impasse, both sides are holding to positions their opponents call unacceptable, while the economic pain caused by the Strait of Hormuz blockade continues to grow.
-* 随着谈判陷入僵局，双方都坚持对手认为不可接受的立场，而霍尔木兹海峡封锁造成的经济痛苦继续增加。
-* Over three decades, Sigg, a Swiss businessman and former diplomat, amassed thousands of contemporary Chinese works. Ai Weiwei calls him “my maker.”
-* 三十多年来，瑞士商人和前外交官Sigg积累了数千件当代中国作品。艾未未称他为“我的创造者”。
-* The war in Iran has cast a shadow of uncertainty on both superpowers, dimming early hopes that they could begin to address the larger issues that have frayed their relationship.
-* 伊朗战争给两个超级大国都蒙上了不确定的阴影，削弱了早期希望，即他们可以开始解决破坏两国关系的更大问题。
+* President Trump and President Xi Jinping of China emphasized cooperation in their remarks after walking into the Great Hall of the People side by side.
+* 特朗普总统和中国国家主席习近平并肩走进人民大会堂后，在讲话中强调了合作。
+* A mixture of Chinese and international dishes were on the menu as Beijing’s chefs sought to appeal to President Trump’s tastes.
+* 当北京的厨师试图吸引特朗普总统的口味时，菜单上出现了中国菜和国际菜的混合物。
+* President Trump and China’s leader, Xi Jinping, exchanged pleasantries and also tackled areas of contention like Taiwan and trade.
+* 特朗普总统和中国领导人习近平互相打招呼，并解决了台湾和贸易等争议领域。
+* During the first round of two days of talks, Xi Jinping issued a stern warning about Taiwan while Trump touted all the top business leaders in his delegation.
+* 在第一轮为期两天的会谈中，习近平对台湾发出严厉警告，而特朗普则吹捧其代表团中的所有高级商界领袖。
+* Chinese state media is depicting the summit as an opportunity for the United States to accept that the “right way” for the two powers to engage is as equals.
+* 中国官方媒体将此次峰会描述为美国接受两国交往的“正确方式”是平等的机会。
+* From satellite phone check-ins to a borrowed royal plane, new details show how Taiwan’s leader’s team outwitted China and pulled off an audacious journey to southern Africa.
+* 从卫星电话值机到借来的皇家飞机，新的细节展示了台湾领导人的团队如何战胜中国，开启了一场大胆的南部非洲之旅。
+* Earlier, Secretary of State Marco Rubio said in an interview that China should take a more active role in resolving a standoff over the strait.
+* 早些时候，国务卿马可·卢比奥在接受采访时表示，中国应该在解决海峡僵局方面发挥更积极的作用。
+* Senator Ronald dela Rosa, who is wanted by the International Criminal Court in The Hague, had been holed up in the building when shots rang out.
+* 海牙国际刑事法院通缉的参议员罗纳德·德拉·罗萨（ Ronald dela Rosa ）在枪声响起时躲在大楼里。
+* Mr. Musk is part of a delegation of business leaders to China, where his interests include Tesla’s electric vehicle factory and solar panels.
+* 马斯克是前往中国的商界领袖代表团的成员，他的兴趣包括特斯拉的电动汽车工厂和太阳能电池板。
+* Three architecturally significant stupas, or reliquary mounds, in Nepal, Thailand and Taiwan.
+* 尼泊尔、泰国和台湾的三座具有重要建筑意义的佛塔或圣物丘。
 
