@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Greenlandic officials worry about the direction of the negotiations aimed at defusing President Trump’s threats to seize their island. But they have little leverage.
+* 格陵兰官员担心谈判的方向，旨在化解特朗普总统夺取格陵兰岛的威胁。但他们几乎没有杠杆作用。
+* The latest war in the Middle East has created new economic opportunities for Syria thanks to its geography.
+* 由于其地理位置，中东最近的战争为叙利亚创造了新的经济机会。
+* President Trump’s open willingness to hold up a $14 billion Taiwan arms package is a win for Beijing. Now China could be weighing how to keep the weapons on ice for as long as it can.
+* 特朗普总统公开表示愿意拿下140亿美元的台湾武器一揽子计划，这对北京来说是一场胜利。现在，中国可能正在权衡如何尽可能长时间地将武器保持在冰上。
+* A firebrand governor aims to transform his region into a laboratory for the Kremlin’s reactionary ideals.
+* 一位煽动性的州长旨在将他的地区转变为克里姆林宫反动理想的实验室。
+* The president has sought to force Iran to accept his terms on its nuclear program or else face renewed war. An emboldened Iran has rebuffed Trump’s demands.
+* 总统试图迫使伊朗接受其核计划的条款，否则将面临新的战争。一个胆大妄为的伊朗拒绝了特朗普的要求。
+* Kylian Mbappé, the captain of France’s national team, set off a storm a month before the World Cup by suggesting that the National Rally party was a threat to France.
+* 法国国家队队长Kylian Mbappé在世界杯前一个月掀起了一场风暴，暗示全国拉力赛对法国构成威胁。
+* The men were charged with obstructing operations at a zoo, apparently as a stunt connected to a cryptocurrency. They denied the charges.
+* 这些人被指控阻挠动物园的行动，显然是与加密货币有关的特技。他们否认了这些指控。
+* New research sheds light on how mediocre employees help would-be authoritarians maintain power.
+* 新的研究揭示了平庸的员工如何帮助潜在的独裁者维持权力。
 * Using cash grants and subsidized loans, President Recep Tayyip Erdogan’s government is trying to increase the birthrate. It’s not working.
 * 总统雷杰普·塔伊普·埃尔多安（ Recep Tayyip Erdogan ）的政府正在利用现金赠款和补贴贷款，试图提高出生率。它不起作用。
-* Israel spent over a year preparing a covert site in Iraq for its operations against Iran, regional officials say. Iraqi officials later confirmed the existence of a second base.
-* 地区官员说，以色列花了一年多的时间在伊拉克为其针对伊朗的行动准备一个秘密地点。伊拉克官员后来证实了第二个基地的存在。
-* Colombia is home to the most species of birds known to ornithologists. Merlin, an app, is helping to build an “avian tourism” industry there.
-* 哥伦比亚是鸟类学家所知鸟类种类最多的国家。Merlin是一个应用程序，正在帮助在那里建立一个“鸟类旅游”产业。
-* More than 550 drones were intercepted or shot down in over a dozen regions, including Moscow, in one of largest attacks of the war.
-* 在包括莫斯科在内的十几个地区，有550多架无人机被拦截或击落，这是战争中规模最大的袭击之一。
-* The team’s trip, for a women’s soccer tournament, is unlikely to catalyze a diplomatic thaw between the two Koreas, although some sports events have.
-* 该团队参加女子足球锦标赛的旅行不太可能促进两个朝鲜之间的外交解冻，尽管一些体育赛事已经解冻。
-* Just a day after the outbreak was announced, cases were confirmed in the capitals of Uganda and the Democratic Republic of Congo. There is no approved vaccine for the strain.
-* 疫情宣布仅一天后，乌干达和刚果民主共和国首都就确诊了病例。目前尚无针对该菌株的批准疫苗。
-* The extradition of Alex Saab, who is tied to a huge graft scheme, is part of a purge of powerful figures who helped the deposed president, Nicolás Maduro, stay in power.
-* 引渡与一项庞大的贪污计划有关的亚历克斯·萨博（ Alex Saab ）是清洗帮助被废黜的总统尼古拉斯·马杜罗（ Nicolás Maduro ）继续掌权的强大人物的一部分。
-* The hantavirus outbreak on the MV Hondius set off alarms for a world still traumatized by Covid. For those on board, the danger was much closer.
-* MV Hondius上的汉坦病毒爆发为仍然受到新冠肺炎创伤的世界敲响了警钟。对于船上的人来说，危险要近得多。
-* The charges against Mohammad al-Saadi in the United States have raised concerns that Iran could be working with its proxies to stage attacks outside the region.
-* 在美国对穆罕默德·萨迪（ Mohammad al-Saadi ）的指控引发了人们的担忧，即伊朗可能正在与其代理人合作，在该地区之外发动袭击。
-* Four of the injured were in serious condition, the mayor of Modena said, praising residents who rushed to stop the car’s driver from escaping on foot.
-* 摩德纳市长说，其中四名伤者情况严重，他称赞那些急于阻止司机徒步逃跑的居民。
+* The presidential election pits Keiko Fujimori, a conservative, against Roberto Sánchez, a leftist, after a crisis marked by delays and protests.
+* 总统选举使保守派藤森惠子（ Keiko Fujimori ）与左派罗伯托·桑切斯（ Roberto Sánchez ）在一场以延误和抗议为标志的危机之后对抗。
 
 ## New York Times United States News
-* The president has never pretended to be an ordinary American, but a recent “truth bomb” has opened him to criticism that he doesn’t grasp the economic strain of his war with Iran.
-* 总统从来没有假装自己是一个普通的美国人，但最近的“真相炸弹”使他受到批评，他没有掌握他与伊朗战争的经济压力。
-* The defeat of Senator Bill Cassidy showed the president’s dominance in his party at a moment when a broader range of views about Mr. Trump could be a major liability for November.
-* 参议员比尔·卡西迪(Bill Cassidy)的失败表明，总统在他的政党中占据主导地位，此时此刻，对特朗普的更广泛看法可能成为11月的主要负担。
-* The state, where a rebellious Republican faces a tough primary challenge on Tuesday, has an unpredictable political landscape that has produced a long list of surprising figures.
-* 周二，一个叛逆的共和党人面临着艰难的主要挑战，该州有一个不可预测的政治格局，已经产生了一长串令人惊讶的人物。
-* The nine-hour prayer event will feature speakers from President Trump’s cabinet and a program that connects the nation’s founding with Christianity.
-* 九小时的祈祷活动将由特朗普总统内阁的演讲者和一个将国家建国与基督教联系起来的计划演讲。
-* Here is what we know about the sexual predator whose secrets spurred an international reckoning over money, power and complicity. Check back for updates.
-* 以下是我们对性掠夺者的了解，他们的秘密引发了国际社会对金钱、权力和共谋的清算。请稍后查看最新动态。
-* Terakeet, a reputation management firm, used online tricks to downplay the friendship of the Goldman Sachs general counsel, Kathryn Ruemmler, with the sex offender Jeffrey Epstein. It wasn’t enough.
-* 声誉管理公司Terakeet利用在线技巧淡化了高盛总法律顾问凯瑟琳·鲁姆勒（ Kathryn Ruemmler ）与性犯罪者杰弗里·爱泼斯坦（ Jeffrey Epstein ）的友谊。这还不够。
-* Seattle voters elected Mayor Katie Wilson as tensions rose over wealth inequality, but as Starbucks, one of the city’s most iconic companies, expands in Nashville, she is finding her limits.
-* 西雅图选民选举市长凯蒂·威尔逊（ Katie Wilson ）是因为财富不平等的紧张局势加剧，但随着该市最具标志性的公司之一星巴克在纳什维尔的扩张，她正在寻找自己的极限。
-* In a new memoir, the former senator, governor and cabinet member says President Trump committed an impeachable offense on Jan. 6 and calls on Congress to assert its power.
-* 在一份新的回忆录中，这位前参议员、州长和内阁成员表示，特朗普总统在1月6日犯下了可弹劾的罪行，并呼吁国会维护其权力。
-* Senator Bill Cassidy’s defeat means no more than two of them will be left in Congress next year.
-* 参议员比尔·卡西迪（ Bill Cassidy ）的失败意味着明年国会将只剩下其中两人。
-* Democrats announced Saturday night that the Senate’s top parliamentary referee had determined that the $1 billion provision did not comply with budget rules.
-* 民主党人周六晚间宣布，参议院最高议会裁判已确定10亿美元的规定不符合预算规则。
+* The dismissal appears to be part of the Trump administration’s effort to effectively settle the case, which stemmed from the leak of his tax returns in 2019.
+* 此次解雇似乎是特朗普政府有效解决此案的努力的一部分，此案源于他在2019年的纳税申报表泄露。
+* Defense Department officials typically stay away from partisan politics to maintain the military’s apolitical image.
+* 国防部官员通常会远离党派政治，以维护军方的非政治形象。
+* Under pressure from President Trump, the South Carolina legislature will consider new House districts this week. Some Republicans worry changes could backfire.
+* 在特朗普总统的压力下，南卡罗来纳州立法机构本周将考虑新的众议院选区。一些共和党人担心改变可能会适得其反。
+* The Brookings Institution suggests that federal statistics are an undercount because immigrant parents are not being asked about or not disclosing their American children.
+* 布鲁金斯学会认为，联邦统计数据被低估了，因为移民父母没有被问及或没有透露他们的美国孩子。
+* Representative Thomas Massie, the Republican who wears his rifts with President Trump as badges of honor, is battling Trump-backed challenger Ed Gallrein to keep his seat.
+* 共和党众议员托马斯·马西（ Thomas Massie ）戴着与特朗普总统的裂痕作为荣誉徽章，正在与特朗普支持的挑战者埃德·加莱因（ Ed Gallrein ）争夺席位。
+* With the midterms nearing, President Trump’s approval rating has hit a second-term low as voters question his handling of the economy, according to the latest New York Times/Siena poll.
+* 根据最新的《纽约时报》/锡耶纳民意调查，随着中期临近，特朗普总统的支持率已经触及第二个任期的低点，因为选民质疑他对经济的处理方式。
+* The timing brought the court into the middle of a fight to redraw voting maps across the South, even as some primaries were underway.
+* 这一时机使法院陷入了一场重新绘制南方投票地图的斗争中，尽管一些初选正在进行中。
+* The fate of Ken Paxton, the conservative Texas firebrand, could decide whether Republicans keep control of the Senate.
+* 德克萨斯州保守派煽动者肯·帕克斯顿（ Ken Paxton ）的命运可能会决定共和党人是否继续控制参议院。
+* A small number of U.S. citizens have been directly affected by the outbreak in the Democratic Republic of Congo and Uganda, the C.D.C. said on Sunday.
+* 疾病预防控制中心周日表示，少数美国公民直接受到刚果民主共和国和乌干达疫情的影响。
+* The teenage boys were among three suspects taken into custody in connection with at least 12 shootings across the Texas capital. There was no apparent motive, the mayor said.
+* 这些十几岁的男孩是与德克萨斯州首府至少12起枪击事件有关的三名嫌疑人之一。市长说，没有明显的动机。
 
 ## New York Times Asia News
+* President Trump’s open willingness to hold up a $14 billion Taiwan arms package is a win for Beijing. Now China could be weighing how to keep the weapons on ice for as long as it can.
+* 特朗普总统公开表示愿意拿下140亿美元的台湾武器一揽子计划，这对北京来说是一场胜利。现在，中国可能正在权衡如何尽可能长时间地将武器保持在冰上。
+* The men were charged with obstructing operations at a zoo, apparently as a stunt connected to a cryptocurrency. They denied the charges.
+* 这些人被指控阻挠动物园的行动，显然是与加密货币有关的特技。他们否认了这些指控。
+* The discovery comes after days of searching by an international team of rescue divers. A fifth body was recovered last week.
+* 这一发现是在一支国际救援潜水队搜寻了几天之后才发现的。上周发现了第五具尸体。
+* Stocks and bonds wavered after President Trump issued a new warning to Iran.
+* 在特朗普总统向伊朗发出新警告后，股票和债券出现动荡。
 * The team’s trip, for a women’s soccer tournament, is unlikely to catalyze a diplomatic thaw between the two Koreas, although some sports events have.
 * 该团队参加女子足球锦标赛的旅行不太可能促进两个朝鲜之间的外交解冻，尽管一些体育赛事已经解冻。
 * The pocket watches, a collaboration with the luxury timepiece maker Audemars Piguet, drew crowds to stores and malls around the world.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 作为参议员，马可·卢比奥甚至暗示了中国政权更迭的必要性。现在他谈论合作。
 * The president said a potential arms deal for Taiwan was a “very good negotiating chip” in talks with Beijing. His words raise questions about the reliability of U.S. support.
 * 总统表示，在与北京的谈判中，与台湾达成潜在的军火协议是“非常好的谈判筹码”。他的话引发了对美国支持可靠性的质疑。
-* The divers, including a marine scientist and her daughter, were part of a research trip and were exploring an underwater cave system when they failed to resurface.
-* 潜水员，包括一名海洋科学家和她的女儿，是一次研究之旅的一部分，当他们未能重新浮出水面时，他们正在探索一个水下洞穴系统。
-* The Trump-Xi summit emphasized stability. But China’s recruitment of foreign agents has fueled suspicion of Chinese Americans.
-* 特朗普-习近平峰会强调稳定。但中国招募外国特工引发了对华裔美国人的怀疑。
-* The engagement between the president and the Chinese leader may have tested a decades-old U.S. assurance to Taiwan not to consult Beijing on the topic.
-* 总统和中国领导人之间的接触可能考验了美国数十年来对台湾的保证，即不就此问题与北京磋商。
-* Having fought the Trump administration to a draw, China’s Xi Jinping is proposing “constructive strategic stability,” aimed at drawing lines he thinks the U.S. should not cross.
-* 在与特朗普政府进行了一场平局之后，中国的习近平提出了“建设性的战略稳定” ，旨在划定他认为美国不应该跨越的界限。
 
