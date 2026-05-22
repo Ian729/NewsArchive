@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Decision making in Iran is guided by a small group of men associated with the Islamic Revolutionary Guards Corps.
-* 伊朗的决策由一小群与伊斯兰革命卫队有关的人指导。
-* With municipal elections approaching, conservatives and progressives are sparring over congestion in the city center and how to fix it.
-* 随着市政选举的临近，保守派和进步派正在争论市中心的拥堵以及如何解决这个问题。
-* The flame, which spiritual leaders say has been continuously lit for more than 1,200 years, was salvaged after the blaze and moved to a different site.
-* 精神领袖说，火焰已经连续点燃了1200多年，在大火之后被抢救出来，搬到了另一个地方。
-* “I feel like we have given him to the world,” the filmmaker said in a conversation with The New York Times. Her next movie is about one of India’s greatest artists.
-* 这位电影制作人在接受《纽约时报》采访时说： “我觉得我们把他交给了全世界。”她的下一部电影是关于印度最伟大的艺术家之一。
-* A humpback that became stuck in the Baltic seemed to unite a nation in hope. Rescue efforts followed, and then finger-pointing.
-* 被困在波罗的海的座头鲸似乎将一个充满希望的国家团结在一起。随后进行了救援工作，然后用手指指着。
-* During a state visit, the Chinese and Russian leaders cast themselves as a stabilizing force in a world thrown into tumult by Washington.
-* 在一次国事访问中，中国和俄罗斯领导人把自己塑造成一个被华盛顿搅乱的世界的稳定力量。
-* Cuba’s ambassador to the United Nations said in an interview that Havana wanted to talk but the Trump administration was creating pretexts for military action.
-* 古巴驻联合国大使在接受采访时表示，哈瓦那想谈谈，但特朗普政府正在为军事行动制造借口。
-* Outmatched militarily, Iran used “triangular coercion” by attacking Gulf states and closing the Strait of Hormuz. It points to a long-term U.S. vulnerability.
-* 在军事上，伊朗通过攻击海湾国家和关闭霍尔木兹海峡来使用“三角胁迫”。这表明了美国的长期脆弱性。
-* To some Africans, the claim that the continent’s largest health agency had already bungled its response scratched a familiar wound.
-* 对于一些非洲人来说，声称非洲大陆最大的卫生机构已经搞砸了应对措施，这是一个熟悉的伤口。
-* For years, prosecutors have accused Christian Nègre, once a senior official, of slipping diuretics into women’s drinks. Despite admitting to some accusations in an interview with a French daily, he is yet to stand trial.
-* 多年来，检察官一直指责曾经担任高级官员的克里斯蒂安·尼格尔（ Christian Nègre ）将利尿剂放入女性饮料中。尽管他在接受法国日报采访时承认了一些指控，但他尚未接受审判。
+* Hunger and conflict are on the minds of the residents of Akobo, where an outbreak could have devastating consequences.
+* 饥饿和冲突是阿科博居民的心思，在那里爆发可能会产生毁灭性的后果。
+* A video of a Palestinian family’s dog being savagely beaten has spread widely in the days after the attack.
+* 在袭击发生后的几天里，一段巴勒斯坦家庭的狗被野蛮殴打的视频已经广泛传播。
+* Europeans are considering appointing an envoy to Ukraine peace talks with Russia. First, many warn, they need to decide what to ask.
+* 欧洲人正在考虑任命乌克兰与俄罗斯和平谈判特使。首先，许多人警告说，他们需要决定要问什么。
+* Islamophobic, antisemitic and racist crimes are being fueled by online disinformation, global instability and divisive political rhetoric, experts say.
+* 专家表示，仇视伊斯兰教、反犹太主义和种族主义犯罪正受到网络虚假信息、全球不稳定和分裂性政治言论的助长。
+* A new Afghan law requires girls to wait until puberty before seeking to get out of a marriage. It also requires mediation for women seeking to escape an abusive husband.
+* 一项新的阿富汗法律要求女孩要等到青春期才能寻求摆脱婚姻。它还要求对寻求逃避虐待丈夫的妇女进行调解。
+* The popular leader of a region bordering Ukraine is replaced by a military commander as President Vladimir V. Putin looks to reward those who fought in his war.
+* 由于弗拉基米尔· V ·普京总统（ Vladimir V. Putin ）希望奖励那些在战争中作战的人，这位与乌克兰接壤的地区的受欢迎领导人被一名军事指挥官所取代。
+* The fugitive, Senator Ronald dela Rosa, had sought refuge in the country’s Senate last week, eventually giving government agents the slip.
+* 逃犯参议员罗纳德·德拉罗萨（ Ronald dela Rosa ）上周在该国参议院寻求庇护，最终给了政府特工一个机会。
+* Decision making in the country is guided by a small group of men associated with the Islamic Revolutionary Guards Corps.
+* 该国的决策由一小群与伊斯兰革命卫队有关的人指导。
+* Uganda said that flights to and from the Democratic Republic of Congo would be temporarily suspended, as the outbreak appeared to spread to a rebel-controlled province in Congo.
+* 乌干达表示，由于疫情似乎蔓延到刚果反叛分子控制的省份，往返刚果民主共和国的航班将暂停。
+* The U.S. oil giant is negotiating a deal to pump oil in Venezuela, ending a standoff with its socialist rulers and marking a victory for President Trump.
+* 这家美国石油巨头正在就向委内瑞拉输送石油的协议进行谈判，结束了与委内瑞拉社会主义统治者的对峙，并标志着特朗普总统的胜利。
 
 ## New York Times United States News
-* Archaeological experts say the discovery is a cautionary tale about the consequences of citizen investigators taking matters into their own hands.
-* 考古专家说，这一发现是一个关于公民调查人员自己处理事情的后果的警示故事。
-* Once seen by some as the most conventional of President Trump’s political appointees, Todd Blanche has taken off the gloves in his new role as acting attorney general.
-* 托德·布兰奇（ Todd Blanche ）曾被一些人视为特朗普总统最传统的政治任命者，他在担任代理司法部长的新角色中脱下了手套。
-* With two swing districts, the region from Scranton to Allentown could decide control of the House, and voters are expressing profound economic distress.
-* 有了两个摇摆区，从斯克兰顿到阿伦敦的地区可以决定对众议院的控制，选民们正在表达深刻的经济困境。
-* The suit was an attempt by the owners of Colony Ridge to repair the image of their sprawling development after years of Republican and Democratic attacks.
-* 这起诉讼是殖民地山脊的所有者在经历了多年的共和党和民主党的攻击后试图修复其庞大发展的形象。
-* Democratic voters are in a combative, anti-establishment mood, unhappy with their party and disagreeing about its best path forward, a New York Times/Siena poll found.
-* 《纽约时报》/锡耶纳的一项民意调查发现，民主党选民处于好斗、反建制的情绪中，对他们的政党不满，并对其最佳前进道路持不同意见。
-* Will A.I. replace them? Graduation speakers addressed student uncertainty about the future with jokes and words of wisdom.
-* 人工智能会取代它们吗？毕业演讲者用笑话和智慧的话语来解决学生对未来的不确定性。
-* More than a dozen emergency officials were hospitalized after responding to a home in a town near Albuquerque. The authorities said there was no threat to the public.
-* 在阿尔伯克基附近的一个城镇，十几名急救人员在家中接听电话后住院治疗。当局表示，对公众没有威胁。
-* The National Transportation Board has been investigating the cause behind a plane crash in Louisville, Ky., that killed 15 people last year.
-* 美国国家运输委员会一直在调查去年在肯塔基州路易斯维尔发生的飞机失事事故背后的原因，该事故造成15人死亡。
-* The Colorado State Democratic Party, reflecting the anger of rank-and-file Democratic voters, rebuked Gov. Jared Polis on Wednesday over his decision to release Tina Peters from prison.
-* 科罗拉多州民主党周三谴责州长贾里德·波利斯（ Jared Polis ）决定将蒂娜·彼得斯（ Tina Peters ）从监狱中释放，这反映了普通民主党选民的愤怒。
-* Reynolds American’s contribution to MAGA Inc. came about one week before the Trump administration announced a new policy on e-cigarettes the company had sought.
-* Reynolds American对MAGA Inc.的贡献发生在特朗普政府宣布该公司寻求的电子烟新政策的前一周。
+* Gov. Abigail Spanberger of Virginia urged her fellow Democrats, including the House minority leader, Hakeem Jeffries, to stop talking about drawing new congressional lines for partisan advantage.
+* 弗吉尼亚州州长阿比盖尔·斯潘伯格（ Abigail Spanberger ）敦促她的民主党同僚，包括众议院少数党领袖哈基姆·杰弗里斯（ Hakeem Jeffries ） ，停止谈论为党派优势划定新的国会界限。
+* The economic backdrop that Kevin M. Warsh inherits as chair of the Federal Reserve does not call for the interest rate cuts that President Trump wants.
+* 凯文·沃什（ Kevin M. Warsh ）继任美联储主席的经济背景并不要求特朗普总统希望降息。
+* Irrigation canals around Boise have served as a rat superhighway, bringing an infestation so serious that health officials have floated declaring a public emergency.
+* 博伊西周围的灌溉运河已成为老鼠的高速公路，造成了严重的虫害，以至于卫生官员浮出水面宣布进入公共紧急状态。
+* In a nearly two-hour conversation, Mr. Biden discussed his addiction to drugs and alcohol, and Ms. Owens apologized for her past remarks about him.
+* 在近两个小时的谈话中，拜登讨论了他对毒品和酒精的依赖，欧文斯为她过去关于他的言论道歉。
+* In 2025, Caleb Vazquez’s obsession with mass shooters and Nazism prompted reports to the authorities. His father surrendered dozens of firearms.
+* 2025年， Caleb Vazquez对大规模枪手和纳粹主义的痴迷促使当局报告。他父亲交出了几十件枪支。
+* Thousands of mourners filled a San Diego park to recite a funeral prayer for the three men killed by gunmen at a mosque on Monday.
+* 周一，成千上万的哀悼者挤满了圣地亚哥公园，为在一座清真寺被枪手杀害的三名男子背诵葬礼祈祷。
+* Public health experts say the administration’s quarantine orders go beyond what is needed to prevent the U.S. spread of Ebola and hantavirus.
+* 公共卫生专家表示，政府的检疫令超出了防止美国埃博拉病毒和汉坦病毒传播所需的范围。
+* President Trump faced a wall of opposition from Senate G.O.P. lawmakers, in part over his plan to create a $1.8 billion fund to reward his allies.
+* 特朗普总统面临参议院共和党议员的反对，部分原因是他计划创建一个18亿美元的基金来奖励他的盟友。
+* Hundreds of people, including a pope, staked out the Ed Sullivan Theater in Manhattan, hoping to get in, or just get a glimpse.
+* 包括教皇在内的数百人盯着曼哈顿的埃德·沙利文剧院（ Ed Sullivan Theater ） ，希望能够进入，或者只是一瞥。
+* Defense Department officials had abruptly canceled the deployments of thousands of troops there just last week.
+* 就在上周，国防部官员突然取消了在那里部署的数千名士兵。
 
 ## New York Times Asia News
+* A new Afghan law requires girls to wait until puberty before seeking to get out of a marriage. It also requires mediation for women seeking to escape an abusive husband.
+* 一项新的阿富汗法律要求女孩要等到青春期才能寻求摆脱婚姻。它还要求对寻求逃避虐待丈夫的妇女进行调解。
+* The outbreak, with more than 8,000 confirmed cases and another 60,000 suspected infections, has prompted an emergency vaccination drive.
+* 疫情已有8,000多例确诊病例和另外6万例疑似感染病例，这促使人们开展了紧急疫苗接种活动。
+* Nearly three months since the fighting began, disagreements remain over the fate of Iran’s uranium stockpile and transit fees for the Strait of Hormuz.
+* 自战斗开始近三个月以来，伊朗铀库存的命运和霍尔木兹海峡的过境费仍存在分歧。
+* The fugitive, Senator Ronald dela Rosa, had sought refuge in the country’s Senate last week, eventually giving government agents the slip.
+* 逃犯参议员罗纳德·德拉罗萨（ Ronald dela Rosa ）上周在该国参议院寻求庇护，最终给了政府特工一个机会。
+* Soaring oil prices and a surging dollar are testing Asia’s foreign-exchange reserves, which were built up after the 1997 crisis.
+* 油价飙升和美元飙升正在考验1997年危机后积累的亚洲外汇储备。
 * President Lai Ching-te of Taiwan said he would be happy to speak with President Trump, a move that would defy U.S. diplomatic protocol and infuriate China.
 * 台湾总统赖庆德表示，他很乐意与特朗普总统交谈，此举将无视美国的外交协议，并激怒中国。
 * The flame, which spiritual leaders say has been continuously lit for more than 1,200 years, was salvaged after the blaze and moved to a different site.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 这位电影制作人在接受《纽约时报》采访时说： “我觉得我们把他交给了全世界。”她的下一部电影是关于印度最伟大的艺术家之一。
 * Property prices in Shanghai, in particular, are rebounding, but the national market still faces an enormous overhang — 90 million empty or unfinished apartments.
 * 特别是上海的房地产价格正在反弹，但全国市场仍然面临着巨大的问题--9000万套空置或未完工的公寓。
-* Our Beijing bureau chief, Keith Bradsher, describes how China’s enormous housing crash is affecting economies all over the world.
-* 我们的北京分局局长基思·布拉德舍（ Keith Bradsher ）描述了中国巨大的房地产崩溃如何影响世界各地的经济。
-* The country had loosened entry requirements after the pandemic to attract visitors, but will now limit many travelers to 30 days without a visa.
-* 疫情后，该国放宽了入境要求，以吸引游客，但现在将许多旅行者限制在30天内无需签证。
-* While diplomatic relations between the two Koreas are near a historic low, a rare trip by athletes from the North triggered intense emotions in some older South Koreans.
-* 虽然两国之间的外交关系接近历史最低点，但来自朝鲜的运动员罕见的旅行在一些韩国老年人中引发了强烈的情绪。
-* Experts have spent days conducting a complex search operation to find five divers who died on a trip to explore deep underwater caves in the Indian Ocean last week.
-* 专家们花了几天时间进行复杂的搜索行动，寻找上周在探索印度洋深海洞穴时死亡的五名潜水员。
-* Four teenage boys were arrested in the killing of a woman at her home. The police say they might have been directed by a new type of transient criminal network known as tokuryu.
-* 四名十几岁的男孩在家中杀害一名妇女时被捕。警方表示，他们可能是由一种名为Tokuryu的新型短暂犯罪网络指挥的。
 
