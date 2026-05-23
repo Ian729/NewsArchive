@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Hunger and conflict are on the minds of the residents of Akobo, where an outbreak could have devastating consequences.
-* 饥饿和冲突是阿科博居民的心思，在那里爆发可能会产生毁灭性的后果。
-* A video of a Palestinian family’s dog being savagely beaten has spread widely in the days after the attack.
-* 在袭击发生后的几天里，一段巴勒斯坦家庭的狗被野蛮殴打的视频已经广泛传播。
-* Europeans are considering appointing an envoy to Ukraine peace talks with Russia. First, many warn, they need to decide what to ask.
-* 欧洲人正在考虑任命乌克兰与俄罗斯和平谈判特使。首先，许多人警告说，他们需要决定要问什么。
-* Islamophobic, antisemitic and racist crimes are being fueled by online disinformation, global instability and divisive political rhetoric, experts say.
-* 专家表示，仇视伊斯兰教、反犹太主义和种族主义犯罪正受到网络虚假信息、全球不稳定和分裂性政治言论的助长。
-* A new Afghan law requires girls to wait until puberty before seeking to get out of a marriage. It also requires mediation for women seeking to escape an abusive husband.
-* 一项新的阿富汗法律要求女孩要等到青春期才能寻求摆脱婚姻。它还要求对寻求逃避虐待丈夫的妇女进行调解。
-* The popular leader of a region bordering Ukraine is replaced by a military commander as President Vladimir V. Putin looks to reward those who fought in his war.
-* 由于弗拉基米尔· V ·普京总统（ Vladimir V. Putin ）希望奖励那些在战争中作战的人，这位与乌克兰接壤的地区的受欢迎领导人被一名军事指挥官所取代。
-* The fugitive, Senator Ronald dela Rosa, had sought refuge in the country’s Senate last week, eventually giving government agents the slip.
-* 逃犯参议员罗纳德·德拉罗萨（ Ronald dela Rosa ）上周在该国参议院寻求庇护，最终给了政府特工一个机会。
-* Decision making in the country is guided by a small group of men associated with the Islamic Revolutionary Guards Corps.
-* 该国的决策由一小群与伊斯兰革命卫队有关的人指导。
-* Uganda said that flights to and from the Democratic Republic of Congo would be temporarily suspended, as the outbreak appeared to spread to a rebel-controlled province in Congo.
-* 乌干达表示，由于疫情似乎蔓延到刚果反叛分子控制的省份，往返刚果民主共和国的航班将暂停。
-* The U.S. oil giant is negotiating a deal to pump oil in Venezuela, ending a standoff with its socialist rulers and marking a victory for President Trump.
-* 这家美国石油巨头正在就向委内瑞拉输送石油的协议进行谈判，结束了与委内瑞拉社会主义统治者的对峙，并标志着特朗普总统的胜利。
+* A partner in the war, Israel has been largely left out of the peace talks, a humbling setback for its prime minister with significant risks for the country.
+* 作为战争的伙伴，以色列在很大程度上被排除在和平谈判之外，这对其总理来说是一个令人羞愧的挫折，对该国具有重大风险。
+* The death count rose drastically on Saturday as the Chinese leader, Xi Jinping, called for an investigation and emphasized the need to “hold those responsible to account.”
+* 周六，随着中国领导人习近平呼吁进行调查，并强调需要“追究责任人的责任” ，死亡人数急剧上升。
+* Tens of thousands of smartphones were reported stolen in the British capital in recent years. For some victims, losing their phone was only the beginning.
+* 据报道，近年来英国首都有数万部智能手机被盗。对于一些受害者来说，丢失手机只是一个开始。
+* Kinshasa residents continue to pack markets, bars and public transportation, despite growing international concern about the spread of the virus.
+* 尽管国际社会越来越担心病毒的传播，但金沙萨居民继续挤满了市场、酒吧和公共交通工具。
+* Residents who experienced attacks in recent days were shaken deeply by the conflict coming home to the capital region, the seat of the Kremlin’s power.
+* 最近几天遭受袭击的居民对克里姆林宫权力所在地首都地区的冲突深感震惊。
+* The team, now in Belgium, must isolate there for 21 days or risk being denied permission to come to Houston for the World Cup, an official said.
+* 一名官员说，这支球队现在在比利时，必须在那里隔离21天，否则可能会被拒绝进入休斯顿参加世界杯。
+* More than 170 deaths and about 750 cases are suspected. The United States restricted entry for people who have been to three African countries.
+* 超过170人死亡，约750例疑似病例。美国限制去过三个非洲国家的人入境。
+* A corporate compliance dispute between South Korea’s government and the online retailer Coupang is testing the resilience of U.S.-South Korean ties.
+* 韩国政府与在线零售商Coupang之间的企业合规纠纷正在考验美韩关系的弹性。
+* For many years, Tasman Drive in Gerringong was a secret held by locals. Now residents must coexist with tourists hungry for the perfect shot.
+* 多年来， Gerringong的Tasman Drive一直是当地人的秘密。现在，居民必须与渴望完美拍摄的游客共存。
+* Pakistan and Qatar have dispatched teams to Iran under the looming threat of resumed war, after weeks of diplomacy failed to produce an agreement.
+* 在数周的外交努力未能达成协议后，巴基斯坦和卡塔尔在重新爆发战争的迫在眉睫的威胁下向伊朗派遣了小组。
 
 ## New York Times United States News
-* Gov. Abigail Spanberger of Virginia urged her fellow Democrats, including the House minority leader, Hakeem Jeffries, to stop talking about drawing new congressional lines for partisan advantage.
-* 弗吉尼亚州州长阿比盖尔·斯潘伯格（ Abigail Spanberger ）敦促她的民主党同僚，包括众议院少数党领袖哈基姆·杰弗里斯（ Hakeem Jeffries ） ，停止谈论为党派优势划定新的国会界限。
-* The economic backdrop that Kevin M. Warsh inherits as chair of the Federal Reserve does not call for the interest rate cuts that President Trump wants.
-* 凯文·沃什（ Kevin M. Warsh ）继任美联储主席的经济背景并不要求特朗普总统希望降息。
-* Irrigation canals around Boise have served as a rat superhighway, bringing an infestation so serious that health officials have floated declaring a public emergency.
-* 博伊西周围的灌溉运河已成为老鼠的高速公路，造成了严重的虫害，以至于卫生官员浮出水面宣布进入公共紧急状态。
-* In a nearly two-hour conversation, Mr. Biden discussed his addiction to drugs and alcohol, and Ms. Owens apologized for her past remarks about him.
-* 在近两个小时的谈话中，拜登讨论了他对毒品和酒精的依赖，欧文斯为她过去关于他的言论道歉。
-* In 2025, Caleb Vazquez’s obsession with mass shooters and Nazism prompted reports to the authorities. His father surrendered dozens of firearms.
-* 2025年， Caleb Vazquez对大规模枪手和纳粹主义的痴迷促使当局报告。他父亲交出了几十件枪支。
-* Thousands of mourners filled a San Diego park to recite a funeral prayer for the three men killed by gunmen at a mosque on Monday.
-* 周一，成千上万的哀悼者挤满了圣地亚哥公园，为在一座清真寺被枪手杀害的三名男子背诵葬礼祈祷。
-* Public health experts say the administration’s quarantine orders go beyond what is needed to prevent the U.S. spread of Ebola and hantavirus.
-* 公共卫生专家表示，政府的检疫令超出了防止美国埃博拉病毒和汉坦病毒传播所需的范围。
-* President Trump faced a wall of opposition from Senate G.O.P. lawmakers, in part over his plan to create a $1.8 billion fund to reward his allies.
-* 特朗普总统面临参议院共和党议员的反对，部分原因是他计划创建一个18亿美元的基金来奖励他的盟友。
-* Hundreds of people, including a pope, staked out the Ed Sullivan Theater in Manhattan, hoping to get in, or just get a glimpse.
-* 包括教皇在内的数百人盯着曼哈顿的埃德·沙利文剧院（ Ed Sullivan Theater ） ，希望能够进入，或者只是一瞥。
-* Defense Department officials had abruptly canceled the deployments of thousands of troops there just last week.
-* 就在上周，国防部官员突然取消了在那里部署的数千名士兵。
+* Secretary of State Marco Rubio has a “gargantuan task” during his visit to Delhi: defuse tensions over President Trump’s anti-India aggression and overtures to China.
+* 国务卿马可·卢比奥（ Marco Rubio ）在访问德里期间有一项“艰巨任务” ：缓解特朗普总统反印度侵略和对中国的姿态的紧张局势。
+* President Trump continues to act like he’s politically all-powerful, even in the face of indications that he is not.
+* 特朗普总统继续表现得好像他在政治上是全能的，即使有迹象表明他不是。
+* Months into the oil blockade imposed by President Trump, many Cubans are relying more than ever on relatives in the U.S. for help meeting their daily needs.
+* 在特朗普总统实施石油封锁数月后，许多古巴人比以往任何时候都更加依赖美国的亲属来满足他们的日常需求。
+* Before cars could drive themselves, the Mother Road beckoned Americans westward. We drove a long stretch of it to assess the health of the old road while sizing up the next automotive century.
+* 在汽车可以自动驾驶之前，母亲之路向西招手。我们开了很长一段路来评估老路的健康状况，同时评估下一个汽车世纪的规模。
+* Jellyfish myths and misconceptions abound. Here’s how to stay safe this beach season around these gelatinous wonders.
+* 水母的神话和误解比比皆是。在这个海滩季节，如何在这些凝胶般的奇观周围保持安全。
+* California is the nation’s most expensive state for gasoline. The latest spike has forced more residents to change their habits.
+* 加利福尼亚州是全美汽油最昂贵的州。最近的飙升迫使更多的居民改变他们的习惯。
+* Firefighters are left without any options to prevent the tank, filled with a toxic chemical, from collapsing or exploding. The authorities have urged thousands of people to evacuate their homes.
+* 消防员没有任何选择来防止装满有毒化学物质的油箱倒塌或爆炸。当局已敦促数千人撤离家园。
+* 
+* 
+* Housing officials were told to exclude emotional support animals and tighten the definition of a service animal when granting accommodations for disabled tenants.
+* 住房官员被告知，在为残疾租户提供住宿时，要排除情感支持动物，并收紧服务类动物的定义。
+* The city is home to part of Little Saigon, the cultural heart of the Vietnamese American population in California.
+* 这座城市是小西贡（ Little Saigon ）的一部分，小西贡是加利福尼亚州越南裔美国人的文化中心。
 
 ## New York Times Asia News
+* Secretary of State Marco Rubio has a “gargantuan task” during his visit to Delhi: defuse tensions over President Trump’s anti-India aggression and overtures to China.
+* 国务卿马可·卢比奥（ Marco Rubio ）在访问德里期间有一项“艰巨任务” ：缓解特朗普总统反印度侵略和对中国的姿态的紧张局势。
+* The death count rose drastically on Saturday as the Chinese leader, Xi Jinping, called for an investigation and emphasized the need to “hold those responsible to account.”
+* 周六，随着中国领导人习近平呼吁进行调查，并强调需要“追究责任人的责任” ，死亡人数急剧上升。
+* A corporate compliance dispute between South Korea’s government and the online retailer Coupang is testing the resilience of U.S.-South Korean ties.
+* 韩国政府与在线零售商Coupang之间的企业合规纠纷正在考验美韩关系的弹性。
 * A new Afghan law requires girls to wait until puberty before seeking to get out of a marriage. It also requires mediation for women seeking to escape an abusive husband.
 * 一项新的阿富汗法律要求女孩要等到青春期才能寻求摆脱婚姻。它还要求对寻求逃避虐待丈夫的妇女进行调解。
 * The outbreak, with more than 8,000 confirmed cases and another 60,000 suspected infections, has prompted an emergency vaccination drive.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 台湾总统赖庆德表示，他很乐意与特朗普总统交谈，此举将无视美国的外交协议，并激怒中国。
 * The flame, which spiritual leaders say has been continuously lit for more than 1,200 years, was salvaged after the blaze and moved to a different site.
 * 精神领袖说，火焰已经连续点燃了1200多年，在大火之后被抢救出来，搬到了另一个地方。
-* The U.S. tech giant’s powerful H200 chip seemed poised to boost Beijing’s A.I. ambitions, but not a single one has been purchased in China.
-* 这家美国科技巨头强大的H200芯片似乎有望提振北京的人工智能野心，但尚未在中国购买过一枚。
-* “I feel like we have given him to the world,” the filmmaker said in a conversation with The New York Times. Her next movie is about one of India’s greatest artists.
-* 这位电影制作人在接受《纽约时报》采访时说： “我觉得我们把他交给了全世界。”她的下一部电影是关于印度最伟大的艺术家之一。
-* Property prices in Shanghai, in particular, are rebounding, but the national market still faces an enormous overhang — 90 million empty or unfinished apartments.
-* 特别是上海的房地产价格正在反弹，但全国市场仍然面临着巨大的问题--9000万套空置或未完工的公寓。
 
