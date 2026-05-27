@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The threat came hours after American military forces renewed attacks in southern Iran, even as fragile diplomacy efforts to end the war continued.
-* 这一威胁发生在美国军队在伊朗南部重新发动袭击的几小时后，尽管结束战争的脆弱外交努力仍在继续。
-* Aspects such as drone technology and diplomacy show how the wars intersect on the battlefield and in global alignments, providing a model for future conflicts.
-* 无人机技术和外交等方面展示了战争如何在战场上和全球联盟中交叉，为未来的冲突提供了一个模型。
+* Israeli strikes pounded southern Lebanon as the country’s attacks against Hezbollah intensified. The fighting cast further doubt on fragile negotiations to end the U.S.-Israeli war with Iran.
+* 随着该国对真主党的袭击加剧，以色列的罢工袭击了黎巴嫩南部。这场战斗使人们对结束美以战争的脆弱谈判产生了进一步的怀疑。
+* When a remote Pacific village asked for help with rowdy youth, the Chinese police arrived with a surveillance system. Then came the backlash.
+* 当一个偏远的太平洋村庄要求帮助吵闹的年轻人时，中国警方带着监控系统赶到。然后是强烈的反弹。
+* Nigel Farage’s anti-immigrant, populist agenda has helped his party, Reform U.K., emerge from the fringe of politics in Britain. But it faces an uphill climb to win power.
+* 奈杰尔·法拉奇（ Nigel Farage ）的反移民民粹主义议程帮助他的政党英国改革党脱离了英国政治的边缘。但它面临着赢得权力的艰难攀登。
+* In Nepal, a nation wedged between India and China, a unique time zone is just one expression of a singular national identity.
+* 在尼泊尔这个位于印度和中国之间的国家，独特的时区只是单一国家身份的一种表达。
+* The government is letting people connect with the world after a near-total internet shutdown. But not everyone has access, and those who do wonder how long it will last.
+* 在互联网几乎完全关闭后，政府正在让人们与世界联系。但并不是每个人都可以访问，那些想知道它能持续多久的人。
+* The agreement all but guarantees hefty bonuses for employees in the top-performing chip unit. Other workers say they feel left out.
+* 该协议几乎保证了顶级芯片部门员工的高额奖金。其他工人说，他们觉得自己被排斥在外。
+* Santiago Rivera is widely credited with creating the “burnt” cheesecake in the 1980s, though he doesn’t love the spinoffs it has spawned. Decades later, he’s preparing to hand over his kitchen to his children.
+* 圣地亚哥·里维拉（ Santiago Rivera ）在20世纪80年代创造了“烧焦”的奶酪蛋糕，尽管他不喜欢它产生的衍生产品。几十年后，他正准备把厨房交给他的孩子们。
+* The director of Britain’s electronic surveillance agency warns that Russia is only getting more brazen as battlefield losses in Ukraine mount.
+* 英国电子监控机构主任警告说，随着乌克兰战场损失的增加，俄罗斯只会变得更加厚颜无耻。
+* Haitian women are having babies in squalid, unsupervised settings after the Dominican Republic started sending immigration agents to detain migrants at hospitals.
+* 在多米尼加共和国开始派遣移民代理人将移民拘留在医院之后，海地妇女在肮脏、无人监督的环境中生孩子。
 * Iceland has stood apart from the rest of Europe. But President Trump’s threats to Greenland have provoked a reconsideration.
 * 冰岛与欧洲其他国家脱颖而出。但特朗普总统对格陵兰的威胁引发了人们的重新考虑。
-* At the prestigious garden show, attendees jockeyed to buy prizewinning blooms and debated the role of whimsy as a ban on garden gnomes was temporarily lifted.
-* 在着名的花园展上，与会者争先恐后地购买获奖花朵，并讨论了奇思妙想的作用，因为对花园侏儒的禁令暂时解除了。
-* Two children, 12 and 15, were among those killed in the crash near Brussels, officials said. The students in the van attended a special education school.
-* 官员说，两名儿童， 12岁和15岁，在布鲁塞尔附近的车祸中丧生。面包车里的学生就读于一所特殊教育学校。
-* Three years after riots tore apart Manipur, the state remains in disarray. Barbed wire and armed checkpoints made it difficult for Times reporters to cross, even before the recent clashes.
-* 骚乱使曼尼普尔邦四分五裂三年后，国家仍处于混乱状态。即使在最近的冲突之前，铁丝网和武装检查站也使《纽约时报》记者难以通过。
-* The document marks a powerful foray by the leader of the Roman Catholic Church into the debate about the misuse or overuse of artificial intelligence.
-* 该文件标志着罗马天主教会领导人在关于滥用或过度使用人工智能的辩论中进行了强有力的尝试。
-* The U.S. oil blockade has left millions without cooking gas. In Santiago de Cuba, the cradle of the Cuban revolution, apartment tower residents resort to charcoal and firewood.
-* 美国的石油封锁导致数百万人没有烹饪用天然气。古巴革命的摇篮圣地亚哥（ Santiago de Cuba ）的公寓楼居民使用木炭和木柴。
-* Little is left of Kostiantynivka, a city on the front lines. Rescuers risk their lives to ferry out the few who remain.
-* 前线城市科斯蒂安蒂尼夫卡（ Kostiantynivka ）的遗迹不多了。救援人员冒着生命危险将剩下的少数人运走。
-* The decision to release Kem Sokha is being seen as a likely attempt to recalibrate frayed ties with Western countries.
-* 释放Kem Sokha的决定被视为重新调整与西方国家磨损关系的可能尝试。
 
 ## New York Times United States News
-* Republicans have made gains with voters on education issues. A plan championed by Mr. Emanuel, a Democratic former mayor of Chicago, centers on college affordability.
-* 共和党人在教育问题上与选民取得了进展。由芝加哥前民主党市长伊曼纽尔先生倡导的计划以大学负担能力为中心。
-* 
-* 
-* Judges and grand juries have increasingly lost faith in the Justice Department as the president uses it to reward his friends and go after his opponents.
-* 法官和大陪审团对司法部越来越失去信心，因为总统用它来奖励他的朋友并追捕他的对手。
-* The co-founder of a prominent A.I. company was nearby as the pope implored A.I. leaders to slow down and consider the technology’s possible perils.
-* 一位著名人工智能公司的联合创始人就在附近，当时教皇恳求人工智能领导人放慢脚步，考虑这项技术可能带来的危险。
-* Kassi Solberg has concerns about a proposed data center complex, the size of 3,800 football fields, near her home. Trust us, the developer says.
-* 卡西·索尔伯格（ Kassi Solberg ）对她家附近一个面积为3800个足球场的数据中心大楼表示担忧。相信我们，开发人员说。
-* All eyes will be on the Republican Senate runoff between the incumbent John Cornyn and Attorney General Ken Paxton. But Tuesday’s runoffs in Texas will feature other key contests.
-* 所有的目光都将集中在现任总统约翰·科宁（ John Cornyn ）和司法部长肯·帕克斯顿（ Ken Paxton ）之间的共和党参议院决选上。但周二在德克萨斯州举行的决赛将以其他关键比赛为特色。
-* Burt Jones, the leading G.O.P. candidate for governor, worked with Trump allies to try to overturn the election, and even talked to the president himself.
-* 共和党领先的州长候选人伯特·琼斯（ Burt Jones ）与特朗普的盟友合作，试图推翻选举，甚至与总统本人交谈。
-* In his letter, the first American pontiff called for putting care for humans at the heart of technological change.
-* 在他的信中，第一位美国教皇呼吁将关爱人类置于技术变革的核心。
-* Representative Thomas Massie of Kentucky, a critic of President Trump who lost his primary last week, filed papers for another candidacy but said he was not sure which office he might seek.
-* 肯塔基州众议员托马斯·马西（ Thomas Massie ）是特朗普总统的批评者，上周失去了他的初选，他提交了另一个候选人的文件，但表示他不确定他可能会寻求哪个职位。
-* President Trump called for countries in the Middle East to join the Abraham Accords as part of a peace deal with Iran. Analysts say it is unlikely.
-* 特朗普总统呼吁中东国家加入亚伯拉罕协议，作为与伊朗达成和平协议的一部分。分析师表示，这不太可能。
+* One person was killed in the U.S. military’s 58th strike against vessels it accused of smuggling drugs.
+* 一人在美军第58次打击被指控走私毒品的船只时丧生。
+* Senators are angry President Trump turned on a respected former leader whom they consider a loyal Republican. Now Mr. Trump faces resistance from his own embittered ranks.
+* 参议员们对特朗普总统转向一位受人尊敬的前领导人感到愤怒，他们认为他是一位忠诚的共和党人。现在，特朗普面临着来自自己心怀不满的队伍的抵制。
+* Many Democrats and some Republicans said the scandal-plagued Ken Paxton’s victory could turn Texas into a battleground state that will determine Senate control.
+* 许多民主党人和一些共和党人表示，丑闻困扰的肯·帕克斯顿（ Ken Paxton ）的胜利可能会将德克萨斯州变成一个战场，这将决定参议院的控制权。
+* Republican voters made a familiar bet, that Texas is conservative enough that any Republican, even the most conservative, will beat a Democrat.
+* 共和党选民做了一个熟悉的赌注，德克萨斯州足够保守，以至于任何共和党人，即使是最保守的共和党人，都会击败民主党人。
+* Two national controversies — A.I. data centers and ICE detention centers — are converging in one swing congressional district. Our Southwest reporter Reis Thebault visits the town of Marana, Ariz., where some people are angry about both potential projects.
+* 两个全国性的争议—人工智能数据中心和ICE拘留中心—正在汇聚在一个国会摇摆区。我们的西南记者Reis Thebault访问了亚利桑那州的马拉纳镇，那里有些人对这两个潜在的项目感到愤怒。
+* Marana, Ariz., is used to placid local politics, but the town, in a congressional swing district held by Juan Ciscomani, has been convulsed by two national issues, A.I. and immigration detention.
+* 亚利桑那州的马拉纳（ Marana ）被用来平息当地政治，但在胡安·西斯科马尼（ Juan Ciscomani ）控制的国会摇摆区，该镇受到了两个国家问题的困扰，即人工智能和移民拘留。
+* A Human Rights Watch report found that many Cubans deported to Mexico by the Trump administration are living in an “indefinite legal limbo” and struggling to get by.
+* 人权观察组织（ Human Rights Watch ）的一份报告发现，许多被特朗普政府驱逐到墨西哥的古巴人生活在“无限期的法律边缘” ，难以度过难关。
+* Mr. Allred beat the incumbent, Representative Julie Johnson, and is now favored to win the general election in a heavily Democratic Dallas-based district.
+* 奥尔雷德先生击败了现任众议员朱莉·约翰逊（ Julie Johnson ） ，现在更倾向于在民主党占多数的达拉斯地区赢得大选。
+* President Trump’s record of ousting those he sees as disloyal continued apace with Senator John Cornyn’s defeat. Whether his relationship with Senate Republicans can be repaired is another question.
+* 随着参议员约翰·科宁（ John Cornyn ）的失败，特朗普总统罢免那些他认为不忠的人的记录继续飞速发展。他与参议院共和党人的关系是否可以修复是另一个问题。
+* Carlos De La Cruz, a first-time candidate, defeated a moderate rival in a U.S. House district that was redrawn to favor Republicans, but where Democrats see an opportunity.
+* 首位候选人卡洛斯·德拉克鲁斯（ Carlos De La Cruz ）在美国众议院选区击败了一个温和的对手，该选区被重新划分为有利于共和党人，但民主党人看到了机会。
 
 ## New York Times Asia News
+* The agreement all but guarantees hefty bonuses for employees in the top-performing chip unit. Other workers say they feel left out.
+* 该协议几乎保证了顶级芯片部门员工的高额奖金。其他工人说，他们觉得自己被排斥在外。
+* When a remote Pacific village asked for help with rowdy youth, the Chinese police arrived with a surveillance system. Then came the backlash.
+* 当一个偏远的太平洋村庄要求帮助吵闹的年轻人时，中国警方带着监控系统赶到。然后是强烈的反弹。
+* In Nepal, a nation wedged between India and China, a unique time zone is just one expression of a singular national identity.
+* 在尼泊尔这个位于印度和中国之间的国家，独特的时区只是单一国家身份的一种表达。
+* China’s tobacco monopoly has become so financially vital to the government that even its powerful leader has failed to curb the country’s smoking habit.
+* 中国的烟草垄断在财政上对政府至关重要，以至于即使是其强大的领导人也未能遏制该国的吸烟习惯。
 * Dong Guangping, 68, fled China at least three other times but was always sent back. His friends hope things might be different this time.
 * 68岁的董光平至少三次逃离中国，但总是被送回。他的朋友们希望这次情况会有所不同。
 * The group, which was searching for gold, has been trapped for almost a week. Divers who were involved in the 2018 rescue of a Thai youth soccer team have joined the operation.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 释放Kem Sokha的决定被视为重新调整与西方国家磨损关系的可能尝试。
 * He spent four decades building the convenience store chain into a cornerstone of daily life.
 * 他花了四十年的时间将便利店连锁店打造成日常生活的基石。
-* As China’s economy slows, consumers are increasingly turning to domestic luxury products, challenging the dominance of long-established European brands.
-* 随着中国经济放缓，消费者越来越多地转向国内奢侈品，挑战了历史悠久的欧洲品牌的主导地位。
-* In New Delhi, Secretary of State Marco Rubio tried to explain why President Trump has pushed aggressive trade and immigration policies affecting India and Indians in the United States.
-* 在新德里，国务卿马可·卢比奥（ Marco Rubio ）试图解释为什么特朗普总统推出了积极的贸易和移民政策，影响印度和美国的印度人。
-* The explosion was so powerful that several nearby buildings were damaged and a resident 15 miles away was jolted awake by the blast. A separatist group claimed responsibility.
-* 爆炸的威力如此之大，以至于附近的几座建筑物遭到破坏， 15英里外的一名居民被爆炸震醒。一个分离主义团体声称对此负责。
-* A shortage of naphtha, stemming from the blockade of the Strait of Hormuz, is disrupting manufacturing and retail goods in Japan and South Korea.
-* 由于封锁霍尔木兹海峡，石脑油短缺，正在扰乱日本和韩国的制造业和零售业。
 
