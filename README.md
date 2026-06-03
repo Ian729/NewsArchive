@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Under pressure from President Trump, Prime Minister Benjamin Netanyahu of Israel held off from attacking Beirut. But he vowed to continue Israel’s campaign against Hezbollah, which could threaten peace talks with Iran.
-* 在特朗普总统的压力下，以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）推迟了对贝鲁特的袭击。但他发誓要继续以色列针对真主党的运动，这可能会威胁到与伊朗的和平谈判。
+* Video footage verified by The New York Times showed fire inside Kuwait’s international airport. The attack was part of one of the biggest assaults on a Gulf nation since the U.S.-Iran cease-fire was announced in April.
+* 经《纽约时报》核实的视频片段显示，科威特国际机场内发生火灾。这次袭击是自4月宣布美伊停火以来对海湾国家最大规模袭击之一。
+* As an annual economic conference was set to begin, President Volodymyr Zelensky said Ukraine had targeted a navy base and an oil terminal in the region that includes Russia’s second-largest city.
+* 随着年度经济会议的开始，总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）表示，乌克兰已经瞄准了该地区的一个海军基地和一个石油码头，其中包括俄罗斯第二大城市。
+* Eleven police officers were wounded as demonstrators pelted them with rocks and garbage cans, scenes a British cabinet minister called “unacceptable.”
+* 11名警察在示威者向他们投掷石块和垃圾桶时受伤，一位英国内阁大臣称这些场景“不可接受”。
+* Dozens more were injured, the authorities said. The blaze appears to be the deadliest in the Indian capital in at least four years.
+* 当局表示，还有数十人受伤。这场大火似乎是印度首都至少四年来最致命的一场大火。
+* For laborers in Dubai, a free stress-management class offers a temporary oasis of calm amid struggles with debt, loneliness, long hours and, in recent months, the fear of missile strikes.
+* 对于迪拜的劳动者来说，在债务、孤独、长时间工作以及最近几个月对导弹袭击的恐惧的斗争中，免费的压力管理课程提供了一片暂时的平静绿洲。
+* There are about 450 orange-fronted parakeets left in the world. Super breeders Nacho and Trixie are doing their best to bolster the population.
+* 世界上还有大约450只橙色长尾鹦鹉。超级饲养员Nacho和Trixie正在尽最大努力增加种群数量。
 * Moscow’s repeated warnings of a major strike, combined with the delay before it happened, seemed intended to inflict a psychological toll on the Ukrainian capital.
 * 莫斯科一再发出重大罢工的警告，再加上罢工发生前的拖延，似乎是为了给乌克兰首都造成心理伤害。
 * The court further delayed the Trump administration’s proposed quarantine unit for Americans exposed to the virus. The plan has sparked angry protests in Kenya.
 * 法院进一步推迟了特朗普政府提议的针对接触该病毒的美国人的隔离单位。该计划在肯尼亚引发了愤怒的抗议活动。
-* There are about 450 orange-fronted parakeets left in the world. Super breeders Nacho and Trixie are doing their best to bolster the population.
-* 世界上还有大约450只橙色长尾鹦鹉。超级饲养员Nacho和Trixie正在尽最大努力增加种群数量。
 * The request for sanctions, from Colombia’s defense minister, shows failures at both ends of the supply chain for illegal gold.
 * 哥伦比亚国防部长的制裁请求显示，非法黄金供应链的两端都失败了。
-* The war has not been going the Kremlin’s way recently, with battleground losses and mounting casualties. With renewed strikes, Moscow hopes to gain a better position for negotiations.
-* 这场战争最近没有像克里姆林宫那样进行，战场损失和伤亡人数不断增加。随着新的罢工，莫斯科希望获得更好的谈判地位。
-* An Israeli campaign that started with high hopes has devolved into a kind of impasse, with Hezbollah looking more capable than it did when the war began.
-* 一场满怀希望的以色列战役已经陷入了一种僵局，真主党看起来比战争开始时更有能力。
-* To Brazilians, the ubiquitous caramel-colored mutts are a national icon. But a Mexican state has adopted them as its own homegrown symbol.
-* 对于巴西人来说，无处不在的焦糖色杂种狗是国家的标志。但墨西哥的一个州已经将它们作为自己的本土象征。
-* Lebanon’s government has long wanted the powerful militia to give up its weapons. Before the Iran war began, there were signs of progress toward that goal.
-* 黎巴嫩政府长期以来一直希望强大的民兵放弃武器。在伊朗战争开始之前，有迹象表明朝着这个目标取得了进展。
-* Cumaná was once an economic hub, producing Toyota Land Cruisers and exporting food across South America. Now it’s on the brink of disaster as public services collapse.
-* 库马纳曾经是一个经济中心，生产丰田陆地巡洋舰，并在南美洲出口食品。现在，随着公共服务的崩溃，它正处于灾难的边缘。
+* The war has not been going the Kremlin’s way, with battleground losses and growing casualties. With fiercer strikes, Moscow hopes to gain a better position for negotiations.
+* 战争并没有走上克里姆林宫的道路，战场损失和伤亡人数不断增加。随着更激烈的打击，莫斯科希望获得更好的谈判地位。
 
 ## New York Times United States News
-* A new proposal would allow the administration to block grants if they do not satisfy President Trump’s agenda or support what it calls “anti-American” values.
-* 一项新的提案将允许政府阻止不符合特朗普总统议程或不支持其所谓的“反美”价值观的拨款。
-* Bill Pulte, a Trump loyalist who leads the federal housing finance agency, will have oversight of the United States intelligence agencies. He has no known background in intelligence.
-* 领导联邦住房金融机构的特朗普忠实拥护者比尔·普尔特（ Bill Pulte ）将对美国情报机构进行监督。他没有已知的情报背景。
+* President Trump said Vice President JD Vance and Secretary of State Marco Rubio should split a ticket, without mentioning who should be at the top.
+* 特朗普总统表示，副总统万斯和国务卿马可·卢比奥应该平分一张票，但没有提到谁应该在最高层。
+* She sponsored one of the nation’s first anti-discrimination ordinances for gays and lesbians and later helped make Miami a global arts center.
+* 她赞助了全国首批针对男女同性恋者的反歧视条例之一，后来帮助迈阿密成为全球艺术中心。
+* A measure to direct the president to halt U.S. engagement in Iran had been on track to pass in late May, but Republican leaders postponed action. They have run out of time to delay the vote.
+* 指示总统停止美国与伊朗接触的措施有望在5月下旬通过，但共和党领导人推迟了行动。他们已经没有时间推迟投票了。
+* The former reality TV star has tried to broaden his platform, talking about Los Angeles’s homelessness and drugs problem.
+* 这位前真人秀明星试图扩大自己的平台，谈论洛杉矶的无家可归和毒品问题。
+* Democratic voters returned their ballots later than Republicans in this year’s primaries, which could cause candidate standings to reshuffle as votes continue to be reported.
+* 民主党选民在今年的初选中比共和党人晚归还选票，这可能导致候选人排名随着选票的持续报道而重组。
 * 
 * 
-* The secretary of state has played a key role in the Iran deliberations, as well as in U.S. policy toward Cuba.
-* 这位国务卿在伊朗的审议以及美国对古巴的政策中发挥了关键作用。
-* The outdoor apparel company says the drag queen and environmentalist is using its name for commercial purposes. She’s ready to go to court.
-* 这家户外服装公司表示，变装皇后和环保主义者正在将其名称用于商业目的。她已经准备好出庭了。
-* The race to replace Gov. Gavin Newsom has been unpredictable for months, while Mayor Karen Bass of Los Angeles is trying to fend off two challengers.
-* 几个月来，取代州长加文·纽森（ Gavin Newsom ）的竞选一直难以预测，而洛杉矶市长凯伦·巴斯（ Karen Bass ）正试图抵御两名挑战者。
-* Democrats have a competitive Senate primary race in Iowa, where the party is hoping to make gains, while a smokejumper is running in a contested House primary in Montana.
-* 民主党在爱荷华州举行了有竞争力的参议院初选，该党希望在那里取得进展，而一名跳烟者正在蒙大拿州的一个有争议的众议院初选中竞选。
-* An expansive search on the Big Island of Hawaii ended with the suspect’s arrest on Thursday in the deaths of the men, who were in their 60s and 70s.
-* 在夏威夷大岛上进行的广泛搜查以嫌疑人于周四被捕而告终，这些男子分别在60多岁和70多岁时死亡。
-* While trying to make an arrest, the officer, in Shelby, N.C., punched her repeatedly in the head and body and he continued even after another officer tried to intervene.
-* 在试图逮捕时，这名北卡罗来纳州谢尔比的警官反复殴打她的头部和身体，即使在另一名警官试图干预后，他也继续这样做。
-* The choice gives the N.B.A. franchise room to pursue a sprawling mixed-use development while easing pressure on one of Dallas’s most closely watched civic battles.
-* 这一选择为NBA提供了追求庞大混合用途开发的特许经营空间，同时缓解了达拉斯最受关注的公民斗争之一的压力。
+* The police were negotiating with a man inside a Chase Bank branch in Bakersfield, Calif. Two hostages were let go and an unknown number were still being held.
+* 警方正在与加利福尼亚州贝克斯菲尔德一家大通银行分行内的一名男子进行谈判。两名人质被释放，人数不详的人仍被扣押。
+* From Spike Lee to die-hard fans haunted by the 1999 finals, New Yorkers have descended on San Antonio in hopes of witnessing the franchise’s first championship in more than 50 years.
+* 从斯派克·李（ Spike Lee ）到受到1999年总决赛困扰的铁杆球迷，纽约人来到圣安东尼奥，希望见证这支球队50多年来的首次冠军。
+* Steve Hilton, a Republican, and Xavier Becerra, a Democrat, were leading in election night returns. Tom Steyer, another Democrat, urged patience as more votes were being counted.
+* 共和党人史蒂夫·希尔顿（ Steve Hilton ）和民主党人泽维尔·贝塞拉（ Xavier Becerra ）在选举之夜的回报中处于领另一位民主党人汤姆·斯蒂尔（ Tom Steyer ）敦促在计算更多选票时保持耐心。
+* Without a dominant candidate in the governor’s race, Democratic voters ultimately wanted to ensure that their party wasn’t shut out of the general election.
+* 在州长竞选中没有占主导地位的候选人，民主党选民最终希望确保他们的政党不会被排除在大选之外。
 
 ## New York Times Asia News
+* Dozens more were injured, the authorities said. The blaze appears to be the deadliest in the Indian capital in at least four years.
+* 当局表示，还有数十人受伤。这场大火似乎是印度首都至少四年来最致命的一场大火。
+* President Lee Jae Myung came to office after his predecessor, a conservative, was ousted for imposing martial law. Now exit polls suggest that Mr. Lee’s popularity rippled across other contests.
+* 在他的前任，保守派，因实施戒严而被赶下台后，李在明上任。现在，出口民意调查显示，李光耀的受欢迎程度在其他比赛中产生了涟漪效应。
+* The agreement, which includes plans for sportswear and athleisure products, and stores across the United States and China, is the biggest involving an N.B.A. star and a Chinese brand.
+* 该协议包括运动服装和运动休闲产品的计划，以及美国和中国的商店，是涉及NBA明星和中国品牌的最大协议。
 * There are about 450 orange-fronted parakeets left in the world. Super breeders Nacho and Trixie are doing their best to bolster the population.
 * 世界上还有大约450只橙色长尾鹦鹉。超级饲养员Nacho和Trixie正在尽最大努力增加种群数量。
 * Once widespread in Japan, the colorful birds went from being fairly commonplace in the country to being on the verge of extinction.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 当地政府表示，事故起因是一个仓库发生事故，仓库里存放着用于采矿作业的爆炸物。
 * Oil prices climbed as investors weighed a renewed exchange of military strikes between the United States and Iran against signs that both sides remain engaged in negotiations.
 * 随着投资者权衡美国和伊朗之间重新进行的军事打击，以及双方仍在进行谈判的迹象，油价攀升。
-* The Taiwan president’s spokeswoman said China used “baseless pretexts” to punish journalists, which she called evidence that Beijing was a “troublemaker.”
-* 这位台湾总统的发言人表示，中国利用“毫无根据的借口”来惩罚记者，她称之为北京是“麻烦制造者”的证据。
-* Statues of Shivaji are rising everywhere. The founder of the Maratha empire who fought against the Mughal dynasty is now a symbol for nationalists remaking the country.
-* 希瓦吉的雕像到处都是。与莫卧儿王朝作战的马拉塔帝国的创始人现在是民族主义者重塑国家的象征。
-* Demand has soared for his figurines and statues of the warrior king. It started with a video he posted online.
-* 他的小雕像和战士国王雕像的需求飙升。这始于他在网上发布的一段视频。
 
