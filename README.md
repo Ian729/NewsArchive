@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Video footage verified by The New York Times showed fire inside Kuwait’s international airport. The attack was part of one of the biggest assaults on a Gulf nation since the U.S.-Iran cease-fire was announced in April.
-* 经《纽约时报》核实的视频片段显示，科威特国际机场内发生火灾。这次袭击是自4月宣布美伊停火以来对海湾国家最大规模袭击之一。
-* As an annual economic conference was set to begin, President Volodymyr Zelensky said Ukraine had targeted a navy base and an oil terminal in the region that includes Russia’s second-largest city.
-* 随着年度经济会议的开始，总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）表示，乌克兰已经瞄准了该地区的一个海军基地和一个石油码头，其中包括俄罗斯第二大城市。
-* Eleven police officers were wounded as demonstrators pelted them with rocks and garbage cans, scenes a British cabinet minister called “unacceptable.”
-* 11名警察在示威者向他们投掷石块和垃圾桶时受伤，一位英国内阁大臣称这些场景“不可接受”。
-* Dozens more were injured, the authorities said. The blaze appears to be the deadliest in the Indian capital in at least four years.
-* 当局表示，还有数十人受伤。这场大火似乎是印度首都至少四年来最致命的一场大火。
-* For laborers in Dubai, a free stress-management class offers a temporary oasis of calm amid struggles with debt, loneliness, long hours and, in recent months, the fear of missile strikes.
-* 对于迪拜的劳动者来说，在债务、孤独、长时间工作以及最近几个月对导弹袭击的恐惧的斗争中，免费的压力管理课程提供了一片暂时的平静绿洲。
-* There are about 450 orange-fronted parakeets left in the world. Super breeders Nacho and Trixie are doing their best to bolster the population.
-* 世界上还有大约450只橙色长尾鹦鹉。超级饲养员Nacho和Trixie正在尽最大努力增加种群数量。
-* Moscow’s repeated warnings of a major strike, combined with the delay before it happened, seemed intended to inflict a psychological toll on the Ukrainian capital.
-* 莫斯科一再发出重大罢工的警告，再加上罢工发生前的拖延，似乎是为了给乌克兰首都造成心理伤害。
-* The court further delayed the Trump administration’s proposed quarantine unit for Americans exposed to the virus. The plan has sparked angry protests in Kenya.
-* 法院进一步推迟了特朗普政府提议的针对接触该病毒的美国人的隔离单位。该计划在肯尼亚引发了愤怒的抗议活动。
-* The request for sanctions, from Colombia’s defense minister, shows failures at both ends of the supply chain for illegal gold.
-* 哥伦比亚国防部长的制裁请求显示，非法黄金供应链的两端都失败了。
-* The war has not been going the Kremlin’s way, with battleground losses and growing casualties. With fiercer strikes, Moscow hopes to gain a better position for negotiations.
-* 战争并没有走上克里姆林宫的道路，战场损失和伤亡人数不断增加。随着更激烈的打击，莫斯科希望获得更好的谈判地位。
+* Hezbollah’s leader said the Iran-backed group, which was not included in U.S.-brokered talks, had rejected the deal.
+* 真主党领导人表示，伊朗支持的团体拒绝了这笔交易，该团体没有参加美国斡旋的谈判。
+* The Lebanese militant group’s attacks have caught Israelis off guard, forcing its political and military leaders to scramble for solutions.
+* 黎巴嫩激进组织的袭击让以色列人措手不及，迫使其政治和军事领导人争先恐后地寻求解决方案。
+* As concern rises in Europe over threats from an emboldened Russia, the Irish government says it’s working to plug gaps in its military, which reflect a tradition of neutrality.
+* 随着欧洲对来自大胆俄罗斯的威胁的担忧加剧，爱尔兰政府表示正在努力填补其军队的空白，这反映了中立的传统。
+* Mehdi Taj said his federation has been dealing with FIFA, not the United States, in trying to obtain visas for Iran to play in the tournament that begins next week.
+* 迈赫迪·塔吉（ Mehdi Taj ）表示，他的联合会一直在与国际足联（ FIFA ）而不是美国打交道，试图获得伊朗的签证，以便参加下周开始的比赛。
+* President Trump this week endorsed the right-wing candidate, Abelardo De La Espriella, a dual citizen of Colombia and the United States, in Colombia’s presidential runoff.
+* 特朗普总统本周在哥伦比亚总统选举中支持右翼候选人阿贝拉尔多·德拉·埃斯普列拉（ Abelardo De La Espriella ） ，他是哥伦比亚和美国的双重公民。
+* Gun battles erupted on Thursday, as armed groups loyal to rival politicians clashed. Residents said it was the worst fighting in years.
+* 枪战于周四爆发，忠于敌对政客的武装团体发生冲突。居民说，这是多年来最严重的战斗。
+* Priest’s Ebola Death Stirs Fear an Doubt in Congolese Town
+* 牧师的埃博拉死亡在刚果城镇引发恐慌
+* Her popular graphic novel series, published in the early 2000s, followed an Iranian girl through the Islamic Revolution and the Iran-Iraq War.
+* 她的流行图画小说系列出版于21世纪初，讲述了一位伊朗女孩经历了伊斯兰革命和两伊战争的故事。
+* New Zealand’s foreign minister was “surprised” to hear about the one-year travel ban, a spokesperson said, given lawmakers have visited Taiwan for years without issues.
+* 一位发言人表示，新西兰外交部长对听到为期一年的旅行禁令感到“惊讶” ，因为立法者多年来一直没有访问台湾。
+* A presidential candidate endorsed by President Trump has been accused by some Colombians of co-opting their beloved national team’s yellow soccer jersey.
+* 特朗普总统支持的一位总统候选人被一些哥伦比亚人指责选择了他们心爱的国家队的黄色足球运动衫。
 
 ## New York Times United States News
-* President Trump said Vice President JD Vance and Secretary of State Marco Rubio should split a ticket, without mentioning who should be at the top.
-* 特朗普总统表示，副总统万斯和国务卿马可·卢比奥应该平分一张票，但没有提到谁应该在最高层。
-* She sponsored one of the nation’s first anti-discrimination ordinances for gays and lesbians and later helped make Miami a global arts center.
-* 她赞助了全国首批针对男女同性恋者的反歧视条例之一，后来帮助迈阿密成为全球艺术中心。
-* A measure to direct the president to halt U.S. engagement in Iran had been on track to pass in late May, but Republican leaders postponed action. They have run out of time to delay the vote.
-* 指示总统停止美国与伊朗接触的措施有望在5月下旬通过，但共和党领导人推迟了行动。他们已经没有时间推迟投票了。
-* The former reality TV star has tried to broaden his platform, talking about Los Angeles’s homelessness and drugs problem.
-* 这位前真人秀明星试图扩大自己的平台，谈论洛杉矶的无家可归和毒品问题。
-* Democratic voters returned their ballots later than Republicans in this year’s primaries, which could cause candidate standings to reshuffle as votes continue to be reported.
-* 民主党选民在今年的初选中比共和党人晚归还选票，这可能导致候选人排名随着选票的持续报道而重组。
-* 
-* 
-* The police were negotiating with a man inside a Chase Bank branch in Bakersfield, Calif. Two hostages were let go and an unknown number were still being held.
-* 警方正在与加利福尼亚州贝克斯菲尔德一家大通银行分行内的一名男子进行谈判。两名人质被释放，人数不详的人仍被扣押。
-* From Spike Lee to die-hard fans haunted by the 1999 finals, New Yorkers have descended on San Antonio in hopes of witnessing the franchise’s first championship in more than 50 years.
-* 从斯派克·李（ Spike Lee ）到受到1999年总决赛困扰的铁杆球迷，纽约人来到圣安东尼奥，希望见证这支球队50多年来的首次冠军。
-* Steve Hilton, a Republican, and Xavier Becerra, a Democrat, were leading in election night returns. Tom Steyer, another Democrat, urged patience as more votes were being counted.
-* 共和党人史蒂夫·希尔顿（ Steve Hilton ）和民主党人泽维尔·贝塞拉（ Xavier Becerra ）在选举之夜的回报中处于领另一位民主党人汤姆·斯蒂尔（ Tom Steyer ）敦促在计算更多选票时保持耐心。
-* Without a dominant candidate in the governor’s race, Democratic voters ultimately wanted to ensure that their party wasn’t shut out of the general election.
-* 在州长竞选中没有占主导地位的候选人，民主党选民最终希望确保他们的政党不会被排除在大选之外。
+* The National Capital Planning Commission received nearly 1,700 comments about President Trump’s plans to build a 250-foot arch in the nation’s capital. Almost all opposed the idea.
+* 国家首都规划委员会收到了近1,700条关于特朗普总统计划在该国首都建造250英尺拱门的评论。几乎所有人都反对这个想法。
+* Todd Blanche has been serving as the acting attorney general. A formal nomination to the post would be the president’s latest move to place loyalists in top government jobs.
+* Todd Blanche一直担任代理司法部长。正式提名该职位将是总统将忠诚者安置在政府最高职位的最新举措。
+* As Republicans break up majority-Black House districts, Democrats must decide whether to preserve seats concentrated in urban areas or push them into white suburbs to target G.O.P. seats.
+* 随着共和党分裂黑人占多数的众议院选区，民主党必须决定是保留集中在城市地区的席位，还是将其推向白人郊区，以瞄准共和党席位。
+* Internal documents show how tech giants grabbed children’s attention throughout the day, a strategy that schools say has undermined education.
+* 内部文件显示，科技巨头一整天都在吸引儿童的注意力，学校称这一策略破坏了教育。
+* The presidential center that opens this month seems out of step with the zeitgeist of the moment and produces emotional reactions among the discontented of the Trump era.
+* 本月开幕的总统中心似乎与当下的时代精神不一致，并在特朗普时代的不满情绪中产生了情绪反应。
+* Counting ballots in California is a complex and lengthy undertaking. In Los Angeles, the choreographed process includes canines, humans and machines.
+* 在加利福尼亚州，计票是一项复杂而漫长的工作。在洛杉矶，精心编排的过程包括犬类、人类和机器。
+* Ms. Bass, a Democrat, has had a roller-coaster first term. She now faces the first runoff since 2005 for an incumbent mayor in the city.
+* 巴斯女士是民主党人，第一个任期是过山车。她现在面临着自2005年以来该市现任市长的第一次决选。
+* Monterey Park, outside Los Angeles, appeared to become the first U.S. city where voters passed such a measure.
+* 洛杉矶郊外的蒙特利公园似乎成为美国第一个选民通过此类措施的城市。
+* Four Republicans from different ideological factions crossed party lines to vote with Democrats in favor of reining in the president’s power to wage war unilaterally.
+* 来自不同意识形态派别的四名共和党人越过党派界限，投票支持民主党人，赞成控制总统单方面发动战争的权力。
+* A report by the Department of Homeland Security’s internal watchdog described officers putting one man in a chokehold and stabbing another with a pen.
+* 国土安全部内部监管机构的一份报告描述了警察将一名男子扼杀在喉咙里，并用钢笔刺伤另一名男子。
 
 ## New York Times Asia News
+* Before the war, the global market for liquefied natural gas was increasingly commanded by just two countries, one of which has now been hobbled.
+* 战前，液化天然气的全球市场越来越多地由两个国家控制，其中一个国家现在已经步履蹒跚。
+* New Zealand’s foreign minister was “surprised” to hear about the one-year travel ban, a spokesperson said, given lawmakers have visited Taiwan for years without issues.
+* 一位发言人表示，新西兰外交部长对听到为期一年的旅行禁令感到“惊讶” ，因为立法者多年来一直没有访问台湾。
+* President Lee Jae Myung’s Democratic Party had hoped to consolidate its influence and extend his political momentum.
+* Lee Jae Myung总统的民主党曾希望巩固其影响力并扩大其政治势头。
+* The immigrants had been working as fruit pickers in southern Italy, the authorities said, apparently as part of a system of criminal labor trafficking.
+* 当局表示，这些移民一直在意大利南部从事水果采摘工作，显然是贩卖劳工犯罪系统的一部分。
 * Dozens more were injured, the authorities said. The blaze appears to be the deadliest in the Indian capital in at least four years.
 * 当局表示，还有数十人受伤。这场大火似乎是印度首都至少四年来最致命的一场大火。
 * President Lee Jae Myung came to office after his predecessor, a conservative, was ousted for imposing martial law. Now exit polls suggest that Mr. Lee’s popularity rippled across other contests.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 这些五颜六色的鸟类曾经在日本广泛传播，从该国相当常见到濒临灭绝。
 * Thousands of mysterious containers lie scattered across northern Laos. These “death jars” may have provided a form of communal interment, archaeologists reported.
 * 成千上万的神秘集装箱散落在老挝北部。考古学家报告说，这些“死亡罐”可能提供了一种公共安葬形式。
-* An analysis of six years of procurement records suggests that the People’s Liberation Army has openly tried to acquire restricted U.S. technology.
-* 对六年采购记录的分析表明，中国人民解放军公开试图获得受限制的美国技术。
-* New research examines how a Chinese company struggled to develop its predictive surveillance technology while U.S. restrictions were in place.
-* 新的研究调查了一家中国公司在美国实施限制的情况下如何努力开发其预测性监控技术。
-* The local authorities said the cause was an accident at a warehouse that held explosives for mining operations.
-* 当地政府表示，事故起因是一个仓库发生事故，仓库里存放着用于采矿作业的爆炸物。
-* Oil prices climbed as investors weighed a renewed exchange of military strikes between the United States and Iran against signs that both sides remain engaged in negotiations.
-* 随着投资者权衡美国和伊朗之间重新进行的军事打击，以及双方仍在进行谈判的迹象，油价攀升。
 
