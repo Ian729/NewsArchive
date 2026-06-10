@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The attacks came a day after Israel and Iran pulled back from direct confrontation. The Israeli campaign against the Lebanese militia Hezbollah has been an obstacle in U.S.-Iran peace talks.
-* 袭击发生在以色列和伊朗退出直接对抗的第二天。以色列针对黎巴嫩民兵真主党的行动一直是美伊和平谈判的障碍。
-* Washington and Tehran would need to defend any potential deal as a win for their side. And each has a leader whose approach to talks is vexing mediators.
-* 华盛顿和德黑兰需要捍卫任何潜在的协议，作为他们一方的胜利。每个人都有一位领导者，他们的谈话方式让调解人感到烦恼。
-* The city of Nabatieh once spoke to the changing fortunes of Lebanon. Now, amid unending war, it speaks to the country’s worst fears.
-* 纳巴提耶市曾经对黎巴嫩不断变化的命运说过话。现在，在无休止的战争中，它表达了该国最严重的恐惧。
-* Drones launched by both Russia and Ukraine are veering off course, menacing countries that are not at war.
-* 俄罗斯和乌克兰发射的无人机正在偏离轨道，威胁着未处于战争状态的国家。
-* Gianni Infantino, the FIFA president, has unabashedly courted the president’s favor. Soccer officials privately ask, who really benefits?
-* 国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）毫不掩饰地讨好总统。足球官员私下问，谁真正受益？
-* Pope Leo and Armando Jesús Lovera have known each other for decades. They have watched World Cup games together, gone on road trips and once searched for a teddy bear for Mr. Lovera’s future wife.
-* 教皇利奥和阿曼多·耶稣·洛韦拉已经认识了几十年。他们一起观看了世界杯比赛，进行了公路旅行，并曾经为Lovera先生未来的妻子寻找一只泰迪熊。
-* Andy Burnham, the mayor of Greater Manchester, is running for a seat in Parliament. It’s a vital step in a campaign to oust his party colleague Prime Minister Keir Starmer.
-* 大曼彻斯特市市长安迪·伯纳姆（ Andy Burnham ）正在竞选议会席位。这是推翻他的党内同僚总理基尔·斯塔默（ Keir Starmer ）竞选活动的重要一步。
-* He used the pandemic to ruthlessly tighten his grip on the country. Then he energized its economy by leveraging Russia’s war in Ukraine.
-* 他利用疫情无情地收紧了对国家的控制。然后，他利用俄罗斯在乌克兰的战争为其经济注入了活力。
-* Mexicans are enraged after viral videos claimed Adidas exploited Indigenous women to sew World Cup jerseys. We traveled into the mountains to speak to the artisans themselves.
-* 在病毒视频声称阿迪达斯利用土著妇女缝制世界杯球衣后，墨西哥人感到愤怒。我们前往山区与工匠们交谈。
-* A 7.8-magnitude quake struck off the island of Mindanao, causing widespread destruction and a deadly landslide. More than 100 others were injured and tens of thousands displaced.
-* 棉兰老岛发生7.8级地震，造成广泛的破坏和致命的山体滑坡。另有100多人受伤，数万人流离失所。
+* President Trump said Iran would “pay the price” for taking “too long to negotiate” an agreement to end the war.
+* 特朗普总统表示，伊朗将为“谈判时间过长”而“付出代价”，以达成结束战争的协议。
+* Hundreds of Kenyans have marched through the streets to oppose a quarantine facility that would be reserved exclusively for American patients.
+* 数百名肯尼亚人走上街头游行，反对专门为美国患者设立的隔离设施。
+* Cars and a bus were set on fire and families were driven from their homes as the stabbing attack caused tensions to spill onto the streets.
+* 持刀袭击事件导致紧张局势蔓延至街头，汽车和公共汽车被纵火焚烧，许多家庭被迫离开家园。
+* Some fans and participants hoping to enter the United States for the World Cup have complained that restrictive immigration rules have presented a roadblock.
+* 一些希望进入美国参加世界杯的球迷和参与者抱怨说，限制性的移民规则构成了障碍。
+* Midrange attacks, using upgraded drones that Ukraine produces in huge numbers, are causing fuel shortages and complicating troop rotations.
+* 乌克兰大量生产的升级版无人机发动中程攻击，导致燃料短缺，并使部队轮换更加复杂。
+* As the Iran war drags on, Oman — a U.S. ally and mediator with Iran — has found itself at odds with the Trump administration and some of its own neighbors.
+* 随着伊朗战争的拖延，美国与伊朗的盟友和调解人阿曼发现自己与特朗普政府及其一些邻国存在分歧。
+* Omar Abdulkadir Artan, who is widely admired in his home country, would have been the first Somali to referee a World Cup game.
+* 奥马尔·阿卜杜勒卡迪尔·阿尔坦在索马里国内广受尊敬，他本将成为第一位执裁世界杯比赛的索马里裁判。
+* The police said they were looking for more than 10 attackers, who had stormed a community of tin shacks. Investigators were still trying to determine the motive.
+* 警方表示，他们正在搜捕十多名袭击者，这些袭击者闯入了一个由铁皮棚屋组成的社区。调查人员仍在努力确定其作案动机。
+* The death of the officer appeared to add to a string of targeted assassinations of high-profile opponents of Ukraine inside Russia.
+* 这名军官的死亡似乎加剧了俄罗斯境内针对乌克兰知名反对派人士的一系列定点清除行动。
+* The pontiff will offer a Mass in Antoni Gaudí’s iconic, unfinished basilica during his Spain trip. But for some Barcelona residents, completing the construction could mean knocking down their homes.
+* 教宗将在西班牙之行期间，于安东尼·高迪设计的标志性未完工的大教堂主持弥撒。但对一些巴塞罗那居民来说，完成这座教堂的建设可能意味着他们的房屋将被拆除。
 
 ## New York Times United States News
-* Factories have been slow to adopt 3-D printing because the systems tend to be expensive and difficult to use. Formlabs just released a printer that costs a fraction of what competitors charge.
-* 由于系统往往昂贵且难以使用，工厂采用3D打印的速度很慢。Formlabs刚刚发布了一款打印机，其成本仅为竞争对手的一小部分。
-* 
-* 
-* American Bridge is hoping that Republicans are vulnerable in parts of the country that had been exceedingly tough terrain for Democrats in recent elections.
-* American Bridge希望，在最近的选举中，共和党人在该国部分地区处于弱势，这些地区对民主党人来说地形极其艰难。
-* Swimming 900 miles won’t be “the worst way to spend four months,” Catherine Breed says — as long as the great whites, jellyfish and elephant seals leave her alone.
-* 凯瑟琳·布里德（ Catherine Breed ）说，游泳900英里并不是“度过四个月的最糟糕的方式” ，只要大白海豹、水母和象海豹让她独处。
-* Any indication of tepid support for Graham Platner, a Democratic candidate for Senate in Maine, will be seen as a warning sign about his chances against Senator Susan Collins, the Republican incumbent.
-* 任何对缅因州参议院民主党候选人格雷厄姆·普拉特纳（ Graham Platner ）表示不温不火的支持的迹象，都将被视为他对抗共和党现任参议员苏珊·柯林斯（ Susan Collins ）的机会的警告信号。
-* Officials in North Texas will watch for potential threats from a new $40 million emergency operations center, one of many new security precautions in place across North America.
-* 北德克萨斯州的官员将关注新的4000万$紧急行动中心的潜在威胁，这是北美各地许多新的安全预防措施之一。
-* Tourists are flocking to Midway, Utah. The Ballerina Farm Store, from the influencer whose brand revolves around motherhood and farm life, is a reason.
-* 游客纷纷涌向犹他州中途岛。芭蕾舞者农场商店是一个原因，其品牌围绕着母性和农场生活。
-* Eileen Wang pleaded guilty to acting as a foreign agent. But what could Beijing want from the mayor of a small California city known as the “Chinese Beverly Hills”?
-* 王爱琳承认自己是外国间谍。但是，北京能从一个被称为“中国比佛利山庄”的加利福尼亚小城市的市长那里得到什么呢？
-* It was not immediately clear what led to the incident, which came at a time when the cease-fire in the war has grown tenuous.
-* 目前尚不清楚是什么导致了这一事件，而这起事件发生在战争停火变得脆弱的时候。
-* The proposal was seen as a possible measure of how residents felt about the recent flood of money into the city as a result of the A.I. boom.
-* 该提案被视为居民对最近由于人工智能繁荣而大量资金涌入该市的感受的一种可能的衡量标准。
+* The head of the Democratic fund-raising behemoth was called to testify on Wednesday about reports that she may have misled Congress about how it vets foreign donations.
+* 民主党筹款巨头的负责人周三被传唤作证，有关报道称她可能就国会如何审查外国捐款的问题误导了国会。
+* Opening statements are set to begin Wednesday in the case of the man prosecutors say was enthralled by fire and resentful toward the rich.
+* 检方称，这名男子痴迷于火，并对富人怀有怨恨。本案将于周三开始进行开庭陈述。
+* As New York basks in the attention of a long-awaited N.B.A. finals run, many San Antonians say the Spurs, and the city they represent, are being underestimated.
+* 纽约沉浸在期待已久的 NBA 总决赛征程的关注之中，但许多圣安东尼奥人表示，马刺队以及他们所代表的城市被低估了。
+* Graham Platner’s primary victory sets up a high-stakes contest between an insurgent progressive with political baggage and a battle-tested but vulnerable Republican senator.
+* 格雷厄姆·普拉特纳的初选胜利，使得一场高风险的竞争在一位背负政治包袱的进步派挑战者和一位身经百战但处境脆弱的共和党参议员之间展开。
+* For days protesters have been clashing with law enforcement over conditions at an ICE detention facility in New Jersey. Our reporter Hamed Aleaziz explains how these complaints persist across the country, and takes a closer look at the problems documented at one facility in Louisiana.
+* 连日来，抗议者与执法部门就新泽西州一处移民及海关执法局（ICE）拘留中心的恶劣条件发生冲突。我们的记者哈米德·阿莱阿齐兹解释了此类投诉如何在全国各地持续发生，并深入调查了路易斯安那州一处拘留中心记录在案的问题。
+* Experts discuss the threat and how to escape aggressive bees. Hint: Don’t jump in water.
+* 专家探讨了蜜蜂的威胁以及如何躲避攻击性蜜蜂。提示：不要跳进水里。
+* President Trump’s advisers gathered in secret in the Situation Room without him as they struggled to handle the Epstein files scandal, our reporters Maggie Haberman and Jonathan Swan learned while researching their book, “Regime Change.” Here’s the inside story.
+* 据我们的记者玛吉·哈伯曼和乔纳森·斯旺在撰写《政权更迭》一书时发现，在处理爱泼斯坦丑闻的过程中，特朗普总统的顾问们曾在他不在场的情况下秘密聚集在战情室。以下是内幕故事。
+* The mayor of Quincy, Mass., is being sued over 10-foot statues of two Catholic saints that he wants to install in front of a new public safety complex.
+* 马萨诸塞州昆西市市长因两名天主教圣徒的10英尺高的雕像而被起诉，他希望在一个新的公共安全综合体前安装这些雕像。
+* State election officials will confirm the winner in the next week or two, after a counting process that involves multiple rounds of elimination.
+* 州选举官员将在未来一两周内，经过多轮淘汰制的计票过程后，确认获胜者。
+* State election officials will confirm the winner in the coming weeks, after a counting process that involves multiple rounds of elimination.
+* 州选举官员将在未来几周内，经过多轮淘汰制的计票过程后，确认获胜者。
 
 ## New York Times Asia News
+* The 25 charges include manslaughter and conspiracy. They are the first to emerge from a monthslong investigation into a blaze that killed 168 people.
+* 这25项指控包括过失杀人和共谋罪。这是历时数月对造成168人死亡的火灾进行调查后，首批公布的指控。
+* President Trump’s warming with Xi Jinping of China, a leader he admires, has ignited anxieties in Washington and across Asia.
+* 特朗普总统与他所钦佩的中国领导人习近平关系升温，引发了华盛顿和整个亚洲的焦虑情绪。
+* The measures aim to “disrupt the flows of finance” supporting attacks on Palestinians in the West Bank, said the British government, which coordinated them with France and other nations.
+* 与法国和其他国家协调的英国政府表示，这些措施旨在“破坏资金流动” ，以支持对约旦河西岸巴勒斯坦人的袭击。
+* Families hope to recover their loved ones after the most powerful earthquake in 50 years to hit the Philippines.
+* 在菲律宾发生50年来最强烈的地震后，家人希望能够找回他们的亲人。
 * Eileen Wang pleaded guilty to acting as a foreign agent. But what could Beijing want from the mayor of a small California city known as the “Chinese Beverly Hills”?
 * 王爱琳承认自己是外国间谍。但是，北京能从一个被称为“中国比佛利山庄”的加利福尼亚小城市的市长那里得到什么呢？
 * On social media, Chinese entrepreneurs are touting cheap labor across the border, as trade between the two countries regains momentum.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 巴基斯坦大渡区是一个容易发生沙尘暴、干旱和洪水的地区，每个季节都会给该地区的人们带来新的挣扎。
 * He used the pandemic to ruthlessly tighten his grip on the country. Then he energized its economy by leveraging Russia’s war in Ukraine.
 * 他利用疫情无情地收紧了对国家的控制。然后，他利用俄罗斯在乌克兰的战争为其经济注入了活力。
-* A 7.8-magnitude quake struck off the island of Mindanao, causing widespread destruction and a deadly landslide. More than 100 others were injured and tens of thousands displaced.
-* 棉兰老岛发生7.8级地震，造成广泛的破坏和致命的山体滑坡。另有100多人受伤，数万人流离失所。
-* Oil prices jumped and stocks plunged after Iran and Israel exchanged strikes, raising doubts about the future of fragile cease-fire in the Middle East.
-* 在伊朗和以色列进行罢工后，油价飙升，股市暴跌，引发了对中东脆弱停火未来的怀疑。
-* The inclusion of flag football in the next Olympic Games has spurred optimism about the prospects of American football in South Korea, where it has languished for decades.
-* 旗帜足球被纳入下一届奥运会，这激发了人们对韩国美式足球前景的乐观情绪，美式足球在韩国已经萎靡了几十年。
-* The Cockroach Janta Party started as a joke, but it quickly became a way for many Indians to express their frustration with the system.
-* 蟑螂Janta派对最初是一个笑话，但它很快成为许多印度人表达对这一制度的沮丧的一种方式。
 
