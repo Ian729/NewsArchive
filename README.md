@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Trump said Iran would “pay the price” for taking “too long to negotiate” an agreement to end the war.
-* 特朗普总统表示，伊朗将为“谈判时间过长”而“付出代价”，以达成结束战争的协议。
-* Hundreds of Kenyans have marched through the streets to oppose a quarantine facility that would be reserved exclusively for American patients.
-* 数百名肯尼亚人走上街头游行，反对专门为美国患者设立的隔离设施。
-* Cars and a bus were set on fire and families were driven from their homes as the stabbing attack caused tensions to spill onto the streets.
-* 持刀袭击事件导致紧张局势蔓延至街头，汽车和公共汽车被纵火焚烧，许多家庭被迫离开家园。
-* Some fans and participants hoping to enter the United States for the World Cup have complained that restrictive immigration rules have presented a roadblock.
-* 一些希望进入美国参加世界杯的球迷和参与者抱怨说，限制性的移民规则构成了障碍。
-* Midrange attacks, using upgraded drones that Ukraine produces in huge numbers, are causing fuel shortages and complicating troop rotations.
-* 乌克兰大量生产的升级版无人机发动中程攻击，导致燃料短缺，并使部队轮换更加复杂。
-* As the Iran war drags on, Oman — a U.S. ally and mediator with Iran — has found itself at odds with the Trump administration and some of its own neighbors.
-* 随着伊朗战争的拖延，美国与伊朗的盟友和调解人阿曼发现自己与特朗普政府及其一些邻国存在分歧。
-* Omar Abdulkadir Artan, who is widely admired in his home country, would have been the first Somali to referee a World Cup game.
-* 奥马尔·阿卜杜勒卡迪尔·阿尔坦在索马里国内广受尊敬，他本将成为第一位执裁世界杯比赛的索马里裁判。
-* The police said they were looking for more than 10 attackers, who had stormed a community of tin shacks. Investigators were still trying to determine the motive.
-* 警方表示，他们正在搜捕十多名袭击者，这些袭击者闯入了一个由铁皮棚屋组成的社区。调查人员仍在努力确定其作案动机。
-* The death of the officer appeared to add to a string of targeted assassinations of high-profile opponents of Ukraine inside Russia.
-* 这名军官的死亡似乎加剧了俄罗斯境内针对乌克兰知名反对派人士的一系列定点清除行动。
-* The pontiff will offer a Mass in Antoni Gaudí’s iconic, unfinished basilica during his Spain trip. But for some Barcelona residents, completing the construction could mean knocking down their homes.
-* 教宗将在西班牙之行期间，于安东尼·高迪设计的标志性未完工的大教堂主持弥撒。但对一些巴塞罗那居民来说，完成这座教堂的建设可能意味着他们的房屋将被拆除。
+* The exchanges of fire this week have raised fears of a return to all-out war. The U.S. military struck another tanker it said was carrying Iranian oil and three Indians were reported killed in an earlier American attack at sea.
+* 本周的交火引发了人们对全面战争回归的担忧。美国军方袭击了另一艘据称载有伊朗石油的油轮，据报道，三名印度人在美国早些时候的海上袭击中丧生。
+* John Healey unexpectedly announced that he was stepping down, saying Prime Minister Keir Starmer was failing to invest enough money in the British military.
+* 约翰·希利（ John Healey ）出人意料地宣布他将辞职，称首相基尔·斯塔默（ Keir Starmer ）未能在英国军队中投入足够的资金。
+* Mexico and Canada have faced significant recent tension in their relations with the United States. But in their historic World Cup bid, the three countries promoted teamwork.
+* 墨西哥和加拿大最近在与美国的关系中面临着严重的紧张局势。但在他们历史性的世界杯申办中，这三个国家促进了团队合作。
+* The women are among nearly two dozen people slated to be sent to a country where the U.S. government has advised “Do not travel for any reason.”
+* 这些妇女是近24名计划被送往美国政府建议“出于任何原因不要旅行”的国家的人之一。
+* Parallels between the two wars abound, from the grinding nature of the fighting to the way new technologies reshaped warfare.
+* 这两场战争之间有很多相似之处，从战斗的严酷性质到新技术重塑战争的方式。
+* A Thai court convicted the men, who are Uyghur, for a terrorist attack at a Hindu shrine that killed 20 and injured dozens more.
+* 泰国一家法院判定这些维吾尔族男子对印度教圣地发动恐怖袭击，造成20人死亡，数十人受伤。
+* Unions and other groups plan to demonstrate at the capital’s World Cup stadium, adding tension as the much-watched event begins.
+* 工会和其他团体计划在首都的世界杯体育场举行示威，随着备受瞩目的赛事的开始，这增加了紧张局势。
+* President Claudia Sheinbaum of Mexico plans to intentionally skip the entire tournament, breaking a decades-long tradition of sports diplomacy.
+* 墨西哥总统克劳迪娅·谢恩鲍姆（ Claudia Sheinbaum ）计划故意跳过整个比赛，打破数十年的体育外交传统。
+* Colombia’s presidential front-runner has sparked a debate about masculinity and machismo. Women’s rights groups see a familiar right-wing playbook.
+* 哥伦比亚总统的领跑者引发了一场关于男子气概和大男子主义的辩论。妇女权利组织看到了一本熟悉的右翼剧本。
+* What’s a “silicon-collar”? South Korea’s chip industry has been supercharged by the advent of the A.I. age, inspiring a host of new phrases.
+* 什么是“硅领” ？人工智能时代的到来激励了韩国的芯片行业，激发了许多新的短语。
 
 ## New York Times United States News
-* The head of the Democratic fund-raising behemoth was called to testify on Wednesday about reports that she may have misled Congress about how it vets foreign donations.
-* 民主党筹款巨头的负责人周三被传唤作证，有关报道称她可能就国会如何审查外国捐款的问题误导了国会。
-* Opening statements are set to begin Wednesday in the case of the man prosecutors say was enthralled by fire and resentful toward the rich.
-* 检方称，这名男子痴迷于火，并对富人怀有怨恨。本案将于周三开始进行开庭陈述。
-* As New York basks in the attention of a long-awaited N.B.A. finals run, many San Antonians say the Spurs, and the city they represent, are being underestimated.
-* 纽约沉浸在期待已久的 NBA 总决赛征程的关注之中，但许多圣安东尼奥人表示，马刺队以及他们所代表的城市被低估了。
-* Graham Platner’s primary victory sets up a high-stakes contest between an insurgent progressive with political baggage and a battle-tested but vulnerable Republican senator.
-* 格雷厄姆·普拉特纳的初选胜利，使得一场高风险的竞争在一位背负政治包袱的进步派挑战者和一位身经百战但处境脆弱的共和党参议员之间展开。
-* For days protesters have been clashing with law enforcement over conditions at an ICE detention facility in New Jersey. Our reporter Hamed Aleaziz explains how these complaints persist across the country, and takes a closer look at the problems documented at one facility in Louisiana.
-* 连日来，抗议者与执法部门就新泽西州一处移民及海关执法局（ICE）拘留中心的恶劣条件发生冲突。我们的记者哈米德·阿莱阿齐兹解释了此类投诉如何在全国各地持续发生，并深入调查了路易斯安那州一处拘留中心记录在案的问题。
-* Experts discuss the threat and how to escape aggressive bees. Hint: Don’t jump in water.
-* 专家探讨了蜜蜂的威胁以及如何躲避攻击性蜜蜂。提示：不要跳进水里。
-* President Trump’s advisers gathered in secret in the Situation Room without him as they struggled to handle the Epstein files scandal, our reporters Maggie Haberman and Jonathan Swan learned while researching their book, “Regime Change.” Here’s the inside story.
-* 据我们的记者玛吉·哈伯曼和乔纳森·斯旺在撰写《政权更迭》一书时发现，在处理爱泼斯坦丑闻的过程中，特朗普总统的顾问们曾在他不在场的情况下秘密聚集在战情室。以下是内幕故事。
-* The mayor of Quincy, Mass., is being sued over 10-foot statues of two Catholic saints that he wants to install in front of a new public safety complex.
-* 马萨诸塞州昆西市市长因两名天主教圣徒的10英尺高的雕像而被起诉，他希望在一个新的公共安全综合体前安装这些雕像。
-* State election officials will confirm the winner in the next week or two, after a counting process that involves multiple rounds of elimination.
-* 州选举官员将在未来一两周内，经过多轮淘汰制的计票过程后，确认获胜者。
-* State election officials will confirm the winner in the coming weeks, after a counting process that involves multiple rounds of elimination.
-* 州选举官员将在未来几周内，经过多轮淘汰制的计票过程后，确认获胜者。
+* Commanders do not usually speak publicly about future operations to avoid jeopardizing the mission’s success.
+* 指挥官通常不会公开谈论未来的行动，以避免危及任务的成功。
+* Colombia’s presidential front-runner has sparked a debate about masculinity and machismo. Women’s rights groups see a familiar right-wing playbook.
+* 哥伦比亚总统的领跑者引发了一场关于男子气概和大男子主义的辩论。妇女权利组织看到了一本熟悉的右翼剧本。
+* Now, Judge Eleanor Ross’s career and caseload are under scrutiny. And her punishment, a private reprimand, has sparked backlash.
+* 现在，埃莉诺·罗斯法官的职业生涯和案件数量正在接受审查。她的惩罚是一种私人谴责，引发了强烈反对。
+* A cohort of young Millennial and Gen Z politicians have centered their campaigns this year on housing costs, and the divide is more generational than partisan.
+* 今年，一群年轻的千禧一代和Z世代政治家将他们的竞选活动集中在住房成本上，这种鸿沟是代代相传的，而不是党派之争。
+* McGregor, the Ultimate Fighting Championship’s main attraction, had the support of the prominent sports physician Neal ElAttrache when he decided to use performance-enhancing drugs.
+* 麦格雷戈（ McGregor ）是终极格斗锦标赛（ Ultimate Fighting Championship ）的主要吸引力，当他决定使用提高成绩的药物时，得到了著名体育医生尼尔·埃尔阿特拉什（ Neal ElAttrache ）的支持。
+* A map of the San Diego facility that the team is using as its base led people to believe that snakes had infiltrated the premises.
+* 该团队用作基地的圣地亚哥设施地图使人们相信蛇已经渗透到场地中。
+* No one was injured by the burning cross, which was found in Grant Park, the authorities said. The police and the F.B.I. are investigating.
+* 当局说，在格兰特公园发现的燃烧十字架没有人受伤。警方和联邦调查局正在进行调查。
+* David Rush, the C.I.A. employee, worked on a highly classified China spying program with Stephen A. Feinberg, the Pentagon’s second-ranking official.
+* 中情局雇员大卫·拉什(David Rush)与五角大楼二等官员斯蒂芬· A ·费恩伯格(Stephen A. Feinberg)一起参与了一项高度机密的中国间谍计划。
+* The arrangement means that Vance Boelter will not face the death penalty after being charged with killing Melissa Hortman and her husband, Mark.
+* 这一安排意味着Vance Boelter在被指控杀害Melissa Hortman和她的丈夫Mark后将不会面临死刑。
+* With Graham Platner now the Democratic nominee against Senator Susan Collins, signs of how hostile the race will be have quickly emerged.
+* 随着格雷厄姆·普拉特纳（ Graham Platner ）现在成为民主党提名人，对抗参议员苏珊·柯林斯（ Susan Collins ） ，很快就出现了竞选
 
 ## New York Times Asia News
+* Oman’s military has rescued dozens more Indian seafarers from the stricken ships, which the U.S. military said violated its blockade.
+* 阿曼军方已从受灾船只中救出数十名印度海员，美国军方称这些船只违反了封锁。
+* A Thai court convicted the men, who are Uyghur, for a terrorist attack at a Hindu shrine that killed 20 and injured dozens more.
+* 泰国一家法院判定这些维吾尔族男子对印度教圣地发动恐怖袭击，造成20人死亡，数十人受伤。
+* Building on the country’s electric vehicle industry, Chinese companies are making robot parts at a scale and price point others can’t match.
+* 以中国的电动汽车行业为基础，中国公司正在以其他公司无法比拟的规模和价格制造机器人零件。
+* South​ Korea​’s regulatory investigation of Coupang, an e-commerce giant incorporated in the United States, has led to diplomatic tension between Seoul and Washington.
+* 韩国对在美国注册成立的电子商务巨头Coupang的监管调查导致首尔和华盛顿之间的外交紧张局势。
+* What’s a “silicon-collar”? South Korea’s chip industry has been supercharged by the advent of the A.I. age, inspiring a host of new phrases.
+* 什么是“硅领” ？人工智能时代的到来激励了韩国的芯片行业，激发了许多新的短语。
+* Six months in, many teens are already back on platforms they were supposed to be blocked from. The ban’s benefits may fall to the next generation.
+* 六个月后，许多青少年已经回到了本应被屏蔽的平台上。禁令的好处可能会落到下一代身上。
+* The victim is an outspoken critic of Indonesia’s powerful military, and military prosecutors took over the case despite his objections.
+* 受害人是对印度尼西亚强大军队的直言不讳的批评者，尽管他反对，军事检察官还是接管了这起案件。
+* More than 5 percent of the species is estimated to have been lost when a climate-fueled storm unleashed torrents of water, mud and debris.
+* 据估计，当气候风暴引发水、泥浆和碎片洪流时，超过5%的物种已经消失。
 * The 25 charges include manslaughter and conspiracy. They are the first to emerge from a monthslong investigation into a blaze that killed 168 people.
-* 这25项指控包括过失杀人和共谋罪。这是历时数月对造成168人死亡的火灾进行调查后，首批公布的指控。
+* 25项指控包括过失杀人罪和共谋罪。他们是第一个对造成168人死亡的大火进行为期一个月的调查的人。
 * President Trump’s warming with Xi Jinping of China, a leader he admires, has ignited anxieties in Washington and across Asia.
-* 特朗普总统与他所钦佩的中国领导人习近平关系升温，引发了华盛顿和整个亚洲的焦虑情绪。
-* The measures aim to “disrupt the flows of finance” supporting attacks on Palestinians in the West Bank, said the British government, which coordinated them with France and other nations.
-* 与法国和其他国家协调的英国政府表示，这些措施旨在“破坏资金流动” ，以支持对约旦河西岸巴勒斯坦人的袭击。
-* Families hope to recover their loved ones after the most powerful earthquake in 50 years to hit the Philippines.
-* 在菲律宾发生50年来最强烈的地震后，家人希望能够找回他们的亲人。
-* Eileen Wang pleaded guilty to acting as a foreign agent. But what could Beijing want from the mayor of a small California city known as the “Chinese Beverly Hills”?
-* 王爱琳承认自己是外国间谍。但是，北京能从一个被称为“中国比佛利山庄”的加利福尼亚小城市的市长那里得到什么呢？
-* On social media, Chinese entrepreneurs are touting cheap labor across the border, as trade between the two countries regains momentum.
-* 随着两国贸易恢复势头，中国企业家在社交媒体上兜售跨境廉价劳动力。
-* On a rare visit to North Korea, China’s leader, Xi Jinping, projected unity but also sought to remind Kim Jong-un that he is the senior partner in their alliance.
-* 在对朝鲜的罕见访问中，中国领导人习近平表示团结一致，但也试图提醒金正恩，他是他们联盟的高级合作伙伴。
-* The Iran war is pushing countries to prioritize domestic energy in order to protect themselves from volatile oil and natural gas markets.
-* 伊朗战争正在推动各国优先考虑国内能源，以保护自己免受动荡的石油和天然气市场的影响。
-* Every season brings a new struggle for people in Dadu District, Pakistan, an area prone to sandstorms, drought and flooding.
-* 巴基斯坦大渡区是一个容易发生沙尘暴、干旱和洪水的地区，每个季节都会给该地区的人们带来新的挣扎。
-* He used the pandemic to ruthlessly tighten his grip on the country. Then he energized its economy by leveraging Russia’s war in Ukraine.
-* 他利用疫情无情地收紧了对国家的控制。然后，他利用俄罗斯在乌克兰的战争为其经济注入了活力。
+* 特朗普总统与他所钦佩的中国领导人习近平的关系升温，引发了华盛顿和整个亚洲的焦虑。
 
