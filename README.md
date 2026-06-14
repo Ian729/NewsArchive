@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The war has produced regime change, but Iran’s new leaders are more willing to take risks and believe they have already absorbed the worst that America and Israel can deliver.
-* 这场战争导致了政权更迭，但伊朗的新领导人更愿意冒险，并相信他们已经吸收了美国和以色列所能提供的最糟糕的情况。
+* Israel’s military said it attacked the southern outskirts of Beirut, the Lebanese capital, after accusing Hezbollah, the Iran-backed armed group, of violating a cease-fire.
+* 以色列军方表示，在指责伊朗支持的武装组织真主党违反停火协议后，它袭击了黎巴嫩首都贝鲁特的南部郊区。
+* The referendum was about limiting migration after the number of residents rose by more than a quarter since 2000, but it was framed around affordability and sustainability.
+* 自2000年以来，居民人数增加了四分之一以上，此次公投旨在限制移民，但公投的框架是负担能力和可持续性。
+* Britain’s defense ministry said it was the first time that British forces had acted alone to stop a ship in the fleet, a collection of vessels that Russia uses to move fuel and evade sanctions.
+* 英国国防部表示，这是英国军队首次单独采取行动阻止舰队中的一艘船，这是俄罗斯用来运输燃料和逃避制裁的一系列船只。
+* Group of 7 meetings once embodied the effort to sustain the global diplomatic order. This year’s gathering, starting on Monday, symbolizes its fragmentation.
+* 七国集团会议曾经体现了维持全球外交秩序的努力。今年的聚会从周一开始，象征着它的支离破碎。
+* Russia and the United States projected their own centralized views onto Ukraine and Iran, analysts said. As a result, the smaller countries trapped larger ones in a costly confrontation.
+* 分析师表示，俄罗斯和美国将自己的集中观点投射到乌克兰和伊朗。结果，较小的国家陷入了代价高昂的对抗中。
+* Competing for the first time, Curaçao is brimming with joy. Most of the Caribbean nation’s team was born and raised in the Netherlands, but residents say the players represent them.
+* 库拉索岛首次参加比赛，充满了欢乐。这个加勒比国家的大部分球队在荷兰出生和长大，但居民说球员代表他们。
+* Japan’s legislature is drafting a plan to allow the imperial family to adopt distant male relatives. But some in Japan would prefer a female emperor.
+* 日本立法机构正在起草一项计划，允许皇室领养远房男性亲属。但日本的一些人更喜欢女天皇。
+* After becoming allies to disastrous effect in the 1940s, Berlin and Tokyo are finding new reasons to team up — including rebuilding their militaries.
+* 在20世纪40年代成为灾难性影响的盟友后，柏林和东京正在寻找新的合作理由，包括重建军队。
+* Iran’s new, more militaristic leaders have already survived the worst that America and Israel can deliver, and seem readier to take risks.
+* 伊朗新的、更具军国主义色彩的领导人已经度过了美国和以色列所能提供的最糟糕的时期，并且似乎更愿意承担风险。
 * Ukraine is running out of American-made Patriot air-defense interceptors, and is pleading for more.
 * 乌克兰正在耗尽美国制造的爱国者防空拦截器，并恳求更多。
-* No longer content with being just “Hollywood North,” the Canadian screen industry is asserting itself and telling its own stories.
-* 加拿大银幕行业不再满足于仅仅是“好莱坞北部” ，而是在宣称自己并讲述自己的故事。
-* The prime minister of Pakistan, a key intermediary between the U.S. and Iran, said a deal was “likely expected.” Officials on each side have also expressed optimism, but it still could be derailed.
-* 美国和伊朗之间的关键中间人巴基斯坦总理表示，达成协议“很可能是预期的”。“双方官员也表示乐观，但仍有可能脱轨。
-* A strike this week in Venezuela killed a gang leader known as Niño Guerrero who was wanted in the United States, officials in both countries said.
-* 两国官员表示，本周在委内瑞拉发生的罢工杀死了一名被称为尼诺·格雷罗（ Niño Guerrero ）的帮派头目，他在美国被通缉。
-* Bu Ri lost a leg to a mine in Myanmar decades ago. More recently, six other members of his family have suffered a similar fate or worse, in a sign of the devastation wreaked by civil war.
-* 几十年前， Bu Ri在缅甸的一个矿井中失去了一条腿。最近，他家族的其他六名成员也遭受了类似或更糟糕的命运，这标志着内战造成的破坏。
-* After years of dampened enthusiasm about the World Cup, Brazilians are excited about their national team again — and they’re showing it by painting the streets.
-* 经过多年对世界杯的热情低落，巴西人再次对他们的国家队感到兴奋—他们通过粉刷街道来展示它。
-* One of the world’s richest countries is about to hold a referendum on a measure that would curb migration and most likely the economy. It is being sold in warm tones.
-* 世界上最富裕的国家之一即将就一项遏制移民和最有可能遏制经济的措施举行公投。它以温暖的色调出售。
-* Aid agencies are racing to help health workers in the Democratic Republic of Congo. The virus is known to have killed at least 140 people, but the true toll may be far higher.
-* 援助机构正在竞相帮助刚果民主共和国的卫生工作者。已知该病毒已造成至少140人死亡，但真正的死亡人数可能要高得多。
-* The plan, outlined by officials and in a written document, provides rare clarity about the extent to which the Trump administration intends to reduce its commitment to NATO.
-* 该计划由官员在一份书面文件中概述，罕见地明确了特朗普政府打算在多大程度上减少对北约的承诺。
 
 ## New York Times United States News
-* At a moment when even the prospects of dialogue seem far-fetched, movements to redraw state lines to link like-minded regions, or even to secede from the union, are gaining strength.
-* 在即使对话的前景似乎也牵强附会的时刻，重新划定州界以连接志同道合的地区，甚至脱离联盟的运动正在获得力量。
-* For years, narcotics detectives in Hialeah, Fla., handed out real cocaine in sting operations, often losing track of the drugs. A judge excoriated the practice in a recent ruling.
-* 多年来，佛罗里达州海厄利亚的毒品侦探在叮咬行动中分发了真正的可卡因，经常失去对毒品的追踪。一名法官在最近的一项裁决中谴责了这种做法。
-* A review of polling data shows an extraordinary swing among white working-class voters on the president’s handling of the economy.
-* 民意调查数据显示，白人工人阶级选民对总统处理经济的方式产生了非同寻常的波动。
-* From his post in New Delhi, Mr. Gor has become a force in U.S. foreign policy, chasing business deals and stunning diplomats by reversing a long-planned embassy building project.
-* 在新德里任职期间，戈尔已经成为美国外交政策中的一支力量，通过扭转长期规划的大使馆建设项目，追求商业交易并让外交官惊叹不已。
-* Fans, many draped in flags and colorful costumes, arrived at SoFi Stadium hours before the United States began its campaign against Paraguay.
-* 许多球迷披着旗帜和五颜六色的服装，在美国开始对抗巴拉圭的运动前几小时抵达SoFi体育场。
-* Severe weather conditions caused the collapse during an outdoor service and concert Friday night.
-* 恶劣的天气条件导致周五晚上户外服务和音乐会期间倒塌。
-* A campus group the university banned after accusations of antisemitic behavior failed to prove it had its First Amendment rights violated, the court ruled.
-* 法院裁定，在反犹太主义行为的指控未能证明其第一修正案权利受到侵犯后，该大学禁止了一个校园团体。
-* John D. Rockefeller, the Gilded Age oil baron, became America’s first billionaire in 1916. Like Elon Musk’s ascension, the milestone made headlines.
-* 镀金时代的石油大亨约翰· D ·洛克菲勒（ John D. Rockefeller ）于1916年成为美国第一位亿万富翁。就像埃隆·马斯克（ Elon Musk ）的晋升一样，这一里程碑成为头条新闻。
-* The ruling accused the Trump administration of engaging in censorship by taking down materials at parks across the country.
-* 该裁决指责特朗普政府通过在全国各地的公园取走材料来进行审查。
-* The response came after a federal judge rebuked officials for failing to immediately comply with the order he issued last week.
-* 联邦法官谴责官员未能立即遵守他上周发布的命令。
+* Presidential historians say the U.F.C. event, which was estimated to cost more than $60 million, is unprecedented.
+* 总统历史学家表示，估计耗资超过6000万美元的UFC活动是前所未有的。
+* Even for a president known for imposing his own reality on every situation, Mr. Trump has not outrun scrutiny over his age.
+* 即使对于一位以将自己的现实强加于每一种情况而闻名的总统来说，特朗普也没有超越他这个年龄的审查。
+* Four candidates running in a historically Black district risk dividing the Black vote and losing to Ms. Wasserman Schultz, who is white.
+* 在历史悠久的黑人选区竞选的四名候选人冒着分裂黑人选票的风险，输给了白人Wasserman Schultz女士。
+* Kevin O’Leary of “Shark Tank” fame hopes to build a sprawling data center on the parched shores of the Great Salt Lake. It has become a burning issue in Utah’s looming primaries.
+* “Shark Tank”的Kevin O’Leary希望在大盐湖干涸的海岸上建立一个庞大的数据中心。这已经成为犹他州迫在眉睫的初选中的一个紧迫问题。
+* In the age of A.I., Hany Farid is struggling to prove what’s real before the internet decides for itself.
+* 在人工智能时代，汉尼·法里德（ Hany Farid ）正在努力在互联网自行决定之前证明什么是真实的。
+* Some universities’ tax returns showed that their legal bills had more than doubled. Others reported that their spending on lobbying had risen at least fivefold.
+* 一些大学的纳税申报表显示，他们的法定账单增加了一倍以上。其他人报告说，他们在游说方面的支出至少增长了五倍。
+* Mr. Trump backed Mr. Collins over Derek Dooley, a former football coach who is supported by Gov. Brian Kemp, a Republican whose relationship with the president is strained.
+* 特朗普支持柯林斯而不是前足球教练德里克·杜利（ Derek Dooley ） ，后者得到了共和党州长布莱恩·坎普（ Brian Kemp ）的支持，后者与总统的关系紧张。
+* The election for mayor of Frisco, Texas, became a referendum on diversity and a test of anti-Muslim messaging in a general election contest.
+* 德克萨斯州弗里斯科市市长的选举成为关于多样性的公投，也是对大选竞选中反穆斯林信息的考验。
+* The administration’s surprise restrictions Friday cut off foreign access to Anthropic’s latest models and sparked another round of finger pointing.
+* 政府周五出人意料的限制切断了外国人对Anthropic最新车型的访问，并引发了另一轮指责。
+* James M. McDonald, a veteran former federal prosecutor and regulator, has more recently been part of President Trump’s legal team, appealing his criminal conviction.
+* 詹姆斯· M ·麦克唐纳（ James M. McDonald ）是一名资深的前联邦检察官和监管机构，最近加入了特朗普总统的法律团队，对他的刑事定罪提出上诉。
 
 ## New York Times Asia News
+* Japan’s legislature is drafting a plan to allow the imperial family to adopt distant male relatives. But some in Japan would prefer a female emperor.
+* 日本立法机构正在起草一项计划，允许皇室领养远房男性亲属。但日本的一些人更喜欢女天皇。
+* After becoming allies to disastrous effect in the 1940s, Berlin and Tokyo are finding new reasons to team up — including rebuilding their militaries.
+* 在20世纪40年代成为灾难性影响的盟友后，柏林和东京正在寻找新的合作理由，包括重建军队。
 * From his post in New Delhi, Mr. Gor has become a force in U.S. foreign policy, chasing business deals and stunning diplomats by reversing a long-planned embassy building project.
 * 在新德里任职期间，戈尔已经成为美国外交政策中的一支力量，通过扭转长期规划的大使馆建设项目，追求商业交易并让外交官惊叹不已。
 * Bu Ri lost a leg to a mine in Myanmar decades ago. More recently, six other members of his family have suffered a similar fate or worse, in a sign of the devastation wreaked by civil war.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 一家法院裁定，被弹劾的前总统Yoon Suk Yeol试图煽动不稳定，以证明他在2024年竞选独裁统治的合理性。
 * The arrest of U Min Zin, who did graduate studies at U.C. Berkeley and directs a research group on Myanmar, took place soon after President Trump met with Xi Jinping in China.
 * U Min Zin是在特朗普总统与习近平在中国会晤后不久被捕的，他曾在加州大学伯克利分校攻读研究生，并领导了一个缅甸问题研究小组。
-* Ever since she collapsed in a park three and a half years ago, speculation has swirled in Thailand about who could become the next monarch.
-* 自从三年半前她在一个公园倒塌以来，关于谁可能成为下一任君主的猜测在泰国沸沸扬扬。
-* SpaceX will not raise money from investors in China and Hong Kong. Others firms, like OpenAI, may follow suit.
-* SpaceX不会从中国大陆和香港的投资者那里筹集资金。其他公司，如OpenAI ，可能会效仿。
 
