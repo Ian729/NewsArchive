@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Israel’s military said it attacked the southern outskirts of Beirut, the Lebanese capital, after accusing Hezbollah, the Iran-backed armed group, of violating a cease-fire.
-* 以色列军方表示，在指责伊朗支持的武装组织真主党违反停火协议后，它袭击了黎巴嫩首都贝鲁特的南部郊区。
-* The referendum was about limiting migration after the number of residents rose by more than a quarter since 2000, but it was framed around affordability and sustainability.
-* 自2000年以来，居民人数增加了四分之一以上，此次公投旨在限制移民，但公投的框架是负担能力和可持续性。
-* Britain’s defense ministry said it was the first time that British forces had acted alone to stop a ship in the fleet, a collection of vessels that Russia uses to move fuel and evade sanctions.
-* 英国国防部表示，这是英国军队首次单独采取行动阻止舰队中的一艘船，这是俄罗斯用来运输燃料和逃避制裁的一系列船只。
-* Group of 7 meetings once embodied the effort to sustain the global diplomatic order. This year’s gathering, starting on Monday, symbolizes its fragmentation.
-* 七国集团会议曾经体现了维持全球外交秩序的努力。今年的聚会从周一开始，象征着它的支离破碎。
-* Russia and the United States projected their own centralized views onto Ukraine and Iran, analysts said. As a result, the smaller countries trapped larger ones in a costly confrontation.
-* 分析师表示，俄罗斯和美国将自己的集中观点投射到乌克兰和伊朗。结果，较小的国家陷入了代价高昂的对抗中。
-* Competing for the first time, Curaçao is brimming with joy. Most of the Caribbean nation’s team was born and raised in the Netherlands, but residents say the players represent them.
-* 库拉索岛首次参加比赛，充满了欢乐。这个加勒比国家的大部分球队在荷兰出生和长大，但居民说球员代表他们。
-* Japan’s legislature is drafting a plan to allow the imperial family to adopt distant male relatives. But some in Japan would prefer a female emperor.
-* 日本立法机构正在起草一项计划，允许皇室领养远房男性亲属。但日本的一些人更喜欢女天皇。
-* After becoming allies to disastrous effect in the 1940s, Berlin and Tokyo are finding new reasons to team up — including rebuilding their militaries.
-* 在20世纪40年代成为灾难性影响的盟友后，柏林和东京正在寻找新的合作理由，包括重建军队。
-* Iran’s new, more militaristic leaders have already survived the worst that America and Israel can deliver, and seem readier to take risks.
-* 伊朗新的、更具军国主义色彩的领导人已经度过了美国和以色列所能提供的最糟糕的时期，并且似乎更愿意承担风险。
-* Ukraine is running out of American-made Patriot air-defense interceptors, and is pleading for more.
-* 乌克兰正在耗尽美国制造的爱国者防空拦截器，并恳求更多。
+* The United States and Iran reached a preliminary deal that was expected to open the Strait of Hormuz. But they deferred major disagreements, including the future of Iran’s nuclear program, to further talks.
+* 美国和伊朗达成了初步协议，预计将开放霍尔木兹海峡。但他们将包括伊朗核计划未来在内的重大分歧推迟到进一步谈判。
+* A bishop reported that many holy items had been recovered from the church, at the site of the Perchersk monastery, a revered place for the Ukrainian and Russian Orthodox faiths.
+* 一位主教报告说，在佩尔切尔斯克修道院所在地从教堂收回了许多圣物，该修道院是乌克兰和俄罗斯东正教信仰的受人尊敬的地方。
+* Prime Minister Keir Starmer said his government planned to bar children under 16 from social media, following policies in Australia and elsewhere.
+* 澳大利亚总理凯尔·斯塔默（ Keir Starmer ）表示，根据澳大利亚和其他地方的政策，他的政府计划禁止16岁以下儿童使用社交媒体。
+* Ten years after a landmark peace deal, armed groups are wreaking deadly violence, blending jungle combat with new drone warfare.
+* 在一项具有里程碑意义的和平协议达成十年后，武装团体正在制造致命的暴力事件，将丛林战斗与新的无人机战争融为一体。
+* Even though negotiations will begin for Ukraine to join the bloc, the path ahead is a long one.
+* 尽管乌克兰加入欧盟的谈判将开始，但前面的道路是漫长的。
+* A society once strongly Roman Catholic has rejected the church’s prohibition on euthanasia, with many instead viewing control over one’s death as an individual right.
+* 一个曾经强烈奉行罗马天主教的社会拒绝了教会对安乐死的禁令，许多人反而将控制自己的死亡视为一项个人权利。
+* The decision overturned a lower-court ruling that had found that banning Palestine Action as a terrorist group had breached free speech rights.
+* 该决定推翻了下级法院的一项裁决，该裁决认为禁止巴勒斯坦行动组织作为恐怖组织侵犯了言论自由权。
+* Britain said it would ban social media access for children under 16 starting in 2027, joining several other countries introducing similar measures.
+* 英国表示，将从2027年开始禁止16岁以下儿童使用社交媒体，并与其他几个国家一起推出类似措施。
+* Marius Borg Hoiby was sentenced to four years in prison. He stood trial as his mother came under pressure over her ties to Jeffrey Epstein.
+* Marius Borg Hoiby被判处四年监禁。当他的母亲因与杰弗里·爱泼斯坦（ Jeffrey Epstein ）的关系而受到压力时，他受到了审判。
+* Interceptors show Ukraine’s embrace of autonomous technologies trained on immense troves of wartime data.
+* 拦截器显示，乌克兰接受了在大量战时数据上训练的自主技术。
 
 ## New York Times United States News
-* Presidential historians say the U.F.C. event, which was estimated to cost more than $60 million, is unprecedented.
-* 总统历史学家表示，估计耗资超过6000万美元的UFC活动是前所未有的。
-* Even for a president known for imposing his own reality on every situation, Mr. Trump has not outrun scrutiny over his age.
-* 即使对于一位以将自己的现实强加于每一种情况而闻名的总统来说，特朗普也没有超越他这个年龄的审查。
-* Four candidates running in a historically Black district risk dividing the Black vote and losing to Ms. Wasserman Schultz, who is white.
-* 在历史悠久的黑人选区竞选的四名候选人冒着分裂黑人选票的风险，输给了白人Wasserman Schultz女士。
-* Kevin O’Leary of “Shark Tank” fame hopes to build a sprawling data center on the parched shores of the Great Salt Lake. It has become a burning issue in Utah’s looming primaries.
-* “Shark Tank”的Kevin O’Leary希望在大盐湖干涸的海岸上建立一个庞大的数据中心。这已经成为犹他州迫在眉睫的初选中的一个紧迫问题。
-* In the age of A.I., Hany Farid is struggling to prove what’s real before the internet decides for itself.
-* 在人工智能时代，汉尼·法里德（ Hany Farid ）正在努力在互联网自行决定之前证明什么是真实的。
-* Some universities’ tax returns showed that their legal bills had more than doubled. Others reported that their spending on lobbying had risen at least fivefold.
-* 一些大学的纳税申报表显示，他们的法定账单增加了一倍以上。其他人报告说，他们在游说方面的支出至少增长了五倍。
-* Mr. Trump backed Mr. Collins over Derek Dooley, a former football coach who is supported by Gov. Brian Kemp, a Republican whose relationship with the president is strained.
-* 特朗普支持柯林斯而不是前足球教练德里克·杜利（ Derek Dooley ） ，后者得到了共和党州长布莱恩·坎普（ Brian Kemp ）的支持，后者与总统的关系紧张。
-* The election for mayor of Frisco, Texas, became a referendum on diversity and a test of anti-Muslim messaging in a general election contest.
-* 德克萨斯州弗里斯科市市长的选举成为关于多样性的公投，也是对大选竞选中反穆斯林信息的考验。
-* The administration’s surprise restrictions Friday cut off foreign access to Anthropic’s latest models and sparked another round of finger pointing.
-* 政府周五出人意料的限制切断了外国人对Anthropic最新车型的访问，并引发了另一轮指责。
-* James M. McDonald, a veteran former federal prosecutor and regulator, has more recently been part of President Trump’s legal team, appealing his criminal conviction.
-* 詹姆斯· M ·麦克唐纳（ James M. McDonald ）是一名资深的前联邦检察官和监管机构，最近加入了特朗普总统的法律团队，对他的刑事定罪提出上诉。
+* The Justice Department in April agreed to pay Mr. Page, a former adviser to President Trump’s 2016 campaign, $1.25 million to settle other claims.
+* 今年4月，司法部同意向特朗普总统2016年竞选活动的前顾问佩奇支付125万美元，以解决其他索赔。
+* President Trump has long been at odds with European leaders over trade, Ukraine and NATO, but he has lashed out in recent weeks over their refusal to support the U.S. war with Iran.
+* 特朗普总统长期以来一直与欧洲领导人在贸易、乌克兰和北约问题上存在分歧，但最近几周，他猛烈抨击他们拒绝支持美国与伊朗的战争。
+* Representative Barry Moore, an early backer of the president during his first campaign, faces Jared Hudson, a former Navy SEAL tapping into the excitement for outsiders.
+* 众议员巴里·摩尔（ Barry Moore ）是总统在第一次竞选期间的早期支持者，他面对的是前海豹突击队员贾里德·哈德森（ Jared Hudson ） ，他正在利用外界的兴奋。
+* Secret memos show that the White House debated last year, to a greater degree than previously known, whether to limit habeas corpus rights for undocumented immigrants.
+* 秘密备忘录显示，白宫去年就是否限制无证移民的人身保护权展开了辩论，辩论的程度超过了此前所知的程度。
+* Tuesday’s runoff for a slot on the Alabama Public Service Commission has a familiar ring to it, with talk of data centers and electricity costs. But in a southern twist, solar power has joined the list of villains.
+* 周二在阿拉巴马州公共服务委员会（ Alabama Public Service Commission ）的一个位置上的决赛有一个熟悉的环节，谈论数据中心和电力成本。但是，在南方的转变中，太阳能已经加入了恶棍名单。
+* A gunman believed he was defending the crowd, then killed an innocent protester. The legal case is complicated.
+* 一名枪手认为他是在保卫人群，然后杀死了一名无辜的抗议者。法律案件很复杂。
+* People from all over the country came to Washington on Sunday for a unique viewing party of the Ultimate Fighting Championship bouts being held on the South Lawn of the White House.
+* 周日，来自全国各地的人们来到华盛顿，参加在白宫南草坪举行的终极格斗锦标赛的独特观看派对。
+* Some Republicans saw a political opening in Sunday’s fights at the White House. Democrats said they saw a distraction from more pressing matters.
+* 一些共和党人在周日在白宫的战斗中看到了政治开放。民主党人表示，他们看到了对更紧迫问题的分心。
+* Shasta County voters had approved a ballot measure that would have heavily restricted voting by mail and imposed photo ID requirements. State officials said the new rules were illegal.
+* 沙斯塔县选民批准了一项投票措施，该措施将严格限制邮寄投票，并规定了带照片的身份证件要求。州政府官员表示，新规定是非法的。
+* In a call to The New York Times, President Trump praised Russia’s and China’s leaders and described Israel’s prime minister as “a very difficult guy.”
+* 在致电《纽约时报》时，特朗普总统赞扬了俄罗斯和中国的领导人，并将以色列总理描述为“一个非常困难的人”。
 
 ## New York Times Asia News
+* Britain said it would ban social media access for children under 16 starting in 2027, joining several other countries introducing similar measures.
+* 英国表示，将从2027年开始禁止16岁以下儿童使用社交媒体，并与其他几个国家一起推出类似措施。
+* China is the world’s largest purchaser of oil. But three months after the war with Iran began, it cut its imports, cushioning the global market.
+* 中国是世界上最大的石油购买国。但在与伊朗的战争开始三个月后，它削减了进口，缓冲了全球市场。
+* This Central Asian country is gaining traction with young travelers seeking beauty, authenticity and low prices. Was it worth the 12-hour flight?
+* 这个中亚国家正在吸引追求美丽、真实和低价的年轻旅行者。12小时的飞行值得吗？
+* For months, Asia has suffered a physical supply crunch that will likely drag on its economies long after the crucial waterway reopens.
+* 几个月来，亚洲遭受了实物供应紧缩，这可能会在关键水道重新开放后很长一段时间内拖累其经济。
 * Japan’s legislature is drafting a plan to allow the imperial family to adopt distant male relatives. But some in Japan would prefer a female emperor.
 * 日本立法机构正在起草一项计划，允许皇室领养远房男性亲属。但日本的一些人更喜欢女天皇。
 * After becoming allies to disastrous effect in the 1940s, Berlin and Tokyo are finding new reasons to team up — including rebuilding their militaries.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 联合国表示，它对数十名妇女被捕“深感关切” ，并报告说，有两人在为支持她们而组织的抗议中丧生。
 * Grieving relatives returned to Ahmedabad to honor the 260 lives lost in the June 2025 disaster, but investigators have not yet released a report into the cause.
 * 悲痛欲绝的亲属返回艾哈迈达巴德，以纪念在2025年6月灾难中丧生的260人，但调查人员尚未发布有关此事的报告。
-* The use of anime imagery online by President Trump and his administration has strained diplomatic ties with Japan and drawn criticism from creators and fans.
-* 特朗普总统及其政府在网上使用动漫图像导致与日本的外交关系紧张，并招致创作者和粉丝的批评。
-* The amount of oil and fuel stored by businesses and governments has fallen sharply since the start of the U.S.-Israeli war against Iran.
-* 自美以战争开始以来，企业和政府储存的石油和燃料数量急剧下降。
-* A court ruled that Yoon Suk Yeol, the impeached former president, had sought to stir up instability to justify his bid for authoritarian rule in 2024.
-* 一家法院裁定，被弹劾的前总统Yoon Suk Yeol试图煽动不稳定，以证明他在2024年竞选独裁统治的合理性。
-* The arrest of U Min Zin, who did graduate studies at U.C. Berkeley and directs a research group on Myanmar, took place soon after President Trump met with Xi Jinping in China.
-* U Min Zin是在特朗普总统与习近平在中国会晤后不久被捕的，他曾在加州大学伯克利分校攻读研究生，并领导了一个缅甸问题研究小组。
 
