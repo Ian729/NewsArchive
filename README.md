@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The United States and Iran reached a preliminary deal that was expected to open the Strait of Hormuz. But they deferred major disagreements, including the future of Iran’s nuclear program, to further talks.
-* 美国和伊朗达成了初步协议，预计将开放霍尔木兹海峡。但他们将包括伊朗核计划未来在内的重大分歧推迟到进一步谈判。
+* Iran’s foreign minister said that new negotiations with the United States would start immediately after their preliminary deal is signed on Friday. President Trump said he hoped the conflict would soon be in the “rearview mirror.”
+* 伊朗外交部长表示，与美国的新谈判将在周五签署初步协议后立即开始。特朗普总统表示，他希望冲突很快会出现在“后视镜”中。
+* After the United States reached a preliminary deal with Iran, the mood seemed lighter than had been expected. But President Trump’s remarks highlighted persistent divisions among the allies.
+* 在美国与伊朗达成初步协议后，气氛似乎比预期的要轻。但特朗普总统的言论凸显了盟国之间的持续分歧。
+* The U.S. Navy will be deploying a new generation of drone-based countermeasures to search the sea floor and surface for any mines Iran laid.
+* 美国海军将部署新一代无人机对策，在海底和海面上搜寻伊朗埋设的任何地雷。
+* In a country where the housing market is squeezed, decommissioned electrical substations are in demand as refurbished residences.
+* 在一个住房市场受到挤压的国家，退役变电站作为翻新住宅的需求量很大。
+* Despite mutual praise between the two leaders, there has been a series of setbacks to U.S. relations with India since they last met more than a year ago.
+* 尽管两国领导人相互赞扬，但自一年多前上次会晤以来，美国与印度的关系出现了一系列挫折。
+* For months, a coalition led by Britain and France has been preparing to send minesweepers and other ships to secure the strait once the fighting ends. That moment may finally be here.
+* 几个月来，一个由英国和法国领导的联盟一直在准备派遣扫雷舰和其他船只在战斗结束后保护海峡。那一刻或许终于到来了。
+* At its first game in Los Angeles, the men’s national team drew spectators who weren’t coming for the soccer, but rather to protest the regime in Tehran.
+* 在洛杉矶的第一场比赛中，男子国家队吸引了观众，他们不是为了足球而来，而是为了抗议德黑兰的政权。
+* Despite military setbacks during the war, Tehran is presenting a narrative of victory before negotiations with Washington.
+* 尽管在战争期间遭受了军事挫折，但德黑兰在与华盛顿谈判之前提出了胜利的叙述。
+* After nearly a year of wrangling, the deal the European Union struck with President Trump in Turnberry, Scotland, is headed for final approval.
+* 经过近一年的争论，欧盟与特朗普总统在苏格兰特恩伯里达成的协议即将获得最终批准。
 * A bishop reported that many holy items had been recovered from the church, at the site of the Perchersk monastery, a revered place for the Ukrainian and Russian Orthodox faiths.
 * 一位主教报告说，在佩尔切尔斯克修道院所在地从教堂收回了许多圣物，该修道院是乌克兰和俄罗斯东正教信仰的受人尊敬的地方。
-* Prime Minister Keir Starmer said his government planned to bar children under 16 from social media, following policies in Australia and elsewhere.
-* 澳大利亚总理凯尔·斯塔默（ Keir Starmer ）表示，根据澳大利亚和其他地方的政策，他的政府计划禁止16岁以下儿童使用社交媒体。
-* Ten years after a landmark peace deal, armed groups are wreaking deadly violence, blending jungle combat with new drone warfare.
-* 在一项具有里程碑意义的和平协议达成十年后，武装团体正在制造致命的暴力事件，将丛林战斗与新的无人机战争融为一体。
-* Even though negotiations will begin for Ukraine to join the bloc, the path ahead is a long one.
-* 尽管乌克兰加入欧盟的谈判将开始，但前面的道路是漫长的。
-* A society once strongly Roman Catholic has rejected the church’s prohibition on euthanasia, with many instead viewing control over one’s death as an individual right.
-* 一个曾经强烈奉行罗马天主教的社会拒绝了教会对安乐死的禁令，许多人反而将控制自己的死亡视为一项个人权利。
-* The decision overturned a lower-court ruling that had found that banning Palestine Action as a terrorist group had breached free speech rights.
-* 该决定推翻了下级法院的一项裁决，该裁决认为禁止巴勒斯坦行动组织作为恐怖组织侵犯了言论自由权。
-* Britain said it would ban social media access for children under 16 starting in 2027, joining several other countries introducing similar measures.
-* 英国表示，将从2027年开始禁止16岁以下儿童使用社交媒体，并与其他几个国家一起推出类似措施。
-* Marius Borg Hoiby was sentenced to four years in prison. He stood trial as his mother came under pressure over her ties to Jeffrey Epstein.
-* Marius Borg Hoiby被判处四年监禁。当他的母亲因与杰弗里·爱泼斯坦（ Jeffrey Epstein ）的关系而受到压力时，他受到了审判。
-* Interceptors show Ukraine’s embrace of autonomous technologies trained on immense troves of wartime data.
-* 拦截器显示，乌克兰接受了在大量战时数据上训练的自主技术。
 
 ## New York Times United States News
-* The Justice Department in April agreed to pay Mr. Page, a former adviser to President Trump’s 2016 campaign, $1.25 million to settle other claims.
-* 今年4月，司法部同意向特朗普总统2016年竞选活动的前顾问佩奇支付125万美元，以解决其他索赔。
-* President Trump has long been at odds with European leaders over trade, Ukraine and NATO, but he has lashed out in recent weeks over their refusal to support the U.S. war with Iran.
-* 特朗普总统长期以来一直与欧洲领导人在贸易、乌克兰和北约问题上存在分歧，但最近几周，他猛烈抨击他们拒绝支持美国与伊朗的战争。
-* Representative Barry Moore, an early backer of the president during his first campaign, faces Jared Hudson, a former Navy SEAL tapping into the excitement for outsiders.
-* 众议员巴里·摩尔（ Barry Moore ）是总统在第一次竞选期间的早期支持者，他面对的是前海豹突击队员贾里德·哈德森（ Jared Hudson ） ，他正在利用外界的兴奋。
-* Secret memos show that the White House debated last year, to a greater degree than previously known, whether to limit habeas corpus rights for undocumented immigrants.
-* 秘密备忘录显示，白宫去年就是否限制无证移民的人身保护权展开了辩论，辩论的程度超过了此前所知的程度。
-* Tuesday’s runoff for a slot on the Alabama Public Service Commission has a familiar ring to it, with talk of data centers and electricity costs. But in a southern twist, solar power has joined the list of villains.
-* 周二在阿拉巴马州公共服务委员会（ Alabama Public Service Commission ）的一个位置上的决赛有一个熟悉的环节，谈论数据中心和电力成本。但是，在南方的转变中，太阳能已经加入了恶棍名单。
-* A gunman believed he was defending the crowd, then killed an innocent protester. The legal case is complicated.
-* 一名枪手认为他是在保卫人群，然后杀死了一名无辜的抗议者。法律案件很复杂。
-* People from all over the country came to Washington on Sunday for a unique viewing party of the Ultimate Fighting Championship bouts being held on the South Lawn of the White House.
-* 周日，来自全国各地的人们来到华盛顿，参加在白宫南草坪举行的终极格斗锦标赛的独特观看派对。
-* Some Republicans saw a political opening in Sunday’s fights at the White House. Democrats said they saw a distraction from more pressing matters.
-* 一些共和党人在周日在白宫的战斗中看到了政治开放。民主党人表示，他们看到了对更紧迫问题的分心。
-* Shasta County voters had approved a ballot measure that would have heavily restricted voting by mail and imposed photo ID requirements. State officials said the new rules were illegal.
-* 沙斯塔县选民批准了一项投票措施，该措施将严格限制邮寄投票，并规定了带照片的身份证件要求。州政府官员表示，新规定是非法的。
-* In a call to The New York Times, President Trump praised Russia’s and China’s leaders and described Israel’s prime minister as “a very difficult guy.”
-* 在致电《纽约时报》时，特朗普总统赞扬了俄罗斯和中国的领导人，并将以色列总理描述为“一个非常困难的人”。
+* The vice president is promoting his book about faith and facing questions about his political ambitions and the war with Iran.
+* 这位副总统正在宣传他的关于信仰的书，并面临着关于他的政治野心和与伊朗的战争的问题。
+* In a new memoir, Mr. Vance recalls an “unsettling” meeting with Vatican officials on immigration policy and disavows his infamous disparagement of some Democrats as “childless cat ladies.”
+* 在一本新回忆录中，万斯回忆起与梵蒂冈官员就移民政策举行的“令人不安”的会议，并否认他对一些民主党人的臭名昭著的贬低是“没有孩子的猫女士”。
+* The top race of the day is in Georgia, where Republican voters will pick a nominee to challenge Senator Jon Ossoff, a Democrat.
+* 当天的最高竞选是在佐治亚州，共和党选民将选择一名候选人来挑战民主党参议员乔恩·奥索夫（ Jon Ossoff ）。
+* The New York Times has obtained writings by Jeffrey Epstein from his time in jail that have never been made public and has spoken with his fellow inmates to understand his state of mind in the weeks before his death. Steve Eder, an investigative reporter, explains.
+* 《纽约时报》获得了杰弗里·爱泼斯坦（ Jeffrey Epstein ）在狱中从未公开的著作，并与其他囚犯交谈，以了解他去世前几周的心态。调查记者Steve Eder解释说。
+* A sprawling influence campaign to promote a risky drug called kratom has gained allies among top Trump administration officials. Our investigative reporter Kenneth P. Vogel explains.
+* 一项旨在推广一种名为kratom的高风险药物的庞大影响力运动在特朗普政府高级官员中赢得了盟友。我们的调查记者Kenneth P. Vogel解释说。
+* Andrew Lewis, 39, best known for performing in the halftime show of a Super Bowl, was killed in the accident.
+* 39岁的安德鲁·刘易斯（ Andrew Lewis ）以参加超级碗半场表演而闻名，他在事故中丧生。
+* A rift in Montana between the Democratic nominee and an independent candidate could boost Republican hopes of holding on to an open seat in conservative territory.
+* 蒙大拿州民主党候选人和独立候选人之间的分歧可能会增加共和党在保守派领土上保持开放席位的希望。
+* South Florida was under a severe heat advisory as fans arrived in the hours before kickoff. Scattered thunderstorms are also in the forecast.
+* 南佛罗里达州受到严重的高温警告，因为球迷在开球前几个小时到达。零星的雷暴也在预测中。
+* Gas prices and other goods could remain elevated for months, adding to the political challenge facing the White House in the midterm elections.
+* 天然气价格和其他商品可能会在数月内保持高位，这加剧了白宫在中期选举中面临的政治挑战。
+* The Peach State, as well as Alabama, will offer new tests of Trump’s influence.
+* 桃子州和阿拉巴马州将对特朗普的影响力进行新的测试。
 
 ## New York Times Asia News
+* Here’s a look back at times when international conflicts seeped into soccer’s biggest tournament.
+* 以下是国际冲突渗透到足球最大比赛中的时代。
+* Despite mutual praise between the two leaders, there has been a series of setbacks to U.S. relations with India since they last met more than a year ago.
+* 尽管两国领导人相互赞扬，但自一年多前上次会晤以来，美国与印度的关系出现了一系列挫折。
+* Going against Prime Minister Takaichi’s wishes, Japan’s central bank acted amid U.S. pressure, a tanking currency and inflation from energy disruptions.
+* 日本央行违背首相高市的意愿，在美国施压、货币贬值和能源中断导致通货膨胀的情况下采取行动。
+* The unexpected decline in retail sales underscored China’s growing reliance on exports to sustain economic growth as domestic demand continues to falter.
+* 零售销售意外下滑凸显出，随着国内需求持续疲软，中国越来越依赖出口来维持经济增长。
 * Britain said it would ban social media access for children under 16 starting in 2027, joining several other countries introducing similar measures.
 * 英国表示，将从2027年开始禁止16岁以下儿童使用社交媒体，并与其他几个国家一起推出类似措施。
 * China is the world’s largest purchaser of oil. But three months after the war with Iran began, it cut its imports, cushioning the global market.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 日本立法机构正在起草一项计划，允许皇室领养远房男性亲属。但日本的一些人更喜欢女天皇。
 * After becoming allies to disastrous effect in the 1940s, Berlin and Tokyo are finding new reasons to team up — including rebuilding their militaries.
 * 在20世纪40年代成为灾难性影响的盟友后，柏林和东京正在寻找新的合作理由，包括重建军队。
-* From his post in New Delhi, Mr. Gor has become a force in U.S. foreign policy, chasing business deals and stunning diplomats by reversing a long-planned embassy building project.
-* 在新德里任职期间，戈尔已经成为美国外交政策中的一支力量，通过扭转长期规划的大使馆建设项目，追求商业交易并让外交官惊叹不已。
-* Bu Ri lost a leg to a mine in Myanmar decades ago. More recently, six other members of his family have suffered a similar fate or worse, in a sign of the devastation wreaked by civil war.
-* 几十年前， Bu Ri在缅甸的一个矿井中失去了一条腿。最近，他家族的其他六名成员也遭受了类似或更糟糕的命运，这标志着内战造成的破坏。
-* The United Nations said it was “deeply concerned” about the arrests of dozens of women, and reported that two people were killed in protests organized to support them.
-* 联合国表示，它对数十名妇女被捕“深感关切” ，并报告说，有两人在为支持她们而组织的抗议中丧生。
-* Grieving relatives returned to Ahmedabad to honor the 260 lives lost in the June 2025 disaster, but investigators have not yet released a report into the cause.
-* 悲痛欲绝的亲属返回艾哈迈达巴德，以纪念在2025年6月灾难中丧生的260人，但调查人员尚未发布有关此事的报告。
 
