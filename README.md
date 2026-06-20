@@ -2,53 +2,57 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Israel and Hezbollah have traded strikes in recent days. The Israeli military said it had targeted militants overnight after four of its soldiers were killed in southern Lebanon.
-* 最近几天，以色列和真主党进行了罢工。以色列军方表示，在其四名士兵在黎巴嫩南部被杀后，它一夜之间将武装分子作为目标。
-* Prime Minister Keir Starmer of Britain said he would not “walk away” from any leadership contest after a top rival in his party, Andy Burnham, decisively won a parliamentary seat.
-* 英国首相凯尔·斯塔默（ Keir Starmer ）表示，在他的政党最高竞争对手安迪·伯纳姆（ Andy Burnham ）果断赢得议会席位后，他不会“放弃”任何领导力竞赛。
+* The Israeli military said it had exchanged fire with Hezbollah overnight, hours after a new cease-fire came into effect. Clashes in Lebanon derailed U.S.-Iran peace talks planned for Friday.
+* 以色列军方表示，在新的停火协议生效数小时后，他们与真主党在夜间交火。黎巴嫩的冲突使原定于周五举行的美伊和平谈判脱轨。
+* The governing Labour Party may oust Prime Minister Keir Starmer in favor of the more popular Andy Burnham — who will still face all the same challenges.
+* 执政的工党可能会推翻总理基尔·斯塔默（ Keir Starmer ） ，转而支持更受欢迎的安迪·伯纳姆（ Andy Burnham ） ，后者仍将面临同样的挑战。
+* A South Korean island is reviving a long‑forgotten episode involving a French whaler as a wine festival, in an effort to stay relevant.
+* 一个韩国岛屿正在将一段被遗忘已久的法国捕鲸者作为葡萄酒节复活，以保持相关性。
+* The U.S. envoy to Paris has emerged as the embodiment of combative diplomacy in the age of President Trump, riling the French establishment notably with his accusations of antisemitism.
+* 美国驻巴黎特使已经成为特朗普总统时代好斗外交的化身，激怒了法国当局，特别是他对反犹太主义的指控。
+* President Trump’s interim agreement with Iran raises hopes for the calming of the world economy. But it leaves many details for future negotiations, putting the world on edge.
+* 特朗普总统与伊朗的临时协议为世界经济的平静带来了希望。但它为未来的谈判留下了许多细节，使世界处于边缘。
+* Cape Verde’s veteran goalkeeper, Vozinha, is keeping the archipelago nation’s hopes outsized after his performance against soccer giant Spain.
+* 佛得角的资深守门员沃齐尼亚在对阵足球巨头西班牙的比赛中表现出色，这让这个群岛国家的希望始终渺茫。
+* Iván Cepeda was caught off guard by a right-wing outsider and anti-leftist anger. He tells The Times he is not giving up.
+* 伊万·塞佩达（ Iván Cepeda ）被右翼局外人和反左翼的愤怒措手不及。他告诉《泰晤士报》，他没有放弃。
+* President Trump endorsed Abelardo De La Espriella, the conservative presidential candidate in Sunday’s election who has strong U.S. ties.
+* 特朗普总统支持阿贝拉尔多·德拉埃斯普列拉（ Abelardo De La Espriella ） ，他是周日选举中的保守派总统候选人，与美国关系密切。
 * The drone attack that sent plumes of smoke rising over Moscow intensified Ukrainian hopes of bringing the war to Russia.
 * 无人机袭击在莫斯科上空冒出浓烟，加剧了乌克兰将战争带入俄罗斯的希望。
-* Politicians and officials in Mexico are using the country’s laws to intimidate critics and the media, forcing them into censorship and blunting scrutiny.
-* 墨西哥的政治家和官员正在利用该国的法律来恐吓批评者和媒体，迫使他们进行审查并削弱审查。
-* Ukrainian drone attacks have achieved breakthroughs, but only ballistic missiles can push Russia to reconsider its war objectives, military experts and officials say.
-* 军事专家和官员表示，乌克兰无人机袭击已经取得了突破，但只有弹道导弹才能推动俄罗斯重新考虑其战争目标。
-* While Mr. Burnham’s leadership ambitions are clear, Prime Minister Keir Starmer has stated that he would fight any challenge.
-* 虽然伯纳姆先生的领导野心很明确，但总理凯尔·斯塔默（ Keir Starmer ）表示，他将应对任何挑战。
-* The central bank leader Elvira S. Nabiullina reappeared during a news conference after a gap that highlighted deep tensions in the country’s political and economic elite.
-* 中央银行行长埃尔维拉· S ·纳比乌利纳（ Elvira S. Nabiullina ）在突显该国政治和经济精英深刻紧张局势的缺口后，在新闻发布会上再次出现。
-* The announcement raised immediate questions over the fate of the agreement President Trump signed this week, with key details left to be worked out.
-* 这一宣布立即引发了对特朗普总统本周签署的协议的命运的质疑，关键细节仍有待确定。
-* Charismatic, northern and exuding a relaxed optimism, Mr. Burnham is a contrast to Keir Starmer. His allies hope he could mend Labour’s relationship with voters.
-* Burnham先生富有魅力，北方人，散发着轻松的乐观情绪，与Keir Starmer形成鲜明对比。他的盟友希望他能修复工党与选民的关系。
-* The high school philosophy exam is a rite of passage for French students. This year included questions about Friedrich Nietzsche’s 1878 book, “Human, All Too Human.”
-* 高中哲学考试是法国学生的通过仪式。今年包括有关弗里德里希·尼采（ Friedrich Nietzsche ） 1878年出版的《人性，太人性》（ Human, All Too Human
+* At least one person was killed and dozens of others were injured in the crash near Bedford, England, the authorities said.
+* 当局表示，在英格兰贝德福德附近的坠机事故中，至少有一人死亡，数十人受伤。
 
 ## New York Times United States News
-* The human toll and economic costs mounted rapidly after the United States and Israel attacked Iran on Feb. 28.
-* 在美国和以色列于2月28日袭击伊朗后，人员伤亡和经济损失迅速增加。
-* The bond between the two communities was on show at a packed Koreatown watch party for the match between South Korea and Mexico on Thursday.
-* 周四，在韩国和墨西哥之间的比赛中，两族之间的纽带在一个拥挤的韩国城观看派对上展出。
-* Thousands of Scottish soccer fans have been spotted across the city. The locals are charmed.
-* 在整个城市发现了成千上万的苏格兰足球迷。当地人很迷人。
-* Republicans and Democrats alike are casting doubt on a push for the largest military budget in history as the administration declines to disclose the cost of the war with Iran.
-* 共和党和民主党都对推动历史上最大规模的军事预算表示怀疑，因为政府拒绝透露与伊朗的战争成本。
-* Outcry over plans to build a large data center next to the zoo has energized support for new restrictions in Nashville.
-* 对在动物园旁边建造大型数据中心的计划的强烈抗议，激发了对纳什维尔新限制的支持。
-* The U.V. Okies have dominated a competition with other senior living facilities for six seasons, but they’re not just there to win.
-* U.V. Okies在与其他高级生活设施的比赛中占据了六个赛季的主导地位，但他们不仅仅是为了赢得比赛。
-* Mr. Charles, a conservative Republican, had led the field ahead of a ranked-choice runoff. But Ms. Pingree, a former Maine House speaker, had been in a tight race with other Democrats.
-* 保守的共和党人查尔斯先生在排名决选之前领导了这一领域。但前缅因州众议院议长平格里一直与其他民主党人竞争激烈。
-* Matt Dunlap defeated a candidate backed by the House Democratic campaign arm and is set to face former Gov. Paul LePage, a Republican, in a competitive general election.
-* 马特·邓拉普（ Matt Dunlap ）击败了众议院民主党竞选部门支持的候选人，并将在竞争性大选中面对前州长、共和党人保罗·勒佩奇（ Paul LePage ）。
-* Judith Sheldon, 84, daughter of an Oscar-winning director, and her husband, Wylie, 86, were traveling to Oregon on a hot day. Their deaths are under investigation.
-* 84岁的朱迪思·谢尔顿（ Judith Sheldon ）是奥斯卡获奖导演的女儿，她和86岁的丈夫怀利（ Wylie ）在炎热的一天前往俄勒冈州。他们的死亡正在调查中。
-* Mr. Vance said earlier at a press briefing that he did not know if he would travel to Switzerland on Friday for the talks, where he was initially expected for a signing ceremony.
-* 万斯先生早些时候在新闻发布会上说，他不知道他是否会在周五前往瑞士参加会谈，最初预计他将在那里举行签字仪式。
+* Alienated by Secretary Robert F. Kennedy Jr.’s claims about autism, advocates for disabled students are sounding the alarm about the Trump administration's shifting special education programs to his department.
+* 由于被小罗伯特· F ·肯尼迪（ Robert F. Kennedy Jr. ）部长关于自闭症的说法疏远，残疾学生的倡导者正在对特朗普政府将特殊教育计划转移到他的部门发出警报。
+* JoAnna Mendoza, a Democrat challenging Representative Juan Ciscomani in a tossup district, is leaning into her painful and unique life story to appeal to voters.
+* 乔安娜·门多萨（ JoAnna Mendoza ）是一名民主党人，她在托苏普区挑战众议员胡安·西斯科马尼（ Juan Ciscomani ） ，她正在倾向于她痛苦而独特的生活故事，以吸引选民。
+* The Trump administration is trying to seize the land around Mount Cristo Rey, a sacred site of Catholic pilgrimages, in order to build a border wall on it. The Times reporter Reis Thebault takes us up the mountain to see the 30-foot statue of Jesus at the top, and the border wall below.
+* 特朗普政府正试图夺取天主教朝圣圣地克里斯托雷伊山周围的土地，以便在其上建造边界墙。《泰晤士报》记者Reis Thebault带我们上山，在山顶看到30英尺高的耶稣雕像，在下面看到边界墙。
+* The killing of the dog last Saturday sparked an international outcry and prompted questions about the use of force by police officers.
+* 上周六杀害这只狗引发了国际社会的强烈抗议，并引发了有关警察使用武力的问题。
+* Secretary of State Marco Rubio said Beto Coral’s criticism of a presidential candidate in his home country of Colombia undermined U.S. foreign policy.
+* 国务卿马可·卢比奥（ Marco Rubio ）表示，贝托·珊瑚（ Beto Coral ）在其祖国哥伦比亚对总统候选人的批评破坏了美国的外交政策。
+* Seattle has become a leading American soccer city with successful professional franchises and a devoted fan base.
+* 西雅图已成为美国领先的足球城市，拥有成功的专业球队和忠实的球迷基础。
+* The arts center says it pulled President Trump’s name from the building front. But the result remains hidden by tarps, prompting questions and speculation.
+* 艺术中心说，它从建筑物前面拉出了特朗普总统的名字。但结果仍然被防水布所掩盖，引发了质疑和猜测。
+* President Trump showed off the new red, white and blue Boeing 747, a gift from Qatar that prompted a storm of criticism from lawmakers, before a flyover on July 4.
+* 特朗普总统在7月4日的飞越之前展示了新的红色，白色和蓝色波音747 ，这是卡塔尔的礼物，引发了立法者的批评风暴。
+* As National Park Service crews try to clean the algae that turned the water bright green, another problem has developed: The “American flag blue” coating is coming off.
+* 当国家公园管理局的工作人员试图清洁使水变成明亮绿色的藻类时，另一个问题出现了： “美国国旗蓝”涂层正在脱落。
+* His best-selling book celebrated the servicemen in the stirring photograph of the U.S. flag-raising on Iwo Jima. One, it was long believed, was his father.
+* 他的畅销书在美国在硫磺岛升旗的激动人心的照片中庆祝了军人。人们一直相信，一个是他的父亲。
 
 ## New York Times Asia News
+* A lawsuit filed in California claims the automaker’s philanthropic arm stole technology intended to help poor farmers, but it is not clear to what end.
+* 在加利福尼亚州提起的诉讼称，这家汽车制造商的慈善机构窃取了旨在帮助贫困农民的技术，但目前尚不清楚究竟是什么目的。
+* A South Korean island is reviving a long‑forgotten episode involving a French whaler as a wine festival, in an effort to stay relevant.
+* 一个韩国岛屿正在将一段被遗忘已久的法国捕鲸者作为葡萄酒节复活，以保持相关性。
 * After months of shortages and uncertainty, India sees an opportunity to restore a once-crucial energy relationship.
 * 经过数月的短缺和不确定性，印度看到了恢复曾经至关重要的能源关系的机会。
-* The bond between the two communities was on show at a packed Koreatown watch party for the match between South Korea and Mexico on Thursday.
+* The bond between the two communities was on display at a packed Koreatown watch party for the match between South Korea and Mexico on Thursday.
 * 周四，在韩国和墨西哥之间的比赛中，两族之间的纽带在一个拥挤的韩国城观看派对上展出。
 * He spent nearly 14 years in U.S. custody and never had a day in court even as his deteriorating health drew scrutiny.
 * 他在美国被拘留了近14年，即使他的健康状况恶化受到审查，他也从未在法庭上度过一天。
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 严重依赖进口石油的东南亚房主和企业正在安装屋顶太阳能电池板，以减少能源成本飙升的刺痛。
 * A former monk who was also Uma Thurman’s father, he made sure Buddhism retained its intellectual and spiritual rigor as it spread through the West.
 * 他是一位前僧侣，也是Uma Thurman的父亲，他确保佛教在西方传播时保持其知识和精神的严谨性。
-* The Fair Trade Commission said that it suspected six leading ice cream manufacturers fixed the prices of popular frozen treats.
-* 公平贸易委员会表示，它怀疑六家领先的冰淇淋制造商固定了受欢迎的冷冻食品的价格。
-* Here’s a look back at times when international conflicts seeped into soccer’s biggest tournament.
-* 以下是国际冲突渗透到足球最大比赛中的时代。
 
