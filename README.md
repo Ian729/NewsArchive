@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The Israeli military said it had exchanged fire with Hezbollah overnight, hours after a new cease-fire came into effect. Clashes in Lebanon derailed U.S.-Iran peace talks planned for Friday.
-* 以色列军方表示，在新的停火协议生效数小时后，他们与真主党在夜间交火。黎巴嫩的冲突使原定于周五举行的美伊和平谈判脱轨。
+* An American delegation, led by Vice President JD Vance, was attending the talks along with Iranian negotiators. The conflict in Lebanon is complicating efforts to reach a broader peace and keep the Strait of Hormuz open.
+* 由副总统万斯率领的美国代表团与伊朗谈判代表一起参加了会谈。黎巴嫩的冲突使实现更广泛和平和保持霍尔木兹海峡开放的努力复杂化。
+* An ally of Keir Starmer’s told the BBC on Sunday that Mr. Starmer was “taking the time to think through what the political realities are today compared to last week.”
+* 凯尔·斯塔默(Keir Starmer)的一位盟友周日告诉英国广播公司(BBC) ，斯塔默“正在花时间思考与上周相比，今天的政治现实是什么”。
+* President Volodymyr Zelensky of Ukraine signed a decree honoring World War II partisan fighters that has inflamed tensions with Warsaw.
+* 乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）签署了一项法令，以表彰第二次世界大战的游击战士，这加剧了与华沙的紧张关系。
+* With secondary education and most jobs out of reach, thousands of Afghan women have turned to entrepreneurship as the only path to make money and maintain a social life.
+* 由于中等教育和大多数工作都遥不可及，成千上万的阿富汗妇女已将创业作为赚钱和维持社会生活的唯一途径。
+* Neither the war nor the agreement terminated the main threats emanating from Iran, many analysts said.
+* 许多分析人士表示，这场战争和该协议都没有终止来自伊朗的主要威胁。
+* Protests in Albania against plans for a luxury tourist site have become a cause célèbre for opponents of President Trump and his family. But the politics are local.
+* 阿尔巴尼亚针对豪华旅游景点计划的抗议活动已成为特朗普总统及其家人的反对者的一大原因。但政治是地方性的。
+* Colombia’s election on Sunday pits a right-wing candidate endorsed by President Trump against a candidate promising continuity with the country’s departing leftist president.
+* 哥伦比亚周日的选举使特朗普总统支持的右翼候选人与一位承诺与即将离任的左翼总统保持连续性的候选人陷入困境。
+* Begoña Gómez faces charges of embezzlement, corruption, misappropriation of funds and influence peddling for helping favored companies win public contracts.
+* Begoña Gómez因帮助受青睐的公司赢得公共合同而面临贪污、腐败、挪用资金和兜售影响力的指控。
+* The killing of the victim, a 14-year-old girl from Yonkers who was known for posting videos on TikTok, was premeditated, a court ruled.
+* 法院裁定，杀害受害者是一名来自扬克斯的14岁女孩，她因在TikTok上发布视频而闻名，这是有预谋的。
 * The governing Labour Party may oust Prime Minister Keir Starmer in favor of the more popular Andy Burnham — who will still face all the same challenges.
 * 执政的工党可能会推翻总理基尔·斯塔默（ Keir Starmer ） ，转而支持更受欢迎的安迪·伯纳姆（ Andy Burnham ） ，后者仍将面临同样的挑战。
-* A South Korean island is reviving a long‑forgotten episode involving a French whaler as a wine festival, in an effort to stay relevant.
-* 一个韩国岛屿正在将一段被遗忘已久的法国捕鲸者作为葡萄酒节复活，以保持相关性。
-* The U.S. envoy to Paris has emerged as the embodiment of combative diplomacy in the age of President Trump, riling the French establishment notably with his accusations of antisemitism.
-* 美国驻巴黎特使已经成为特朗普总统时代好斗外交的化身，激怒了法国当局，特别是他对反犹太主义的指控。
-* President Trump’s interim agreement with Iran raises hopes for the calming of the world economy. But it leaves many details for future negotiations, putting the world on edge.
-* 特朗普总统与伊朗的临时协议为世界经济的平静带来了希望。但它为未来的谈判留下了许多细节，使世界处于边缘。
-* Cape Verde’s veteran goalkeeper, Vozinha, is keeping the archipelago nation’s hopes outsized after his performance against soccer giant Spain.
-* 佛得角的资深守门员沃齐尼亚在对阵足球巨头西班牙的比赛中表现出色，这让这个群岛国家的希望始终渺茫。
-* Iván Cepeda was caught off guard by a right-wing outsider and anti-leftist anger. He tells The Times he is not giving up.
-* 伊万·塞佩达（ Iván Cepeda ）被右翼局外人和反左翼的愤怒措手不及。他告诉《泰晤士报》，他没有放弃。
-* President Trump endorsed Abelardo De La Espriella, the conservative presidential candidate in Sunday’s election who has strong U.S. ties.
-* 特朗普总统支持阿贝拉尔多·德拉埃斯普列拉（ Abelardo De La Espriella ） ，他是周日选举中的保守派总统候选人，与美国关系密切。
-* The drone attack that sent plumes of smoke rising over Moscow intensified Ukrainian hopes of bringing the war to Russia.
-* 无人机袭击在莫斯科上空冒出浓烟，加剧了乌克兰将战争带入俄罗斯的希望。
-* At least one person was killed and dozens of others were injured in the crash near Bedford, England, the authorities said.
-* 当局表示，在英格兰贝德福德附近的坠机事故中，至少有一人死亡，数十人受伤。
 
 ## New York Times United States News
-* Alienated by Secretary Robert F. Kennedy Jr.’s claims about autism, advocates for disabled students are sounding the alarm about the Trump administration's shifting special education programs to his department.
-* 由于被小罗伯特· F ·肯尼迪（ Robert F. Kennedy Jr. ）部长关于自闭症的说法疏远，残疾学生的倡导者正在对特朗普政府将特殊教育计划转移到他的部门发出警报。
-* JoAnna Mendoza, a Democrat challenging Representative Juan Ciscomani in a tossup district, is leaning into her painful and unique life story to appeal to voters.
-* 乔安娜·门多萨（ JoAnna Mendoza ）是一名民主党人，她在托苏普区挑战众议员胡安·西斯科马尼（ Juan Ciscomani ） ，她正在倾向于她痛苦而独特的生活故事，以吸引选民。
-* The Trump administration is trying to seize the land around Mount Cristo Rey, a sacred site of Catholic pilgrimages, in order to build a border wall on it. The Times reporter Reis Thebault takes us up the mountain to see the 30-foot statue of Jesus at the top, and the border wall below.
-* 特朗普政府正试图夺取天主教朝圣圣地克里斯托雷伊山周围的土地，以便在其上建造边界墙。《泰晤士报》记者Reis Thebault带我们上山，在山顶看到30英尺高的耶稣雕像，在下面看到边界墙。
-* The killing of the dog last Saturday sparked an international outcry and prompted questions about the use of force by police officers.
-* 上周六杀害这只狗引发了国际社会的强烈抗议，并引发了有关警察使用武力的问题。
-* Secretary of State Marco Rubio said Beto Coral’s criticism of a presidential candidate in his home country of Colombia undermined U.S. foreign policy.
-* 国务卿马可·卢比奥（ Marco Rubio ）表示，贝托·珊瑚（ Beto Coral ）在其祖国哥伦比亚对总统候选人的批评破坏了美国的外交政策。
-* Seattle has become a leading American soccer city with successful professional franchises and a devoted fan base.
-* 西雅图已成为美国领先的足球城市，拥有成功的专业球队和忠实的球迷基础。
-* The arts center says it pulled President Trump’s name from the building front. But the result remains hidden by tarps, prompting questions and speculation.
-* 艺术中心说，它从建筑物前面拉出了特朗普总统的名字。但结果仍然被防水布所掩盖，引发了质疑和猜测。
-* President Trump showed off the new red, white and blue Boeing 747, a gift from Qatar that prompted a storm of criticism from lawmakers, before a flyover on July 4.
-* 特朗普总统在7月4日的飞越之前展示了新的红色，白色和蓝色波音747 ，这是卡塔尔的礼物，引发了立法者的批评风暴。
-* As National Park Service crews try to clean the algae that turned the water bright green, another problem has developed: The “American flag blue” coating is coming off.
-* 当国家公园管理局的工作人员试图清洁使水变成明亮绿色的藻类时，另一个问题出现了： “美国国旗蓝”涂层正在脱落。
-* His best-selling book celebrated the servicemen in the stirring photograph of the U.S. flag-raising on Iwo Jima. One, it was long believed, was his father.
-* 他的畅销书在美国在硫磺岛升旗的激动人心的照片中庆祝了军人。人们一直相信，一个是他的父亲。
+* A Delta Air Lines flight aborted its landing to avoid another plane that was taking off from an intersecting runway, the agency said.
+* 该机构表示，达美航空公司的一架飞机中止了着陆，以避免另一架从交叉跑道起飞的飞机。
+* Neither the war nor the agreement terminated the main threats emanating from Iran, many analysts said.
+* 许多分析人士表示，这场战争和该协议都没有终止来自伊朗的主要威胁。
+* Democrats say the president started an economically painful war that resulted in nothing positive. Republicans are more divided, even as they show some signs of relief at falling gas prices.
+* 民主党人说，总统发动了一场经济上痛苦的战争，没有任何积极的结果。共和党人更加分裂，尽管他们对天然气价格下跌表现出一些缓解的迹象。
+* Carpets of sargassum now regularly invade South Florida’s coastline in June. The timing is unfortunate for visiting soccer fans hoping to sunbathe and swim.
+* 6月，马尾藻地毯经常侵入南佛罗里达州的海岸线。对于希望享受日光浴和游泳的足球迷来说，这是一个不幸的时机。
+* A possible referendum in Oregon on animal rights would end fishing, hunting, even pest control, just when Democrats are trying really hard not to be seen as “weirdos again.”
+* 俄勒冈州可能就动物权利举行公投，这将结束捕鱼，狩猎，甚至害虫控制，就在民主党人非常努力地不再被视为“怪人”的时候。
+* In a battle of symbols, the Catholics of Las Cruces, N.M., argue that religious freedom should stop the wall from scarring a mountain that has attracted pilgrims for nearly a century.
+* 在一场象征性的战斗中，新墨西哥州拉斯克鲁塞斯的天主教徒认为，宗教自由应该阻止这堵墙在近一个世纪以来吸引了朝圣者的山上留下疤痕。
+* Federal prosecutors had been examining the circumstances behind the commutation of David Gentile’s sentence. He was aided by a Catholic priest friendly with the president.
+* 联邦检察官一直在调查大卫·外邦人减刑背后的情况。他得到了一位与总统友好的天主教神父的帮助。
+* The Iron fire had burned more than 13,000 acres by Saturday night. Containment efforts have been made more difficult by the region’s steep terrain.
+* 到周六晚上，铁火已经烧毁了超过13,000英亩的土地。由于该地区地形陡峭，遏制工作变得更加困难。
+* The pool has taken on clouds of algae after a hasty renovation. A three-time Olympian was charged with destroying government property after he says he touched one of the strands of blue paint peeling off the pool’s bottom.
+* 经过匆忙的翻新后，泳池里出现了藻云。一名三次参加奥运会的奥运选手被指控破坏政府财产，因为他说他触摸了泳池底部剥落的一条蓝色油漆。
+* The fire began in a cold-storage facility in the Boyle Heights neighborhood and was still burning on Saturday, prompting a local emergency declaration.
+* 火灾始于博伊尔高地附近的一个冷藏设施，周六仍在燃烧，促使当地宣布紧急状态。
 
 ## New York Times Asia News
+* The possible reopening of the Strait of Hormuz may not prompt China to return quickly to prewar levels of oil purchases from the Persian Gulf.
+* 霍尔木兹海峡可能重新开放可能不会促使中国迅速恢复从波斯湾购买石油的战前水平。
+* The killing of the victim, a 14-year-old girl from Yonkers who was known for posting videos on TikTok, was premeditated, a court ruled.
+* 法院裁定，杀害受害者是一名来自扬克斯的14岁女孩，她因在TikTok上发布视频而闻名，这是有预谋的。
+* With secondary education and most jobs out of reach, thousands of Afghan women have turned to entrepreneurship as the only path to make money and maintain a social life.
+* 由于中等教育和大多数工作都遥不可及，成千上万的阿富汗妇女已将创业作为赚钱和维持社会生活的唯一途径。
 * A lawsuit filed in California claims the automaker’s philanthropic arm stole technology intended to help poor farmers, but it is not clear to what end.
 * 在加利福尼亚州提起的诉讼称，这家汽车制造商的慈善机构窃取了旨在帮助贫困农民的技术，但目前尚不清楚究竟是什么目的。
 * A South Korean island is reviving a long‑forgotten episode involving a French whaler as a wine festival, in an effort to stay relevant.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 根据塔利班政府最高法院的书面命令，在工作中使用手机的人将看到他们被砸碎并面临惩罚。
 * Jet fuel may stay expensive for months, and airlines know travelers are willing to pay more for tickets.
 * 喷气燃料可能会持续数月，航空公司知道旅客愿意为机票支付更多费用。
-* President Lai Ching-te made the hopeful remarks after Mr. Trump suggested that he could use a proposed $14 billion arms package for Taiwan as leverage with Beijing.
-* 在特朗普建议他可以利用拟议的140亿美元台湾武器一揽子计划作为对北京的杠杆之后，赖庆德总统发表了充满希望的言论。
-* Homeowners and businesses in Southeast Asia, which relies heavily on imported oil, are installing rooftop solar panels to reduce the sting of soaring energy costs.
-* 严重依赖进口石油的东南亚房主和企业正在安装屋顶太阳能电池板，以减少能源成本飙升的刺痛。
-* A former monk who was also Uma Thurman’s father, he made sure Buddhism retained its intellectual and spiritual rigor as it spread through the West.
-* 他是一位前僧侣，也是Uma Thurman的父亲，他确保佛教在西方传播时保持其知识和精神的严谨性。
 
