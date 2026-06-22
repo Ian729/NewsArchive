@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* An American delegation, led by Vice President JD Vance, was attending the talks along with Iranian negotiators. The conflict in Lebanon is complicating efforts to reach a broader peace and keep the Strait of Hormuz open.
-* 由副总统万斯率领的美国代表团与伊朗谈判代表一起参加了会谈。黎巴嫩的冲突使实现更广泛和平和保持霍尔木兹海峡开放的努力复杂化。
-* An ally of Keir Starmer’s told the BBC on Sunday that Mr. Starmer was “taking the time to think through what the political realities are today compared to last week.”
-* 凯尔·斯塔默(Keir Starmer)的一位盟友周日告诉英国广播公司(BBC) ，斯塔默“正在花时间思考与上周相比，今天的政治现实是什么”。
-* President Volodymyr Zelensky of Ukraine signed a decree honoring World War II partisan fighters that has inflamed tensions with Warsaw.
-* 乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）签署了一项法令，以表彰第二次世界大战的游击战士，这加剧了与华沙的紧张关系。
-* With secondary education and most jobs out of reach, thousands of Afghan women have turned to entrepreneurship as the only path to make money and maintain a social life.
-* 由于中等教育和大多数工作都遥不可及，成千上万的阿富汗妇女已将创业作为赚钱和维持社会生活的唯一途径。
-* Neither the war nor the agreement terminated the main threats emanating from Iran, many analysts said.
-* 许多分析人士表示，这场战争和该协议都没有终止来自伊朗的主要威胁。
-* Protests in Albania against plans for a luxury tourist site have become a cause célèbre for opponents of President Trump and his family. But the politics are local.
-* 阿尔巴尼亚针对豪华旅游景点计划的抗议活动已成为特朗普总统及其家人的反对者的一大原因。但政治是地方性的。
-* Colombia’s election on Sunday pits a right-wing candidate endorsed by President Trump against a candidate promising continuity with the country’s departing leftist president.
-* 哥伦比亚周日的选举使特朗普总统支持的右翼候选人与一位承诺与即将离任的左翼总统保持连续性的候选人陷入困境。
-* Begoña Gómez faces charges of embezzlement, corruption, misappropriation of funds and influence peddling for helping favored companies win public contracts.
-* Begoña Gómez因帮助受青睐的公司赢得公共合同而面临贪污、腐败、挪用资金和兜售影响力的指控。
-* The killing of the victim, a 14-year-old girl from Yonkers who was known for posting videos on TikTok, was premeditated, a court ruled.
-* 法院裁定，杀害受害者是一名来自扬克斯的14岁女孩，她因在TikTok上发布视频而闻名，这是有预谋的。
-* The governing Labour Party may oust Prime Minister Keir Starmer in favor of the more popular Andy Burnham — who will still face all the same challenges.
-* 执政的工党可能会推翻总理基尔·斯塔默（ Keir Starmer ） ，转而支持更受欢迎的安迪·伯纳姆（ Andy Burnham ） ，后者仍将面临同样的挑战。
+* Prime Minister Keir Starmer stepped down as leader of the governing Labour Party. Andy Burnham, the party’s most popular politician, said he would seek the prime minister’s job and secured the support of a potential rival.
+* 总理基尔·斯塔默（ Keir Starmer ）辞去执政工党领袖一职。该党最受欢迎的政治家安迪·伯纳姆（ Andy Burnham ）表示，他将寻求总理的职位，并获得潜在竞争对手的支持。
+* If confirmed, the provisions would be in line with an Obama-era deal President Trump tore up in 2018. Vice President JD Vance hailed the latest round of talks as a “foundation” for lasting peace.
+* 如果得到确认，这些规定将符合奥巴马时代特朗普总统在2018年撕毁的协议。副总统万斯称赞最新一轮会谈是持久和平的“基础”。
+* The country’s already-struggling schools are ending the academic year early because of a crippling fuel shortage caused by the U.S. oil blockade.
+* 由于美国石油封锁造成的严重燃料短缺，该国本已苦苦挣扎的学校提前结束了学年。
+* While Kyiv’s fortunes have brightened in other ways in the war, Moscow’s forces are raining bombs and drones on “fortress belt” cities like Sloviansk and Kramatorsk.
+* 虽然基辅的命运在战争中的其他方面有所提升，但莫斯科的部队正在向斯洛维扬斯克和克拉马托尔斯克等“堡垒带”城市投掷炸弹和无人机。
+* The blast happened at a key site for natural gas production. The authorities blamed a technical malfunction while operations were being restarted after the U.S.-Israeli war against Iran.
+* 爆炸发生在一个天然气生产的关键地点。当局将美以战争后重启行动期间的技术故障归咎于此。
+* Three people were killed and seven wounded after two teenagers opened fire at their school in Tacloban City, the police said.
+* 警方称，两名青少年向塔克洛班市的学校开火，造成三人死亡，七人受伤。
+* Activists said more action was needed to solve the larger problem: Only 12 percent of Pakistani women and girls use safe, commercially made menstrual products.
+* 活动人士表示，需要采取更多行动来解决更大的问题：只有12%的巴基斯坦妇女和女孩使用安全的商业化月经产品。
+* Mediators reported progress toward reaching a final deal within 60 days. They also said that negotiators had dwelled on issues that were supposed to be settled.
+* 调解员报告了在60天内达成最终交易的进展情况。他们还说，谈判人员一直纠缠于本应解决的问题。
+* Elis James thinks he has a friend in common with just about everyone else in Wales. Don’t believe him? Give him 60 seconds to prove it.
+* Elis James认为他和威尔士的其他人都有一个共同的朋友。不相信他？给他60秒的时间来证明这一点。
+* All Starbucks stores in South Korea shut early on Monday because of a franchise-wide training instituted in the wake of a disastrous marketing campaign.
+* 由于在灾难性的营销活动之后开展了全系列特许经营培训，韩国所有星巴克商店周一早早关闭。
 
 ## New York Times United States News
-* A Delta Air Lines flight aborted its landing to avoid another plane that was taking off from an intersecting runway, the agency said.
-* 该机构表示，达美航空公司的一架飞机中止了着陆，以避免另一架从交叉跑道起飞的飞机。
-* Neither the war nor the agreement terminated the main threats emanating from Iran, many analysts said.
-* 许多分析人士表示，这场战争和该协议都没有终止来自伊朗的主要威胁。
-* Democrats say the president started an economically painful war that resulted in nothing positive. Republicans are more divided, even as they show some signs of relief at falling gas prices.
-* 民主党人说，总统发动了一场经济上痛苦的战争，没有任何积极的结果。共和党人更加分裂，尽管他们对天然气价格下跌表现出一些缓解的迹象。
-* Carpets of sargassum now regularly invade South Florida’s coastline in June. The timing is unfortunate for visiting soccer fans hoping to sunbathe and swim.
-* 6月，马尾藻地毯经常侵入南佛罗里达州的海岸线。对于希望享受日光浴和游泳的足球迷来说，这是一个不幸的时机。
-* A possible referendum in Oregon on animal rights would end fishing, hunting, even pest control, just when Democrats are trying really hard not to be seen as “weirdos again.”
-* 俄勒冈州可能就动物权利举行公投，这将结束捕鱼，狩猎，甚至害虫控制，就在民主党人非常努力地不再被视为“怪人”的时候。
-* In a battle of symbols, the Catholics of Las Cruces, N.M., argue that religious freedom should stop the wall from scarring a mountain that has attracted pilgrims for nearly a century.
-* 在一场象征性的战斗中，新墨西哥州拉斯克鲁塞斯的天主教徒认为，宗教自由应该阻止这堵墙在近一个世纪以来吸引了朝圣者的山上留下疤痕。
-* Federal prosecutors had been examining the circumstances behind the commutation of David Gentile’s sentence. He was aided by a Catholic priest friendly with the president.
-* 联邦检察官一直在调查大卫·外邦人减刑背后的情况。他得到了一位与总统友好的天主教神父的帮助。
-* The Iron fire had burned more than 13,000 acres by Saturday night. Containment efforts have been made more difficult by the region’s steep terrain.
-* 到周六晚上，铁火已经烧毁了超过13,000英亩的土地。由于该地区地形陡峭，遏制工作变得更加困难。
-* The pool has taken on clouds of algae after a hasty renovation. A three-time Olympian was charged with destroying government property after he says he touched one of the strands of blue paint peeling off the pool’s bottom.
-* 经过匆忙的翻新后，泳池里出现了藻云。一名三次参加奥运会的奥运选手被指控破坏政府财产，因为他说他触摸了泳池底部剥落的一条蓝色油漆。
-* The fire began in a cold-storage facility in the Boyle Heights neighborhood and was still burning on Saturday, prompting a local emergency declaration.
-* 火灾始于博伊尔高地附近的一个冷藏设施，周六仍在燃烧，促使当地宣布紧急状态。
+* Current and former officials say the acting director of national intelligence is planning to announce major cuts to his office as early as Monday.
+* 现任和前任官员表示，这位国家情报局代理局长计划最早在周一宣布大幅裁员。
+* Pedro Hernandez was convicted in 2017 of kidnapping and murdering the 6-year-old boy, but an appeals court in July had said Mr. Hernandez was entitled to a new trial.
+* 佩德罗·埃尔南德斯（ Pedro Hernandez ）于2017年因绑架和谋杀这名6岁男孩而被定罪，但7月上诉法院表示，埃尔南德斯有权接受新的审判。
+* The pre-eminent economic policymaker of his time and a skilled political operator, he favored market-friendly stances that would later come to be associated with destructive financial forces.
+* 作为当时杰出的经济决策者和熟练的政治操作者，他赞成市场友好的立场，这些立场后来会与破坏性的金融力量联系在一起。
+* There are no limits to the USMNT’s ambitions at this World Cup.
+* USMNT在本届世界杯上的雄心壮志是无限的。
+* Two national groups, including one backed by President Trump, have planned an array of activities to celebrate the country’s semiquincentennial. States are also hosting many events.
+* 包括特朗普总统支持的一个国家组织在内的两个国家组织已经计划了一系列庆祝国家成立半百周年的活动。各州还举办了许多活动。
+* Ben McAdams, a moderate former congressman, faces a handful of left-wing opponents in a rare opportunity for a Democrat to win in a Republican state.
+* 温和的前国会议员本·麦克亚当斯（ Ben McAdams ）面对少数左翼对手，这是民主党在共和党州获胜的难得机会。
+* Kim Smith, a city worker in Presque Isle, Maine, planned a year’s worth of festivities with a commitment that bordered on obsession. Her approach felt quintessentially American.
+* 缅因州普雷斯克岛（ Presque Isle ）的城市工作人员金·史密斯（ Kim Smith ）计划了为期一年的庆祝活动，其承诺近乎痴迷。她的做法让人感觉像是典型的美国风格。
+* Alberto Carvalho resigned Sunday, months after the F.B.I. raided his home and office. He came to Los Angeles from Miami with a reputation for raising student test scores but also made missteps.
+* 阿尔贝托·卡瓦略（ Alberto Carvalho ）在联邦调查局突袭他的住所和办公室几个月后于周日辞职。他从迈阿密来到洛杉矶，以提高学生考试成绩而闻名，但也犯了错误。
+* Dancing exuberantly in the bleachers and teaching the crowd Cape Verde chants.
+* 在露台上翩翩起舞，教人群唱佛得角歌曲。
+* By Sunday night, there had already been at least 13 reports of tornadic activity or damage, a meteorologist said.
+* 一位气象学家说，到周日晚上，已经有至少13起龙卷风活动或破坏的报告。
 
 ## New York Times Asia News
+* Activists said more action was needed to solve the larger problem: Only 12 percent of Pakistani women and girls use safe, commercially made menstrual products.
+* 活动人士表示，需要采取更多行动来解决更大的问题：只有12%的巴基斯坦妇女和女孩使用安全的商业化月经产品。
+* The move targets two U.S. manufacturers at the center of the Trump administration’s effort to rebuild the domestic supply chain for critical magnets.
+* 此举针对的是特朗普政府重建关键磁铁国内供应链的两家美国制造商。
+* Most people watching Curaçao play Ecuador focused on the Curaçaoan goalkeeper. For some fans in China, the draw was Ma Ning, the tournament’s highest-ranking Chinese referee.
+* 大多数观看库拉索岛比赛的人都把注意力集中在库拉索岛的守门员身上。对于中国的一些球迷来说，抽签是马宁，这是比赛中排名最高的中国裁判。
+* All Starbucks stores in South Korea shut early on Monday because of a franchise-wide training instituted in the wake of a disastrous marketing campaign.
+* 由于在灾难性的营销活动之后开展了全系列特许经营培训，韩国所有星巴克商店周一早早关闭。
+* A generic version of a breakthrough cystic fibrosis drug, manufactured in Bangladesh for a fraction of the American price, may give some families around the world an unlikely lifeline.
+* 一种突破性囊性纤维化药物的通用版本在孟加拉国生产，价格仅为美国价格的一小部分，可能会为世界各地的一些家庭提供不太可能的生命线。
+* Three people were killed and seven wounded after two teenagers opened fire at their school in Tacloban City, the police said.
+* 警方称，两名青少年向塔克洛班市的学校开火，造成三人死亡，七人受伤。
 * The possible reopening of the Strait of Hormuz may not prompt China to return quickly to prewar levels of oil purchases from the Persian Gulf.
 * 霍尔木兹海峡可能重新开放可能不会促使中国迅速恢复从波斯湾购买石油的战前水平。
 * The killing of the victim, a 14-year-old girl from Yonkers who was known for posting videos on TikTok, was premeditated, a court ruled.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 由于中等教育和大多数工作都遥不可及，成千上万的阿富汗妇女已将创业作为赚钱和维持社会生活的唯一途径。
 * A lawsuit filed in California claims the automaker’s philanthropic arm stole technology intended to help poor farmers, but it is not clear to what end.
 * 在加利福尼亚州提起的诉讼称，这家汽车制造商的慈善机构窃取了旨在帮助贫困农民的技术，但目前尚不清楚究竟是什么目的。
-* A South Korean island is reviving a long‑forgotten episode involving a French whaler as a wine festival, in an effort to stay relevant.
-* 一个韩国岛屿正在将一段被遗忘已久的法国捕鲸者作为葡萄酒节复活，以保持相关性。
-* After months of shortages and uncertainty, India sees an opportunity to restore a once-crucial energy relationship.
-* 经过数月的短缺和不确定性，印度看到了恢复曾经至关重要的能源关系的机会。
-* The bond between the two communities was on display at a packed Koreatown watch party for the match between South Korea and Mexico on Thursday.
-* 周四，在韩国和墨西哥之间的比赛中，两族之间的纽带在一个拥挤的韩国城观看派对上展出。
-* He spent nearly 14 years in U.S. custody and never had a day in court even as his deteriorating health drew scrutiny.
-* 他在美国被拘留了近14年，即使他的健康状况恶化受到审查，他也从未在法庭上度过一天。
-* Those using their phones at work will see them smashed and face punishment, according to a written order from the Taliban government’s highest court.
-* 根据塔利班政府最高法院的书面命令，在工作中使用手机的人将看到他们被砸碎并面临惩罚。
-* Jet fuel may stay expensive for months, and airlines know travelers are willing to pay more for tickets.
-* 喷气燃料可能会持续数月，航空公司知道旅客愿意为机票支付更多费用。
 
