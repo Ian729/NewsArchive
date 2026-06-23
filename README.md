@@ -2,52 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Prime Minister Keir Starmer stepped down as leader of the governing Labour Party. Andy Burnham, the party’s most popular politician, said he would seek the prime minister’s job and secured the support of a potential rival.
-* 总理基尔·斯塔默（ Keir Starmer ）辞去执政工党领袖一职。该党最受欢迎的政治家安迪·伯纳姆（ Andy Burnham ）表示，他将寻求总理的职位，并获得潜在竞争对手的支持。
-* If confirmed, the provisions would be in line with an Obama-era deal President Trump tore up in 2018. Vice President JD Vance hailed the latest round of talks as a “foundation” for lasting peace.
-* 如果得到确认，这些规定将符合奥巴马时代特朗普总统在2018年撕毁的协议。副总统万斯称赞最新一轮会谈是持久和平的“基础”。
+* Secretary General Mark Rutte is headed to Washington. His style has at times frustrated the very European leaders who need him to hold the alliance together.
+* 秘书长马克·吕特将前往华盛顿。他的风格有时会让那些需要他来维持联盟的欧洲领导人感到沮丧。
+* The likely successor to Prime Minister Keir Starmer will inherit the same challenges of economic stagnation and ascendant populism. Will a divided nation be prepared to give him time?
+* 基尔·斯塔默（ Keir Starmer ）总理的可能继任者将继承同样的经济停滞和民粹主义崛起的挑战。一个分裂的国家会愿意给他时间吗？
+* After Iran weaponized the waterway by making it too dangerous for businesses, experts say, the country is now looking to charge fees to vessels seeking to transit the vital water.
+* 专家表示，在伊朗将水道武器化，使其对企业来说过于危险之后，该国现在正寻求向寻求通过重要水源的船只收取费用。
+* French politicians, including those on the far right, are embracing a Jewish Resistance fighter murdered by the Gestapo in 1944.
+* 包括极右翼人士在内的法国政界人士正在拥抱一名犹太抵抗运动战士，该战士于1944年被盖世太保谋杀。
+* Ten years after Brexit, most seasonal workers in Britain are from countries such as Kyrgyzstan and Tajikistan. Without them, agricultural chiefs say, many farms would fail.
+* 英国脱欧十年后，大多数季节性工人来自吉尔吉斯斯坦和塔吉克斯坦等国家。农业酋长说，没有他们，许多农场就会倒闭。
+* President Trump says Venezuela, under U.S. oversight, has “never made the money” it is making now. But new oil revenue isn’t helping ordinary Venezuelans, and anger seems to be mounting.
+* 特朗普总统表示，委内瑞拉在美国的监督下“从未赚到钱”。但新的石油收入并没有帮助普通委内瑞拉人，愤怒似乎越来越大。
+* Parastoo Ahmadi and her band will also be barred from leaving the country or performing for two years, dampening hopes for a more moderate postwar regime in Iran.
+* Parastoo Ahmadi和她的乐队也将被禁止离开该国或在两年内表演，这削弱了对伊朗战后更温和政权的希望。
+* Jordan’s first qualification for the World Cup also means a World Cup berth for Palestinians, millions of whom live in the country.
+* 约旦首次参加世界杯的资格也意味着巴勒斯坦人的世界杯席位，其中数百万人生活在该国。
+* His departure in the coming weeks clears a path for Andy Burnham, a popular Labour Party mayor, to become the country’s seventh prime minister in a decade.
+* 他在未来几周的离职为工党市长安迪·伯纳姆（ Andy Burnham ）成为该国十年来的第七任总理扫清了道路。
 * The country’s already-struggling schools are ending the academic year early because of a crippling fuel shortage caused by the U.S. oil blockade.
 * 由于美国石油封锁造成的严重燃料短缺，该国本已苦苦挣扎的学校提前结束了学年。
-* While Kyiv’s fortunes have brightened in other ways in the war, Moscow’s forces are raining bombs and drones on “fortress belt” cities like Sloviansk and Kramatorsk.
-* 虽然基辅的命运在战争中的其他方面有所提升，但莫斯科的部队正在向斯洛维扬斯克和克拉马托尔斯克等“堡垒带”城市投掷炸弹和无人机。
-* The blast happened at a key site for natural gas production. The authorities blamed a technical malfunction while operations were being restarted after the U.S.-Israeli war against Iran.
-* 爆炸发生在一个天然气生产的关键地点。当局将美以战争后重启行动期间的技术故障归咎于此。
-* Three people were killed and seven wounded after two teenagers opened fire at their school in Tacloban City, the police said.
-* 警方称，两名青少年向塔克洛班市的学校开火，造成三人死亡，七人受伤。
-* Activists said more action was needed to solve the larger problem: Only 12 percent of Pakistani women and girls use safe, commercially made menstrual products.
-* 活动人士表示，需要采取更多行动来解决更大的问题：只有12%的巴基斯坦妇女和女孩使用安全的商业化月经产品。
-* Mediators reported progress toward reaching a final deal within 60 days. They also said that negotiators had dwelled on issues that were supposed to be settled.
-* 调解员报告了在60天内达成最终交易的进展情况。他们还说，谈判人员一直纠缠于本应解决的问题。
-* Elis James thinks he has a friend in common with just about everyone else in Wales. Don’t believe him? Give him 60 seconds to prove it.
-* Elis James认为他和威尔士的其他人都有一个共同的朋友。不相信他？给他60秒的时间来证明这一点。
-* All Starbucks stores in South Korea shut early on Monday because of a franchise-wide training instituted in the wake of a disastrous marketing campaign.
-* 由于在灾难性的营销活动之后开展了全系列特许经营培训，韩国所有星巴克商店周一早早关闭。
 
 ## New York Times United States News
-* Current and former officials say the acting director of national intelligence is planning to announce major cuts to his office as early as Monday.
-* 现任和前任官员表示，这位国家情报局代理局长计划最早在周一宣布大幅裁员。
-* Pedro Hernandez was convicted in 2017 of kidnapping and murdering the 6-year-old boy, but an appeals court in July had said Mr. Hernandez was entitled to a new trial.
-* 佩德罗·埃尔南德斯（ Pedro Hernandez ）于2017年因绑架和谋杀这名6岁男孩而被定罪，但7月上诉法院表示，埃尔南德斯有权接受新的审判。
-* The pre-eminent economic policymaker of his time and a skilled political operator, he favored market-friendly stances that would later come to be associated with destructive financial forces.
-* 作为当时杰出的经济决策者和熟练的政治操作者，他赞成市场友好的立场，这些立场后来会与破坏性的金融力量联系在一起。
-* There are no limits to the USMNT’s ambitions at this World Cup.
-* USMNT在本届世界杯上的雄心壮志是无限的。
-* Two national groups, including one backed by President Trump, have planned an array of activities to celebrate the country’s semiquincentennial. States are also hosting many events.
-* 包括特朗普总统支持的一个国家组织在内的两个国家组织已经计划了一系列庆祝国家成立半百周年的活动。各州还举办了许多活动。
-* Ben McAdams, a moderate former congressman, faces a handful of left-wing opponents in a rare opportunity for a Democrat to win in a Republican state.
-* 温和的前国会议员本·麦克亚当斯（ Ben McAdams ）面对少数左翼对手，这是民主党在共和党州获胜的难得机会。
-* Kim Smith, a city worker in Presque Isle, Maine, planned a year’s worth of festivities with a commitment that bordered on obsession. Her approach felt quintessentially American.
-* 缅因州普雷斯克岛（ Presque Isle ）的城市工作人员金·史密斯（ Kim Smith ）计划了为期一年的庆祝活动，其承诺近乎痴迷。她的做法让人感觉像是典型的美国风格。
-* Alberto Carvalho resigned Sunday, months after the F.B.I. raided his home and office. He came to Los Angeles from Miami with a reputation for raising student test scores but also made missteps.
-* 阿尔贝托·卡瓦略（ Alberto Carvalho ）在联邦调查局突袭他的住所和办公室几个月后于周日辞职。他从迈阿密来到洛杉矶，以提高学生考试成绩而闻名，但也犯了错误。
-* Dancing exuberantly in the bleachers and teaching the crowd Cape Verde chants.
-* 在露台上翩翩起舞，教人群唱佛得角歌曲。
-* By Sunday night, there had already been at least 13 reports of tornadic activity or damage, a meteorologist said.
-* 一位气象学家说，到周日晚上，已经有至少13起龙卷风活动或破坏的报告。
+* Over the next two weeks, the justices will release more than a dozen final opinions, including high-profile decisions on birthright citizenship, the Federal Reserve and transgender athletes.
+* 在接下来的两周内，法官们将发布十几项最终意见，包括关于出生公民权、美联储和变性运动员的高调决定。
+* The large bonuses tied to data center construction in Richland Parish, La., are unprecedented, but critics say it is not a panacea.
+* 与路易斯安那州里奇兰堂区数据中心建设相关的巨额奖金是前所未有的，但批评人士说，这不是灵丹妙药。
+* A gunman used a firearm inside the library while it was open, killing two and injuring another person before being taken into custody, the police said.
+* 警方称，一名枪手在图书馆开放时在图书馆内使用枪支，造成两人死亡，另一人受伤，然后被拘留。
+* Vice President JD Vance is in a politically precarious spot.
+* 副总裁JD Vance正处于政治不稳定的状态。
+* A federal judge ruled that the Agriculture Department lacked the authority to approve state waivers that restrict what SNAP participants can buy with their benefits.
+* 一名联邦法官裁定，农业部无权批准限制SNAP参与者可以购买福利的州豁免。
+* The ponchos came out as fans did what they could to stay dry. The France-Iraq match in Philadelphia endured a lengthy weather delay.
+* 当球迷们尽力保持干燥时，斗篷就出来了。费城的法国-伊拉克比赛经历了漫长的天气延误。
+* Two columns that held up the building’s pool deck began to fail several weeks before the 2021 collapse, according to a new federal report.
+* 根据一份新的联邦报告，在2021年倒塌前几周，支撑大楼泳池甲板的两根柱子开始倒塌。
+* The plume from the stubborn blaze in a cold-storage facility has dissipated, but people in the Boyle Heights neighborhood say they are in a toxic miasma.
+* 冷藏设施中顽固火焰的羽流已经消散，但博伊尔高地（ Boyle Heights ）社区的人们表示，他们正处于中毒哮喘状态。
+* President Trump said the blooms of green algae and the peeling polyurethane had nothing to do with the rushed $16.4 million makeover he had ordered.
+* 特朗普总统表示，绿藻和去皮聚氨酯的盛开与他下令进行的匆忙的$ 1640万改造无关。
+* Senator Susan Collins, a Republican, drew criticism from Planned Parenthood for voting to confirm Justice Brett Kavanaugh, who helped overturn Roe v. Wade.
+* 共和党参议员苏珊·柯林斯（ Susan Collins ）因投票支持大法官布雷特·卡瓦诺（ Brett Kavanaugh ）而受到计划生育协会（ Planned Parenthood ）的批评，后者帮助推翻了罗伊诉韦德
 
 ## New York Times Asia News
-* Activists said more action was needed to solve the larger problem: Only 12 percent of Pakistani women and girls use safe, commercially made menstrual products.
-* 活动人士表示，需要采取更多行动来解决更大的问题：只有12%的巴基斯坦妇女和女孩使用安全的商业化月经产品。
+* The hike, from around $18 to $93 for a single trip, will apply to visitors from countries including China, India and Vietnam, but not most Western travelers.
+* 此次加息将适用于来自中国、印度和越南等国家的游客，从单次旅行约18美元增加到93美元，但不适用于大多数西方游客。
+* Whether set amid vineyards in Burgundy or in the heart of Florence, these boutique hotels will keep the crowds at bay.
+* 无论是在勃艮第的葡萄园中，还是在佛罗伦萨市中心，这些精品酒店都能让人群远离喧嚣。
+* A blaze in a commercial building that housed a study center in a north Indian city killed at least a dozen people, most aged 16 to 18.
+* 印度北部城市一座学习中心所在的商业大楼发生火灾，造成至少12人死亡，其中大多数年龄在16至18岁之间。
+* The delegation received visas from Belgium to attend talks with the European Union about the deportation of Afghans. Officials in Afghanistan said the meeting would take place on Tuesday.
+* 代表团从比利时获得签证，参加与欧盟关于驱逐阿富汗人的会谈。阿富汗官员表示，会议将于周二举行。
+* In Pakistan, only 12 percent of women and girls use safe, commercially-made menstrual products. Activists hailed a government plan to cut a “period tax.”
+* 在巴基斯坦，只有12%的妇女和女孩使用安全的商业月经产品。活动人士对政府削减“期间税”的计划表示欢迎。
 * The move targets two U.S. manufacturers at the center of the Trump administration’s effort to rebuild the domestic supply chain for critical magnets.
 * 此举针对的是特朗普政府重建关键磁铁国内供应链的两家美国制造商。
 * Most people watching Curaçao play Ecuador focused on the Curaçaoan goalkeeper. For some fans in China, the draw was Ma Ning, the tournament’s highest-ranking Chinese referee.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 一种突破性囊性纤维化药物的通用版本在孟加拉国生产，价格仅为美国价格的一小部分，可能会为世界各地的一些家庭提供不太可能的生命线。
 * Three people were killed and seven wounded after two teenagers opened fire at their school in Tacloban City, the police said.
 * 警方称，两名青少年向塔克洛班市的学校开火，造成三人死亡，七人受伤。
-* The possible reopening of the Strait of Hormuz may not prompt China to return quickly to prewar levels of oil purchases from the Persian Gulf.
-* 霍尔木兹海峡可能重新开放可能不会促使中国迅速恢复从波斯湾购买石油的战前水平。
-* The killing of the victim, a 14-year-old girl from Yonkers who was known for posting videos on TikTok, was premeditated, a court ruled.
-* 法院裁定，杀害受害者是一名来自扬克斯的14岁女孩，她因在TikTok上发布视频而闻名，这是有预谋的。
-* With secondary education and most jobs out of reach, thousands of Afghan women have turned to entrepreneurship as the only path to make money and maintain a social life.
-* 由于中等教育和大多数工作都遥不可及，成千上万的阿富汗妇女已将创业作为赚钱和维持社会生活的唯一途径。
-* A lawsuit filed in California claims the automaker’s philanthropic arm stole technology intended to help poor farmers, but it is not clear to what end.
-* 在加利福尼亚州提起的诉讼称，这家汽车制造商的慈善机构窃取了旨在帮助贫困农民的技术，但目前尚不清楚究竟是什么目的。
 
