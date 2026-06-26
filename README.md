@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The 7.2- and 7.5-magnitude earthquakes left at least 164 dead and hundreds missing, the authorities said. The full scale of the damage was still becoming clear.
-* 当局表示， 7.2级和7.5级地震造成至少164人死亡，数百人失踪。损坏的全部规模仍在变得清晰。
-* A Spanish monitoring agency linked the extreme heat to an estimated rise in deaths since Sunday. Days of scorching temperatures are testing Europe’s ability to adapt to extreme weather.
-* 西班牙的一个监测机构将极端高温与周日以来估计的死亡人数增加联系起来。炎热的天气正在考验欧洲适应极端天气的能力。
-* South Sudan is the world’s newest nation and its education system is on the verge of collapse, putting an entire generation at risk.
-* 南苏丹是世界上最新的国家，其教育系统濒临崩溃，将整整一代人置于危险之中。
-* The Trump administration has demanded that Iraqi leaders distance themselves from Iran and rein in Iran-linked militias that are outside of government control.
-* 特朗普政府要求伊拉克领导人与伊朗保持距离，并遏制不受政府控制的与伊朗有关的民兵。
-* The king is expected to release tax information on Thursday as part of a push for greater transparency after the scandal involving the former Prince Andrew.
-* 预计国王将于周四公布税务信息，作为在涉及前安德鲁王子的丑闻后推动提高透明度的一部分。
-* The U.S. president endorsed the right-wing winner. But his influence went further.
-* 美国总统支持右翼获胜者。但他的影响力更进一步。
-* Crowds are filling the Canal Saint-Martin in Paris, as temperatures soar above 100 degrees Fahrenheit. Forty people drowned while swimming in other waterways.
-* 随着气温飙升至100华氏度以上，巴黎的圣马丁运河上挤满了人群。40人在其他水道游泳时溺水身亡。
-* After a man was filmed torturing dogs, hundreds gathered in a rare demonstration that the police tried to break up. For many, the sit-in was their first civic action.
-* 一名男子拍摄到折磨狗的镜头后，数百人聚集在一起，举行了一场罕见的示威活动，警方试图分手。对于许多人来说，静坐是他们的第一次公民行动。
-* The 5,000-ton Choe Hyon is the largest warship North Korea has ever built and is said to be armed with nuclear-capable missiles.
-* 这艘5000吨重的崔贤号是朝鲜有史以来建造的最大的军舰，据说配备了具有核能力的导弹。
-* Government supporters are showing off new ties with alleged former dissidents in a bid to show that they can withstand enemies at home as well as abroad.
-* 政府支持者正在展示与涉嫌前持不同政见者的新关系，以表明他们能够抵御国内外的敌人。
+* President Delcy Rodríguez said that two powerful earthquakes on Wednesday had left nearly 3,000 injured. The United States and Mexico were among the latest to send support, as hundreds remained missing or trapped under rubble.
+* 总统德尔西·罗德里格斯（ Delcy Rodríguez ）表示，周三的两次强烈地震造成近3000人受伤。美国和墨西哥是最近提供支持的国家之一，数百人仍然失踪或被困在废墟下。
+* Iran issued a statement on Friday asserting its right to control traffic in the Strait of Hormuz, a day after firing on a container ship that took a route near Oman’s shore.
+* 伊朗周五发表声明，声称有权控制霍尔木兹海峡的交通，此前一天，伊朗向阿曼海岸附近的一艘集装箱船开火。
+* Facing an emerging U.S.-Iran deal that leaves them vulnerable, Gulf Arab countries are reshaping their defense strategies, economies and trade routes.
+* 面对新兴的美伊协议，海湾阿拉伯国家正在重塑其国防战略、经济和贸易路线。
+* Ukrainian officials say their northern neighbor is allowing its radio relay stations to be used to guide Russian attack drones more precisely.
+* 乌克兰官员表示，他们的北部邻国正在允许其无线电中继站用于更精确地引导俄罗斯攻击无人机。
+* Heat-related deaths and disruptions to daily life are forcing politicians to reckon, in different ways, with a rapidly warming planet.
+* 与热相关的死亡和对日常生活的干扰迫使政治家们以不同的方式来看待地球迅速变暖的问题。
+* A loose collective of cybercriminals initially took credit for crippling Jaguar Land Rover last year. Investigators now see Russian hands behind the ransomware attack.
+* 一群松散的网络犯罪分子最初因去年使捷豹路虎陷入瘫痪而受到称赞。调查人员现在看到勒索软件攻击的幕后黑手是俄罗斯人。
+* Parts of Spain, France and other countries are seeing slight relief, but the record-breaking heat wave is far from over.
+* 西班牙、法国和其他国家的部分地区略有缓解，但创纪录的热浪远未结束。
+* A win or draw against Egypt on Friday, and the team’s unusual journey will continue.
+* 周五对埃及的胜利或平局，球队的不寻常旅程将继续。
+* The Paris police chief, Patrice Faure, said that alcohol restrictions were intended to ease pressure on health services.
+* 巴黎警察局长帕特里斯·福雷（ Patrice Faure ）表示，酒精限制旨在缓解卫生服务的压力。
+* In Myanmar, games are being broadcast by a company that is co-owned by the military, which usurped power five years ago. Some fans are trying other ways to watch.
+* 在缅甸，游戏正在由一家由军方共同拥有的公司播出，该公司五年前篡夺了权力。有些粉丝正在尝试其他方式观看。
 
 ## New York Times United States News
-* Senator Chuck Schumer, the minority leader, said the program was aimed at counteracting potential efforts by the Trump administration to manipulate elections.
-* 少数党领袖、参议员查克·舒默（ Chuck Schumer ）表示，该计划旨在抵制特朗普政府操纵选举的潜在努力。
-* Texas is set to pass what may be the first state-mandated book list for public school students. It focuses on classic literature and includes Bible excerpts.
-* 德克萨斯州将通过可能是第一份面向公立学校学生的州规定图书清单。它侧重于经典文学，包括圣经摘录。
-* Now, the professor is in a fight with the university over whether he can use M.I.T. money to promote a book critical of the school.
-* 现在，这位教授正在与大学争论他是否可以用麻省理工学院的钱来推广一本批评学校的书。
-* Officers found the body of a man believed to be Oscar Sanchez-Munoz, the suspect in a series of roadway shootings last week, inside a home they had already searched.
-* 警方发现了一名男子的尸体，据信是奥斯卡·桑切斯-穆诺兹（ Oscar Sanchez-Munoz ） ，他是上周一系列道路枪击事件的嫌疑人，在他们已经搜查过的一所房屋内。
-* In a late-night vote aimed at mollifying the president, Senate Republicans rejected a resolution directing him to end the war against Iran, a day after a bipartisan rebuke.
-* 在一次旨在安抚总统的深夜投票中，参议院共和党人拒绝了一项决议，该决议指示他在两党谴责的第二天结束对伊朗的战争。
-* The large Venezuelan community in the Miami area is “desperate” to reach family members.
-* 迈阿密地区的大型委内瑞拉社区“迫切需要”与家人联系。
-* Bernadette Vander Meer’s death in Zion National Park in Utah had been considered an accident. Prosecutors reopened the case in 2022 and now say her husband was having an affair with an underage girl.
-* Bernadette Vander Meer在犹他州锡安国家公园的死亡被认为是一起事故。检察官在2022年重新审理此案，现在说她的丈夫与一名未成年女孩有染。
-* Judge Evelyn Padin ruled the Justice Department’s lawsuit ​was flawed because it did not also challenge a state directive limiting local cooperation with federal immigration agents.
-* 法官伊芙琳·帕丁（ Evelyn Padin ）裁定，司法部的诉讼存在缺陷，因为它没有质疑限制地方与联邦移民代理合作的州指令。
-* Using charts, Secretary General Mark Rutte appeared to defuse the president’s anger by showing that European countries were “equalizing” defense spending with the U.S.
-* 利用图表，秘书长马克·吕特（ Mark Rutte ）似乎通过表明欧洲国家正在与美国“平衡”国防开支来化解总统的愤怒。
-* Fans have been concerned about the singer’s health since she postponed shows last year. So some were thrilled to catch a glimpse of her on Wednesday.
-* 自去年推迟演出以来，粉丝们一直担心这位歌手的健康状况。因此，有些人很高兴在周三看到她。
+* Mr. Bolton is expected to admit to mishandling classified information and could face time in prison, in an inquiry that spanned the Trump and Biden administrations.
+* 在一项横跨特朗普和拜登政府的调查中，预计博尔顿将承认对机密信息处理不当，并可能面临入狱时间。
+* “This is a victory 10 years in the making,” a White House official said after the Supreme Court ruled that the Trump administration could end deportation protections for some migrants.
+* “这是10年来的胜利，”一名白宫官员在最高法院裁定特朗普政府可能终止对一些移民的驱逐保护后表示。
+* One nonprofit, Defending Education, initiated nearly a dozen civil rights investigations targeting diversity programs and transgender policies.
+* 非营利组织Defending Education发起了近十几项针对多元化计划和跨性别政策的民权调查。
+* Thousands of men and boys gathered in central Washington for masculinity, Christianity and right-wing politics.
+* 成千上万的男人和男孩聚集在华盛顿市中心，追求男子气概、基督教和右翼政治。
+* Our Washington correspondent Michael Bender explains how the Trump administration is trying to use a civil rights law that prohibits sex-based discrimination to roll back protections for transgender students.
+* 我们的华盛顿记者迈克尔·本德尔（ Michael Bender ）解释了特朗普政府如何试图利用禁止基于性别的歧视的民权法来取消对跨性别学生的保护。
+* This year, Maine nearly became the first state to pass a statewide moratorium on new data centers. But before the law could take effect, supporters of an A.I. data center project in the small town of Jay rallied to fight the ban — and won. So why do residents there want one? We traveled to Jay to find out.
+* 今年，缅因州几乎成为第一个在全州范围内暂停新数据中心的州。但在法律生效之前，杰伊小镇的一个人工智能数据中心项目的支持者团结起来反对禁令，并赢得了胜利。那么，为什么那里的居民想要一个？我们前往Jay了解情况。
+* The wealthy are fighting back with two ballot issues that could nullify the measure in November. The battle reflects a broader tension as American politics contends with deep inequality.
+* 富人正在通过两个投票问题进行反击，这可能会使该措施在11月份无效。这场斗争反映了更广泛的紧张局势，因为美国政治正在与深刻的不平等作斗争。
+* The order, which calls for studying the health risks of pesticides in the food supply, does not involve new federal funding, and does not call for regulations or legislation.
+* 该命令要求研究食品供应中农药的健康风险，不涉及新的联邦资金，也不要求制定法规或立法。
+* After meeting with the president, the speaker said he would send him a housing bill that Mr. Trump declined to sign this week. There was no word on whether he would sign it.
+* 在与总统会面后，这位发言人表示，他将向他发送一份住房法案，特朗普本周拒绝签署该法案。没有关于他是否会签字的消息。
+* President Trump is demanding that Congress pass the SAVE America Act to change American elections. Our national politics reporter Nick Corasaniti looks at what’s in it.
+* 特朗普总统要求国会通过“拯救美国法案”来改变美国的选举。我们的国家政治记者Nick Corasaniti着眼于其中的内容。
 
 ## New York Times Asia News
+* Crowds in the capital’s central business district fled as the crash sent debris falling into the streets below.
+* 首都中央商务区的人群逃离，因为坠机导致碎片落入下面的街道。
+* For a mega-refinery in Ulsan, South Korea, a top exporter of jet fuel to the West Coast of the United States and other places, weaning off Middle Eastern oil is no small feat.
+* 对于韩国蔚山的一家大型炼油厂来说，断绝中东石油供应绝非易事。蔚山是美国西海岸和其他地方最大的喷气燃料出口国。
+* Our Times correspondent, Vivian Wang, was expelled from China as part of Beijing’s crackdown on foreign journalists. She explains how a pressure campaign by the authorities made it challenging to do her job.
+* 作为北京镇压外国记者的一部分，我们的《泰晤士报》记者Vivian Wang被驱逐出中国。她解释了当局的压力活动如何使她的工作具有挑战性。
+* Huge memory-chip profits from the global A.I. boom have increased interest in semiconductor factory work. But behind the hype are uncertain job prospects.
+* 全球人工智能热潮带来的巨大内存芯片利润增加了人们对半导体工厂工作的兴趣。但炒作的背后是不确定的就业前景。
+* In Myanmar, games are being broadcast by a company that is co-owned by the military, which usurped power five years ago. Some fans are trying other ways to watch.
+* 在缅甸，游戏正在由一家由军方共同拥有的公司播出，该公司五年前篡夺了权力。有些粉丝正在尝试其他方式观看。
+* In a notice flagging a series of problems with a clinical trial, the journal Nature Medicine said its editors “no longer have confidence in the integrity of the results.”
+* 在一份标志着临床试验存在一系列问题的通知中，《自然医学》杂志表示，其编辑“对结果的完整性不再有信心”。
+* The continent’s second heat wave since May continued to disrupt daily life for millions. Officials in Spain said it might have contributed to a spike in deaths.
+* 自5月以来，非洲大陆的第二次热浪继续扰乱数百万人的日常生活。西班牙官员表示，这可能导致死亡人数激增。
 * The push to rebrand the country, which started in the last decade, was inspired by politicians and coincided with an international public relations campaign.
 * 在过去十年中开始推动该国品牌重塑，受到政治家的启发，并与国际公共关系运动相吻合。
 * The 5,000-ton Choe Hyon is the largest warship North Korea has ever built and is said to be armed with nuclear-capable missiles.
 * 这艘5000吨重的崔贤号是朝鲜有史以来建造的最大的军舰，据说配备了具有核能力的导弹。
 * After a man was filmed torturing dogs, hundreds gathered in a rare demonstration that the police tried to break up. For many, the sit-in was their first civic action.
 * 一名男子拍摄到折磨狗的镜头后，数百人聚集在一起，举行了一场罕见的示威活动，警方试图分手。对于许多人来说，静坐是他们的第一次公民行动。
-* Fortunes, luxury buildings and birthrates are rising in the city at the center of Taiwan’s chip supply chain.
-* 这座位于台湾芯片供应链中心的城市的财富、豪华建筑和出生率都在上升。
-* A.I. demand is driving stock market gains and booming exports in South Korea and Taiwan. But the rest of the economy is being left behind.
-* 人工智能需求正在推动韩国和台湾股市上涨和出口蓬勃发展。但经济的其他部分正在被抛在后面。
-* Oil prices
-* 油价
-* The Japanese nationals were detained in May in the northeastern Chinese city of Dalian, Japan’s government said, amid tensions between the two countries.
-* 日本政府表示，由于两国关系紧张，这些日本国民于5月在中国东北城市大连被拘留。
-* Overshadowed by conflicts in Ukraine, Gaza and Lebanon, the fighting in Myanmar’s isolated heartland has reached new depths.
-* 在乌克兰、加沙和黎巴嫩的冲突的阴影下，缅甸孤立的中心地带的战斗已经达到了新的深度。
-* The Southeast Asian nation recently experienced its highest monthly civilian death toll since the war began in 2021.
-* 这个东南亚国家最近经历了自2021年战争开始以来最高的月度平民死亡人数。
-* Our Times correspondent, Hannah Beech, travels to the center of the armed resistance movement in Myanmar and meets rebel fighters who are outgunned and undermanned after years of fighting in a civil war.
-* 我们的《泰晤士报》记者汉娜·比奇（ Hannah Beech ）前往缅甸武装抵抗运动的中心，会见了在内战中多年战斗后武装力量不足的反叛战士。
 
