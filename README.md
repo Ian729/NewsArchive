@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Delcy Rodríguez said that two powerful earthquakes on Wednesday had left nearly 3,000 injured. The United States and Mexico were among the latest to send support, as hundreds remained missing or trapped under rubble.
-* 总统德尔西·罗德里格斯（ Delcy Rodríguez ）表示，周三的两次强烈地震造成近3000人受伤。美国和墨西哥是最近提供支持的国家之一，数百人仍然失踪或被困在废墟下。
-* Iran issued a statement on Friday asserting its right to control traffic in the Strait of Hormuz, a day after firing on a container ship that took a route near Oman’s shore.
-* 伊朗周五发表声明，声称有权控制霍尔木兹海峡的交通，此前一天，伊朗向阿曼海岸附近的一艘集装箱船开火。
-* Facing an emerging U.S.-Iran deal that leaves them vulnerable, Gulf Arab countries are reshaping their defense strategies, economies and trade routes.
-* 面对新兴的美伊协议，海湾阿拉伯国家正在重塑其国防战略、经济和贸易路线。
-* Ukrainian officials say their northern neighbor is allowing its radio relay stations to be used to guide Russian attack drones more precisely.
-* 乌克兰官员表示，他们的北部邻国正在允许其无线电中继站用于更精确地引导俄罗斯攻击无人机。
+* Frontline Congolese workers who conduct safe burials are key to containing what experts fear could become the worst ever Ebola outbreak. They risk not just infection, but the anger of terrified communities.
+* 进行安全埋葬的前线刚果工人是遏制专家担心可能成为有史以来最严重的埃博拉疫情的关键。他们面临的风险不仅仅是感染，还有恐惧社区的愤怒。
+* President Claudia Sheinbaum of Mexico has pushed back against U.S. investigations into Mexican politicians. Now some politicians want to cooperate.
+* 墨西哥总统克劳迪娅·谢恩鲍姆（ Claudia Sheinbaum ）反对美国对墨西哥政客的调查。现在一些政客想要合作。
+* Expectations are now rising over the role the United States will play in helping Venezuela, which had already been laid low by decades of misrule.
+* 现在，人们对美国在帮助委内瑞拉方面将发挥的作用的期望越来越高，委内瑞拉已经被几十年的错误统治所压低。
+* Bahrain said it had been targeted by Iranian drones, an apparent retaliation after U.S. strikes on Iranian military sites overnight. A ship came under attack in the Strait of Hormuz for the second time in recent days.
+* 巴林表示，它已成为伊朗无人机的目标，这是美国一夜之间袭击伊朗军事基地后的明显报复。最近几天，一艘船在霍尔木兹海峡第二次受到攻击。
+* Criticism of Israel’s war in Gaza, anger over the Iran war and election results in New York all suggest Israel’s solid support from Washington may be on borrowed time.
+* 对以色列在加沙战争的批评，对伊朗战争的愤怒以及纽约选举结果都表明，以色列从华盛顿获得的坚定支持可能是借来的时间。
+* Much of the world is unfamiliar with the cuisine, but an exodus from Myanmar after a coup has made it more visible on the international stage.
+* 世界许多地方都不熟悉这种美食，但政变后缅甸人口外流使其在国际舞台上更加引人注目。
+* As Lionel Messi chases another World Cup title, an artist is rushing to finish a gigantic statue of the soccer star in the middle of the Patagonian desert.
+* 当莱昂内尔·梅西（ Lionel Messi ）追逐另一个世界杯冠军头衔时，一位艺术家正争先恐后地在巴塔哥尼亚沙漠中建造一座巨大的足球明星雕像。
+* The U.S. dispatched hundreds of rescue workers to help the Venezuelan  government, as the injured overwhelmed hospitals and the death toll rose to 920. The Pentagon sent two ships, transport planes and helicopters.
+* 美国派出数百名救援人员帮助委内瑞拉政府，受伤的医院不堪重负，死亡人数上升至920人。五角大楼派出了两艘船、运输机和直升机。
+* President Trump on Friday called Iran’s attack on a container ship transiting the Strait of Hormuz a day earlier a “foolish” act.
+* 特朗普总统周五称，伊朗在前一天袭击一艘通过霍尔木兹海峡的集装箱船是“愚蠢”的行为。
 * Heat-related deaths and disruptions to daily life are forcing politicians to reckon, in different ways, with a rapidly warming planet.
 * 与热相关的死亡和对日常生活的干扰迫使政治家们以不同的方式来看待地球迅速变暖的问题。
-* A loose collective of cybercriminals initially took credit for crippling Jaguar Land Rover last year. Investigators now see Russian hands behind the ransomware attack.
-* 一群松散的网络犯罪分子最初因去年使捷豹路虎陷入瘫痪而受到称赞。调查人员现在看到勒索软件攻击的幕后黑手是俄罗斯人。
-* Parts of Spain, France and other countries are seeing slight relief, but the record-breaking heat wave is far from over.
-* 西班牙、法国和其他国家的部分地区略有缓解，但创纪录的热浪远未结束。
-* A win or draw against Egypt on Friday, and the team’s unusual journey will continue.
-* 周五对埃及的胜利或平局，球队的不寻常旅程将继续。
-* The Paris police chief, Patrice Faure, said that alcohol restrictions were intended to ease pressure on health services.
-* 巴黎警察局长帕特里斯·福雷（ Patrice Faure ）表示，酒精限制旨在缓解卫生服务的压力。
-* In Myanmar, games are being broadcast by a company that is co-owned by the military, which usurped power five years ago. Some fans are trying other ways to watch.
-* 在缅甸，游戏正在由一家由军方共同拥有的公司播出，该公司五年前篡夺了权力。有些粉丝正在尝试其他方式观看。
 
 ## New York Times United States News
-* Mr. Bolton is expected to admit to mishandling classified information and could face time in prison, in an inquiry that spanned the Trump and Biden administrations.
-* 在一项横跨特朗普和拜登政府的调查中，预计博尔顿将承认对机密信息处理不当，并可能面临入狱时间。
-* “This is a victory 10 years in the making,” a White House official said after the Supreme Court ruled that the Trump administration could end deportation protections for some migrants.
-* “这是10年来的胜利，”一名白宫官员在最高法院裁定特朗普政府可能终止对一些移民的驱逐保护后表示。
-* One nonprofit, Defending Education, initiated nearly a dozen civil rights investigations targeting diversity programs and transgender policies.
-* 非营利组织Defending Education发起了近十几项针对多元化计划和跨性别政策的民权调查。
-* Thousands of men and boys gathered in central Washington for masculinity, Christianity and right-wing politics.
-* 成千上万的男人和男孩聚集在华盛顿市中心，追求男子气概、基督教和右翼政治。
-* Our Washington correspondent Michael Bender explains how the Trump administration is trying to use a civil rights law that prohibits sex-based discrimination to roll back protections for transgender students.
-* 我们的华盛顿记者迈克尔·本德尔（ Michael Bender ）解释了特朗普政府如何试图利用禁止基于性别的歧视的民权法来取消对跨性别学生的保护。
-* This year, Maine nearly became the first state to pass a statewide moratorium on new data centers. But before the law could take effect, supporters of an A.I. data center project in the small town of Jay rallied to fight the ban — and won. So why do residents there want one? We traveled to Jay to find out.
-* 今年，缅因州几乎成为第一个在全州范围内暂停新数据中心的州。但在法律生效之前，杰伊小镇的一个人工智能数据中心项目的支持者团结起来反对禁令，并赢得了胜利。那么，为什么那里的居民想要一个？我们前往Jay了解情况。
-* The wealthy are fighting back with two ballot issues that could nullify the measure in November. The battle reflects a broader tension as American politics contends with deep inequality.
-* 富人正在通过两个投票问题进行反击，这可能会使该措施在11月份无效。这场斗争反映了更广泛的紧张局势，因为美国政治正在与深刻的不平等作斗争。
-* The order, which calls for studying the health risks of pesticides in the food supply, does not involve new federal funding, and does not call for regulations or legislation.
-* 该命令要求研究食品供应中农药的健康风险，不涉及新的联邦资金，也不要求制定法规或立法。
-* After meeting with the president, the speaker said he would send him a housing bill that Mr. Trump declined to sign this week. There was no word on whether he would sign it.
-* 在与总统会面后，这位发言人表示，他将向他发送一份住房法案，特朗普本周拒绝签署该法案。没有关于他是否会签字的消息。
-* President Trump is demanding that Congress pass the SAVE America Act to change American elections. Our national politics reporter Nick Corasaniti looks at what’s in it.
-* 特朗普总统要求国会通过“拯救美国法案”来改变美国的选举。我们的国家政治记者Nick Corasaniti着眼于其中的内容。
+* Nixon’s offenses were not a deep-state invention. But in the age of Donald Trump, and in a fractured media environment, voters have become more inured to political scandal.
+* 尼克松的罪行并不是深层国家的发明。但在唐纳德·特朗普（ Donald Trump ）时代，以及在破碎的媒体环境中，选民们已经更加习惯于政治丑闻。
+* Both parties are awaiting a decision on the validity of ballot proposals to redraw Colorado’s maps ahead of 2028. Democrats say each day without a ruling puts the proposals at risk.
+* 双方都在等待关于在2028年之前重新绘制科罗拉多州地图的选票提案的有效性的决定。民主党人说，没有裁决的每一天都会使这些提案面临风险。
+* The victories of Darializa Avila Chevalier and other anti-establishment candidates are changing the face of House Democrats, posing a challenge for their leader.
+* Darializa Avila Chevalier和其他反建制候选人的胜利正在改变众议院民主党人的面貌，对他们的领导人构成挑战。
+* Saturday’s election will be the latest test of President Trump’s influence in G.O.P. contests.
+* 周六的选举将是对特朗普总统在共和党竞选中影响力的最新考验。
+* At the kickoff to the Great American State Fair, exhibits celebrating the nation were on display. So were conservative themes.
+* 在美国大州博览会的开幕式上，展出了庆祝国家的展品。保守派的主题也是如此。
+* The two-term Democratic governor of deep-red Kentucky, in demand as a surrogate in key 2026 races, talks horses, faith and family politics as he considers a run for the White House.
+* 深红色肯塔基州的两届民主党州长，作为2026年关键比赛的代理人，在他考虑竞选白宫时谈论马匹，信仰和家庭政治。
+* Seattle had designated Friday’s match to celebrate L.G.B.T.Q. rights, but the teams that faced off are from countries that penalize homosexuality.
+* 西雅图已经指定星期五的比赛来庆祝LGBTQ的权利，但对抗的球队来自惩罚同性恋的国家。
+* The ruling reversed a decision by the state’s elections office that had found Dan J. Sullivan was ineligible to challenge Dan S. Sullivan, an incumbent senator.
+* 该裁决推翻了该州选举办公室的一项决定，该决定认定Dan J. Sullivan没有资格挑战现任参议员Dan S. Sullivan。
+* Last year, the Commodity Futures Trading Commission overruled its enforcement attorneys and killed a separate inquiry into whether the Trump-tied company was illegally serving U.S. customers.
+* 去年，美国商品期货交易委员会(Commodity Futures Trading Commission)驳回了其执法律师的意见，并终止了对这家与特朗普有联系的公司是否非法为美国客户服务的单独调查。
+* The disgraced film producer had been given 16 years in prison in one of several prosecutions that have had him behind bars since 2020.
+* 这位声名狼藉的电影制片人在自2020年以来被判入狱的几项起诉中被判处16年徒刑。
 
 ## New York Times Asia News
+* Dong Guangping, a critic of the Chinese government who fled to South Korea by sea last month, has reached Toronto, where his family lives.
+* 董光平是中国政府的批评者，上个月从海上逃往韩国，他已经到了多伦多，他的家人住在那里。
+* Much of the world is unfamiliar with the cuisine, but an exodus from Myanmar after a coup has made it more visible on the international stage.
+* 世界许多地方都不熟悉这种美食，但政变后缅甸人口外流使其在国际舞台上更加引人注目。
+* He used a geographer’s tools to demonstrate that North Vietnamese civilian infrastructure had been deliberately attacked, threatening millions of lives.
+* 他使用地理学家的工具证明，北越的民用基础设施遭到蓄意攻击，威胁到数百万人的生命。
 * Crowds in the capital’s central business district fled as the crash sent debris falling into the streets below.
 * 首都中央商务区的人群逃离，因为坠机导致碎片落入下面的街道。
 * For a mega-refinery in Ulsan, South Korea, a top exporter of jet fuel to the West Coast of the United States and other places, weaning off Middle Eastern oil is no small feat.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 在一份标志着临床试验存在一系列问题的通知中，《自然医学》杂志表示，其编辑“对结果的完整性不再有信心”。
 * The continent’s second heat wave since May continued to disrupt daily life for millions. Officials in Spain said it might have contributed to a spike in deaths.
 * 自5月以来，非洲大陆的第二次热浪继续扰乱数百万人的日常生活。西班牙官员表示，这可能导致死亡人数激增。
-* The push to rebrand the country, which started in the last decade, was inspired by politicians and coincided with an international public relations campaign.
-* 在过去十年中开始推动该国品牌重塑，受到政治家的启发，并与国际公共关系运动相吻合。
-* The 5,000-ton Choe Hyon is the largest warship North Korea has ever built and is said to be armed with nuclear-capable missiles.
-* 这艘5000吨重的崔贤号是朝鲜有史以来建造的最大的军舰，据说配备了具有核能力的导弹。
-* After a man was filmed torturing dogs, hundreds gathered in a rare demonstration that the police tried to break up. For many, the sit-in was their first civic action.
-* 一名男子拍摄到折磨狗的镜头后，数百人聚集在一起，举行了一场罕见的示威活动，警方试图分手。对于许多人来说，静坐是他们的第一次公民行动。
 
