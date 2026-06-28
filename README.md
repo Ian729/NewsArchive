@@ -2,52 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Frontline Congolese workers who conduct safe burials are key to containing what experts fear could become the worst ever Ebola outbreak. They risk not just infection, but the anger of terrified communities.
-* 进行安全埋葬的前线刚果工人是遏制专家担心可能成为有史以来最严重的埃博拉疫情的关键。他们面临的风险不仅仅是感染，还有恐惧社区的愤怒。
-* President Claudia Sheinbaum of Mexico has pushed back against U.S. investigations into Mexican politicians. Now some politicians want to cooperate.
-* 墨西哥总统克劳迪娅·谢恩鲍姆（ Claudia Sheinbaum ）反对美国对墨西哥政客的调查。现在一些政客想要合作。
-* Expectations are now rising over the role the United States will play in helping Venezuela, which had already been laid low by decades of misrule.
-* 现在，人们对美国在帮助委内瑞拉方面将发挥的作用的期望越来越高，委内瑞拉已经被几十年的错误统治所压低。
-* Bahrain said it had been targeted by Iranian drones, an apparent retaliation after U.S. strikes on Iranian military sites overnight. A ship came under attack in the Strait of Hormuz for the second time in recent days.
-* 巴林表示，它已成为伊朗无人机的目标，这是美国一夜之间袭击伊朗军事基地后的明显报复。最近几天，一艘船在霍尔木兹海峡第二次受到攻击。
-* Criticism of Israel’s war in Gaza, anger over the Iran war and election results in New York all suggest Israel’s solid support from Washington may be on borrowed time.
-* 对以色列在加沙战争的批评，对伊朗战争的愤怒以及纽约选举结果都表明，以色列从华盛顿获得的坚定支持可能是借来的时间。
-* Much of the world is unfamiliar with the cuisine, but an exodus from Myanmar after a coup has made it more visible on the international stage.
-* 世界许多地方都不熟悉这种美食，但政变后缅甸人口外流使其在国际舞台上更加引人注目。
-* As Lionel Messi chases another World Cup title, an artist is rushing to finish a gigantic statue of the soccer star in the middle of the Patagonian desert.
-* 当莱昂内尔·梅西（ Lionel Messi ）追逐另一个世界杯冠军头衔时，一位艺术家正争先恐后地在巴塔哥尼亚沙漠中建造一座巨大的足球明星雕像。
-* The U.S. dispatched hundreds of rescue workers to help the Venezuelan  government, as the injured overwhelmed hospitals and the death toll rose to 920. The Pentagon sent two ships, transport planes and helicopters.
-* 美国派出数百名救援人员帮助委内瑞拉政府，受伤的医院不堪重负，死亡人数上升至920人。五角大楼派出了两艘船、运输机和直升机。
-* President Trump on Friday called Iran’s attack on a container ship transiting the Strait of Hormuz a day earlier a “foolish” act.
-* 特朗普总统周五称，伊朗在前一天袭击一艘通过霍尔木兹海峡的集装箱船是“愚蠢”的行为。
-* Heat-related deaths and disruptions to daily life are forcing politicians to reckon, in different ways, with a rapidly warming planet.
-* 与热相关的死亡和对日常生活的干扰迫使政治家们以不同的方式来看待地球迅速变暖的问题。
+* An agreement between the U.S. and Kazakhstan has given a group of American investors with ties to the president and the commerce secretary access to one of the world’s largest untapped reserves of tungsten.
+* 美国和哈萨克斯坦之间的一项协议使一群与总统和商务部长有联系的美国投资者能够获得世界上最大的未开发钨储量之一。
+* President Trump and Iran’s Revolutionary Guards exchanged threats and U.S. allies in the Gulf said they had intercepted Iranian drones, as hostilities entered a fourth day.
+* 特朗普总统和伊朗革命卫队互相发出威胁，美国在海湾的盟友表示，随着敌对行动进入第四天，他们已经拦截了伊朗无人机。
+* More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding survivors diminished.
+* 在两次地震摧毁委内瑞拉海岸三天多后，随着找到幸存者的机会减少，救援工作面临混乱和延误。
+* The statement came a day after online images showed falling debris and plane parts. Another 13 were injured in the incident five miles from Communist Party headquarters.
+* 这份声明是在网上图片显示掉落的碎片和飞机零件后的第二天发布的。另有13人在距离共产党总部5英里的事件中受伤。
+* Critics say the country’s interim president, Delcy Rodríguez, is trying to exploit the tragedy for her political benefit. Her supporters accuse the opposition of doing the same.
+* 批评人士说，该国临时总统德尔西·罗德里格斯（ Delcy Rodríguez ）正试图利用这场悲剧为自己谋取政治利益。她的支持者指责反对派也这样做。
+* Dahiya, a sprawling area and Hezbollah stronghold, is stirring back to life amid a tense truce with Israel. “This war has brought so much loss,” one resident said.
+* Dahiya是一个庞大的地区和真主党据点，在与以色列的紧张休战中重新焕发生机。“这场战争带来了巨大的损失，”一位居民说。
+* The Central Asian nation is aggressively courting President Trump’s Washington to counterbalance its powerful neighbors, Russia and China.
+* 这个中亚国家正在积极向特朗普总统的华盛顿求助，以制衡其强大的邻国俄罗斯和中国。
+* After days of record temperatures in Western Europe, the extreme heat is easing there. Now, Central Europe is facing days of dangerous swelter.
+* 经过西欧创纪录的气温几天后，那里的极端高温正在缓解。现在，中欧正面临危险的闷热天气。
+* Shoko Kawata is the first mayor to take maternity leave in Japan’s history. Her decision has prompted debate about gender discrimination in the work force.
+* 川田祥子是日本历史上第一位休产假的市长。她的决定引发了关于劳动力中性别歧视的辩论。
+* The military has joined the battle against the insects, as an outbreak strains hospitals in a country already reeling from energy shortages caused by the Iran War.
+* 军方已经加入了与昆虫的斗争，因为伊朗爆发的疫情已经使该国的医院因伊朗战争造成的能源短缺而陷入困境。
 
 ## New York Times United States News
-* Nixon’s offenses were not a deep-state invention. But in the age of Donald Trump, and in a fractured media environment, voters have become more inured to political scandal.
-* 尼克松的罪行并不是深层国家的发明。但在唐纳德·特朗普（ Donald Trump ）时代，以及在破碎的媒体环境中，选民们已经更加习惯于政治丑闻。
-* Both parties are awaiting a decision on the validity of ballot proposals to redraw Colorado’s maps ahead of 2028. Democrats say each day without a ruling puts the proposals at risk.
-* 双方都在等待关于在2028年之前重新绘制科罗拉多州地图的选票提案的有效性的决定。民主党人说，没有裁决的每一天都会使这些提案面临风险。
-* The victories of Darializa Avila Chevalier and other anti-establishment candidates are changing the face of House Democrats, posing a challenge for their leader.
-* Darializa Avila Chevalier和其他反建制候选人的胜利正在改变众议院民主党人的面貌，对他们的领导人构成挑战。
-* Saturday’s election will be the latest test of President Trump’s influence in G.O.P. contests.
-* 周六的选举将是对特朗普总统在共和党竞选中影响力的最新考验。
-* At the kickoff to the Great American State Fair, exhibits celebrating the nation were on display. So were conservative themes.
-* 在美国大州博览会的开幕式上，展出了庆祝国家的展品。保守派的主题也是如此。
-* The two-term Democratic governor of deep-red Kentucky, in demand as a surrogate in key 2026 races, talks horses, faith and family politics as he considers a run for the White House.
-* 深红色肯塔基州的两届民主党州长，作为2026年关键比赛的代理人，在他考虑竞选白宫时谈论马匹，信仰和家庭政治。
-* Seattle had designated Friday’s match to celebrate L.G.B.T.Q. rights, but the teams that faced off are from countries that penalize homosexuality.
-* 西雅图已经指定星期五的比赛来庆祝LGBTQ的权利，但对抗的球队来自惩罚同性恋的国家。
-* The ruling reversed a decision by the state’s elections office that had found Dan J. Sullivan was ineligible to challenge Dan S. Sullivan, an incumbent senator.
-* 该裁决推翻了该州选举办公室的一项决定，该决定认定Dan J. Sullivan没有资格挑战现任参议员Dan S. Sullivan。
-* Last year, the Commodity Futures Trading Commission overruled its enforcement attorneys and killed a separate inquiry into whether the Trump-tied company was illegally serving U.S. customers.
-* 去年，美国商品期货交易委员会(Commodity Futures Trading Commission)驳回了其执法律师的意见，并终止了对这家与特朗普有联系的公司是否非法为美国客户服务的单独调查。
-* The disgraced film producer had been given 16 years in prison in one of several prosecutions that have had him behind bars since 2020.
-* 这位声名狼藉的电影制片人在自2020年以来被判入狱的几项起诉中被判处16年徒刑。
+* The Democratic primary on Tuesday is likely to decide the next governor, and Senator Michael Bennet, once seen as a shoo-in, is in a dogfight with Attorney General Phil Weiser.
+* 周二的民主党初选可能会决定下一任州长，参议员迈克尔·班纳特（ Michael Bennet ）一度被视为骗子，现在正与司法部长菲尔·韦瑟（ Phil Weiser ）发生争执。
+* After decades, deferred maintenance totals an estimated $50 billion. But getting repair funds from Congress is a laborious process.
+* 几十年后，延期维护总金额估计为500亿美元（ $ 500亿）。但从国会获得维修资金是一个艰难的过程。
+* Behind the scenes, the Trump White House went to extensive lengths to advance its theory of executive power, potentially giving the president remarkable leeway to install loyalists at nearly every echelon of government.
+* 在幕后，特朗普白宫竭尽全力推进其行政权力理论，这可能为总统在几乎每个政府阶层安置忠诚者提供了非凡的回旋余地。
+* The Iranian team’s departure from the tournament ends one of the most politically charged odysseys in recent sports history. Its soccer federation criticized the United States and praised Mexico.
+* 伊朗队退出比赛结束了近期体育史上最具政治色彩的奥德赛之一。其足球联合会批评美国并赞扬墨西哥。
+* Miami has hosted some of the biggest events in South American and Caribbean sports, including Colombia’s match on Saturday. Brazil and Uruguay have also played World Cup games there.
+* 迈阿密举办了一些南美和加勒比海地区最大的体育赛事，包括周六的哥伦比亚比赛。巴西和乌拉圭也曾在那里参加过世界杯比赛。
+* If she reaches the Senate, Ms. Letlow would replace Senator Bill Cassidy and become the first G.O.P. woman to represent Louisiana in the chamber.
+* 如果她进入参议院，莱特洛女士将取代参议员比尔·卡西迪（ Bill Cassidy ） ，成为第一位代表路易斯安那州进入众议院的共和党女性。
+* Scott Wiener, who is running to replace Nancy Pelosi, was surrounded by a small group of protesters shouting invective before a transgender march in San Francisco.
+* 斯科特·维纳（ Scott Wiener ）正在竞选南希·佩洛西（ Nancy Pelosi ）的接班人，在旧金山的一次跨性别游行之前，一小群抗议者大喊大叫。
+* Seven-year-old Casper O’Brien weighed 255 pounds when he died last year. Prosecutors said he was bedridden and subsisted on little more than snack foods.
+* 7岁的卡斯珀·奥布莱恩去年去世时体重255磅。检察官说，他卧床不起，只吃零食。
+* The president said he was nominating Lance Schroyer, an adviser to Markwayne Mullin, the D.H.S. secretary, to lead the high-profile agency.
+* 总统表示，他将提名国土安全部部长马克韦恩·穆林（ Markwayne Mullin ）的顾问兰斯·施罗耶（ Lance Schroyer ）领导这家备受瞩目的机构。
+* Most states teach history by subject. Texas will go chronologically, starting with ancient history and reaching World War II by seventh grade.
+* 大多数州按科目教授历史。德克萨斯州将按时间顺序发展，从古代历史开始，到七年级进入第二次世界大战。
 
 ## New York Times Asia News
-* Dong Guangping, a critic of the Chinese government who fled to South Korea by sea last month, has reached Toronto, where his family lives.
-* 董光平是中国政府的批评者，上个月从海上逃往韩国，他已经到了多伦多，他的家人住在那里。
+* The Central Asian nation is aggressively courting President Trump’s Washington to counterbalance its powerful neighbors, Russia and China.
+* 这个中亚国家正在积极向特朗普总统的华盛顿求助，以制衡其强大的邻国俄罗斯和中国。
+* The statement came a day after online images showed falling debris and plane parts. Another 13 were injured in the incident five miles from Communist Party headquarters.
+* 这份声明是在网上图片显示掉落的碎片和飞机零件后的第二天发布的。另有13人在距离共产党总部5英里的事件中受伤。
+* Shoko Kawata is the first mayor to take maternity leave in Japan’s history. Her decision has prompted debate about gender discrimination in the work force.
+* 川田祥子是日本历史上第一位休产假的市长。她的决定引发了关于劳动力中性别歧视的辩论。
+* The military has joined the battle against the insects, as an outbreak strains hospitals in a country already reeling from energy shortages caused by the Iran War.
+* 军方已经加入了与昆虫的斗争，因为伊朗爆发的疫情已经使该国的医院因伊朗战争造成的能源短缺而陷入困境。
+* Saying tech companies were “not doing enough” to keep youths under 16 off their platforms, the government announced tougher fines and new powers for a regulator.
+* 政府表示，科技公司“做得不够” ，无法让16岁以下的年轻人离开他们的平台，政府宣布了更严厉的罚款和监管机构的新权力。
+* Dong Guangping, who reached Toronto on Friday after a decade of failed attempts to escape China, recounted how he traveled by sea to South Korea last month.
+* 董光平于周五抵达多伦多，此前他曾试图逃离中国，但失败了十年。他讲述了上个月他如何通过海路前往韩国。
 * Much of the world is unfamiliar with the cuisine, but an exodus from Myanmar after a coup has made it more visible on the international stage.
 * 世界许多地方都不熟悉这种美食，但政变后缅甸人口外流使其在国际舞台上更加引人注目。
 * He used a geographer’s tools to demonstrate that North Vietnamese civilian infrastructure had been deliberately attacked, threatening millions of lives.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 首都中央商务区的人群逃离，因为坠机导致碎片落入下面的街道。
 * For a mega-refinery in Ulsan, South Korea, a top exporter of jet fuel to the West Coast of the United States and other places, weaning off Middle Eastern oil is no small feat.
 * 对于韩国蔚山的一家大型炼油厂来说，断绝中东石油供应绝非易事。蔚山是美国西海岸和其他地方最大的喷气燃料出口国。
-* Our Times correspondent, Vivian Wang, was expelled from China as part of Beijing’s crackdown on foreign journalists. She explains how a pressure campaign by the authorities made it challenging to do her job.
-* 作为北京镇压外国记者的一部分，我们的《泰晤士报》记者Vivian Wang被驱逐出中国。她解释了当局的压力活动如何使她的工作具有挑战性。
-* Huge memory-chip profits from the global A.I. boom have increased interest in semiconductor factory work. But behind the hype are uncertain job prospects.
-* 全球人工智能热潮带来的巨大内存芯片利润增加了人们对半导体工厂工作的兴趣。但炒作的背后是不确定的就业前景。
-* In Myanmar, games are being broadcast by a company that is co-owned by the military, which usurped power five years ago. Some fans are trying other ways to watch.
-* 在缅甸，游戏正在由一家由军方共同拥有的公司播出，该公司五年前篡夺了权力。有些粉丝正在尝试其他方式观看。
-* In a notice flagging a series of problems with a clinical trial, the journal Nature Medicine said its editors “no longer have confidence in the integrity of the results.”
-* 在一份标志着临床试验存在一系列问题的通知中，《自然医学》杂志表示，其编辑“对结果的完整性不再有信心”。
-* The continent’s second heat wave since May continued to disrupt daily life for millions. Officials in Spain said it might have contributed to a spike in deaths.
-* 自5月以来，非洲大陆的第二次热浪继续扰乱数百万人的日常生活。西班牙官员表示，这可能导致死亡人数激增。
 
