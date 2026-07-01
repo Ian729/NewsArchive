@@ -2,50 +2,52 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Five days after devastating twin earthquakes flattened entire residential neighborhoods, experts fear the official death toll of 1,719 could be a serious undercount.
-* 在毁灭性的双重地震使整个住宅区夷为平地五天后，专家们担心官方公布的1719人死亡人数可能严重不足。
-* American and Iranian officials are in the Gulf state, a key mediator between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal.
-* 在新一轮袭击威胁到签署持久和平协议的努力几天后，美国和伊朗官员都在海湾国家，这是两国之间的重要调解人。
+* Bombings, blackouts and displacement compound maternal anxiety. Still, many women persevere. “We must bring new life,” one said.
+* 爆炸、停电和流离失所加剧了孕产妇的焦虑。尽管如此，许多女性仍然坚持不懈。“我们必须带来新的生命，”一个人说。
+* Many of the 146 Venezuelans deported from the United States the day the earthquake struck are feared dead.
+* 在地震发生当天被驱逐出美国的146名委内瑞拉人中，许多人担心已经死亡。
+* Negotiators are in Qatar for indirect talks and ship traffic has risen in the Strait of Hormuz, even as Tehran and Washington remain far apart on key issues. Here’s what to know.
+* 谈判代表正在卡塔尔进行间接会谈，霍尔木兹海峡的船舶交通量有所增加，尽管德黑兰和华盛顿在关键问题上仍然存在很大分歧。以下是须知事项。
+* Safe interment is critical to containing the deadly disease, but in recent days around one Congolese town, that was not always being done.
+* 安全埋葬对于遏制这种致命疾病至关重要，但最近几天，在一个刚果城镇周围，情况并非总是如此。
+* During peace talks, President Trump repeatedly floated the idea that Syria could help subdue Hezbollah in Lebanon. The proposal revived bitter memories.
+* 在和平谈判期间，特朗普总统一再提出叙利亚可以帮助制服黎巴嫩真主党的想法。这项提议唤起了痛苦的回忆。
+* Terrasse-Vaudreuil has adopted a resolution to protect trees, which its mayor called “indispensable allies,” as living beings.
+* Terrasse-Vaudreuil通过了一项保护树木的决议，其市长称之为“不可或缺的盟友”。
+* Mineral del Monte, a small former mining town that became a tourist destination partly because of its Cornish influence, claims that soccer in Mexico started there. Well, so does the nearby city of Pachuca.
+* Mineral del Monte是一个前采矿小镇，部分由于其康沃尔的影响而成为旅游目的地，它声称墨西哥的足球就是从那里开始的。附近的帕丘卡市也是如此。
+* Scientists drove ATVs for miles and then hiked miles more through dense forest to reach a site untouched by looting on Mexico’s Yucatán Peninsula. They named it Minanbé, meaning “there is no path.”
+* 科学家驾驶全地形车行驶数英里，然后在茂密的森林中徒步数英里，到达墨西哥尤卡坦半岛上一个未被抢劫的地点。他们将其命名为Minanbé ，意思是“没有路径”。
+* U.S. officials called a bid by María Corina Machado, the Nobel Peace Prize winner, to return to earthquake-battered Venezuela a “political stunt” that has distracted from recovery efforts.
+* 美国官员称，诺贝尔和平奖获得者玛丽亚·科里纳·马查多（ María Corina Machado ）申请重返遭受地震重创的委内瑞拉是一个“政治噱头” ，分散了恢复工作的注意力。
 * Masha Polska, 15, was an avid dancer who had been dreaming of a star turn in the group waltz. That was not to be.
 * 15岁的玛莎·波尔斯卡（ Masha Polska ）是一位狂热的舞蹈演员，她一直梦想着在团体华尔兹中成为明星。那是不可能的。
-* The blast seriously injured three people, including a child, according to the authorities, who said the assailant was on the run.
-* 根据当局的说法，爆炸造成三人严重受伤，其中包括一名儿童，他们说袭击者正在逃跑。
-* The 17-year-old’s remains were found abandoned near railroad tracks in Pattaya. The suspect was arrested while trying to leave the country.
-* 这具17岁的遗体被发现被遗弃在芭堤雅的铁轨附近。嫌疑人在试图离开该国时被捕。
-* Seas of red-clad Norwegian supporters are rowing shoulder to shoulder at stadiums, schools, even a nursing home. Not everyone is thrilled.
-* 大批身穿红衣的挪威支持者在体育场馆、学校甚至养老院并肩划船。不是每个人都很激动。
-* For some Italians, their team’s absence from the biggest tournament in soccer is a metaphor for a broader national malaise.
-* 对于一些意大利人来说，他们的球队缺席最大的足球锦标赛是更广泛的国家萎靡不振的隐喻。
-* Since late April, the Spanish government has allowed undocumented migrants a path out of legal limbo, making Spain a beacon to the global left.
-* 自4月下旬以来，西班牙政府允许无证移民走出法律困境，使西班牙成为全球左翼的灯塔。
-* Beijing’s moves have included flying bombers near Japan, detaining businesspeople and restricting the exports of rare earths.
-* 北京的举动包括在日本附近飞行轰炸机、拘留商人和限制稀土出口。
-* An agreement between the U.S. and Kazakhstan has given a group of American investors with ties to the president and the commerce secretary access to one of the world’s largest untapped reserves of tungsten.
-* 美国和哈萨克斯坦之间的一项协议使一群与总统和商务部长有联系的美国投资者能够获得世界上最大的未开发钨储量之一。
 
 ## New York Times United States News
-* A bus crashed into multiple vehicles in Queens just before midnight on Monday. Authorities investigating the incident have closed lanes on the highway near 50th Street.
-* 周一午夜前，一辆公交车在皇后区撞上了多辆汽车。调查此事件的当局已关闭第50街附近高速公路上的车道。
-* James Talarico, a Democratic state lawmaker, is tied with Ken Paxton, the Republican state attorney general, according to a New York Times/Siena poll.
-* 根据《纽约时报》/锡耶纳的一项民意调查，民主党州议员詹姆斯·塔拉里科（ James Talarico ）与共和党州检察长肯·帕克斯顿（ Ken Paxton ）并列。
-* Recently discovered documents reveal a back-channel attempt by a leader of the Continental Congress to make peace. (He did not succeed.)
-* 最近发现的文件显示，大陆会议的一位领导人试图通过反渠道实现和平。（他没有成功。）
-* The businessman courted U.S. conservatives as an anti-Communist crusader while using his supporters’ money to buy lavish homes and a Bugatti supercar.
-* 这位商人利用支持者的钱购买豪华住宅和布加迪超级跑车，同时将美国保守派视为反共十字军。
-* Republicans had sought the removal of a little-known candidate with the same name as the incumbent senator, arguing that he was not a “good faith” candidate.
-* 共和党人曾寻求罢免一位与现任参议员同名的鲜为人知的候选人，理由是他不是“诚信”候选人。
-* After months of silence, Representative Tom Kean Jr. was expected to deliver a speech explaining his 116-day absence from Congress.
-* 经过数月的沉默，小汤姆·基恩（ Tom Kean Jr. ）众议员预计将发表演讲，解释他缺席国会116天的原因。
-* The Arizona senator used campaign money to fly his family to Nantucket and the Caribbean. The Justice Department has said it is investigating his campaign finance activity.
-* 这位亚利桑那州参议员利用竞选资金将家人送往楠塔基特和加勒比地区。司法部表示正在调查他的竞选资金活动。
-* Time and again, President Trump has brushed off Americans’ concerns about the economy and their financial situations.
-* 特朗普总统一次又一次地消除了美国人对经济和金融形势的担忧。
-* Primaries on Tuesday will be the latest test of Democrats’ anti-establishment mood.
-* 周二的初选将是对民主党反建制情绪的最新考验。
-* Emily Barker was one of two women who died fighting a large forest fire in Colorado this week.
-* 艾米丽·巴克（ Emily Barker ）是本周在科罗拉多州一场大型森林火灾中丧生的两名妇女
+* Abbie VanSickle, a Supreme Court correspondent for The New York Times, takes stock of the court’s term this year. Opinions largely broke for conservatives, but the court pushed back on some of President Trump’s boldest ideas.
+* 《纽约时报》的最高法院记者Abbie VanSickle对法院今年的任期进行了评估。保守派的意见基本上被打破了，但法院推翻了特朗普总统的一些大胆想法。
+* A bare majority of Supreme Court justices ruled that President Trump’s executive order was unconstitutional, reflecting a conservative shift on the issue.
+* 最高法院法官的绝大多数裁定特朗普总统的行政命令违宪，反映了保守派在这个问题上的转变。
+* With Chicago and much of the country in the grips of a heat wave, air-conditioning technicians are enduring sweltering temperatures to keep systems working.
+* 随着芝加哥和该国大部分地区陷入热浪，空调技术人员正在忍受闷热的温度，以保持系统正常工作。
+* Republicans are defending seats in Alaska, Iowa, Maine, North Carolina, Ohio and Texas as they try to maintain their majority. Democrats are competitive in all six states — but not leading in enough to take the chamber.
+* 共和党人正在捍卫阿拉斯加州、爱荷华州、缅因州、北卡罗来纳州、俄亥俄州和德克萨斯州的席位，因为他们试图保持多数席位。民主党人在所有六个州都具有竞争力，但领导力不足以入主众议院。
+* Voters polled in the states, Iowa and Ohio, also voiced high levels of disapproval for President Trump’s performance.
+* 在爱荷华州和俄亥俄州接受调查的选民也对特朗普总统的表现表示高度不满。
+* We fact-checked the president’s colorful — and inaccurate — accounts of American history from the Battle of Gettysburg to the Unabomber.
+* 我们检查了总统对从葛底斯堡战役到Unabomber的美国历史的丰富多彩且不准确的描述。
+* The justices pushed back on some of President Trump’s signature moves, but they also expanded presidential power and supplied victories on long-sought conservative goals.
+* 法官们推翻了特朗普总统的一些标志性举动，但他们也扩大了总统的权力，并为长期追求的保守目标提供了胜利。
+* City leaders are wagering that a growing cluster of Wall Street firms can cement Dallas as “Y’all Street,” even as marquee names head for the exits.
+* 城市领导人正在押注，越来越多的华尔街公司可以将达拉斯巩固为“Y 'all Street” ，即使大牌公司正在退出。
+* Tamar Shirinian, a former professor at the University of Tennessee at Knoxville, was among those who lost their jobs over their posts about the slain conservative activist.
+* 田纳西大学诺克斯维尔分校（ University of Tennessee at Knoxville ）前教授塔马尔·希里尼安（ Tamar Shirinian ）是那些因被杀害的保守派活动家而失去工作的人之一。
+* A democratic socialist ousted a veteran congresswoman in Denver, and a U.S. senator lost his bid for governor. But the state’s other senator fended off a progressive primary challenger.
+* 一位民主社会主义者在丹佛驱逐了一位资深女议员，一位美国参议员失去了对州长的竞选。但该州的另一位参议员击退了一位进步的主要挑战者。
 
 ## New York Times Asia News
+* Deep beneath a South Korean mountain, workers are reviving a mine that could challenge China’s grip on a metal vital to weapons, chips and industry.
+* 在韩国一座山的深处，工人们正在复兴一座矿山，这座矿山可能会挑战中国对武器、芯片和工业至关重要的金属的控制。
 * The case against Nadiem Makarim, a co-founder of Gojek, has fueled concerns about judicial fairness in a nation where foreign investors were already growing wary.
 * 针对Gojek联合创始人纳迪姆·马卡里姆（ Nadiem Makarim ）的案件引发了人们对司法公正的担忧，在这个国家，外国投资者已经变得越来越谨慎。
 * Beijing’s moves have included flying bombers near Japan, detaining businesspeople and restricting the exports of rare earths.
@@ -64,6 +66,4 @@ Auto RSS New York Times and Translate
 * 这个中亚国家正在积极向特朗普总统的华盛顿求助，以制衡其强大的邻国俄罗斯和中国。
 * The statement came a day after online images showed falling debris and plane parts. Another 13 were injured in the incident five miles from Communist Party headquarters.
 * 这份声明是在网上图片显示掉落的碎片和飞机零件后的第二天发布的。另有13人在距离共产党总部5英里的事件中受伤。
-* Shoko Kawata is the first mayor to take maternity leave in Japan’s history. Her decision has prompted debate about gender discrimination in the work force.
-* 川田祥子是日本历史上第一位休产假的市长。她的决定引发了关于劳动力中性别歧视的辩论。
 
