@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* At least 21 people were killed in Kyiv, the local authorities said. Ukraine’s president had warned that Moscow was preparing a “massive strike” as his country’s forces have hit deeper into Russian territory.
-* 地方当局表示，基辅至少有21人丧生。乌克兰总统警告说，莫斯科正准备进行“大规模罢工” ，因为他的国家部队已经深入俄罗斯领土。
-* High growth rates and surging exports in Vietnam mask deep frustrations in one of Asia’s most ambitious countries.
-* 越南的高增长率和飙升的出口掩盖了亚洲最雄心勃勃的国家之一的深刻挫折感。
-* Senior U.S. officials have said Iran would be richly rewarded for changing its stance on the United States. Iran’s leaders have rejected such a bargain in the past.
-* 美国高级官员表示，伊朗将因改变对美国的立场而获得丰厚的回报。伊朗领导人过去曾拒绝过这样的交易。
-* Foreign dignitaries from China, Russia, Pakistan and elsewhere are set to pay respects to Ayatollah Ali Khamenei on Friday as days of ceremonies get underway.
-* 随着仪式开始，来自中国、俄罗斯、巴基斯坦和其他地方的外国政要将于周五向阿亚图拉·阿里·哈梅内伊致敬。
-* Preservation experts say the move to develop the site reflects a tension in Germany between the need to preserve historically significant monuments and the need to build and modernize.
-* 保护专家表示，开发该遗址的举动反映了德国在保护具有历史意义的古迹与建设和现代化之间的紧张关系。
-* Lobga Rangzen, a 52-year-old resident of Queens, died after the self-immolation. He said Beijing’s policies were “destroying the Tibetan people.”
-* 52岁的皇后区居民Lobga Rangzen在自焚后死亡。他说，北京的政策正在“摧毁西藏人民”。
-* Furious at President Trump over Greenland, Danish officials took the unprecedented step of pressuring organizers to cut American officials from the program.
-* 丹麦官员对特朗普总统在格陵兰岛问题上的表现感到愤怒，他们采取了前所未有的步骤，向组织者施压，要求美国官员退出该计划。
-* Rights groups and Western officials have criticized the law as a threat to Tibetans, Uyghurs and other minorities. Beijing says the measure aims to protect them.
-* 人权组织和西方官员批评这项法律对藏人、维吾尔人和其他少数民族构成威胁。北京表示，这项措施旨在保护他们。
-* “Are we in the Soviet Union now?” asked one Russian, stunned and frustrated by the waits at the pumps.
-* 一位俄罗斯人问道： “我们现在在苏联吗？”他对水泵旁的等待感到震惊和沮丧。
-* Multibillion dollar investments, including a new oil pipeline from Alberta to the Pacific Coast, and natural gas facilities, aim to diversify trade away from the United States.
-* 数十亿美元的投资，包括从阿尔伯塔省到太平洋海岸的新石油管道和天然气设施，旨在实现美国以外的贸易多元化。
+* On the second day of public mourning for Ayatollah Ali Khamenei, who was killed in February, there was still no sign of his son and successor, Mojtaba Khamenei.
+* 在2月份被杀害的阿亚图拉阿里·哈梅内伊（ Ayatollah Ali Khamenei ）公开哀悼的第二天，仍然没有他的儿子和继任者莫伊塔巴·哈梅内伊（ Mojtaba Khamenei ）的迹象。
+* Residents, construction experts and seismologists said for years that Venezuela’s public housing would be vulnerable in a natural disaster.
+* 居民、建筑专家和地震学家多年来一直表示，委内瑞拉的公共住房在自然灾害中将非常脆弱。
+* Ukraine’s military has denied a Kremlin claim to have taken a city in the eastern Donetsk region, saying its troops are holding out against infiltrating Russians.
+* 乌克兰军方否认克里姆林宫声称占领顿涅茨克东部地区的一座城市，称其军队正在抵抗俄罗斯人的渗透。
+* The Vatican has excommunicated the priesthood of a rebel Catholic faction. Many of the priests’ followers have refused to renounce them.
+* 梵蒂冈驱逐了一个反叛的天主教派系的神职人员。许多神父的追随者拒绝放弃他们。
+* Ezra Jin Mingri was released nearly two months after President Trump raised his case with China’s leader, Xi Jinping, during a visit to Beijing.
+* 特朗普总统在访问北京期间向中国领导人习近平提出申诉近两个月后，以斯拉·金明日被释放。
+* Sara Duterte, who has said she would run for president, could be barred from politics over allegations of corruption and for making death threats against President Ferdinand Marcos Jr.
+* 萨拉·杜特尔特（ Sara Duterte ）曾表示，她将竞选总统，可能会因腐败指控和对小费迪南德·马科斯（ Ferdinand Marcos Jr. ）总统的死亡威胁而被禁止参政。
+* Beijing sent two ships to patrol the waters east of Taiwan, a new campaign to challenge the island’s control of waters crucial to any future invasion.
+* 北京派出两艘船在台湾东部水域巡逻，这是一场新的战役，旨在挑战台湾对未来任何入侵至关重要的水域的控制。
+* Ayatollah Mojtaba Khamenei’s absence has raised questions inside Iranian political circles about who is really running the country and allowed open divisions to fester.
+* 阿亚图拉·莫伊塔巴·哈梅内伊（ Ayatollah Mojtaba Khamenei ）的缺席引发了伊朗政界对谁真正管理国家的质疑，并允许公开的分歧恶化。
+* Xi Jinping is preparing to extend his rule as China’s leader and bring fresh blood into the Communist Party elite. Cai Qi is the man he’s tasking to help.
+* 习近平正准备扩大他作为中国领导人的统治，为共产党精英注入新鲜血液。蔡琦就是他要帮的人。
+* As days of public mourning ceremonies began, Iranians viewed the casket of Ayatollah Ali Khamenei, who was killed at the start of the U.S.-Israeli attacks.
+* 随着公众哀悼仪式的开始，伊朗人看到了阿亚图拉·阿里·哈梅内伊（ Ayatollah Ali Khamenei ）的棺材，他在美以袭击开始时被杀。
 
 ## New York Times United States News
-* Francesca Hong, a state legislator running for governor of Wisconsin, wants to prove that a democratic socialist can win in a battleground. Some say she would hand the race to Republicans.
-* 竞选威斯康星州州长的州议员Francesca Hong希望证明民主社会主义者可以在战场上获胜。有人说她会把竞选交给共和党人。
-* Plans include an air show in Texas, 18,500 fireworks in Idaho and a frog-jumping contest in Missouri.
-* 计划包括在德克萨斯州举行的航展、在爱达荷州举行的18,500场烟花表演以及在密苏里州举行的跳蛙比赛。
-* Steve Witkoff and Jared Kushner are pivotal players at a moment when the posts of U.S. ambassador to Moscow and Kyiv are both vacant.
-* 史蒂夫·维特科夫（ Steve Witkoff ）和贾里德·库什纳（ Jared Kushner ）是美国驻莫斯科和基辅大使职位空缺的关键人物。
-* A new mandatory disclosure revealed that the president has earned $2.2 billion during the first year back in the White House.
-* 一项新的强制性披露显示，总统在回到白宫的第一年赚了22亿美元（ $ ）。
-* Liz Murrill, a Republican, was indicted on charges of malfeasance and intimidation after sending warning letters to the city’s Democratic leaders over actions they took.
-* 共和党人利兹·穆里尔（ Liz Murrill ）在向该市的民主党领导人就他们采取的行动发出警告信后，被指控犯有渎职和恐吓罪。
-* Inspectors were not instructed to check a bearing that they had been told was faulty, but the shipping company says Boeing, the plane’s manufacturer, is to blame.
-* 检查员没有被指示检查他们被告知有故障的轴承，但该航运公司表示，飞机制造商波音公司是罪魁祸首。
-* Gov. Greg Abbott appointed a firebrand former opponent, Don Huffines, to be state comptroller, underscoring a G.O.P. push for unity ahead of the midterms.
-* 州长格雷格·阿博特（ Greg Abbott ）任命一名前对手唐·赫芬斯（ Don Huffines ）担任州审计长，强调共和党在中期选举之前推动团结。
-* The expansion of an investigation into Fulton County’s election office reflects President Trump’s desire to prove his baseless claims that the 2020 election in Georgia was rigged.
-* 对富尔顿县选举办公室的调查范围扩大，反映了特朗普总统希望证明他毫无根据地声称佐治亚州2020年选举被操纵的愿望。
-* In a fiery hearing, Judge Ana C. Reyes hammered the government over denials that the president was forging ahead with plans to renovate the course without approval.
-* 在一场激烈的听证会上，安娜· C ·雷耶斯（ Ana C. Reyes ）法官抨击政府否认总统正在推进未经批准翻新课程的计划。
-* A front-door video camera of the crash, which killed a woman inside her home, showed the Tesla plowing into a house through its driveway.
-* 坠机事故的前门摄像头在她家中杀死了一名妇女，显示特斯拉从车道上闯入一所房子。
+* The victims included two boys, aged 6 and 7, and one woman who remained in critical condition on Sunday, the police said. No arrests had been made.
+* 警方称，受害者包括两名6岁和7岁的男孩，以及一名周日仍处于危急状态的女性。没有逮捕任何人。
+* Independence Day celebrations were canceled nationwide and the Brooklyn Bridge briefly caught fire. Yet Americans still found countless ways to celebrate.
+* 全国范围内的独立日庆祝活动被取消，布鲁克林大桥短暂起火。然而，美国人仍然找到了无数的方式来庆祝。
+* Visitors are enduring especially long waits at the popular national park after the Trump administration eliminated a summer reservation system.
+* 在特朗普政府取消夏季预订系统后，游客在受欢迎的国家公园等待的时间特别长。
+* Critics say the administration is weakening public safety. Proponents say regulations would be where they were before President Joseph R. Biden took office.
+* 批评人士说，政府正在削弱公共安全。支持者表示，在约瑟夫· R ·拜登（ Joseph R. Biden ）总统就职之前，法规将是他们所处的位置。
+* President Trump has tried to scale back anti-discrimination regulations that date back decades. Federal agencies have heeded his call.
+* 特朗普总统一直试图缩减可追溯到几十年前的反歧视法规。联邦机构已经听从了他的呼吁。
+* Typhoon Bavi, a tropical cyclone barreling through the Pacific Ocean, was forecast to pass near the U.S. territories on Monday with the force of a Category 5 hurricane.
+* 台风巴维是一个穿越太平洋的热带气旋，预计将于周一在美国领土附近以5级飓风的力量通过。
+* A centerpiece address for the nation’s 250th anniversary celebration devoted time to American history, but had all the hallmarks of a Trump rally.
+* 美国建国250周年庆典的核心讲话致力于美国历史，但具有特朗普集会的所有标志。
+* Pete Hoekstra had made false claims that Canada hadn’t fully paid for the $4.5 billion Gordie Howe Bridge between Detroit and Windsor, Ontario.
+* Pete Hoekstra错误地声称加拿大没有全额支付底特律和安大略省温莎之间45亿$的Gordie Howe大桥。
+* People flock to the coastal town of Cambria, which has become known for its fireworks ban, to give their dogs some respite on the Fourth of July.
+* 人们涌向以烟花禁令而闻名的沿海城镇坎布里亚，在7月4日给他们的狗一些喘息的机会。
+* The police said Paul Pelosi was the driver of a convertible that struck a parked car on Friday. The district attorney will decide whether Mr. Pelosi will be charged.
+* 警方称，保罗·佩洛西（ Paul Pelosi ）是周五撞上一辆停放汽车的敞篷车的司机。地区检察官将决定是否对Pelosi先生提出指控。
 
 ## New York Times Asia News
+* Ezra Jin Mingri was released nearly two months after President Trump raised his case with China’s leader, Xi Jinping, during a visit to Beijing.
+* 特朗普总统在访问北京期间向中国领导人习近平提出申诉近两个月后，以斯拉·金明日被释放。
+* Beijing sent two ships to patrol the waters east of Taiwan, a new campaign to challenge the island’s control of waters crucial to any future invasion.
+* 北京派出两艘船在台湾东部水域巡逻，这是一场新的战役，旨在挑战台湾对未来任何入侵至关重要的水域的控制。
+* Typhoon Bavi, a tropical cyclone barreling through the Pacific Ocean, was forecast to pass near the U.S. territories on Monday with the force of a Category 5 hurricane.
+* 台风巴维是一个穿越太平洋的热带气旋，预计将于周一在美国领土附近以5级飓风的力量通过。
+* Sara Duterte, who has said she would run for president, could be barred from politics over allegations of corruption and for making death threats against President Ferdinand Marcos Jr.
+* 萨拉·杜特尔特（ Sara Duterte ）曾表示，她将竞选总统，可能会因腐败指控和对小费迪南德·马科斯（ Ferdinand Marcos Jr. ）总统的死亡威胁而被禁止参政。
+* Xi Jinping is preparing to extend his rule as China’s leader and bring fresh blood into the Communist Party elite. Cai Qi is the man he’s tasking to help.
+* 习近平正准备扩大他作为中国领导人的统治，为共产党精英注入新鲜血液。蔡琦就是他要帮的人。
+* The director Ishiro Honda took a break from Godzilla with a villain who could turn himself into a cloud of gas. A new series pipes him into the 21st century.
+* 导演Ishiro Honda与一个可以把自己变成一团毒气的恶棍一起离开哥斯拉。一个新的系列将他带入21世纪。
+* Relations between Beijing and Canberra have improved over the past four years, but China’s ambassador is now warning of a ‘Cold War mentality.”
+* 过去四年来，北京和堪培拉之间的关系有所改善，但中国大使现在警告说，中国将采取“冷战心态”。
+* Anger and disappointment are not unusual for fans whose teams are knocked out. But some responses have been extreme.
+* 对于球队被淘汰的球迷来说，愤怒和失望并不罕见。但有些反应是极端的。
+* The overloaded bus was carrying 48 passengers on a notoriously hazardous highway linking two provincial capitals.
+* 这辆超载的公共汽车在一条连接两个省会城市的臭名昭著的高速公路上运送了48名乘客。
 * The Strait of Malacca may be a model for how Oman and Iran could collect fees in the Strait of Hormuz, but the differences between the waterways are vast.
 * 马六甲海峡可能是阿曼和伊朗如何在霍尔木兹海峡收取费用的典范，但两条水道之间存在巨大差异。
-* Rights groups and Western officials have criticized the law as a threat to Tibetans, Uyghurs and other minorities. Beijing says the measure aims to protect them.
-* 人权组织和西方官员批评这项法律对藏人、维吾尔人和其他少数民族构成威胁。北京表示，这项措施旨在保护他们。
-* Lobga Rangzen, a 52-year-old resident of Queens, died after the self-immolation. He said Beijing’s policies were “destroying the Tibetan people.”
-* 52岁的皇后区居民Lobga Rangzen在自焚后死亡。他说，北京的政策正在“摧毁西藏人民”。
-* Furious at President Trump over Greenland, Danish officials took the unprecedented step of pressuring organizers to cut American officials from the program.
-* 丹麦官员对特朗普总统在格陵兰岛问题上的表现感到愤怒，他们采取了前所未有的步骤，向组织者施压，要求美国官员退出该计划。
-* The prime minister met with his counterpart, Sanae Takaichi of Japan, and signed agreements covering artificial intelligence, energy and security.
-* 首相会见了日本首相高市早苗（ Sanae Takaichi ） ，并签署了涵盖人工智能、能源和安全的协议。
-* Another 11 were injured when the pickup truck hit the monks on a pilgrimage in northeast Thailand.
-* 当皮卡在泰国东北部朝圣时击中僧侣时，另有11人受伤。
-* Beijing authorities said the pilot who hit a building in the city had suffered from insomnia and anxiety and had expressed a desire to end his life.
-* 北京当局表示，袭击该市一栋建筑物的飞行员患有失眠和焦虑症，并表示希望结束自己的生命。
-* Dong Yuyu is stuck in a dispute with prison authorities in Beijing over where to get treated for a possible cancer, his family said.
-* 董玉玉的家人说，他与北京监狱当局就如何治疗可能的癌症发生争执。
-* High growth rates and surging exports in Vietnam mask deep frustrations in one of Asia’s most ambitious countries.
-* 越南的高增长率和飙升的出口掩盖了亚洲最雄心勃勃的国家之一的深刻挫折感。
-* Deep beneath a South Korean mountain, workers are reviving a mine that could challenge China’s grip on a metal vital to weapons, chips and industry.
-* 在韩国一座山的深处，工人们正在复兴一座矿山，这座矿山可能会挑战中国对武器、芯片和工业至关重要的金属的控制。
 
