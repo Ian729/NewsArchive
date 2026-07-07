@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Huge crowds of mourners came to view the casket of Ayatollah Ali Khamenei, who was exalted by some and despised by others. He was killed four months ago at the start of the U.S.-Israeli attacks.
-* 大批哀悼者前来观看阿亚图拉阿里·哈梅内伊的棺材，哈梅内伊被一些人擢升，被其他人鄙视。四个月前，在美以袭击开始时，他被杀害。
-* Ballistic missiles were fired into the capital of Ukraine as Russia launched its second major attack in less than a week. At least 12 people were killed, officials said.
-* 俄罗斯在不到一周的时间里发动了第二次重大袭击，向乌克兰首都发射了弹道导弹。官员说，至少有12人死亡。
-* In an interview, Turkey’s top diplomat, Hakan Fidan, said the relationship between President Recep Tayyip Erdogan and President Trump could ease NATO tensions.
-* 土耳其最高外交官哈坎·菲丹（ Hakan Fidan ）在接受采访时表示，总统雷杰普·塔伊普·埃尔多安（ Recep Tayyip Erdogan ）和特朗普总统之间的关系可以缓解北约的紧张局
-* In 2010, there was a huge U.S. aid effort after a quake in Haiti. Today, U.S. officials say they oversee billions in Venezuelan oil revenue, but aid is less.
-* 2010年，海地发生地震后，美国做出了巨大的援助努力。如今，美国官员表示，他们监管着委内瑞拉数十亿美元的石油收入，但援助却较少。
-* The game against Mexico started at 2 a.m. in Britain. Pubs were allowed to stay open unusually late for fans to share the drama together.
-* 对阵墨西哥的比赛于凌晨2点在英国开始。酒吧被允许保持开放，让粉丝们一起分享这部戏剧。
-* Ukraine has changed how militaries use Patriot systems. But recent attacks prove that clever adaptations cannot overcome a shortage of interceptors.
-* 乌克兰改变了军队使用爱国者系统的方式。但最近的攻击证明，聪明的适应无法克服拦截器的短缺。
-* Despite problems like duplicate submissions, tallies gathered by the websites have been cited by news organizations and critics of the Venezuelan government’s disaster response.
-* 尽管存在重复提交等问题，但新闻机构和委内瑞拉政府灾难响应的批评者引用了网站收集的记录。
-* China’s firing of a submarine-launched missile came as Australia secured more defense deals with Pacific Island nations. Countries expressed concern about the test.
-* 中国发射潜射导弹之际，澳大利亚与太平洋岛国达成了更多防务协议。各国对测试表示担忧。
-* Iran’s new leaders are commemorating Ayatollah Khamenei, who was killed on the first day of the U.S.-Israeli war against the country, with a funeral unlike any other in the country’s recent history.
-* 伊朗新领导人正在纪念阿亚图拉·哈梅内伊（ Ayatollah Khamenei ） ，他在美以战争的第一天就被杀害，葬礼与该国近期历史上的其他任何葬礼都不同。
-* As President Trump cools on the alliance, its members see Turkey’s large military and vibrant defense sector as assets.
-* 随着特朗普总统对该联盟冷静下来，其成员将土耳其庞大的军事和充满活力的国防部门视为资产。
+* The focus at a leaders’ summit in Turkey this week will be on building a new model for the alliance, as President Trump pushes to do less and pressures others do more.
+* 本周在土耳其举行的领导人峰会的重点将是为该联盟建立一个新的模式，因为特朗普总统推动减少行动，并施压其他人做得更多。
+* The ceremony for Ayatollah Ali Khamenei, held at a site considered sacred by many Shiites, was the latest step in a weeklong funeral organized by Iran’s government.
+* 阿亚图拉·阿里·哈梅内伊（ Ayatollah Ali Khamenei ）的仪式在许多什叶派认为神圣的地点举行，这是伊朗政府组织的为期一周的葬礼的最新一步。
+* By 2018, fentanyl overdoses in Estonia had plummeted. But powerful new drugs are appearing fast, with the authorities racing to respond.
+* 到2018年，爱沙尼亚的芬太尼过量服用暴跌。但强大的新药正在迅速出现，当局正在竞相应对。
+* Beijing had long tested nuclear missiles only within its borders. A rare launch over an ocean shows it is determined to narrow the gap with the United States.
+* 北京长期以来只在其境内测试核导弹。一次罕见的海洋发射表明，它决心缩小与美国的差距。
+* The Ukrainian authorities said that Anastasiia Berezovska, who officials said was behind the explosion last week, had been shot.
+* 乌克兰当局表示，上周爆炸的幕后黑手阿纳斯塔西娅·别列佐夫斯卡（ Anastasiia Berezovska ）已被枪杀。
+* Though it confirmed Ms. Le Pen’s embezzlement conviction, the court also shortened a ban on her eligibility for elected office. That could allow the far-right leader to run for the presidency next year.
+* 尽管法院确认了勒庞女士的贪污定罪，但法院也缩短了对她当选公职资格的禁令。这可以让这位极右翼领导人在明年竞选总统。
+* The U.S. oil blockade has deepened a humanitarian crisis, forcing Cubans to lean on the island’s long tradition of community solidarity to provide a cushion.
+* 美国的石油封锁加剧了一场人道主义危机，迫使古巴人们依靠岛上悠久的社区团结传统来提供缓冲。
+* President Trump had pushed to allow an American player to take the field despite a red card suspension, and the trouncing of the U.S. team was painted as a sign of justice.
+* 尽管红牌暂停，特朗普总统仍推动允许一名美国球员入场，美国队的失误被描绘成正义的标志。
+* Some are making significant progress on raising their military spending. A few are pushing boundaries in finding ways to try to meet their targets.
+* 一些国家在提高军费开支方面取得了重大进展。一些人正在突破界限，寻找实现目标的方法。
+* A multimillion-dollar battle for a soccer god’s brand is being waged across continents, burning investors and tearing his family apart.
+* 一场耗资数百万美元的争夺足球之神品牌的战斗正在各大洲展开，烧毁了投资者并撕裂了他的家庭。
 
 ## New York Times United States News
-* Attitudes in the party have shifted, Democrats say, with a growing appetite for outsider candidates vowing to overhaul the system. Some worry that the trend could be costly in November.
-* 民主党人表示，该党的态度已经转变，对发誓要改革该制度的外部候选人的兴趣越来越大。一些人担心，这一趋势在11月份可能代价高昂。
-* A judge will determine whether there is enough evidence to go to trial. Mr. Kirk’s widow and parents are expected to be in court.
-* 法官将确定是否有足够的证据进行审判。Kirk先生的遗孀和父母预计将出庭。
-* Some of the nation’s top research universities are shrinking doctoral programs because of uncertain federal funding.
-* 由于联邦资金的不确定性，美国一些顶尖的研究型大学正在缩减博士课程。
-* Congressional interns, usually seen but not heard, are taking to social media with viral trends and pithy posts about their outfits, lifestyles and jobs.
-* 国会实习生通常在社交媒体上看到，但却听不到，他们在社交媒体上发布病毒式趋势和有关其服装、生活方式和工作的精辟帖子。
-* A Times reporter reflects on her childhood experience at the World Cup and how attending a game can shape the children of today.
-* 《泰晤士报》记者回顾了她在世界杯上的童年经历，以及参加比赛如何塑造当今的儿童。
-* President Trump is appointing his former personal lawyers to judgeships, part of a larger effort to put his stamp on the federal courts.
-* 特朗普总统正在任命他的前私人律师担任法官，这是他在联邦法院上盖章的更大努力的一部分。
-* The president placed his image and initiatives front and center, blurring the line, critics said, between loyalty to nation and loyalty to him.
-* 批评人士说，总统将自己的形象和举措放在首位，模糊了对国家的忠诚和对他的忠诚之间的界限。
-* Kelsey Pfendler, a Grand Canyon river-rafting guide, completed the journey of more than 2,300 miles in a rowboat named Lily in just under 44 days, according to data from the Ocean Rowing Society International.
-* 根据国际海洋赛艇协会的数据，大峡谷河上漂流向导Kelsey Pfendler在不到44天的时间里，在一艘名为Lily的划艇上完成了超过2,300英里的旅程。
-* Shootings occurred across the country, including in New York, Florida, Texas, Illinois and Tennessee. More than 50 people were shot, and at least five people have died.
-* 枪击事件发生在全国各地，包括纽约、佛罗里达州、德克萨斯州、伊利诺伊州和田纳西州。超过50人被枪杀，至少有5人死亡。
-* The reversal of Folarin Balogun’s World Cup suspension is highly unusual. It was the first time since 1962 that FIFA has nullified a suspension for a red card received during the World Cup.
-* Folarin Balogun世界杯停赛的逆转非常不寻常。这是自1962年以来，国际足联首次取消对世界杯期间收到的红牌的停赛。
+* Last week, the Supreme Court took up challenges to two assault weapons bans. Its decision could seriously limit the government’s ability to ban certain guns.
+* 上周，最高法院对两项攻击性武器禁令提出了质疑。它的决定可能会严重限制政府禁止某些枪支的能力。
+* After Graham Platner, the Democratic nominee in Maine, was accused of rape, much of the party and several key supporters turned against him.
+* 缅因州民主党候选人格雷厄姆·普拉特纳（ Graham Platner ）被指控强奸后，该党的大部分成员和几位主要支持者都反对他。
+* The president has glossed over persistently high unemployment among African Americans, a group he needed to secure a second term.
+* 总统掩盖了非裔美国人持续的高失业率，这是他获得第二个任期所需的群体。
+* At this year’s NATO summit in Turkey, President Trump is arriving with his own priorities — and, as Tyler Pager, The Times’s White House correspondent, explains, they do not necessarily align with those of other NATO leaders.
+* 在今年的土耳其北约峰会上，特朗普总统将带着自己的优先事项抵达--正如《泰晤士报》白宫记者泰勒·佩格（ Tyler Pager ）所解释的那样，他们不一定与其他北约领导人保持一致。
+* While the team failed to meet the hopes of many fans, this World Cup highlighted the game’s decades-long climb into the national consciousness. What comes next?
+* 虽然球队未能满足许多球迷的希望，但这届世界杯凸显了这场比赛长达数十年的国家意识。接下来会发生什么？
+* “This is something that I tried for many years to forget,” the woman, Jenny Racicot, said on CNN.
+* “这是我多年来一直试图忘记的事情，”这位名叫珍妮·拉西科特(Jenny Racicot)的女士在美国有线电视新闻网(CNN)上
+* The city struggled for years after the pandemic shutdown and the rush to remote work. But downtown has been full of soccer fans for the past month.
+* 在疫情关闭和急于远程工作之后，这座城市挣扎了多年。但是在过去的一个月里，市中心一直挤满了足球迷。
+* The president, who is headed to a NATO summit in Ankara this week, had imposed the ban himself amid concerns that giving Turkey the jets could allow Russia to learn about their stealth technology.
+* 总统本周将前往安卡拉参加北约峰会，他自己也实施了禁令，因为担心将喷气式飞机交给土耳其可能会让俄罗斯了解他们的隐形技术。
+* Even supporters like Representative Ro Khanna of California and Senator Elizabeth Warren of Massachusetts called on the Democratic nominee to exit the Maine Senate race after a report that he had sexually assaulted a woman.
+* 甚至像加利福尼亚州众议员Ro Khanna和马萨诸塞州参议员Elizabeth Warren这样的支持者也呼吁民主党候选人退出缅因州参议院竞选，因为有报道称他对一名妇女进行了性侵犯。
+* The retailer said it will lower prices for beef, produce, drinks, pools, toys, grills and summer clothing.
+* 该零售商表示，将降低牛肉、农产品、饮料、游泳池、玩具、烤架和夏季服装的价格。
 
 ## New York Times Asia News
+* Beijing had long tested nuclear missiles only within its borders. A rare launch over an ocean shows it is determined to narrow the gap with the United States.
+* 北京长期以来只在其境内测试核导弹。一次罕见的海洋发射表明，它决心缩小与美国的差距。
+* An amendment to South Korea’s communications act will clamp down on purveyors of false information online. Critics worry it could threaten freedom of speech.
+* 韩国《通信法》修正案将禁止在线提供虚假信息的人。批评人士担心这可能会威胁到言论自由。
+* Videos showed inundated roads, farmland and buildings, and floodwaters rushing toward homes, while the region braced for a potential super typhoon this week.
+* 视频显示，道路、农田和建筑物被淹没，洪水涌向房屋，而该地区本周正准备迎接潜在的超级台风。
+* The Chinese company’s models have won over developers worldwide, but they are open source — so they can be used and modified freely.
+* 这家中国公司的模式在全球范围内赢得了开发者的青睐，但它们是开源的，因此可以自由使用和修改。
+* The country has faced criticism from human rights activists for the conditions in its prisons, including overcrowding and failing to protect inmates.
+* 该国的监狱条件一直受到人权活动人士的批评，包括过度拥挤和未能保护囚犯。
 * Nuctech’s rise from a Chinese state-backed start-up to a global border-security supplier has made it a lightning rod in trade and subsidy disputes.
 * Nuctech从一家中国国家支持的初创企业崛起为全球边境安全供应商，使其成为贸易和补贴纠纷的避雷针。
 * China’s firing of a submarine-launched missile came as Australia secured more defense deals with Pacific Island nations. Countries expressed concern about the test.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 特朗普总统在访问北京期间向中国领导人习近平提出申诉近两个月后，以斯拉·金明日被释放。
 * Beijing sent two ships to patrol the waters east of Taiwan, a new campaign to challenge the island’s control of waters crucial to any future invasion.
 * 北京派出两艘船在台湾东部水域巡逻，这是一场新的战役，旨在挑战台湾对未来任何入侵至关重要的水域的控制。
-* Typhoon Bavi, a tropical cyclone barreling through the Pacific Ocean, was forecast to pass near the U.S. territories on Monday with the force of a Category 5 hurricane.
-* 台风巴维是一个穿越太平洋的热带气旋，预计将于周一在美国领土附近以5级飓风的力量通过。
-* Sara Duterte, who has said she would run for president, could be barred from politics over allegations of corruption and for making death threats against President Ferdinand Marcos Jr.
-* 萨拉·杜特尔特（ Sara Duterte ）曾表示，她将竞选总统，可能会因腐败指控和对小费迪南德·马科斯（ Ferdinand Marcos Jr. ）总统的死亡威胁而被禁止参政。
-* Xi Jinping is preparing to extend his rule as China’s leader and bring fresh blood into the Communist Party elite. Cai Qi is the man he’s tasking to help.
-* 习近平正准备扩大他作为中国领导人的统治，为共产党精英注入新鲜血液。蔡琦就是他要帮的人。
-* The director Ishiro Honda took a break from Godzilla with a villain who could turn himself into a cloud of gas. A new series pipes him into the 21st century.
-* 导演Ishiro Honda与一个可以把自己变成一团毒气的恶棍一起离开哥斯拉。一个新的系列将他带入21世纪。
-* Relations between Beijing and Canberra have improved over the past four years, but China’s ambassador is now warning of a ‘Cold War mentality.”
-* 过去四年来，北京和堪培拉之间的关系有所改善，但中国大使现在警告说，中国将采取“冷战心态”。
 
