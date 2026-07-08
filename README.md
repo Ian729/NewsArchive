@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The focus at a leaders’ summit in Turkey this week will be on building a new model for the alliance, as President Trump pushes to do less and pressures others do more.
-* 本周在土耳其举行的领导人峰会的重点将是为该联盟建立一个新的模式，因为特朗普总统推动减少行动，并施压其他人做得更多。
+* “I think it’s over,” President Trump said, referring to the preliminary truce. Iran’s armed forces earlier said they had targeted U.S. military sites in Bahrain and Kuwait in response to the latest U.S. attacks.
+* “我认为这已经结束了，”特朗普总统在谈到初步休战时说。伊朗武装部队早些时候表示，他们以美国在巴林和科威特的军事基地为目标，以应对美国最近的袭击。
+* President Trump assailed allies for not joining the war in Iran, called Spain “hopeless” and repeated his desire to control Greenland. His criticism cast a pall over a meeting critical for NATO’s future.
+* 特朗普总统抨击盟友不参加伊朗战争，称西班牙“毫无希望” ，并重申他希望控制格陵兰岛的愿望。他的批评给对北约未来至关重要的会议蒙上了一层阴影。
+* The second President Trump landed in Turkey, the center of gravity shifted right to where he likes it best: himself.
+* 第二任总统特朗普降落在土耳其，重心转移到了他最喜欢的地方：他自己。
+* Millions of Iranians descended on Tehran to pay their respects to the slain supreme leader.
+* 数百万伊朗人来到德黑兰向这位被杀害的最高领导人表示敬意。
+* A former military base in the Adriatic Sea, the island is in a beautiful setting but it is strewed with snakes, crumbling buildings and land mines.
+* 该岛曾是亚得里亚海的军事基地，环境优美，但布满了蛇、摇摇欲坠的建筑物和地雷。
+* For months, Jordan Bardella was set to be the French far-right’s candidate for the presidency — until his mentor, Marine Le Pen, nudged him aside this week. Their relationship could define the campaign.
+* 几个月来，乔丹·巴德拉（ Jordan Bardella ）一直是法国极右翼的总统候选人，直到他的导师马琳·勒庞（ Marine Le Pen ）本周将他推到一边。他们的关系可以定义活动。
+* Not for the first time, Budweiser is trying to make it in Germany. But this is a tough time to sell German drinkers on the image and taste of American beer.
+* 百威（ Budweiser ）不是第一次尝试在德国生产。但这是向德国饮酒者推销美国啤酒的形象和口味的艰难时刻。
+* With a series of recent treaties and alliances, Canberra is seeking to prevent Beijing from establishing a military foothold in the Pacific Ocean.
+* 通过最近的一系列条约和联盟，堪培拉正在寻求阻止北京在太平洋建立军事立足点。
+* A violent militia that controls large swaths of Congolese territory in the east may use the virus to try to bolster its authority.
+* 控制东部大片刚果领土的暴力民兵可能利用该病毒来加强其权威。
 * The ceremony for Ayatollah Ali Khamenei, held at a site considered sacred by many Shiites, was the latest step in a weeklong funeral organized by Iran’s government.
 * 阿亚图拉·阿里·哈梅内伊（ Ayatollah Ali Khamenei ）的仪式在许多什叶派认为神圣的地点举行，这是伊朗政府组织的为期一周的葬礼的最新一步。
-* By 2018, fentanyl overdoses in Estonia had plummeted. But powerful new drugs are appearing fast, with the authorities racing to respond.
-* 到2018年，爱沙尼亚的芬太尼过量服用暴跌。但强大的新药正在迅速出现，当局正在竞相应对。
-* Beijing had long tested nuclear missiles only within its borders. A rare launch over an ocean shows it is determined to narrow the gap with the United States.
-* 北京长期以来只在其境内测试核导弹。一次罕见的海洋发射表明，它决心缩小与美国的差距。
-* The Ukrainian authorities said that Anastasiia Berezovska, who officials said was behind the explosion last week, had been shot.
-* 乌克兰当局表示，上周爆炸的幕后黑手阿纳斯塔西娅·别列佐夫斯卡（ Anastasiia Berezovska ）已被枪杀。
-* Though it confirmed Ms. Le Pen’s embezzlement conviction, the court also shortened a ban on her eligibility for elected office. That could allow the far-right leader to run for the presidency next year.
-* 尽管法院确认了勒庞女士的贪污定罪，但法院也缩短了对她当选公职资格的禁令。这可以让这位极右翼领导人在明年竞选总统。
-* The U.S. oil blockade has deepened a humanitarian crisis, forcing Cubans to lean on the island’s long tradition of community solidarity to provide a cushion.
-* 美国的石油封锁加剧了一场人道主义危机，迫使古巴人们依靠岛上悠久的社区团结传统来提供缓冲。
-* President Trump had pushed to allow an American player to take the field despite a red card suspension, and the trouncing of the U.S. team was painted as a sign of justice.
-* 尽管红牌暂停，特朗普总统仍推动允许一名美国球员入场，美国队的失误被描绘成正义的标志。
-* Some are making significant progress on raising their military spending. A few are pushing boundaries in finding ways to try to meet their targets.
-* 一些国家在提高军费开支方面取得了重大进展。一些人正在突破界限，寻找实现目标的方法。
-* A multimillion-dollar battle for a soccer god’s brand is being waged across continents, burning investors and tearing his family apart.
-* 一场耗资数百万美元的争夺足球之神品牌的战斗正在各大洲展开，烧毁了投资者并撕裂了他的家庭。
 
 ## New York Times United States News
-* Last week, the Supreme Court took up challenges to two assault weapons bans. Its decision could seriously limit the government’s ability to ban certain guns.
-* 上周，最高法院对两项攻击性武器禁令提出了质疑。它的决定可能会严重限制政府禁止某些枪支的能力。
-* After Graham Platner, the Democratic nominee in Maine, was accused of rape, much of the party and several key supporters turned against him.
-* 缅因州民主党候选人格雷厄姆·普拉特纳（ Graham Platner ）被指控强奸后，该党的大部分成员和几位主要支持者都反对他。
-* The president has glossed over persistently high unemployment among African Americans, a group he needed to secure a second term.
-* 总统掩盖了非裔美国人持续的高失业率，这是他获得第二个任期所需的群体。
-* At this year’s NATO summit in Turkey, President Trump is arriving with his own priorities — and, as Tyler Pager, The Times’s White House correspondent, explains, they do not necessarily align with those of other NATO leaders.
-* 在今年的土耳其北约峰会上，特朗普总统将带着自己的优先事项抵达--正如《泰晤士报》白宫记者泰勒·佩格（ Tyler Pager ）所解释的那样，他们不一定与其他北约领导人保持一致。
-* While the team failed to meet the hopes of many fans, this World Cup highlighted the game’s decades-long climb into the national consciousness. What comes next?
-* 虽然球队未能满足许多球迷的希望，但这届世界杯凸显了这场比赛长达数十年的国家意识。接下来会发生什么？
-* “This is something that I tried for many years to forget,” the woman, Jenny Racicot, said on CNN.
-* “这是我多年来一直试图忘记的事情，”这位名叫珍妮·拉西科特(Jenny Racicot)的女士在美国有线电视新闻网(CNN)上
-* The city struggled for years after the pandemic shutdown and the rush to remote work. But downtown has been full of soccer fans for the past month.
-* 在疫情关闭和急于远程工作之后，这座城市挣扎了多年。但是在过去的一个月里，市中心一直挤满了足球迷。
-* The president, who is headed to a NATO summit in Ankara this week, had imposed the ban himself amid concerns that giving Turkey the jets could allow Russia to learn about their stealth technology.
-* 总统本周将前往安卡拉参加北约峰会，他自己也实施了禁令，因为担心将喷气式飞机交给土耳其可能会让俄罗斯了解他们的隐形技术。
-* Even supporters like Representative Ro Khanna of California and Senator Elizabeth Warren of Massachusetts called on the Democratic nominee to exit the Maine Senate race after a report that he had sexually assaulted a woman.
-* 甚至像加利福尼亚州众议员Ro Khanna和马萨诸塞州参议员Elizabeth Warren这样的支持者也呼吁民主党候选人退出缅因州参议院竞选，因为有报道称他对一名妇女进行了性侵犯。
-* The retailer said it will lower prices for beef, produce, drinks, pools, toys, grills and summer clothing.
-* 该零售商表示，将降低牛肉、农产品、饮料、游泳池、玩具、烤架和夏季服装的价格。
+* Charles Dingman, chair of the Maine Democratic Party and a progressive, would play a key role in choosing the state’s Democratic Senate candidate if Graham Platner leaves the race.
+* 如果格雷厄姆·普拉特纳（ Graham Platner ）退出竞选，缅因州民主党主席、进步党人查尔斯·丁曼（ Charles Dingman ）将在选择该州民主党参议院候选人方面发挥关键作用。
+* Emma Waters, pregnant with her third child, is crafting policy to encourage early parenthood. Some think she is pushing an ideology that does not meet reality.
+* 怀有第三个孩子的艾玛·沃特斯（ Emma Waters ）正在制定鼓励早育的政策。有些人认为她正在推动一种不符合现实的意识形态。
+* Three counts of attempted murder against Dharmesh A. Patel were dismissed after he completed a court-ordered mental health program, prosecutors said.
+* 检察官说，对Dharmesh A. Patel的三项谋杀未遂指控在他完成法院命令的心理健康计划后被驳回。
+* At their first one-on-one debate in a top Senate race, Representative Haley Stevens accused her progressive rival, Dr. Abdul El-Sayed, of being too focused on publicity as he called her a tool of corporate interests.
+* 在参议院高层竞选的第一次一对一辩论中，众议员海莉·史蒂文斯（ Haley Stevens ）指责她的进步对手阿卜杜勒·赛义德（ Abdul El-Sayed ）博士过于关注宣传，称她为企业利益的工具。
+* The charges for most of the people carry sentences of up to 12.5 years in prison, officials said, and the police have recommended more charges for a separate attempt in April.
+* 官员说，对大多数人的指控最高可判处12.5年徒刑，警方建议对4月份的另一次尝试提出更多指控。
+* A top state party official said that Graham Platner’s team had “repeatedly” tried to “put their thumb on the scale,” but he would not influence how the party chose a new Senate candidate.
+* 该州一名高级官员表示，格雷厄姆·普拉特纳（ Graham Platner ）的团队“一再”试图“把拇指放在秤上” ，但他不会影响该党如何选择新的参议院候选人。
+* The ruling, based on an agreement the Trump administration signed with Florida last year, contradicted an earlier order by a judge in Washington that required the access be suspended.
+* 该裁决基于特朗普政府去年与佛罗里达州签署的一项协议，与华盛顿法官早些时候要求暂停访问的命令相矛盾。
+* The law limits teaching on race, gender and other topics. Part of the law related to colleges was struck down. It remains in effect in K-12 schools.
+* 法律限制有关种族、性别和其他主题的教学。与大学有关的部分法律被废除。它在K-12学校仍然有效。
+* The former Chicago mayor, a Democrat exploring a 2028 presidential run, is in Tel Aviv calling for an end to unconditional U.S. support of Israel.
+* 这位前芝加哥市长是一位正在探索2028年总统竞选的民主党人，他正在特拉维夫呼吁结束美国对以色列的无条件支持。
+* The military operation came hours after the U.S. Treasury revoked a waiver allowing global sales of Iranian oil.
+* 几小时前，美国财政部撤销了允许伊朗石油全球销售的豁免。
 
 ## New York Times Asia News
+* Five crew members were aboard when the aircraft plunged vertically and went missing over the Arabian Sea, flight data showed.
+* 飞行数据显示，当飞机垂直坠落并在阿拉伯海上空失踪时，机上有五名机组人员。
+* With a series of recent treaties and alliances, Canberra is seeking to prevent Beijing from establishing a military foothold in the Pacific Ocean.
+* 通过最近的一系列条约和联盟，堪培拉正在寻求阻止北京在太平洋建立军事立足点。
+* The tech giant that owns Instagram, Facebook and WhatsApp says it is in touch with the Indian authorities about reports that exploitative content is being hawked on one of its platforms.
+* 这家拥有Instagram、Facebook和WhatsApp的科技巨头表示，它正与印度当局就有关在其平台上兜售剥削性内容的报道保持联系。
 * Beijing had long tested nuclear missiles only within its borders. A rare launch over an ocean shows it is determined to narrow the gap with the United States.
 * 北京长期以来只在其境内测试核导弹。一次罕见的海洋发射表明，它决心缩小与美国的差距。
 * An amendment to South Korea’s communications act will clamp down on purveyors of false information online. Critics worry it could threaten freedom of speech.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * Nuctech从一家中国国家支持的初创企业崛起为全球边境安全供应商，使其成为贸易和补贴纠纷的避雷针。
 * China’s firing of a submarine-launched missile came as Australia secured more defense deals with Pacific Island nations. Countries expressed concern about the test.
 * 中国发射潜射导弹之际，澳大利亚与太平洋岛国达成了更多防务协议。各国对测试表示担忧。
-* There was an islandwide power outage on Saipan, the capital of the Northern Mariana Islands, as the Category 5 storm approached.
-* 随着5级风暴的临近，北马里亚纳群岛首都塞班岛全岛停电。
-* Ezra Jin Mingri was released nearly two months after President Trump raised his case with China’s leader, Xi Jinping, during a visit to Beijing.
-* 特朗普总统在访问北京期间向中国领导人习近平提出申诉近两个月后，以斯拉·金明日被释放。
-* Beijing sent two ships to patrol the waters east of Taiwan, a new campaign to challenge the island’s control of waters crucial to any future invasion.
-* 北京派出两艘船在台湾东部水域巡逻，这是一场新的战役，旨在挑战台湾对未来任何入侵至关重要的水域的控制。
 
