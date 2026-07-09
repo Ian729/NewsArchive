@@ -2,52 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* “I think it’s over,” President Trump said, referring to the preliminary truce. Iran’s armed forces earlier said they had targeted U.S. military sites in Bahrain and Kuwait in response to the latest U.S. attacks.
-* “我认为这已经结束了，”特朗普总统在谈到初步休战时说。伊朗武装部队早些时候表示，他们以美国在巴林和科威特的军事基地为目标，以应对美国最近的袭击。
-* President Trump assailed allies for not joining the war in Iran, called Spain “hopeless” and repeated his desire to control Greenland. His criticism cast a pall over a meeting critical for NATO’s future.
-* 特朗普总统抨击盟友不参加伊朗战争，称西班牙“毫无希望” ，并重申他希望控制格陵兰岛的愿望。他的批评给对北约未来至关重要的会议蒙上了一层阴影。
+* Attacks on ships were followed by new U.S. strikes on Iran, which responded by firing at Gulf nations. The pattern of hostilities has all but collapsed a cease-fire, with little sign that either side will step back.
+* 袭击船只后，美国又对伊朗发动了新的袭击，伊朗以向海湾国家开火作为回应。敌对行动的模式几乎使停火崩溃，几乎没有迹象表明任何一方都会后退。
+* Iran’s history shows it is willing to dig in, even when it may suffer big losses.
+* 伊朗的历史表明，即使它可能遭受巨大损失，它也愿意深入研究。
+* While President Trump insulted allies and demanded loyalty, the military alliance moved quietly closer to accepting more European responsibility for defense.
+* 在特朗普总统侮辱盟友并要求忠诚的同时，军事联盟悄然接近接受更多的欧洲防务责任。
+* Censors demanded 127 cuts to the film that explores a dark period of police brutality in Punjab state. Filmmakers say it’s the latest, chilling example of entrenched censorship.
+* 审查人员要求对这部电影进行127次剪辑，以探索旁遮普邦警察暴行的黑暗时期。电影制作人说，这是根深蒂固的审查制度的最新、令人不寒而栗的例子。
+* Accusations that the United States lied about its involvement in the notorious drug lord’s capture renewed controversy over an issue that has strained the U.S.-Mexico relationship.
+* 指责美国谎称其参与了这位臭名昭著的毒枭的捕获，这一问题再次引发了争议，使美墨关系紧张。
+* The day after a court decided the far-right leader Marine Le Pen could run for office again, cheers and boos met her campaign kickoff in a rural stronghold.
+* 在法院决定极右翼领导人马琳·勒庞（ Marine Le Pen ）可以再次竞选公职的第二天，欢呼声和嘘声在农村据点迎来了她的竞选活动。
+* The confidential report will be considered by International Criminal Court members as they vote on whether to remove the top official.
+* 国际刑事法院成员在就是否罢免这名高级官员进行投票时，将考虑这份机密报告。
 * The second President Trump landed in Turkey, the center of gravity shifted right to where he likes it best: himself.
 * 第二任总统特朗普降落在土耳其，重心转移到了他最喜欢的地方：他自己。
-* Millions of Iranians descended on Tehran to pay their respects to the slain supreme leader.
-* 数百万伊朗人来到德黑兰向这位被杀害的最高领导人表示敬意。
-* A former military base in the Adriatic Sea, the island is in a beautiful setting but it is strewed with snakes, crumbling buildings and land mines.
-* 该岛曾是亚得里亚海的军事基地，环境优美，但布满了蛇、摇摇欲坠的建筑物和地雷。
-* For months, Jordan Bardella was set to be the French far-right’s candidate for the presidency — until his mentor, Marine Le Pen, nudged him aside this week. Their relationship could define the campaign.
-* 几个月来，乔丹·巴德拉（ Jordan Bardella ）一直是法国极右翼的总统候选人，直到他的导师马琳·勒庞（ Marine Le Pen ）本周将他推到一边。他们的关系可以定义活动。
-* Not for the first time, Budweiser is trying to make it in Germany. But this is a tough time to sell German drinkers on the image and taste of American beer.
-* 百威（ Budweiser ）不是第一次尝试在德国生产。但这是向德国饮酒者推销美国啤酒的形象和口味的艰难时刻。
-* With a series of recent treaties and alliances, Canberra is seeking to prevent Beijing from establishing a military foothold in the Pacific Ocean.
-* 通过最近的一系列条约和联盟，堪培拉正在寻求阻止北京在太平洋建立军事立足点。
-* A violent militia that controls large swaths of Congolese territory in the east may use the virus to try to bolster its authority.
-* 控制东部大片刚果领土的暴力民兵可能利用该病毒来加强其权威。
-* The ceremony for Ayatollah Ali Khamenei, held at a site considered sacred by many Shiites, was the latest step in a weeklong funeral organized by Iran’s government.
-* 阿亚图拉·阿里·哈梅内伊（ Ayatollah Ali Khamenei ）的仪式在许多什叶派认为神圣的地点举行，这是伊朗政府组织的为期一周的葬礼的最新一步。
+* Fearful that officials would tear down damaged buildings without accounting for any remaining bodies, Venezuelans are desperately digging for their relatives’ remains.
+* 委内瑞拉人担心官员会拆毁受损的建筑物，而不考虑任何剩余的尸体，他们正在拼命挖掘亲属的遗体。
+* After watching Egypt lead for almost the entire match, a last-minute victory by Argentina has driven fans to tears and conspiracy theories.
+* 在观看了埃及队几乎在整场比赛中领先之后，阿根廷队的最后一分钟胜利让球迷们流下了眼泪和阴谋论。
 
 ## New York Times United States News
-* Charles Dingman, chair of the Maine Democratic Party and a progressive, would play a key role in choosing the state’s Democratic Senate candidate if Graham Platner leaves the race.
-* 如果格雷厄姆·普拉特纳（ Graham Platner ）退出竞选，缅因州民主党主席、进步党人查尔斯·丁曼（ Charles Dingman ）将在选择该州民主党参议院候选人方面发挥关键作用。
-* Emma Waters, pregnant with her third child, is crafting policy to encourage early parenthood. Some think she is pushing an ideology that does not meet reality.
-* 怀有第三个孩子的艾玛·沃特斯（ Emma Waters ）正在制定鼓励早育的政策。有些人认为她正在推动一种不符合现实的意识形态。
-* Three counts of attempted murder against Dharmesh A. Patel were dismissed after he completed a court-ordered mental health program, prosecutors said.
-* 检察官说，对Dharmesh A. Patel的三项谋杀未遂指控在他完成法院命令的心理健康计划后被驳回。
-* At their first one-on-one debate in a top Senate race, Representative Haley Stevens accused her progressive rival, Dr. Abdul El-Sayed, of being too focused on publicity as he called her a tool of corporate interests.
-* 在参议院高层竞选的第一次一对一辩论中，众议员海莉·史蒂文斯（ Haley Stevens ）指责她的进步对手阿卜杜勒·赛义德（ Abdul El-Sayed ）博士过于关注宣传，称她为企业利益的工具。
-* The charges for most of the people carry sentences of up to 12.5 years in prison, officials said, and the police have recommended more charges for a separate attempt in April.
-* 官员说，对大多数人的指控最高可判处12.5年徒刑，警方建议对4月份的另一次尝试提出更多指控。
-* A top state party official said that Graham Platner’s team had “repeatedly” tried to “put their thumb on the scale,” but he would not influence how the party chose a new Senate candidate.
-* 该州一名高级官员表示，格雷厄姆·普拉特纳（ Graham Platner ）的团队“一再”试图“把拇指放在秤上” ，但他不会影响该党如何选择新的参议院候选人。
-* The ruling, based on an agreement the Trump administration signed with Florida last year, contradicted an earlier order by a judge in Washington that required the access be suspended.
-* 该裁决基于特朗普政府去年与佛罗里达州签署的一项协议，与华盛顿法官早些时候要求暂停访问的命令相矛盾。
-* The law limits teaching on race, gender and other topics. Part of the law related to colleges was struck down. It remains in effect in K-12 schools.
-* 法律限制有关种族、性别和其他主题的教学。与大学有关的部分法律被废除。它在K-12学校仍然有效。
-* The former Chicago mayor, a Democrat exploring a 2028 presidential run, is in Tel Aviv calling for an end to unconditional U.S. support of Israel.
-* 这位前芝加哥市长是一位正在探索2028年总统竞选的民主党人，他正在特拉维夫呼吁结束美国对以色列的无条件支持。
-* The military operation came hours after the U.S. Treasury revoked a waiver allowing global sales of Iranian oil.
-* 几小时前，美国财政部撤销了允许伊朗石油全球销售的豁免。
+* The state Democratic Party has said it will pick a replacement through a nominating convention before a July 27 deadline. Candidates are already lining up.
+* 州民主党已表示将在7月27日截止日期之前通过提名大会挑选替代者。候选人已经在排队了。
+* The proposed 250-foot arch would violate a height limit on Washington structures under the traditional reading of the law. But the panel, now led by the president’s allies, has other ideas.
+* 拟议的250英尺高的拱门将违反传统法律对华盛顿结构的高度限制。但现在由总统的盟友领导的小组还有其他想法。
+* Ambassador Brian Burch must navigate the relationship between the two most prominent American men in the world. His priority is the one in Washington.
+* 大使Brian Burch必须了解世界上最著名的两位美国男性之间的关系。他的首要任务是华盛顿。
+* The data center boom has roiled communities across the country, but on Native land, a Big Tech push for quick approvals has pitted the need for development against a history of exploitation.
+* 数据中心的繁荣席卷了全国各地的社区，但在本土土地上，大型科技公司对快速审批的推动使开发的需求与开发历史相矛盾。
+* The deadline to pick a new nominee is July 27 and candidates are already lining up. State party leaders said they would hold some form of nominating convention.
+* 挑选新候选人的截止日期是7月27日，候选人已经在排队了。缔约国领导人表示，他们将举行某种形式的提名大会。
+* Tennessee authorities are investigating both shootings involving agents working with the task force in Memphis.
+* 田纳西州当局正在调查两起涉及与孟菲斯特遣部队合作的特工的枪击事件。
+* Graham Platner’s bid for the Senate inspired progressive Democrats. But the campaign, which he suspended Wednesday, was messy, disorganized and ultimately doomed by a steady drip of scandal.
+* 格雷厄姆·普拉特纳（ Graham Platner ）竞选参议院激励了进步的民主党人。但他周三暂停的竞选活动杂乱无章，最终因丑闻不断而注定失败。
+* The last time the justices granted a rehearing request after a case decision was in 1965. The court has only once reversed itself after rehearing a case.
+* 案件判决后，法官最后一次批准重审请求是在1965年。法院在重新审理案件后仅进行过一次自我翻转。
+* Mr. Jackson, a longtime state legislator, lost a Democratic primary for governor this year. He has already earned some high-profile endorsements.
+* 长期担任州议员的杰克逊今年失去了民主党州长初选。他已经获得了一些高调的代言。
+* Dr. Shah, an epidemiologist who led Maine’s response to the coronavirus pandemic, finished second in the ranked-choice primary for governor.
+* Shah博士是一名流行病学家，领导缅因州应对冠状病毒大流行，在州长初选中排名第二。
 
 ## New York Times Asia News
-* Five crew members were aboard when the aircraft plunged vertically and went missing over the Arabian Sea, flight data showed.
-* 飞行数据显示，当飞机垂直坠落并在阿拉伯海上空失踪时，机上有五名机组人员。
+* At least a dozen people appeared to be trapped on the roof of a shoe factory, in video released by state news media.
+* 在国家新闻媒体发布的视频中，至少有十几人似乎被困在一家制鞋厂的屋顶上。
+* Toxic fumes have sickened nearby residents. Lawmakers and activists say the blaze is an indication of the country’s longstanding issues with waste management.
+* 有毒烟雾使附近的居民感到恶心。立法者和活动人士表示，这场大火表明该国在废物管理方面存在长期问题。
+* Censors demanded 127 cuts to the film that explores a dark period of police brutality in Punjab state. Filmmakers say it’s the latest, chilling example of entrenched censorship.
+* 审查人员要求对这部电影进行127次剪辑，以探索旁遮普邦警察暴行的黑暗时期。电影制作人说，这是根深蒂固的审查制度的最新、令人不寒而栗的例子。
+* Pakistan’s Navy is still searching for missing crew members after the aircraft plunged vertically and went missing over the Arabian Sea, aviation authorities said.
+* 巴基斯坦航空当局表示，在飞机垂直坠落并在阿拉伯海上失踪后，巴基斯坦海军仍在寻找失踪的机组人员。
 * With a series of recent treaties and alliances, Canberra is seeking to prevent Beijing from establishing a military foothold in the Pacific Ocean.
 * 通过最近的一系列条约和联盟，堪培拉正在寻求阻止北京在太平洋建立军事立足点。
 * The tech giant that owns Instagram, Facebook and WhatsApp says it is in touch with the Indian authorities about reports that exploitative content is being hawked on one of its platforms.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 视频显示，道路、农田和建筑物被淹没，洪水涌向房屋，而该地区本周正准备迎接潜在的超级台风。
 * The Chinese company’s models have won over developers worldwide, but they are open source — so they can be used and modified freely.
 * 这家中国公司的模式在全球范围内赢得了开发者的青睐，但它们是开源的，因此可以自由使用和修改。
-* The country has faced criticism from human rights activists for the conditions in its prisons, including overcrowding and failing to protect inmates.
-* 该国的监狱条件一直受到人权活动人士的批评，包括过度拥挤和未能保护囚犯。
-* Nuctech’s rise from a Chinese state-backed start-up to a global border-security supplier has made it a lightning rod in trade and subsidy disputes.
-* Nuctech从一家中国国家支持的初创企业崛起为全球边境安全供应商，使其成为贸易和补贴纠纷的避雷针。
-* China’s firing of a submarine-launched missile came as Australia secured more defense deals with Pacific Island nations. Countries expressed concern about the test.
-* 中国发射潜射导弹之际，澳大利亚与太平洋岛国达成了更多防务协议。各国对测试表示担忧。
 
