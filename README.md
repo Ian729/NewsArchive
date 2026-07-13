@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Entire towns in southern Lebanon have been hollowed out by the war between Israel and Hezbollah. Some residents have stayed, fearing permanent displacement.
+* 黎巴嫩南部的整个城镇都因以色列和真主党之间的战争而被掏空。一些居民因担心永久流离失所而留下来。
+* Senior Iranian officials called for revenge against the United States and Israel for killing the late supreme leader, Ayatollah Ali Khamenei, as a new exchange of attacks pushed the region into deeper uncertainty.
+* 伊朗高级官员呼吁对杀害已故最高领导人阿亚图拉·阿里·哈梅内伊的美国和以色列进行报复，因为新的袭击事件使该地区陷入更深的不确定性。
+* Facing threats from Russia and China, Prime Minister Sanae Takaichi is  turning to help from Western allies in forming a centralized agency.
+* 面对来自俄罗斯和中国的威胁，总理高市早苗（ Sanae Takaichi ）正在寻求西方盟友的帮助，组建一个中央机构。
+* Ukrainians, already drone innovators, are turning their focus to psychological operations aimed at undercutting Russian support for the war.
+* 已经是无人机创新者的乌克兰人正在将注意力转向旨在削弱俄罗斯对战争支持的心理行动。
+* They began as supply mules. Now ground robots evacuate the wounded, hold trenches and even do the killing.
+* 他们最初是供应骡子。现在，地面机器人可以疏散伤员，守住战壕，甚至杀人。
+* The Netherlands has been trying to figure out what to do with manure it can no longer use thanks to environmental rules. Volatile fertilizer costs may help.
+* 由于环境法规，荷兰一直在努力弄清楚如何处理无法再使用的粪肥。挥发性肥料成本可能会有所帮助。
+* Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain.
+* 许多人说，由于火焰肆虐该地区，沟通是混乱的，甚至不存在，在西班牙有史以来最致命的野火之一中夺去了12人的生命。
 * With much of their leadership killed in the war, Iran’s conservatives have sought to fill the void and intensify the fight against the United States.
 * 伊朗的保守派领导人在战争中丧生，他们试图填补这一空白，并加强与美国的斗争。
-* Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.
-* 一支军事情报部队在东京一栋高层建筑外行动，找到了俄罗斯发动战争所需的高科技设备。
-* Afghanistan’s leader has exerted full control over a city that once enjoyed looser social norms, even under Taliban rule.
-* 阿富汗领导人已经完全控制了一个曾经享有更宽松社会规范的城市，即使在塔利班统治下也是如此。
-* Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France.
-* 台风巴维在菲律宾造成17人死亡后登陆中国，绕过日本并袭击台湾。在最大的时候，风暴的宽度约为法国的宽度。
-* A 26-year-old man was detained on Saturday in connection with the death of Ann Widdecombe, a former Parliament member, the police said. Another man arrested on Friday was later released.
-* 警方称，一名26岁的男子因与前国会议员Ann Widdecombe的死亡有关而于周六被拘留。周五被捕的另一名男子后来被释放。
-* India’s government wants to shut down Delhi’s Gymkhana Club, which the prime minister calls a vestige of colonialism. Some members suspect a different motive.
-* 印度政府希望关闭德里的Gymkhana俱乐部，总理称之为殖民主义的遗迹。一些成员怀疑有不同的动机。
-* The police said the 26-year-old was no longer part of the investigation into the death of Ann Widdecombe and urged anyone with information about the crime to come forward.
-* 警方表示，这名26岁的男子不再参与对Ann Widdecombe死亡的调查，并敦促任何有关该罪行信息的人挺身而出。
-* Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side.
-* 除了历史和外交关系，英格兰的俱乐部足球队在挪威也有忠实的球迷。周六，支持者将不得不选择一方。
-* Officials said more than 20 people were still missing because of the fire, one of the deadliest in Spain’s history. Most of those confirmed to have been killed were from Belgium or Britain.
-* 官员说，由于火灾，仍有20多人失踪，这是西班牙历史上最致命的火灾之一。大多数被确认死亡的人来自比利时或英国。
-* For out-of-work factory workers in Kunshan, a region made rich by electronics manufacturing, a park is the only place to go.
-* 对于由电子制造业致富的昆山地区的失业工厂工人来说，公园是唯一可以去的地方。
+* President Trump signed an agreement that Iran said gave it control of the waterway — and global energy supplies. Now, Iran’s military is violently asserting authority.
+* 特朗普总统签署了一项协议，伊朗称该协议赋予了它对水道和全球能源供应的控制权。现在，伊朗军方正在暴力宣称权威。
+* President Volodymyr Zelensky said Ukraine’s prime minister, Yuliia Svyrydenko, would step down amid a broader shake-up in Ukraine’s senior leadership.
+* 总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）表示，乌克兰总理尤利娅·斯维里登科（ Yuliia Svyrydenko ）将在乌克兰高级领导层更广泛的变动中辞职。
 
 ## New York Times United States News
-* Mr. Graham’s sudden death on Saturday prompted a wave of tributes for an outsize and often divisive figure in U.S. foreign policy for two decades.
-* 格雷厄姆周六突然去世，引发了一波对美国外交政策中二十年来规模庞大且经常引起分歧的人物的致敬。
-* 
-* 
-* A bitter struggle between Maricopa County’s Republican-dominated Board of Supervisors and a Trump-allied official over control of elections has ramifications far beyond Greater Phoenix.
-* 马里科帕县共和党主导的监事会与与特朗普结盟的官员之间围绕选举控制权的激烈斗争，其影响远远超出了大凤凰城。
-* Key Republicans on the Judiciary Committee could push for concessions from Todd Blanche, in line to be attorney general, though they did not appear in revolt.
-* 司法委员会的关键共和党人可能会推动托德·布兰奇（ Todd Blanche ）做出让步，以成为司法部长，尽管他们没有出现在反抗中。
-* What might stop kids from committing crimes? A group of district attorneys went to San Quentin, once one of California’s most infamous prisons, to ask the inmates for advice.
-* 什么可以阻止孩子们犯罪？一群地区检察官前往曾经是加利福尼亚州最臭名昭著的监狱之一的圣昆廷，向囚犯征求意见。
-* Mr. Graham died of a “brief and sudden” illness on Saturday evening, his office said. Over more than two decades in the Senate, he consistently pushed for the use of U.S. military power overseas.
-* 格雷厄姆的办公室说，他于周六晚上因“短暂而突然”的疾病去世。在参议院任职的二十多年里，他一直在推动美国在海外使用军事力量。
-* The F.B.I. director spent about eight hours at the White House Friday focused on the effort, which led to the subpoenaing of several Times reporters who wrote about the security of Air Force One.
-* 这位联邦调查局局长周五在白宫花了大约8个小时专注于这项工作，这导致了几位时报记者的传唤，他们撰写了关于空军一号的安全性。
-* The sons of Lorenzo Salgado Araujo recalled their father’s love of soccer and said they would “continue to keep fighting for him.”
-* 洛伦佐·萨尔加多·阿劳霍（ Lorenzo Salgado Araujo ）的儿子回忆起他们父亲对足球的热爱，并表示他们将“继续为他而战”。
-* Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.
-* 在政党的压力下，普拉特纳退出参议院竞选，引发了一场不寻常的竞争，成为新的提名人。
-* The National Guard evacuated campers after flooding in Missouri that reminded some families of the devastating floods at Camp Mystic in central Texas last year.
-* 国民警卫队在密苏里州发生洪水后撤离了露营者，这让一些家庭想起了去年德克萨斯州中部神秘营的毁灭性洪水。
+* After the senator and his sister, Darline, lost their parents, he guided her through the teenage years and into college. He called her success the highlight of his life.
+* 参议员和他的妹妹达琳失去父母后，他带领她度过了十几岁的时光，进入了大学。他称她的成功是他一生的亮点。
+* Mr. Graham, a long-serving senator from South Carolina, was known for his ability to maintain relationships even with his political foes. But the support of Black voters remained elusive.
+* 格雷厄姆是来自南卡罗来纳州的长期参议员，他以即使与政治对手保持关系的能力而闻名。但黑人选民的支持仍然难以捉摸。
+* The sharp-witted South Carolinian repaired relations with President Trump to advance his foreign policy goals, was willing to cut deals with Democrats and tried to insert himself into every legislative fight.
+* 机智的南卡罗来纳州人修复了与特朗普总统的关系，以推进他的外交政策目标，愿意与民主党人达成协议，并试图让自己参与每一场立法斗争。
+* Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.
+* 地方民主党人警告最高参议院民主党人在取代格雷厄姆·普拉特纳（ Graham Platner ）时要保持距离，候选人们对他在华盛顿的领导能力评价不高。
+* The yearslong effort to groom the former Iranian president as an intelligence asset culminated in a dramatic effort to take him to an Israeli safe house in the early days of the war. But the plan fell apart.
+* 这位前伊朗总统多年来一直致力于将其培养为情报资产，最终导致他在战争初期将他带到以色列的一个安全屋。但计划失败了。
+* Justices Amy Coney Barrett and Elena Kagan are scheduled to make a rare appearance at the Capitol to testify about the court’s more than $200 million request.
+* 大法官艾米·科尼·巴雷特（ Amy Coney Barrett ）和埃琳娜·卡根（ Elena Kagan ）计划罕见地出现在国会大厦，就法院2亿多$的要求作证。
+* “For the most part, the aircraft have their own souls,” said a pilot of the meteorological research planes, which are known as Kermit, Miss Piggy and Gonzo.
+* “在大多数情况下，飞机都有自己的灵魂，”气象研究飞机的飞行员说，这些飞机被称为科米，小猪小姐和冈佐。
+* Two other people were wounded. The Illinois State Police said on Sunday that two teenage suspects were in custody.
+* 另有两人受伤。伊利诺伊州警方周日表示，两名青少年嫌疑人被拘留。
+* Teams of stagehands work to coordinate how the giant flags are brought onto the field and displayed before each match. The prep takes days.
+* 舞台工作人员团队协调将巨型旗帜带到场上并在每场比赛前展示的方式。准备工作需要几天时间。
+* The Republican senator denied that he had suffered a heart attack and said he had left the hospital and moved to a physical rehabilitation center. He did not give a timetable for returning to Capitol Hill.
+* 这位共和党参议员否认他心脏病发作，并说他已经离开医院，搬到了一个身体康复中心。他没有给出返回国会山的时间表。
 
 ## New York Times Asia News
+* The yearslong effort to groom the former Iranian president as an intelligence asset culminated in a dramatic effort to take him to an Israeli safe house in the early days of the war. But the plan fell apart.
+* 这位前伊朗总统多年来一直致力于将其培养为情报资产，最终导致他在战争初期将他带到以色列的一个安全屋。但计划失败了。
+* He appeared in more than 150 productions over a five-decade career but was perhaps best known for his star turn in the “Jurassic Park” series.
+* 他在五十年的职业生涯中出演了150多部作品，但也许最出名的是他在“侏罗纪公园”系列中的明星角色。
+* Facing threats from Russia and China, Prime Minister Sanae Takaichi is  turning to help from Western allies in forming a centralized agency.
+* 面对来自俄罗斯和中国的威胁，总理高市早苗（ Sanae Takaichi ）正在寻求西方盟友的帮助，组建一个中央机构。
+* Young people in China are increasingly anxious about the future and spending on feel-good experiences and products that provide “emotional value.” A companion hiker and cosplayer show what it’s like to be part of this booming consumer market.
+* 中国的年轻人越来越担心未来，并花费在提供“情感价值”的感觉良好的体验和产品上。“一位徒步旅行者和角色扮演者的伴侣展示了成为这个蓬勃发展的消费市场的一部分是什么感觉。
+* The fast-moving blaze sent people fleeing toward the bathrooms to hide, officials said. Their bodies were found there, raising questions about safety standards.
+* 官员说，快速移动的火焰使人们逃往浴室躲藏。他们的尸体被发现在那里，引发了对安全标准的质疑。
+* The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly “America First” political orbit.
+* 这位南卡罗来纳州共和党人在特朗普总统主要是“美国优先”的政治轨道上是乌克兰最具影响力的支持者。
+* President Trump signed an agreement that Iran said gave it control of the waterway — and global energy supplies. Now, Iran’s military is violently asserting authority.
+* 特朗普总统签署了一项协议，伊朗称该协议赋予了它对水道和全球能源供应的控制权。现在，伊朗军方正在暴力宣称权威。
 * Afghanistan’s leader has exerted full control over a city that once enjoyed looser social norms, even under Taliban rule.
 * 阿富汗领导人已经完全控制了一个曾经享有更宽松社会规范的城市，即使在塔利班统治下也是如此。
 * Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France.
 * 台风巴维在菲律宾造成17人死亡后登陆中国，绕过日本并袭击台湾。在最大的时候，风暴的宽度约为法国的宽度。
 * India’s government wants to shut down Delhi’s Gymkhana Club, which the prime minister calls a vestige of colonialism. Some members suspect a different motive.
 * 印度政府希望关闭德里的Gymkhana俱乐部，总理称之为殖民主义的遗迹。一些成员怀疑有不同的动机。
-* Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.
-* 一支军事情报部队在东京一栋高层建筑外行动，找到了俄罗斯发动战争所需的高科技设备。
-* A speedboat was carrying 36 people when it overturned near the island of Phu Quoc in southern Vietnam. The other people onboard were rescued alive.
-* 一艘快艇在越南南部富国岛附近倾覆时载有36人。船上的其他人被救活了。
-* For out-of-work factory workers in Kunshan, a region made rich by electronics manufacturing, a park is the only place to go.
-* 对于由电子制造业致富的昆山地区的失业工厂工人来说，公园是唯一可以去的地方。
-* A space neophyte not long ago, China is now the United States’s main competitor for supremacy throughout the solar system.
-* 不久前，中国还是太空新手，现在是美国在整个太阳系中争夺霸权的主要竞争对手。
-* After promising to improve safety for women in the Indian state, the party of Prime Minister Narendra Modi is facing public anger after the death of an 11-year-old girl.
-* 在承诺改善印度妇女的安全之后，总理纳伦德拉·莫迪（ Narendra Modi ）的政党在一名11岁女孩死亡后面临公众愤怒。
-* The launch and recovery of the Long March 10B could represent a long-awaited breakthrough for Chinese satellite companies.
-* 长征10B的发射和回收可能是中国卫星公司期待已久的突破。
-* A large, festive reception for the Indian prime minister in Melbourne belied tensions over migration in the country.
-* 在墨尔本为印度总理举行的大型节日招待会掩盖了该国移民问题的紧张局势。
 
