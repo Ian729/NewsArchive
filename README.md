@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* After a fire broke out at the Oxy building in central Brussels on Tuesday morning, six bodies were found in an elevator.
-* 周二早上，布鲁塞尔市中心的Oxy大楼发生火灾后，在电梯里发现了六具尸体。
-* The two countries slid back to open war over the waterway, as the U.S. planned to reinstate a blockade on Iranian ports on Tuesday. Iran said it had attacked two tankers and fired at U.S. military sites.
-* 由于美国计划于周二恢复对伊朗港口的封锁，两国因水道问题再次爆发公开战争。伊朗表示，它袭击了两艘油轮并向美国军事基地开火。
-* Counterterrorism police said that they were continuing to interview a 28-year-old man accused of killing Ann Widdecombe, a prominent member of the right-wing Reform U.K. party.
-* 反恐警察表示，他们正在继续采访一名28岁的男子，该男子被指控杀害了英国右翼改革党的知名成员Ann Widdecombe。
-* India is driving out Bangladeshi immigrants it says are in the country illegally. Bangladesh is pushing back, leaving people stranded along the border amid increasing tensions between the countries.
-* 印度正在驱逐据称非法入境的孟加拉国移民。由于两国之间的紧张局势日益加剧，孟加拉国正在反击，使人们滞留在边境。
-* In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.
-* 为了展示集体力量，法国总统埃马纽埃尔·马克龙在巴黎一年一度的巴士底日游行中接待了欧洲盟友。然而，欧洲仍然是美国外交政策的人质。
-* Ma Xingrui is the third member of the Politburo to be purged since 2022. He once led the Xinjiang region and was previously head of China’s space program.
-* 马兴瑞是自2022年以来第三位被清洗的政治局成员。他曾领导新疆地区，曾担任中国太空计划负责人。
-* After a fire killed 30 people, the scrutiny has turned to whether the venue used flammable foam on its ceilings and had blocked exits.
-* 在火灾造成30人死亡后，审查转向该场馆是否在其天花板上使用了易燃泡沫并封锁了出口。
-* Deep in the Amazon rainforest, a heated rivalry has split a town for a century. It’s got nothing to do with sports or politics.
-* 在亚马逊雨林的深处，激烈的竞争已经分裂了一个世纪的城镇。这与体育或政治无关。
-* The Ukrainian firm Fire Point has produced weapons that hit Russian territory. Its next goal, developing an antimissile system, is a much bigger challenge, experts said.
-* 乌克兰公司Fire Point生产的武器击中了俄罗斯领土。专家说，它的下一个目标是发展反导系统，这是一个更大的挑战。
-* Entire towns in southern Lebanon have been hollowed out by the war between Israel and Hezbollah. Some residents have stayed, fearing permanent displacement.
-* 黎巴嫩南部的整个城镇都因以色列和真主党之间的战争而被掏空。一些居民因担心永久流离失所而留下来。
+* President Trump, who promised to “end wars,” not start them, may have fallen into a familiar presidential trap.
+* 特朗普总统承诺“结束战争” ，而不是发动战争，可能已经陷入了熟悉的总统陷阱。
+* Demonstrators demanded the reinstatement of Mykhailo Fedorov, who had come to symbolize Ukraine’s success in using drones to strike back against Russia.
+* 示威者要求恢复米哈伊洛·费多罗夫（ Mykhailo Fedorov ）的职务，他已成为乌克兰成功使用无人机反击俄罗斯的象征。
+* With India lagging in the technology, officials are embracing giant data centers. But critics say the megaprojects will use up energy and water, without providing long-term jobs.
+* 随着印度在技术上落后，官员们正在拥抱巨型数据中心。但批评人士表示，这些大型项目将耗尽能源和水，无法提供长期就业机会。
+* An annual survey from the Pew Research Center found that more countries felt positively about China than America.
+* 皮尤研究中心(Pew Research Center)的一项年度调查发现，对中国持积极态度的国家多于美国。
+* Mykhailo Fedorov announced he was leaving the ministry on Wednesday after conflicts with generals and military contractors over the role of innovative weaponry.
+* 米哈伊洛·费多罗夫（ Mykhailo Fedorov ）周三宣布，在与将军和军事承包商就创新武器的作用发生冲突后，他将离开该部。
+* Mr. Fedorov became the youthful face of Ukraine’s successful drone warfare program. The move to replace him has prompted street protests.
+* 费多罗夫先生成为乌克兰成功的无人机作战计划的青春面孔。接替他的举动引发了街头抗议。
+* France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.
+* 法国和德国希望在人工智能等关键技术上不再依赖美国和中国，但他们必须选择在哪里做。
+* The beloved New Zealand actor best known for his turn in “Jurassic Park” had “fought and beaten” lymphoma before he fell ill, according to a statement.
+* 根据一份声明，这位备受喜爱的新西兰演员因在“侏罗纪公园”中轮流出演而闻名，他在生病前曾“战斗和殴打”淋巴瘤。
+* Sonam Wangchuk, a longtime activist, has fasted for 19 days, joining forces with a student-led campaign to change India’s education system.
+* 长期活动家索南·旺楚克（ Sonam Wangchuk ）已禁食19天，与学生主导的改变印度教育体系的运动联手。
+* After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war.
+* 在袭击了公路和铁路之后，基辅现在正专注于海上航线，因为它试图扰乱燃料供应并迫使俄罗斯结束战争。
 
 ## New York Times United States News
-* 
-* 
-* His nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.
-* 他被提名领导美国情报界之际，白宫正在推动使用解密的情报来表达对选举安全的担忧。
-* The Arizona Democrat said he had raised and given away $10 million to fellow members of his party and committees as he mulls a presidential run in 2028.
-* 这位亚利桑那州民主党人表示，他已经筹集并捐赠了1000万$给他的党派和委员会的成员，因为他考虑在2028年竞选总统。
-* Todd Blanche’s nomination is broadly a referendum on President Trump’s vision of the Justice Department as a projection of his power.
-* 托德·布兰奇（ Todd Blanche ）的提名大体上是对特朗普总统将司法部视为其权力投射的公投。
-* The federal government can confer health care, education, housing and casino rights, but for small bands like many in the Pacific Northwest, recognition takes political muscle they don’t have.
-* 联邦政府可以授予医疗保健、教育、住房和赌场权利，但对于太平洋西北地区的许多小群体来说，认可需要他们没有的政治力量。
-* At Harvard, students, alumni and professors debate whether a storied campus group should cut ties with one of Jeffrey Epstein’s closest associates, and whether Harvard itself should do the same.
-* 在哈佛，学生、校友和教授争论着一个传奇的校园团体是否应该与杰弗里·爱泼斯坦(Jeffrey Epstein)最亲密的同事之一断绝关系，以及哈佛本身是否应该这样做。
-* Footage obtained by The New York Times shows ICE agents in the moments before and after the killing of Joan Sebastian Guerrero. The circumstances of the shooting remain unclear.
-* 《纽约时报》获得的镜头显示了Joan Sebastian Guerrero遇害前后的ICE特工。枪击事件的具体情况尚不清楚。
-* Sixteen other passengers were rescued after the pleasure boat sank in the San Francisco Bay on Tuesday.
-* 周二，游船在旧金山湾沉没后，另有16名乘客获救。
-* As President Trump resumes his war, the focus is now on the Strait of Hormuz. But it remains unclear how far the U.S. military will go to exert control.
-* 随着特朗普总统恢复战争，现在的重点是霍尔木兹海峡。但目前尚不清楚美军将在多大程度上实施控制。
-* Todd Blanche’s role in interviewing Ghislaine Maxwell, a longtime associate of the convicted sex offender Jeffrey Epstein, will be front and center as he seeks to become attorney general.
-* 托德·布兰奇（ Todd Blanche ）在采访被定罪的性犯罪者杰弗里·爱泼斯坦（ Jeffrey Epstein ）的长期同伙吉斯莱恩·麦克斯韦（ Ghislaine Maxwell ）时所扮演的角色将成为他寻求成为司法部长的前沿和中心
+* To prevail in Michigan’s crucial Senate primary, Representative Haley Stevens will need to overcome Democratic voters’ skepticism of Israel. Pro-Israel groups are spending heavily to help her.
+* 为了在密歇根州至关重要的参议院初选中获胜，众议员海莉·史蒂文斯（ Haley Stevens ）需要克服民主党选民对以色列的怀疑。亲以色列团体正在花费巨资帮助她。
+* The Commission of Fine Arts is set to consider the administration’s proposal regarding Lafayette Square Park, which has been the site of numerous protests.
+* 美术委员会将考虑政府关于拉斐特广场公园的提案，该公园一直是众多抗议活动的场所。
+* The U.S. and Israel were united in going to war with Iran to change the regime. Mark Mazzetti, a New York Times investigative reporter, explains how the failure of Israel to install Mahmoud Ahmadinejad as Iran’s new leader led the U.S. to narrow its efforts in Iran to just launching attacks with no plan for a new government.
+* 美国和以色列联合起来与伊朗开战，以改变政权。《纽约时报》调查记者马克·马泽蒂（ Mark Mazzetti ）解释说，以色列未能将马哈茂德·艾哈迈迪-内贾德（ Mahmoud Ahmadinejad ）任命为伊朗新领导人，导致美国缩小了在伊朗的努力，只是在没有新政府的计划的情况下发动袭击。
+* Kerry Sheron could often be found waving and nodding to those who passed his home, which stood out in Escondido, Calif.
+* 在加利福尼亚州埃斯孔迪多（ Escondido ） ，经常可以看到克里·舍隆（ Kerry Sheron ）向路过的人挥手点头。
+* The president has pushed to curtail the commercial licenses of immigrants, including legal residents, whom he has blamed for crashes.
+* 总统已推动限制移民的商业执照，包括法定居民，他将此归咎于坠机事件。
+* After The New York Times reported on security concerns related to the Qatari-donated jet, the F.B.I. sought to speak with several people who flew aboard the plane with President Trump last week and asked for their phones.
+* 在《纽约时报》报道了与卡塔尔捐赠的喷气式飞机有关的安全问题后，联邦调查局试图与上周与特朗普总统一起乘坐飞机的几人交谈，并要求他们提供手机。
+* A Muslim man who works at a mall near Salt Lake City is hospitalized with multiple wounds. Charges have not yet been filed against the suspect, who was arrested.
+* 一名在盐湖城附近购物中心工作的穆斯林男子因多处伤口住院。尚未对被捕的嫌疑人提出指控。
+* Officials surveyed the newly drained pool, where the floor began peeling soon after a $16 million repair job. President Trump has blamed vandals.
+* 官员们调查了新排水的游泳池，在耗资1600万$的修理工作后不久，地板开始脱落。特朗普总统指责破坏者。
+* Rescuers described survivors trying to stay afloat in the San Francisco Bay. A brother of the boat’s owner died, and the authorities say they will end the search for the missing.
+* 救援人员描述了试图在旧金山湾漂浮的幸存者。船主的兄弟死亡，当局表示他们将结束对失踪人员的搜寻。
+* The agency has said little about two fatal encounters in the past week. Local police departments have learned to be forthcoming.
+* 该机构在过去一周内几乎没有说过两次致命的遭遇。当地警察部门已经学会了乐于助人。
 
 ## New York Times Asia News
+* An annual survey from the Pew Research Center found that more countries felt positively about China than America.
+* 皮尤研究中心(Pew Research Center)的一项年度调查发现，对中国持积极态度的国家多于美国。
+* The beloved New Zealand actor best known for his turn in “Jurassic Park” had “fought and beaten” lymphoma before he fell ill, according to a statement.
+* 根据一份声明，这位备受喜爱的新西兰演员因在“侏罗纪公园”中轮流出演而闻名，他在生病前曾“战斗和殴打”淋巴瘤。
+* Sonam Wangchuk, a longtime activist, has fasted for 19 days, joining forces with a student-led campaign to change India’s education system.
+* 长期活动家索南·旺楚克（ Sonam Wangchuk ）已禁食19天，与学生主导的改变印度教育体系的运动联手。
+* Other booksellers have been detained in recent months as part of a broad national security crackdown.
+* 近几个月来，作为广泛国家安全打击行动的一部分，其他书商也被拘留。
+* With India lagging in the technology, officials are embracing giant data centers. But critics say the megaprojects will use up energy and water, without providing long-term jobs.
+* 随着印度在技术上落后，官员们正在拥抱巨型数据中心。但批评人士表示，这些大型项目将耗尽能源和水，无法提供长期就业机会。
+* The ruins of a 2,400-year-old complex suggest that, to the Greeks of antiquity, Homer’s protagonist was not just a character in a poem but a figure of genuine devotion.
+* 一个有2400年历史的建筑群的废墟表明，对古希腊人来说，荷马的主人公不仅仅是一首诗中的一个人物，而是一个真正奉献的人物。
+* Climate change and shifting demographics are driving the country’s Asiatic black bears closer to humans.
+* 气候变化和人口结构的变化使该国的亚洲黑熊更接近人类。
 * The country will also seek to protect the rights of creators of work used to train artificial intelligence models, as it aims to impose parameters on the growing industry.
 * 该国还将寻求保护用于训练人工智能模型的作品创作者的权利，因为它旨在将参数强加于不断发展的行业。
 * President Trump has urged Xi Jinping to release the scientist, Youlin Chen, the man’s family says. Dr. Chen studied the detection of North Korean nuclear tests.
 * 特朗普总统敦促习近平释放这名科学家陈友琳（ Youlin Chen ） ，这名男子的家人说。陈博士研究了朝鲜核试验的探测。
 * The payment illustrates the minefield Mr. Trump has created by maintaining personal financial ties with foreign businesses while he is in office.
 * 这笔付款说明了特朗普在任期间通过与外国企业保持个人财务联系而创造的雷区。
-* A judge ruled in favor of two Singaporean ministers in a closely watched defamation trial seen as a significant test of the country’s libel laws and their implications for press freedom.
-* 一名法官在一场备受关注的诽谤审判中裁定两名新加坡部长胜诉，这被视为对该国诽谤法及其对新闻自由影响的重大考验。
-* Ma Xingrui is the third member of the Politburo to be purged since 2022. He once led the Xinjiang region and was previously head of China’s space program.
-* 马兴瑞是自2022年以来第三位被清洗的政治局成员。他曾领导新疆地区，曾担任中国太空计划负责人。
-* After a fire killed 30 people, the scrutiny has turned to whether the venue used flammable foam on its ceilings and had blocked exits.
-* 在火灾造成30人死亡后，审查转向该场馆是否在其天花板上使用了易燃泡沫并封锁了出口。
-* India is driving out Bangladeshi immigrants it says are in the country illegally. Bangladesh is pushing back, leaving people stranded along the border amid increasing tensions between the countries.
-* 印度正在驱逐据称非法入境的孟加拉国移民。由于两国之间的紧张局势日益加剧，孟加拉国正在反击，使人们滞留在边境。
-* President Trump said the United States could collect tolls or fees, despite Vice President JD Vance and Secretary of State Marco Rubio saying no country could do so.
-* 特朗普总统表示，美国可以收取通行费或费用，尽管副总统万斯和国务卿马可·卢比奥表示，没有任何国家可以这样做。
-* Huge flames tore out of the entrance to the venue, which one investigator said had used inappropriate material for soundproofing. More than two dozen people died.
-* 巨大的火焰从场馆入口撕裂，一名调查人员说，这些火焰使用了不适当的材料进行隔音。二十多人丧生。
-* The yearslong effort to groom the former Iranian president as an intelligence asset culminated in a dramatic effort to take him to a Mossad safe house in Iran in the early days of the war. But the plan fell apart.
-* 这位前伊朗总统多年来一直致力于将其培养为情报资产，最终导致他在战争初期将他带到伊朗的摩萨德安全屋。但计划失败了。
 
