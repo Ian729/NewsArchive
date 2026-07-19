@@ -2,54 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.
-* 特朗普总统与意大利总理乔治亚·梅洛尼（ Giorgia Meloni ）争吵之际，美国驻罗马大使蒂尔曼· J ·费尔蒂塔（ Tilman J. Fertitta ）正在他的超级游艇上避暑。
-* In the days since the cease-fire unraveled, the U.S. and Iran have expanded the scope of their attacks, with reports of water facilities and other structures coming under fire.
-* 在停火破裂后的几天里，美国和伊朗扩大了袭击范围，有报道称供水设施和其他建筑物受到攻击。
+* The Tokyo government is allowing workers to wear shorts for the first time this summer, prompting delicate questions about etiquette and hairy legs.
+* 东京政府今年夏天首次允许工人穿短裤，这引发了有关礼仪和毛茸茸的腿的微妙问题。
+* The soldiers, killed in Jordan, were the first U.S. troops to die from hostile fire since an April truce. U.S. forces began retaliatory strikes early Sunday.
+* 这些士兵在约旦阵亡，是自4月休战以来第一批死于敌对火力的美军士兵。周日早些时候，美军开始了报复性罢工。
+* Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.
+* 支持被罢免的乌克兰国防部长的示威者已经开始谴责他在任时与之发生冲突的指挥官亚历山大·叙尔斯基将军。
+* Nearly 200 fires continued to devastate swaths of the province as smoke continued to drift across parts of Canada and the United States.
+* 随着烟雾继续在加拿大和美国的部分地区漂流，近200场大火继续摧毁该省的大片地区。
+* Jens Spahn, a top leader of Chancellor Friedrich Merz’s party, resigned his post after announcing that he had a baby by surrogate, which is illegal in Germany.
+* 总理弗里德里希·梅尔茨（ Friedrich Merz ）所在政党的最高领导人延斯·斯帕恩（ Jens Spahn ）在宣布自己代孕生子后辞职，这在德国是非法的。
+* Jacinto Marques left Angola for Canada’s frozen edge. Now he’s running a bus service in Iqaluit, the largest, and only city in Canada’s Arctic.
+* Jacinto Marques离开安哥拉前往加拿大的冰封边缘。现在，他正在加拿大北极地区最大也是唯一的城市伊卡鲁伊特运营巴士服务。
+* London hosted an understated version of the Conservative Political Action Conference, known in the United States for its over-the-top celebration of MAGA causes.
+* 伦敦主办了保守党政治行动会议的低调版本，该会议在美国以其对MAGA事业的过度庆祝而闻名。
 * As he prepares for the World Cup final, Lamine Yamal, 19, is at the heart of a national debate about what it means to be Spanish in an increasingly multicultural society.
 * 19岁的拉明·亚马尔（ Lamine Yamal ）正在为世界杯决赛做准备，这是一场关于在日益多元文化的社会中成为西班牙人意味着什么的全国性辩论的核心。
+* Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.
+* 特朗普总统与意大利总理乔治亚·梅洛尼（ Giorgia Meloni ）争吵之际，美国驻罗马大使蒂尔曼· J ·费尔蒂塔（ Tilman J. Fertitta ）正在他的超级游艇上避暑。
 * The Israeli authorities have enacted a broad array of countermeasures to contain what they describe as online recruiting efforts by Iranian agents.
 * 以色列当局制定了一系列广泛的对策，以遏制他们所说的伊朗特工的在线招募活动。
-* Bangladesh has never qualified for the World Cup. But every four years, many in the country adopt Argentina’s team as their own.
-* 孟加拉国从未有资格参加世界杯。但每四年，该国许多人就将阿根廷的球队作为自己的球队。
-* The activist, Sonam Wangchuk, started his strike last month as part of a protest over educational mismanagement that has affected millions of students.
-* 活动家索南·旺楚克（ Sonam Wangchuk ）上个月开始罢工，作为对教育管理不善的抗议活动的一部分，教育管理不善影响了数百万学生。
-* The New Zealand slang word, dating back to the 1990s, was pulled back into circulation in tributes to the actor, who died on Tuesday.
-* 这个可以追溯到20世纪90年代的新西兰俚语被重新流传，以悼念这位周二去世的演员。
-* At a time of political upheaval and economic stagnation, Andy Burnham will on Monday become the seventh prime minister in a decade.
-* 在政治动荡和经济停滞的时期，安迪·伯纳姆（ Andy Burnham ）将于周一成为十年来的第七任总理。
-* A new generation has been cutting red tape to speed weapons to the front. But the old guard pushed back, and now Ukraine’s young defense minister is out.
-* 新一代人一直在削减繁文缛节，以加快武器进入前线的速度。但是这位老卫兵退缩了，现在乌克兰年轻的国防部长出局了。
-* In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping.
-* 在中国释放后的第一次采访中，金明日牧师详细介绍了他在特朗普总统直接呼吁习近平后意外获释的情况。
 
 ## New York Times United States News
-* To CeCe Jean Saunders, it seemed like a once-in-a-lifetime event when her studio in Kerrville, Texas, flooded last year. Then it happened again.
-* 对茜茜·让·桑德斯（ CeCe Jean Saunders ）来说，去年她在德克萨斯州克尔维尔的工作室被洪水淹没，这似乎是千载难逢的事件然后又发生了。
-* The agent, whose identity has not been confirmed by officials, has a history of abusive and frightening behavior, according to a former wife and others who knew him.
-* 据一位前妻和其他认识他的人说，这名特工的身份尚未得到官员的确认，他有虐待和恐吓行为的历史。
-* The Southern rapper paid $600,000 to two right-wing operatives. Now, they’re in a dispute over a contract the rapper believes entitles him to at least half his money back.
-* 这位南方说唱歌手向两名右翼特工支付了60万$。现在，他们正在就说唱歌手认为他有权获得至少一半退款的合同发生争议。
-* Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.
-* 格雷厄姆·普拉特纳（ Graham Platner ）参议院竞选活动上周破裂。支持他的活动人士正在寻找一名候选人，在与共和党人苏珊·柯林斯（ Susan Collins ）的竞选中传达他的民粹主义信息。
-* The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.
-* 特朗普政府最近试图缩减制裁，因为对手制定了一些解决方案，一些人认为这些解决方案可能会削弱美元的霸主地位。
-* Our investigative reporter Danny Hakim describes how the government has lost or abandoned hundreds of criminal cases against protesters and immigrants.
-* 我们的调查记者丹尼·哈基姆（ Danny Hakim ）描述了政府如何输掉或放弃数百起针对抗议者和移民的刑事案件。
-* The Trump administration has lost or abandoned hundreds of criminal cases against protesters and immigrants, a Times investigation found.
-* 《纽约时报》的一项调查发现，特朗普政府已经输掉或放弃了数百起针对抗议者和移民的刑事案件。
-* Ronald L. Fischer vanished just before he was convicted. After more than 20 years on the run, he was arrested on a sailboat in the East River, the authorities said.
-* 罗纳德· L ·费舍尔（ Ronald L. Fischer ）在被定罪之前失踪了。当局说，经过20多年的逃亡，他在东河的一艘帆船上被捕。
-* Nick Corasaniti, a Politics reporter, explains how the Trump administration is deploying federal agencies to investigate and reshape electoral processes under state jurisdiction.
-* 政治记者尼克·科拉萨尼蒂（ Nick Corasaniti ）解释了特朗普政府如何部署联邦机构来调查和重塑州管辖下的选举进程。
-* The authorities said a man and his son held two employees at gunpoint in a trailer at Shasta-Trinity National Forest in Northern California.
-* 当局说，一名男子和他的儿子在加利福尼亚州北部沙斯塔-三一国家森林的一辆拖车上用枪指着两名员工。
+* The department will not name the agent who killed a Colombian immigrant in Maine. Some large police agencies recognize a public right to know the identities of officers involved in violence.
+* 该部门不会透露在缅因州杀害哥伦比亚移民的代理人的名字。一些大型警察机构承认公众有权知道参与暴力行为的警察的身份。
+* Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask questions about candidates.
+* 如今，政治竞选活动有了新的担忧：当选民询问有关候选人的问题时，人工智能项目会产生不讨人喜欢或不完整的信息。
+* A New York Times review of 18 states targeted by the Trump administration for their “sanctuary” policies found that all cooperate significantly with immigration authorities in cases involving violent crimes.
+* 《纽约时报》对特朗普政府针对18个州的“庇护”政策进行了审查，发现所有州都在涉及暴力犯罪的案件中与移民当局进行了大量合作。
+* A little-known federal office spent decades investigating potential discrimination by government contractors — until it was stopped by the Trump administration.
+* 一个鲜为人知的联邦办公室花了数十年时间调查政府承包商的潜在歧视，直到特朗普政府阻止了这一行动。
+* Prosecutors have fled the U.S. attorney’s office in Chicago, angry about the cases they’ve been told to bring against protesters and immigrants.
+* 检察官逃离了芝加哥的美国检察官办公室，对他们被告知要对抗议者和移民提起诉讼感到愤怒。
+* Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.
+* 进步的前州参议院议长特洛伊·杰克逊（ Troy Jackson ）表现出巨大的实力，该州一半的县选出代表参加大会，他们将选择格雷厄姆·普拉特纳（ Graham Platner ）的替代者。
+* The vice president’s comment that there were ties between Mr. Epstein and the “highest levels” of Israeli intelligence troubled some in his party.
+* 这位副总统的评论是，爱泼斯坦与以色列“最高级别”的情报人员之间存在联系，这令他的党内一些人感到不安。
+* Federal marshals arrested the influencers, who are known for their misogynistic views and have faced years of criminal investigations in Europe. The new charges concern offenses dating to 2010, British officials said.
+* 联邦法警逮捕了这些有影响力的人，他们以厌恶女性的观点而闻名，并在欧洲面临多年的刑事调查。英国官员表示，新指控涉及可追溯到2010年的罪行。
+* Dozens of fires ignited in Oregon and Washington as more than 14,000 lightning strikes hit the region during thunderstorms this week.
+* 本周在雷暴期间，俄勒冈州和华盛顿州发生了数十起火灾，超过14,000次雷击袭击了该地区。
+* The move by Cindy Burbank could clear a path for Dan Osborn, an independent candidate backed by her party’s leadership. But Republicans have cried foul, and her effort could face obstacles.
+* 辛迪·伯班克（ Cindy Burbank ）的举动可以为丹·奥斯本（ Dan Osborn ）扫清道路，奥斯本是一位得到党内领导层支持的独但共和党人已经犯规，她的努力可能面临障碍。
 
 ## New York Times Asia News
+* The Tokyo government is allowing workers to wear shorts for the first time this summer, prompting delicate questions about etiquette and hairy legs.
+* 东京政府今年夏天首次允许工人穿短裤，这引发了有关礼仪和毛茸茸的腿的微妙问题。
 * Bangladesh has never qualified for the World Cup. But every four years, many in the country adopt Argentina’s team as their own.
 * 孟加拉国从未有资格参加世界杯。但每四年，该国许多人就将阿根廷的球队作为自己的球队。
-* The activist, Sonam Wangchuk, started his strike last month as part of a protest over educational mismanagement that has affected millions of students.
-* 活动家索南·旺楚克（ Sonam Wangchuk ）上个月开始罢工，作为对教育管理不善的抗议活动的一部分，教育管理不善影响了数百万学生。
+* The activist, Sonam Wangchuk, has been demanding the education minister’s resignation over botched nationwide exams that affected millions of students.
+* 活动家索南·旺楚克（ Sonam Wangchuk ）一直在要求教育部长辞职，因为全国范围内的考试失败，影响了数百万学生。
 * The New Zealand slang word, dating back to the 1990s, was pulled back into circulation in tributes to the actor, who died on Tuesday.
 * 这个可以追溯到20世纪90年代的新西兰俚语被重新流传，以悼念这位周二去世的演员。
 * Chinese officials appear to think that President Trump’s accusations that China interfered in the 2020 U.S. elections were driven by domestic politics, not foreign policy.
@@ -64,6 +66,4 @@ Auto RSS New York Times and Translate
 * 中国官员称干预选举的指控毫无根据，而分析人士则表示，北京方面正试图保持脆弱的缓和局面。
 * In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping.
 * 在中国释放后的第一次采访中，金明日牧师详细介绍了他在特朗普总统直接呼吁习近平后意外获释的情况。
-* It lodged a diplomatic complaint with Beijing over an A.I.-generated video centered on territorial disputes in the South China Sea.
-* 它就人工智能生成的以南中国海领土争端为中心的视频向北京提出了外交投诉。
 
