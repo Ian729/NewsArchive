@@ -2,50 +2,52 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* A New York Times reporter’s quest to beat the personal best he set 14 years ago took him to a Kenyan village, where the biggest benefit he got was not what he expected.
+* 《纽约时报》的一名记者试图击败他14年前设定的个人最佳成绩，将他带到了肯尼亚的一个村庄，在那里，他获得的最大好处并不是他所期望的。
+* Andy Burnham has spoken of Catholicism as part of his cultural identity rather than as a fervent religious faith.
+* 安迪·伯纳姆（ Andy Burnham ）将天主教视为其文化身份的一部分，而不是一种狂热的宗教信仰。
+* The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing.
+* 五角大楼说，一名军人在伊拉克北部被打死，而部队则处置了一架伊朗无人机。它还说，在约旦发现了“身份不明的遗体” ，早些时候的袭击造成两名士兵死亡，另一名士兵失踪。
+* U.S. and Iranian attacks are unfolding in a way that risks a wider war they cannot contain, analysts warn, unless they can return to negotiations quickly.
+* 分析人士警告说，美国和伊朗的袭击正在以一种他们无法遏制的更广泛战争的风险方式展开，除非他们能够迅速恢复谈判。
+* Demonstrators and many soldiers want President Volodymyr Zelensky to reaffirm the vision of drone warfare laid out by the defense minister he fired last week.
+* 示威者和许多士兵希望总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）重申他上周解雇的国防部长提出的无人机战争愿景。
+* Andy Burnham, who is set to enter Downing Street on Monday, faces a long and daunting list of issues. Here are some of the most urgent.
+* 定于周一进入唐宁街的安迪·伯纳姆（ Andy Burnham ）面临着一系列冗长而艰巨的问题。以下是一些最紧迫的问题。
+* At a conference on reconstruction, the focus shifted to private investment, not donor assistance.
+* 在一次关于重建的会议上，重点转向了私人投资，而不是捐助者的援助。
+* The demonstrations were prompted in part after questions for the country’s biggest medical school entrance exam were leaked, forcing millions to retake the test.
+* 示威活动的部分原因是该国最大的医学院入学考试问题被泄露，迫使数百万人重新参加考试。
 * The Tokyo government is allowing workers to wear shorts for the first time this summer, prompting delicate questions about etiquette and hairy legs.
 * 东京政府今年夏天首次允许工人穿短裤，这引发了有关礼仪和毛茸茸的腿的微妙问题。
-* The soldiers, killed in Jordan, were the first U.S. troops to die from hostile fire since an April truce. U.S. forces began retaliatory strikes early Sunday.
-* 这些士兵在约旦阵亡，是自4月休战以来第一批死于敌对火力的美军士兵。周日早些时候，美军开始了报复性罢工。
-* Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.
-* 支持被罢免的乌克兰国防部长的示威者已经开始谴责他在任时与之发生冲突的指挥官亚历山大·叙尔斯基将军。
-* Nearly 200 fires continued to devastate swaths of the province as smoke continued to drift across parts of Canada and the United States.
-* 随着烟雾继续在加拿大和美国的部分地区漂流，近200场大火继续摧毁该省的大片地区。
-* Jens Spahn, a top leader of Chancellor Friedrich Merz’s party, resigned his post after announcing that he had a baby by surrogate, which is illegal in Germany.
-* 总理弗里德里希·梅尔茨（ Friedrich Merz ）所在政党的最高领导人延斯·斯帕恩（ Jens Spahn ）在宣布自己代孕生子后辞职，这在德国是非法的。
-* Jacinto Marques left Angola for Canada’s frozen edge. Now he’s running a bus service in Iqaluit, the largest, and only city in Canada’s Arctic.
-* Jacinto Marques离开安哥拉前往加拿大的冰封边缘。现在，他正在加拿大北极地区最大也是唯一的城市伊卡鲁伊特运营巴士服务。
-* London hosted an understated version of the Conservative Political Action Conference, known in the United States for its over-the-top celebration of MAGA causes.
-* 伦敦主办了保守党政治行动会议的低调版本，该会议在美国以其对MAGA事业的过度庆祝而闻名。
-* As he prepares for the World Cup final, Lamine Yamal, 19, is at the heart of a national debate about what it means to be Spanish in an increasingly multicultural society.
-* 19岁的拉明·亚马尔（ Lamine Yamal ）正在为世界杯决赛做准备，这是一场关于在日益多元文化的社会中成为西班牙人意味着什么的全国性辩论的核心。
-* Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.
-* 特朗普总统与意大利总理乔治亚·梅洛尼（ Giorgia Meloni ）争吵之际，美国驻罗马大使蒂尔曼· J ·费尔蒂塔（ Tilman J. Fertitta ）正在他的超级游艇上避暑。
-* The Israeli authorities have enacted a broad array of countermeasures to contain what they describe as online recruiting efforts by Iranian agents.
-* 以色列当局制定了一系列广泛的对策，以遏制他们所说的伊朗特工的在线招募活动。
+* On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.
+* 周六，乌克兰袭击了俄罗斯的两个仓库，造成至少8人死亡， 62人受伤。
 
 ## New York Times United States News
-* The department will not name the agent who killed a Colombian immigrant in Maine. Some large police agencies recognize a public right to know the identities of officers involved in violence.
-* 该部门不会透露在缅因州杀害哥伦比亚移民的代理人的名字。一些大型警察机构承认公众有权知道参与暴力行为的警察的身份。
-* Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask questions about candidates.
-* 如今，政治竞选活动有了新的担忧：当选民询问有关候选人的问题时，人工智能项目会产生不讨人喜欢或不完整的信息。
-* A New York Times review of 18 states targeted by the Trump administration for their “sanctuary” policies found that all cooperate significantly with immigration authorities in cases involving violent crimes.
-* 《纽约时报》对特朗普政府针对18个州的“庇护”政策进行了审查，发现所有州都在涉及暴力犯罪的案件中与移民当局进行了大量合作。
-* A little-known federal office spent decades investigating potential discrimination by government contractors — until it was stopped by the Trump administration.
-* 一个鲜为人知的联邦办公室花了数十年时间调查政府承包商的潜在歧视，直到特朗普政府阻止了这一行动。
-* Prosecutors have fled the U.S. attorney’s office in Chicago, angry about the cases they’ve been told to bring against protesters and immigrants.
-* 检察官逃离了芝加哥的美国检察官办公室，对他们被告知要对抗议者和移民提起诉讼感到愤怒。
-* Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.
-* 进步的前州参议院议长特洛伊·杰克逊（ Troy Jackson ）表现出巨大的实力，该州一半的县选出代表参加大会，他们将选择格雷厄姆·普拉特纳（ Graham Platner ）的替代者。
-* The vice president’s comment that there were ties between Mr. Epstein and the “highest levels” of Israeli intelligence troubled some in his party.
-* 这位副总统的评论是，爱泼斯坦与以色列“最高级别”的情报人员之间存在联系，这令他的党内一些人感到不安。
-* Federal marshals arrested the influencers, who are known for their misogynistic views and have faced years of criminal investigations in Europe. The new charges concern offenses dating to 2010, British officials said.
-* 联邦法警逮捕了这些有影响力的人，他们以厌恶女性的观点而闻名，并在欧洲面临多年的刑事调查。英国官员表示，新指控涉及可追溯到2010年的罪行。
-* Dozens of fires ignited in Oregon and Washington as more than 14,000 lightning strikes hit the region during thunderstorms this week.
-* 本周在雷暴期间，俄勒冈州和华盛顿州发生了数十起火灾，超过14,000次雷击袭击了该地区。
-* The move by Cindy Burbank could clear a path for Dan Osborn, an independent candidate backed by her party’s leadership. But Republicans have cried foul, and her effort could face obstacles.
-* 辛迪·伯班克（ Cindy Burbank ）的举动可以为丹·奥斯本（ Dan Osborn ）扫清道路，奥斯本是一位得到党内领导层支持的独但共和党人已经犯规，她的努力可能面临障碍。
+* Both were active-duty soldiers, the Defense Department said. They were killed in action after an Iranian strike on a U.S. base on Friday.
+* 国防部表示，两人都是现役士兵。上周五，伊朗对美国基地发动罢工，他们在行动中丧生。
+* Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.
+* 杰克逊已经成为接替格雷厄姆·普拉特纳(Graham Platner)的明显领跑者，他是一位从共和党转变为民主党的人，在政策上被视为与普拉特纳关系密切。
+* Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.
+* 特洛伊·杰克逊（ Troy Jackson ）作为取代格雷厄姆·普拉特纳（ Graham Platner ）的明显领跑者出现，为该党带来了一些挑战，但也指出了一些新的挑战。
+* Central Command is not required to release information about injured troops, especially when they quickly return to duty, a military official said.
+* 一名军事官员表示，中央司令部无需发布有关受伤部队的信息，尤其是当他们迅速重返岗位时。
+* A Massachusetts mother charged in the killing of her children goes on trial on Monday. The small coastal town of Duxbury is preparing to relive a case focused on postpartum mental health.
+* 一名被控杀害其子女的马萨诸塞州母亲将于周一接受审判。沿海小镇达克斯伯里正准备重温一个专注于产后心理健康的案例。
+* Some Republicans fear the party is poised to repeat past mistakes by nominating candidates in Tuesday’s primaries who are viewed as too extreme to sway moderate voters.
+* 一些共和党人担心，该党准备重复过去的错误，在周二的初选中提名候选人，这些候选人被认为过于极端，无法影响温和的选民。
+* What is essential reading? Texas has an answer: Classics, including the Bible.
+* 什么是基本阅读？德克萨斯州有一个答案：经典，包括圣经。
+* The Qatari-donated plane has been under scrutiny over whether it is fitted with sufficient defensive capabilities to adequately protect a U.S. president and others traveling on it.
+* 这架卡塔尔捐赠的飞机一直在接受审查，以确定它是否配备了足够的防御能力来充分保护美国总统和乘坐它的其他人。
+* A Provo fire captain, his wife and their three sons were found dead over the weekend near a campground in southern Utah. They were likely flood victims, the authorities said.
+* 上周末，一名普罗沃消防队长、他的妻子和他们的三个儿子在犹他州南部的一个营地附近被发现死亡。当局表示，他们可能是洪水受害者。
+* In a post on social media, Mr. Vance said his wife and their son, Alec Neel Vance, were “happy and healthy.”
+* 万斯在社交媒体上发帖说，他的妻子和儿子亚历克·尼尔·万斯(Alec Neel Vance) “快乐而健康”。
 
 ## New York Times Asia News
+* The demonstrations were prompted in part after questions for the country’s biggest medical school entrance exam were leaked, forcing millions to retake the test.
+* 示威活动的部分原因是该国最大的医学院入学考试问题被泄露，迫使数百万人重新参加考试。
 * The Tokyo government is allowing workers to wear shorts for the first time this summer, prompting delicate questions about etiquette and hairy legs.
 * 东京政府今年夏天首次允许工人穿短裤，这引发了有关礼仪和毛茸茸的腿的微妙问题。
 * Bangladesh has never qualified for the World Cup. But every four years, many in the country adopt Argentina’s team as their own.
@@ -64,6 +66,4 @@ Auto RSS New York Times and Translate
 * 习近平表示，人工智能系统的发展应该是“全球协作的交响乐”。
 * Chinese officials called the election-meddling accusation baseless, while analysts said Beijing was trying to preserve a fragile détente.
 * 中国官员称干预选举的指控毫无根据，而分析人士则表示，北京方面正试图保持脆弱的缓和局面。
-* In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping.
-* 在中国释放后的第一次采访中，金明日牧师详细介绍了他在特朗普总统直接呼吁习近平后意外获释的情况。
 
