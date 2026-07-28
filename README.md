@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The Iran-backed Houthis have seized on a vulnerable moment for Saudi Arabia, which is reluctant to enter another war, to try to force political concessions in Yemen.
-* 伊朗支持的胡塞武装抓住了沙特阿拉伯不愿进入另一场战争的脆弱时刻，试图迫使也门做出政治让步。
-* Chancellor Friedrich Merz of Germany called for tighter monitoring after the authorities said the suspect in the assault had tried to join ISIS and was released from detention in May.
-* 德国总理弗里德里希·默茨（ Friedrich Merz ）呼吁加强监督，此前当局表示，袭击嫌疑人曾试图加入伊斯兰国，并于5月被释放。
-* The killing of a woman in what officials called an act of Islamist terrorism rattled a community that has seen a surge in threats, including from the far right.
-* 一名妇女在官员所称的伊斯兰恐怖主义行为中被杀害，令包括极右翼在内的威胁激增的社区感到不安。
-* Ukraine’s campaign to bring the war home to ordinary Russians is meant to pressure the Kremlin to negotiate. Moscow has acted as if there were no crisis.
-* 乌克兰将战争带给普通俄罗斯人的运动旨在迫使克里姆林宫进行谈判。莫斯科表现得好像没有危机。
-* President Trump has tried to strangle Cuba by blocking its oil imports. But six months later, the island is finding ways to endure.
-* 特朗普总统试图通过阻止古巴石油进口来扼杀古巴。但六个月后，这个岛屿正在寻找忍受的方法。
-* With surrounding towns in southwestern France evacuated and fire still spreading rapidly, several thousand are sheltering in the city, unsure what will become of their homes.
-* 随着法国西南部周边城镇的疏散和火势仍在迅速蔓延，数千人在这座城市避难，不确定他们的家园会变成什么样子。
-* Prime Minister Benjamin Netanyahu of Israel is set to meet President Trump on Tuesday, with one eye on Iran and another on the coming elections back home.
-* 以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）定于周二会见特朗普总统，一方面关注伊朗，另一方面关注即将到来的国内选举。
-* President Trump put off plans to escalate the fighting in part because of dwindling stockpiles of interceptor missiles, American officials said.
-* 美国官员表示，特朗普总统推迟了加剧战斗的计划，部分原因是拦截导弹库存减少。
-* Abhijeet Dipke founded the Cockroach Janta Party as a joke after a judge insulted young people. The idea snowballed into a generational movement that has challenged the country’s leaders.
-* Abhijeet Dipke在法官侮辱年轻人后开玩笑创立了蟑螂简达派对。这个想法逐渐演变成一场挑战国家领导人的代际运动。
-* The confrontation with the suspect in what has been described as a likely act of Islamist terrorism occurred as a large-scale manhunt was underway, the authorities said.
-* 当局表示，与嫌疑人的对抗发生在大规模搜捕过程中，被描述为可能的伊斯兰恐怖主义行为。
+* Emergency workers were racing to find people and extinguish fires after the 6.8-magnitude quake struck the southwestern prefecture of Kumamoto.
+* 在6.8级地震袭击西南部的熊本县后，紧急救援人员正在争先恐后地寻找人员并扑灭火灾。
+* Amid a reprieve in the fighting, Iran’s leaders are betting that they can endure more pain than President Trump and have leverage over the Strait of Hormuz, analysts say.
+* 分析人士表示，在战斗暂缓期间，伊朗领导人押注他们可以承受比特朗普总统更多的痛苦，并对霍尔木兹海峡施加影响。
+* Faced with unprecedented blazes, firefighters in both countries are using a brief window of opportunity to bring the flames under control before temperatures spike.
+* 面对前所未有的大火，两国的消防员正在利用短暂的机会，在气温飙升之前控制火势。
+* Madrid is booming, culturally and economically, but the wildfires raging within a short drive of the capital have provided a reality check.
+* 马德里的文化和经济蓬勃发展，但距离首都很短的车程内肆虐的野火提供了一个现实检查。
+* The attack in the Caspian Sea was an unusually direct encounter between two countries that have been on opposite sides for years.
+* 里海的袭击事件是两国之间不同寻常的直接遭遇，这两个国家多年来一直处于对立状态。
+* President Trump will meet his Ukrainian counterpart in Washington this week. President Volodymyr Zelensky will also attend the funeral of Senator Lindsey Graham.
+* 特朗普总统本周将在华盛顿会见乌克兰总统。总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）也将出席参议员林赛·格雷厄姆（ Lindsey
+* One of the largest fires in modern French history is raging near the vineyards of Bordeaux. That is just the latest problem for France’s embattled wine industry.
+* 法国现代史上最大的火灾之一正在波尔多葡萄园附近肆虐。这只是法国陷入困境的葡萄酒行业的最新问题。
+* As India’s huge youth population surges, the government faces pressure to fix an education system that leaves many ill prepared for university, let alone for the workplace.
+* 随着印度庞大的青年人口激增，政府面临着修复教育体系的压力，这使得许多人没有为上大学做好准备，更不用说在工作场所了。
+* Dozens have died in recent weeks ahead of a weekslong regional election, officials said. A banned civil rights group said supporters died in conflicts with the police.
+* 官员们表示，在长达数周的地区选举之前，最近几周已有数十人死亡。一个被禁止的民权组织表示，支持者在与警方的冲突中死亡。
+* Small pumps and truck engines are used to extract crude from the ground in parts of the country, which has tens of thousands of community-run oil wells.
+* 该国部分地区使用小型泵和卡车发动机从地面提取原油，该地区拥有数万个社区运营的油井。
 
 ## New York Times United States News
-* Three people were killed during the incident near the city’s Space Needle on Sunday, the police said. One suspect was in custody and the police were searching for another.
-* 警方称，周日在该市太空针塔附近发生的事件中有三人遇难。一名嫌疑人被拘留，警方正在寻找另一名嫌疑人。
-* Arizona G.O.P. voters nominated Alexander Kolodin for secretary of state, despite, or perhaps because of, election denial efforts that earned him an admonition from the state bar association.
-* 亚利桑那州共和党选民提名亚历山大·科洛丁（ Alexander Kolodin ）担任国务卿，尽管或许是因为选举否决努力，这为他赢得了州律师协会的警告。
-* Democrats must decide what brand to put forward: an establishment name or a candidate on the left who has garnered excitement.
-* 民主党人必须决定推出哪个品牌：企业名称或激起兴奋的左翼候选人。
-* Michigan’s Aug. 4 primary is a critical front in the fight between Democrats’ progressive and moderate flanks and a preview of the 2028 presidential primary.
-* 密歇根州8月4日的初选是民主党进步派和温和派之间斗争的关键战线，也是2028年总统初选的预览。
-* Representative Hakeem Jeffries, the New York Democrat and minority leader, focused relentlessly on affordability in a swing district.
-* 纽约民主党和少数党领袖哈基姆·杰弗里斯（ Hakeem Jeffries ）众议员坚持不懈地关注摇摆区的可负担性。
-* In a dogged demonstration of love for a Washington institution, Sandy Weiswasser is among a few dozen volunteers still showing dwindling visitors a hollowed-out building.
-* 桑迪·魏斯瓦瑟（ Sandy Weiswasser ）是几十名志愿者中的一员，他们仍在向越来越少的游客展示一座镂空的建筑，以示对华盛顿机构的热爱。
-* Four others were injured during the shooting near the city’s Space Needle, the authorities said. The police were searching for one suspect and had taken another into custody.
-* 当局说，在该市太空针塔附近的枪击事件中，另有四人受伤。警方正在寻找一名嫌疑人，并将另一名嫌疑人拘留。
-* The changes separated the casualty numbers into two separate web pages, potentially making it more difficult to tally the war’s full toll.
-* 这些变化将伤亡人数分为两个单独的网页，这可能使计算战争的全部伤亡更加困难。
-* A college fraternity member was paddled so severely during hazing rituals that he suffered kidney damage and nearly died.
-* 一名大学联谊会成员在欺侮仪式中被划得如此厉害，以至于肾脏受损，几乎死亡。
-* The 2024 fire in Northern California was one of the state’s largest wildfires ever. The man faces a prison sentence of 25 years to life.
-* 2024年加利福尼亚州北部的大火是该州有史以来最大的野火之一。这名男子面临25年徒刑至终身监禁。
+* Closed ceremonies for the Republican senator, a stalwart ally of President Trump, will be held in Washington on Tuesday before a procession and public funeral in South Carolina the next day.
+* 特朗普总统的坚定盟友、共和党参议员的闭门仪式将于周二在华盛顿举行，第二天将在南卡罗来纳州举行游行和公共葬礼。
+* Days before a committee vote on Todd Blanche’s nomination to be attorney general, Democrats demanded answers about the since-withdrawn subpoenas.
+* 在委员会就托德·布兰奇（ Todd Blanche ）被提名为司法部长的提名进行投票前几天，民主党人要求对撤回的传票做出答复。
+* More than 400 people were arrested in Newport Beach on the July 4 weekend after a social media “takeover” got out of hand. Now the city is trying to figure out how to stop it from happening again.
+* 7月4日周末，在社交媒体“收购”失控后， 400多人在纽波特海滩被捕。现在，这座城市正试图弄清楚如何阻止这种情况再次发生。
+* Investigators in Europe said that the cryptocurrency giant Binance had made it more difficult to track down scammers and solve other crimes.
+* 欧洲的调查人员表示，加密货币巨头币安让追踪诈骗犯和解决其他犯罪变得更加困难。
+* The law, which would make it a felony for most prediction markets to operate and advertise in the state, was set to take effect on Saturday.
+* 这项法律将使大多数预测市场在该州运营和广告成为重罪，该法律将于周六生效。
+* Private entries, released by a Republican senator, have reignited a furious debate over whether Covid-19 leaked from a lab.
+* 一位共和党参议员发布的私人条目重新引发了一场关于新冠肺炎是否从实验室泄露的激烈辩论。
+* At the final debate before next week’s Democratic primary for Senate, Dr. Abdul El-Sayed and Representative Haley Stevens showcased their wildly different ideological stances and political styles.
+* 在下周参议院民主党初选前的最后一场辩论中， Abdul El-Sayed博士和众议员Haley Stevens展示了他们截然不同的意识形态立场和政治风格。
+* Iran denied President Trump’s claim that it wants to talk, and gave no sign that it would make concessions or speak directly with U.S. officials.
+* 伊朗否认特朗普总统声称要谈判，也没有迹象表明它会做出让步或直接与美国官员交谈。
+* The president also assured supporters that negotiations over ending the war in Iran, a conflict that has sent fuel and energy prices soaring, are continuing in a “friendly” fashion.
+* 总统还向支持者保证，结束伊朗战争的谈判正在以“友好”的方式继续进行，这场冲突导致燃料和能源价格飙升。
+* David Cifaldi was hiking up Granite Peak, Montana’s tallest mountain, last week when he slipped and fell on one of his trekking poles. A wound nurse, he went into survival mode.
+* 大卫·西法尔迪（ David Cifaldi ）上周在蒙大拿州最高的山峰花岗岩峰（ Granite Peak ）徒步旅行时，滑倒在他的登山杖上。身为伤口护士，他进入了生存模式。
 
 ## New York Times Asia News
-* Fifteen people remain missing after the cargo vessel went down in heavily disputed waters. China said it had rescued 47 people who had been aboard.
-* 货船在争议严重的水域坠毁后，仍有15人失踪。中国表示已救出47名船上人员。
-* Developing Asian nations, scarred by Middle East supply shocks, are working to scale back their reliance on imported fuels, including liquefied natural gas.
-* 受中东供应冲击影响，亚洲发展中国家正在努力减少对进口燃料（包括液化天然气）的依赖。
-* Abhijeet Dipke founded the Cockroach Janta Party as a joke after a judge insulted young people. The idea snowballed into a generational movement that has challenged the country’s leaders.
-* Abhijeet Dipke在法官侮辱年轻人后开玩笑创立了蟑螂简达派对。这个想法逐渐演变成一场挑战国家领导人的代际运动。
-* The Cockroach Janta Party called an end to weeks of protests after the education minister resigned, a win for that movement even as deep-seated anger among young people remains.
-* 在教育部长辞职后，蟑螂坚达党（ Cockroach Janta Party ）呼吁结束数周的抗议活动，这是该运动的胜利，尽管年轻人中仍存在根深蒂固的愤怒。
-* Young Māori in New Zealand are embracing tā moko, the ritual tattoos that were banned under British colonial rule and became an act of protest in the 1970s.
-* 新西兰的年轻毛利人正在接受tā moko ，这是在英国殖民统治下被禁止的仪式纹身，并在20世纪70年代成为一种抗议行为。
-* Some of the young demonstrators who forced out the country’s education minister described their deep-seated anger, frustration and desires that drove them into the streets.
-* 一些迫使该国教育部长下台的年轻示威者描述了他们根深蒂固的愤怒、沮丧和欲望，这些都驱使他们走上街头。
-* Taiwan is stepping up plans to secure fuel and other vital imports as Chinese government ships practice moves that could one day be used in a blockade.
-* 随着中国政府船只实施可能有朝一日被用于封锁的行动，台湾正在加大计划力度，以确保燃料和其他重要进口产品的安全。
-* Tariffs are back, but this time there is a war in the Persian Gulf and oil has hit $100 a barrel.
-* 关税又回来了，但这次波斯湾发生了战争，石油价格达到每桶100 $。
-* Mehmet Fatih Cicekli posted some social media content of himself in workout gear. Then he lost his job.
-* Mehmet Fatih Cicekli在锻炼装备中发布了一些自己的社交媒体内容。然后他丢了工作。
-* Representatives of Prime Minister Narendra Modi agreed to compensate families affected by a major exam leak, as protesters keep pressing for India’s education minister to resign.
-* 总理纳伦德拉·莫迪（ Narendra Modi ）的代表同意赔偿受重大考试泄漏影响的家庭，因为抗议者不断敦促印度教育部长辞职。
+* The attack in the Caspian Sea was an unusually direct encounter between two countries that have been on opposite sides for years.
+* 里海的袭击事件是两国之间不同寻常的直接遭遇，这两个国家多年来一直处于对立状态。
+* Dozens have died in recent weeks ahead of a weekslong regional election, officials said. A banned civil rights group said supporters died in conflicts with the police.
+* 官员们表示，在长达数周的地区选举之前，最近几周已有数十人死亡。一个被禁止的民权组织表示，支持者在与警方的冲突中死亡。
+* As India’s huge youth population surges, the government faces pressure to fix an education system that leaves many ill prepared for university, let alone for the workplace.
+* 随着印度庞大的青年人口激增，政府面临着修复教育体系的压力，这使得许多人没有为上大学做好准备，更不用说在工作场所了。
+* South Korea temporarily paused trading on Tuesday as its benchmark stock index led losses across the region, closing more than 10 percent lower.
+* 韩国周二暂停交易，因其基准股指导致整个地区亏损，收盘下跌逾10%。
+* The quake struck near the coastal city of Uto in southern Japan. There were no immediate reports of damage.
+* 地震发生在日本南部沿海城市宇藤附近。没有立即报告损坏情况。
+* Small pumps and truck engines are used to extract crude from the ground in parts of the country, which has tens of thousands of community-run oil wells.
+* 该国部分地区使用小型泵和卡车发动机从地面提取原油，该地区拥有数万个社区运营的油井。
+* Soaring airfares and disruptions to Middle Eastern travel hubs are keeping many travelers away from destinations in Cambodia, Thailand and Indonesia.
+* 飙升的机票价格和对中东旅游中心的干扰使许多旅客远离柬埔寨、泰国和印度尼西亚的目的地。
+* Some staple dishes in Asia are no longer as affordable to purchase or prepare. Customers and food sellers alike are feeling the pinch.
+* 亚洲的一些主食不再那么实惠。顾客和食品销售商都感受到了压力。
+* Moonshot said some users would have to get licenses to use its Kimi K3 model as the company threads a needle between sharing and profiting from its technology’s popularity.
+* Moonshot表示，一些用户必须获得许可才能使用其Kimi K3型号，因为该公司在分享和从其技术的普及中获利之间穿针引线。
+* Narendra Modi caved to the demands of India’s young people — a nod to their real power.
+* 纳伦德拉·莫迪（ Narendra Modi ）屈服于印度年轻人的要求—向他们的真正权力致敬。
 
