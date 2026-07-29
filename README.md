@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Emergency workers were racing to find people and extinguish fires after the 6.8-magnitude quake struck the southwestern prefecture of Kumamoto.
-* 在6.8级地震袭击西南部的熊本县后，紧急救援人员正在争先恐后地寻找人员并扑灭火灾。
-* Amid a reprieve in the fighting, Iran’s leaders are betting that they can endure more pain than President Trump and have leverage over the Strait of Hormuz, analysts say.
-* 分析人士表示，在战斗暂缓期间，伊朗领导人押注他们可以承受比特朗普总统更多的痛苦，并对霍尔木兹海峡施加影响。
-* Faced with unprecedented blazes, firefighters in both countries are using a brief window of opportunity to bring the flames under control before temperatures spike.
-* 面对前所未有的大火，两国的消防员正在利用短暂的机会，在气温飙升之前控制火势。
-* Madrid is booming, culturally and economically, but the wildfires raging within a short drive of the capital have provided a reality check.
-* 马德里的文化和经济蓬勃发展，但距离首都很短的车程内肆虐的野火提供了一个现实检查。
-* The attack in the Caspian Sea was an unusually direct encounter between two countries that have been on opposite sides for years.
-* 里海的袭击事件是两国之间不同寻常的直接遭遇，这两个国家多年来一直处于对立状态。
-* President Trump will meet his Ukrainian counterpart in Washington this week. President Volodymyr Zelensky will also attend the funeral of Senator Lindsey Graham.
-* 特朗普总统本周将在华盛顿会见乌克兰总统。总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）也将出席参议员林赛·格雷厄姆（ Lindsey
-* One of the largest fires in modern French history is raging near the vineyards of Bordeaux. That is just the latest problem for France’s embattled wine industry.
-* 法国现代史上最大的火灾之一正在波尔多葡萄园附近肆虐。这只是法国陷入困境的葡萄酒行业的最新问题。
-* As India’s huge youth population surges, the government faces pressure to fix an education system that leaves many ill prepared for university, let alone for the workplace.
-* 随着印度庞大的青年人口激增，政府面临着修复教育体系的压力，这使得许多人没有为上大学做好准备，更不用说在工作场所了。
-* Dozens have died in recent weeks ahead of a weekslong regional election, officials said. A banned civil rights group said supporters died in conflicts with the police.
-* 官员们表示，在长达数周的地区选举之前，最近几周已有数十人死亡。一个被禁止的民权组织表示，支持者在与警方的冲突中死亡。
-* Small pumps and truck engines are used to extract crude from the ground in parts of the country, which has tens of thousands of community-run oil wells.
-* 该国部分地区使用小型泵和卡车发动机从地面提取原油，该地区拥有数万个社区运营的油井。
+* The continent is experiencing some of its biggest fires and highest temperatures ever. Residents are fleeing, leaders are struggling to respond and “it will get worse,” one climate expert said.
+* 非洲大陆正在经历有史以来最大的火灾和最高的温度。一位气候专家表示，居民正在逃离，领导人正在努力应对， “情况会变得更糟”。
+* Global oil prices jumped on Wednesday after the U.S. and Saudi Arabia said they had carried out joint airstrikes on Iranian proxies in Iraq.
+* 在美国和沙特阿拉伯表示对伊朗在伊拉克的代理人进行了联合空袭后，全球油价周三飙升。
+* Rescue personnel are working to free those trapped in collapsed buildings after a 6.8-magnitude earthquake struck Kumamoto on Tuesday.
+* 周二熊本发生6.8级地震后，救援人员正在努力解救那些被困在倒塌建筑物中的人。
+* Hundreds of political, legal and other figures signed a public letter warning that Jordan’s close alliance with the United States poses a risk.
+* 数百名政治、法律和其他人物签署了一封公开信，警告约旦与美国的密切联盟构成了风险。
+* David González has suddenly become the host of Havana’s hottest parties amid its energy crisis. Can he turn them into a movement?
+* 在能源危机中，大卫·冈萨雷斯（ David González ）突然成为哈瓦那最热门的派对的主持人。他能把它们变成一个动作吗？
+* The lifestyles of the wealthy in Myanmar — nightclubs, caviar and trips abroad — have been largely untouched by years of deadly conflict.
+* 缅甸富人的生活方式--夜总会、鱼子酱和出国旅行--基本上没有受到多年致命冲突的影响。
+* Qantas plans to launch the world’s longest commercial flight next year from Sydney to London, using specially manufactured Airbus jets.
+* 澳航计划明年推出世界上最长的从悉尼到伦敦的商业航班，使用专门制造的空中客车喷气式飞机。
+* Abderrahim Fakir died after police officers pinned him to the ground. His death has evolved into a broader standoff over the treatment and role of immigrants in Italy.
+* Abderrahim Fakir在警察将他钉在地上后死亡。他的去世已经演变成对意大利移民的待遇和作用的更广泛的对峙。
+* President Trump meets his Ukrainian counterpart in Washington this week. President Volodymyr Zelensky also attended the funeral of Senator Lindsey Graham.
+* 本周，特朗普总统在华盛顿会见了乌克兰总统。沃洛季米尔·泽伦斯基总统也出席了参议员林赛·格雷厄姆的葬礼。
+* Human rights activists say the Iranian government has been rapidly escalating executions. The latest prompted public protest, videos appear to show.
+* 人权活动人士表示，伊朗政府一直在迅速升级处决。最新的公众抗议活动，视频似乎显示。
 
 ## New York Times United States News
-* Closed ceremonies for the Republican senator, a stalwart ally of President Trump, will be held in Washington on Tuesday before a procession and public funeral in South Carolina the next day.
-* 特朗普总统的坚定盟友、共和党参议员的闭门仪式将于周二在华盛顿举行，第二天将在南卡罗来纳州举行游行和公共葬礼。
-* Days before a committee vote on Todd Blanche’s nomination to be attorney general, Democrats demanded answers about the since-withdrawn subpoenas.
-* 在委员会就托德·布兰奇（ Todd Blanche ）被提名为司法部长的提名进行投票前几天，民主党人要求对撤回的传票做出答复。
-* More than 400 people were arrested in Newport Beach on the July 4 weekend after a social media “takeover” got out of hand. Now the city is trying to figure out how to stop it from happening again.
-* 7月4日周末，在社交媒体“收购”失控后， 400多人在纽波特海滩被捕。现在，这座城市正试图弄清楚如何阻止这种情况再次发生。
-* Investigators in Europe said that the cryptocurrency giant Binance had made it more difficult to track down scammers and solve other crimes.
-* 欧洲的调查人员表示，加密货币巨头币安让追踪诈骗犯和解决其他犯罪变得更加困难。
-* The law, which would make it a felony for most prediction markets to operate and advertise in the state, was set to take effect on Saturday.
-* 这项法律将使大多数预测市场在该州运营和广告成为重罪，该法律将于周六生效。
-* Private entries, released by a Republican senator, have reignited a furious debate over whether Covid-19 leaked from a lab.
-* 一位共和党参议员发布的私人条目重新引发了一场关于新冠肺炎是否从实验室泄露的激烈辩论。
-* At the final debate before next week’s Democratic primary for Senate, Dr. Abdul El-Sayed and Representative Haley Stevens showcased their wildly different ideological stances and political styles.
-* 在下周参议院民主党初选前的最后一场辩论中， Abdul El-Sayed博士和众议员Haley Stevens展示了他们截然不同的意识形态立场和政治风格。
-* Iran denied President Trump’s claim that it wants to talk, and gave no sign that it would make concessions or speak directly with U.S. officials.
-* 伊朗否认特朗普总统声称要谈判，也没有迹象表明它会做出让步或直接与美国官员交谈。
-* The president also assured supporters that negotiations over ending the war in Iran, a conflict that has sent fuel and energy prices soaring, are continuing in a “friendly” fashion.
-* 总统还向支持者保证，结束伊朗战争的谈判正在以“友好”的方式继续进行，这场冲突导致燃料和能源价格飙升。
-* David Cifaldi was hiking up Granite Peak, Montana’s tallest mountain, last week when he slipped and fell on one of his trekking poles. A wound nurse, he went into survival mode.
-* 大卫·西法尔迪（ David Cifaldi ）上周在蒙大拿州最高的山峰花岗岩峰（ Granite Peak ）徒步旅行时，滑倒在他的登山杖上。身为伤口护士，他进入了生存模式。
+* The Kentucky Republican has accused Dr. Anthony Fauci of funding research that triggered the Covid pandemic and lying about it to Congress — charges Dr. Fauci denies.
+* 这位肯塔基州共和党人指责Anthony Fauci博士资助引发新冠肺炎疫情的研究并向国会撒谎— Fauci博士否认了这一指控。
+* The senator’s funeral service will be held in Columbia, the capital. His remains will be buried in Pickens County, S.C., where he was born and raised.
+* 参议员的葬礼将在首都哥伦比亚举行。他的遗体将被埋葬在他出生和长大的南卡罗来纳州皮肯斯县。
+* What do you do when a $25 billion complex is under construction nearby? One couple in Abilene had an idea.
+* 当附近正在建设价值$ 250亿的综合体时，您会怎么做？阿比林的一对夫妇有个主意。
+* Gov. Larry Rhoden, who ascended to the office last year when Kristi Noem left for the Trump cabinet, overcame a large Republican primary field and won a runoff election.
+* 州长拉里·罗登（ Larry Rhoden ）去年在克里斯蒂·诺姆（ Kristi Noem ）离开特朗普内阁时上任，他战胜了共和党的一个大型初选选区，赢得了决选。
+* Dr. Anthony S. Fauci seemed to be the life of the party, even in the midst of a deadly pandemic.
+* 安东尼· S ·福奇博士（ Dr. Anthony S. Fauci ）似乎是党的生命，即使在致命的流行病中也是如此。
+* Mr. Clayton, who shed Democratic support after he refused to clearly say Joseph R. Biden Jr. won the 2020 election, will take over the Office of the Director of National Intelligence from Bill Pulte.
+* 克莱顿在拒绝明确表示小约瑟夫· R ·拜登(Joseph R. Biden Jr.)赢得2020年大选后失去了民主党的支持，他将从比尔·普尔特(Bill Pulte)手中接管国家情报总监办公室。
+* The political evolution of Lindsey Graham, the South Carolina senator, both captivated and confused many of his old friends but reflected the changing order in the nation’s capital.
+* 南卡罗来纳州参议员林赛·格雷厄姆（ Lindsey Graham ）的政治演变既让他的许多老朋友着迷，也让他感到困惑，但也反映了该国首都秩序的变化。
+* Untraceable firearms purchased without background checks and assembled from parts that have no serial numbers remain a growing problem, despite Biden-era prohibitions.
+* 尽管拜登时代的禁令，但未经背景调查购买的无法追踪的枪支以及用没有序列号的零件组装的枪支仍然是一个日益严重的问题。
+* Representative Max Miller, a Republican, is facing accusations of abuse from his ex-wife in a bitter family feud that might put his otherwise safe seat in play.
+* 共和党众议员马克斯·米勒（ Max Miller ）正面临着前妻在一场激烈的家庭纠纷中虐待他的指控，这可能会让他原本安全的席位发挥作用。
+* The city has hired an outside lawyer to investigate after Chief Axel Henry accused Mayor Kaohly Her, in her first term in office, of behaving inappropriately toward police officers.
+* 该市聘请了一名外部律师进行调查，此前首席阿克塞尔·亨利（ Axel Henry ）指责市长考利·赫（ Kaohly Her ）在她的第一个任期内对警察行为不当。
 
 ## New York Times Asia News
-* The attack in the Caspian Sea was an unusually direct encounter between two countries that have been on opposite sides for years.
-* 里海的袭击事件是两国之间不同寻常的直接遭遇，这两个国家多年来一直处于对立状态。
+* The group’s decision comes a month after the Recording Academy announced five new award categories, including one for Best Asian Pop Music Performance.
+* 该集团的决定是在录音学院宣布五个新的奖项类别一个月后做出的，其中包括一个最佳亚洲流行音乐表演奖。
+* SK Hynix, a leading memory chipmaker, reported stratospheric sales and profits on Wednesday. But it was not enough to calm skittish investors.
+* 领先的内存芯片制造商SK海力士周三公布了平流层销售额和利润。但这还不足以让不安的投资者平静下来。
+* The lifestyles of the wealthy in Myanmar — nightclubs, caviar and trips abroad — have been largely untouched by years of deadly conflict.
+* 缅甸富人的生活方式--夜总会、鱼子酱和出国旅行--基本上没有受到多年致命冲突的影响。
+* Rescue personnel are working to free those trapped in collapsed buildings after a 6.8-magnitude earthquake struck Kumamoto on Tuesday.
+* 周二熊本发生6.8级地震后，救援人员正在努力解救那些被困在倒塌建筑物中的人。
+* The 6.8-magnitude quake in southwestern Japan killed at least 13 people and injured dozens of others. Crews were trying to rescue others from a collapsed mall.
+* 日本西南部发生的6.8级地震造成至少13人死亡，数十人受伤。工作人员正试图从一个倒塌的购物中心救出其他人。
+* The centuries-old castle, one of the country’s best-known, was also affected by the region’s 2016 earthquakes.
+* 这座拥有数百年历史的城堡是该国最著名的城堡之一，也受到该地区2016年地震的影响。
+* 
+* 
 * Dozens have died in recent weeks ahead of a weekslong regional election, officials said. A banned civil rights group said supporters died in conflicts with the police.
 * 官员们表示，在长达数周的地区选举之前，最近几周已有数十人死亡。一个被禁止的民权组织表示，支持者在与警方的冲突中死亡。
 * As India’s huge youth population surges, the government faces pressure to fix an education system that leaves many ill prepared for university, let alone for the workplace.
 * 随着印度庞大的青年人口激增，政府面临着修复教育体系的压力，这使得许多人没有为上大学做好准备，更不用说在工作场所了。
-* South Korea temporarily paused trading on Tuesday as its benchmark stock index led losses across the region, closing more than 10 percent lower.
-* 韩国周二暂停交易，因其基准股指导致整个地区亏损，收盘下跌逾10%。
-* The quake struck near the coastal city of Uto in southern Japan. There were no immediate reports of damage.
-* 地震发生在日本南部沿海城市宇藤附近。没有立即报告损坏情况。
-* Small pumps and truck engines are used to extract crude from the ground in parts of the country, which has tens of thousands of community-run oil wells.
-* 该国部分地区使用小型泵和卡车发动机从地面提取原油，该地区拥有数万个社区运营的油井。
-* Soaring airfares and disruptions to Middle Eastern travel hubs are keeping many travelers away from destinations in Cambodia, Thailand and Indonesia.
-* 飙升的机票价格和对中东旅游中心的干扰使许多旅客远离柬埔寨、泰国和印度尼西亚的目的地。
-* Some staple dishes in Asia are no longer as affordable to purchase or prepare. Customers and food sellers alike are feeling the pinch.
-* 亚洲的一些主食不再那么实惠。顾客和食品销售商都感受到了压力。
-* Moonshot said some users would have to get licenses to use its Kimi K3 model as the company threads a needle between sharing and profiting from its technology’s popularity.
-* Moonshot表示，一些用户必须获得许可才能使用其Kimi K3型号，因为该公司在分享和从其技术的普及中获利之间穿针引线。
-* Narendra Modi caved to the demands of India’s young people — a nod to their real power.
-* 纳伦德拉·莫迪（ Narendra Modi ）屈服于印度年轻人的要求—向他们的真正权力致敬。
+* The Nasdaq Composite index slid more than 1 percent before recovering, a bumpy ride that has escalated in recent days.
+* 纳斯达克综合指数在复苏前下跌超过1% ，最近几天出现了颠簸。
 
