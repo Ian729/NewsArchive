@@ -2,52 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Ukraine’s supply of Patriot missile interceptors is dwindling, and on Friday, President Trump backed away from his promise to let Ukraine make them itself.
-* 乌克兰的爱国者导弹拦截器供应正在减少，周五，特朗普总统放弃了让乌克兰自己制造导弹的承诺。
-* Most of those who surged into the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.
-* 大多数涌入该地区（非洲的西班牙飞地）的人已经越过边境返回摩洛哥。当局说，至少有67人在试图进入时死亡。
-* With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.
-* 由于特朗普总统的目标没有实现，霍尔木兹海峡关闭，美国盟友看到了战争带来的功能失调和脆弱性。
-* The wave of strikes came as President Trump threatened to intensify the U.S. campaign against Iran, with both sides showing little sign of backing down.
-* 罢工浪潮发生之际，特朗普总统威胁要加强美国对伊朗的运动，双方都没有表现出退缩的迹象。
-* Facing a long prison sentence or a forced trip to the front line of a war he opposes, Artyom Vovchenko believed it was worth taking a risk.
-* 面对长期监禁或被迫前往他反对的战争前线， Artyom Vovchenko认为值得冒险。
-* On Thursday, tens of thousands of Moroccans broke into Ceuta, a Spanish territory that neighbors Morocco. By Friday evening, most of them had left, hungry and disappointed.
-* 周四，成千上万的摩洛哥人闯入了与摩洛哥相邻的西班牙领土休达。到星期五晚上，他们中的大多数人已经离开了，饥肠辘辘，失望了。
-* Kumamoto faces a “double disaster,” as rescuers work in 100 degree heat, and shelters with limited air-conditioning put displaced people at risk for heatstroke.
-* 熊本面临“双重灾难” ，因为救援人员在100度高温下工作，空调有限的避难所使流离失所者面临中暑的风险。
-* Rising temperatures and more frequent heat waves have changed the feel of the season for today’s children, compared with their parents and grandparents.
-* 与父母和祖父母相比，气温上升和更频繁的热浪改变了当今儿童的季节感。
-* The foreign minister, Winston Peters, who leads a populist party, has refused to back down after telling the member of Parliament to “go back to your own country.”
-* 领导民粹主义政党的外交部长温斯顿·彼得斯（ Winston Peters ）在告诉议员“回到自己的国家”后拒绝让步。
-* Three climbers, including an American, from a group of 10 died after the avalanche struck on Thursday, officials said. The fate of renowned mountaineer Nirmal Purja was still unclear.
-* 官员说，周四雪崩发生后，包括美国人在内的三名登山者在10人中丧生。著名登山家尼尔马尔·普尔贾（ Nirmal Purja ）的命运仍不明朗。
+* President Trump said he agreed to requests from Iran and other Middle Eastern countries to cancel planned attacks, citing what he said was progress in reaching the “perimeters of a deal” with Tehran.
+* 特朗普总统表示，他同意伊朗和其他中东国家提出的取消计划袭击的要求，并称在与德黑兰达成“协议边界”方面取得了进展。
+* More than a month after the earthquakes, the coastal region of La Guaira — once Venezuela’s main gateway — is completely unrecognizable.
+* 地震发生一个多月后，曾经是委内瑞拉主要门户的拉瓜伊拉沿海地区完全无法辨认。
+* Jérôme Dupras is a member of one of Quebec’s most popular folk rock bands. Now, as the province’s chief scientist, he will help shape its environmental destiny.
+* Jérôme Dupras是魁北克最受欢迎的民间摇滚乐队之一的成员。现在，作为该省的首席科学家，他将帮助塑造其环境命运。
+* Anti-immigration campaigners were set to hold a rally in the Spanish territory to call for tougher action, after thousands of migrants entered the exclave last week.
+* 上周成千上万的移民进入这个飞地后，反移民活动人士将在西班牙领土上举行集会，呼吁采取更强硬的行动。
+* Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes.
+* 2015年，欧洲收容了许多难民。它对休达新危机的强硬反应表明， 11年后，极右翼如何重塑了欧洲的态度。
+* An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data.
+* 不安全的警察仪表板是一个罕见的窗口，可以了解当局如何通过收集和汇总大量私人数据来跟踪外国人。
+* Labor talks broke down between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work.
+* 代表4400名乘务员的航空公司和工会之间的劳工谈判破裂，他们希望提高工资和无偿工作的补偿。
+* When Mary’s Underground in Sydney closed, it was a familiar tune for a scene hit by high costs and low attendance. Critics worry about a shrinking space for new talent.
+* 当悉尼的Mary's Underground关闭时，这是一首熟悉的曲子，用于高成本和低出勤率的场景。批评人士担心新人才的空间会缩小。
+* During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.
+* 在短暂的休战期间，伊朗人秘密制定了一项计划，如果美军再次发动攻击，将提高特朗普总统的战争成本。
+* Most of the people who surged into Spain on Thursday have since returned to Morocco. A small minority are holed up on a seafront, tired, hungry and vowing to stay.
+* 周四涌入西班牙的大多数人已经返回摩洛哥。一小部分人躲在海滨，疲惫不堪，饥肠辘辘，发誓要留下来。
 
 ## New York Times United States News
-* The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.
-* 总统误导性地将拜登政府向乌克兰的武器转让归咎于目前对弹药库存的担忧，以及对伊朗战争的其他指控。
-* Ukraine and its supporters have invested years in trying to undo the skepticism of the country’s war effort harbored by President Trump’s MAGA movement and the president himself.
-* 乌克兰及其支持者多年来一直致力于消除特朗普总统的MAGA运动和总统本人对该国战争努力的怀疑。
-* Senator Susan Collins, who supports abortion rights, endorsed Brett Kavanaugh’s nomination for the Supreme Court. It has emerged as a major issue in her campaign for re-election.
-* 支持堕胎权的参议员苏珊·柯林斯（ Susan Collins ）支持布雷特·卡瓦诺（ Brett Kavanaugh ）提名最高法院。这已成为她竞选连任的一个主要问题。
-* The state gave rise to fast-food culture decades ago, but some cities are spurning drive-throughs because of the environmental and aesthetic impacts.
-* 几十年前，该州催生了快餐文化，但由于环境和美学影响，一些城市正在开车穿越。
-* The charges stem from recordings that Daniel Flores made over the course of 2024, when he was working in a Los Angeles police unit that recruited new officers.
-* 这些指控源于丹尼尔·弗洛雷斯（ Daniel Flores ）在2024年期间在招募新警察的洛杉矶警察部队工作时录制的录音。
-* A federal regulator fined the former lawmaker $35,000 over allegations of insider trading by placing bets on Kalshi about whether he would attend the State of the Union address in February.
-* 联邦监管机构以内幕交易指控对这位前议员处以35,000 $的罚款，押注Kalshi是否会参加2月份的国情咨文演讲。
-* The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.
-* 乌克兰总统警告说，该国正在耗尽爱国者拦截器，这是击落俄罗斯弹道导弹最可靠的武器。
-* The man had been traveling the Continental Divide Trail, which goes through five states and is described by a hiking group as one of the “most challenging landscapes in North America.”
-* 这名男子一直在穿越五个州的大陆分水岭，被一个徒步旅行团体描述为“北美最具挑战性的景观之一”。
-* President Trump’s announcement came at a difficult point in his relationship with the Israeli leader over their war against Iran.
-* 特朗普总统的声明是在他与以色列领导人就对伊朗的战争建立关系的一个困难时刻宣布的。
-* A former Olympian will not face trial after federal prosecutors acknowledged that the Trump administration’s claims of vandalism were false.
-* 在联邦检察官承认特朗普政府对破坏行为的指控是虚假之后，一名前奥运选手将不会面临审判。
+* At a national summit of the Democratic Socialists of America, nervous energy and a sprawling tableau of sometimes-competing interests were on display.
+* 在美国民主社会主义者全国峰会上，紧张的能量和有时相互竞争的利益的庞大场景被展示出来。
+* Divisions over Israel and high-profile endorsements have shaped the closely-watched race between a progressive former public health official and a more moderate member of Congress.
+* 对以色列的分歧和备受瞩目的支持塑造了一位进步的前公共卫生官员和一位更温和的国会议员之间备受关注的竞争。
+* The law firm Paul Weiss led the legal resistance against President Trump. Then it led a sudden retreat across the legal industry. A Times investigation examined how it caved to White House pressure.
+* Paul Weiss律师事务所领导了对特朗普总统的法律抵制。然后，它引发了整个法律行业的突然撤退。《纽约时报》的一项调查调查了它如何屈服于白宫的压力。
+* Concerns about polluted water and excessive runoff — and the pervasive smell of cannabis — in a small Florida town have made the company, Trulieve, the target of local criticism and state investigations.
+* 佛罗里达州一个小镇对水污染和径流过量以及大麻的普遍气味的担忧使该公司Trulieve成为当地批评和州调查的目标。
+* Paul Weiss was a progressive stalwart for decades and led the legal resistance against President Trump in his first term. Then it surrendered without a fight. This is the inside story of its transformation.
+* 几十年来，保罗·韦斯（ Paul Weiss ）一直是进步的坚定支持者，并在第一个任期内领导了对特朗普总统的法律抵制。然后不战而降。这是它转变的内幕。
+* The tidal bore that rockets up the Turnagain Arm south of Anchorage can carry a surfer for an hour; it can also kill. Now that the secret is out, how long will authorities allow surfers to catch the wave?
+* 火箭在安克雷奇以南的Turnagain Arm上发射的潮汐孔可以载一个冲浪者一个小时;它也可以杀死。现在秘密已经揭晓，当局会允许冲浪者追赶浪潮多久？
+* A recent shooting that killed three people at a food festival in Seattle did not deter crowds from the city’s Seafair Weekend Festival.
+* 最近在西雅图的一个美食节上发生的枪击事件造成三人死亡，并没有阻止人群参加该市的海上周末节。
+* The Old Trails fire near Spokane had grown to about 3,500 acres by Saturday evening, propelled by strong wind gusts and high temperatures.
+* 斯波坎附近的Old Trails火灾在强风阵风和高温的推动下，到周六晚上已扩大到约3,500英亩。
+* A spokesman for Twin Falls cautioned that the number of victims was “expected to be higher.” The police said the shooter was dead.
+* Twin Falls的一位发言人警告说，受害者人数“预计会更高。“警方说枪手已经死了。
+* Senator Mitch McConnell’s ongoing hospitalization meant he missed his final chance to attend the signature western Kentucky event while in office.
+* 参议员米奇·麦康奈尔（ Mitch McConnell ）正在住院治疗，这意味着他在任职期间错过了参加肯塔基州西部标志性活动的最后机会。
 
 ## New York Times Asia News
-* Three climbers, including an American, from a group of 10 died after the avalanche struck on Thursday, officials said. The fate of renowned mountaineer Nirmal Purja was still unclear.
-* 官员说，周四雪崩发生后，包括美国人在内的三名登山者在10人中丧生。著名登山家尼尔马尔·普尔贾（ Nirmal Purja ）的命运仍不明朗。
+* The amount is still far below what the U.S. spent previously on humanitarian and health aid, but resumes the flow of money for key efforts to fight malnutrition and disease.
+* 这一数额仍远低于美国先前在人道主义和卫生援助方面的支出，但恢复了用于抗击营养不良和疾病的关键努力的资金流。
+* An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data.
+* 不安全的警察仪表板是一个罕见的窗口，可以了解当局如何通过收集和汇总大量私人数据来跟踪外国人。
+* The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.
+* 这位英国-尼泊尔登山者是周四在世界最高山峰之一的布罗德峰被雪崩袭击的10名登山者之一。
+* The famed mountaineer Nirmal Purja was among those killed on Broad Peak. Five of the climbers’ bodies have been located but not yet recovered, an official said.
+* 著名登山家尼尔马尔·普尔贾（ Nirmal Purja ）就是在布罗德峰（ Broad Peak ）被杀一名官员说，五名登山者的尸体已经找到，但尚未找到。
 * The foreign minister, Winston Peters, who leads a populist party, has refused to back down after telling the member of Parliament to “go back to your own country.”
 * 领导民粹主义政党的外交部长温斯顿·彼得斯（ Winston Peters ）在告诉议员“回到自己的国家”后拒绝让步。
 * Kumamoto faces a “double disaster,” as rescuers work in 100 degree heat, and shelters with limited air-conditioning put displaced people at risk for heatstroke.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 本周，一群持不同政见者因和平抗议被广泛嘲笑为虚假的选举而被判处37年徒刑。
 * The bodies of the first Omani woman to reach the summit of Mount Everest and of an American climber were recovered. An influential British-Nepali mountaineer was missing.
 * 第一位到达珠穆朗玛峰顶的阿曼女性和一位美国登山者的尸体被发现。一位有影响力的英国-尼泊尔登山者失踪了。
-* South Korea’s KOSPI index has swung wildly because of both the enthusiasm and anxiety related to investing in the global artificial intelligence boom.
-* 由于投资全球人工智能热潮的热情和焦虑，韩国的KOSPI指数大幅波动。
-* Flaming chunks of metal crash into homes, farms and parking lots. Who’s to blame? And who pays for the damage?
-* 火焰般的金属块撞击住宅、农场和停车场。谁是罪魁祸首？谁来赔偿损失？
-* The ruling Politburo called for “more proactive” tax and spending policies but did not endorse broad action to address weak consumer spending.
-* 执政的政治局呼吁采取“更积极主动”的税收和支出政策，但没有支持采取广泛的行动来解决疲软的消费者支出问题。
 
