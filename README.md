@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Trump said he agreed to requests from Iran and other Middle Eastern countries to cancel planned attacks, citing what he said was progress in reaching the “perimeters of a deal” with Tehran.
-* 特朗普总统表示，他同意伊朗和其他中东国家提出的取消计划袭击的要求，并称在与德黑兰达成“协议边界”方面取得了进展。
+* After thousands poured into the Spanish territory in North Africa, the pro-immigration policies of Prime Minister Pedro Sánchez were blamed. The reality is more complex.
+* 在数千人涌入北非的西班牙领土后，首相佩德罗·桑切斯的亲移民政策受到指责。现实更复杂。
+* Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.
+* 摩洛哥移民描述了他们对经济前景的绝望，并解释了是什么驱使他们越过与西班牙的边界。
+* By expanding the arena of fighting in the region, experts say, Tehran sent a warning about the dangers of a widening war.
+* 专家说，通过扩大该地区的战斗范围，德黑兰就战争扩大的危险发出了警告。
+* President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.
+* 特朗普总统在周末取消了对伊朗的威胁性袭击时，提到了谈判的进展。伊朗表示，目前没有与美国进行谈判。
+* Juan Orlando Hernández, a former president of Honduras, faces fraud and money laundering charges in his home country after a surprise Trump pardon overturned his drug-trafficking sentence in the U.S.
+* 洪都拉斯前总统胡安·奥兰多·埃尔南德斯（ Juan Orlando Hernández ）在他的祖国面临欺诈和洗钱指控，此前特朗普出人意料地推翻了他在美国的贩毒判决
+* To help prevent heat-related deaths, the French government has asked postal workers to check in on older people.
+* 为了帮助防止与高温相关的死亡，法国政府已要求邮政工作人员检查老年人。
+* The British group was punished under a policy of racial harmony that has long been criticized as stifling free speech in the city-state.
+* 英国团体受到种族和谐政策的惩罚，该政策长期以来一直被批评为扼杀该城邦的言论自由。
+* The aircraft crashed while battling a wildfire northwest of Athens, as Greece fought more than 200 fires in the past week.
+* 这架飞机在与雅典西北部的一场野火作战时坠毁，因为希腊在过去一周内扑灭了200多场大火。
+* President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Mr. Trump not to renew attacks.
+* 特朗普总统一再威胁要升级与伊朗的战争，但却突然退缩。沙特阿拉伯表示，其领导人已敦促特朗普不要再发动袭击。
 * More than a month after the earthquakes, the coastal region of La Guaira — once Venezuela’s main gateway — is completely unrecognizable.
 * 地震发生一个多月后，曾经是委内瑞拉主要门户的拉瓜伊拉沿海地区完全无法辨认。
-* Jérôme Dupras is a member of one of Quebec’s most popular folk rock bands. Now, as the province’s chief scientist, he will help shape its environmental destiny.
-* Jérôme Dupras是魁北克最受欢迎的民间摇滚乐队之一的成员。现在，作为该省的首席科学家，他将帮助塑造其环境命运。
-* Anti-immigration campaigners were set to hold a rally in the Spanish territory to call for tougher action, after thousands of migrants entered the exclave last week.
-* 上周成千上万的移民进入这个飞地后，反移民活动人士将在西班牙领土上举行集会，呼吁采取更强硬的行动。
-* Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes.
-* 2015年，欧洲收容了许多难民。它对休达新危机的强硬反应表明， 11年后，极右翼如何重塑了欧洲的态度。
-* An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data.
-* 不安全的警察仪表板是一个罕见的窗口，可以了解当局如何通过收集和汇总大量私人数据来跟踪外国人。
-* Labor talks broke down between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work.
-* 代表4400名乘务员的航空公司和工会之间的劳工谈判破裂，他们希望提高工资和无偿工作的补偿。
-* When Mary’s Underground in Sydney closed, it was a familiar tune for a scene hit by high costs and low attendance. Critics worry about a shrinking space for new talent.
-* 当悉尼的Mary's Underground关闭时，这是一首熟悉的曲子，用于高成本和低出勤率的场景。批评人士担心新人才的空间会缩小。
-* During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.
-* 在短暂的休战期间，伊朗人秘密制定了一项计划，如果美军再次发动攻击，将提高特朗普总统的战争成本。
-* Most of the people who surged into Spain on Thursday have since returned to Morocco. A small minority are holed up on a seafront, tired, hungry and vowing to stay.
-* 周四涌入西班牙的大多数人已经返回摩洛哥。一小部分人躲在海滨，疲惫不堪，饥肠辘辘，发誓要留下来。
 
 ## New York Times United States News
-* At a national summit of the Democratic Socialists of America, nervous energy and a sprawling tableau of sometimes-competing interests were on display.
-* 在美国民主社会主义者全国峰会上，紧张的能量和有时相互竞争的利益的庞大场景被展示出来。
-* Divisions over Israel and high-profile endorsements have shaped the closely-watched race between a progressive former public health official and a more moderate member of Congress.
-* 对以色列的分歧和备受瞩目的支持塑造了一位进步的前公共卫生官员和一位更温和的国会议员之间备受关注的竞争。
-* The law firm Paul Weiss led the legal resistance against President Trump. Then it led a sudden retreat across the legal industry. A Times investigation examined how it caved to White House pressure.
-* Paul Weiss律师事务所领导了对特朗普总统的法律抵制。然后，它引发了整个法律行业的突然撤退。《纽约时报》的一项调查调查了它如何屈服于白宫的压力。
-* Concerns about polluted water and excessive runoff — and the pervasive smell of cannabis — in a small Florida town have made the company, Trulieve, the target of local criticism and state investigations.
-* 佛罗里达州一个小镇对水污染和径流过量以及大麻的普遍气味的担忧使该公司Trulieve成为当地批评和州调查的目标。
-* Paul Weiss was a progressive stalwart for decades and led the legal resistance against President Trump in his first term. Then it surrendered without a fight. This is the inside story of its transformation.
-* 几十年来，保罗·韦斯（ Paul Weiss ）一直是进步的坚定支持者，并在第一个任期内领导了对特朗普总统的法律抵制。然后不战而降。这是它转变的内幕。
-* The tidal bore that rockets up the Turnagain Arm south of Anchorage can carry a surfer for an hour; it can also kill. Now that the secret is out, how long will authorities allow surfers to catch the wave?
-* 火箭在安克雷奇以南的Turnagain Arm上发射的潮汐孔可以载一个冲浪者一个小时;它也可以杀死。现在秘密已经揭晓，当局会允许冲浪者追赶浪潮多久？
-* A recent shooting that killed three people at a food festival in Seattle did not deter crowds from the city’s Seafair Weekend Festival.
-* 最近在西雅图的一个美食节上发生的枪击事件造成三人死亡，并没有阻止人群参加该市的海上周末节。
-* The Old Trails fire near Spokane had grown to about 3,500 acres by Saturday evening, propelled by strong wind gusts and high temperatures.
-* 斯波坎附近的Old Trails火灾在强风阵风和高温的推动下，到周六晚上已扩大到约3,500英亩。
-* A spokesman for Twin Falls cautioned that the number of victims was “expected to be higher.” The police said the shooter was dead.
-* Twin Falls的一位发言人警告说，受害者人数“预计会更高。“警方说枪手已经死了。
-* Senator Mitch McConnell’s ongoing hospitalization meant he missed his final chance to attend the signature western Kentucky event while in office.
-* 参议员米奇·麦康奈尔（ Mitch McConnell ）正在住院治疗，这意味着他在任职期间错过了参加肯塔基州西部标志性活动的最后机会。
+* In the past week alone, President Trump’s interference has imperiled one criminal case, set the stage for sanctions in a second and hindered the confirmation chances of his pick for attorney general.
+* 仅在过去一周，特朗普总统的干涉就危及了一起刑事案件，为第二轮制裁奠定了基础，并阻碍了他挑选司法部长的确认机会。
+* She was the first Republican woman from the state to be elected to Congress. It caused a stir in 2024 when she was discovered to be residing in a senior living facility while still in office.
+* 她是该州第一位当选国会议员的共和党女性。它在2024年引起了轰动，当时她被发现在办公室期间居住在高级生活设施中。
+* A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.
+* 作者和民主党全国委员会之间关于该章的争议加剧了该党的动荡，因为它试图向前看，而不是向后看。
+* Progressives hope momentum by Dr. Abdul El-Sayed will give them a signature victory. Centrists warn that picking him will backfire in November. Acrimony is everywhere.
+* 进步人士希望Abdul El-Sayed博士的势头将给他们带来标志性的胜利。中心主义者警告说，选择他将在11月适得其反。激烈的争吵无处不在。
+* The Pentagon is relying on closed-door hearings to kick out transgender service members. An Army Reserve lawyer is one of the few who have seen how they really work.
+* 五角大楼依靠闭门听证会来驱逐跨性别服务人员。陆军预备役律师是为数不多的见过他们如何真正工作的人之一。
+* In a conservative state with a history of electing Democratic governors, the debate over which brand of Democrat can win sounds different.
+* 在一个有选举民主党州长的历史的保守国家，关于哪个品牌的民主党人可以获胜的争论听起来不同。
+* Todd Blanche’s confirmation as attorney general has been held up over concerns about a planned $1.8 billion fund for Trump allies and the president’s immunity from tax scrutiny.
+* 托德·布兰奇（ Todd Blanche ）被确认为司法部长，但由于担心计划为特朗普盟友提供18 $十八亿的资金以及总统免受税收审查的豁免权而被搁置。
+* An off-duty state trooper and private citizen returned fire and are credited with slowing the 24-year-old shooter.
+* 一名下班的州警和普通公民还击，并被认为减缓了这名24岁射手的速度。
+* Analysts and lawmakers are trying to divine whether Mr. Trump’s latest announcement means negotiations with Iran will truly get underway Monday or if the president is just working through unappealing options.
+* 分析师和立法者正试图猜测，特朗普的最新声明是否意味着与伊朗的谈判将在周一真正开始，或者总统是否只是在通过没有吸引力的选择。
+* Firefighters were hopeful that improving weather conditions in Washington state could help efforts to contain the blaze, which officials described as the largest natural disaster in the history of Spokane.
+* 消防员希望改善华盛顿州的天气状况有助于遏制大火，官员称这是斯波坎历史上最大的自然灾害。
 
 ## New York Times Asia News
+* The ousted civilian leader, now 81, met with a representative of the Red Cross. Her long absence from public view had raised concerns about her health.
+* 这位被驱逐的平民领袖现年81岁，他会见了红十字会的一名代表。她长期缺席公众视线，引起了人们对她健康的担忧。
+* The British group was punished under a policy of racial harmony that has long been criticized as stifling free speech in the city-state.
+* 英国团体受到种族和谐政策的惩罚，该政策长期以来一直被批评为扼杀该城邦的言论自由。
+* The authorities said the suicide bombing, which killed at least 14 people in the Swat Valley. The Pakistani Taliban claimed responsibility.
+* 当局说，这起自杀式爆炸事件在斯瓦特山谷造成至少14人死亡。巴基斯坦塔利班声称对此负责。
 * The amount is still far below what the U.S. spent previously on humanitarian and health aid, but resumes the flow of money for key efforts to fight malnutrition and disease.
 * 这一数额仍远低于美国先前在人道主义和卫生援助方面的支出，但恢复了用于抗击营养不良和疾病的关键努力的资金流。
 * An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 熊本面临“双重灾难” ，因为救援人员在100度高温下工作，空调有限的避难所使流离失所者面临中暑的风险。
 * The country’s iconic carmakers are struggling with tariffs, the growth of electric vehicles and intense competition from Chinese companies.
 * 中国的标志性汽车制造商正在努力应对关税、电动汽车的增长和来自中国公司的激烈竞争。
-* Rescuers were searching for missing bodies from the accident in one of the country’s mining hubs, where methane gas explosions and mine collapses are frequent.
-* 救援人员正在该国的一个采矿中心寻找事故中失踪的尸体，那里经常发生甲烷气体爆炸和矿山倒塌。
-* A group of dissidents this week were each sentenced to 37 years in prison for a peaceful protest against an election widely derided as a sham.
-* 本周，一群持不同政见者因和平抗议被广泛嘲笑为虚假的选举而被判处37年徒刑。
-* The bodies of the first Omani woman to reach the summit of Mount Everest and of an American climber were recovered. An influential British-Nepali mountaineer was missing.
-* 第一位到达珠穆朗玛峰顶的阿曼女性和一位美国登山者的尸体被发现。一位有影响力的英国-尼泊尔登山者失踪了。
 
