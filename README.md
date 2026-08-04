@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* After thousands poured into the Spanish territory in North Africa, the pro-immigration policies of Prime Minister Pedro Sánchez were blamed. The reality is more complex.
-* 在数千人涌入北非的西班牙领土后，首相佩德罗·桑切斯的亲移民政策受到指责。现实更复杂。
+* Drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on Russian oil refineries.
+* 无人机袭击袭击了数百个加油站，显然是为了报复乌克兰对俄罗斯炼油厂的袭击。
+* Andy Burnham’s whirlwind of TikToks, podcasts and promises appears to be resonating with some voters. But he faces big decisions about how to pay for it all.
+* Andy Burnham对TikTok、播客和承诺的旋风似乎引起了一些选民的共鸣。但他面临着如何支付所有费用的重大决定。
+* A wave of protests is posing the most significant challenge in years to Islamabad’s authority in the region.
+* 一波抗议浪潮正在对伊斯兰堡在该地区的权威构成多年来最重大的挑战。
+* The biometric system for non-E.U. citizens is causing long delays and short tempers at airports. Officials say the rocky rollout will get better and will improve security.
+* 非欧盟公民的生物识别系统在机场造成了长时间的延误和短暂的脾气。官员们表示，这一艰难的推出将变得更好，并将提高安全性。
+* As the country holds its final greyhound race, the government has committed to finding homes for dogs and supporting people whose livelihoods depended on racing.
+* 随着该国举行最后一次赛狗比赛，政府已承诺为狗狗寻找家园，并支持以赛车为生的人们。
 * Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.
 * 摩洛哥移民描述了他们对经济前景的绝望，并解释了是什么驱使他们越过与西班牙的边界。
-* By expanding the arena of fighting in the region, experts say, Tehran sent a warning about the dangers of a widening war.
-* 专家说，通过扩大该地区的战斗范围，德黑兰就战争扩大的危险发出了警告。
 * President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.
 * 特朗普总统在周末取消了对伊朗的威胁性袭击时，提到了谈判的进展。伊朗表示，目前没有与美国进行谈判。
-* Juan Orlando Hernández, a former president of Honduras, faces fraud and money laundering charges in his home country after a surprise Trump pardon overturned his drug-trafficking sentence in the U.S.
-* 洪都拉斯前总统胡安·奥兰多·埃尔南德斯（ Juan Orlando Hernández ）在他的祖国面临欺诈和洗钱指控，此前特朗普出人意料地推翻了他在美国的贩毒判决
+* Juan Orlando Hernández, the former leader, faces fraud and money laundering charges after a Trump pardon overturned a drug-trafficking sentence.
+* 前领导人胡安·奥兰多·埃尔南德斯（ Juan Orlando Hernández ）在特朗普赦免推翻贩毒判决后面临欺诈和洗钱指控。
 * To help prevent heat-related deaths, the French government has asked postal workers to check in on older people.
 * 为了帮助防止与高温相关的死亡，法国政府已要求邮政工作人员检查老年人。
-* The British group was punished under a policy of racial harmony that has long been criticized as stifling free speech in the city-state.
-* 英国团体受到种族和谐政策的惩罚，该政策长期以来一直被批评为扼杀该城邦的言论自由。
-* The aircraft crashed while battling a wildfire northwest of Athens, as Greece fought more than 200 fires in the past week.
-* 这架飞机在与雅典西北部的一场野火作战时坠毁，因为希腊在过去一周内扑灭了200多场大火。
-* President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Mr. Trump not to renew attacks.
-* 特朗普总统一再威胁要升级与伊朗的战争，但却突然退缩。沙特阿拉伯表示，其领导人已敦促特朗普不要再发动袭击。
-* More than a month after the earthquakes, the coastal region of La Guaira — once Venezuela’s main gateway — is completely unrecognizable.
-* 地震发生一个多月后，曾经是委内瑞拉主要门户的拉瓜伊拉沿海地区完全无法辨认。
+* After thousands poured into the Spanish territory in North Africa, the pro-immigration policies of Prime Minister Pedro Sánchez were blamed. The reality is more complex.
+* 在数千人涌入北非的西班牙领土后，首相佩德罗·桑切斯的亲移民政策受到指责。现实更复杂。
 
 ## New York Times United States News
-* In the past week alone, President Trump’s interference has imperiled one criminal case, set the stage for sanctions in a second and hindered the confirmation chances of his pick for attorney general.
-* 仅在过去一周，特朗普总统的干涉就危及了一起刑事案件，为第二轮制裁奠定了基础，并阻碍了他挑选司法部长的确认机会。
-* She was the first Republican woman from the state to be elected to Congress. It caused a stir in 2024 when she was discovered to be residing in a senior living facility while still in office.
-* 她是该州第一位当选国会议员的共和党女性。它在2024年引起了轰动，当时她被发现在办公室期间居住在高级生活设施中。
-* A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.
-* 作者和民主党全国委员会之间关于该章的争议加剧了该党的动荡，因为它试图向前看，而不是向后看。
-* Progressives hope momentum by Dr. Abdul El-Sayed will give them a signature victory. Centrists warn that picking him will backfire in November. Acrimony is everywhere.
-* 进步人士希望Abdul El-Sayed博士的势头将给他们带来标志性的胜利。中心主义者警告说，选择他将在11月适得其反。激烈的争吵无处不在。
-* The Pentagon is relying on closed-door hearings to kick out transgender service members. An Army Reserve lawyer is one of the few who have seen how they really work.
-* 五角大楼依靠闭门听证会来驱逐跨性别服务人员。陆军预备役律师是为数不多的见过他们如何真正工作的人之一。
-* In a conservative state with a history of electing Democratic governors, the debate over which brand of Democrat can win sounds different.
-* 在一个有选举民主党州长的历史的保守国家，关于哪个品牌的民主党人可以获胜的争论听起来不同。
-* Todd Blanche’s confirmation as attorney general has been held up over concerns about a planned $1.8 billion fund for Trump allies and the president’s immunity from tax scrutiny.
-* 托德·布兰奇（ Todd Blanche ）被确认为司法部长，但由于担心计划为特朗普盟友提供18 $十八亿的资金以及总统免受税收审查的豁免权而被搁置。
-* An off-duty state trooper and private citizen returned fire and are credited with slowing the 24-year-old shooter.
-* 一名下班的州警和普通公民还击，并被认为减缓了这名24岁射手的速度。
-* Analysts and lawmakers are trying to divine whether Mr. Trump’s latest announcement means negotiations with Iran will truly get underway Monday or if the president is just working through unappealing options.
-* 分析师和立法者正试图猜测，特朗普的最新声明是否意味着与伊朗的谈判将在周一真正开始，或者总统是否只是在通过没有吸引力的选择。
-* Firefighters were hopeful that improving weather conditions in Washington state could help efforts to contain the blaze, which officials described as the largest natural disaster in the history of Spokane.
-* 消防员希望改善华盛顿州的天气状况有助于遏制大火，官员称这是斯波坎历史上最大的自然灾害。
+* Redistricting turmoil started, then ended, the campaigns of several Democratic hopefuls and pushed others into more competitive races than they anticipated.
+* 重新划分选区的动荡开始了，然后结束了几位民主党候选人的竞选活动，并将其他人推向了比他们预期的更具竞争力的竞选活动。
+* 
+* 
+* 
+* 
+* As President Trump heads to the West Coast to talk to Americans about the economy, the war in Iran is driving up costs and polls show the already unpopular conflict is losing support.
+* 随着特朗普总统前往西海岸与美国人谈论经济，伊朗的战争正在推高成本，民意调查显示，本已不受欢迎的冲突正在失去支持。
+* A new study of a bot running a first-of-its-kind San Francisco store finds it is really friendly, but not very smart.
+* 一项针对旧金山首家商店的机器人的新研究发现，它非常友好，但不是很聪明。
+* Aaron Farinacci, 37, was arrested after a witness reported seeing him kneeling near the ignition site of a major fire in Washington State, officials said.
+* 官员说， 37岁的亚伦·法里纳奇（ Aaron Farinacci ）在一名目击者报告说看到他跪在华盛顿州一场大火的点火地点附近后被捕。
+* The legacy of Lindsey Graham loomed over the field to replace him in a debate Monday. All eyes were on his sister, Darline, who was endorsed by President Trump.
+* 林赛·格雷厄姆（ Lindsey Graham ）的遗产在周一的辩论中取代了他。所有的目光都集中在他的妹妹达琳身上，她得到了特朗普总统的支持。
+* Health Secretary Robert F. Kennedy Jr., his son, and Senator Rand Paul have all written books criticizing Dr. Anthony S. Fauci. All were published by a company led by a close Kennedy adviser.
+* 卫生部长小罗伯特· F ·肯尼迪（ Robert F. Kennedy Jr. ）、他的儿子和参议员兰德·保罗（ Rand Paul ）都写过批评安东尼· S ·福奇（ Anthony S所有这些都是由一位亲密的肯尼迪顾问领导的公司发布的。
+* The deal would address President Trump’s most urgent political problem by allowing ships to move again. But it would give Iran strategic leverage it did not have before the war.
+* 该协议将通过允许船只再次移动来解决特朗普总统最紧迫的政治问题。但它将为伊朗提供战争前所未有的战略杠杆。
+* Despite the scale of the damage, there have been no reported fatalities in the fires that started over the weekend. Late on Monday, officials arrested a man suspected of setting one of the fires.
+* 尽管损失规模庞大，但周末开始的大火没有造成人员伤亡的报道。周一晚些时候，官员逮捕了一名涉嫌纵火的男子。
 
 ## New York Times Asia News
+* Plus, where are you supposed to practice the bagpipes?
+* 此外，您应该在哪里练习风笛？
+* As the country holds its final greyhound race, the government has committed to finding homes for dogs and supporting people whose livelihoods depended on racing.
+* 随着该国举行最后一次赛狗比赛，政府已承诺为狗狗寻找家园，并支持以赛车为生的人们。
+* Inspire Entertainment Resort — an alternative to Macau, the world’s gambling capital — was supposed to be a “transformational” project for the Native American tribe.
+* Inspire娱乐度假村—世界赌博之都澳门的替代品—应该是美洲原住民部落的“转型”项目。
+* A wave of protests is posing the most significant challenge in years to Islamabad’s authority in the region.
+* 一波抗议浪潮正在对伊斯兰堡在该地区的权威构成多年来最重大的挑战。
+* The U.S. Treasury joined efforts in Tokyo to stem the yen’s slide against the dollar, highlighting the broader risks posed by turmoil in Japanese markets.
+* 美国财政部在东京联手遏制日元兑美元汇率下跌，凸显了日本市场动荡带来的更广泛风险。
 * The ousted civilian leader, now 81, met with a representative of the Red Cross. Her long absence from public view had raised concerns about her health.
 * 这位被驱逐的平民领袖现年81岁，他会见了红十字会的一名代表。她长期缺席公众视线，引起了人们对她健康的担忧。
 * The British group was punished under a policy of racial harmony that has long been criticized as stifling free speech in the city-state.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 这一数额仍远低于美国先前在人道主义和卫生援助方面的支出，但恢复了用于抗击营养不良和疾病的关键努力的资金流。
 * An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data.
 * 不安全的警察仪表板是一个罕见的窗口，可以了解当局如何通过收集和汇总大量私人数据来跟踪外国人。
-* The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.
-* 这位英国-尼泊尔登山者是周四在世界最高山峰之一的布罗德峰被雪崩袭击的10名登山者之一。
-* The famed mountaineer Nirmal Purja was among those killed on Broad Peak. Five of the climbers’ bodies have been located but not yet recovered, an official said.
-* 著名登山家尼尔马尔·普尔贾（ Nirmal Purja ）就是在布罗德峰（ Broad Peak ）被杀一名官员说，五名登山者的尸体已经找到，但尚未找到。
-* The foreign minister, Winston Peters, who leads a populist party, has refused to back down after telling the member of Parliament to “go back to your own country.”
-* 领导民粹主义政党的外交部长温斯顿·彼得斯（ Winston Peters ）在告诉议员“回到自己的国家”后拒绝让步。
-* Kumamoto faces a “double disaster,” as rescuers work in 100 degree heat, and shelters with limited air-conditioning put displaced people at risk for heatstroke.
-* 熊本面临“双重灾难” ，因为救援人员在100度高温下工作，空调有限的避难所使流离失所者面临中暑的风险。
-* The country’s iconic carmakers are struggling with tariffs, the growth of electric vehicles and intense competition from Chinese companies.
-* 中国的标志性汽车制造商正在努力应对关税、电动汽车的增长和来自中国公司的激烈竞争。
 
