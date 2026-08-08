@@ -2,56 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* An Australian flight crew faced subfreezing temperatures, changing weather conditions and almost constant darkness as they worked to rescue a U.S. national.
-* 一名澳大利亚机组人员在努力营救一名美国国民时，面临着低温、不断变化的天气条件和几乎持续的黑暗。
-* Footage shows doctors in Japan clinging to an operating table to protect a patient from the violent tremor. The surgery was completed successfully.
-* 镜头显示，日本的医生紧紧抓住手术台，以保护患者免受剧烈震颤的伤害。手术成功完成。
-* The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said.
-* 官员和专家表示，伊朗的核计划可能已经放缓，但并未停止。
-* A student killed his grandparents at their home before opening fire at a high school near Bangkok and turning the gun on himself, the authorities said.
-* 当局说，一名学生在家中杀害了他的祖父母，然后在曼谷附近的一所高中开枪并开枪自杀。
+* Hundreds of people attended a seven-day retreat in the Turkish countryside seeking transcendence through sema, the spiritual practice of whirling.
+* 数百人在土耳其乡村参加了为期七天的静修，通过旋转的精神实践SEMA寻求超越。
+* While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.
+* 在中东等待听取是否可以达成协议重新开放霍尔木兹海峡的同时，也门政府与伊朗支持的胡塞叛乱分子的冲突在一夜之间升级。
+* A rampage at a high school in Thailand on Friday was the latest episode of gun violence in a country that has grappled in recent years with several attacks.
+* 周五在泰国一所高中发生的横冲直撞事件是近年来在多次袭击中挣扎的一个国家发生的最新枪支暴力事件。
+* A New York Times analysis details the July 20 crackdown on unarmed protesters in New Delhi that has provoked public outrage and accusations of excessive force.
+* 《纽约时报》的一项分析详细介绍了7月20日在新德里对手无寸铁的抗议者的镇压，这引发了公众的愤怒和对过度使用武力的指控。
+* The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.
+* 60年前，英国驱逐了查戈斯群岛的居民。难民今年急于返回，但他们的希望陷入了地缘政治的泥潭。
+* As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.
+* 随着乌克兰一再袭击电子商务网站Wildberries的仓库，其亿万富翁联合创始人塔蒂亚娜·金（ Tatyana Kim ）面临着她最大的考验。
+* Red high-temperature warnings remained in effect for much of southern and western Italy through Saturday.
+* 截至周六，意大利南部和西部大部分地区的红色高温警告仍然有效。
+* Ukrainian drones have increasingly targeted warehouses belonging to Wildberries, which many Russians rely on as the country’s largest e-commerce business.
+* 乌克兰无人机越来越多地瞄准属于Wildberries的仓库，许多俄罗斯人依靠Wildberries作为该国最大的电子商务企业。
 * In interviews, more than 20 people who tried to break an Israeli blockade described beatings, electric shocks and other abuse after being captured. Israel denied the accusations.
 * 在采访中， 20多名试图突破以色列封锁的人描述了被捕后的殴打、电击和其他虐待行为。以色列否认了这些指控。
-* The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway.
-* 特朗普支持的新总统将于周五就职。在美国的帮助下，针对贩毒者的扫荡计划已经在进行中。
-* Vietnam is grappling with a surge in visitors, testing its Soviet-style criminal justice system as it tries to supercharge its economy through tourism.
-* 越南正在努力应对游客激增的问题，在试图通过旅游业提振经济的同时，测试其苏联式的刑事司法系统。
-* After deadly tremors a decade ago, Kumamoto built earthquake-resistant buildings and even trained locals in search and rescue.
-* 在十年前的致命地震之后，熊本建造了抗震建筑，甚至培训了当地人进行搜索和救援。
-* The Barbican, a once divisive housing complex in central London, is now considered an architectural masterpiece. Residents are fighting plans for a 20-story building next door.
-* 巴比肯是伦敦市中心曾经分裂的住宅区，现在被认为是建筑的杰作。居民们正在为隔壁一栋20层建筑的计划而奋斗。
-* The government turned to the world to respond to twin quakes. But years of shrinking budgets and political repression weakened its ability to rescue countless people trapped in rubble.
-* 政府向世界求助，以应对双重地震。但多年来预算萎缩和政治压制削弱了其拯救无数被困在废墟中的人的能力。
+* A student killed his grandparents before opening fire at his high school and shooting himself, the authorities said. The episode revived a debate about gun laws.
+* 当局说，一名学生在向他的高中开火并开枪自杀之前杀死了他的祖父母。这一事件重新引发了一场关于枪支法的辩论。
 
 ## New York Times United States News
-* In an interview with The New York Times, Dr. El-Sayed recalled some of his conversations with establishment figures who once opposed his candidacy.
-* 在接受《纽约时报》采访时， El-Sayed博士回忆了他与曾经反对他参选的建制派人士的一些谈话。
-* It’s tough breaking a phone addiction. The Brick physically locks you out of distracting apps, making it harder to mindlessly scroll.
-* 戒掉手机瘾很难。Brick实际上将您锁定在分散注意力的应用程序之外，使其更难无意识地滚动。
-* While the motive in the strip mall shooting rampage in Twin Falls, Idaho, remains elusive, a community embraces a bystander who stepped in.
-* 虽然爱达荷州双瀑布大道购物中心枪击事件的动机仍然难以捉摸，但一个社区拥抱了一个介入的旁观者。
-* A search crew found the wreckage of Richard Bong’s missing plane on a Papua New Guinea hillside two years ago. Part of a wing will be on display at a museum honoring him in Wisconsin.
-* 两年前，一名搜救人员在巴布亚新几内亚山坡上发现了理查德·邦格失踪飞机的残骸。翅膀的一部分将在威斯康星州的一个纪念他的博物馆展出。
-* A hospitality manager for the Trump Organization traveled to Las Vegas to find a solution to problems at a national landmark. This is the untold back story of the fallout.
-* 特朗普集团的一名酒店经理前往拉斯维加斯，寻找解决国家地标问题的方法。这是不为人知的后果背后的故事。
-* Tennessee’s primary elections on Thursday came after Republican legislators carved up the state’s only majority-Black district in a bid to win all nine of the state’s House seats.
-* 田纳西州周四的初选是在共和党立法者瓜分了该州唯一的黑人占多数的地区，以赢得该州所有九个众议院席位之后举行的。
-* The disaster has put yet another spotlight on the government’s inability to provide basic services, deepening frustration among residents already plagued by regular power outages.
-* 这场灾难使政府无法提供基本服务再次成为人们关注的焦点，加深了已经受到定期停电困扰的居民的沮丧情绪。
-* The constitutional right against self-incrimination has been invoked on several occasions during high-profile — and contentious — hearings.
-* 在备受瞩目且有争议的听证会上，多次援引了反对自证其罪的宪法权利。
-* Mr. Ogles, a two-term congressman, had held off primary threats before, despite controversy. But on Thursday, Charlie Hatcher, a former state agriculture commissioner, delivered an upset.
-* 奥格尔斯是两届国会议员，尽管存在争议，但他此前曾抵制过主要威胁。但周四，前州农业专员查理·哈彻（ Charlie Hatcher ）表达了不满。
-* Senator Marsha Blackburn easily beat two Republican rivals and is now favored to become the state’s first female governor after the November elections.
-* 参议员玛莎·布莱克本（ Marsha Blackburn ）轻而易举地击败了两名共和党对手，现在更有利于在11月选举后成为该州第一位女州长。
+* Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.
+* 共和党的袭击重点是恐怖主义和非法移民，而民主党人则试图利用特朗普总统削减医疗补助计划的不受欢迎。
+* The lack of visible raids aggressively targeting Haitians who lost temporary status has frustrated some of President Trump’s most fervent supporters.
+* 由于缺乏针对失去临时身份的海地人的明显突袭，特朗普总统的一些最热心的支持者感到沮丧。
+* Senator Darline Graham, who took her brother’s place after his death and is now seeking to succeed him, has mostly declined to answer questions from reporters at the Capitol.
+* 参议员达琳·格雷厄姆（ Darline Graham ）在她哥哥去世后接替了他的位置，现在正在寻求接替他，但她大多拒绝回答国会大厦记者的提问。
+* Brian Poindexter, an ironworker, is in the spotlight in Ohio’s 7th Congressional District, where Mr. Miller faces multiple calls to step aside.
+* 钢铁工人布莱恩·波因德克斯特（ Brian Poindexter ）在俄亥俄州第7国会选区备受瞩目，米勒面临多次要求辞职的电话。
+* The party is racing to get behind Dr. Abdul El-Sayed after a Senate primary that was “spirited,” as Pete Buttigieg diplomatically put it at a unity rally on Friday night, but tensions remain.
+* 正如皮特·布蒂吉格（ Pete Buttigieg ）在周五晚上的一次团结集会上所说的那样，该党正在竞相支持阿卜杜勒·赛义德（ Abdul El-Sayed ）博士，因为参议院初选“充满活力” ，但紧张局势依然存在。
+* South of the Border harks back to a different time in the South, before the region diversified and exploded in growth.
+* 边境南部追溯到南部的不同时期，在该地区多元化和爆发式增长之前。
+* Nearly everyone who arrives on Mackinac Island, a summer refuge in the Great Lakes, comes by ferry. A dispute has threatened that service.
+* 几乎所有抵达五大湖避暑胜地麦基诺岛（ Mackinac Island ）的人都乘坐渡轮。一场争议威胁到了这项服务。
+* The move came more than a month before the spending deadline, reflecting an eagerness in both parties to avoid a messy fight before the midterm elections.
+* 此举比支出截止日期提前了一个多月，反映出双方都渴望避免在中期选举前发生混乱的战斗。
+* Our reporter Julian E. Barnes, who covers U.S. intelligence agencies, describes how the Trump administration has been looking for a current or former Cuban official to take over the island’s government.
+* 我们的记者朱利安· E ·巴恩斯（ Julian E. Barnes ）负责报道美国情报机构，他描述了特朗普政府如何一直在寻找现任或前任古巴官员接管该岛政府。
+* The Republican House member from Ohio was accused of holding a gun to his ex-wife’s head and fracturing the collarbone of their young daughter. He has denied the accusations.
+* 这位来自俄亥俄州的共和党众议员被指控用枪指着前妻的头部，并使他们年幼的女儿的锁骨骨折。他否认了这些指控。
 
 ## New York Times Asia News
+* A rampage at a high school in Thailand on Friday was the latest episode of gun violence in a country that has grappled in recent years with several attacks.
+* 周五在泰国一所高中发生的横冲直撞事件是近年来在多次袭击中挣扎的一个国家发生的最新枪支暴力事件。
+* A New York Times analysis details the July 20 crackdown on unarmed protesters in New Delhi that has provoked public outrage and accusations of excessive force.
+* 《纽约时报》的一项分析详细介绍了7月20日在新德里对手无寸铁的抗议者的镇压，这引发了公众的愤怒和对过度使用武力的指控。
+* Nearly 10,000 Punjabi soldiers who died in World War I have been added to casualty records for the first time.
+* 第一次世界大战中丧生的近10,000名旁遮普士兵首次被添加到伤亡记录中。
 * Footage shows doctors in Japan clinging to an operating table to protect a patient from the violent tremor. The surgery was completed successfully.
 * 镜头显示，日本的医生紧紧抓住手术台，以保护患者免受剧烈震颤的伤害。手术成功完成。
 * China’s factories are finding eager buyers abroad even as weak consumer spending and a prolonged property slump weigh on growth at home.
 * 尽管疲软的消费支出和长期的房地产下滑对国内经济增长构成压力，但中国的工厂正在海外寻找热切的买家。
-* A student killed his grandparents at their home before opening fire at a high school near Bangkok and turning the gun on himself, the authorities said.
-* 当局说，一名学生在家中杀害了他的祖父母，然后在曼谷附近的一所高中开枪并开枪自杀。
+* A student killed his grandparents before opening fire at his high school and shooting himself, the authorities said. The episode revived a debate about gun laws.
+* 当局说，一名学生在向他的高中开火并开枪自杀之前杀死了他的祖父母。这一事件重新引发了一场关于枪支法的辩论。
 * Vietnam is grappling with a surge in visitors, testing its Soviet-style criminal justice system as it tries to supercharge its economy through tourism.
 * 越南正在努力应对游客激增的问题，在试图通过旅游业提振经济的同时，测试其苏联式的刑事司法系统。
 * After deadly tremors a decade ago, Kumamoto built earthquake-resistant buildings and even trained locals in search and rescue.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * Unitree Robotics希望在首次公开募股中筹集约9亿美元（ $ 900 million ） ，以测试市场对人形机器人的兴趣，这项技术令人惊叹，但尚未证明其可行性。
 * Monster Wolf and Pochi are among the robots deployed to scare away bears and transport cherry blossoms in a northern region where many farmers are in their 70s or older.
 * Monster Wolf和Pochi是北部地区用来吓跑熊和运送樱花的机器人之一，那里有许多70多岁或以上的农民。
-* Masahide Kanayama, a surgeon and an expert in endometriosis, received an 18-month suspended sentence after a court found him guilty of damaging the sites.
-* 外科医生兼子宫内膜异位症专家金山正秀（ Masahide Kanayama ）被法院判处18个月的缓刑，此前他因损坏子宫内膜异位症部位而被判有罪。
-* With a protest movement in Kashmir challenging its authority in the region, Pakistan restricts independent reporting by local and foreign media.
-* 随着克什米尔的抗议运动挑战其在该地区的权威，巴基斯坦限制了当地和外国媒体的独立报道。
-* Conservation experts are trying to slow the march of the viral disease in a country that is home to rare and endangered bird species.
-* 保护专家正试图减缓病毒性疾病在这个稀有和濒危鸟类栖息的国家的蔓延。
 
