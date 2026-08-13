@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Normally empty Spanish towns have filled up, and
-* 通常空荡荡的西班牙城镇已经填满，
-* The insects, revered in local culture, are disappearing for many reasons, including rapid development to cater to tourists.
-* 这些在当地文化中备受推崇的昆虫正在消失，原因有很多，包括为迎合游客而迅速发展。
-* Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a novelty candidate.
-* 奈杰尔·法拉奇（ Nigel Farage ）在面临财务压力后，迫使他在议会席位上举行了新的选举。他的主要挑战者是新颖的候选人Count Binface。
+* Tributes to the former premier recalled his spirited style and his efforts to integrate China into global commerce, in contrast with the rigidity of the Xi era.
+* 对前总理的致敬回忆起他充满活力的风格以及他将中国融入全球商业的努力，这与习近平时代的僵化形成鲜明对比。
+* The distance between life and death is razor thin at one medical clinic in Rwampara, the heart of the epidemic ravaging the Democratic Republic of Congo.
+* 在刚果民主共和国肆虐的流行病中心Rwampara的一家诊所，生与死的距离非常遥远。
+* The chief minister of Andhra Pradesh has 25,000 workers building his dream capital with waterways, bike lanes and a “Quantum Valley” tech hub.
+* 安得拉邦首席部长拥有2.5万名工人，他们用水路、自行车道和“量子谷”技术中心建造了他梦寐以求的首都。
+* Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.
+* 日本首相高市早苗（ Sanae Takaichi ）一直公开批评普京，普京谴责日本因乌克兰战争而对俄罗斯实施制裁。
+* The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.
+* 这次致命的罢工是与乌克兰长期海战的一部分，也是对世界各地其他主要航线的回响。
+* With forecasters issuing a warning for very high temperatures, this summer is on track to be one of the hottest yet.
+* 随着预报员对极高温度发出警告，今年夏天有望成为有史以来最热的夏天之一。
+* Nigel Farage, the right-wing populist leader, forced a by-election in his parliamentary seat of Clacton after he came under pressure over his financial declarations.
+* 右翼民粹主义领导人奈杰尔·法拉奇（ Nigel Farage ）因其财务申报而受到压力，迫使他在克拉克顿的议会席位上进行补选。
 * Ecuadorean crews plying the waters of the Pacific have been targeted by a mysterious outfit equipped with drones. Some sailors appear to have lost their lives.
 * 在太平洋水域航行的厄瓜多尔船员已成为配备无人机的神秘装备的目标。一些水手似乎已经丧生。
-* If President Trump moves ahead with 50 percent tariffs on a wide range of Canadian products later this month, some companies may only survive by relocating to the United States.
-* 如果特朗普总统在本月晚些时候对各种加拿大产品征收50%的关税，一些公司可能只能通过搬迁到美国来生存。
-* It remains to be seen how far the government will go to tighten gun control in the country, which has experienced a string of high-profile shootings in recent years.
-* 政府将在多大程度上加强该国的枪支管制还有待观察，该国近年来经历了一系列备受瞩目的枪击事件。
-* President Hakainde Hichilema was elected five years ago, promising to protect civil liberties in his copper-rich African nation. Now, he’s accused of trampling on them.
-* Hakainde Hichilema总统五年前当选，承诺保护其铜资源丰富的非洲国家的公民自由。现在，他被指控践踏他们。
-* The Castro family envoy, Raúl G. Rodríguez Castro, who has been in talks with the Trump administration, was once named in a case targeting a Cuban smuggling ring.
-* 卡斯特罗家族特使劳尔· G ·罗德里格斯·卡斯特罗（ Raúl G. Rodríguez Castro ）一直在与特朗普政府进行谈判，他曾在一起针对古巴走私集团的案件中被点名。
-* The higher tempo of Ukrainian strikes has fueled discontent among Russians, but it is far from clear that it will change the Kremlin’s calculus about the war.
-* 乌克兰罢工的节奏加快加剧了俄罗斯人的不满情绪，但目前还不清楚这是否会改变克里姆林宫对战争的考虑。
-* In Sweida Province, dominated by the country’s Druse minority, many say it is just a matter of time before the central government moves to assert control over the region.
-* 在由该国德鲁塞少数民族占主导地位的斯韦达省，许多人说，中央政府采取行动控制该地区只是时间问题。
+* Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a novelty candidate.
+* 奈杰尔·法拉奇（ Nigel Farage ）在面临财务压力后，迫使他在议会席位上举行了新的选举。他的主要挑战者是新颖的候选人Count Binface。
+* The insects, revered in local culture, are disappearing for many reasons, including rapid development to cater to tourists.
+* 这些在当地文化中备受推崇的昆虫正在消失，原因有很多，包括为迎合游客而迅速发展。
 
 ## New York Times United States News
-* Francesca Hong’s defeat in the Democratic primary for governor defied expectations and may have shown the democratic socialist wave cannot reach beyond urban centers.
-* 弗朗西斯卡·洪（ Francesca Hong ）在州长民主党初选中的失败违背了人们的预期，并可能表明民主社会主义浪潮无法超越城市中心。
-* Officers with the San Francisco Police Department thought they had caught a car thief. Instead, they had mistyped his license plate number, a watchdog agency said.
-* 旧金山警察局的官员认为他们抓到了一个偷车贼。一家监管机构说，相反，他们打错了他的车牌号。
-* The upset victory by David Crowley, the Milwaukee County executive, over Francesca Hong sets up a more traditional general election in November.
-* 密尔沃基县行政长官大卫·克劳利（ David Crowley ）对弗朗西斯卡·洪（ Francesca Hong ）的不满胜利在11月举行了更传统的大选。
-* 
-* 
-* A moderate won the closely fought Democratic primary for governor in Wisconsin, the latest contest between the party’s progressive and moderate wings.
-* 温和派赢得了威斯康星州州长激烈的民主党初选，这是该党进步派和温和派之间的最新竞争。
-* The Milwaukee County executive, who won a tight primary race against Francesca Hong early Wednesday, could become the first Black governor of Wisconsin.
-* 这位密尔沃基县高管周三早些时候在与弗朗西斯卡·洪（ Francesca Hong ）的紧张初选中获胜，可能成为威斯康星州第一位黑人州长。
-* Lisa Demuth beat Mike Lindell, the MyPillow founder who was endorsed by President Trump.
-* Lisa Demuth击败了特朗普总统支持的MyPillow创始人Mike Lindell。
-* The victory by Minnesota’s lieutenant governor was the latest for the left-wing movement in the Midwest. She could become the first Native woman in the Senate.
-* 明尼苏达州副州长的胜利是中西部左翼运动的最新胜利。她可能成为参议院的第一位土著妇女。
-* Trump claims his secret plane was in more danger than the Air Force One decoy the public thought Trump was flying on.
-* 特朗普声称他的秘密飞机比公众认为特朗普正在飞行的空军一号诱饵更危险。
-* The extraordinary subterfuge was aimed at protecting an American president who has been in Iran’s cross hairs for years.
-* 这一非同寻常的诡计旨在保护一位多年来一直处于伊朗十字路口的美国总统。
+* Representative Jason Crow asked Defense Secretary Pete Hegseth to explain statements about his special adviser’s influence following a New York Times report.
+* 众议员杰森·克劳（ Jason Crow ）要求国防部长皮特·赫格塞斯（ Pete Hegseth ）在《纽约时报》报道后解释有关其特别顾问影响力
+* One of the planned executions, in Tennessee, comes months after the state called off the execution of another inmate when medical staff could not find a vein for the lethal injection.
+* 计划在田纳西州执行的处决之一发生在该州取消处决另一名囚犯的几个月后，当时医务人员找不到注射致命药物的静脉。
+* The agency used a no-bid contract to buy 10 used jets, saying they were urgently needed for deportation flights. But the fleet has largely sat idle for months.
+* 该机构使用无竞标合同购买了10架二手喷气式飞机，称驱逐航班迫切需要它们。但舰队在很大程度上已经闲置了几个月。
+* One of the most conservative states has a legislature divided between a hard-right House and a merely right Senate. Ultraconservatives want a complete takeover in the Aug. 18 primaries.
+* 最保守的州之一的立法机构分为右翼众议院和右翼参议院。极端保守派希望在8月18日的初选中完全收购。
+* The retreat by the Justice Department effectively allowed a pillar of the Prohibition-era National Firearms Act to lapse.
+* 司法部的撤退实际上使《禁止国家枪支法》的一个支柱失效。
+* The attack left the victim with at least a dozen wounds as several bystanders rushed to intervene.
+* 袭击给受害者留下了至少十几处伤口，几名旁观者急忙进行干预。
+* Some Democrats said the outcome showed that the moderate wing of the party carried more electoral weight, while Ms. Hong’s strong showing gave some progressives hope.
+* 一些民主党人表示，结果显示，该党的温和派在选举中的分量更大，而洪女士的强劲表现给了一些进步人士希望。
+* The baby, who was born Wednesday with a severe heart defect, drew the attention of anti-abortion activists and the Texas attorney general after the intended parents wanted the surrogate mother to have an abortion.
+* 这名婴儿于周三出生，患有严重的心脏缺陷，在预期的父母希望代孕母亲堕胎后，引起了反堕胎活动家和德克萨斯州司法部长的注意。
+* The agent, Adam Saracco, was charged with misdemeanor after the altercation at a gas station near Chicago last year during the Trump administration’s crackdown there.
+* 特工亚当·萨拉科（ Adam Saracco ）去年在特朗普政府镇压芝加哥附近的一家加油站发生口角后被指控犯有轻罪。
+* Defense Secretary Pete Hegseth urged Latin American military leaders gathered in Panama to ramp up their efforts alongside U.S. forces.
+* 国防部长皮特·黑格塞斯（ Pete Hegseth ）敦促聚集在巴拿马的拉丁美洲军事领导人与美国军队一起加紧努力。
 
 ## New York Times Asia News
+* Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.
+* 日本首相高市早苗（ Sanae Takaichi ）一直公开批评普京，普京谴责日本因乌克兰战争而对俄罗斯实施制裁。
+* Tributes to the former premier recalled his spirited style and his efforts to integrate China into global commerce, in contrast with the rigidity of the Xi era.
+* 对前总理的致敬回忆起他充满活力的风格以及他将中国融入全球商业的努力，这与习近平时代的僵化形成鲜明对比。
+* China already manufactures humanoid robots by the thousands. A new generation of U.S. start-ups is betting that there is still time to compete.
+* 中国已经生产了成千上万的人形机器人。新一代美国初创企业押注仍有时间竞争。
+* The chief minister of Andhra Pradesh has 25,000 workers building his dream capital with waterways, bike lanes and a “Quantum Valley” tech hub.
+* 安得拉邦首席部长拥有2.5万名工人，他们用水路、自行车道和“量子谷”技术中心建造了他梦寐以求的首都。
 * As a vice premier and then premier, he helped transform China into the world’s leading manufacturing power and led his country into the World Trade Organization.
 * 作为副总理和总理，他帮助中国成为世界领先的制造大国，并带领中国加入世界贸易组织。
 * It remains to be seen how far the government will go to tighten gun control in the country, which has experienced a string of high-profile shootings in recent years.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 东部贾坎德邦的数千名抗议者声称政府工作资格考试存在违规行为，并要求对该系统进行全面改革。
 * The 30-minute simulated disruption was part of the island’s effort to test and build people’s resilience in the face of a potential Chinese attack.
 * 30分钟的模拟中断是该岛在面对潜在的中国攻击时测试和建立人民复原力的努力的一部分。
-* The storm, which made landfall on Sunday evening, is the strongest to hit China this year and also caused flooding in parts of the Philippines.
-* 这场风暴于周日晚上登陆，是今年袭击中国的最强风暴，也导致菲律宾部分地区发生洪灾。
-* The traditional ways of cultivating the peppers may not survive the challenges of climate change and soaring costs, so Pakistani farmers are trying to adapt.
-* 传统的辣椒种植方式可能无法在气候变化和成本飙升的挑战下生存，因此巴基斯坦农民正在努力适应。
-* Officials told platforms to verify children’s ages using government-issued documents, like identity cards. But the companies have balked, apparently over privacy concerns.
-* 官员告诉平台使用政府颁发的身份证等文件来验证儿童的年龄。但这些公司显然因隐私问题而犹豫不决。
-* The curious case of Guren “Bobby” Zhou shows the ease with which investors with shady backgrounds and unknown motivations can funnel money to the president.
-* Guren “Bobby” Zhou的奇怪案例表明，背景阴暗、动机不明的投资者可以轻松地向总统汇款。
 
