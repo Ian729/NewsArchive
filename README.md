@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.
+* 美国和伊朗准备打破他们为自己设定的就和平和伊朗核计划达成协议的最后期限。
+* As part of its expansionist approach to the Western Hemisphere, the Trump administration is trying to reassert its dominance, one U.S. visa at a time.
+* 作为其对西半球扩张主义做法的一部分，特朗普政府正试图重申其主导地位，一次一个美国签证。
+* Immigrants have long eased labor shortages on farms and factories in Italy. But churches also need foreign-born priests, like the Rev. Vincent Souly of the Ivory Coast.
+* 移民长期以来缓解了意大利农场和工厂的劳动力短缺问题。但教会也需要外国出生的牧师，比如象牙海岸的Vincent Souly牧师。
+* Artem Murdid, his mother and his girlfriend are accused of terrorism. They say they did nothing wrong.
+* Artem Murdid、他的母亲和女友被指控犯有恐怖主义罪。他们说他们没有做错什么。
+* Widespread online abuse and visits from the police show the added risks women take standing up for their beliefs in a patriarchal society.
+* 广泛存在的在线虐待和警方的访问表明，女性在父权制社会中为自己的信仰挺身而出的风险更大。
+* A shooting at a U.S. Consulate has thrust a neighborhood with a troubled past into the center of an emerging criminal phenomenon: young guns for hire as gig workers in the underworld economy.
+* 在美国领事馆发生的枪击事件将一个有着麻烦历史的街区推向了一个新兴犯罪现象的中心：年轻的枪支被雇佣为黑社会经济中的零工。
+* Civil war and military rule have weakened Myanmar’s health care system, while heavy monsoon rains have increased the risk of waterborne disease.
+* 内战和军事统治削弱了缅甸的医疗保健系统，而季风暴雨增加了水传播疾病的风险。
 * Jason Arday, the school’s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work.
 * 该校最年轻的黑人教授杰森·阿戴（ Jason Arday ）于周五被发现死亡。学校忽略了一系列关于他的人生故事和工作的警告。
 * Azad, a popular online debate program, has tackled topics that push the limits of Iran’s authoritarian system. Some question how it has remained on air.
 * Azad是一个受欢迎的在线辩论节目，它已经解决了突破伊朗专制制度极限的话题。有些人质疑它是如何继续播出的。
-* Mr. Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations. More than 160,000 Canadians want him gone.
-* Hoekstra先生一直是特朗普总统在加拿大的忠实信使，目前两国关系处于历史低点。超过16万加拿大人希望他离开。
-* French, German and British diplomats are working on a format for future negotiations — even if Russia has shown little interest.
-* 法国、德国和英国的外交官正在为未来的谈判制定一种形式--尽管俄罗斯几乎没有表现出什么兴趣。
-* The Lebanese health ministry said several children were killed in a strike overnight, one of the deadliest attacks in months. Israel’s military said it was targeting Hezbollah infrastructure.
-* 黎巴嫩卫生部表示，几名儿童在一夜之间的罢工中丧生，这是几个月来最致命的袭击之一。以色列军方表示，其目标是真主党的基础设施。
-* The temblor was one of the strongest the area had experienced in decades, an official said.
-* 一位官员说，地震是该地区几十年来经历过的最强大的地震之一。
-* The Taliban have Afghanistan in a chokehold that spares no one. But threats are starting to crack their veneer of stability and control.
-* 塔利班把阿富汗扼住了咽喉，任何人都不能幸免。但威胁开始打破其稳定性和控制力的外表。
-* A June heat wave in Belgium and neighboring countries exposed a lethal lack of readiness. That’s a risk as another wave hits Europe.
-* 比利时和邻国的6月热浪暴露了致命的准备不足。随着另一波浪潮袭击欧洲，这是一种风险。
-* In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.
-* 在摩尔多瓦，莫斯科付钱给东正教神父，实施了一项购买选票的计划，并建立了有关选举干涉的训练营--所有这些都是为了破坏西方倾向的政府。
-* Extreme temperatures and repeated wildfires are pushing infrastructure to the limit and testing the continent’s resolve.
-* 极端温度和反复的野火正在将基础设施推向极限，并考验着非洲大陆的决心。
+* Musab Abu Rukbah, a former police chief, left Austria after appealing his eight-year sentence for crimes committed during Syria’s civil war.
+* 前警察局长穆萨布·阿布·鲁克巴（ Musab Abu Rukbah ）对叙利亚内战期间犯下的罪行提出了八年徒刑的上诉，随后离开了奥地利。
 
 ## New York Times United States News
-* The U.S. attorney in Chicago subpoenaed a fund-raising firm that had been co-owned by the daughter of Judge Juan Merchan, who conducted the trial that led to Donald Trump’s felony conviction.
-* 芝加哥的美国律师传唤了一家由胡安·梅尔坎（ Juan Merchan ）法官的女儿共同拥有的筹款公司，该公司主持了导致唐纳德·特朗普（ Donald Trump ）重罪定罪的审判。
-* Over the objections of environmentalists, local sheriffs and some state leaders, the Trump administration appears to be moving ahead with border infrastructure in one of Texas’ most beloved parks.
-* 在环保主义者、当地治安官和一些州领导人的反对下，特朗普政府似乎正在推进德克萨斯州最受欢迎的公园之一的边境基础设施建设。
-* Asian allies are beginning to wonder whether the United States would or could defend them in a war.
-* 亚洲盟友开始怀疑美国是否会或可能在战争中保卫他们。
-* At 73, Sherrod Brown is mounting a comeback bid in Ohio. He is one of the Democrats his party is counting on to retake control of the Senate.
-* 现年73岁的谢罗德·布朗（ Sherrod Brown ）正在俄亥俄州进行复出竞标。他是他的政党指望重新控制参议院的民主党人之一。
-* The government said it could not prove that a man accused of threatening federal agents had committed a crime, adding to the scores of cases in the administration’s deportation efforts that have unraveled.
-* 政府表示，它无法证明一名被指控威胁联邦特工的男子犯下了罪行，这增加了政府驱逐出境工作的数十起案件。
-* The state has accused the government in a lawsuit of retaliating after the conviction of Tina Peters, a Trump supporter. An administration official convened a group to discuss “immediate actions.”
-* 该州指控政府在特朗普支持者蒂娜·彼得斯（ Tina Peters ）被定罪后进行报复。一位政府官员召集了一个小组讨论“立即行动”。
-* The gunman, Chad Hickman, was found dead in a wooded area near Whitlock Lake in Caldwell Township, the authorities said. A motive for the shootings was not immediately known.
-* 当局说，枪手查德·希克曼（ Chad Hickman ）被发现死在考德威尔镇惠特洛克湖（ Whitlock Lake ）附近的一片树木繁茂的地区。目前尚不清楚枪击事件的动机。
-* The man bobbed and wove before lobbing a kick at a sea lion in San Diego last month, a video of the episode shows.
-* 该节目的视频显示，这名男子上个月在圣地亚哥向一只海狮踢了一脚。
-* Representative Rashida Tlaib was supposed to headline an event called “Chomp the Oligarchy” for three candidates for Congress who face Jewish Democrats in Tuesday’s primary.
-* 众议员拉希达·特莱布（ Rashida Tlaib ）本应为周二初选中面对犹太民主党的三名国会候选人举办名为“Chomp the Oligarchy”的活动。
-* Security camera footage showed the goats entering the TriMet bus in Portland, Ore., through the middle doors before some passengers shooed them off. They have since been reunited with their owner.
-* 监控录像显示，这些山羊从中门进入俄勒冈州波特兰市的TriMet巴士，然后一些乘客将它们赶走。此后，他们与主人团聚。
+* A new film depicts the 1986 nuclear arms summit in Reykjavik, Iceland, between Ronald Reagan and Mikhail Gorbachev, which both offered and dashed hopes of a dramatic breakthrough.
+* 一部新电影描绘了1986年在冰岛雷克雅未克举行的罗纳德·里根和米哈伊尔·戈尔巴乔夫之间的核武器峰会，这次峰会提供了戏剧性突破的希望，但也破灭了希望。
+* Two Democrats are in a runoff to replace Eric Swalwell, who resigned from Congress in April. The American Israel Public Affairs Committee is spending heavily against a progressive candidate.
+* 两名民主党人正在接替4月份从国会辞职的埃里克·斯沃尔韦尔（ Eric Swalwell ）。美国以色列公共事务委员会正在花费巨资反对一位进步的候选人。
+* A string of primary wins by progressive candidates has revealed the strength of a high-energy insurgent movement but also its potential limitations.
+* 进步候选人的一系列主要胜利揭示了高能量叛乱运动的力量，但也揭示了其潜在的局限性。
+* The case represents a new front in President Trump’s mass deportation drive: arrests at airports of people who have active immigration cases and no criminal history.
+* 该案件代表了特朗普总统大规模驱逐行动的新战线：在机场逮捕有活跃移民案件且无犯罪记录的人。
+* The administration is veering wildly in its response to the national security implications of A.I. as China, America’s main technological and military rival, charges ahead.
+* 美国政府正在疯狂地转向应对人工智能对国家安全的影响，因为美国的主要技术和军事竞争对手中国正在向前推进。
+* Facing huge decisions, the oil-rich, cash-poor state will send four candidates to the final ballot in November. With so many candidates chasing so few voters, the hunt is intense.
+* 面对巨大的决定，这个石油资源丰富、现金匮乏的国家将派出四名候选人参加11月的最终投票。如此多的候选人追逐如此少的选民，狩猎是激烈的。
+* Brandon Herrera, long an anti-establishment outsider, is trying to help the party defend a red-leaning House district in West Texas. It’s proving messy.
+* 布兰登·埃雷拉（ Brandon Herrera ）长期以来一直是反建制的局外人，他正试图帮助该党捍卫德克萨斯州西部红色倾斜的众议院地区。事实证明，这很凌乱。
+* The rescued pug, who likes to dip her protruding tongue into the food bowls of everyone at home, emerged as the winner of the World’s Ugliest Dog Contest on Friday.
+* 这只获救的哈巴狗喜欢把自己突出的舌头蘸在家里每个人的食物碗里，周五成为世界上最丑陋的狗比赛的获胜者。
+* The party’s membership finalized the new order for the first six states to winnow the candidate field, pushing back Iowa and New Hampshire.
+* 该党的成员最终确定了前六个州选出候选人领域的新命令，推翻了爱荷华州和新罕布什尔州。
+* An air traffic controller noticed that two planes — one departing, one landing — were both flight 2482. He acted quickly to avoid confusion.
+* 一名空中交通管制员注意到，两架飞机—一架起飞，一架着陆—都是2482航班。他行动迅速，以免混淆。
 
 ## New York Times Asia News
+* Civil war and military rule have weakened Myanmar’s health care system, while heavy monsoon rains have increased the risk of waterborne disease.
+* 内战和军事统治削弱了缅甸的医疗保健系统，而季风暴雨增加了水传播疾病的风险。
+* Widespread online abuse and visits from the police show the added risks women take standing up for their beliefs in a patriarchal society.
+* 广泛存在的在线虐待和警方的访问表明，女性在父权制社会中为自己的信仰挺身而出的风险更大。
+* Saved by his ability to paint, he was one of only a handful of prisoners to make it out of the brutal prison Tuol Sleng.
+* 由于他的绘画能力，他是少数几个从残酷的监狱Tuol Sleng出来的囚犯之一。
 * Asian allies are beginning to wonder whether the United States would or could defend them in a war.
 * 亚洲盟友开始怀疑美国是否会或可能在战争中保卫他们。
 * The temblor was one of the strongest the area had experienced in decades, an official said.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 随着对该国支出方向的担忧加剧，人民币已恢复下滑，在美国财政部进行干预以支撑人民币之后，人民币的上涨受到侵蚀。
 * Three months’ worth of rain fell in just 12 hours in a region east of Tokyo, leading to deadly flooding.
 * 东京以东地区在短短12小时内降下了三个月的降雨，导致致命的洪水。
-* RM, of BTS, brings 145 works by Korean artists to SFMOMA this fall. “I know Picasso, I know van Gogh. I don’t know anyone from my country,” he told himself as he began to buy. “You have to find your root.”
-* BTS的RM今年秋天为SFMOMA带来了145件韩国艺术家的作品。“我认识毕加索，我认识梵高。我不认识来自我国的任何人，”他开始购买时对自己说。“你必须找到自己的根。”
-* Decrees restricting the rights of women and girls to study, work, travel and act independently now threaten to damage Afghanistan permanently, experts say.
-* 专家说，限制妇女和女孩独立学习、工作、旅行和行动的权利的法令现在威胁到对阿富汗的永久性破坏。
-* Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.
-* 日本首相高市早苗（ Sanae Takaichi ）一直公开批评普京，普京谴责日本因乌克兰战争而对俄罗斯实施制裁。
 
