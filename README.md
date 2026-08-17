@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea. But under Mr. Kim, the North has become increasingly belligerent toward the South.
+* 特朗普总统希望减少与韩国的军事演习，称他们对朝鲜怀有敌意。但在金正恩的领导下，朝鲜对韩国越来越好战。
+* Ayatollah Mojtaba Khamenei’s appointment of hard-line loyalists to top jobs suggests he is prepared to keep the country on a war footing and to quash domestic dissent.
+* 阿亚图拉·莫伊塔巴·哈梅内伊（ Ayatollah Mojtaba Khamenei ）任命强硬的忠诚者担任最高职位，这表明他准备让国家处于战争状态并平息国内异议。
+* Prime Minister Benjamin Netanyahu of Israel has refused to pull back the country’s military until Hamas fully disarms. But the Trump administration is under pressure to show progress.
+* 以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）拒绝在哈马斯完全解除武装之前撤回该国军队。但特朗普政府面临着取得进展的压力。
+* China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.
+* 中国出口的不仅仅是人工智能模型。它希望其数据能够影响世界的聊天机器人，这引发了人们对北京的叙述将随着技术传播的担忧。
+* Here’s how speedy access to satellite imagery is bolstering Ukraine.
+* 以下是快速获取卫星图像对乌克兰的支持。
+* President Trump said a cease-fire agreed in June would lead to limits on Iran’s nuclear program and finish the conflict, but the countries appear far apart.
+* 特朗普总统表示， 6月份达成的停火协议将限制伊朗的核计划并结束冲突，但两国似乎相距甚远。
+* Scrutiny over the gifts and support provided by George Cottrell to Mr. Farage, the Reform U.K. leader, will continue even after he won last week’s special election in Clacton.
+* 即使乔治·科特雷尔（ George Cottrell ）在上周的克拉克顿（ Clacton ）特别选举中获胜，他对改革英国领导人法拉奇（ Farage ）先生提供的礼物和支持的审查仍将继续。
 * The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.
 * 美国和伊朗准备打破他们为自己设定的就和平和伊朗核计划达成协议的最后期限。
 * As part of its expansionist approach to the Western Hemisphere, the Trump administration is trying to reassert its dominance, one U.S. visa at a time.
 * 作为其对西半球扩张主义做法的一部分，特朗普政府正试图重申其主导地位，一次一个美国签证。
-* Immigrants have long eased labor shortages on farms and factories in Italy. But churches also need foreign-born priests, like the Rev. Vincent Souly of the Ivory Coast.
-* 移民长期以来缓解了意大利农场和工厂的劳动力短缺问题。但教会也需要外国出生的牧师，比如象牙海岸的Vincent Souly牧师。
-* Artem Murdid, his mother and his girlfriend are accused of terrorism. They say they did nothing wrong.
-* Artem Murdid、他的母亲和女友被指控犯有恐怖主义罪。他们说他们没有做错什么。
-* Widespread online abuse and visits from the police show the added risks women take standing up for their beliefs in a patriarchal society.
-* 广泛存在的在线虐待和警方的访问表明，女性在父权制社会中为自己的信仰挺身而出的风险更大。
-* A shooting at a U.S. Consulate has thrust a neighborhood with a troubled past into the center of an emerging criminal phenomenon: young guns for hire as gig workers in the underworld economy.
-* 在美国领事馆发生的枪击事件将一个有着麻烦历史的街区推向了一个新兴犯罪现象的中心：年轻的枪支被雇佣为黑社会经济中的零工。
-* Civil war and military rule have weakened Myanmar’s health care system, while heavy monsoon rains have increased the risk of waterborne disease.
-* 内战和军事统治削弱了缅甸的医疗保健系统，而季风暴雨增加了水传播疾病的风险。
-* Jason Arday, the school’s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work.
-* 该校最年轻的黑人教授杰森·阿戴（ Jason Arday ）于周五被发现死亡。学校忽略了一系列关于他的人生故事和工作的警告。
-* Azad, a popular online debate program, has tackled topics that push the limits of Iran’s authoritarian system. Some question how it has remained on air.
-* Azad是一个受欢迎的在线辩论节目，它已经解决了突破伊朗专制制度极限的话题。有些人质疑它是如何继续播出的。
-* Musab Abu Rukbah, a former police chief, left Austria after appealing his eight-year sentence for crimes committed during Syria’s civil war.
-* 前警察局长穆萨布·阿布·鲁克巴（ Musab Abu Rukbah ）对叙利亚内战期间犯下的罪行提出了八年徒刑的上诉，随后离开了奥地利。
+* The works, by Antonello da Messina, were taken as the Sicilian city of Messina held a religious celebration.
+* 这些作品由安东内洛·达·梅西纳（ Antonello da Messina ）创作，西西里城市梅西纳（ Messina ）举行了宗教庆祝活动。
 
 ## New York Times United States News
-* A new film depicts the 1986 nuclear arms summit in Reykjavik, Iceland, between Ronald Reagan and Mikhail Gorbachev, which both offered and dashed hopes of a dramatic breakthrough.
-* 一部新电影描绘了1986年在冰岛雷克雅未克举行的罗纳德·里根和米哈伊尔·戈尔巴乔夫之间的核武器峰会，这次峰会提供了戏剧性突破的希望，但也破灭了希望。
-* Two Democrats are in a runoff to replace Eric Swalwell, who resigned from Congress in April. The American Israel Public Affairs Committee is spending heavily against a progressive candidate.
-* 两名民主党人正在接替4月份从国会辞职的埃里克·斯沃尔韦尔（ Eric Swalwell ）。美国以色列公共事务委员会正在花费巨资反对一位进步的候选人。
-* A string of primary wins by progressive candidates has revealed the strength of a high-energy insurgent movement but also its potential limitations.
-* 进步候选人的一系列主要胜利揭示了高能量叛乱运动的力量，但也揭示了其潜在的局限性。
-* The case represents a new front in President Trump’s mass deportation drive: arrests at airports of people who have active immigration cases and no criminal history.
-* 该案件代表了特朗普总统大规模驱逐行动的新战线：在机场逮捕有活跃移民案件且无犯罪记录的人。
-* The administration is veering wildly in its response to the national security implications of A.I. as China, America’s main technological and military rival, charges ahead.
-* 美国政府正在疯狂地转向应对人工智能对国家安全的影响，因为美国的主要技术和军事竞争对手中国正在向前推进。
-* Facing huge decisions, the oil-rich, cash-poor state will send four candidates to the final ballot in November. With so many candidates chasing so few voters, the hunt is intense.
-* 面对巨大的决定，这个石油资源丰富、现金匮乏的国家将派出四名候选人参加11月的最终投票。如此多的候选人追逐如此少的选民，狩猎是激烈的。
-* Brandon Herrera, long an anti-establishment outsider, is trying to help the party defend a red-leaning House district in West Texas. It’s proving messy.
-* 布兰登·埃雷拉（ Brandon Herrera ）长期以来一直是反建制的局外人，他正试图帮助该党捍卫德克萨斯州西部红色倾斜的众议院地区。事实证明，这很凌乱。
-* The rescued pug, who likes to dip her protruding tongue into the food bowls of everyone at home, emerged as the winner of the World’s Ugliest Dog Contest on Friday.
-* 这只获救的哈巴狗喜欢把自己突出的舌头蘸在家里每个人的食物碗里，周五成为世界上最丑陋的狗比赛的获胜者。
-* The party’s membership finalized the new order for the first six states to winnow the candidate field, pushing back Iowa and New Hampshire.
-* 该党的成员最终确定了前六个州选出候选人领域的新命令，推翻了爱荷华州和新罕布什尔州。
-* An air traffic controller noticed that two planes — one departing, one landing — were both flight 2482. He acted quickly to avoid confusion.
-* 一名空中交通管制员注意到，两架飞机—一架起飞，一架着陆—都是2482航班。他行动迅速，以免混淆。
+* Three primaries for the House and the Senate on Tuesday pose a fresh test for the left, this time in a conservative-leaning state where socialism is often seen as a dirty word.
+* 周二，众议院和参议院的三次初选对左翼构成了新的考验，这一次是在一个保守的倾向状态下，社会主义经常被视为一个肮脏的词。
+* President Trump appointed his former personal lawyer Will Scharf as White House counsel. Maggie Haberman, our White House correspondent, explains how Scharf might help the president avoid congressional oversight at a critical time.
+* 特朗普总统任命他的前私人律师威尔·沙夫（ Will Scharf ）为白宫顾问。我们的白宫记者Maggie Haberman解释了Scharf如何在关键时刻帮助总统避免国会监督。
+* The New York Times is examining how public health is changing in the state, from the whooping cough outbreak to vaccine policies, and we want to hear from you.
+* 《纽约时报》正在研究该州的公共卫生变化，从百日咳爆发到疫苗政策，我们希望听取您的意见。
+* Educators are worried that many students can no longer write essays without A.I. And it’s costing more than just grammar skills.
+* 教育工作者担心，许多学生如果没有人工智能，就不能再写论文了。而且它的成本不仅仅是语法技能。
+* After decades of notoriously high murder totals, Baltimore and the people whose work entails dealing with the city’s most violent crimes are adjusting to a new reality.
+* 在经历了数十年臭名昭著的高谋杀案总数之后，巴尔的摩和那些需要处理该市最暴力犯罪的人正在适应新的现实。
+* Dr. Evelyn Griffin is pushing for more emphasis on wellness and prevention. She has also aligned with the MAHA movement in fighting government mandates and questioning the safety of some vaccines.
+* Evelyn Griffin博士正在推动更多地强调健康和预防。她还与MAHA运动结盟，反对政府的要求，并质疑一些疫苗的安全性。
+* Muslim communities have been growing for decades, particularly around Dallas. Now, conservatives want to roll up the welcome mat.
+* 几十年来，穆斯林社区一直在增长，特别是在达拉斯周围。现在，保守派想要卷起欢迎席。
+* In a social media post, the president scolded South Korea for not helping denuclearize Iran, and also praised North Korea and its leader.
+* 在一篇社交媒体帖子中，总统斥责韩国没有帮助伊朗实现无核化，并赞扬了朝鲜及其领导人。
+* Admiral Brad Cooper, head of U.S. Central Command, acknowledged the difficulty of the carrier’s nearly nine-month deployment but said mental health issues were lower than on other vessels.
+* 美国中央司令部司令布拉德库珀上将承认该航母近九个月的部署困难重重，但表示心理健康问题低于其他船只。
+* Since last week, hazardous weather has caused seven deaths, forced people from their homes and required some to be rescued by boat. The region was at risk for more flooding on Sunday.
+* 自上周以来，恶劣天气已造成7人死亡，迫使人们离开家园，并要求一些人乘船获救。周日，该地区面临更多洪水的风险。
 
 ## New York Times Asia News
+* President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea. But under Mr. Kim, the North has become increasingly belligerent toward the South.
+* 特朗普总统希望减少与韩国的军事演习，称他们对朝鲜怀有敌意。但在金正恩的领导下，朝鲜对韩国越来越好战。
+* Japan avoided a major disaster after a 6.8-magnitude earthquake hit last month. Our reporter River Akira Davis visited Kumamoto, a prefecture near the epicenter, to see how it built quake-proof buildings and infrastructure.
+* 上个月发生6.8级地震后，日本避免了一场重大灾难。我们的记者阿基拉·戴维斯（ River Akira Davis ）参观了震中附近的熊本县，了解该县如何建造防震建筑和基础设施。
+* China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.
+* 中国出口的不仅仅是人工智能模型。它希望其数据能够影响世界的聊天机器人，这引发了人们对北京的叙述将随着技术传播的担忧。
 * Civil war and military rule have weakened Myanmar’s health care system, while heavy monsoon rains have increased the risk of waterborne disease.
 * 内战和军事统治削弱了缅甸的医疗保健系统，而季风暴雨增加了水传播疾病的风险。
 * Widespread online abuse and visits from the police show the added risks women take standing up for their beliefs in a patriarchal society.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 塔利班把阿富汗扼住了咽喉，任何人都不能幸免。但威胁开始打破其稳定性和控制力的外表。
 * Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy’s logistics hub after Iran damaged a base in Bahrain.
 * 迪戈加西亚是距离阿曼湾2200英里的一个小岛，在伊朗损坏巴林的一个基地后，它接管了海军的后勤枢纽。
-* In an interview, Afghanistan’s foreign minister called on the U.S. to reopen its embassy and invest in the country — a near-impossible sell for now, analysts and former diplomats say.
-* 分析人士和前外交官表示，阿富汗外交部长在接受采访时呼吁美国重新开放大使馆并在该国投资--目前这几乎是不可能的卖出。
-* The currency has resumed its slide, eroding gains after the U.S. Treasury intervened to prop it up, as concerns mount about the direction of the country’s spending.
-* 随着对该国支出方向的担忧加剧，人民币已恢复下滑，在美国财政部进行干预以支撑人民币之后，人民币的上涨受到侵蚀。
-* Three months’ worth of rain fell in just 12 hours in a region east of Tokyo, leading to deadly flooding.
-* 东京以东地区在短短12小时内降下了三个月的降雨，导致致命的洪水。
 
