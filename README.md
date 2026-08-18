@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea. But under Mr. Kim, the North has become increasingly belligerent toward the South.
-* 特朗普总统希望减少与韩国的军事演习，称他们对朝鲜怀有敌意。但在金正恩的领导下，朝鲜对韩国越来越好战。
+* They made a risky bid to reunite after three years of separation, illness and deprivation — the kind of ordeal suffered by many thousands of families torn apart by the war in eastern Ukraine.
+* 在经历了三年的分离、疾病和匮乏之后，他们冒着与家人团聚的风险--成千上万的家庭在乌克兰东部的战争中遭受了这种折磨。
+* Intensifying restrictions have hit every part of the territory’s dealings, spurring worries about whether the Palestinian Authority can remain solvent.
+* 加紧的限制已经打击了该领土的每一部分交易，引发了人们对巴勒斯坦权力机构能否保持清偿能力的担忧。
+* In Chocó, a remote region, “pain, hunger and homelessness await” survivors of last week’s earthquake, the governor said. Shakira visited to help draw awareness.
+* 州长说，在偏远地区的乔科， “痛苦、饥饿和无家可归正在等待”上周地震的幸存者。夏奇拉（ Shakira ）来访是为了帮助人们提高认识。
+* Beijing wants to portray today’s China as carrying forward Zhu Rongji’s era of growth, but for many Chinese, the optimism of that time has since faded.
+* 北京希望将今天的中国描绘成朱镕基增长时代的延续，但对许多中国人来说，那个时代的乐观情绪已经消退。
+* In a picturesque village, the mayor closed a road, setting off a storm with residents and the owners of a castle that once belonged to his family.
+* 在一个风景如画的村庄里，市长封锁了一条道路，与居民和一座曾经属于他家人的城堡的主人掀起了一场风暴。
+* Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?
+* 加拿大正在寻求一项协议，以躲避特朗普政府在周二午夜手中的进一步经济痛苦。但代价是什么呢？
 * Ayatollah Mojtaba Khamenei’s appointment of hard-line loyalists to top jobs suggests he is prepared to keep the country on a war footing and to quash domestic dissent.
 * 阿亚图拉·莫伊塔巴·哈梅内伊（ Ayatollah Mojtaba Khamenei ）任命强硬的忠诚者担任最高职位，这表明他准备让国家处于战争状态并平息国内异议。
-* Prime Minister Benjamin Netanyahu of Israel has refused to pull back the country’s military until Hamas fully disarms. But the Trump administration is under pressure to show progress.
-* 以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）拒绝在哈马斯完全解除武装之前撤回该国军队。但特朗普政府面临着取得进展的压力。
+* President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea. But under Mr. Kim, the North has become increasingly belligerent toward the South.
+* 特朗普总统希望减少与韩国的军事演习，称他们对朝鲜怀有敌意。但在金正恩的领导下，朝鲜对韩国越来越好战。
+* Ukrainian drone teams have a powerful new tool: near real-time information on troop movements and locations.
+* 乌克兰无人机团队有一个强大的新工具：关于部队移动和位置的近实时信息。
 * China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.
 * 中国出口的不仅仅是人工智能模型。它希望其数据能够影响世界的聊天机器人，这引发了人们对北京的叙述将随着技术传播的担忧。
-* Here’s how speedy access to satellite imagery is bolstering Ukraine.
-* 以下是快速获取卫星图像对乌克兰的支持。
-* President Trump said a cease-fire agreed in June would lead to limits on Iran’s nuclear program and finish the conflict, but the countries appear far apart.
-* 特朗普总统表示， 6月份达成的停火协议将限制伊朗的核计划并结束冲突，但两国似乎相距甚远。
-* Scrutiny over the gifts and support provided by George Cottrell to Mr. Farage, the Reform U.K. leader, will continue even after he won last week’s special election in Clacton.
-* 即使乔治·科特雷尔（ George Cottrell ）在上周的克拉克顿（ Clacton ）特别选举中获胜，他对改革英国领导人法拉奇（ Farage ）先生提供的礼物和支持的审查仍将继续。
-* The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.
-* 美国和伊朗准备打破他们为自己设定的就和平和伊朗核计划达成协议的最后期限。
-* As part of its expansionist approach to the Western Hemisphere, the Trump administration is trying to reassert its dominance, one U.S. visa at a time.
-* 作为其对西半球扩张主义做法的一部分，特朗普政府正试图重申其主导地位，一次一个美国签证。
-* The works, by Antonello da Messina, were taken as the Sicilian city of Messina held a religious celebration.
-* 这些作品由安东内洛·达·梅西纳（ Antonello da Messina ）创作，西西里城市梅西纳（ Messina ）举行了宗教庆祝活动。
 
 ## New York Times United States News
-* Three primaries for the House and the Senate on Tuesday pose a fresh test for the left, this time in a conservative-leaning state where socialism is often seen as a dirty word.
-* 周二，众议院和参议院的三次初选对左翼构成了新的考验，这一次是在一个保守的倾向状态下，社会主义经常被视为一个肮脏的词。
-* President Trump appointed his former personal lawyer Will Scharf as White House counsel. Maggie Haberman, our White House correspondent, explains how Scharf might help the president avoid congressional oversight at a critical time.
-* 特朗普总统任命他的前私人律师威尔·沙夫（ Will Scharf ）为白宫顾问。我们的白宫记者Maggie Haberman解释了Scharf如何在关键时刻帮助总统避免国会监督。
-* The New York Times is examining how public health is changing in the state, from the whooping cough outbreak to vaccine policies, and we want to hear from you.
-* 《纽约时报》正在研究该州的公共卫生变化，从百日咳爆发到疫苗政策，我们希望听取您的意见。
-* Educators are worried that many students can no longer write essays without A.I. And it’s costing more than just grammar skills.
-* 教育工作者担心，许多学生如果没有人工智能，就不能再写论文了。而且它的成本不仅仅是语法技能。
-* After decades of notoriously high murder totals, Baltimore and the people whose work entails dealing with the city’s most violent crimes are adjusting to a new reality.
-* 在经历了数十年臭名昭著的高谋杀案总数之后，巴尔的摩和那些需要处理该市最暴力犯罪的人正在适应新的现实。
-* Dr. Evelyn Griffin is pushing for more emphasis on wellness and prevention. She has also aligned with the MAHA movement in fighting government mandates and questioning the safety of some vaccines.
-* Evelyn Griffin博士正在推动更多地强调健康和预防。她还与MAHA运动结盟，反对政府的要求，并质疑一些疫苗的安全性。
-* Muslim communities have been growing for decades, particularly around Dallas. Now, conservatives want to roll up the welcome mat.
-* 几十年来，穆斯林社区一直在增长，特别是在达拉斯周围。现在，保守派想要卷起欢迎席。
-* In a social media post, the president scolded South Korea for not helping denuclearize Iran, and also praised North Korea and its leader.
-* 在一篇社交媒体帖子中，总统斥责韩国没有帮助伊朗实现无核化，并赞扬了朝鲜及其领导人。
-* Admiral Brad Cooper, head of U.S. Central Command, acknowledged the difficulty of the carrier’s nearly nine-month deployment but said mental health issues were lower than on other vessels.
-* 美国中央司令部司令布拉德库珀上将承认该航母近九个月的部署困难重重，但表示心理健康问题低于其他船只。
-* Since last week, hazardous weather has caused seven deaths, forced people from their homes and required some to be rescued by boat. The region was at risk for more flooding on Sunday.
-* 自上周以来，恶劣天气已造成7人死亡，迫使人们离开家园，并要求一些人乘船获救。周日，该地区面临更多洪水的风险。
+* Republicans hold every statewide elected office and have drastically swung voter registration in the state. A newly gerrymandered congressional map has added four Republican-leaning seats.
+* 共和党人掌握着每个州的民选职位，并大幅改变了该州的选民登记。一份新划分的国会地图增加了四个共和党倾向的席位。
+* Dan Sullivan, a retired schoolteacher from tiny Petersburg, Alaska, shares a name with the incumbent senator he hopes to defeat. Is he a spoiler trying to divide the Republican vote? We traveled to Alaska to find out.
+* 来自阿拉斯加州小彼得堡的退休教师丹·沙利文（ Dan Sullivan ）与他希望击败的现任参议员分享了一个名字。他是一个试图分裂共和党选票的破坏者吗？我们前往阿拉斯加了解情况。
+* An early glimpse of a pivotal Senate race, heated primaries on a newly redrawn congressional map, and a special election to replace Eric Swalwell will be in the spotlight on Tuesday.
+* 参议院关键竞选的早期一瞥，新重新绘制的国会地图上的激烈初选，以及取代埃里克·斯沃尔韦尔的特别选举将在周二成为焦点。
+* The politician behind Texas’ conservative overhaul of higher education is now running a university system. Some say his effort to ferret out forbidden topics is a dystopian academic nightmare.
+* 德克萨斯州保守派高等教育改革背后的政治家现在正在运行一个大学系统。有人说，他寻找禁忌话题的努力是一场反乌托邦的学术噩梦。
+* Prosecutors led by Jeanine Pirro, the U.S. attorney in Washington, argued that Melissa Farris posed a flight risk and asked the court to reverse its decision.
+* 由华盛顿的美国检察官珍妮·皮罗（ Jeanine Pirro ）领导的检察官辩称，梅丽莎·法里斯（ Melissa Farris ）构成了飞行风险，并要求法院撤销其决定。
+* The top elections official in Shasta County offered a job to Ms. Peters, a Trump supporter who was convicted of tampering with voting machines in Colorado.
+* 沙斯塔县的最高选举官员向特朗普的支持者彼得斯女士提供了一份工作，她因篡改科罗拉多州的投票机而被定罪。
+* The appearance for Representative Zach Nunn was another departure from previous norms for the defense secretary, whose predecessors kept a greater distance from politics.
+* 众议员扎克·纳恩（ Zach Nunn ）的出现再次背离了国防部长以前的规范，他的前任与政治保持着更大的距离。
+* Major Watson characterized the war in Iran as an act of American aggression and compared the U.S. military actions to Russia’s invasion of Ukraine.
+* 沃森少校将伊朗战争描述为美国的侵略行为，并将美国的军事行动与俄罗斯入侵乌克兰进行了比较。
+* The Department of Homeland Security said there would be an investigation. But so far little has been disclosed about the killing last month.
+* 国土安全部表示将进行调查。但到目前为止，有关上个月杀戮事件的披露很少。
+* Representative Jimmy Gomez of California acknowledged “personal mistakes” outside his marriage but denied breaking rules that bar relationships with a direct subordinate.
+* 加利福尼亚州众议员吉米·戈麦斯（ Jimmy Gomez ）承认在婚姻之外犯了“个人错误” ，但否认违反了禁止与直接下属建立关系的规则。
 
 ## New York Times Asia News
+* Beijing wants to portray today’s China as carrying forward Zhu Rongji’s era of growth, but for many Chinese, the optimism of that time has since faded.
+* 北京希望将今天的中国描绘成朱镕基增长时代的延续，但对许多中国人来说，那个时代的乐观情绪已经消退。
+* Meena Geltink and Minal Tijssen were adopted from India by families in the Netherlands and grew up less than 100 miles apart.
+* Meena Geltink和Minal Tijssen来自印度，被荷兰的家庭收养，相距不到100英里。
+* The boy shot and killed a schoolmate at a junior high school before fatally turning the gun on himself, the mayor of Zamboanga City said.
+* 三宝颜市市长说，这名男孩在一所初中开枪打死了一名同学，然后致命地开枪自杀。
+* Families are betting their savings on private universities as a path to a better life. A shortage of well-paying work is turning that wager into frustration.
+* 家庭将他们的积蓄押在私立大学上，以此作为改善生活的途径。高薪工作的短缺正在将这种赌注变成挫折感。
 * President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea. But under Mr. Kim, the North has become increasingly belligerent toward the South.
 * 特朗普总统希望减少与韩国的军事演习，称他们对朝鲜怀有敌意。但在金正恩的领导下，朝鲜对韩国越来越好战。
 * Japan avoided a major disaster after a 6.8-magnitude earthquake hit last month. Our reporter River Akira Davis visited Kumamoto, a prefecture near the epicenter, to see how it built quake-proof buildings and infrastructure.
 * 上个月发生6.8级地震后，日本避免了一场重大灾难。我们的记者阿基拉·戴维斯（ River Akira Davis ）参观了震中附近的熊本县，了解该县如何建造防震建筑和基础设施。
 * China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.
 * 中国出口的不仅仅是人工智能模型。它希望其数据能够影响世界的聊天机器人，这引发了人们对北京的叙述将随着技术传播的担忧。
+* In a social media post, the president scolded South Korea for not helping denuclearize Iran, and also praised North Korea and its leader.
+* 在一篇社交媒体帖子中，总统斥责韩国没有帮助伊朗实现无核化，并赞扬了朝鲜及其领导人。
 * Civil war and military rule have weakened Myanmar’s health care system, while heavy monsoon rains have increased the risk of waterborne disease.
 * 内战和军事统治削弱了缅甸的医疗保健系统，而季风暴雨增加了水传播疾病的风险。
 * Widespread online abuse and visits from the police show the added risks women take standing up for their beliefs in a patriarchal society.
 * 广泛存在的在线虐待和警方的访问表明，女性在父权制社会中为自己的信仰挺身而出的风险更大。
-* Saved by his ability to paint, he was one of only a handful of prisoners to make it out of the brutal prison Tuol Sleng.
-* 由于他的绘画能力，他是少数几个从残酷的监狱Tuol Sleng出来的囚犯之一。
-* Asian allies are beginning to wonder whether the United States would or could defend them in a war.
-* 亚洲盟友开始怀疑美国是否会或可能在战争中保卫他们。
-* The temblor was one of the strongest the area had experienced in decades, an official said.
-* 一位官员说，地震是该地区几十年来经历过的最强大的地震之一。
-* The Taliban have Afghanistan in a chokehold that spares no one. But threats are starting to crack their veneer of stability and control.
-* 塔利班把阿富汗扼住了咽喉，任何人都不能幸免。但威胁开始打破其稳定性和控制力的外表。
-* Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy’s logistics hub after Iran damaged a base in Bahrain.
-* 迪戈加西亚是距离阿曼湾2200英里的一个小岛，在伊朗损坏巴林的一个基地后，它接管了海军的后勤枢纽。
 
