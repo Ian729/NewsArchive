@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* They made a risky bid to reunite after three years of separation, illness and deprivation — the kind of ordeal suffered by many thousands of families torn apart by the war in eastern Ukraine.
-* 在经历了三年的分离、疾病和匮乏之后，他们冒着与家人团聚的风险--成千上万的家庭在乌克兰东部的战争中遭受了这种折磨。
-* Intensifying restrictions have hit every part of the territory’s dealings, spurring worries about whether the Palestinian Authority can remain solvent.
-* 加紧的限制已经打击了该领土的每一部分交易，引发了人们对巴勒斯坦权力机构能否保持清偿能力的担忧。
-* In Chocó, a remote region, “pain, hunger and homelessness await” survivors of last week’s earthquake, the governor said. Shakira visited to help draw awareness.
-* 州长说，在偏远地区的乔科， “痛苦、饥饿和无家可归正在等待”上周地震的幸存者。夏奇拉（ Shakira ）来访是为了帮助人们提高认识。
-* Beijing wants to portray today’s China as carrying forward Zhu Rongji’s era of growth, but for many Chinese, the optimism of that time has since faded.
-* 北京希望将今天的中国描绘成朱镕基增长时代的延续，但对许多中国人来说，那个时代的乐观情绪已经消退。
+* Mykhailo Fedorov, a popular young leader who was fired last month, said Russia should not be allowed to dictate when Ukrainians can choose their next government.
+* 上个月被解职的受欢迎的年轻领导人米哈伊洛·费多罗夫（ Mykhailo Fedorov ）表示，不应允许俄罗斯决定乌克兰人何时可以选择下一届政府。
+* Iran has survived decades of sanctions. Faced with more, it is likely to escalate rather than surrender, analysts said.
+* 伊朗在数十年的制裁中幸存下来。分析师表示，面对更多，它可能会升级而不是投降。
+* Prime Minister Mark Carney of Canada was less definitive about what the intense talks produced, saying ‘important work’ remained.
+* 加拿大总理马克·卡尼（ Mark Carney ）对紧张会谈的结果不太明确，称“重要工作”仍然存在。
+* Guo Degang, one of the country’s best-known comedians, was reported to the authorities, as the arts continue to be a focus for ideological crackdowns.
+* 该国最着名的喜剧演员之一郭德刚被报告给当局，因为艺术仍然是意识形态镇压的焦点。
+* An Australian woman, Erin Patterson, was found guilty of murdering three of her husband’s relatives and trying to kill a fourth by serving them deadly mushrooms.
+* 澳大利亚妇女艾琳·帕特森（ Erin Patterson ）因谋杀丈夫的三名亲属并试图通过提供致命的蘑菇杀死第四名亲属而被判有罪。
+* Volunteers and priests rallied to clean up Kyiv’s Dormition Cathedral, still smelling of smoke from a massive blaze, for an anniversary celebration.
+* 志愿者和牧师聚集在一起，清理基辅的宿舍大教堂，仍然闻到大火的烟味，以庆祝周年纪念日。
+* Africans have turned to one of their own for fuel as the world’s supplies run low. But they are not the only ones with the continent’s richest man on speed dial.
+* 在世界供应不足的情况下，非洲人转而使用自己的燃料。但他们并不是唯一拥有非洲大陆首富快速拨号的人。
+* Poems, essays and books written by working-class writers have garnered recognition in recent years — as well as increasing government attention.
+* 近年来，工人阶级作家写的诗歌、散文和书籍得到了人们的认可，也得到了政府越来越多的关注。
 * In a picturesque village, the mayor closed a road, setting off a storm with residents and the owners of a castle that once belonged to his family.
 * 在一个风景如画的村庄里，市长封锁了一条道路，与居民和一座曾经属于他家人的城堡的主人掀起了一场风暴。
-* Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?
-* 加拿大正在寻求一项协议，以躲避特朗普政府在周二午夜手中的进一步经济痛苦。但代价是什么呢？
-* Ayatollah Mojtaba Khamenei’s appointment of hard-line loyalists to top jobs suggests he is prepared to keep the country on a war footing and to quash domestic dissent.
-* 阿亚图拉·莫伊塔巴·哈梅内伊（ Ayatollah Mojtaba Khamenei ）任命强硬的忠诚者担任最高职位，这表明他准备让国家处于战争状态并平息国内异议。
-* President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea. But under Mr. Kim, the North has become increasingly belligerent toward the South.
-* 特朗普总统希望减少与韩国的军事演习，称他们对朝鲜怀有敌意。但在金正恩的领导下，朝鲜对韩国越来越好战。
-* Ukrainian drone teams have a powerful new tool: near real-time information on troop movements and locations.
-* 乌克兰无人机团队有一个强大的新工具：关于部队移动和位置的近实时信息。
-* China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.
-* 中国出口的不仅仅是人工智能模型。它希望其数据能够影响世界的聊天机器人，这引发了人们对北京的叙述将随着技术传播的担忧。
+* A day after President Trump’s envoy, Jared Kushner, visited Israel to advance a stalled plan for demilitarizing and rebuilding Gaza, the Israeli military said it targeted Hamas commanders.
+* 在特朗普总统特使贾里德·库什纳（ Jared Kushner ）访问以色列推进一项停滞不前的加沙非军事化和重建计划的第二天，以色列军方表示，它针对的是哈马斯指挥官。
 
 ## New York Times United States News
-* Republicans hold every statewide elected office and have drastically swung voter registration in the state. A newly gerrymandered congressional map has added four Republican-leaning seats.
-* 共和党人掌握着每个州的民选职位，并大幅改变了该州的选民登记。一份新划分的国会地图增加了四个共和党倾向的席位。
-* Dan Sullivan, a retired schoolteacher from tiny Petersburg, Alaska, shares a name with the incumbent senator he hopes to defeat. Is he a spoiler trying to divide the Republican vote? We traveled to Alaska to find out.
-* 来自阿拉斯加州小彼得堡的退休教师丹·沙利文（ Dan Sullivan ）与他希望击败的现任参议员分享了一个名字。他是一个试图分裂共和党选票的破坏者吗？我们前往阿拉斯加了解情况。
-* An early glimpse of a pivotal Senate race, heated primaries on a newly redrawn congressional map, and a special election to replace Eric Swalwell will be in the spotlight on Tuesday.
-* 参议院关键竞选的早期一瞥，新重新绘制的国会地图上的激烈初选，以及取代埃里克·斯沃尔韦尔的特别选举将在周二成为焦点。
-* The politician behind Texas’ conservative overhaul of higher education is now running a university system. Some say his effort to ferret out forbidden topics is a dystopian academic nightmare.
-* 德克萨斯州保守派高等教育改革背后的政治家现在正在运行一个大学系统。有人说，他寻找禁忌话题的努力是一场反乌托邦的学术噩梦。
-* Prosecutors led by Jeanine Pirro, the U.S. attorney in Washington, argued that Melissa Farris posed a flight risk and asked the court to reverse its decision.
-* 由华盛顿的美国检察官珍妮·皮罗（ Jeanine Pirro ）领导的检察官辩称，梅丽莎·法里斯（ Melissa Farris ）构成了飞行风险，并要求法院撤销其决定。
-* The top elections official in Shasta County offered a job to Ms. Peters, a Trump supporter who was convicted of tampering with voting machines in Colorado.
-* 沙斯塔县的最高选举官员向特朗普的支持者彼得斯女士提供了一份工作，她因篡改科罗拉多州的投票机而被定罪。
-* The appearance for Representative Zach Nunn was another departure from previous norms for the defense secretary, whose predecessors kept a greater distance from politics.
-* 众议员扎克·纳恩（ Zach Nunn ）的出现再次背离了国防部长以前的规范，他的前任与政治保持着更大的距离。
-* Major Watson characterized the war in Iran as an act of American aggression and compared the U.S. military actions to Russia’s invasion of Ukraine.
-* 沃森少校将伊朗战争描述为美国的侵略行为，并将美国的军事行动与俄罗斯入侵乌克兰进行了比较。
-* The Department of Homeland Security said there would be an investigation. But so far little has been disclosed about the killing last month.
-* 国土安全部表示将进行调查。但到目前为止，有关上个月杀戮事件的披露很少。
-* Representative Jimmy Gomez of California acknowledged “personal mistakes” outside his marriage but denied breaking rules that bar relationships with a direct subordinate.
-* 加利福尼亚州众议员吉米·戈麦斯（ Jimmy Gomez ）承认在婚姻之外犯了“个人错误” ，但否认违反了禁止与直接下属建立关系的规则。
+* Guo Degang, one of the country’s best-known comedians, was reported to the authorities, as the arts continue to be a focus for ideological crackdowns.
+* 该国最着名的喜剧演员之一郭德刚被报告给当局，因为艺术仍然是意识形态镇压的焦点。
+* State Representative Angie Nixon scored a stunning upset on Tuesday in Florida’s Democratic Senate primary. Now comes the hard part: running as a progressive firebrand in a red state.
+* 周二，佛罗里达州众议员安吉·尼克松(Angie Nixon)在佛罗里达州的民主党参议院初选中表现出现在是困难的部分：在红色状态下作为一个渐进的煽动者运行。
+* The man accused of setting the blaze that later turned deadly in the Pacific Palisades is now readying for a new prosecution after a previous effort in June failed.
+* 这名被控纵火的男子后来在太平洋帕利塞德（ Pacific Palisades ）致命，在6月份的努力失败后，现在正准备进行新的起诉。
+* Byron Donalds, a three-term congressman who won the state’s Republican primary on Tuesday, endorsed President Trump over his own governor, Ron DeSantis. The payoff has been huge.
+* 周二赢得该州共和党初选的三届国会议员拜伦·唐纳兹（ Byron Donalds ）支持特朗普总统，而不是他自己的州长罗恩·德桑蒂斯（ Ron DeSantis ）。回报是巨大的。
+* Tom Begich, a former Democratic legislator and singer-songwriter, will be one of four candidates on the ranked-choice ballot for governor in November.
+* 前民主党立法者和创作歌手汤姆·贝吉奇（ Tom Begich ）将成为11月州长排名选票上的四名候选人之一。
+* Jonathan Kreiss-Tomkins, a former state legislator from Sitka, Alaska, will be one of four candidates on the ranked-choice voting ballot in November.
+* 来自阿拉斯加锡特卡的前州议员乔纳森·克赖斯-汤姆金斯（ Jonathan Kreiss-Tomkins ）将成为11月排名投票的四名候选人之一。
+* The Democratic former congresswoman and the incumbent Republican senator will face off in November. Whether a potential spoiler candidate with the same name as the senator qualifies alongside them has not been determined.
+* 民主党前女议员和现任共和党参议员将在11月对峙。与参议员同名的潜在破坏者候选人是否符合资格尚未确定。
+* State Representative Angie Nixon, a progressive firebrand, defeated a moderate who dramatically out-raised her with grass-roots enthusiasm. Can it carry her to victory in November?
+* 国家众议员安吉·尼克松（ Angie Nixon ）是一位进步的煽动者，他击败了一位温和派，后者以基层的热情大大超过了她。它能把她带到11月的胜利吗？
+* The Alaska Native, who grew up along the Kuskokwim River near the Bering Sea and fished for salmon, is the leading Democrat in the nonpartisan primary race.
+* 阿拉斯加原住民在白令海附近的Kuskokwim河沿岸长大，捕捞鲑鱼，是无党派初选的主要民主党人。
+* The incumbent Republican has been a reliable supporter of President Trump, giving Democrats a pickup opportunity in a state where most are politically unaffiliated.
+* 现任共和党人一直是特朗普总统的可靠支持者，给民主党人提供了一个在大多数人没有政治派别的州的接机机会。
 
 ## New York Times Asia News
+* Poems, essays and books written by working-class writers have garnered recognition in recent years — as well as increasing government attention.
+* 近年来，工人阶级作家写的诗歌、散文和书籍得到了人们的认可，也得到了政府越来越多的关注。
+* Unitree is the second major Chinese technology company linked to the country’s artificial intelligence boom to surge following its initial public offering in the past month.
+* Unitree是继上个月首次公开募股后，与中国人工智能热潮有关的第二家中国大型科技公司。
+* Saudi Arabia and the United Arab Emirates are seeking larger oil reserves in Japan and South Korea as regional conflict threatens supply routes.
+* 由于地区冲突威胁到供应路线，沙特阿拉伯和阿联酋正在日本和韩国寻求更大的石油储备。
 * Beijing wants to portray today’s China as carrying forward Zhu Rongji’s era of growth, but for many Chinese, the optimism of that time has since faded.
 * 北京希望将今天的中国描绘成朱镕基增长时代的延续，但对许多中国人来说，那个时代的乐观情绪已经消退。
 * Meena Geltink and Minal Tijssen were adopted from India by families in the Netherlands and grew up less than 100 miles apart.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 上个月发生6.8级地震后，日本避免了一场重大灾难。我们的记者阿基拉·戴维斯（ River Akira Davis ）参观了震中附近的熊本县，了解该县如何建造防震建筑和基础设施。
 * China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.
 * 中国出口的不仅仅是人工智能模型。它希望其数据能够影响世界的聊天机器人，这引发了人们对北京的叙述将随着技术传播的担忧。
-* In a social media post, the president scolded South Korea for not helping denuclearize Iran, and also praised North Korea and its leader.
-* 在一篇社交媒体帖子中，总统斥责韩国没有帮助伊朗实现无核化，并赞扬了朝鲜及其领导人。
-* Civil war and military rule have weakened Myanmar’s health care system, while heavy monsoon rains have increased the risk of waterborne disease.
-* 内战和军事统治削弱了缅甸的医疗保健系统，而季风暴雨增加了水传播疾病的风险。
-* Widespread online abuse and visits from the police show the added risks women take standing up for their beliefs in a patriarchal society.
-* 广泛存在的在线虐待和警方的访问表明，女性在父权制社会中为自己的信仰挺身而出的风险更大。
 
