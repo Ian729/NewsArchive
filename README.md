@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* In a rare interview, the onetime political outcast reflects on her route from “the uncomfortable side of history” to the threshold of leading Italy’s most durable postwar government.
-* 在一次罕见的采访中，这位曾经的政治弃儿反思了她从“历史上不舒服的一面”走向领导意大利最持久的战后政府的道路。
+* Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.
+* 加拿大总理放弃了他认为与美国的糟糕贸易协议。许多加拿大人都支持他，但这将是代价高昂的。
+* When two British historians, Tom Holland and Dominic Sandbrook, began the show, neither anticipated it would become the top history podcast in the English-speaking world.
+* 当两位英国历史学家汤姆·霍兰德（ Tom Holland ）和多米尼克·桑德布鲁克（ Dominic Sandbrook ）开始这个节目时，他们都没有预料到它将成为英语世界的顶级历史播客。
+* Many Italians see themselves in Andrea Bajani’s latest novel, a portrayal of the family as a “little totalitarian system” shaped by psychological and physical violence.
+* 许多意大利人在安德烈·巴贾尼（ Andrea Bajani ）的最新小说中看到了自己，这部小说将家庭描绘成一个由心理和身体暴力塑造的“小极权主义系统”。
+* One effect of moving back is that Archie and Lilibet now have the opportunity to be schooled as Britons. Here’s what that might look like.
+* 搬回去的一个效果是， Archie和Lilibet现在有机会接受英国人的教育。这可能是看起来的样子。
+* President Joseph Aoun took office with a popular mandate to reassert control after the militant group dragged the country back into war with Israel.
+* 在激进组织将该国拖回与以色列的战争之后，约瑟夫·奥恩总统上任，其任务是恢复控制权。
+* The diplomat, John Coale, says his personalized approach gets results and matches the president’s style. Critics contend he is giving up too much to an authoritarian leader.
+* 外交官约翰·科尔（ John Coale ）表示，他的个性化方法取得了成果，并与总统的风格相匹配。批评人士认为，他对威权主义领导人放弃得太多了。
+* Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect.
+* 由于马克·卡尼(Mark Carney)暂停会谈，为避免特朗普政府征收新关税而进行的紧张谈判陷入僵局。美国对加拿大的关税和对美国的报复性关税将生效。
+* Osaka? Fukuoka? Sapporo? The race is on to be second to Tokyo — and to claim the prestige and money that could come with it.
+* 大阪？福冈？札幌？这场比赛将成为仅次于东京的第二场比赛—并获得随之而来的声望和金钱。
+* After U.S. prosecutors accused Gov. Rubén Rocha Moya of protecting the Sinaloa cartel, he said he would step down to focus on his defense. On Friday, he declared he was back and faced much criticism.
+* 在美国检察官指控州长鲁本·罗查·莫亚（ Rubén Rocha Moya ）保护锡那罗亚卡特尔后，他说他将辞职，专注于自己的辩护。周五，他宣布他回来了，面临着很多批评。
 * Rescue teams no longer enter the city of Lyman, in eastern Ukraine, because it is deemed too dangerous. The only way out is a terrifying journey on foot.
 * 救援队伍不再进入乌克兰东部的莱曼市，因为它被认为太危险了。唯一的出路就是徒步可怕的旅程。
-* British regulators are investigating Al-Khair Foundation after U.S. prosecutors accused a man affiliated with the group of funding terrorism.
-* 在美国检察官指控一名与资助恐怖主义组织有关联的男子后，英国监管机构正在对Al-Khair基金会进行调查。
-* The couple lost their publicly funded security after deciding to leave Britain in 2020, deepening their split with the royal family.
-* 这对夫妇在决定于2020年离开英国后失去了他们的公共资助担保，加深了他们与王室的分裂。
-* Mohammad Bagher Ghalibaf, lead negotiator in talks with the United States, made the comments after President Trump vowed an “economic D-Day” against Iran.
-* 在与美国会谈的首席谈判代表穆罕默德·巴盖尔·加里巴夫（ Mohammad Bagher Ghalibaf ）在特朗普总统发誓要对伊朗进行“经济D日”之后发表了上述言论。
-* Ebola virus, hantavirus and the pathogen that causes Covid-19 likely jumped from animals to humans. So do these viruses — and scientists say climate change is speeding their spread.
-* 埃博拉病毒、汉坦病毒和导致新冠肺炎的病原体可能从动物传播到人类。这些病毒也是如此--科学家们说，气候变化正在加速它们的传播。
-* The new government of Peter Magyar hoped to use the suite overlooking the Danube as evidence of an autocrat’s indulgence. The trappings fell short.
-* 彼得·马扎尔（ Peter Magyar ）的新政府希望利用俯瞰多瑙河的套房作为独裁者放纵的证据。装饰不够。
-* Japan had tried to dissuade the U.S. from imposing sanctions on Tomoko Akane, president of the International Criminal Court, but the White House pressed ahead.
-* 日本曾试图劝阻美国不要对国际刑事法院院长茜智子(Tomoko Akane)实施制裁，但白宫继续推进。
-* Experts worry that the conflict in Iran and other regional dynamics are setting the stage for a Somali pirates’ comeback.
-* 专家们担心，伊朗冲突和其他区域动态正在为索马里海盗卷土重来奠定基础。
-* Paul Biya, 93, had been in Switzerland since early June. The prolonged absence stirred questions about his health and plans for succession.
-* 93岁的保罗·比亚（ Paul Biya ）自6月初以来一直在瑞士。长期缺席引发了对他的健康和继任计划的质疑。
 
 ## New York Times United States News
-* Samuel Tunick, who faces a felony charge for deleting his phone’s data during an airport customs search, called the government’s peering into people’s private lives “creepy.”
-* 塞缪尔·图尼克（ Samuel Tunick ）因在机场海关搜查期间删除手机数据而面临重罪指控，他称政府监视人们的私人生活“令人毛骨悚然”。
-* The longevity guru intensely monitors his diet and health. At a dinner party, he was asked about his quest for immortality. There was silence.
-* 这位长寿大师密切关注他的饮食和健康状况。在一次宴会上，他被问及对不朽的追求。一片寂静。
-* The federal government has slowed Harvard’s funding, despite the university’s legal victories. The conflict is forcing hard choices on campus.
-* 尽管哈佛大学在法律上取得了胜利，但联邦政府还是放慢了对哈佛大学的资助。冲突迫使校园做出艰难的选择。
-* Florida counted most of its primary ballots within hours on Tuesday night, well ahead of the days California took to report the results of its major election.
-* 周二晚上，佛罗里达州在几个小时内统计了大部分初选选票，远远早于加利福尼亚州报告其主要选举结果的时间。
-* President Trump’s former personal lawyer tried to revisit the past in a radio interview. But this was not exactly a stroll down memory lane.
-* 特朗普总统的前私人律师试图在电台采访中重温过去。但这并不是一条回忆之路。
-* The transportation secretary’s six-part YouTube series is fueling ethical concerns over family adventures funded in large part by corporate sponsors regulated by his department.
-* 这位交通部长的六集YouTube系列节目引发了人们对家庭冒险的道德担忧，家庭冒险主要由他的部门监管的企业赞助商资助。
-* A foreign policy specialist, she was politically savvy and well versed in global issues, and traveled widely with her husband, Henry A. Kissinger, on his diplomatic missions.
-* 作为一名外交政策专家，她精通政治，精通全球问题，并与丈夫亨利· A ·基辛格（ Henry A. Kissinger ）一起进行了广泛的外交旅行。
-* Aisha Wahab, a Democratic state senator in California, will fill out the term of Eric Swalwell, who resigned from the House amid accusations of sexual misconduct.
-* 加利福尼亚州民主党参议员艾莎·瓦哈卜（ Aisha Wahab ）将填补埃里克·斯沃尔韦尔（ Eric Swalwell ）的任期，后者因被指控性行为不端而辞去众议院职务。
-* The department opened a criminal investigation after a couple said they were shocked with a stun gun and beaten during the Aug. 5 encounter.
-* 在一对夫妇说他们在8月5日的遭遇中被电击枪震惊并被殴打后，该部门展开了刑事调查。
-* Human rights experts have said that the U.S. attempts to squeeze Cuba’s economy, including an oil blockade, have caused a severe humanitarian crisis.
-* 人权专家表示，美国试图挤压古巴经济，包括石油封锁，已经造成了严重的人道主义危机。
+* Race preparations have snarled traffic, rerouted flights and forced the National Gallery of Art to conduct vibration tests.
+* 比赛准备工作堵塞了交通，改变了航班路线，迫使国家美术馆进行振动测试。
+* Text exchanges obtained by reporters show troubling messages sent by the chief of a Mississippi police department facing an uproar over the fatal shooting of a 1-year-old boy in June.
+* 记者获得的短信交流显示，密西西比州警察局局长因6月份一名1岁男孩被枪杀而哗然，发出了令人不安的信息。
+* Angie Nixon, a state lawmaker from Jacksonville, shocked Democrats in red Florida by soundly defeating her centrist primary opponent. Now comes the hard part.
+* 来自杰克逊维尔的州议员安吉·尼克松（ Angie Nixon ）彻底击败了她的中间派主要对手，震惊了佛罗里达州的民主党人。现在是困难的部分。
+* Like so many others before them, Prince Harry and Meghan arrived in Hollywood with big plans. They are leaving with their star power fading.
+* 像他们之前的许多人一样，哈里王子和梅根带着宏伟的计划来到好莱坞。他们的星辰力量正在褪色。
+* The devices, which will make it easier for authorities to locate immigrants in Springfield if large-scale deportations begin, have intensified a sense of dread.
+* 如果大规模驱逐开始，这些装置将使当局更容易在斯普林菲尔德找到移民，这加剧了一种恐惧感。
+* Bad polls. Misleading betting odds. Surveys meant to shape narratives. Ahead of the midterms and 2028, there is suddenly serious confusion about candidate strength and voter sentiment.
+* 糟糕的民意调查。误导性的投注赔率。调查旨在塑造叙事。在中期和2028年之前，候选人的力量和选民情绪突然出现了严重的混乱。
+* As Republicans have embraced tough measures to clear the streets, no group has led the way more than the Cicero Institute, founded by the venture capitalist Joe Lonsdale.
+* 随着共和党人采取强硬措施清理街道，没有哪个团体比风险投资家乔·朗斯代尔（ Joe Lonsdale ）创立的西塞罗研究所（ Cicero Institute ）更具领导力。
+* She is being tried on murder charges for killing her three young children. The tragedy has resurrected debates over whether such women are criminals or victims.
+* 她因杀害三个年幼的孩子而受到谋杀指控的审判。这场悲剧再次引发了关于这些妇女是罪犯还是受害者的争论。
+* President Trump was in South Carolina to stump for Darline Graham, sister of Lindsey. But his own political future was on his mind, too.
+* 特朗普总统在南卡罗来纳州为林赛的妹妹达琳·格雷厄姆（ Darline Graham ）树桩。但他自己的政治前途也在他的脑海中。
+* The plan complies with President Trump’s executive order to restrict mail voting, which was blocked by federal courts and is under review at the Supreme Court.
+* 该计划符合特朗普总统限制邮件投票的行政命令，该命令被联邦法院阻止，正在接受最高法院的审查。
 
 ## New York Times Asia News
+* A fraud case, in which dozens of grooms showed up for a wedding that never materialized, is an extreme example of scamming in a marriage industry long prone to it.
+* 在一起欺诈案件中，数十名新郎参加了一场从未实现的婚礼，这是婚姻行业长期存在的骗局的一个极端例子。
+* Osaka? Fukuoka? Sapporo? The race is on to be second to Tokyo — and to claim the prestige and money that could come with it.
+* 大阪？福冈？札幌？这场比赛将成为仅次于东京的第二场比赛—并获得随之而来的声望和金钱。
+* The 26-year-old received a yearlong sentence from a court on the Indonesian resort island after he flouted a sacred Hindu ritual and insulted it on Instagram.
+* 这名26岁的男子在印度尼西亚度假岛的一家法院被判处一年徒刑，原因是他在Instagram上蔑视一项神圣的印度教仪式并侮辱了这项仪式。
+* The structures will go up in West Potomac Park, the site of President Trump’s planned National Garden of American Heroes.
+* 这些建筑将建在西波托马克公园（ West Potomac Park ） ，这是特朗普总统计划的美国英雄国家花园（ National Garden of American Heroes ）
+* China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars, an issue that has led to lawsuits against Tesla in the United States.
+* 在车辆乘客有时难以退出电动汽车之后，中国的监管机构下令进行变更，这一问题已导致特斯拉在美国提起诉讼。
+* Facing pressure in the United States and Europe, Shein is struggling to find new ways to grow ahead of its much-delayed initial public offering.
+* 面对美国和欧洲的压力， Shein在推迟已久的首次公开募股之前，正在努力寻找新的增长方式。
+* Beijing can squeeze U.S. critical mineral supplies and has enough oil to withstand the loss of Iranian crude, Chinese analysts say.
+* 中国分析师表示，北京可以挤压美国关键的矿产供应，并有足够的石油来承受伊朗原油的损失。
 * Japan had tried to dissuade the U.S. from imposing sanctions on Tomoko Akane, president of the International Criminal Court, but the White House pressed ahead.
 * 日本曾试图劝阻美国不要对国际刑事法院院长茜智子(Tomoko Akane)实施制裁，但白宫继续推进。
 * The former prime minister of Pakistan, who was convicted on corruption charges, has been fighting a legal battle over his medical treatment.
 * 这位因腐败指控而被定罪的巴基斯坦前总理一直在为他的医疗进行法律斗争。
 * U Min Zin, a scholar who studied Myanmar, is one of two U.S. citizens the department has designated as wrongfully detained in China.
 * 研究缅甸的学者U Min Zin是该部门指定为在中国被非法拘留的两名美国公民之一。
-* President Trump appeared to suggest that the United States would impose economic penalties on countries that do business with Iran, though he did not specify what actions he would take.
-* 特朗普总统似乎暗示，美国将对与伊朗做生意的国家实施经济惩罚，但他没有具体说明他将采取什么行动。
-* President Trump’s decision to curtail the military exercises came as allies question the U.S. commitment to longstanding alliances.
-* 特朗普总统决定限制军事演习之际，盟国对美国对长期联盟的承诺提出质疑。
-* In the fast-growing field of data annotation, workers in a small city in south India train A.I. to improve how it performs tasks traditionally done by people.
-* 在快速增长的数据注释领域，印度南部一个小城市的工人对AI进行培训，以改善其执行传统上由人们完成的任务的方式。
-* In India, some people are strapping cameras to their bodies to collect data on how humans move and train A.I.
-* 在印度，一些人正在将摄像头绑在身体上，以收集有关人类如何移动和训练人工智能的数据。
-* The Iran war has slashed transit traffic at Middle Eastern airports, creating opportunities for hubs in Asia and beyond — at least for now.
-* 伊朗战争削减了中东机场的过境交通，为亚洲及其他地区的枢纽创造了机会--至少目前是这样。
-* Hui Ka Yan’s punishment caps the downfall of a property empire whose collapse set off a prolonged crisis in the Chinese economy.
-* Hui Ka Yan的惩罚限制了一个房地产帝国的垮台，这个帝国的崩溃引发了中国经济的长期危机。
-* With its pixelated visuals, “The Bull is Coming” is being celebrated for its authenticity in the age of A.I. and is shaping up to be a Gen Z cult classic.
-* “The Bull is Coming”以其像素化的视觉效果在人工智能时代以其真实性而闻名，并正在成为Z世代的经典之作。
 
