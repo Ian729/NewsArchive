@@ -2,48 +2,48 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.
-* 加拿大总理放弃了他认为与美国的糟糕贸易协议。许多加拿大人都支持他，但这将是代价高昂的。
-* When two British historians, Tom Holland and Dominic Sandbrook, began the show, neither anticipated it would become the top history podcast in the English-speaking world.
-* 当两位英国历史学家汤姆·霍兰德（ Tom Holland ）和多米尼克·桑德布鲁克（ Dominic Sandbrook ）开始这个节目时，他们都没有预料到它将成为英语世界的顶级历史播客。
+* With cheers, endorsements and insults for rivals and “wokismo,” a new crop of right-wing leaders are openly stepping into one another’s elections.
+* 伴随着对对手和“wokismo”的欢呼、支持和侮辱，一批新的右翼领导人正在公开介入彼此的选举。
+* The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.
+* 欧洲加密货币交易所的神秘崩溃有助于解释为什么该行业没有摆脱其作为犯罪分子磁铁的声誉。
+* They took on topics as diverse as fall of the Aztecs, the French Revolution, the assassination of Abraham Lincoln, and history’s greatest monkeys. The rest is history.
+* 他们讨论了各种各样的话题，如阿兹特克人的沦陷、法国大革命、亚伯拉罕·林肯的暗杀，以及历史上最伟大的猴子。剩下的就是历史。
+* Buoys, dog muzzles, capes, national flags and “base metal statuettes” from Canada are now more expensive for U.S. shoppers.
+* 对于美国购物者来说，加拿大的浮标、狗嘴、斗篷、国旗和“贱金属雕像”现在更加昂贵。
+* Bad harvests and attacks on trade passages threaten to drive food prices higher.
+* 糟糕的收成和对贸易通道的攻击有可能推高粮食价格。
+* Canada suspended trade negotiations, triggering President Trump’s 50 percent tariffs on a range of Canadian goods. Mark Carney said he would retaliate “dollar for dollar.”
+* 加拿大暂停了贸易谈判，引发了特朗普总统对一系列加拿大商品征收50%的关税。马克·卡尼（ Mark Carney ）表示，他将“以美元换美元”进行报复。
+* Rubén Rocha Moya of Sinaloa reversed course a day after returning to office, amid widespread criticism, including from members of his own party.
+* 锡那罗亚的鲁本·罗查·莫亚（ Rubén Rocha Moya ）上任一天后，在包括他所在政党成员在内的广泛批评中改变了方向。
+* Prime Minister Mark Carney gave a powerful speech to Canadians on Saturday morning, hours after ordering negotiators to suspend U.S. trade talks despite President Trump’s punishing tariffs.
+* 周六早上，加拿大总理马克·卡尼(Mark Carney)向加拿大人发表了强有力的讲话，此前几个小时，他命令谈判代表暂停美国贸易谈判，尽管特朗普总统征收了惩罚性关税。
 * Many Italians see themselves in Andrea Bajani’s latest novel, a portrayal of the family as a “little totalitarian system” shaped by psychological and physical violence.
 * 许多意大利人在安德烈·巴贾尼（ Andrea Bajani ）的最新小说中看到了自己，这部小说将家庭描绘成一个由心理和身体暴力塑造的“小极权主义系统”。
 * One effect of moving back is that Archie and Lilibet now have the opportunity to be schooled as Britons. Here’s what that might look like.
 * 搬回去的一个效果是， Archie和Lilibet现在有机会接受英国人的教育。这可能是看起来的样子。
-* President Joseph Aoun took office with a popular mandate to reassert control after the militant group dragged the country back into war with Israel.
-* 在激进组织将该国拖回与以色列的战争之后，约瑟夫·奥恩总统上任，其任务是恢复控制权。
-* The diplomat, John Coale, says his personalized approach gets results and matches the president’s style. Critics contend he is giving up too much to an authoritarian leader.
-* 外交官约翰·科尔（ John Coale ）表示，他的个性化方法取得了成果，并与总统的风格相匹配。批评人士认为，他对威权主义领导人放弃得太多了。
-* Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect.
-* 由于马克·卡尼(Mark Carney)暂停会谈，为避免特朗普政府征收新关税而进行的紧张谈判陷入僵局。美国对加拿大的关税和对美国的报复性关税将生效。
-* Osaka? Fukuoka? Sapporo? The race is on to be second to Tokyo — and to claim the prestige and money that could come with it.
-* 大阪？福冈？札幌？这场比赛将成为仅次于东京的第二场比赛—并获得随之而来的声望和金钱。
-* After U.S. prosecutors accused Gov. Rubén Rocha Moya of protecting the Sinaloa cartel, he said he would step down to focus on his defense. On Friday, he declared he was back and faced much criticism.
-* 在美国检察官指控州长鲁本·罗查·莫亚（ Rubén Rocha Moya ）保护锡那罗亚卡特尔后，他说他将辞职，专注于自己的辩护。周五，他宣布他回来了，面临着很多批评。
-* Rescue teams no longer enter the city of Lyman, in eastern Ukraine, because it is deemed too dangerous. The only way out is a terrifying journey on foot.
-* 救援队伍不再进入乌克兰东部的莱曼市，因为它被认为太危险了。唯一的出路就是徒步可怕的旅程。
 
 ## New York Times United States News
-* Race preparations have snarled traffic, rerouted flights and forced the National Gallery of Art to conduct vibration tests.
-* 比赛准备工作堵塞了交通，改变了航班路线，迫使国家美术馆进行振动测试。
-* Text exchanges obtained by reporters show troubling messages sent by the chief of a Mississippi police department facing an uproar over the fatal shooting of a 1-year-old boy in June.
-* 记者获得的短信交流显示，密西西比州警察局局长因6月份一名1岁男孩被枪杀而哗然，发出了令人不安的信息。
-* Angie Nixon, a state lawmaker from Jacksonville, shocked Democrats in red Florida by soundly defeating her centrist primary opponent. Now comes the hard part.
-* 来自杰克逊维尔的州议员安吉·尼克松（ Angie Nixon ）彻底击败了她的中间派主要对手，震惊了佛罗里达州的民主党人。现在是困难的部分。
-* Like so many others before them, Prince Harry and Meghan arrived in Hollywood with big plans. They are leaving with their star power fading.
-* 像他们之前的许多人一样，哈里王子和梅根带着宏伟的计划来到好莱坞。他们的星辰力量正在褪色。
-* The devices, which will make it easier for authorities to locate immigrants in Springfield if large-scale deportations begin, have intensified a sense of dread.
-* 如果大规模驱逐开始，这些装置将使当局更容易在斯普林菲尔德找到移民，这加剧了一种恐惧感。
-* Bad polls. Misleading betting odds. Surveys meant to shape narratives. Ahead of the midterms and 2028, there is suddenly serious confusion about candidate strength and voter sentiment.
-* 糟糕的民意调查。误导性的投注赔率。调查旨在塑造叙事。在中期和2028年之前，候选人的力量和选民情绪突然出现了严重的混乱。
-* As Republicans have embraced tough measures to clear the streets, no group has led the way more than the Cicero Institute, founded by the venture capitalist Joe Lonsdale.
-* 随着共和党人采取强硬措施清理街道，没有哪个团体比风险投资家乔·朗斯代尔（ Joe Lonsdale ）创立的西塞罗研究所（ Cicero Institute ）更具领导力。
-* She is being tried on murder charges for killing her three young children. The tragedy has resurrected debates over whether such women are criminals or victims.
-* 她因杀害三个年幼的孩子而受到谋杀指控的审判。这场悲剧再次引发了关于这些妇女是罪犯还是受害者的争论。
-* President Trump was in South Carolina to stump for Darline Graham, sister of Lindsey. But his own political future was on his mind, too.
-* 特朗普总统在南卡罗来纳州为林赛的妹妹达琳·格雷厄姆（ Darline Graham ）树桩。但他自己的政治前途也在他的脑海中。
-* The plan complies with President Trump’s executive order to restrict mail voting, which was blocked by federal courts and is under review at the Supreme Court.
-* 该计划符合特朗普总统限制邮件投票的行政命令，该命令被联邦法院阻止，正在接受最高法院的审查。
+* President Trump’s son-in-law and the man in line to be speaker of a Democratic-led House discussed how Democrats and the administration could work together.
+* 特朗普总统的女婿和即将成为民主党领导的众议院议长的人讨论了民主党和政府如何合作。
+* With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them.
+* 随着对中间派的反对越来越多，许多民主党人和越来越多的共和党人正在竞选反对他们。
+* With an unpopular war and high prices agitating voters, members of both parties see parallels to an election cycle when Democrats romped. But a lot has changed.
+* 随着一场不受欢迎的战争和高昂的价格激怒了选民，两党成员都看到了与民主党人竞选时的选举周期相似之处。但很多事情都发生了变化。
+* Decades ago, the state won funding for a massive Colorado River project by agreeing to be first in line for cuts at a time of deep drought. The Trump administration says that time has come.
+* 几十年前，该州同意在深度干旱时期率先减排，从而为一个大型科罗拉多河项目赢得了资金。特朗普政府表示，时机已经到来。
+* A governor’s race, a Senate contest and enough congressional contests to swing control of the House are all in play in Ohio, where voters of all stripes express a deep sense of powerlessness.
+* 州长竞选、参议院竞选和足够多的国会竞选来摆动对众议院的控制，都在俄亥俄州发挥作用，在那里，各种各样的选民都表达了深深的无能为力感。
+* Frustrated with the government’s slow effort to improve Nashville’s public transit infrastructure, a group of residents has taken bus stop seating into their own hands.
+* 一群居民对政府改善纳什维尔公共交通基础设施的缓慢努力感到沮丧，他们将公交车站的座位掌握在自己手中。
+* The officers are accused of beating a couple and shocking them with a stun gun during an unreported traffic stop this month.
+* 这些警察被指控在本月未报告的交通停车期间殴打一对夫妇并用电击枪电击他们。
+* Caroline Kennedy and her family sold more than 330 acres of coastal land on Martha’s Vineyard to conservation groups. It comes with some caveats.
+* Caroline Kennedy和她的家人将Martha's Vineyard的330多英亩沿海土地出售给了保护组织。它带有一些注意事项。
+* A video appears to show a U.S. Postal Service worker striking a beloved all-white peacock named Sugar in a Pasadena, Calif., neighborhood.
+* 一段视频似乎显示，一名美国邮政服务工作人员在加利福尼亚州帕萨迪纳的一个街区罢工一只名叫Sugar的全白孔雀。
+* Kyle William Spitze was part of an online extremist movement that coerces young people to do self-harm, officials said. Two of his victims died by suicide.
+* 官员说，凯尔·威廉·斯皮策（ Kyle William Spitze ）是强迫年轻人自残的在线极端主义运动的一部分。他的两名受害者死于自杀。
 
 ## New York Times Asia News
 * A fraud case, in which dozens of grooms showed up for a wedding that never materialized, is an extreme example of scamming in a marriage industry long prone to it.
