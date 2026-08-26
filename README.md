@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.
-* 谈判最后几个小时的详细说明表明，虽然美国向加拿大提供了它认为是任何国家中最好的交易，但加拿大不得不放弃的交易被认为是不可想象的。
+* Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs.
+* 加拿大表示，对从铝箔到洗碗机再到鱼类的商品征收更高的关税，将有助于保护受到特朗普新关税伤害的工人、生产商和制造商。
 * Experts warn that a campaign aimed at avoiding military escalation could instead provoke it, as Iranian leaders vow retaliation across the oil-rich Gulf.
 * 专家警告说，随着伊朗领导人誓言在石油资源丰富的海湾地区进行报复，旨在避免军事升级的行动可能会引发冲突。
-* Evacuated foreign service officers could begin heading back to their posts as early as this week, an internal document shows, suggesting Washington does not anticipate a renewal of full-scale conflict with Iran.
-* 一份内部文件显示，撤离的外交官员最早可能在本周开始返回岗位，这表明华盛顿预计不会恢复与伊朗的全面冲突。
-* Ukraine pleaded for the expensive weapons, and ultimately got them, but drones have rendered them almost unusable.
-* 乌克兰恳求获得昂贵的武器，并最终获得了它们，但无人机使它们几乎无法使用。
 * Artemis Ghasemzadeh, who had escaped religious persecution, was deported to Panama under Trump’s immigration crackdown. Now, Canada has given her asylum.
 * 逃离宗教迫害的Artemis Ghasemzadeh在特朗普的移民镇压下被驱逐到巴拿马。现在，加拿大已给予她庇护。
-* Australia confirmed its first case of H5N1 in June in migratory seabirds. Since then, the virus has spread rapidly, straining government responses.
-* 今年6月，澳大利亚确认了首例洄游海鸟感染H5N1的病例。从那时起，病毒迅速传播，使政府反应紧张。
-* Gao Zhen, part of a brotherly duo famous for satirical artworks, was convicted of slandering one of China’s heroes after a secret one-day trial.
-* 高震是以讽刺艺术作品闻名的兄弟二人组的一员，在一天的秘密审判后因诽谤中国英雄之一而被定罪。
-* Under new rules, recordings developed using generative A.I. will only be allowed if they are “substantially human-made,” the peak body says.
-* 根据新规则，使用生成式人工智能开发的录音只有在“基本上是人造的”情况下才被允许。
-* An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.
-* 乌克兰官员称，一架搭载英伟达芯片的俄罗斯无人机发动袭击，预示着不受人类束缚的武器的反乌托邦未来。
-* In recent weeks, the police have closed dozens of cafes, often citing laws that stipulate women must veil in public. Experts say the closures are part of an effort to control public space.
-* 最近几周，警方关闭了数十家咖啡馆，经常引用法律规定女性必须在公共场合戴面纱。专家表示，封锁是控制公共空间努力的一部分。
+* Ukraine pleaded for the expensive weapons, and ultimately got them, but drones have rendered them almost unusable.
+* 乌克兰恳求获得昂贵的武器，并最终获得了它们，但无人机使它们几乎无法使用。
+* Videos showed Israeli troops standing by as Zvi Sukkot attacked the monument with a sledgehammer. The military said soldiers had stopped the demolition.
+* 视频显示，当Zvi Sukkot用大锤袭击纪念碑时，以色列军队站在旁边。军方说，士兵们已经停止了拆除行动。
+* Gangs targeted a key community on the outskirts of the capital, raising fears about the gangs’ next move. The mayor said at least 25 people had been killed, but the U.N. put the death toll at 47.
+* 帮派瞄准了首都郊区的一个关键社区，引发了人们对帮派下一步行动的担忧。市长说，至少有25人死亡，但联合国将死亡人数定为47人。
+* The police fired water cannons at protesters in the state of Bihar, while the leaders of the ‘Cockroach’ student movement vowed to return to Delhi’s streets.
+* 警察向比哈尔邦的抗议者发射水炮，而“蟑螂”学生运动的领导人发誓要回到德里的街道。
+* Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.
+* 谈判最后几个小时的详细说明表明，虽然美国向加拿大提供了它认为是任何国家中最好的交易，但加拿大不得不放弃的交易被认为是不可想象的。
+* An uncommonly powerful tornado destroyed dozens of homes and knocked out power to about 2,800 households.
+* 一场异常强大的龙卷风摧毁了数十所房屋，并使大约2800户家庭断电。
+* The move lifted economic sanctions on the country, raising hopes of further recovery after its brutal civil war.
+* 此举解除了对该国的经济制裁，为该国在残酷内战后进一步复苏带来了希望。
 
 ## New York Times United States News
-* A new study shows that N.F.L. players have a high risk for developing degenerative brain disease. Does anyone in your family play football? We want to know your thoughts.
-* 一项新的研究表明， NFL玩家患退行性脑疾病的风险很高。您家里有人踢足球吗？我们希望了解您的想法。
-* Pennsylvania Republicans now view John Fetterman, the state’s Democratic senator, more favorably than its sitting G.O.P. senator, a New York Times/Philadelphia Inquirer/Siena poll found.
-* 《纽约时报》/《费城问询报》/锡耶纳的民意调查发现，宾夕法尼亚州共和党人现在对该州民主党参议员约翰·费特曼（ John Fetterman ）的看法比其现任共和党参议员更为有利。
-* A New York Times/Philadelphia Inquirer/Siena poll found Gov. Josh Shapiro leading Stacy Garrity and having support in the state for a possible presidential bid.
-* 《纽约时报》/《费城问询报》/锡耶纳的一项民意调查发现，州长乔希·夏皮罗（ Josh Shapiro ）领导斯泰西·加里蒂（ Stacy Garrity ） ，并在该州获得了可能竞选总统的支持。
-* Researchers say it’s all about reducing the total number of blows to the head.
-* 研究人员说，这一切都是为了减少对头部的打击总数。
-* President Trump’s endorsement track record is on the line in two races, including the high-profile contest to succeed the late Senator Lindsey Graham.
-* 特朗普总统的代言记录在两场比赛中岌岌可危，其中包括继已故参议员林赛·格雷厄姆（ Lindsey Graham ）之后的高调竞选。
-* New research finds that at least one in four N.F.L. players who died in a six-year period had C.T.E., a degenerative brain disease caused by repeated impacts to the head. Our reporter John Branch unpacks the data and its implications for the sport.
-* 新的研究发现，在六年内死亡的NFL球员中，至少有四分之一患有CTE ，这是一种由头部反复撞击引起的退行性脑部疾病。我们的记者John Branch解析了数据及其对这项运动的影响。
-* A judge exonerated Nancy Smith, an Ohio bus driver, after she was convicted of abusing children in her care. Now, prosecutors want to reverse an order saying she was innocent.
-* 一名法官宣告俄亥俄州公共汽车司机南希·史密斯（ Nancy Smith ）无罪，因为她被判犯有虐待儿童罪。现在，检察官想推翻一项关于她是无辜的命令。
-* “We never see things that are this dire,” a former chief scientist of the agency said about rates of C.T.E. in former players.
-* “我们从未见过这么可怕的事情，”该机构的前首席科学家谈到CTE在前球员中的比率时说。
-* The actual prevalence, researchers said, may be much higher.
-* 研究人员表示，实际患病率可能要高得多。
-* The State Department, in a move that could affect as many as 200,000 visa holders and asylum applicants, has begun its review. Cancellations could occur in waves.
-* 美国国务院此举可能影响多达20万签证持有者和庇护申请人，已开始审查。取消可能会发生在波浪中。
+* After facing low approval ratings and endorsement setbacks, the president made a show of force in lifting Darline Graham to the Republican nomination for Senate in South Carolina.
+* 在面临低支持率和支持率挫折后，总统在将达琳·格雷厄姆（ Darline Graham ）提名为南卡罗来纳州参议院共和党提名人方面展示了力量。
+* Many families are engaged in tense debates after a new study found a high percentage of N.F.L. players had developed degenerative brain disease.
+* 在一项新的研究发现高比例的NFL球员患有退行性脑疾病后，许多家庭正在进行紧张的辩论。
+* A patient was unable to move from the sternum down after a routine knee-replacement operation at a Nashville hospital this month. The hospital said she had been given the wrong anesthetic.
+* 本月在纳什维尔医院进行常规膝关节置换手术后，一名患者无法从胸骨向下移动。医院说她接受了错误的麻醉。
+* The former Democratic-turned-independent senator and his daughter are backing independent bids for the House and the Senate to try to weaken the two-party grip on the Capitol.
+* 这位前民主党独立参议员和他的女儿支持独立竞选众议院和参议院，试图削弱两党对国会大厦的控制。
+* A collision of American popular culture and public health is on display in the N.F.L.
+* 美国流行文化和公共卫生的碰撞在N.F.L.展出。
+* Bernadette Wilson, who has appealed to other Republicans to consolidate around her party’s top finisher, will be one of four finalists on the ranked-choice ballot in November.
+* 伯纳黛特·威尔逊（ Bernadette Wilson ）曾呼吁其他共和党人围绕其党的最高选手进行巩固，她将成为11月排名选票的四名决赛选手之一。
+* A long-shot candidate with the same name as the incumbent Republican senator will be on the ballot in November. That could be a problem for the G.O.P.
+* 与现任共和党参议员同名的长期候选人将于11月参加投票。这可能是G.O.P.的问题。
+* A surrogate refused to have an abortion after the fetus was diagnosed with a serious heart problem. She fled to Texas and had the child. Now she wants a judge to give custody to her instead of the biological parents.
+* 在胎儿被诊断出患有严重的心脏病后，一名代孕母亲拒绝堕胎。她逃到了德克萨斯州，生下了这个孩子。现在，她希望法官将监护权交给她，而不是亲生父母。
+* Mike Mazzei, a former state senator who lent more than $11 million of his own money to his campaign, narrowly defeated the state’s attorney general, Gentner Drummond.
+* 前州参议员迈克·马泽伊（ Mike Mazzei ）从自己的竞选活动中借出了超过1100万美元的$ ，以微弱优势击败了州检察长根特纳·德拉蒙德（ Gentner Drummond ）。
+* President Trump went all in for Senator Darline Graham in a primary runoff on Tuesday. It worked, preserving his undefeated streak in Republican Senate primaries this year.
+* 周二，特朗普总统在初选中全力支持参议员达琳·格雷厄姆(Darline Graham)。它奏效了，保持了他今年在共和党参议院初选中的不败纪录。
 
 ## New York Times Asia News
+* A wall of water swept down a Himalayan river valley shared between Nepal and the Chinese territory of Tibet.
+* 一堵水墙横扫尼泊尔和中国领土西藏之间的喜马拉雅河谷。
+* The fire broke out on the third floor of Islamabad’s largest hospital.
+* 伊斯兰堡最大的医院三楼发生火灾。
+* The National Museum of Korean Democracy, which opened last year, documents an era of brutal suppression. But that dark history has resurfaced in troubling ways.
+* 去年开放的韩国民主博物馆记录了一个残酷镇压的时代。但这段黑暗的历史以令人不安的方式重新浮出水面。
+* A thriving ‘conflict economy’ is extracting minerals while the military and armed groups inflict abuse on civilians, according to a new report on the scale of recent violence in Myanmar.
+* 根据一份关于缅甸近期暴力规模的新报告，一个蓬勃发展的“冲突经济”正在开采矿物，而军队和武装团体则对平民施加虐待。
+* The police fired water cannons at protesters in the state of Bihar, while the leaders of the ‘Cockroach’ student movement vowed to return to Delhi’s streets.
+* 警察向比哈尔邦的抗议者发射水炮，而“蟑螂”学生运动的领导人发誓要回到德里的街道。
+* The Trump administration risks a clash with Beijing as it tries to cut off Iran’s economic lifelines without upending a fragile U.S.-China truce.
+* 特朗普政府冒着与北京发生冲突的风险，因为它试图在不破坏脆弱的美中休战的情况下切断伊朗的经济生命线。
 * Gao Zhen, part of a brotherly duo famous for satirical artworks, was convicted of slandering one of China’s heroes after a secret one-day trial.
 * 高震是以讽刺艺术作品闻名的兄弟二人组的一员，在一天的秘密审判后因诽谤中国英雄之一而被定罪。
 * China’s humanoid robots are achieving superhuman feats of athleticism. But how that translates into the real world is still an open question, experts said.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 韩国表示，取消这一备受瞩目的活动的举动已于6月传达。本月早些时候，特朗普总统缩短了另一次联合军事演习。
 * The unusual weather pattern and dried out peatlands, a kind of wetland, have been behind some of the country’s worst fire seasons. This year could be one.
 * 不寻常的天气模式和干燥的泥炭地（一种湿地）一直是该国一些最严重的火灾季节的幕后推手。今年可能就是其中之一。
-* A fraud case, in which dozens of grooms showed up for a wedding that never materialized, is an extreme example of scamming in a marriage industry long prone to it.
-* 在一起欺诈案件中，数十名新郎参加了一场从未实现的婚礼，这是婚姻行业长期存在的骗局的一个极端例子。
-* Osaka? Fukuoka? Sapporo? The race is on to be second to Tokyo — and to claim the prestige and money that could come with it.
-* 大阪？福冈？札幌？这场比赛将成为仅次于东京的第二场比赛—并获得随之而来的声望和金钱。
-* The 26-year-old received a yearlong sentence from a court on the Indonesian resort island after he flouted a sacred Hindu ritual and insulted it on Instagram.
-* 这名26岁的男子在印度尼西亚度假岛的一家法院被判处一年徒刑，原因是他在Instagram上蔑视一项神圣的印度教仪式并侮辱了这项仪式。
-* The structures will go up in West Potomac Park, the site of President Trump’s planned National Garden of American Heroes.
-* 这些建筑将建在西波托马克公园（ West Potomac Park ） ，这是特朗普总统计划的美国英雄国家花园（ National Garden of American Heroes ）
-* China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars, an issue that has led to lawsuits against Tesla in the United States.
-* 在车辆乘客有时难以退出电动汽车之后，中国的监管机构下令进行变更，这一问题已导致特斯拉在美国提起诉讼。
-* Facing pressure in the United States and Europe, Shein is struggling to find new ways to grow ahead of its much-delayed initial public offering.
-* 面对美国和欧洲的压力， Shein在推迟已久的首次公开募股之前，正在努力寻找新的增长方式。
 
