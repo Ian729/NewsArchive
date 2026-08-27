@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs.
-* 加拿大表示，对从铝箔到洗碗机再到鱼类的商品征收更高的关税，将有助于保护受到特朗普新关税伤害的工人、生产商和制造商。
-* Experts warn that a campaign aimed at avoiding military escalation could instead provoke it, as Iranian leaders vow retaliation across the oil-rich Gulf.
-* 专家警告说，随着伊朗领导人誓言在石油资源丰富的海湾地区进行报复，旨在避免军事升级的行动可能会引发冲突。
-* Artemis Ghasemzadeh, who had escaped religious persecution, was deported to Panama under Trump’s immigration crackdown. Now, Canada has given her asylum.
-* 逃离宗教迫害的Artemis Ghasemzadeh在特朗普的移民镇压下被驱逐到巴拿马。现在，加拿大已给予她庇护。
-* Ukraine pleaded for the expensive weapons, and ultimately got them, but drones have rendered them almost unusable.
-* 乌克兰恳求获得昂贵的武器，并最终获得了它们，但无人机使它们几乎无法使用。
-* Videos showed Israeli troops standing by as Zvi Sukkot attacked the monument with a sledgehammer. The military said soldiers had stopped the demolition.
-* 视频显示，当Zvi Sukkot用大锤袭击纪念碑时，以色列军队站在旁边。军方说，士兵们已经停止了拆除行动。
-* Gangs targeted a key community on the outskirts of the capital, raising fears about the gangs’ next move. The mayor said at least 25 people had been killed, but the U.N. put the death toll at 47.
-* 帮派瞄准了首都郊区的一个关键社区，引发了人们对帮派下一步行动的担忧。市长说，至少有25人死亡，但联合国将死亡人数定为47人。
-* The police fired water cannons at protesters in the state of Bihar, while the leaders of the ‘Cockroach’ student movement vowed to return to Delhi’s streets.
-* 警察向比哈尔邦的抗议者发射水炮，而“蟑螂”学生运动的领导人发誓要回到德里的街道。
-* Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.
-* 谈判最后几个小时的详细说明表明，虽然美国向加拿大提供了它认为是任何国家中最好的交易，但加拿大不得不放弃的交易被认为是不可想象的。
-* An uncommonly powerful tornado destroyed dozens of homes and knocked out power to about 2,800 households.
-* 一场异常强大的龙卷风摧毁了数十所房屋，并使大约2800户家庭断电。
-* The move lifted economic sanctions on the country, raising hopes of further recovery after its brutal civil war.
-* 此举解除了对该国的经济制裁，为该国在残酷内战后进一步复苏带来了希望。
+* Officials said hundreds were killed in Nepal and Tibet in a massive flood. Stunned witnesses described a torrent of debris and water carrying away villages in minutes.
+* 有关官员说，尼泊尔和西藏发生大规模洪灾，数百人丧生。震惊的目击者描述了几分钟内带走村庄的碎片和水的洪流。
+* Russian troops are trying to infiltrate the vast, overgrown reservoir basin of a dam they blew up three years ago as Ukrainian soldiers hunt them at close quarters.
+* 俄罗斯军队正试图渗透到三年前乌克兰士兵近距离追捕他们时炸毁的一座大坝的庞大、杂草丛生的水库盆地。
+* Russia is the largest destination for stolen Canadian cars. Smugglers are meeting the demand of a booming black market.
+* 俄罗斯是加拿大汽车被盗的最大目的地。走私者正在满足蓬勃发展的黑市的需求。
+* For decades, Denmark implanted intrauterine devices in women in Greenland in an effort to keep down the island’s population. On Thursday, the government passed a compensation bill.
+* 几十年来，丹麦在格陵兰岛为女性植入宫内节育器，以减少岛上的人口。周四，政府通过了一项赔偿法案。
+* A crackdown on American academia by the Trump administration has handed Canadian universities a rare opportunity to lure some top researchers north.
+* 特朗普政府对美国学术界的镇压给了加拿大大学一个难得的机会来吸引一些顶尖研究人员。
+* Analysts say that weeks of Houthi attacks on Saudi targets have brought the kingdom and the Iranian-backed militia to the brink of full-blown conflict, and could open a new front in the Iran war.
+* 分析人士说，数周来胡塞武装对沙特目标的袭击使沙特王国和伊朗支持的民兵处于全面冲突的边缘，并可能在伊朗战争中开辟新的战线。
+* The former political prisoner Luis Manuel Otero Alcántara is unpacking 4,000 paintings he brought to Miami from Cuba and dodging criticism from exiles who once welcomed him.
+* 前政治犯路易斯·曼努埃尔·奥特罗·阿尔坎塔拉（ Luis Manuel Otero Alcántara ）正在收拾他从古巴带到迈阿密的4000幅画作，并躲避曾经欢迎他的流亡者的批评。
+* Sheikh Mohammed bin Abdulrahman Al Thani has been a key mediator in the conflict, even as his country has blamed Tehran for hundreds of missile and drone attacks.
+* 谢赫穆罕默德·本·阿卜杜勒拉赫曼·阿勒萨尼（ Sheikh Mohammed bin Abdulrahman Al Thani ）一直是冲突的关键调解人，尽管他的国家指责德黑兰发动了数百次导弹和无人机袭击。
+* Years of long-distance division between Prince William and his younger brother will be tested now that Harry has returned to Britain.
+* 现在哈里王子已经回到英国，威廉王子和他的弟弟之间多年的长途分歧将受到考验。
+* Canada’s minister in charge of trade with the U.S. was responding to comments by Jamieson Greer, the U.S. trade representative. But that was before any mention of Lake Ontario.
+* 加拿大负责与美国贸易的部长正在回应美国贸易代表贾米森·格里尔（ Jamieson Greer ）的评论。但这是在提到安大略湖之前。
 
 ## New York Times United States News
-* After facing low approval ratings and endorsement setbacks, the president made a show of force in lifting Darline Graham to the Republican nomination for Senate in South Carolina.
-* 在面临低支持率和支持率挫折后，总统在将达琳·格雷厄姆（ Darline Graham ）提名为南卡罗来纳州参议院共和党提名人方面展示了力量。
-* Many families are engaged in tense debates after a new study found a high percentage of N.F.L. players had developed degenerative brain disease.
-* 在一项新的研究发现高比例的NFL球员患有退行性脑疾病后，许多家庭正在进行紧张的辩论。
-* A patient was unable to move from the sternum down after a routine knee-replacement operation at a Nashville hospital this month. The hospital said she had been given the wrong anesthetic.
-* 本月在纳什维尔医院进行常规膝关节置换手术后，一名患者无法从胸骨向下移动。医院说她接受了错误的麻醉。
-* The former Democratic-turned-independent senator and his daughter are backing independent bids for the House and the Senate to try to weaken the two-party grip on the Capitol.
-* 这位前民主党独立参议员和他的女儿支持独立竞选众议院和参议院，试图削弱两党对国会大厦的控制。
-* A collision of American popular culture and public health is on display in the N.F.L.
-* 美国流行文化和公共卫生的碰撞在N.F.L.展出。
-* Bernadette Wilson, who has appealed to other Republicans to consolidate around her party’s top finisher, will be one of four finalists on the ranked-choice ballot in November.
-* 伯纳黛特·威尔逊（ Bernadette Wilson ）曾呼吁其他共和党人围绕其党的最高选手进行巩固，她将成为11月排名选票的四名决赛选手之一。
-* A long-shot candidate with the same name as the incumbent Republican senator will be on the ballot in November. That could be a problem for the G.O.P.
-* 与现任共和党参议员同名的长期候选人将于11月参加投票。这可能是G.O.P.的问题。
-* A surrogate refused to have an abortion after the fetus was diagnosed with a serious heart problem. She fled to Texas and had the child. Now she wants a judge to give custody to her instead of the biological parents.
-* 在胎儿被诊断出患有严重的心脏病后，一名代孕母亲拒绝堕胎。她逃到了德克萨斯州，生下了这个孩子。现在，她希望法官将监护权交给她，而不是亲生父母。
-* Mike Mazzei, a former state senator who lent more than $11 million of his own money to his campaign, narrowly defeated the state’s attorney general, Gentner Drummond.
-* 前州参议员迈克·马泽伊（ Mike Mazzei ）从自己的竞选活动中借出了超过1100万美元的$ ，以微弱优势击败了州检察长根特纳·德拉蒙德（ Gentner Drummond ）。
-* President Trump went all in for Senator Darline Graham in a primary runoff on Tuesday. It worked, preserving his undefeated streak in Republican Senate primaries this year.
-* 周二，特朗普总统在初选中全力支持参议员达琳·格雷厄姆(Darline Graham)。它奏效了，保持了他今年在共和党参议院初选中的不败纪录。
+* The judge said prosecutors had failed to meet their burden in the case against a deputy charged in the 2025 jailhouse death of an inmate.
+* 法官说，检察官在针对2025年监狱死亡一名囚犯的副手的案件中未能履行他们的负担。
+* Three journalists dismissed from Stars and Stripes accused the government of violating their First Amendment rights, asking the courts to stop their termination.
+* 三名被星条旗解雇的记者指责政府侵犯了他们的第一修正案权利，要求法院停止终止他们的合同。
+* The relative indifference to the news that the U.S. government now owes $40 trillion demonstrates how drastically the politics of deficit spending has changed.
+* 对美国政府现在欠款40万亿美元的消息相对漠不关心，这表明赤字支出的政治已经发生了多么巨大的变化。
+* The top Democrats will gather party donors on Sept. 10, just as Republicans converge in Texas for their unusual midterm convention.
+* 最高民主党人将于9月10日聚集党内捐助者，就像共和党人聚集在德克萨斯州举行不寻常的中期大会一样。
+* The president also reiterated his criticism that Canada “treats us very badly.” Trade talks between the nations collapsed last week.
+* 总统还重申了他的批评，即加拿大“对我们非常糟糕。上周，两国之间的贸易谈判破裂。
+* John Ratcliffe’s meeting this week with a Russian intelligence chief was aimed at pushing the Kremlin to pursue a peace deal with Ukraine.
+* 约翰·拉特克利夫（ John Ratcliffe ）本周与俄罗斯情报部门负责人会面，旨在推动克里姆林宫与乌克兰达成和平协议。
+* A charity tied to Gov. Ron DeSantis’s wife received the money from a state Medicaid settlement and diverted it to political committees supporting a cause favored by the governor.
+* 与州长罗恩·德桑蒂斯（ Ron DeSantis ）的妻子有关的一个慈善机构从州医疗补助解决方案中收到了这笔钱，并将其转移到支持州长青睐的事业的政治委员会。
+* Two recent studies say judges are not doing enough to protect the public interest in openness.
+* 最近的两项研究表明，法官在保护开放的公共利益方面做得还不够。
+* Flights to the Caribbean nation will increase from once a month to once a week now that the Supreme Court allowed President Trump to cancel a humanitarian program.
+* 由于最高法院允许特朗普总统取消人道主义计划，前往加勒比国家的航班将从每月一次增加到每周一次。
+* Many Republicans are hoping for financial support from President Trump, whose fund-raising power in the party remains unmatched despite his low poll numbers.
+* 许多共和党人希望得到特朗普总统的财政支持，尽管他的民意调查数字很低，但他在党内的筹款能力仍然无与伦比。
 
 ## New York Times Asia News
-* A wall of water swept down a Himalayan river valley shared between Nepal and the Chinese territory of Tibet.
-* 一堵水墙横扫尼泊尔和中国领土西藏之间的喜马拉雅河谷。
-* The fire broke out on the third floor of Islamabad’s largest hospital.
-* 伊斯兰堡最大的医院三楼发生火灾。
-* The National Museum of Korean Democracy, which opened last year, documents an era of brutal suppression. But that dark history has resurfaced in troubling ways.
-* 去年开放的韩国民主博物馆记录了一个残酷镇压的时代。但这段黑暗的历史以令人不安的方式重新浮出水面。
-* A thriving ‘conflict economy’ is extracting minerals while the military and armed groups inflict abuse on civilians, according to a new report on the scale of recent violence in Myanmar.
-* 根据一份关于缅甸近期暴力规模的新报告，一个蓬勃发展的“冲突经济”正在开采矿物，而军队和武装团体则对平民施加虐待。
-* The police fired water cannons at protesters in the state of Bihar, while the leaders of the ‘Cockroach’ student movement vowed to return to Delhi’s streets.
-* 警察向比哈尔邦的抗议者发射水炮，而“蟑螂”学生运动的领导人发誓要回到德里的街道。
-* The Trump administration risks a clash with Beijing as it tries to cut off Iran’s economic lifelines without upending a fragile U.S.-China truce.
-* 特朗普政府冒着与北京发生冲突的风险，因为它试图在不破坏脆弱的美中休战的情况下切断伊朗的经济生命线。
-* Gao Zhen, part of a brotherly duo famous for satirical artworks, was convicted of slandering one of China’s heroes after a secret one-day trial.
-* 高震是以讽刺艺术作品闻名的兄弟二人组的一员，在一天的秘密审判后因诽谤中国英雄之一而被定罪。
-* China’s humanoid robots are achieving superhuman feats of athleticism. But how that translates into the real world is still an open question, experts said.
-* 中国的人形机器人正在实现超人的运动能力。但专家表示，如何将其转化为现实世界仍然是一个悬而未决的问题。
-* The move to call off the high-profile event was communicated in June, South Korea said. President Trump shortened another joint military exercise earlier this month.
-* 韩国表示，取消这一备受瞩目的活动的举动已于6月传达。本月早些时候，特朗普总统缩短了另一次联合军事演习。
-* The unusual weather pattern and dried out peatlands, a kind of wetland, have been behind some of the country’s worst fire seasons. This year could be one.
-* 不寻常的天气模式和干燥的泥炭地（一种湿地）一直是该国一些最严重的火灾季节的幕后推手。今年可能就是其中之一。
+* Twenty-five miles of roads were erased, stranding a quarter of a million Nepalis and knocking out phone and power lines.
+* 25英里的道路被抹去， 25万尼泊尔人搁浅，电话和电线中断。
+* The collapse of part of a mountain created a flash flood of a scale and speed no one had imagined, survivors said. Hundreds died, at least, and many more are missing.
+* 幸存者说，一座山的一部分倒塌造成了无人想象的规模和速度的山洪暴发。至少有数百人死亡，还有更多人失踪。
+* For decades, Denmark implanted intrauterine devices in women in Greenland in an effort to keep down the island’s population. On Thursday, the government passed a compensation bill.
+* 几十年来，丹麦在格陵兰岛为女性植入宫内节育器，以减少岛上的人口。周四，政府通过了一项赔偿法案。
+* Scientists and disaster response researchers said Nepal’s early flood warning system relied on a conventional network of river gauges in this remote region.
+* 科学家和灾害响应研究人员表示，尼泊尔的洪水预警系统依赖于这个偏远地区的传统河流测量网络。
+* New satellite imagery added to scientists’ understanding of the events that precipitated the deadly flooding in Nepal and Tibet.
+* 新的卫星图像增加了科学家对尼泊尔和西藏引发致命洪水的事件的理解。
+* Artists, scholars and fans celebrated Ms. Kusama as a cultural giant who helped bring Japanese art to the masses.
+* 艺术家、学者和粉丝们称赞草间女士是一位文化巨人，帮助将日本艺术带给大众。
+* Survivors described the terrifying speed and power of the “boulders, sand and thick sludge” that killed hundreds and wiped out villages on the border between Nepal and Tibet.
+* 幸存者描述了“巨石，沙子和厚厚的污泥”的可怕速度和力量，这些“巨石，沙子和厚厚的污泥”造成数百人死亡，并摧毁了尼泊尔和西藏边境的村庄。
+* The largest contingent appears to have been pilgrims traveling between Nepal and a sacred site in the Chinese region of Tibet.
+* 最大的队伍似乎是在尼泊尔和中国西藏地区的一个圣地之间旅行的朝圣者。
+* The deadly Himalayan torrent damaged roads and dozens of bridges. The devastation was impeding the search for survivors and relief deliveries, aid groups said.
+* 致命的喜马拉雅洪流破坏了道路和数十座桥梁。援助组织表示，这场灾难阻碍了搜寻幸存者和救援物资的工作。
+* Videos of the disaster, which tore through the border area between Tibet and Nepal, have been removed from social media by China’s censors.
+* 这场灾难的视频撕裂了西藏和尼泊尔之间的边境地区，已被中国的审查机构从社交媒体上删除。
 
