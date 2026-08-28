@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Officials said hundreds were killed in Nepal and Tibet in a massive flood. Stunned witnesses described a torrent of debris and water carrying away villages in minutes.
-* 有关官员说，尼泊尔和西藏发生大规模洪灾，数百人丧生。震惊的目击者描述了几分钟内带走村庄的碎片和水的洪流。
-* Russian troops are trying to infiltrate the vast, overgrown reservoir basin of a dam they blew up three years ago as Ukrainian soldiers hunt them at close quarters.
-* 俄罗斯军队正试图渗透到三年前乌克兰士兵近距离追捕他们时炸毁的一座大坝的庞大、杂草丛生的水库盆地。
-* Russia is the largest destination for stolen Canadian cars. Smugglers are meeting the demand of a booming black market.
-* 俄罗斯是加拿大汽车被盗的最大目的地。走私者正在满足蓬勃发展的黑市的需求。
-* For decades, Denmark implanted intrauterine devices in women in Greenland in an effort to keep down the island’s population. On Thursday, the government passed a compensation bill.
-* 几十年来，丹麦在格陵兰岛为女性植入宫内节育器，以减少岛上的人口。周四，政府通过了一项赔偿法案。
-* A crackdown on American academia by the Trump administration has handed Canadian universities a rare opportunity to lure some top researchers north.
-* 特朗普政府对美国学术界的镇压给了加拿大大学一个难得的机会来吸引一些顶尖研究人员。
-* Analysts say that weeks of Houthi attacks on Saudi targets have brought the kingdom and the Iranian-backed militia to the brink of full-blown conflict, and could open a new front in the Iran war.
-* 分析人士说，数周来胡塞武装对沙特目标的袭击使沙特王国和伊朗支持的民兵处于全面冲突的边缘，并可能在伊朗战争中开辟新的战线。
-* The former political prisoner Luis Manuel Otero Alcántara is unpacking 4,000 paintings he brought to Miami from Cuba and dodging criticism from exiles who once welcomed him.
-* 前政治犯路易斯·曼努埃尔·奥特罗·阿尔坎塔拉（ Luis Manuel Otero Alcántara ）正在收拾他从古巴带到迈阿密的4000幅画作，并躲避曾经欢迎他的流亡者的批评。
-* Sheikh Mohammed bin Abdulrahman Al Thani has been a key mediator in the conflict, even as his country has blamed Tehran for hundreds of missile and drone attacks.
-* 谢赫穆罕默德·本·阿卜杜勒拉赫曼·阿勒萨尼（ Sheikh Mohammed bin Abdulrahman Al Thani ）一直是冲突的关键调解人，尽管他的国家指责德黑兰发动了数百次导弹和无人机袭击。
-* Years of long-distance division between Prince William and his younger brother will be tested now that Harry has returned to Britain.
-* 现在哈里王子已经回到英国，威廉王子和他的弟弟之间多年的长途分歧将受到考验。
-* Canada’s minister in charge of trade with the U.S. was responding to comments by Jamieson Greer, the U.S. trade representative. But that was before any mention of Lake Ontario.
-* 加拿大负责与美国贸易的部长正在回应美国贸易代表贾米森·格里尔（ Jamieson Greer ）的评论。但这是在提到安大略湖之前。
+* A spokeswoman for the Nepali disaster relief agency said the tally grew to 1,900 after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new flooding.
+* 尼泊尔救灾机构的一位发言人表示，在水电项目报告约900人失踪后，这一数字增至1,900人。由于担心新的洪水，救援工作变得更加复杂。
+* The Taliban have banned education for millions of Afghan girls. Times journalists examined classrooms where students, teachers and parents continue to resist by defying the rules.
+* 塔利班禁止数百万阿富汗女孩接受教育。《泰晤士报》记者检查了学生、教师和家长继续违抗规则的教室。
+* Iranians have become increasingly desperate, as they grapple with an economic crisis made worse by the conflict and grow increasingly skeptical about President Trump’s motives.
+* 伊朗人越来越绝望，因为他们正在努力应对因冲突而恶化的经济危机，并且对特朗普总统的动机越来越怀疑。
+* The announcement has sent panic through a community that fled its country’s brutal military rule, civil war, religious persecution or some combination of the three.
+* 这一宣布在一个逃离该国残酷的军事统治、内战、宗教迫害或三者兼而有之的社区引发了恐慌。
+* Trump’s replacement of a military war with a heightened economic one is not expected to alter Iran’s strategy, while further impoverishing its people.
+* 预计特朗普以加剧的经济战争取代军事战争不会改变伊朗的战略，同时进一步使伊朗人民陷入贫困。
+* Given the challenges in forecasting and detecting such calamities, researchers advised banning construction on floodplains and marking out clear evacuation routes.
+* 鉴于预测和检测此类灾难的挑战，研究人员建议禁止在洪泛平原上施工，并标出明确的疏散路线。
+* There is little sign that public exhaustion, economic headwinds or increased Ukrainian strikes are changing the Russian leader’s view that he will eventually achieve victory.
+* 几乎没有迹象表明，公众疲惫、经济逆风或乌克兰罢工加剧正在改变这位俄罗斯领导人的看法，即他最终将取得胜利。
+* Crown Prince Haakon, the only son of King Harald V, will become monarch, a largely ceremonial and symbolic role.
+* 哈拉尔五世国王的独生子哈康王储将成为君主，这在很大程度上是一个礼仪和象征性的角色。
+* The usually genial country has been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.
+* 这个通常和蔼可亲的国家在本周末就是否加入欧盟进行投票时一直存在激烈分歧。
+* Tourists still flock to the picturesque 16th-century Dunguaire Castle on Galway Bay. But in recent years, a dispute over ownership has prevented visitors from entering.
+* 游客仍然涌向戈尔韦湾（ Galway Bay ）风景如画的16世纪邓瓜埃尔城堡（ Dunguaire Castle ）。但近年来，由于所有权纠纷，游客无法进入。
 
 ## New York Times United States News
-* The judge said prosecutors had failed to meet their burden in the case against a deputy charged in the 2025 jailhouse death of an inmate.
-* 法官说，检察官在针对2025年监狱死亡一名囚犯的副手的案件中未能履行他们的负担。
-* Three journalists dismissed from Stars and Stripes accused the government of violating their First Amendment rights, asking the courts to stop their termination.
-* 三名被星条旗解雇的记者指责政府侵犯了他们的第一修正案权利，要求法院停止终止他们的合同。
-* The relative indifference to the news that the U.S. government now owes $40 trillion demonstrates how drastically the politics of deficit spending has changed.
-* 对美国政府现在欠款40万亿美元的消息相对漠不关心，这表明赤字支出的政治已经发生了多么巨大的变化。
-* The top Democrats will gather party donors on Sept. 10, just as Republicans converge in Texas for their unusual midterm convention.
-* 最高民主党人将于9月10日聚集党内捐助者，就像共和党人聚集在德克萨斯州举行不寻常的中期大会一样。
-* The president also reiterated his criticism that Canada “treats us very badly.” Trade talks between the nations collapsed last week.
-* 总统还重申了他的批评，即加拿大“对我们非常糟糕。上周，两国之间的贸易谈判破裂。
-* John Ratcliffe’s meeting this week with a Russian intelligence chief was aimed at pushing the Kremlin to pursue a peace deal with Ukraine.
-* 约翰·拉特克利夫（ John Ratcliffe ）本周与俄罗斯情报部门负责人会面，旨在推动克里姆林宫与乌克兰达成和平协议。
-* A charity tied to Gov. Ron DeSantis’s wife received the money from a state Medicaid settlement and diverted it to political committees supporting a cause favored by the governor.
-* 与州长罗恩·德桑蒂斯（ Ron DeSantis ）的妻子有关的一个慈善机构从州医疗补助解决方案中收到了这笔钱，并将其转移到支持州长青睐的事业的政治委员会。
-* Two recent studies say judges are not doing enough to protect the public interest in openness.
-* 最近的两项研究表明，法官在保护开放的公共利益方面做得还不够。
-* Flights to the Caribbean nation will increase from once a month to once a week now that the Supreme Court allowed President Trump to cancel a humanitarian program.
-* 由于最高法院允许特朗普总统取消人道主义计划，前往加勒比国家的航班将从每月一次增加到每周一次。
-* Many Republicans are hoping for financial support from President Trump, whose fund-raising power in the party remains unmatched despite his low poll numbers.
-* 许多共和党人希望得到特朗普总统的财政支持，尽管他的民意调查数字很低，但他在党内的筹款能力仍然无与伦比。
+* Mr. Yiannopoulos, a prominent early supporter of President Trump, was detained at the New Orleans airport. The Trump administration publicized his arrest and shared a mug shot.
+* 特朗普总统的早期知名支持者扬诺普洛斯在新奥尔良机场被拘留。特朗普政府公布了他被捕的消息，并分享了一张面部照片。
+* His obsession with remaking Washington might hurt his party politically.
+* 他对重塑华盛顿的痴迷可能会在政治上伤害他的政党。
+* The Postal Service appealed an emergency decision from Thursday that blocked it from changing its procedures for mail-in voting ahead of the upcoming midterm elections.
+* 邮政局周四对一项紧急决定提出上诉，该决定阻止其在即将举行的中期选举之前改变其邮寄投票程序。
+* The proposed land swap would allow easy access to the crown jewel of the national park system. Democrats and former Park Service officials are incensed.
+* 拟议的土地交换将使人们能够轻松获得国家公园系统的皇冠上的宝石。民主党人和前公园管理局官员被激怒了。
+* President Trump issued an executive order barring transgender service members from the military as part of a broader attack on transgender rights.
+* 作为对跨性别权利的更广泛攻击的一部分，特朗普总统发布了一项行政命令，禁止军队中的跨性别服务人员。
+* And, of course, pickles at the State Fair.
+* 当然，还有州博览会上的泡菜。
+* The death of the man after a confrontation with National Guard troops is under investigation. An autopsy by a medical examiner shows that he was shot in the back and declared it a homicide.
+* 这名男子在与国民警卫队发生冲突后死亡的事件正在调查中。验尸官的尸检显示，他背部中弹，并宣布这是一起凶杀案。
+* President Trump presented the Congressional Space Medal of Honor to the Artemis II crew, which took a journey around the moon.
+* 特朗普总统向环绕月球旅行的阿尔忒弥斯二号船员颁发了国会太空荣誉勋章。
+* A Fourth Circuit panel ordered the case to be dismissed, citing a new Supreme Court ruling limiting the ability of foreign citizens to sue in U.S. court.
+* 第四巡回法庭下令驳回此案，理由是最高法院的一项新裁决限制了外国公民在美国法院提起诉讼的能力。
+* A chemical disaster in Washington in May involved a tank that had been deemed at risk of failure nearly a year before, according to federal investigators.
+* 据联邦调查人员称， 5月份在华盛顿发生的化学灾难涉及一辆坦克，该坦克被认为近一年前有失败的风险。
 
 ## New York Times Asia News
-* Twenty-five miles of roads were erased, stranding a quarter of a million Nepalis and knocking out phone and power lines.
-* 25英里的道路被抹去， 25万尼泊尔人搁浅，电话和电线中断。
-* The collapse of part of a mountain created a flash flood of a scale and speed no one had imagined, survivors said. Hundreds died, at least, and many more are missing.
-* 幸存者说，一座山的一部分倒塌造成了无人想象的规模和速度的山洪暴发。至少有数百人死亡，还有更多人失踪。
-* For decades, Denmark implanted intrauterine devices in women in Greenland in an effort to keep down the island’s population. On Thursday, the government passed a compensation bill.
-* 几十年来，丹麦在格陵兰岛为女性植入宫内节育器，以减少岛上的人口。周四，政府通过了一项赔偿法案。
-* Scientists and disaster response researchers said Nepal’s early flood warning system relied on a conventional network of river gauges in this remote region.
-* 科学家和灾害响应研究人员表示，尼泊尔的洪水预警系统依赖于这个偏远地区的传统河流测量网络。
-* New satellite imagery added to scientists’ understanding of the events that precipitated the deadly flooding in Nepal and Tibet.
-* 新的卫星图像增加了科学家对尼泊尔和西藏引发致命洪水的事件的理解。
-* Artists, scholars and fans celebrated Ms. Kusama as a cultural giant who helped bring Japanese art to the masses.
-* 艺术家、学者和粉丝们称赞草间女士是一位文化巨人，帮助将日本艺术带给大众。
-* Survivors described the terrifying speed and power of the “boulders, sand and thick sludge” that killed hundreds and wiped out villages on the border between Nepal and Tibet.
-* 幸存者描述了“巨石，沙子和厚厚的污泥”的可怕速度和力量，这些“巨石，沙子和厚厚的污泥”造成数百人死亡，并摧毁了尼泊尔和西藏边境的村庄。
-* The largest contingent appears to have been pilgrims traveling between Nepal and a sacred site in the Chinese region of Tibet.
-* 最大的队伍似乎是在尼泊尔和中国西藏地区的一个圣地之间旅行的朝圣者。
-* The deadly Himalayan torrent damaged roads and dozens of bridges. The devastation was impeding the search for survivors and relief deliveries, aid groups said.
-* 致命的喜马拉雅洪流破坏了道路和数十座桥梁。援助组织表示，这场灾难阻碍了搜寻幸存者和救援物资的工作。
-* Videos of the disaster, which tore through the border area between Tibet and Nepal, have been removed from social media by China’s censors.
-* 这场灾难的视频撕裂了西藏和尼泊尔之间的边境地区，已被中国的审查机构从社交媒体上删除。
+* Exclusive videos verified by The New York Times show the clearest view yet of the avalanche in northern Nepal near Tibet that sent a wall of water and mud coursing through river valleys below.
+* 《纽约时报》核实的独家视频显示了尼泊尔北部西藏附近最清晰的雪崩景象，这场雪崩导致一堵水墙和泥浆穿过下面的河谷。
+* A leading Chinese A.I. start-up released its latest model and made the case that China’s embrace of open software is safer than Silicon Valley’s closed approach.
+* 一家中国领先的人工智能初创企业发布了其最新模型，并证明中国对开放软件的拥抱比硅谷的封闭式方法更安全。
+* China’s leader, Xi Jinping, issued his first message to Nepal’s government  since the landslide on Wednesday that has left hundreds dead near the countries’ border.
+* 自周三发生山体滑坡以来，中国领导人习近平首次向尼泊尔政府发出信息。山体滑坡导致数百人在两国边境附近丧生。
+* The peak is revered by Hindus, Buddhists, Jains and those belonging to the pre-Buddhist Bon religion.
+* 山峰受到印度教徒、佛教徒、耆那教徒和那些属于佛教前Bon宗教的人的尊敬。
+* 
+* 
+* Given the challenges in forecasting and detecting such calamities, researchers advised banning construction on floodplains and marking out clear evacuation routes.
+* 鉴于预测和检测此类灾难的挑战，研究人员建议禁止在洪泛平原上施工，并标出明确的疏散路线。
+* The announcement has sent panic through a community that fled its country’s brutal military rule, civil war, religious persecution or some combination of the three.
+* 这一宣布在一个逃离该国残酷的军事统治、内战、宗教迫害或三者兼而有之的社区引发了恐慌。
+* The Taliban have banned education for millions of Afghan girls. Times journalists examined classrooms where students, teachers and parents continue to resist by defying the rules.
+* 塔利班禁止数百万阿富汗女孩接受教育。《泰晤士报》记者检查了学生、教师和家长继续违抗规则的教室。
+* Under Taliban rule, Afghan girls are officially barred from receiving an education beyond the sixth grade. Across the country, however, clandestine classrooms have emerged to defy the ban. Our Afghanistan and Pakistan bureau chief, Elian Peltier, visited one of these covert schools to meet the young women determined to learn.
+* 在塔利班统治下，阿富汗女孩被正式禁止接受六年级以上的教育。然而，在全国各地，秘密教室已经出现，以抵制禁令。我们的阿富汗和巴基斯坦局局长埃利安·珀尔帖（ Elian Peltier ）参观了其中一所秘密学校，与决心学习的年轻女性见面。
+* 
+* 
 
