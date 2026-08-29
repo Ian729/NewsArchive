@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* A spokeswoman for the Nepali disaster relief agency said the tally grew to 1,900 after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new flooding.
-* 尼泊尔救灾机构的一位发言人表示，在水电项目报告约900人失踪后，这一数字增至1,900人。由于担心新的洪水，救援工作变得更加复杂。
+* As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.
+* 随着救援工作进入第四天，破坏的规模成为焦点，标志着这个脆弱国家的艰巨复苏。
+* The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said.
+* 总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）说，位于基辅附近平民区的仓库“绝对不应该在那里”。
+* The U.S.-Canada trade war has galvanized Canadians behind their prime minister’s decision to walk away from negotiations. What happens when the time comes for talks to restart?
+* 美加贸易战激起了加拿大人对其总理放弃谈判的决定的支持。重新开始谈判的时候会发生什么？
+* The Nordic nation is holding a referendum on Saturday on whether to start membership talks with the European Union. Voters are divided.
+* 这个北欧国家将于周六举行公投，决定是否与欧盟开始成员国谈判。选民分裂。
+* In a year of globe-trotting, the Indian prime minister has secured deals around the world as the United States becomes less dependable.
+* 在环球旅行的一年里，随着美国的可靠性降低，印度总理在全球范围内达成了协议。
+* Israel’s strike on a Syrian base to pre-empt the feared deployment of Turkish forces was part of a growing competition in the Middle East and beyond.
+* 以色列对叙利亚基地的袭击是为了先发制人地阻止土耳其军队的部署，这是中东及其他地区日益激烈的竞争的一部分。
 * The Taliban have banned education for millions of Afghan girls. Times journalists examined classrooms where students, teachers and parents continue to resist by defying the rules.
 * 塔利班禁止数百万阿富汗女孩接受教育。《泰晤士报》记者检查了学生、教师和家长继续违抗规则的教室。
-* Iranians have become increasingly desperate, as they grapple with an economic crisis made worse by the conflict and grow increasingly skeptical about President Trump’s motives.
-* 伊朗人越来越绝望，因为他们正在努力应对因冲突而恶化的经济危机，并且对特朗普总统的动机越来越怀疑。
+* A few years ago, some feared the European Union was going out of style. Now Iceland is mulling membership alongside a long list of candidates.
+* 几年前，有些人担心欧盟会过时。现在，冰岛正在考虑加入一长串候选人名单。
 * The announcement has sent panic through a community that fled its country’s brutal military rule, civil war, religious persecution or some combination of the three.
 * 这一宣布在一个逃离该国残酷的军事统治、内战、宗教迫害或三者兼而有之的社区引发了恐慌。
 * Trump’s replacement of a military war with a heightened economic one is not expected to alter Iran’s strategy, while further impoverishing its people.
 * 预计特朗普以加剧的经济战争取代军事战争不会改变伊朗的战略，同时进一步使伊朗人民陷入贫困。
-* Given the challenges in forecasting and detecting such calamities, researchers advised banning construction on floodplains and marking out clear evacuation routes.
-* 鉴于预测和检测此类灾难的挑战，研究人员建议禁止在洪泛平原上施工，并标出明确的疏散路线。
-* There is little sign that public exhaustion, economic headwinds or increased Ukrainian strikes are changing the Russian leader’s view that he will eventually achieve victory.
-* 几乎没有迹象表明，公众疲惫、经济逆风或乌克兰罢工加剧正在改变这位俄罗斯领导人的看法，即他最终将取得胜利。
-* Crown Prince Haakon, the only son of King Harald V, will become monarch, a largely ceremonial and symbolic role.
-* 哈拉尔五世国王的独生子哈康王储将成为君主，这在很大程度上是一个礼仪和象征性的角色。
-* The usually genial country has been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.
-* 这个通常和蔼可亲的国家在本周末就是否加入欧盟进行投票时一直存在激烈分歧。
-* Tourists still flock to the picturesque 16th-century Dunguaire Castle on Galway Bay. But in recent years, a dispute over ownership has prevented visitors from entering.
-* 游客仍然涌向戈尔韦湾（ Galway Bay ）风景如画的16世纪邓瓜埃尔城堡（ Dunguaire Castle ）。但近年来，由于所有权纠纷，游客无法进入。
 
 ## New York Times United States News
-* Mr. Yiannopoulos, a prominent early supporter of President Trump, was detained at the New Orleans airport. The Trump administration publicized his arrest and shared a mug shot.
-* 特朗普总统的早期知名支持者扬诺普洛斯在新奥尔良机场被拘留。特朗普政府公布了他被捕的消息，并分享了一张面部照片。
-* His obsession with remaking Washington might hurt his party politically.
-* 他对重塑华盛顿的痴迷可能会在政治上伤害他的政党。
-* The Postal Service appealed an emergency decision from Thursday that blocked it from changing its procedures for mail-in voting ahead of the upcoming midterm elections.
-* 邮政局周四对一项紧急决定提出上诉，该决定阻止其在即将举行的中期选举之前改变其邮寄投票程序。
-* The proposed land swap would allow easy access to the crown jewel of the national park system. Democrats and former Park Service officials are incensed.
-* 拟议的土地交换将使人们能够轻松获得国家公园系统的皇冠上的宝石。民主党人和前公园管理局官员被激怒了。
-* President Trump issued an executive order barring transgender service members from the military as part of a broader attack on transgender rights.
-* 作为对跨性别权利的更广泛攻击的一部分，特朗普总统发布了一项行政命令，禁止军队中的跨性别服务人员。
-* And, of course, pickles at the State Fair.
-* 当然，还有州博览会上的泡菜。
-* The death of the man after a confrontation with National Guard troops is under investigation. An autopsy by a medical examiner shows that he was shot in the back and declared it a homicide.
-* 这名男子在与国民警卫队发生冲突后死亡的事件正在调查中。验尸官的尸检显示，他背部中弹，并宣布这是一起凶杀案。
-* President Trump presented the Congressional Space Medal of Honor to the Artemis II crew, which took a journey around the moon.
-* 特朗普总统向环绕月球旅行的阿尔忒弥斯二号船员颁发了国会太空荣誉勋章。
-* A Fourth Circuit panel ordered the case to be dismissed, citing a new Supreme Court ruling limiting the ability of foreign citizens to sue in U.S. court.
-* 第四巡回法庭下令驳回此案，理由是最高法院的一项新裁决限制了外国公民在美国法院提起诉讼的能力。
-* A chemical disaster in Washington in May involved a tank that had been deemed at risk of failure nearly a year before, according to federal investigators.
-* 据联邦调查人员称， 5月份在华盛顿发生的化学灾难涉及一辆坦克，该坦克被认为近一年前有失败的风险。
+* Gabriel Perez had access to the president’s speeches before they were delivered and was accused of placing unlawful wagers on words that would be spoken.
+* 加布里埃尔·佩雷斯（ Gabriel Perez ）在总统发表讲话之前就已经获得了这些讲话，并被指控对将要说的话进行非法赌注。
+* The second-place finisher in a primary where the top four advance to the November ballot said he would drop out of the race so voters could coalesce behind a single Democratic candidate.
+* 这位初选的第二名选手表示，他将退出竞选，以便选民可以团结在一位民主党候选人身后。
+* Candidates’ attacks are focused on illegal immigration, faith and stock trading.
+* 候选人的攻击重点是非法移民、信仰和股票交易。
+* Dolly Parton was an advocate for her L.G.B.T.Q. fans. She also understood them, a meaningful bond in places where such recognition was hard to find.
+* 多莉·帕顿（ Dolly Parton ）是她的LGBTQ粉丝的拥护者。她也理解他们，在很难找到这种认可的地方，这是一种有意义的联系。
+* To win in 2024, the president promised an economic course correction. Almost two years later, his agenda has made that fight even harder.
+* 为了在2024年获胜，总统承诺进行经济调整。将近两年后，他的议程使这场斗争变得更加艰难。
+* A privacy measure for immigration aid workers became a free speech cause for backers of Nick Shirley, a right-wing YouTube star. Democrats say the furor is fueled by misinformation.
+* 一项针对移民援助工作者的隐私措施成为右翼YouTube明星尼克·雪莉（ Nick Shirley ）支持者的言论自由事业。民主党人说，这种愤怒是由错误信息引发的。
+* Senator Jon Ossoff, the youngest sitting senator and the only Democrat seeking re-election this year in a state President Trump won in 2024, hasn’t moderated his message in his critical race.
+* 参议员乔恩·奥索夫（ Jon Ossoff ）是最年轻的现任参议员，也是今年唯一一位在2024年特朗普总统获胜的州寻求连任的民主党人，他在批评性的竞选中没有缓和他的信息。
+* Our White House correspondent Zolan Kanno-Youngs explains how so-called third-country deportations are sending immigrants to countries across the globe.
+* 我们的白宫记者Zolan Kanno-Youngs解释了所谓的第三国驱逐如何将移民送往全球各国。
+* After a drop in demand driven by a nationwide outbreak of cyclosporiasis, California growers are plowing lettuce back into the soil and laying off workers.
+* 在全国范围内环孢子虫病爆发导致需求下降后，加州种植者正在将生菜倒入土壤并解雇工人。
+* One hundred years ago, dahlias became the city’s official flower. They have gained new popularity as an antidote to the modern world.
+* 一百年前，大丽花成为该市的官方花卉。作为现代世界的解毒剂，它们已经获得了新的知名度。
 
 ## New York Times Asia News
+* As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.
+* 随着救援工作进入第四天，破坏的规模成为焦点，标志着这个脆弱国家的艰巨复苏。
+* A glacier unleashed a deadly flood earlier this week. For local trekking guides and climbers, the mountains were already changing.
+* 本周早些时候，一座冰川引发了一场致命的洪水。对于当地的徒步导游和登山者来说，山脉已经发生了变化。
+* The loss of power-generating capacity has raised questions about an ambitious expansion of renewable energy in one of the world’s most hazard-prone mountain regions.
+* 发电能力的丧失引发了人们对世界上最易受灾山区之一的可再生能源雄心勃勃的扩张的质疑。
+* In a year of globe-trotting, the Indian prime minister has secured deals around the world as the United States becomes less dependable.
+* 在环球旅行的一年里，随着美国的可靠性降低，印度总理在全球范围内达成了协议。
+* Videos show rescuers pulling people out of hydropower tunnels, as hundreds of workers remain missing after a deadly flood.
+* 视频显示，救援人员将人们从水电隧道中撤出，数百名工人在致命的洪水后仍然失踪。
+* The disaster has left countless people with little or nothing of the lives they had built, struggling with immediate survival and unsure how to rebuild.
+* 这场灾难使无数人几乎没有或根本没有他们所建立的生活，他们正在为立即的生存而苦苦挣扎，不确定如何重建。
 * Exclusive videos verified by The New York Times show the clearest view yet of the avalanche in northern Nepal near Tibet that sent a wall of water and mud coursing through river valleys below.
 * 《纽约时报》核实的独家视频显示了尼泊尔北部西藏附近最清晰的雪崩景象，这场雪崩导致一堵水墙和泥浆穿过下面的河谷。
 * A leading Chinese A.I. start-up released its latest model and made the case that China’s embrace of open software is safer than Silicon Valley’s closed approach.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 自周三发生山体滑坡以来，中国领导人习近平首次向尼泊尔政府发出信息。山体滑坡导致数百人在两国边境附近丧生。
 * The peak is revered by Hindus, Buddhists, Jains and those belonging to the pre-Buddhist Bon religion.
 * 山峰受到印度教徒、佛教徒、耆那教徒和那些属于佛教前Bon宗教的人的尊敬。
-* 
-* 
-* Given the challenges in forecasting and detecting such calamities, researchers advised banning construction on floodplains and marking out clear evacuation routes.
-* 鉴于预测和检测此类灾难的挑战，研究人员建议禁止在洪泛平原上施工，并标出明确的疏散路线。
-* The announcement has sent panic through a community that fled its country’s brutal military rule, civil war, religious persecution or some combination of the three.
-* 这一宣布在一个逃离该国残酷的军事统治、内战、宗教迫害或三者兼而有之的社区引发了恐慌。
-* The Taliban have banned education for millions of Afghan girls. Times journalists examined classrooms where students, teachers and parents continue to resist by defying the rules.
-* 塔利班禁止数百万阿富汗女孩接受教育。《泰晤士报》记者检查了学生、教师和家长继续违抗规则的教室。
-* Under Taliban rule, Afghan girls are officially barred from receiving an education beyond the sixth grade. Across the country, however, clandestine classrooms have emerged to defy the ban. Our Afghanistan and Pakistan bureau chief, Elian Peltier, visited one of these covert schools to meet the young women determined to learn.
-* 在塔利班统治下，阿富汗女孩被正式禁止接受六年级以上的教育。然而，在全国各地，秘密教室已经出现，以抵制禁令。我们的阿富汗和巴基斯坦局局长埃利安·珀尔帖（ Elian Peltier ）参观了其中一所秘密学校，与决心学习的年轻女性见面。
-* 
-* 
 
