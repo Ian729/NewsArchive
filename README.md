@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.
-* 随着救援工作进入第四天，破坏的规模成为焦点，标志着这个脆弱国家的艰巨复苏。
+* The disclosure offered one of the clearest pictures yet of the disaster on the Chinese side of the border, where authorities have released few details.
+* 披露提供了中国边境最清晰的灾难照片之一，当局几乎没有透露任何细节。
+* In Japan, the ancient tradition of hikiya involves moving buildings with ropes and rollers. About 4,000 people teamed up to try it on Hirosaki Castle.
+* 在日本，比基耶的古老传统涉及用绳索和滚轮移动建筑物。大约有4000人联手在弘前城（ Hirosaki Castle ）尝试。
+* After a divisive national debate, Icelanders rejected a proposal to resume negotiations on joining the bloc, according to the national broadcaster.
+* 据国家广播公司报道，在经历了一场分裂的全国性辩论后，冰岛人拒绝了恢复加入欧盟谈判的提议。
+* Local authorities said 267 people were aboard the catamaran-type vessel when it began taking on water shortly after its departure from Kyrenia.
+* 地方当局表示，这艘双体船型船在离开凯里尼亚后不久就开始进水，当时有267人乘坐。
+* Users in the United States will see the new label, following President Trump’s executive order last week.
+* 根据特朗普总统上周的行政命令，美国用户将看到新标签。
+* State and federal leaders are trying to avoid sharing sensitive intelligence with the Alternative for Germany should it take power in a state’s elections next week.
+* 如果德国在下周的州选举中掌权，州和联邦领导人正试图避免与德国替代方案分享敏感情报。
+* The government is struggling to meet a shortfall in fuel and is wary that higher prices at the pump could stir unrest.
+* 政府正在努力弥补燃料短缺，并担心水泵价格上涨可能会引发动乱。
+* The intensity of Saturday’s assault prompted condemnations from Prime Minister Benjamin Netanyahu of Israel and other officials.
+* 周六袭击的强度引发了以色列总理本雅明·内塔尼亚胡和其他官员的谴责。
+* A deal giving the U.S. majority control of vast Venezuelan reserves strikes at the heart of national identity.
+* 一项赋予美国多数人对委内瑞拉庞大储备的控制权的协议打击了国家认同的核心。
 * The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said.
 * 总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）说，位于基辅附近平民区的仓库“绝对不应该在那里”。
-* The U.S.-Canada trade war has galvanized Canadians behind their prime minister’s decision to walk away from negotiations. What happens when the time comes for talks to restart?
-* 美加贸易战激起了加拿大人对其总理放弃谈判的决定的支持。重新开始谈判的时候会发生什么？
-* The Nordic nation is holding a referendum on Saturday on whether to start membership talks with the European Union. Voters are divided.
-* 这个北欧国家将于周六举行公投，决定是否与欧盟开始成员国谈判。选民分裂。
-* In a year of globe-trotting, the Indian prime minister has secured deals around the world as the United States becomes less dependable.
-* 在环球旅行的一年里，随着美国的可靠性降低，印度总理在全球范围内达成了协议。
-* Israel’s strike on a Syrian base to pre-empt the feared deployment of Turkish forces was part of a growing competition in the Middle East and beyond.
-* 以色列对叙利亚基地的袭击是为了先发制人地阻止土耳其军队的部署，这是中东及其他地区日益激烈的竞争的一部分。
-* The Taliban have banned education for millions of Afghan girls. Times journalists examined classrooms where students, teachers and parents continue to resist by defying the rules.
-* 塔利班禁止数百万阿富汗女孩接受教育。《泰晤士报》记者检查了学生、教师和家长继续违抗规则的教室。
-* A few years ago, some feared the European Union was going out of style. Now Iceland is mulling membership alongside a long list of candidates.
-* 几年前，有些人担心欧盟会过时。现在，冰岛正在考虑加入一长串候选人名单。
-* The announcement has sent panic through a community that fled its country’s brutal military rule, civil war, religious persecution or some combination of the three.
-* 这一宣布在一个逃离该国残酷的军事统治、内战、宗教迫害或三者兼而有之的社区引发了恐慌。
-* Trump’s replacement of a military war with a heightened economic one is not expected to alter Iran’s strategy, while further impoverishing its people.
-* 预计特朗普以加剧的经济战争取代军事战争不会改变伊朗的战略，同时进一步使伊朗人民陷入贫困。
 
 ## New York Times United States News
-* Gabriel Perez had access to the president’s speeches before they were delivered and was accused of placing unlawful wagers on words that would be spoken.
-* 加布里埃尔·佩雷斯（ Gabriel Perez ）在总统发表讲话之前就已经获得了这些讲话，并被指控对将要说的话进行非法赌注。
-* The second-place finisher in a primary where the top four advance to the November ballot said he would drop out of the race so voters could coalesce behind a single Democratic candidate.
-* 这位初选的第二名选手表示，他将退出竞选，以便选民可以团结在一位民主党候选人身后。
-* Candidates’ attacks are focused on illegal immigration, faith and stock trading.
-* 候选人的攻击重点是非法移民、信仰和股票交易。
-* Dolly Parton was an advocate for her L.G.B.T.Q. fans. She also understood them, a meaningful bond in places where such recognition was hard to find.
-* 多莉·帕顿（ Dolly Parton ）是她的LGBTQ粉丝的拥护者。她也理解他们，在很难找到这种认可的地方，这是一种有意义的联系。
-* To win in 2024, the president promised an economic course correction. Almost two years later, his agenda has made that fight even harder.
-* 为了在2024年获胜，总统承诺进行经济调整。将近两年后，他的议程使这场斗争变得更加艰难。
-* A privacy measure for immigration aid workers became a free speech cause for backers of Nick Shirley, a right-wing YouTube star. Democrats say the furor is fueled by misinformation.
-* 一项针对移民援助工作者的隐私措施成为右翼YouTube明星尼克·雪莉（ Nick Shirley ）支持者的言论自由事业。民主党人说，这种愤怒是由错误信息引发的。
-* Senator Jon Ossoff, the youngest sitting senator and the only Democrat seeking re-election this year in a state President Trump won in 2024, hasn’t moderated his message in his critical race.
-* 参议员乔恩·奥索夫（ Jon Ossoff ）是最年轻的现任参议员，也是今年唯一一位在2024年特朗普总统获胜的州寻求连任的民主党人，他在批评性的竞选中没有缓和他的信息。
-* Our White House correspondent Zolan Kanno-Youngs explains how so-called third-country deportations are sending immigrants to countries across the globe.
-* 我们的白宫记者Zolan Kanno-Youngs解释了所谓的第三国驱逐如何将移民送往全球各国。
-* After a drop in demand driven by a nationwide outbreak of cyclosporiasis, California growers are plowing lettuce back into the soil and laying off workers.
-* 在全国范围内环孢子虫病爆发导致需求下降后，加州种植者正在将生菜倒入土壤并解雇工人。
-* One hundred years ago, dahlias became the city’s official flower. They have gained new popularity as an antidote to the modern world.
-* 一百年前，大丽花成为该市的官方花卉。作为现代世界的解毒剂，它们已经获得了新的知名度。
+* The country’s longest war came to an end exactly five years ago. Today it offers lessons for policymakers seeking to avoid an endless war in Iran.
+* 伊朗历史上持续时间最长的战争于五年前结束。如今，这场战争为那些希望避免伊朗陷入无休止战争的政策制定者提供了宝贵的经验教训。
+* A lawsuit claims that a New Jersey-based company failed to pay for nearly $4 million worth of gas, some of which was sold to gas stations promoted by President Trump.
+* 一起诉讼声称，一家总部位于新泽西州的公司未能支付价值近400万美元的天然气，其中一些被出售给特朗普总统推广的加油站。
+* For many, the trek to Mount Kailash on the border of Nepal and Tibet is a once-in-a-lifetime trip to find spiritual awakening.
+* 对于许多人来说，前往尼泊尔和西藏边境的凯拉什山（ Mount Kailash ）的徒步旅行是千载难逢的精神觉醒之旅。
+* For many Americans, Ms. Parton represented an idealized style of faith: one centered in small rural congregations that prize community over ideology.
+* 对于许多美国人来说，帕顿女士代表了一种理想化的信仰风格：以小规模的农村会众为中心，将社区置于意识形态之上。
+* A judge temporarily blocked the agency from refusing to deliver ballots in noncompliant states, which could disproportionately affect Democrats and many battleground elections.
+* 一名法官暂时阻止该机构拒绝在不合规的州提供选票，这可能会不成比例地影响民主党人和许多战场选举。
+* Senator Ed Markey of Massachusetts has emerged as a vocal defender of transgender rights as he tries to fend off a primary challenge from Representative Seth Moulton.
+* 马萨诸塞州参议员埃德·马基（ Ed Markey ）在试图抵御众议员塞思·莫尔顿（ Seth Moulton ）的主要挑战时，已经成为跨性别权利的声音捍卫者。
+* The closure of a crucial Rhode Island bridge for safety reasons in 2023, and the traffic nightmare that followed, have dogged Gov. Dan McKee in the Democratic primary.
+* 由于安全原因，罗德岛州的一座重要桥梁在2023年关闭，以及随后的交通噩梦，在民主党初选中困扰着州长丹·麦基（ Dan McKee ）。
+* For years, conservative litigants flocked to Judge Reed O’Connor’s district. Now, North Texas has become a favorite destination of the Justice Department.
+* 多年来，保守派诉讼当事人纷纷涌向里德·奥康纳（ Reed O’Connor ）法官所在的地区。现在，北德克萨斯州已成为司法部最喜欢的目的地。
+* Using a metal detector, Jeff Arnett honored a request from his father, who lost his band while washing his car more than 40 years ago.
+* 杰夫·阿内特（ Jeff Arnett ）使用金属探测器来满足父亲的要求，父亲在40多年前洗车时失去了乐队。
+* With a career commemorated by Guinness World Records, he started as an apprentice in 1942 and worked on a panoply of propeller-driven and jet aircraft until he retired in 2022.
+* 他的职业生涯受到吉尼斯世界纪录的纪念，他于1942年开始作为学徒，在螺旋桨驱动和喷气式飞机上工作，直到2022年退休。
 
 ## New York Times Asia News
+* Some survivors of the deadly flood and landslide have no access to food. Officials and volunteers are testing how drones can help.
+* 一些洪水和山体滑坡的幸存者无法获得食物。官员和志愿者正在测试无人机如何提供帮助。
+* The disclosure offered one of the clearest pictures yet of the disaster on the Chinese side of the border, where authorities have released few details.
+* 披露提供了中国边境最清晰的灾难照片之一，当局几乎没有透露任何细节。
+* In Japan, the ancient tradition of hikiya involves moving buildings with ropes and rollers. About 4,000 people teamed up to try it on Hirosaki Castle.
+* 在日本，比基耶的古老传统涉及用绳索和滚轮移动建筑物。大约有4000人联手在弘前城（ Hirosaki Castle ）尝试。
+* Our correspondent Anupreeta Das visited Bidur, Nepal, days after floods devastated the region. Residents sifted through thick mud to salvage what remained of their homes.
+* 我们的记者Anupreeta Das在洪水肆虐该地区几天后访问了尼泊尔的比杜尔。居民在厚厚的泥浆中进行筛选，以打捞剩余的房屋。
+* The Nepal Army, which is leading rescue efforts, turned to the trapped workers more than a day after the flood, according to army officials, industry groups and private rescuers.
+* 据军方官员、行业团体和私人救援人员称，尼泊尔军队正在领导救援工作，在洪水发生后一天多后转向被困工人。
 * As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.
 * 随着救援工作进入第四天，破坏的规模成为焦点，标志着这个脆弱国家的艰巨复苏。
 * A glacier unleashed a deadly flood earlier this week. For local trekking guides and climbers, the mountains were already changing.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 在环球旅行的一年里，随着美国的可靠性降低，印度总理在全球范围内达成了协议。
 * Videos show rescuers pulling people out of hydropower tunnels, as hundreds of workers remain missing after a deadly flood.
 * 视频显示，救援人员将人们从水电隧道中撤出，数百名工人在致命的洪水后仍然失踪。
-* The disaster has left countless people with little or nothing of the lives they had built, struggling with immediate survival and unsure how to rebuild.
-* 这场灾难使无数人几乎没有或根本没有他们所建立的生活，他们正在为立即的生存而苦苦挣扎，不确定如何重建。
-* Exclusive videos verified by The New York Times show the clearest view yet of the avalanche in northern Nepal near Tibet that sent a wall of water and mud coursing through river valleys below.
-* 《纽约时报》核实的独家视频显示了尼泊尔北部西藏附近最清晰的雪崩景象，这场雪崩导致一堵水墙和泥浆穿过下面的河谷。
-* A leading Chinese A.I. start-up released its latest model and made the case that China’s embrace of open software is safer than Silicon Valley’s closed approach.
-* 一家中国领先的人工智能初创企业发布了其最新模型，并证明中国对开放软件的拥抱比硅谷的封闭式方法更安全。
-* China’s leader, Xi Jinping, issued his first message to Nepal’s government  since the landslide on Wednesday that has left hundreds dead near the countries’ border.
-* 自周三发生山体滑坡以来，中国领导人习近平首次向尼泊尔政府发出信息。山体滑坡导致数百人在两国边境附近丧生。
-* The peak is revered by Hindus, Buddhists, Jains and those belonging to the pre-Buddhist Bon religion.
-* 山峰受到印度教徒、佛教徒、耆那教徒和那些属于佛教前Bon宗教的人的尊敬。
 
