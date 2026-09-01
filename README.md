@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
+* 在习近平与俄罗斯和伊朗领导人会晤之际，欧洲在G20峰会上向特朗普政府提出了挑战，提供了一个不断变化的世界的分屏视角。
+* While several coffin makers in Bunia said they were providing a public service, the virus has put them at the center of a debate around safe burials.
+* 虽然布尼亚的几家棺材制造商表示他们正在提供公共服务，但病毒已将他们置于围绕安全埋葬的辩论的中心。
+* While journalists can report freely on grief and anger in Nepal, China’s official media have presented a sanitized disaster aftermath in Tibet.
+* 虽然记者可以自由报道尼泊尔的悲伤和愤怒，但中国官方媒体在西藏展示了一场消毒后的灾难。
+* The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster ties with the world.
+* 最新的措施迫使取消了英语水平和研究生考试，孤立了许多最渴望与世界建立联系的伊朗人。
+* As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape.
+* 随着欧洲各地的大火肆虐，该国正在进行权衡，以保护其遗产，对遗址进行防火处理，冒着破坏周围景观的风险。
+* Israel’s defense minister said the operation resulted in the capture of a senior Hamas member. Hamas said Israel sent covert operatives into Gaza City.
+* 以色列国防部长说，这次行动导致哈马斯一名高级成员被捕。哈马斯说，以色列向加沙城派遣了秘密特工。
+* Alumina processed at a refinery in County Limerick may be feeding Russia’s war in Ukraine, an investigation suggested. There is little agreement on what to do about it.
+* 一项调查显示，利默里克郡一家炼油厂加工的氧化铝可能正在助长俄罗斯在乌克兰的战争。对于如何处理这一问题，人们几乎没有达成一致意见。
+* Keir Starmer, who left Downing Street in July after pressure from his own party, said he would quit his parliamentary seat to focus on a role in international affairs and defense.
+* 基尔·斯塔默（ Keir Starmer ）在自己的政党施加压力后于7月离开唐宁街，他说他将辞去议会席位，专注于在国际事务和国防方面发挥作用。
+* The U.S.S. Abraham Lincoln became an emblem of the strains of the war on the U.S. military. Now its crew will have some rest.
+* 亚伯拉罕·林肯号成为美军战争压力的象征。现在它的船员可以休息一下了。
 * A growing number of former Israeli generals, intelligence officials and prime ministers are accusing settlers in the West Bank of committing ethnic cleansing with government support. “Once a society behaves this way,” one said, “that society is doomed.”
 * 越来越多的前以色列将军、情报官员和总理指责约旦河西岸的定居者在政府支持下进行种族清洗。“一旦一个社会以这种方式行事，”有人说， “这个社会就注定要失败。”
-* Prime Minister Balendra Shah, 36, rose to power this year on the back of youth anger with graft and mismanagement. His fledgling government now faces a huge test.
-* 36岁的巴伦德拉·沙阿（ Balendra Shah ）总理今年上台执政，原因是年轻人对贪污和管理不善感到愤怒。他刚刚起步的政府现在面临着巨大的考验。
-* The nearly constant air raids, a shift from years of largely overnight attacks, have left residents exhausted and on edge.
-* 几乎持续的空袭，以及多年来基本上隔夜袭击的转变，使居民疲惫不堪，紧张不安。
-* A two-year war between rival Sinaloa Cartel factions is driving a surge in killings and disappearances targeting women.
-* 敌对的锡那罗亚卡特尔派系之间为期两年的战争正在推动针对妇女的杀戮和失踪事件激增。
-* Their continued presence has roiled the Spanish territory in Africa and heaped pressure on Prime Minister Pedro Sánchez.
-* 他们的持续存在扰乱了西班牙在非洲的领土，并对总理佩德罗·桑切斯施加了压力。
-* The appointment of Mykhailo Fedorov, a Ukrainian former defense minister, showed how other militaries are racing to adapt to battlefield changes accelerated by the war in Ukraine.
-* 乌克兰前国防部长米哈伊洛·费多罗夫（ Mykhailo Fedorov ）的任命表明，其他军队正在竞相适应乌克兰战争加速的战场变化。
-* The suspect, a 43-year-old Swiss citizen, was taken into custody early on Monday, the police said.
-* 警方称，这名嫌疑人是一名43岁的瑞士公民，于周一早些时候被拘留。
-* The two-day summit of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.
-* 为期两天的上海合作组织吉尔吉斯斯坦峰会显示了美国经济战的局限性。
-* The vessel capsized in rough seas, leaving its passengers struggling to escape. Eight were killed and 20 are still missing.
-* 这艘船在波涛汹涌的大海中倾覆，让乘客难以逃脱。8人死亡， 20人仍然下落不明。
-* The renewed attacks were the latest sign that the war that began six months ago appears far from over.
-* 重新发动的袭击是六个月前开始的战争似乎远未结束的最新迹象。
 
 ## New York Times United States News
-* Officials announced a second death and said more than a dozen people remain unaccounted for following heavy rain.
-* 官员宣布第二次死亡，并表示大雨后仍有十几人下落不明。
-* In Massachusetts, the octogenarian senator Ed Markey faces a challenge from a much younger centrist, Representative Seth Moulton.
-* 在马萨诸塞州，八旬节参议员埃德·马基（ Ed Markey ）面临着来自年轻得多的中间派众议员塞思·莫尔顿（ Seth Moulton ）的挑战。
-* Phantom Ranch, the only lodge within the Grand Canyon, has drawn adventurers and dignitaries, including Theodore Roosevelt, for more than a century.
-* 幻影牧场（ Phantom Ranch ）是大峡谷内唯一的小屋，一个多世纪以来吸引了包括西奥多·罗斯福（ Theodore Roosevelt ）在内的冒险家和政要。
-* Jurors resumed discussion of the high-profile case on Monday, after deliberating last week for about 10 hours over two days.
-* 在上周两天审议约10小时后，陪审团于周一恢复了对这一备受瞩目的案件的讨论。
-* State officials say they worry about the Postal Service’s ability to deliver votes this fall. They are urging voters to mail their ballots early or use drop boxes so their votes count.
-* 州政府官员表示，他们担心邮政局今年秋天能否投出选票。他们敦促选民尽早邮寄选票或使用投递箱，这样他们的选票才算数。
-* Dark money is flooding the 2026 midterm elections, allowing donors to spend heavily on ads without revealing their identities. Shane Goldmacher, a New York Times political correspondent, explains how donors are able to hide their involvement.
-* 黑钱正在淹没2026年的中期选举，允许捐赠者在不透露身份的情况下大量花费在广告上。《纽约时报》的政治记者谢恩·戈德马赫（ Shane Goldmacher ）解释了捐赠者如何能够隐藏他们的参与。
-* At the largest annual ferret show in the United States, a shrinking community fights to survive.
-* 在美国最大的年度雪貂展上，一个不断缩小的社区为生存而战。
-* Travis Fuller was from my hometown. I went back and talked with his family about how they made sense of his death, 25 years after Sept. 11.
-* Travis Fuller来自我的家乡。我回去和他的家人谈论他们如何理解他的死， 9月11日之后25年。
-* At least $1 billion from anonymous donors is flowing into the midterm elections. Dark money is not new, but it now permeates nearly every major contest.
-* 来自匿名捐赠者的至少10 $正在流入中期选举。黑钱并不是什么新鲜事，但它现在几乎渗透到每一场大型比赛中。
-* The administration has revoked funding for bike paths, and encouraged removing some. A cycling advocate said it is playing on the idea of “that dork on a bike.”
-* 政府已经撤销了对自行车道的资助，并鼓励删除一些自行车道。一位自行车倡导者表示，它正在发挥“骑自行车的笨蛋”的想法。
+* A report detailed “grave concerns” that a new system being rushed into use by the U.S. Postal Service could imperil millions of mail ballots ahead of the midterm elections.
+* 一份报告详细说明了“严重关切” ，即美国邮政局正在匆忙使用的新系统可能会危及中期选举前的数百万张邮寄选票。
+* Jurors sent a note after about 18 hours of deliberations saying they were deadlocked. The judge sent them back to keep deliberating.
+* 经过大约18个小时的审议，陪审团发出了一份说明，称他们陷入了僵局。法官送他们回去继续商议。
+* Senator Edward Markey, who began his congressional career in 1976, faces a challenge from Representative Seth Moulton.
+* 1976年开始在国会任职的参议员爱德华·马基（ Edward Markey ）面临着来自众议员塞思·莫尔顿（ Seth Moulton ）的挑战。
+* Senator Ed Markey had double digit leads in every poll of the Democratic primary for Senate in August after Seth Moulton briefly narrowed the gap this spring.
+* 今年8月，参议员埃德·马基（ Ed Markey ）在参议院民主党初选的每次民意调查中都有两位数的领先优势，此前塞思·莫尔顿（ Seth Moulton ）今年春
+* Supreme Court justices could keep the court’s internal working papers hidden for decades. Our investigative reporter Jodi Kantor explains why those records matter — and what sealing them away means for our understanding of key decisions by the nation’s highest court.
+* 最高法院法官可以将法院的内部工作文件隐藏数十年。我们的调查记者Jodi Kantor解释了为什么这些记录很重要，以及密封它们对我们理解国家最高法院的关键决定意味着什么。
+* After Justice Scalia died, the justices held private negotiations about locking away their papers. We may not see the ultimate record of the Roberts court for decades.
+* 斯卡利亚大法官去世后，法官们就锁定他们的文件进行了私人谈判。几十年来，我们可能看不到罗伯茨法院的最终记录。
+* The vice president is attempting to unite conservative Jews with their antagonists in one coalition, as one appearance in Nevada on Monday showed. Some are uneasy about it.
+* 正如周一在内华达州的一次露面所显示的那样，副总统正试图将保守的犹太人与他们的对手团结在一个联盟中。有些人对此感到不安。
+* The California Legislature moved quickly to approve the legislation in an attempt to stop ICE agents from using the gloves.  Local law enforcement agencies have come out against the bill.
+* 加利福尼亚州立法机构迅速批准了该立法，试图阻止ICE特工使用手套。当地执法机构已表示反对该法案。
+* The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.
+* 由拜登政府成立的国防部战略资本办公室正在帮助领导特朗普总统的石油交易，该办公室旨在提供贷款以支持美国的国防工业。
+* A Kentucky farmer, he railed against agribusiness and championed small family farms and the environment, winning widespread acclaim.
+* 作为肯塔基州的农民，他抨击农业综合企业，支持小型家庭农场和环境，赢得了广泛的赞誉。
 
 ## New York Times Asia News
+* More than 1,000 people have been killed in a Himalayan landslide and flooding, and thousands more are missing. Here’s how you can help.
+* 在喜马拉雅山脉的山体滑坡和洪水中，已有1000多人丧生，还有数千人失踪。您可以通过以下方式提供帮助。
+* Japan’s finance minister, Satsuki Katayama, is under pressure to strengthen the yen while balancing competing demands from the prime minister and Washington.
+* 日本财政大臣片山胜树(Satsuki Katayama)面临着日元升值的压力，同时要平衡首相和华盛顿的竞争需求。
+* While journalists can report freely on grief and anger in Nepal, China’s official media have presented a sanitized disaster aftermath in Tibet.
+* 虽然记者可以自由报道尼泊尔的悲伤和愤怒，但中国官方媒体在西藏展示了一场消毒后的灾难。
+* The U.S.S. Abraham Lincoln became an emblem of the strains of the war on the U.S. military. Now its crew will have some rest.
+* 亚伯拉罕·林肯号成为美军战争压力的象征。现在它的船员可以休息一下了。
+* As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
+* 在习近平与俄罗斯和伊朗领导人会晤之际，欧洲在G20峰会上向特朗普政府提出了挑战，提供了一个不断变化的世界的分屏视角。
+* The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.
+* 由拜登政府成立的国防部战略资本办公室正在帮助领导特朗普总统的石油交易，该办公室旨在提供贷款以支持美国的国防工业。
+* Squeezed by new trade rules, shrinking market share and labor concerns, Shein’s share decline in Hong Kong on Tuesday is a sign investors have moved on.
+* 在新的贸易规则、市场份额萎缩和劳动力问题的挤压下， Shein周二在香港的股价下跌是投资者继续前进的迹象。
+* In a partnership with the Pompidou Center in Paris, a new institution showcases modern art from Europe and Asia.
+* 与巴黎的蓬皮杜中心合作，一个新的机构展示了来自欧洲和亚洲的现代艺术。
+* The country is seeking urgent help from a special U.N. climate fund, but the program lacks money because the United States and others have been reluctant to contribute.
+* 该国正在寻求联合国特别气候基金的紧急援助，但由于美国和其他国家一直不愿捐款，该项目缺乏资金。
 * Rajendra Dawadi had less than 15 minutes to act on a warning of approaching floodwaters. His swift evacuation plan saved hundreds of lives.
 * 拉金德拉·达瓦迪（ Rajendra Dawadi ）只有不到15分钟的时间对接近洪水的警告采取行动。他的快速疏散计划挽救了数百人的生命。
-* The two-day summit of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.
-* 为期两天的上海合作组织吉尔吉斯斯坦峰会显示了美国经济战的局限性。
-* Han Hak-ja, the widow and successor of the conservative church’s founder, was convicted of financial dealings related to a former president and first lady, who are also imprisoned.
-* 韩学家（ Han Hak-ja ）是保守派教会创始人的遗孀和继承人，因与前总统和第一夫人有关的金融交易而被定罪，他们也被监禁。
-* Prime Minister Balendra Shah, 36, rose to power this year on the back of youth anger with graft and mismanagement. His fledgling government now faces a huge test.
-* 36岁的巴伦德拉·沙阿（ Balendra Shah ）总理今年上台执政，原因是年轻人对贪污和管理不善感到愤怒。他刚刚起步的政府现在面临着巨大的考验。
-* After a glacial flood last year, Chinese officials strengthened defenses at a border crossing with Nepal. But last week’s “cascade of hazards” overwhelmed them.
-* 去年发生冰川洪水后，中国官员加强了与尼泊尔交界处的防御。但上周的“一连串的危险”让他们不知所措。
-* The Times test-drove a stunning crossover from Geely that would cost under half of what its rivals charge. Two senators and many experts point to security and economic concerns as reasons for a ban.
-* 《纽约时报》试驾了吉利令人惊叹的跨界车，其成本不到其竞争对手收费的一半。两名参议员和许多专家指出，安全和经济问题是禁令的理由。
-* Only a fraction of the over 4,200 missing in Nepal are turning up among the dead, underscoring a bleak reality: The death toll is likely to keep rising for days to come.
-* 尼泊尔4200多名失踪人员中只有一小部分出现在死者中，这凸显了一个黯淡的现实：死亡人数可能会在未来几天继续上升。
-* Some survivors of the deadly flood and landslide have no access to food. Officials and volunteers are testing how drones can help.
-* 一些洪水和山体滑坡的幸存者无法获得食物。官员和志愿者正在测试无人机如何提供帮助。
-* The disclosure offered one of the clearest pictures yet of the disaster on the Chinese side of the border, where authorities have released few details.
-* 披露提供了中国边境最清晰的灾难照片之一，当局几乎没有透露任何细节。
-* In Japan, the ancient tradition of hikiya involves moving buildings with ropes and rollers. About 4,000 people teamed up to try it on Hirosaki Castle.
-* 在日本，比基耶的古老传统涉及用绳索和滚轮移动建筑物。大约有4000人联手在弘前城（ Hirosaki Castle ）尝试。
 
