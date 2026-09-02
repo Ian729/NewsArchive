@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
-* 在习近平与俄罗斯和伊朗领导人会晤之际，欧洲在G20峰会上向特朗普政府提出了挑战，提供了一个不断变化的世界的分屏视角。
-* While several coffin makers in Bunia said they were providing a public service, the virus has put them at the center of a debate around safe burials.
-* 虽然布尼亚的几家棺材制造商表示他们正在提供公共服务，但病毒已将他们置于围绕安全埋葬的辩论的中心。
-* While journalists can report freely on grief and anger in Nepal, China’s official media have presented a sanitized disaster aftermath in Tibet.
-* 虽然记者可以自由报道尼泊尔的悲伤和愤怒，但中国官方媒体在西藏展示了一场消毒后的灾难。
-* The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster ties with the world.
-* 最新的措施迫使取消了英语水平和研究生考试，孤立了许多最渴望与世界建立联系的伊朗人。
-* As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape.
-* 随着欧洲各地的大火肆虐，该国正在进行权衡，以保护其遗产，对遗址进行防火处理，冒着破坏周围景观的风险。
-* Israel’s defense minister said the operation resulted in the capture of a senior Hamas member. Hamas said Israel sent covert operatives into Gaza City.
-* 以色列国防部长说，这次行动导致哈马斯一名高级成员被捕。哈马斯说，以色列向加沙城派遣了秘密特工。
-* Alumina processed at a refinery in County Limerick may be feeding Russia’s war in Ukraine, an investigation suggested. There is little agreement on what to do about it.
-* 一项调查显示，利默里克郡一家炼油厂加工的氧化铝可能正在助长俄罗斯在乌克兰的战争。对于如何处理这一问题，人们几乎没有达成一致意见。
-* Keir Starmer, who left Downing Street in July after pressure from his own party, said he would quit his parliamentary seat to focus on a role in international affairs and defense.
-* 基尔·斯塔默（ Keir Starmer ）在自己的政党施加压力后于7月离开唐宁街，他说他将辞去议会席位，专注于在国际事务和国防方面发挥作用。
-* The U.S.S. Abraham Lincoln became an emblem of the strains of the war on the U.S. military. Now its crew will have some rest.
-* 亚伯拉罕·林肯号成为美军战争压力的象征。现在它的船员可以休息一下了。
-* A growing number of former Israeli generals, intelligence officials and prime ministers are accusing settlers in the West Bank of committing ethnic cleansing with government support. “Once a society behaves this way,” one said, “that society is doomed.”
-* 越来越多的前以色列将军、情报官员和总理指责约旦河西岸的定居者在政府支持下进行种族清洗。“一旦一个社会以这种方式行事，”有人说， “这个社会就注定要失败。”
+* The American military said its barrage was retaliation against recent attacks on U.S. forces and marine traffic. Iranian officials said a wedding was hit and civilians killed.
+* 美国军方表示，这次袭击是对最近袭击美军和海上交通的报复。伊朗官员说，一场婚礼被击中，平民被杀。
+* People are coming to take photos of the green-painted house, which kept the Pyakurel family safe as the area all around them was destroyed by rampaging floodwaters.
+* 人们前来拍摄这栋绿色粉刷的房子，这栋房子保护了Pyakurel一家的安全，因为他们周围的地区被洪水肆虐摧毁了。
+* Strikes on ports and vessels by both Russia and Ukraine have left farmers facing ruin and could cause another worldwide food shock.
+* 俄罗斯和乌克兰对港口和船只的罢工使农民面临毁灭，并可能导致另一次全球粮食冲击。
+* For the first time in a year, the U.S.-Mexico border partly reopened to cattle imports following a screwworm infestation across the region. The battle against the flesh-eating fly has only just begun deep in Mexico.
+* 这是一年来美墨边境首次在整个地区发生丝虫虫害后，部分重新开放进口牛只。在墨西哥，与食肉苍蝇的斗争才刚刚开始。
+* Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln, which came into the spotlight because of a tough deployment in the war in Iran.
+* 成千上万的水手和海军陆战队员在亚伯拉罕·林肯号上服役，由于在伊朗战争中的艰难部署而成为人们关注的焦点。
+* As the war sputters on, an internal report from the International Atomic Energy Agency said Iran’s refusal to grant access to its inspectors was an urgent concern.
+* 随着战争的爆发，国际原子能机构的一份内部报告称，伊朗拒绝允许其核查人员进入是一个紧迫的问题。
+* The pro-democracy dissident was accused of urging Western politicians like Nancy Pelosi and Marco Rubio to pressure Hong Kong by imposing sanctions on the city.
+* 这位支持民主的持不同政见者被指控敦促南希·佩洛西(Nancy Pelosi)和马可·卢比奥(Marco Rubio)等西方政客通过对香港实施制裁来向香港施加压力。
+* The Israeli leader, facing a tough re-election contest, may need a security crisis to rally voters behind him and hold on to his job.
+* 面对艰难的连任竞选，这位以色列领导人可能需要一场安全危机来团结选民支持他并保住他的工作。
+* After school shootings, Thailand and the Philippines are taking different approaches to the drills, which are common practice in the United States.
+* 校园枪击事件发生后，泰国和菲律宾对演习采取了不同的方法，这在美国很常见。
+* As volunteers struggled to get supplies to quake victims in Colombia, a few tech workers built an app to map and organize the sprawling relief effort.
+* 当志愿者们努力为哥伦比亚的地震灾民提供物资时，一些技术人员开发了一个应用程序来绘制和组织庞大的救援工作。
 
 ## New York Times United States News
-* A report detailed “grave concerns” that a new system being rushed into use by the U.S. Postal Service could imperil millions of mail ballots ahead of the midterm elections.
-* 一份报告详细说明了“严重关切” ，即美国邮政局正在匆忙使用的新系统可能会危及中期选举前的数百万张邮寄选票。
-* Jurors sent a note after about 18 hours of deliberations saying they were deadlocked. The judge sent them back to keep deliberating.
-* 经过大约18个小时的审议，陪审团发出了一份说明，称他们陷入了僵局。法官送他们回去继续商议。
-* Senator Edward Markey, who began his congressional career in 1976, faces a challenge from Representative Seth Moulton.
-* 1976年开始在国会任职的参议员爱德华·马基（ Edward Markey ）面临着来自众议员塞思·莫尔顿（ Seth Moulton ）的挑战。
-* Senator Ed Markey had double digit leads in every poll of the Democratic primary for Senate in August after Seth Moulton briefly narrowed the gap this spring.
-* 今年8月，参议员埃德·马基（ Ed Markey ）在参议院民主党初选的每次民意调查中都有两位数的领先优势，此前塞思·莫尔顿（ Seth Moulton ）今年春
-* Supreme Court justices could keep the court’s internal working papers hidden for decades. Our investigative reporter Jodi Kantor explains why those records matter — and what sealing them away means for our understanding of key decisions by the nation’s highest court.
-* 最高法院法官可以将法院的内部工作文件隐藏数十年。我们的调查记者Jodi Kantor解释了为什么这些记录很重要，以及密封它们对我们理解国家最高法院的关键决定意味着什么。
-* After Justice Scalia died, the justices held private negotiations about locking away their papers. We may not see the ultimate record of the Roberts court for decades.
-* 斯卡利亚大法官去世后，法官们就锁定他们的文件进行了私人谈判。几十年来，我们可能看不到罗伯茨法院的最终记录。
-* The vice president is attempting to unite conservative Jews with their antagonists in one coalition, as one appearance in Nevada on Monday showed. Some are uneasy about it.
-* 正如周一在内华达州的一次露面所显示的那样，副总统正试图将保守的犹太人与他们的对手团结在一个联盟中。有些人对此感到不安。
-* The California Legislature moved quickly to approve the legislation in an attempt to stop ICE agents from using the gloves.  Local law enforcement agencies have come out against the bill.
-* 加利福尼亚州立法机构迅速批准了该立法，试图阻止ICE特工使用手套。当地执法机构已表示反对该法案。
-* The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.
-* 由拜登政府成立的国防部战略资本办公室正在帮助领导特朗普总统的石油交易，该办公室旨在提供贷款以支持美国的国防工业。
-* A Kentucky farmer, he railed against agribusiness and championed small family farms and the environment, winning widespread acclaim.
-* 作为肯塔基州的农民，他抨击农业综合企业，支持小型家庭农场和环境，赢得了广泛的赞誉。
+* In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review.
+* 批评人士说，在他大型宴会厅的惊人建造和许多其他举措中，总统试图逃避司法审查。
+* President Trump called on Iranians to “rise up and fight” on Tuesday as the United States seems increasingly bogged down after six months of conflict.
+* 特朗普总统周二呼吁伊朗人“站起来战斗” ，因为美国在六个月的冲突后似乎越来越陷入困境。
+* The reason for a brief discussion before deliberations was unclear. A woman was charged the previous day with intimidating a participant in the trial.
+* 在审议之前进行简短讨论的原因尚不清楚。前一天，一名妇女因恐吓试验参与者而被起诉。
+* The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.
+* 最高法院为新的白宫宴会厅开了绿灯，但总统在华盛顿的其他几个项目仍然停滞不前。
+* Mayor Karen Bass questioned police training to handle mental health crises after the city released graphic video footage of officers’ actions.
+* 市长凯伦·巴斯（ Karen Bass ）在市政府发布了警察行动的图形视频片段后，质疑警察处理心理健康危机的培训。
+* For years, Democrats have failed to harness the anger of Montanans contending with out-of-state wealth driving up costs. This year, a smokejumper thinks he can succeed.
+* 多年来，民主党一直未能驾驭蒙大拿人对州外财富推高成本的愤怒。今年，一名跳烟者认为他可以成功。
+* Amid a crew morale crisis, the military has replaced the U.S.S. Abraham Lincoln in the Middle East with another aircraft carrier. Our Pentagon reporter John Ismay, a Navy veteran, explains how the challenges to supply ships in the area will most likely remain the same.
+* 在机组人员士气危机中，军方用另一艘航空母舰取代了中东的亚伯拉罕·林肯号（ Abraham Lincoln ）。我们的五角大楼记者约翰·伊斯梅（ John Ismay ）是一名海军退伍军人，他解释说，该地区供应船只的挑战很可能保持不变。
+* Senator Ed Markey, 80, trounced a younger challenger who had made an argument for generational change. Two other longtime Democratic lawmakers hung on, too.
+* 80岁的参议员埃德·马基（ Ed Markey ）击败了一位年轻的挑战者，他曾为代际变革辩护。另外两位长期的民主党议员也坚持不懈。
+* Representative Stephen Lynch, 71, a centrist, beat Patrick Roath, 39, in a primary that reflected the party’s generational and ideological divides.
+* 71岁的中间派众议员斯蒂芬·林奇（ Stephen Lynch ）在初选中击败了39岁的帕特里克·罗斯（ Patrick Roath ） ，这反映了该党的代际和意识形态分歧
+* Mississippi Today, Verite News and The Times had revealed the chief’s texts as his officers were under scrutiny for the fatal shooting of a Black toddler.
+* 《今日密西西比》（ Mississippi Today ）、《真理报》（ Verite News ）和《泰晤士报》（ The Times ）披露了这位酋长的短信，因为他的军官因枪杀一名黑人幼儿而受到
 
 ## New York Times Asia News
+* People are coming to take photos of the green-painted house, which kept the Pyakurel family safe as the area all around them was destroyed by rampaging floodwaters.
+* 人们前来拍摄这栋绿色粉刷的房子，这栋房子保护了Pyakurel一家的安全，因为他们周围的地区被洪水肆虐摧毁了。
+* China’s leader, Xi Jinping, is seeking to deepen ties with a longtime U.S. security partner and to project a larger role for Beijing in a region rocked by war.
+* 中国领导人习近平正在寻求加深与美国长期安全伙伴的关系，并希望北京在这个饱受战争蹂躏的地区发挥更大的作用。
+* After school shootings, Thailand and the Philippines are taking different approaches to the drills, which are common practice in the United States.
+* 校园枪击事件发生后，泰国和菲律宾对演习采取了不同的方法，这在美国很常见。
+* There are now 325 kakapos in New Zealand, the largest population of the giant, flightless parrot species in decades, conservationists said.
+* 保护主义者说，新西兰现在有325只卡卡波鹦鹉，是几十年来这种不会飞的巨型鹦鹉物种的最大种群。
+* Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln, which came into the spotlight because of a tough deployment in the war in Iran.
+* 成千上万的水手和海军陆战队员在亚伯拉罕·林肯号上服役，由于在伊朗战争中的艰难部署而成为人们关注的焦点。
+* The pro-democracy dissident was accused of urging Western politicians like Nancy Pelosi and Marco Rubio to pressure Hong Kong by imposing sanctions on the city.
+* 这位支持民主的持不同政见者被指控敦促南希·佩洛西(Nancy Pelosi)和马可·卢比奥(Marco Rubio)等西方政客通过对香港实施制裁来向香港施加压力。
+* The country’s government estimates that the recent catastrophic floods caused $5 billion in damage. That’s one-tenth of Nepal’s entire economy.
+* 该国政府估计，最近的灾难性洪水造成了50亿美元的损失。这占尼泊尔整个经济的十分之一。
+* To protect its waters from overexposure to nitrates, Denmark is proposing a crackdown on fertilizer use. Farmers aren’t happy.
+* 为了保护其水域免受硝酸盐的过度暴露，丹麦提议打击化肥的使用。农民不开心。
 * More than 1,000 people have been killed in a Himalayan landslide and flooding, and thousands more are missing. Here’s how you can help.
 * 在喜马拉雅山脉的山体滑坡和洪水中，已有1000多人丧生，还有数千人失踪。您可以通过以下方式提供帮助。
 * Japan’s finance minister, Satsuki Katayama, is under pressure to strengthen the yen while balancing competing demands from the prime minister and Washington.
 * 日本财政大臣片山胜树(Satsuki Katayama)面临着日元升值的压力，同时要平衡首相和华盛顿的竞争需求。
-* While journalists can report freely on grief and anger in Nepal, China’s official media have presented a sanitized disaster aftermath in Tibet.
-* 虽然记者可以自由报道尼泊尔的悲伤和愤怒，但中国官方媒体在西藏展示了一场消毒后的灾难。
-* The U.S.S. Abraham Lincoln became an emblem of the strains of the war on the U.S. military. Now its crew will have some rest.
-* 亚伯拉罕·林肯号成为美军战争压力的象征。现在它的船员可以休息一下了。
-* As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
-* 在习近平与俄罗斯和伊朗领导人会晤之际，欧洲在G20峰会上向特朗普政府提出了挑战，提供了一个不断变化的世界的分屏视角。
-* The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.
-* 由拜登政府成立的国防部战略资本办公室正在帮助领导特朗普总统的石油交易，该办公室旨在提供贷款以支持美国的国防工业。
-* Squeezed by new trade rules, shrinking market share and labor concerns, Shein’s share decline in Hong Kong on Tuesday is a sign investors have moved on.
-* 在新的贸易规则、市场份额萎缩和劳动力问题的挤压下， Shein周二在香港的股价下跌是投资者继续前进的迹象。
-* In a partnership with the Pompidou Center in Paris, a new institution showcases modern art from Europe and Asia.
-* 与巴黎的蓬皮杜中心合作，一个新的机构展示了来自欧洲和亚洲的现代艺术。
-* The country is seeking urgent help from a special U.N. climate fund, but the program lacks money because the United States and others have been reluctant to contribute.
-* 该国正在寻求联合国特别气候基金的紧急援助，但由于美国和其他国家一直不愿捐款，该项目缺乏资金。
-* Rajendra Dawadi had less than 15 minutes to act on a warning of approaching floodwaters. His swift evacuation plan saved hundreds of lives.
-* 拉金德拉·达瓦迪（ Rajendra Dawadi ）只有不到15分钟的时间对接近洪水的警告采取行动。他的快速疏散计划挽救了数百人的生命。
 
