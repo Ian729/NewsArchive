@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Volodymyr Zelensky described the shootout on the streets of the Ukrainian capital as an “absolutely shameful event” and ordered an investigation.
-* 总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）将乌克兰首都街头的枪击事件描述为“绝对可耻的事件” ，并下令进行调查。
-* The bomb that hit the residential area was American, according to a weapons expert and a visual analysis by The Times. It killed five people and wounded 67 others, the Iranian authorities said.
-* 根据一名武器专家和《纽约时报》的视觉分析，袭击住宅区的炸弹是美国人。伊朗当局表示，这起事件造成5人死亡， 67人受伤。
-* Haitian election officials have set elections for Dec. 13, but many experts say extreme violence is likely to cause a postponement. Again.
-* 海地选举官员已将选举定于12月13日举行，但许多专家表示，极端暴力可能会导致选举推迟。
-* Hundreds of thousands were killed and tortured. But prosecuting everyone involved in atrocities could be impractical and risk renewed civil strife.
-* 数十万人被杀害和遭受酷刑。但是，起诉所有参与暴行的人可能是不切实际的，并有可能重新引发内乱。
-* Al Mughayir, in the Israeli-occupied West Bank, has become a focal point for rising settler violence, with the latest deadly episode starting in a dispute over livestock.
-* 位于以色列占领的约旦河西岸的Al Mughayir已成为不断上升的定居者暴力事件的焦点，最近的致命事件始于一场关于牲畜的争端。
-* Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.
-* 双方都在使用导弹和无人机，试图打击对方，使其放弃，滋生无休止的人类痛苦。但没有迹象表明两国的决心会减弱。
-* China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own.
-* 中国表示，韩国光州双年展歪曲了台湾作为一个独立国家的地位。北京声称它是自己的。
-* Amid record-breaking temperatures on the continent, households and businesses in Italy are increasingly installing cooling units.
-* 在非洲大陆创纪录的温度下，意大利的家庭和企业越来越多地安装冷却装置。
-* The authorities said they uncovered the network after four flight attendants arriving from Paris were found with narcotics hidden in toothpaste tubes.
-* 当局表示，在从巴黎抵达的四名空乘人员被发现牙膏管中藏有毒品后，他们发现了这个网络。
-* These Russian drones are more destructive, faster and harder to shoot down than the propeller-driven models that Moscow has used throughout the war.
-* 这些俄罗斯无人机比莫斯科在整个战争中使用的螺旋桨驱动型号更具破坏性，速度更快，更难击落。
+* Europe’s options are limited in responding to an unnerving series of plots and provocations. But the odds of unpredictable consequences are rising.
+* 欧洲在应对一系列令人不安的阴谋和挑衅方面的选择有限。但是，不可预测后果的可能性正在上升。
+* Thousands are missing, and some families have lost hope of recovering their bodies. To carry out his sacred duty, a son lights the funeral pyre for a straw effigy of his father.
+* 数千人失踪，一些家庭失去了恢复身体的希望。为了履行他的神圣职责，一个儿子点燃了他父亲的稻草肖像的火葬柴堆。
+* Alejandro Betancourt has been targeted by multiple investigations. Now he’s the U.S. government’s unrivaled partner in President Trump’s bid to control Venezuelan oil resources.
+* Alejandro Betancourt已成为多项调查的目标。现在，在特朗普总统试图控制委内瑞拉石油资源的过程中，他是美国政府无与伦比的合作伙伴。
+* The Alternative for Germany party has tried to soften its hard-line image but is still privately working with extremists. It could win a state election on Sunday.
+* 德国另类选择党试图软化其强硬形象，但仍在私下与极端分子合作。它可能会在周日赢得州选举。
+* An Australian engineer advising the effort described how two men were freed after nine days trapped in a tunnel at the Upper Trishuli 3A hydropower plant.
+* 一位澳大利亚工程师为这项工作提供了建议，他描述了两名男子在被困在上Trishuli 3A水电站的隧道中9天后是如何被释放的。
+* The Houthis, an Iran-backed militia, appear to be trying to gain control of a port city near the Bab al-Mandab Strait, a key choke point for global trade.
+* 伊朗支持的民兵组织胡塞武装似乎正试图控制曼达布海峡（ Bab al-Mandab Strait ）附近的一个港口城市，曼达布海峡是全球贸易的关键咽喉点。
+* Abdulrahman al-Qaradawi was extradited from Lebanon to the Emirates, a close U.S. ally, after criticizing its government, in a case that alarmed human rights experts.
+* 阿卜杜勒拉赫曼·卡拉达维（ Abdulrahman al-Qaradawi ）在批评其政府后从黎巴嫩被引渡到美国的亲密盟友阿联酋，此案令人权专家感到震惊。
+* The recent capture of a strategic ridge has further entrenched the Israeli occupation of Lebanese territory, as efforts to broker lasting peace have floundered.
+* 随着促成持久和平的努力陷入困境，最近对战略山脊的占领进一步巩固了以色列对黎巴嫩领土的占领。
+* A court issued a warrant for Sara Duterte, who is accused of having threatened President Ferdinand R. Marcos Jr. and two of his relatives.
+* 法院对萨拉·杜特尔特（ Sara Duterte ）发出了逮捕令，她被指控威胁小费迪南德· R ·马科斯（ Ferdinand R. Marcos Jr. ）总统及其两名亲属。
+* Advisers to the Reform U.K. leader Nigel Farage were captured on film apparently arranging contributions from a man posing as a foreign donor.
+* 英国改革领袖奈杰尔·法拉奇（ Nigel Farage ）的顾问在电影中被捕，显然是在安排一名冒充外国捐赠者的男子的捐款。
 
 ## New York Times United States News
-* Defendants who claim to have had postpartum psychosis must meet a state’s definition of insanity to be found not guilty. The definitions of insanity vary.
-* 声称患有产后精神病的被告必须符合州对精神错乱的定义，才能被判无罪。精神错乱的定义各不相同。
-* Elon Musk plans to spend at least $100 million in more than a dozen competitive House and Senate races. The tech billionaire helped Donald Trump to victory in 2024.
-* 埃隆·马斯克（ Elon Musk ）计划在十几场竞争激烈的众议院和参议院竞选中至少花费1亿美元（ $ ）。这位科技亿万富翁帮助唐纳德·特朗普在2024年取得了胜利。
-* The case led to debates about whether she should be seen as a criminal or a victim.
-* 这起案件引发了关于她是应该被视为罪犯还是受害者的争论。
+* Judges approach complaints about jurors with caution, mindful that in the event of a conviction, a removal could be grounds for an appeal.
+* 法官谨慎处理有关陪审员的投诉，并注意到在定罪的情况下，撤职可能是上诉的理由。
 * 
 * 
-* A quick rundown of why she is on trial for murder and what’s at stake.
-* 简要介绍了她因谋杀罪受审的原因以及利害关系。
-* 
-* 
-* She challenged sexist assumptions, helping women develop a sense of self-worth and gain a measure of equality at work, at home and in society at large.
-* 她挑战了性别歧视的假设，帮助女性发展自我价值感，并在工作、家庭和整个社会中获得一定程度的平等。
-* In general, juries that have repeatedly reported an impasse are unlikely to reach consensus. But sometimes, those asked by a judge to try harder do return a verdict.
-* 一般来说，一再报告僵局的陪审团不太可能达成共识。但有时，那些被法官要求更加努力的人会做出判决。
-* An official who oversaw the vetting of ICE recruits cited an “unprecedented lowering of standards” amid a hiring surge.
-* 一位负责监督ICE新兵审查的官员表示，在招聘激增的情况下， “史无前例地降低了标准”。
-* Progressive faith leaders said invitations to a breakfast and an event at Madison Square Garden did not say they were tied to the Hindu nationalist group R.S.S.
-* 进步宗教领袖表示，麦迪逊广场花园早餐和活动的邀请并没有说他们与印度教民族主义团体R.S.S.有关
+* The jury has been deadlocked since at least Tuesday on whether to hold Lindsay Clancy legally responsible for the strangling deaths of her three children.
+* 至少从周二开始，陪审团就是否让林赛·克兰西（ Lindsay Clancy ）对她的三个孩子被勒死负有法律责任而陷入僵局。
+* A federal judge has temporarily blocked a Postal Service rule that could impede millions of mail voters. The Trump administration has asked the Supreme Court to weigh in.
+* 一名联邦法官暂时阻止了邮政服务规则，该规则可能会阻碍数百万邮寄选民。特朗普政府已要求最高法院进行权衡。
+* Two longtime friends rented jet skis for an hourlong excursion. They ended up fighting for their lives.
+* 两个老朋友租了喷气式滑雪板，进行为期一小时的短途旅行。他们最终为自己的生命而战。
+* Josh Turek is trying to turn deep-red Iowa blue as he runs for the U.S. Senate.
+* 乔希·图雷克（ Josh Turek ）竞选美国参议员时，正试图将深红色的爱荷华州变成蓝色。
+* Ella Langley’s smash has become an anthem in Austin, a singalong in Nashville and a case study in how the Texas brand travels.
+* Ella Langley的粉碎已经成为奥斯汀的一首国歌，纳什维尔的一首歌曲，以及德克萨斯品牌如何旅行的案例研究。
+* The union and federal prosecutors agreed that organized crime groups had been rooted out of union operations, the judge wrote.
+* 法官写道，工会和联邦检察官一致认为，有组织犯罪集团已经从工会行动中根除。
+* The move came days after the resignation of Daniel P. Driscoll, who had clashed with Defense Secretary Pete Hegseth over the purge of top generals in the Army.
+* 此举发生在丹尼尔· P ·德里斯科尔（ Daniel P. Driscoll ）辞职几天后，他曾与国防部长皮特·黑格塞斯（ Pete Hegseth ）就清洗陆军高级将领发生冲突。
+* Doug Burgum, the interior secretary, announced plans to start work on the site of the 250-foot-tall triumphal arch. Final approval of the project is still pending.
+* 内政部长Doug Burgum宣布计划在250英尺高的凯旋门开始工作。该项目的最终审批仍在等待中。
 
 ## New York Times Asia News
+* 
+* 
+* A court issued a warrant for Sara Duterte, who is accused of having threatened President Ferdinand R. Marcos Jr. and two of his relatives.
+* 法院对萨拉·杜特尔特（ Sara Duterte ）发出了逮捕令，她被指控威胁小费迪南德· R ·马科斯（ Ferdinand R. Marcos Jr. ）总统及其两名亲属。
+* With thousands still missing in Nepal’s floods, hundreds of families have turned to symbolic cremations to honor their loved ones. Our South Asia bureau chief, Mujib Mashal, witnessed one of the ceremonies.
+* 由于尼泊尔洪水仍有数千人失踪，数百个家庭已转向象征性的火葬来纪念他们的亲人。我们的南亚局局长穆吉布·马沙尔（ Mujib Mashal ）见证了其中一个仪式。
+* Thousands are missing, and some families have lost hope of recovering their bodies. To carry out his sacred duty, a son lights the funeral pyre for a straw effigy of his father.
+* 数千人失踪，一些家庭失去了恢复身体的希望。为了履行他的神圣职责，一个儿子点燃了他父亲的稻草肖像的火葬柴堆。
+* A powerful El Niño is fanning what could be Indonesia’s worst fire season in years, one that is also raising fears of a regional health crisis.
+* 一场强大的厄尔尼诺现象正在煽动印度尼西亚多年来最严重的火灾季节，这也引发了人们对区域卫生危机的担忧。
+* An Australian engineer advising the effort described how two men were freed after nine days trapped in a tunnel at the Upper Trishuli 3A hydropower plant.
+* 一位澳大利亚工程师为这项工作提供了建议，他描述了两名男子在被困在上Trishuli 3A水电站的隧道中9天后是如何被释放的。
+* 
+* 
+* Rescuers pulled out two survivors as the search continued for hundreds missing inside hydropower projects that were buried in the flooding catastrophe last week.
+* 救援人员救出了两名幸存者，因为上周在洪水灾难中埋葬的数百个水电站项目仍在继续寻找失踪人员。
 * China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own.
 * 中国表示，韩国光州双年展歪曲了台湾作为一个独立国家的地位。北京声称它是自己的。
 * The authorities said they uncovered the network after four flight attendants arriving from Paris were found with narcotics hidden in toothpaste tubes.
 * 当局表示，在从巴黎抵达的四名空乘人员被发现牙膏管中藏有毒品后，他们发现了这个网络。
-* The ruling effectively reinstates Mr. Bergdahl’s punishment, including his dishonorable discharge, for walking off a base in Afghanistan in 2009, prompting an extensive search-and-rescue mission.
-* 该裁决有效地恢复了伯格达尔先生因2009年离开阿富汗基地而受到的惩罚，包括他不光彩的退伍，这促使他进行了广泛的搜索和救援任务。
-* People are coming to take photos of the green-painted house, which kept the Pyakurel family safe as the area all around them was destroyed by rampaging floodwaters.
-* 人们前来拍摄这栋绿色粉刷的房子，这栋房子保护了Pyakurel一家的安全，因为他们周围的地区被洪水肆虐摧毁了。
-* China’s leader, Xi Jinping, is seeking to deepen ties with a longtime U.S. security partner and to project a larger role for Beijing in a region rocked by war.
-* 中国领导人习近平正在寻求加深与美国长期安全伙伴的关系，并希望北京在这个饱受战争蹂躏的地区发挥更大的作用。
-* After school shootings, Thailand and the Philippines are taking different approaches to the drills, which are common practice in the United States.
-* 校园枪击事件发生后，泰国和菲律宾对演习采取了不同的方法，这在美国很常见。
-* There are now 325 kakapos in New Zealand, the largest population of the giant, flightless parrot species in decades, conservationists said.
-* 保护主义者说，新西兰现在有325只卡卡波鹦鹉，是几十年来这种不会飞的巨型鹦鹉物种的最大种群。
-* Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln, which came into the spotlight because of a tough deployment in the war in Iran.
-* 成千上万的水手和海军陆战队员在亚伯拉罕·林肯号上服役，由于在伊朗战争中的艰难部署而成为人们关注的焦点。
-* The pro-democracy dissident was accused of urging Western politicians like Nancy Pelosi and Marco Rubio to pressure Hong Kong by imposing sanctions on the city.
-* 这位支持民主的持不同政见者被指控敦促南希·佩洛西(Nancy Pelosi)和马可·卢比奥(Marco Rubio)等西方政客通过对香港实施制裁来向香港施加压力。
-* The country’s government estimates that the recent catastrophic floods caused $5 billion in damage. That’s one-tenth of Nepal’s entire economy.
-* 该国政府估计，最近的灾难性洪水造成了50亿美元的损失。这占尼泊尔整个经济的十分之一。
 
