@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Europe’s options are limited in responding to an unnerving series of plots and provocations. But the odds of unpredictable consequences are rising.
-* 欧洲在应对一系列令人不安的阴谋和挑衅方面的选择有限。但是，不可预测后果的可能性正在上升。
-* Thousands are missing, and some families have lost hope of recovering their bodies. To carry out his sacred duty, a son lights the funeral pyre for a straw effigy of his father.
-* 数千人失踪，一些家庭失去了恢复身体的希望。为了履行他的神圣职责，一个儿子点燃了他父亲的稻草肖像的火葬柴堆。
-* Alejandro Betancourt has been targeted by multiple investigations. Now he’s the U.S. government’s unrivaled partner in President Trump’s bid to control Venezuelan oil resources.
-* Alejandro Betancourt已成为多项调查的目标。现在，在特朗普总统试图控制委内瑞拉石油资源的过程中，他是美国政府无与伦比的合作伙伴。
-* The Alternative for Germany party has tried to soften its hard-line image but is still privately working with extremists. It could win a state election on Sunday.
-* 德国另类选择党试图软化其强硬形象，但仍在私下与极端分子合作。它可能会在周日赢得州选举。
-* An Australian engineer advising the effort described how two men were freed after nine days trapped in a tunnel at the Upper Trishuli 3A hydropower plant.
-* 一位澳大利亚工程师为这项工作提供了建议，他描述了两名男子在被困在上Trishuli 3A水电站的隧道中9天后是如何被释放的。
-* The Houthis, an Iran-backed militia, appear to be trying to gain control of a port city near the Bab al-Mandab Strait, a key choke point for global trade.
-* 伊朗支持的民兵组织胡塞武装似乎正试图控制曼达布海峡（ Bab al-Mandab Strait ）附近的一个港口城市，曼达布海峡是全球贸易的关键咽喉点。
-* Abdulrahman al-Qaradawi was extradited from Lebanon to the Emirates, a close U.S. ally, after criticizing its government, in a case that alarmed human rights experts.
-* 阿卜杜勒拉赫曼·卡拉达维（ Abdulrahman al-Qaradawi ）在批评其政府后从黎巴嫩被引渡到美国的亲密盟友阿联酋，此案令人权专家感到震惊。
-* The recent capture of a strategic ridge has further entrenched the Israeli occupation of Lebanese territory, as efforts to broker lasting peace have floundered.
-* 随着促成持久和平的努力陷入困境，最近对战略山脊的占领进一步巩固了以色列对黎巴嫩领土的占领。
-* A court issued a warrant for Sara Duterte, who is accused of having threatened President Ferdinand R. Marcos Jr. and two of his relatives.
-* 法院对萨拉·杜特尔特（ Sara Duterte ）发出了逮捕令，她被指控威胁小费迪南德· R ·马科斯（ Ferdinand R. Marcos Jr. ）总统及其两名亲属。
-* Advisers to the Reform U.K. leader Nigel Farage were captured on film apparently arranging contributions from a man posing as a foreign donor.
-* 英国改革领袖奈杰尔·法拉奇（ Nigel Farage ）的顾问在电影中被捕，显然是在安排一名冒充外国捐赠者的男子的捐款。
+* Steve Witkoff, President Trump’s special envoy, and Jared Kushner, his son-in-law, arrived in Moscow to meet with the Russian leader. They plan to visit Kyiv next, in an effort to revive peace talks.
+* 特朗普总统的特使史蒂夫·维特科夫（ Steve Witkoff ）和他的女婿贾里德·库什纳（ Jared Kushner ）抵达莫斯科，与俄罗斯领导人会面。他们计划接下来访问基辅，以重启和平谈判。
+* James Orr, who has ties to Peter Thiel and JD Vance, was suspended from Reform U.K. after he was filmed apparently arranging contributions from a man posing as a foreign donor.
+* 詹姆斯·奥尔（ James Orr ）与彼得·泰尔（ Peter Thiel ）和JD ·万斯（ JD Vance ）有联系，在拍摄到一名冒充外国捐赠者的男子安排捐款后，他被英国改革党停职。
+* The improbable rescues came a day after two others were recovered from a buried tunnel.
+* 令人难以置信的救援行动发生在另外两人从埋在地下的隧道中被救出后的第二天。
+* The documents bolster allegations that the Sudanese military developed and used toxic bombs to gain an edge in the country’s devastating civil war.
+* 这些文件支持了关于苏丹军方开发和使用有毒炸弹在该国毁灭性内战中占据优势的指控。
+* The United States military has not confirmed an attack. The reports came after a barrage of U.S. strikes in retaliation for Iranian attacks on ships and American forces.
+* 美国军方尚未证实此次袭击。这些报道是在美国对伊朗袭击船只和美军进行报复的一系列罢工之后发布的。
+* Sunday’s vote in the state of Saxony-Anhalt could produce the strongest showing in the history of the Alternative for Germany party, and potentially a far-right government in the statehouse.
+* 周日在萨克森-安哈特州的投票可能会产生德国另类选择党历史上最强劲的表现，并可能成为州议会的极右翼政府。
+* A stopover in Thailand was welcome relief for thousands of troops aboard the U.S.S. Abraham Lincoln from a grueling deployment. But it was not a complete salve.
+* 美国“亚伯拉罕·林肯”号航空母舰上的数千名士兵因艰苦的部署而在泰国停留，这令人欣慰。但这并不是一个完整的药膏。
+* As the fear of a possible mobilization becomes a fixture of daily life across Russia, many men are deciding whether to flee, hide or sit tight.
+* 随着对可能动员的恐惧成为俄罗斯各地日常生活的一部分，许多人正在决定是逃离、躲藏还是坐下来。
+* A deadly campaign of Russian and Ukrainian airstrikes has escalated since the last U.S.-brokered negotiations stalled in February.
+* 自上次美国斡旋的谈判于2月陷入僵局以来，俄罗斯和乌克兰空袭的致命行动已经升级。
+* The skeletal remains will go back to the Indigenous Naga people of the Indian subcontinent, six years after formal repatriation efforts began.
+* 在正式遣返工作开始六年后，这些遗骸将被送回印度次大陆的土著Naga人手中。
 
 ## New York Times United States News
-* Judges approach complaints about jurors with caution, mindful that in the event of a conviction, a removal could be grounds for an appeal.
-* 法官谨慎处理有关陪审员的投诉，并注意到在定罪的情况下，撤职可能是上诉的理由。
-* 
-* 
-* The jury has been deadlocked since at least Tuesday on whether to hold Lindsay Clancy legally responsible for the strangling deaths of her three children.
-* 至少从周二开始，陪审团就是否让林赛·克兰西（ Lindsay Clancy ）对她的三个孩子被勒死负有法律责任而陷入僵局。
-* A federal judge has temporarily blocked a Postal Service rule that could impede millions of mail voters. The Trump administration has asked the Supreme Court to weigh in.
-* 一名联邦法官暂时阻止了邮政服务规则，该规则可能会阻碍数百万邮寄选民。特朗普政府已要求最高法院进行权衡。
-* Two longtime friends rented jet skis for an hourlong excursion. They ended up fighting for their lives.
-* 两个老朋友租了喷气式滑雪板，进行为期一小时的短途旅行。他们最终为自己的生命而战。
-* Josh Turek is trying to turn deep-red Iowa blue as he runs for the U.S. Senate.
-* 乔希·图雷克（ Josh Turek ）竞选美国参议员时，正试图将深红色的爱荷华州变成蓝色。
-* Ella Langley’s smash has become an anthem in Austin, a singalong in Nashville and a case study in how the Texas brand travels.
-* Ella Langley的粉碎已经成为奥斯汀的一首国歌，纳什维尔的一首歌曲，以及德克萨斯品牌如何旅行的案例研究。
-* The union and federal prosecutors agreed that organized crime groups had been rooted out of union operations, the judge wrote.
-* 法官写道，工会和联邦检察官一致认为，有组织犯罪集团已经从工会行动中根除。
-* The move came days after the resignation of Daniel P. Driscoll, who had clashed with Defense Secretary Pete Hegseth over the purge of top generals in the Army.
-* 此举发生在丹尼尔· P ·德里斯科尔（ Daniel P. Driscoll ）辞职几天后，他曾与国防部长皮特·黑格塞斯（ Pete Hegseth ）就清洗陆军高级将领发生冲突。
-* Doug Burgum, the interior secretary, announced plans to start work on the site of the 250-foot-tall triumphal arch. Final approval of the project is still pending.
-* 内政部长Doug Burgum宣布计划在250英尺高的凯旋门开始工作。该项目的最终审批仍在等待中。
+* Even as a jury failed to reach a verdict in Lindsay Clancy’s murder trial, her future is unlikely to include freedom, at least for a long time. But Americans have been divided over the goal of her confinement.
+* 即使陪审团未能对琳赛·克兰西（ Lindsay Clancy ）的谋杀案审判作出判决，她的未来也不太可能包括自由，至少在很长一段时间内如此。但美国人对她的禁闭目标存在分歧。
+* Data from Gallup shows that Democrats and Democratic-leaning independents have their largest advantage over Republicans since 2008.
+* 盖洛普的数据显示，自2008年以来，民主党人和倾向于民主党的独立人士比共和党人拥有最大的优势。
+* Racecars, crypto, billionaires, troops, sequins and a bloody cage fight.
+* 赛车、加密货币、亿万富翁、军队、亮片和血腥的笼战。
+* First Lt. Tyler James Feehan, who was 25, had been deployed to an air base in Jordan when enemy missiles and drones lit up the sky. He is among the 18 Americans who have died since the war began.
+* 25岁的泰勒·詹姆斯·菲汉（ Tyler James Feehan ）中尉被部署到约旦的一个空军基地，当时敌人的导弹和无人机照亮了天空。他是自战争开始以来死亡的18名美国人之一。
+* The governors of Texas and Florida have taken steps to curtail the use of license-plate readers, even as the police say they help with solving crime.
+* 德克萨斯州和佛罗里达州州长已采取措施限制使用车牌阅读器，尽管警方表示他们有助于解决犯罪问题。
+* A federal appeals court panel declined to let Homeland Security reopen access to a voter-screening tool that incorporated Social Security data.
+* 联邦上诉法院小组拒绝让国土安全部重新开放包含社会保障数据的选民筛选工具。
+* Matthew Bevin, the former Republican governor, was held in contempt for failing to abide by court orders to file financial disclosure documents, a lawyer said.
+* 一位律师表示，前共和党州长马修·贝文（ Matthew Bevin ）因未能遵守法院命令提交财务披露文件而被判藐视法庭。
+* About 50 people were tested, an unparalleled inquiry that comes in the wake of news reports about the war with Iran and the U.S. military’s diminished stocks of munitions.
+* 大约50人接受了测试，这是在关于与伊朗的战争和美国军方减少弹药库存的新闻报道之后进行的无与伦比的调查。
+* A judge appeared skeptical of the journalists’ arguments that they were fired for coverage of worsening conditions on a Navy warship.
+* 一名法官似乎对这些记者的论点持怀疑态度，即他们是因为报道海军军舰状况恶化而被解雇的。
+* The Trump administration’s effort to screen mail-in ballots for the midterms is facing numerous challenges.
+* 特朗普政府筛选中期邮寄选票的努力面临着众多挑战。
 
 ## New York Times Asia News
+* The improbable rescues came a day after two others were recovered from a buried tunnel.
+* 令人难以置信的救援行动发生在另外两人从埋在地下的隧道中被救出后的第二天。
+* A stopover in Thailand was welcome relief for thousands of troops aboard the U.S.S. Abraham Lincoln from a grueling deployment. But it was not a complete salve.
+* 美国“亚伯拉罕·林肯”号航空母舰上的数千名士兵因艰苦的部署而在泰国停留，这令人欣慰。但这并不是一个完整的药膏。
+* The skeletal remains will go back to the Indigenous Naga people of the Indian subcontinent, six years after formal repatriation efforts began.
+* 在正式遣返工作开始六年后，这些遗骸将被送回印度次大陆的土著Naga人手中。
+* One of two workers rescued from a hydroelectric plant said he had recited prayers over and over while trapped deep underground. “How many days has it been?” he asked.
+* 从水力发电厂救出的两名工人中有一名说，他在被困在地下深处时一遍又一遍地背诵祈祷。“已经过了几天了？”他问。
+* The Japanese chemist played a key role in the discovery of electricity-conducting plastics, largely by accident.
+* 这位日本化学家在发现导电塑料方面发挥了关键作用，这主要是偶然的。
 * 
 * 
 * A court issued a warrant for Sara Duterte, who is accused of having threatened President Ferdinand R. Marcos Jr. and two of his relatives.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 数千人失踪，一些家庭失去了恢复身体的希望。为了履行他的神圣职责，一个儿子点燃了他父亲的稻草肖像的火葬柴堆。
 * A powerful El Niño is fanning what could be Indonesia’s worst fire season in years, one that is also raising fears of a regional health crisis.
 * 一场强大的厄尔尼诺现象正在煽动印度尼西亚多年来最严重的火灾季节，这也引发了人们对区域卫生危机的担忧。
-* An Australian engineer advising the effort described how two men were freed after nine days trapped in a tunnel at the Upper Trishuli 3A hydropower plant.
-* 一位澳大利亚工程师为这项工作提供了建议，他描述了两名男子在被困在上Trishuli 3A水电站的隧道中9天后是如何被释放的。
-* 
-* 
-* Rescuers pulled out two survivors as the search continued for hundreds missing inside hydropower projects that were buried in the flooding catastrophe last week.
-* 救援人员救出了两名幸存者，因为上周在洪水灾难中埋葬的数百个水电站项目仍在继续寻找失踪人员。
-* China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own.
-* 中国表示，韩国光州双年展歪曲了台湾作为一个独立国家的地位。北京声称它是自己的。
-* The authorities said they uncovered the network after four flight attendants arriving from Paris were found with narcotics hidden in toothpaste tubes.
-* 当局表示，在从巴黎抵达的四名空乘人员被发现牙膏管中藏有毒品后，他们发现了这个网络。
 
