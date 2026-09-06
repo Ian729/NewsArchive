@@ -2,52 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Steve Witkoff, President Trump’s special envoy, and Jared Kushner, his son-in-law, arrived in Moscow to meet with the Russian leader. They plan to visit Kyiv next, in an effort to revive peace talks.
-* 特朗普总统的特使史蒂夫·维特科夫（ Steve Witkoff ）和他的女婿贾里德·库什纳（ Jared Kushner ）抵达莫斯科，与俄罗斯领导人会面。他们计划接下来访问基辅，以重启和平谈判。
-* James Orr, who has ties to Peter Thiel and JD Vance, was suspended from Reform U.K. after he was filmed apparently arranging contributions from a man posing as a foreign donor.
-* 詹姆斯·奥尔（ James Orr ）与彼得·泰尔（ Peter Thiel ）和JD ·万斯（ JD Vance ）有联系，在拍摄到一名冒充外国捐赠者的男子安排捐款后，他被英国改革党停职。
-* The improbable rescues came a day after two others were recovered from a buried tunnel.
-* 令人难以置信的救援行动发生在另外两人从埋在地下的隧道中被救出后的第二天。
-* The documents bolster allegations that the Sudanese military developed and used toxic bombs to gain an edge in the country’s devastating civil war.
-* 这些文件支持了关于苏丹军方开发和使用有毒炸弹在该国毁灭性内战中占据优势的指控。
-* The United States military has not confirmed an attack. The reports came after a barrage of U.S. strikes in retaliation for Iranian attacks on ships and American forces.
-* 美国军方尚未证实此次袭击。这些报道是在美国对伊朗袭击船只和美军进行报复的一系列罢工之后发布的。
-* Sunday’s vote in the state of Saxony-Anhalt could produce the strongest showing in the history of the Alternative for Germany party, and potentially a far-right government in the statehouse.
-* 周日在萨克森-安哈特州的投票可能会产生德国另类选择党历史上最强劲的表现，并可能成为州议会的极右翼政府。
-* A stopover in Thailand was welcome relief for thousands of troops aboard the U.S.S. Abraham Lincoln from a grueling deployment. But it was not a complete salve.
-* 美国“亚伯拉罕·林肯”号航空母舰上的数千名士兵因艰苦的部署而在泰国停留，这令人欣慰。但这并不是一个完整的药膏。
-* As the fear of a possible mobilization becomes a fixture of daily life across Russia, many men are deciding whether to flee, hide or sit tight.
-* 随着对可能动员的恐惧成为俄罗斯各地日常生活的一部分，许多人正在决定是逃离、躲藏还是坐下来。
+* Ulrich Siegmund, 35, once sold air fresheners. Now his far-right party is the favorite to win a state election in eastern Germany on Sunday.
+* 35岁的乌尔里希·西格蒙德（ Ulrich Siegmund ）曾经卖过空气清新剂。现在，他的极右翼政党是周日在德国东部赢得州选举的最爱。
+* Steve Witkoff and Jared Kushner were meeting on Sunday with Volodymyr Zelensky in Ukraine, a day after talks with Vladimir V. Putin in Moscow.
+* 史蒂夫·维特科夫(Steve Witkoff)和贾里德·库什纳(Jared Kushner)周日在莫斯科与弗拉基米尔· V ·普京(Vladimir V. Putin)会谈一天后，在乌克兰会见
+* Secret military audits reveal a military procurement system riddled with mismanagement. In 2024 alone, Ukraine lost $1.2 billion to fraud and waste.
+* 秘密军事审计揭示了一个充斥着管理不善的军事采购系统。仅在2024年，乌克兰就因欺诈和浪费损失了12 $。
+* Alberta produces 40 percent of Canada’s honey. This year, rain and President Trump’s trade war have combined to threaten the industry.
+* 阿尔伯塔省生产加拿大40%的蜂蜜。今年，雨水和特朗普总统的贸易战共同威胁着该行业。
+* A record 12.7 million young people are looking for jobs as the country embraces artificial intelligence — and as the technology begins to upend the work force.
+* 随着该国拥抱人工智能，以及该技术开始颠覆劳动力队伍，创纪录的1270万年轻人正在寻找工作。
 * A deadly campaign of Russian and Ukrainian airstrikes has escalated since the last U.S.-brokered negotiations stalled in February.
 * 自上次美国斡旋的谈判于2月陷入僵局以来，俄罗斯和乌克兰空袭的致命行动已经升级。
-* The skeletal remains will go back to the Indigenous Naga people of the Indian subcontinent, six years after formal repatriation efforts began.
-* 在正式遣返工作开始六年后，这些遗骸将被送回印度次大陆的土著Naga人手中。
+* Elections in Saxony-Anhalt, in the country’s east, could result in an outright majority for the Alternative for Germany party.
+* 该国东部萨克森-安哈尔特州的选举可能导致德国另类选择党获得绝对多数。
+* President Vladimir V. Putin ordered a pause in strikes on Ukraine’s capital, Kyiv, ahead of the meeting with President Trump’s envoys: his son-in-law Jared Kushner and the businessman Steve Witkoff.
+* 俄罗斯总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）下令暂停对乌克兰首都基辅的罢工，然后与特朗普总统的特使会面：他的女婿贾里德·库什纳（ Jared Kushner ）和商人史蒂夫·维特科夫（ Steve Witkoff ）。
+* A rescue from a mostly buried house gave new hope to a town devastated by floods in Nepal. Earlier Saturday, another survivor had been pulled from a tunnel.
+* 从一座大部分被掩埋的房屋中获救给尼泊尔遭受洪水破坏的小镇带来了新的希望。星期六早些时候，另一名幸存者从隧道中被救出。
+* The documents amount to an autopsy of the weapons-contracting process.
+* 这些文件相当于对武器承包过程的尸体解剖。
 
 ## New York Times United States News
-* Even as a jury failed to reach a verdict in Lindsay Clancy’s murder trial, her future is unlikely to include freedom, at least for a long time. But Americans have been divided over the goal of her confinement.
-* 即使陪审团未能对琳赛·克兰西（ Lindsay Clancy ）的谋杀案审判作出判决，她的未来也不太可能包括自由，至少在很长一段时间内如此。但美国人对她的禁闭目标存在分歧。
-* Data from Gallup shows that Democrats and Democratic-leaning independents have their largest advantage over Republicans since 2008.
-* 盖洛普的数据显示，自2008年以来，民主党人和倾向于民主党的独立人士比共和党人拥有最大的优势。
-* Racecars, crypto, billionaires, troops, sequins and a bloody cage fight.
-* 赛车、加密货币、亿万富翁、军队、亮片和血腥的笼战。
-* First Lt. Tyler James Feehan, who was 25, had been deployed to an air base in Jordan when enemy missiles and drones lit up the sky. He is among the 18 Americans who have died since the war began.
-* 25岁的泰勒·詹姆斯·菲汉（ Tyler James Feehan ）中尉被部署到约旦的一个空军基地，当时敌人的导弹和无人机照亮了天空。他是自战争开始以来死亡的18名美国人之一。
-* The governors of Texas and Florida have taken steps to curtail the use of license-plate readers, even as the police say they help with solving crime.
-* 德克萨斯州和佛罗里达州州长已采取措施限制使用车牌阅读器，尽管警方表示他们有助于解决犯罪问题。
-* A federal appeals court panel declined to let Homeland Security reopen access to a voter-screening tool that incorporated Social Security data.
-* 联邦上诉法院小组拒绝让国土安全部重新开放包含社会保障数据的选民筛选工具。
-* Matthew Bevin, the former Republican governor, was held in contempt for failing to abide by court orders to file financial disclosure documents, a lawyer said.
-* 一位律师表示，前共和党州长马修·贝文（ Matthew Bevin ）因未能遵守法院命令提交财务披露文件而被判藐视法庭。
-* About 50 people were tested, an unparalleled inquiry that comes in the wake of news reports about the war with Iran and the U.S. military’s diminished stocks of munitions.
-* 大约50人接受了测试，这是在关于与伊朗的战争和美国军方减少弹药库存的新闻报道之后进行的无与伦比的调查。
-* A judge appeared skeptical of the journalists’ arguments that they were fired for coverage of worsening conditions on a Navy warship.
-* 一名法官似乎对这些记者的论点持怀疑态度，即他们是因为报道海军军舰状况恶化而被解雇的。
-* The Trump administration’s effort to screen mail-in ballots for the midterms is facing numerous challenges.
-* 特朗普政府筛选中期邮寄选票的努力面临着众多挑战。
+* The president’s strategy, message and spending have left the G.O.P. in a difficult spot as lawmakers try to outrun his sagging approval ratings.
+* 总统的战略、信息和支出使共和党陷入困境，因为立法者试图超越他下滑的支持率。
+* More than 120 people were arrested at a Memphis cantina, in one of the biggest immigration operations in Tennessee this year.
+* 在今年田纳西州最大的移民行动之一的孟菲斯酒吧，有120多人被捕。
+* The fight reflects a larger American phenomenon: Churchgoers increasingly want decisions to be made at the local level, not by a national denomination.
+* 这场斗争反映了一个更大的美国现象：教会信徒越来越希望在地方层面做出决定，而不是由国家教派做出决定。
+* From Oregon to Florida, officials are at once reassuring voters that their ballots are safe and encouraging them to use drop boxes or vote in person.
+* 从俄勒冈州到佛罗里达州，官员们立即向选民保证他们的选票是安全的，并鼓励他们使用投递箱或亲自投票。
+* The state has not elected a Republican to the Senate since 2010. But Chris Pappas, the likely Democratic nominee, anticipates a tough race against a well-known opponent, John E. Sununu.
+* 自2010年以来，该州没有选举过共和党参议员。但可能获得民主党提名的克里斯·帕帕斯（ Chris Pappas ）预计将与知名对手约翰· E ·苏努努（ John E. Sununu ）进行一场艰苦的比
+* The hiring of Nate Hochman, who lost his job amid an uproar over a video containing a Nazi symbol, underscores the administration’s willingness to overlook past transgressions.
+* 内特·霍克曼（ Nate Hochman ）因一段包含纳粹标志的视频引起轩然大波而失去工作，这突显出政府愿意忽视过去的违规行为。
+* Gen. Christopher T. Donahue’s vision for fighting future wars won him powerful supporters around the world. Could they save his career?
+* 克里斯托弗· T ·多纳休（ Christopher T. Donahue ）将军对未来战争的愿景为他赢得了世界各地的强大支持者。他们能挽救他的事业吗？
+* Unlike dozens of similar strikes, no one was killed after people suspected of drug smuggling were removed from what the U.S. military described as a floating refueling station.
+* 与数十次类似的袭击不同，在涉嫌毒品走私的人从美国军方称之为浮动加油站的地方被移走后，没有人被杀。
+* The defense lawyer for Lindsay Clancy showed empathy for his client in showcasing her mental health problems. That may have made all the difference.
+* Lindsay Clancy的辩护律师对他的客户展示她的心理健康问题表示同情。这可能起到了很大的作用。
+* She edited the landmark 1970 anthology “Sisterhood Is Powerful,” led Ms. magazine and helped build the institutions of the modern feminist movement.
+* 她编辑了具有里程碑意义的1970年选集《姐妹关系是强大的》（ Sisterhood Is Powerful ） ，领导了《女士》杂志，并帮助建立了现代女权运动的机构。
 
 ## New York Times Asia News
-* The improbable rescues came a day after two others were recovered from a buried tunnel.
-* 令人难以置信的救援行动发生在另外两人从埋在地下的隧道中被救出后的第二天。
+* Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.
+* 华盛顿因与中国军方合作而对浪潮实施制裁。但该公司的子公司继续运送英伟达最好的芯片，以满足中国领先的人工智能公司的需求。
+* A record 12.7 million young people are looking for jobs as the country embraces artificial intelligence — and as the technology begins to upend the work force.
+* 随着该国拥抱人工智能，以及该技术开始颠覆劳动力队伍，创纪录的1270万年轻人正在寻找工作。
+* A rescue from a mostly buried house gave new hope to a town devastated by floods in Nepal. Earlier Saturday, another survivor had been pulled from a tunnel.
+* 从一座大部分被掩埋的房屋中获救给尼泊尔遭受洪水破坏的小镇带来了新的希望。星期六早些时候，另一名幸存者从隧道中被救出。
 * A stopover in Thailand was welcome relief for thousands of troops aboard the U.S.S. Abraham Lincoln from a grueling deployment. But it was not a complete salve.
 * 美国“亚伯拉罕·林肯”号航空母舰上的数千名士兵因艰苦的部署而在泰国停留，这令人欣慰。但这并不是一个完整的药膏。
 * The skeletal remains will go back to the Indigenous Naga people of the Indian subcontinent, six years after formal repatriation efforts began.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 法院对萨拉·杜特尔特（ Sara Duterte ）发出了逮捕令，她被指控威胁小费迪南德· R ·马科斯（ Ferdinand R. Marcos Jr. ）总统及其两名亲属。
 * With thousands still missing in Nepal’s floods, hundreds of families have turned to symbolic cremations to honor their loved ones. Our South Asia bureau chief, Mujib Mashal, witnessed one of the ceremonies.
 * 由于尼泊尔洪水仍有数千人失踪，数百个家庭已转向象征性的火葬来纪念他们的亲人。我们的南亚局局长穆吉布·马沙尔（ Mujib Mashal ）见证了其中一个仪式。
-* Thousands are missing, and some families have lost hope of recovering their bodies. To carry out his sacred duty, a son lights the funeral pyre for a straw effigy of his father.
-* 数千人失踪，一些家庭失去了恢复身体的希望。为了履行他的神圣职责，一个儿子点燃了他父亲的稻草肖像的火葬柴堆。
-* A powerful El Niño is fanning what could be Indonesia’s worst fire season in years, one that is also raising fears of a regional health crisis.
-* 一场强大的厄尔尼诺现象正在煽动印度尼西亚多年来最严重的火灾季节，这也引发了人们对区域卫生危机的担忧。
 
