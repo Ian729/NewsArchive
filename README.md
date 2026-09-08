@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Antipathy to Chancellor Friedrich Merz was a reason the far right surged in a state election. Though he does not face a national election until 2029, his leadership is under increasing scrutiny.
+* 对总理弗里德里希·默茨（ Friedrich Merz ）的反感是极右翼在州选举中飙升的一个原因。尽管他要到2029年才会面临全国大选，但他的领导力正受到越来越多的审查。
+* Melting ice is opening a trade route through the Arctic. China has begun the first regular service, part of its polar ambitions.
+* 融化的冰正在开辟一条穿越北极的贸易路线。中国已经开始了第一次定期航班，这是其极地野心的一部分。
+* The U.K. said Israel had “turned a blind eye” to violence against Palestinians by extremist settlers, as it and other countries announced a ban on trade with illegal settlements.
+* 英国表示，由于以色列和其他国家宣布禁止与非法定居点进行贸易，以色列对极端主义定居者针对巴勒斯坦人的暴力行为“视而不见”。
+* The latest escalation threatens to drag Saudi Arabia and the Iran-backed Houthi militia back into a full-blown war.
+* 最新的升级有可能将沙特阿拉伯和伊朗支持的胡塞民兵拖入一场全面的战争。
+* The authorities have not released an official list of those missing in the Tibet flood, creating an information void that people have tried to fill.
+* 当局尚未公布西藏洪水中失踪人员的官方名单，造成人们试图填补的信息空白。
+* Technology companies have been “running real-time, unregulated product testing on Australians” for too long, communications minister says.
+* 通信部长表示，科技公司长期以来一直在“对澳大利亚人进行实时、不受监管的产品测试”。
+* Targeting traffickers will be at the top of the agenda as Secretary of State Marco Rubio visits Colombia, according to people familiar with his plans.
+* 据知情人士透露，在国务卿马可·卢比奥（ Marco Rubio ）访问哥伦比亚期间，打击贩运者将成为议程的首要议题。
+* Russia agreed not to bomb Ukraine’s capital during Steve Witkoff and Jared Kushner’s visit there. The respite was short-lived.
+* 在史蒂夫·维特科夫（ Steve Witkoff ）和贾里德·库什纳（ Jared Kushner ）访问乌克兰期间，俄罗斯同意喘息是短暂的。
 * The Trump administration had let the peace process enter such a freeze that a trip to Kyiv was just an initial step. Any new talks will happen alongside escalating fighting.
 * 特朗普政府让和平进程陷入如此僵局，以至于前往基辅只是第一步。任何新的谈判都将在战斗升级的同时进行。
 * The bombardment killed 11 people, Lebanese officials said, after days of attacks that have spurred worries that Israel is looking to push deeper into Lebanese territory.
 * 黎巴嫩官员说，轰炸造成11人死亡，此前几天的袭击引发了人们的担忧，即以色列正寻求深入黎巴嫩领土。
-* A blowout win by the far-right Alternative for Germany party in a state election has revealed a split among voters about whether to uphold a decades-old strategy for sidelining extremists.
-* 极右翼的德国另类选择党（ Alternative for Germany ）在州选举中的井喷式胜利揭示了选民对于是否坚持数十年来将极端主义分子置于边缘地位的战略存在分歧。
-* New Canadian levies of up to 50 percent are expected to begin Tuesday, even as Washington warns of a new round of American tariffs.
-* 预计加拿大将于周二开始征收高达50%的新关税，尽管华盛顿警告称美国将征收新一轮关税。
-* The government insisted the funeral was a private affair, even as government ministers attended and state-controlled news media lavished praise on the convicted war criminal.
-* 政府坚称葬礼是私人事务，尽管政府部长出席了葬礼，国家控制的新闻媒体对被定罪的战争罪犯大加赞扬。
-* As Secretary of State Marco Rubio travels this week to Peru, its growing economic ties to China have raised tensions with the U.S., but show no signs of reversing course.
-* 随着国务卿马可·卢比奥（ Marco Rubio ）本周访问秘鲁，秘鲁与中国日益增长的经济联系加剧了与美国的紧张关系，但没有显示出逆转的迹象。
-* The Alternative for Germany, or AfD, does not have a straightforward path to governing Saxony-Anhalt, but a small populist party could clear the way.
-* 德国的另类选择（ AfD ）没有一条直接的途径来治理萨克森-安哈特州，但一个小型民粹主义政党可以为之扫清道路。
-* The Alternative for Germany, or AfD, trounced its rivals but was left unsure if it will be able to govern in Saxony-Anhalt. The result shocked Germany.
-* 德国的替代方案（ AfD ）击败了其竞争对手，但不确定它是否能够在萨克森-安哈尔特州执政。结果震惊了德国。
-* A vote in eastern Germany has given fresh momentum to hard-right parties hoping to win elections elsewhere on the continent next year, analysts said.
-* 分析师表示，德国东部的投票为希望明年在欧洲大陆其他地方赢得选举的极右翼政党提供了新的动力。
-* Steve Witkoff and Jared Kushner met on Sunday with Volodymyr Zelensky in Kyiv, a day after talks with Vladimir V. Putin in Moscow.
-* 史蒂夫·维特科夫(Steve Witkoff)和贾里德·库什纳(Jared Kushner)在莫斯科与弗拉基米尔· V ·普京(Vladimir V. Putin)会谈一天后，于周日在基辅
 
 ## New York Times United States News
-* From Iowa to Michigan to Texas, key contests will offer clues about voters’ views of President Trump, progressive ideas, the war with Iran and more.
-* 从爱荷华州到密歇根州再到德克萨斯州，关键的竞赛将提供有关选民对特朗普总统的看法、进步思想、与伊朗的战争等的线索。
-* The senator opted to run for governor, having concluded that many Minnesotans lost faith in state government under fellow Democrats. But some wonder: Would she be a fighter in the role, or a conciliator?
-* 这位参议员选择竞选州长，得出的结论是，许多明尼苏达人在民主党同僚的领导下对州政府失去了信心。但有些人想知道：她是扮演角色的战士，还是调解人？
-* In Colorado and across the country, higher costs, tariffs and cheap beef imports are affecting voters who will help determine which party controls the House next year.
-* 在科罗拉多州和全国各地，更高的成本、关税和廉价的牛肉进口正在影响选民，他们将帮助确定明年哪一方控制众议院。
-* The suggestion, posted on social media, appeared to be the latest in the president’s efforts to alter geographic names.
-* 该建议发布在社交媒体上，似乎是总统改变地名的最新举措。
-* Gas prices have risen sharply since the start of the Iran war. Some drivers are using special techniques to maximize their miles per gallon and save at the pump.
-* 自伊朗战争开始以来，天然气价格大幅上涨。一些合作车主正在使用特殊技术，以最大限度地提高每加仑里程数，并在加油时节省费用。
-* Candidates have traded attacks on votes to releasing the Epstein files and political donations from those with links to Jeffrey Epstein.
-* 候选人通过对选票的攻击来释放与杰弗里·爱泼斯坦有联系的人的爱泼斯坦文件和政治捐款。
-* President Trump is basking in the momentum of the various projects he has spurred around downtown Washington.
-* 特朗普总统正在充分利用他在华盛顿市中心周围推动的各种项目的势头。
-* Jefferson County, Colo., is one of the few public school systems to sue the Trump administration over demands that it revoke transgender protections or face funding cuts.
-* 科罗拉多州杰斐逊县是起诉特朗普政府要求其撤销跨性别保护或面临资金削减的少数公立学校系统之一。
-* California has 60,000 black bears, and they are venturing far from their usual habitat in search of food and shelter. It’s the humans who have to adapt.
-* 加利福尼亚州有6万只黑熊，它们正在远离通常的栖息地寻找食物和住所。人类必须适应。
-* The swing state of Wisconsin had one of the most undemocratic State Assembly maps in the country. Now Democrats have a chance to take control of the legislature.
-* 摇摆州威斯康星州拥有该国最不民主的州议会地图之一。现在民主党有机会控制立法机构。
+* 
+* 
+* Patrick Clancy’s lawyer said that he would seek help from the authorities in response to conspiracy theorists who have accused him of killing his children and framing Ms. Clancy.
+* 帕特里克·克兰西（ Patrick Clancy ）的律师表示，他将寻求当局的帮助，以回应阴谋论者指责他杀害自己的孩子并陷害克兰西女士。
+* A scathing report issued by the House Oversight Committee blamed the Navy for repeatedly failing to act, and recommended that Congress pass legislation to study and treat aviators.
+* 众议院监督委员会发布的一份严厉的报告指责海军一再未能采取行动，并建议国会通过立法来研究和对待飞行员。
+* Lue Yang, who was convicted in a home invasion as a teenager, was facing deportation to Laos. With a plane on the tarmac, he wondered whether an appeal would be heard.
+* Lue Yang十几岁时在一次入室行窃中被定罪，正面临被驱逐到老挝。停机坪上有一架飞机，他想知道是否会听到上诉。
+* The attack, discovered by A.I. researchers, could have compromised hundreds of millions of devices within hours, experts said.
+* 专家说，人工智能研究人员发现的攻击可能在几小时内破坏了数亿台设备。
+* William Lawrence, a progressive challenging a first-term Republican, is trying to rewrite the playbook for Democrats running in swing districts.
+* 威廉·劳伦斯（ William Lawrence ）是一位挑战共和党第一任期的进步主义者，他正试图重写民主党在摇摆区竞选的剧本。
+* Americans in border regions have had symbiotic relationships with Canadians, but the trade war is testing their bonds.
+* 边境地区的美国人与加拿大人有着共生关系，但贸易战正在考验他们的纽带。
+* A coalition of Jewish leaders is launching a petition drive aimed at the Democratic Senate nominee, a fresh indicator of frictions in a key battleground.
+* 一个犹太领导人联盟正在发起针对民主党参议院候选人的请愿活动，这是一个关键战场上摩擦的新指标。
+* Voters will nominate candidates for one of the most high-stakes Senate races in the country. And a Democratic House primary has emerged as a test of the party’s establishment.
+* 选民将提名候选人参加该国最具风险的参议院竞选之一。民主党众议院初选已经成为对该党成立的考验。
+* Relatives who traveled to the U.S. Navy base in Guantánamo Bay left memory stones and messages for those killed in the attacks 25 years ago.
+* 前往关塔那摩湾美国海军基地的亲属为25年前的袭击事件中遇难者留下了记忆宝石和信息。
 
 ## New York Times Asia News
+* Lue Yang, who was convicted in a home invasion as a teenager, was facing deportation to Laos. With a plane on the tarmac, he wondered whether an appeal would be heard.
+* Lue Yang十几岁时在一次入室行窃中被定罪，正面临被驱逐到老挝。停机坪上有一架飞机，他想知道是否会听到上诉。
+* The tower was closed on Monday, after the workers’ union said female staff had been asked to leave their stations for a visit from a group known as BAPS.
+* 该塔于周一关闭，此前工会表示，女性工作人员已被要求离开车站，接受一个名为BAPS的团体的访问。
+* The experiences Ms. Kuang had during a summer spent studying Mandarin in the Taiwanese capital helped her shape her newest novel, “Taipei Story.”
+* 匡女士在一个夏天在台湾首都学习普通话的经历帮助她塑造了她的最新小说《台北故事》。
+* Melting ice is opening a trade route through the Arctic. China has begun the first regular service, part of its polar ambitions.
+* 融化的冰正在开辟一条穿越北极的贸易路线。中国已经开始了第一次定期航班，这是其极地野心的一部分。
+* China’s exports grew by a quarter in the month of August, weeks before its leader, Xi Jinping, is set to meet with President Trump in Washington.
+* 8月份，中国的出口增长了四分之一，几周后，中国领导人习近平将在华盛顿会见特朗普总统。
+* The authorities have not released an official list of those missing in the Tibet flood, creating an information void that people have tried to fill.
+* 当局尚未公布西藏洪水中失踪人员的官方名单，造成人们试图填补的信息空白。
+* A cousin of President Ferdinand Marcos Jr. was charged with plundering public funds meant for flood control in the Southeast Asian country. He has denied wrongdoing.
+* 小费迪南德·马科斯（ Ferdinand Marcos Jr. ）总统的堂兄被控掠夺用于东南亚国家防洪的公共资金。他否认有不当行为。
 * Rescue crews were working to find people trapped in the wreckage of the building, which collapsed on Sunday.
 * 救援人员正在努力寻找被困在周日倒塌的建筑物残骸中的人员。
 * The contactless version of the Korean martial art is making its debut at this year’s Asian Games. Critics say it’s a glorified video game.
 * 韩国武术的非接触式版本正在今年的亚运会上首次亮相。批评人士说，这是一款荣耀的视频游戏。
 * Microplastics are usually consumed through food and water, but more recently, they are making their way into Indonesia’s air and rain. Sui-Lee Wee, our Asia business correspondent, traveled to Jakarta, the capital, to find out why.
 * 微塑料通常通过食物和水消耗，但最近，它们正在进入印度尼西亚的空气和雨水中。我们的亚洲业务记者Sui-Lee Wee前往首都雅加达了解原因。
-* Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.
-* 华盛顿因与中国军方合作而对浪潮实施制裁。但该公司的子公司继续运送英伟达最好的芯片，以满足中国领先的人工智能公司的需求。
-* A record 12.7 million young people are looking for jobs as the country embraces artificial intelligence — and as the technology begins to upend the work force.
-* 随着该国拥抱人工智能，以及该技术开始颠覆劳动力队伍，创纪录的1270万年轻人正在寻找工作。
-* A rescue from a mostly buried house gave new hope to a town devastated by floods in Nepal. Earlier Saturday, another survivor had been pulled from a tunnel.
-* 从一座大部分被掩埋的房屋中获救给尼泊尔遭受洪水破坏的小镇带来了新的希望。星期六早些时候，另一名幸存者从隧道中被救出。
-* A stopover in Thailand was welcome relief for thousands of troops aboard the U.S.S. Abraham Lincoln from a grueling deployment. But it was not a complete salve.
-* 美国“亚伯拉罕·林肯”号航空母舰上的数千名士兵因艰苦的部署而在泰国停留，这令人欣慰。但这并不是一个完整的药膏。
-* The skeletal remains will go back to the Indigenous Naga people of the Indian subcontinent, six years after formal repatriation efforts began.
-* 在正式遣返工作开始六年后，这些遗骸将被送回印度次大陆的土著Naga人手中。
-* One of two workers rescued from a hydroelectric plant said he had recited prayers over and over while trapped deep underground. “How many days has it been?” he asked.
-* 从水力发电厂救出的两名工人中有一名说，他在被困在地下深处时一遍又一遍地背诵祈祷。“已经过了几天了？”他问。
-* The Japanese chemist played a key role in the discovery of electricity-conducting plastics, largely by accident.
-* 这位日本化学家在发现导电塑料方面发挥了关键作用，这主要是偶然的。
 
