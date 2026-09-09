@@ -2,54 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Antipathy to Chancellor Friedrich Merz was a reason the far right surged in a state election. Though he does not face a national election until 2029, his leadership is under increasing scrutiny.
-* 对总理弗里德里希·默茨（ Friedrich Merz ）的反感是极右翼在州选举中飙升的一个原因。尽管他要到2029年才会面临全国大选，但他的领导力正受到越来越多的审查。
-* Melting ice is opening a trade route through the Arctic. China has begun the first regular service, part of its polar ambitions.
-* 融化的冰正在开辟一条穿越北极的贸易路线。中国已经开始了第一次定期航班，这是其极地野心的一部分。
-* The U.K. said Israel had “turned a blind eye” to violence against Palestinians by extremist settlers, as it and other countries announced a ban on trade with illegal settlements.
-* 英国表示，由于以色列和其他国家宣布禁止与非法定居点进行贸易，以色列对极端主义定居者针对巴勒斯坦人的暴力行为“视而不见”。
-* The latest escalation threatens to drag Saudi Arabia and the Iran-backed Houthi militia back into a full-blown war.
-* 最新的升级有可能将沙特阿拉伯和伊朗支持的胡塞民兵拖入一场全面的战争。
-* The authorities have not released an official list of those missing in the Tibet flood, creating an information void that people have tried to fill.
-* 当局尚未公布西藏洪水中失踪人员的官方名单，造成人们试图填补的信息空白。
-* Technology companies have been “running real-time, unregulated product testing on Australians” for too long, communications minister says.
-* 通信部长表示，科技公司长期以来一直在“对澳大利亚人进行实时、不受监管的产品测试”。
-* Targeting traffickers will be at the top of the agenda as Secretary of State Marco Rubio visits Colombia, according to people familiar with his plans.
-* 据知情人士透露，在国务卿马可·卢比奥（ Marco Rubio ）访问哥伦比亚期间，打击贩运者将成为议程的首要议题。
-* Russia agreed not to bomb Ukraine’s capital during Steve Witkoff and Jared Kushner’s visit there. The respite was short-lived.
-* 在史蒂夫·维特科夫（ Steve Witkoff ）和贾里德·库什纳（ Jared Kushner ）访问乌克兰期间，俄罗斯同意喘息是短暂的。
-* The Trump administration had let the peace process enter such a freeze that a trip to Kyiv was just an initial step. Any new talks will happen alongside escalating fighting.
-* 特朗普政府让和平进程陷入如此僵局，以至于前往基辅只是第一步。任何新的谈判都将在战斗升级的同时进行。
-* The bombardment killed 11 people, Lebanese officials said, after days of attacks that have spurred worries that Israel is looking to push deeper into Lebanese territory.
-* 黎巴嫩官员说，轰炸造成11人死亡，此前几天的袭击引发了人们的担忧，即以色列正寻求深入黎巴嫩领土。
+* When a truck driver unexpectedly collapsed and died in a remote village, frontline medical staff scrambled to safely isolate his body, triggering a standoff.
+* 当一名卡车司机在一个偏远的村庄意外倒塌并死亡时，前线医务人员争先恐后地将他的身体安全隔离，引发了对峙。
+* Britain once followed in France’s slipstream when it came to pressuring Israel. Under new leadership, it is spearheading opposition to Israeli settlements, risking American anger.
+* 在向以色列施压方面，英国曾效仿法国的滑流。在新的领导下，它带头反对以色列定居点，冒着美国愤怒的风险。
+* The Iranian government is taking an increasingly aggressive approach as it confronts a growing economic threat and worries that its grip on the Strait of Hormuz is slipping, analysts say.
+* 分析人士表示，伊朗政府正采取越来越激进的态度，因为它面临着日益严重的经济威胁，并担心其对霍尔木兹海峡的控制正在下滑。
+* An unexpected request from President Volodymyr Zelensky offered a stark reminder that the cost of the war will rise, challenging Europe.
+* 总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）的一个意想不到的要求严峻地提醒人们，战争的成本将上升，对欧洲构成挑战。
+* Germany’s far right won a state election but fell short of a majority. Its path to power depends on a small populist group that defies traditional labels.
+* 德国的极右翼赢得了州选举，但没有达到多数。它的权力之路取决于一个蔑视传统标签的小型民粹主义团体。
+* The Puy du Fou is one of France’s most visited theme parks. Its founder says it gives the French a “founding narrative,” but critics say it peddles “far-right propaganda.”
+* Puy du Fou是法国游客最多的主题公园之一。它的创始人说它给了法国一个“创始叙事” ，但批评者说它兜售“极右翼宣传”。
+* The contest is shaping up to be a referendum on Prime Minister Benjamin Netanyahu. It is considered the most consequential in Israel’s history.
+* 这场比赛即将成为对本雅明·内塔尼亚胡总理的全民公决。它被认为是以色列历史上最重要的。
+* The agency played an important role in responding to earlier disasters like the 2015 earthquake. But the U.S. and other countries have pulled back, Nepali officials and humanitarian groups say.
+* 该机构在应对2015年地震等早期灾害方面发挥了重要作用。但尼泊尔官员和人道主义组织表示，美国和其他国家已经撤退。
+* As British farmers confront intense heat waves tied to climate change, some are cultivating new crops rarely grown in their country.
+* 由于英国农民面临着与气候变化有关的强烈热浪，一些农民正在种植他们国家很少种植的新作物。
+* The Netflix series is seen as a way to kindle debate about gender roles and to confront online bullying.
+* Netflix系列被认为是引发关于性别角色的争论和对抗网络欺凌的一种方式。
 
 ## New York Times United States News
-* 
-* 
-* Patrick Clancy’s lawyer said that he would seek help from the authorities in response to conspiracy theorists who have accused him of killing his children and framing Ms. Clancy.
-* 帕特里克·克兰西（ Patrick Clancy ）的律师表示，他将寻求当局的帮助，以回应阴谋论者指责他杀害自己的孩子并陷害克兰西女士。
-* A scathing report issued by the House Oversight Committee blamed the Navy for repeatedly failing to act, and recommended that Congress pass legislation to study and treat aviators.
-* 众议院监督委员会发布的一份严厉的报告指责海军一再未能采取行动，并建议国会通过立法来研究和对待飞行员。
-* Lue Yang, who was convicted in a home invasion as a teenager, was facing deportation to Laos. With a plane on the tarmac, he wondered whether an appeal would be heard.
-* Lue Yang十几岁时在一次入室行窃中被定罪，正面临被驱逐到老挝。停机坪上有一架飞机，他想知道是否会听到上诉。
-* The attack, discovered by A.I. researchers, could have compromised hundreds of millions of devices within hours, experts said.
-* 专家说，人工智能研究人员发现的攻击可能在几小时内破坏了数亿台设备。
-* William Lawrence, a progressive challenging a first-term Republican, is trying to rewrite the playbook for Democrats running in swing districts.
-* 威廉·劳伦斯（ William Lawrence ）是一位挑战共和党第一任期的进步主义者，他正试图重写民主党在摇摆区竞选的剧本。
-* Americans in border regions have had symbiotic relationships with Canadians, but the trade war is testing their bonds.
-* 边境地区的美国人与加拿大人有着共生关系，但贸易战正在考验他们的纽带。
-* A coalition of Jewish leaders is launching a petition drive aimed at the Democratic Senate nominee, a fresh indicator of frictions in a key battleground.
-* 一个犹太领导人联盟正在发起针对民主党参议院候选人的请愿活动，这是一个关键战场上摩擦的新指标。
-* Voters will nominate candidates for one of the most high-stakes Senate races in the country. And a Democratic House primary has emerged as a test of the party’s establishment.
-* 选民将提名候选人参加该国最具风险的参议院竞选之一。民主党众议院初选已经成为对该党成立的考验。
-* Relatives who traveled to the U.S. Navy base in Guantánamo Bay left memory stones and messages for those killed in the attacks 25 years ago.
-* 前往关塔那摩湾美国海军基地的亲属为25年前的袭击事件中遇难者留下了记忆宝石和信息。
+* The lawsuit, the first of its kind since revelations against the union leader emerged this year, accuses two foundations of failing to prevent “abusive, rogue and inappropriate” behavior.
+* 该诉讼是自今年出现针对工会领导人的揭露以来的首次此类诉讼，指控两个基金会未能防止“虐待，流氓和不当”行为。
+* Amid conflicting rulings, Missouri’s highest court ordered the secretary of state to respond to claims that he violated an order on redistricting.
+* 在相互矛盾的裁决中，密苏里州最高法院命令国务卿回应他违反重新划分命令的指控。
+* The money, listed as “cash gift for the holidays,” was detailed in financial disclosure forms released by the administration.
+* 这笔钱被列为“节日现金礼物” ，详见政府公布的财务披露表。
+* A recently created Republican group tied to the president’s super PAC is pumping cash into half a dozen key midterm races, with the largest amounts going toward Senate contests in Michigan and Ohio.
+* 最近成立的与总统超级政治行动委员会有关的共和党团体正在向六场关键的中期竞选注入资金，其中最大的金额用于密歇根州和俄亥俄州的参议院竞选。
+* The U.S. Senate race will feature familiar faces: former Senator John E. Sununu and Chris Pappas, a four-term congressman. Stefany Shaheen, a senator’s daughter, eked out a win in a House primary.
+* 美国参议院竞选将以熟悉的面孔为特色：前参议员约翰· E ·苏努努（ John E. Sununu ）和四届国会议员克里斯·帕帕参议员的女儿Stefany Shaheen在众议院初选中获胜。
+* The Republican Party is holding a midterm convention in Dallas this week. But as our White House correspondent, Maggie Haberman explains, despite President Trump’s unpopularity in polls, this event is shaping up to be a rally focusing on his achievements.
+* 共和党本周将在达拉斯举行中期大会。但正如我们的白宫记者玛吉·哈伯曼（ Maggie Haberman ）所解释的那样，尽管特朗普总统在民意调查中不受欢迎，但这一事件正在形成一场聚焦于他的成就的集会。
+* At an unusual gathering in Dallas, some of the party’s top candidates will be forced to decide just how tightly to tether themselves to an unpopular president.
+* 在达拉斯举行的一次不寻常的集会上，该党的一些顶级候选人将被迫决定如何紧紧地把自己绑在一个不受欢迎的总统身上。
+* The industry’s rapid expansion has scrambled traditional political alliances and forced G.O.P. leaders to respond to a backlash from some of their most reliable rural voters.
+* 该行业的快速扩张打乱了传统的政治联盟，迫使共和党领导人对一些最可靠的农村选民的强烈反应做出回应。
+* Schools and entire states are creating new rules forcing professors to teach more hours and show up at the office. At one university, professors quit in response.
+* 学校和整个州都在制定新的规则，迫使教授们增加教学时间并出现在办公室。在一所大学，教授们因此辞职。
+* Gov. Jim Pillen’s family business is one of the nation’s largest pork producers. As he seeks re-election, he has aligned himself with President Trump’s anti-immigrant agenda even though his farms have taken on undocumented laborers.
+* 州长Jim Pillen的家族企业是美国最大的猪肉生产商之一。在他寻求连任时，他与特朗普总统的反移民议程保持一致，尽管他的农场雇佣了无证劳工。
 
 ## New York Times Asia News
+* Singapore’s prime minister, Lawrence Wong, got the bump as part of a longstanding policy to pay high salaries to public servants in order to attract top talent and prevent corruption.
+* 作为长期以来向公务员支付高薪以吸引顶尖人才和防止腐败的政策的一部分，新加坡总理劳伦斯·黄（ Lawrence Wong ）获得了晋升。
+* The agency played an important role in responding to earlier disasters like the 2015 earthquake. But the U.S. and other countries have pulled back, Nepali officials and humanitarian groups say.
+* 该机构在应对2015年地震等早期灾害方面发挥了重要作用。但尼泊尔官员和人道主义组织表示，美国和其他国家已经撤退。
+* As the first leader of the former British colony after its handover, he balanced the demands of Beijing and Hong Kongers, making it clear that Beijing was now in charge.
+* 作为前英国殖民地回归后的第一位领导人，他平衡了北京和香港人的要求，明确表示北京现在掌权。
+* China’s economic competition with the United States makes Chinese companies a legitimate target, the agency’s deputy director, Michael Ellis, said at a conference.
+* 该机构副主任迈克尔·埃利斯(Michael Ellis)在一次会议上表示，中国与美国的经济竞争使中国公司成为合法目标。
 * Lue Yang, who was convicted in a home invasion as a teenager, was facing deportation to Laos. With a plane on the tarmac, he wondered whether an appeal would be heard.
 * Lue Yang十几岁时在一次入室行窃中被定罪，正面临被驱逐到老挝。停机坪上有一架飞机，他想知道是否会听到上诉。
-* The tower was closed on Monday, after the workers’ union said female staff had been asked to leave their stations for a visit from a group known as BAPS.
-* 该塔于周一关闭，此前工会表示，女性工作人员已被要求离开车站，接受一个名为BAPS的团体的访问。
+* The tower was closed on Monday, after the workers’ union said female staff members had been asked to leave their stations for a visit from a group known as BAPS.
+* 这座塔楼于周一关闭，此前工会表示，女性工作人员被要求离开他们的工作站，接受一个名为BAPS的组织的访问。
 * The experiences Ms. Kuang had during a summer spent studying Mandarin in the Taiwanese capital helped her shape her newest novel, “Taipei Story.”
 * 匡女士在一个夏天在台湾首都学习普通话的经历帮助她塑造了她的最新小说《台北故事》。
 * Melting ice is opening a trade route through the Arctic. China has begun the first regular service, part of its polar ambitions.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 8月份，中国的出口增长了四分之一，几周后，中国领导人习近平将在华盛顿会见特朗普总统。
 * The authorities have not released an official list of those missing in the Tibet flood, creating an information void that people have tried to fill.
 * 当局尚未公布西藏洪水中失踪人员的官方名单，造成人们试图填补的信息空白。
-* A cousin of President Ferdinand Marcos Jr. was charged with plundering public funds meant for flood control in the Southeast Asian country. He has denied wrongdoing.
-* 小费迪南德·马科斯（ Ferdinand Marcos Jr. ）总统的堂兄被控掠夺用于东南亚国家防洪的公共资金。他否认有不当行为。
-* Rescue crews were working to find people trapped in the wreckage of the building, which collapsed on Sunday.
-* 救援人员正在努力寻找被困在周日倒塌的建筑物残骸中的人员。
-* The contactless version of the Korean martial art is making its debut at this year’s Asian Games. Critics say it’s a glorified video game.
-* 韩国武术的非接触式版本正在今年的亚运会上首次亮相。批评人士说，这是一款荣耀的视频游戏。
-* Microplastics are usually consumed through food and water, but more recently, they are making their way into Indonesia’s air and rain. Sui-Lee Wee, our Asia business correspondent, traveled to Jakarta, the capital, to find out why.
-* 微塑料通常通过食物和水消耗，但最近，它们正在进入印度尼西亚的空气和雨水中。我们的亚洲业务记者Sui-Lee Wee前往首都雅加达了解原因。
 
