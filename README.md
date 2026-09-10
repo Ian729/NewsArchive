@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* When a truck driver unexpectedly collapsed and died in a remote village, frontline medical staff scrambled to safely isolate his body, triggering a standoff.
-* 当一名卡车司机在一个偏远的村庄意外倒塌并死亡时，前线医务人员争先恐后地将他的身体安全隔离，引发了对峙。
-* Britain once followed in France’s slipstream when it came to pressuring Israel. Under new leadership, it is spearheading opposition to Israeli settlements, risking American anger.
-* 在向以色列施压方面，英国曾效仿法国的滑流。在新的领导下，它带头反对以色列定居点，冒着美国愤怒的风险。
-* The Iranian government is taking an increasingly aggressive approach as it confronts a growing economic threat and worries that its grip on the Strait of Hormuz is slipping, analysts say.
-* 分析人士表示，伊朗政府正采取越来越激进的态度，因为它面临着日益严重的经济威胁，并担心其对霍尔木兹海峡的控制正在下滑。
-* An unexpected request from President Volodymyr Zelensky offered a stark reminder that the cost of the war will rise, challenging Europe.
-* 总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）的一个意想不到的要求严峻地提醒人们，战争的成本将上升，对欧洲构成挑战。
-* Germany’s far right won a state election but fell short of a majority. Its path to power depends on a small populist group that defies traditional labels.
-* 德国的极右翼赢得了州选举，但没有达到多数。它的权力之路取决于一个蔑视传统标签的小型民粹主义团体。
-* The Puy du Fou is one of France’s most visited theme parks. Its founder says it gives the French a “founding narrative,” but critics say it peddles “far-right propaganda.”
-* Puy du Fou是法国游客最多的主题公园之一。它的创始人说它给了法国一个“创始叙事” ，但批评者说它兜售“极右翼宣传”。
-* The contest is shaping up to be a referendum on Prime Minister Benjamin Netanyahu. It is considered the most consequential in Israel’s history.
-* 这场比赛即将成为对本雅明·内塔尼亚胡总理的全民公决。它被认为是以色列历史上最重要的。
-* The agency played an important role in responding to earlier disasters like the 2015 earthquake. But the U.S. and other countries have pulled back, Nepali officials and humanitarian groups say.
-* 该机构在应对2015年地震等早期灾害方面发挥了重要作用。但尼泊尔官员和人道主义组织表示，美国和其他国家已经撤退。
-* As British farmers confront intense heat waves tied to climate change, some are cultivating new crops rarely grown in their country.
-* 由于英国农民面临着与气候变化有关的强烈热浪，一些农民正在种植他们国家很少种植的新作物。
-* The Netflix series is seen as a way to kindle debate about gender roles and to confront online bullying.
-* Netflix系列被认为是引发关于性别角色的争论和对抗网络欺凌的一种方式。
+* The Iran-backed militia routed Yemeni government forces in Mokha, putting the group in a stronger position to attack ships in a crucial waterway for global trade.
+* 伊朗支持的民兵在莫卡击溃了也门政府军，使该组织处于更有利的地位，可以攻击全球贸易关键航道上的船只。
+* From the first weeks after the Sept. 11 attacks to the chaotic U.S. withdrawal and return of the Taliban, The New York Times has documented a quarter-century of conflict and daily life in Afghanistan.
+* 从9月11日袭击事件发生后的头几周到塔利班的混乱撤离和回归，《纽约时报》记录了阿富汗四分之一世纪的冲突和日常生活。
+* Chimamanda Ngozi Adichie has moved countless readers with her novels about Nigerians at home and abroad. After the death in Lagos of her toddler son, her homeland no longer feels as much like home.
+* 奇马曼达·恩戈齐·阿迪奇（ Chimamanda Ngozi Adichie ）在国内外以其关于尼日利亚人的小说打动了无数读者。在她蹒跚学步的儿子在拉各斯去世后，她的家乡不再像家一样。
+* Embracing positions extolled by the Kremlin, the Alternative for Germany party may govern for the first time in a German state.
+* 德国另类选择党拥抱克里姆林宫所崇尚的立场，可能首次在德国州内执政。
+* The Houthi militia, the Yemeni government, Iran and Saudi Arabia all have reasons to escalate the conflict.
+* 胡塞民兵、也门政府、伊朗和沙特阿拉伯都有理由使冲突升级。
+* The Newfoundland town welcomed thousands of frightened airline passengers on Sept. 11, but 25 years later, mixed emotions run through anniversary plans amid an escalating trade war.
+* 9月11日，纽芬兰镇迎来了数千名受惊的航空公司乘客，但25年后，在不断升级的贸易战中，周年纪念日计划充满了喜忧参半的情绪。
+* The June Aster was sailing from Manila to Coron, a popular tourist destination, when a fire broke out aboard the vessel.
+* June Aster号从马尼拉驶往热门旅游目的地科伦（ Coron ）时，船上发生了火灾。
+* Canada’s retaliation this week against President Trump’s tariffs was met with more American tariffs and a closed U.S. border on some Canadian products.
+* 加拿大本周对特朗普总统关税的报复，遭到了更多的美国关税和一些加拿大产品的美国边境关闭。
+* Kenneth Feinberg says the nearly three years he spent running the Sept. 11 compensation fund changed his life view forever.
+* 肯尼斯·范伯格（ Kenneth Feinberg ）表示，他花了近三年时间管理9月11日的赔偿基金，这永远改变了他的人生观。
+* The Taliban claim that Afghanistan is no longer a sanctuary for terrorist groups, but Al Qaeda and others are still present, reviving old fears.
+* 塔利班声称阿富汗不再是恐怖组织的避难所，但基地组织和其他组织仍然存在，重新唤起了过去的恐惧。
 
 ## New York Times United States News
-* The lawsuit, the first of its kind since revelations against the union leader emerged this year, accuses two foundations of failing to prevent “abusive, rogue and inappropriate” behavior.
-* 该诉讼是自今年出现针对工会领导人的揭露以来的首次此类诉讼，指控两个基金会未能防止“虐待，流氓和不当”行为。
-* Amid conflicting rulings, Missouri’s highest court ordered the secretary of state to respond to claims that he violated an order on redistricting.
-* 在相互矛盾的裁决中，密苏里州最高法院命令国务卿回应他违反重新划分命令的指控。
-* The money, listed as “cash gift for the holidays,” was detailed in financial disclosure forms released by the administration.
-* 这笔钱被列为“节日现金礼物” ，详见政府公布的财务披露表。
-* A recently created Republican group tied to the president’s super PAC is pumping cash into half a dozen key midterm races, with the largest amounts going toward Senate contests in Michigan and Ohio.
-* 最近成立的与总统超级政治行动委员会有关的共和党团体正在向六场关键的中期竞选注入资金，其中最大的金额用于密歇根州和俄亥俄州的参议院竞选。
-* The U.S. Senate race will feature familiar faces: former Senator John E. Sununu and Chris Pappas, a four-term congressman. Stefany Shaheen, a senator’s daughter, eked out a win in a House primary.
-* 美国参议院竞选将以熟悉的面孔为特色：前参议员约翰· E ·苏努努（ John E. Sununu ）和四届国会议员克里斯·帕帕参议员的女儿Stefany Shaheen在众议院初选中获胜。
-* The Republican Party is holding a midterm convention in Dallas this week. But as our White House correspondent, Maggie Haberman explains, despite President Trump’s unpopularity in polls, this event is shaping up to be a rally focusing on his achievements.
-* 共和党本周将在达拉斯举行中期大会。但正如我们的白宫记者玛吉·哈伯曼（ Maggie Haberman ）所解释的那样，尽管特朗普总统在民意调查中不受欢迎，但这一事件正在形成一场聚焦于他的成就的集会。
-* At an unusual gathering in Dallas, some of the party’s top candidates will be forced to decide just how tightly to tether themselves to an unpopular president.
-* 在达拉斯举行的一次不寻常的集会上，该党的一些顶级候选人将被迫决定如何紧紧地把自己绑在一个不受欢迎的总统身上。
-* The industry’s rapid expansion has scrambled traditional political alliances and forced G.O.P. leaders to respond to a backlash from some of their most reliable rural voters.
-* 该行业的快速扩张打乱了传统的政治联盟，迫使共和党领导人对一些最可靠的农村选民的强烈反应做出回应。
-* Schools and entire states are creating new rules forcing professors to teach more hours and show up at the office. At one university, professors quit in response.
-* 学校和整个州都在制定新的规则，迫使教授们增加教学时间并出现在办公室。在一所大学，教授们因此辞职。
-* Gov. Jim Pillen’s family business is one of the nation’s largest pork producers. As he seeks re-election, he has aligned himself with President Trump’s anti-immigrant agenda even though his farms have taken on undocumented laborers.
-* 州长Jim Pillen的家族企业是美国最大的猪肉生产商之一。在他寻求连任时，他与特朗普总统的反移民议程保持一致，尽管他的农场雇佣了无证劳工。
+* The ruling deferred to Missouri’s state Supreme Court, which had invalidated G.O.P.-friendly district lines, saying voters must first have an opportunity to approve the map in a statewide referendum.
+* 该裁决推迟到密苏里州最高法院，该法院宣布共和党友好的地区线无效，称选民必须首先有机会在全州公投中批准该地图。
+* A sculpture of the mountain lion, known as P-22, will go up in Griffith Park, where he roamed until his death in 2022.
+* 被称为P-22的山狮雕塑将登上格里菲斯公园，在那里漫游，直到2022年去世。
+* Mayor Daniel Lurie wants to combat evictions in the city, which has the nation’s highest rent increases.
+* 市长丹尼尔·卢里（ Daniel Lurie ）希望打击该市的驱逐行为，该市的租金涨幅是全国最高的。
+* The City of Denver and civil rights groups argued that sightings of ICE agents at polling places are having a chilling effect.
+* 丹佛市和民权组织认为，在投票站看到ICE特工正在产生寒蝉效应。
+* The president’s pledge to hand every American adult a “dividend” if Republicans keep control of Congress in the midterm elections raises questions.
+* 总统承诺，如果共和党人在中期选举中保持对国会的控制权，就会给每个美国成年人带来“红利” ，这引起了人们的质疑。
+* Elena Rybakina ensured that she will be the new women’s World No.1 next week after reaching the US Open semifinals.
+* Elena Rybakina在进入美国公开赛半决赛后确保她将在下周成为新的女子世界排名第一。
+* The department sent letters to at least 30 states demanding they retain election records, an outgrowth of President Trump’s baseless claims of widespread election fraud.
+* 该部门向至少30个州发出信件，要求他们保留选举记录，这是特朗普总统毫无根据地声称选举舞弊的结果。
+* At an unusual midterm gathering, President Trump and his allies painted Democrats as dangerously un-American.
+* 在一次不寻常的中期会议上，特朗普总统及其盟友将民主党人描绘成危险的非美国人。
+* The university where the conservative activist was shot last year has canceled classes for the day. While many students planned to attend a memorial, some said they just wanted to move on.
+* 这位保守派活动家去年被枪杀的大学取消了当天的课程。虽然许多学生计划参加纪念活动，但有些人说他们只是想继续前进。
+* Three veterans reflect on how that decision 25 years ago shaped them in complicated and unexpected ways.
+* 三位退伍军人反思了25年前的决定如何以复杂和意想不到的方式塑造了他们。
 
 ## New York Times Asia News
+* The ship was docked in the port city of Qingdao for repairs at the time of the blaze, whose cause remained unclear, according to state media.
+* 据国家媒体报道，这艘船在大火发生时停靠在港口城市青岛进行维修，其原因尚不清楚。
+* A high-octane Korean thriller probes what we watch and what it does to us.
+* 一部高辛烷值的韩国惊悚片探讨了我们观看的内容及其对我们的影响。
+* The Taliban claim that Afghanistan is no longer a sanctuary for terrorist groups, but Al Qaeda and others are still present, reviving old fears.
+* 塔利班声称阿富汗不再是恐怖组织的避难所，但基地组织和其他组织仍然存在，重新唤起了过去的恐惧。
+* From the first weeks after the Sept. 11 attacks to the chaotic U.S. withdrawal and return of the Taliban, The New York Times has documented a quarter-century of conflict and daily life in Afghanistan.
+* 从9月11日袭击事件发生后的头几周到塔利班的混乱撤离和回归，《纽约时报》记录了阿富汗四分之一世纪的冲突和日常生活。
+* The June Aster was sailing from Manila to Coron, a popular tourist destination, when a fire broke out aboard the vessel.
+* June Aster号从马尼拉驶往热门旅游目的地科伦（ Coron ）时，船上发生了火灾。
+* The authorities in Malaysian Borneo have been trying to seed clouds to counteract the effects of smoke wafting in from neighboring Indonesia.
+* 马来西亚婆罗洲当局一直试图播下乌云，以抵消邻国印度尼西亚飘来的烟雾的影响。
 * Singapore’s prime minister, Lawrence Wong, got the bump as part of a longstanding policy to pay high salaries to public servants in order to attract top talent and prevent corruption.
 * 作为长期以来向公务员支付高薪以吸引顶尖人才和防止腐败的政策的一部分，新加坡总理劳伦斯·黄（ Lawrence Wong ）获得了晋升。
 * The agency played an important role in responding to earlier disasters like the 2015 earthquake. But the U.S. and other countries have pulled back, Nepali officials and humanitarian groups say.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 作为前英国殖民地回归后的第一位领导人，他平衡了北京和香港人的要求，明确表示北京现在掌权。
 * China’s economic competition with the United States makes Chinese companies a legitimate target, the agency’s deputy director, Michael Ellis, said at a conference.
 * 该机构副主任迈克尔·埃利斯(Michael Ellis)在一次会议上表示，中国与美国的经济竞争使中国公司成为合法目标。
-* Lue Yang, who was convicted in a home invasion as a teenager, was facing deportation to Laos. With a plane on the tarmac, he wondered whether an appeal would be heard.
-* Lue Yang十几岁时在一次入室行窃中被定罪，正面临被驱逐到老挝。停机坪上有一架飞机，他想知道是否会听到上诉。
-* The tower was closed on Monday, after the workers’ union said female staff members had been asked to leave their stations for a visit from a group known as BAPS.
-* 这座塔楼于周一关闭，此前工会表示，女性工作人员被要求离开他们的工作站，接受一个名为BAPS的组织的访问。
-* The experiences Ms. Kuang had during a summer spent studying Mandarin in the Taiwanese capital helped her shape her newest novel, “Taipei Story.”
-* 匡女士在一个夏天在台湾首都学习普通话的经历帮助她塑造了她的最新小说《台北故事》。
-* Melting ice is opening a trade route through the Arctic. China has begun the first regular service, part of its polar ambitions.
-* 融化的冰正在开辟一条穿越北极的贸易路线。中国已经开始了第一次定期航班，这是其极地野心的一部分。
-* China’s exports grew by a quarter in the month of August, weeks before its leader, Xi Jinping, is set to meet with President Trump in Washington.
-* 8月份，中国的出口增长了四分之一，几周后，中国领导人习近平将在华盛顿会见特朗普总统。
-* The authorities have not released an official list of those missing in the Tibet flood, creating an information void that people have tried to fill.
-* 当局尚未公布西藏洪水中失踪人员的官方名单，造成人们试图填补的信息空白。
 
