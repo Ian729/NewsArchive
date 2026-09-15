@@ -2,50 +2,60 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.
-* 官员们说，对连接该国与西方的乌克兰铁路网络的袭击是对欧洲的一次抨击。
-* Even as Beijing urges the United States not to hype the dangers of A.I., its own spy chief is framing the technology as a threat to the Communist Party’s security.
-* 尽管北京敦促美国不要炒作人工智能的危险，但它自己的间谍头目却将这项技术说成是对共产党安全的威胁。
-* Cutting-edge technologies have reshaped the Russian capital, making it safer, more convenient — and more closely watched.
-* 尖端技术重塑了俄罗斯首都，使其更安全、更方便，并受到更密切的关注。
-* After the Trump administration blocked a new ambassador to Washington, the country expressed regret for a post from a French official social media account.
-* 在特朗普政府封锁了新任驻华盛顿大使后，该国对法国官方社交媒体账户的帖子表示遗憾。
-* Crown Prince Mohammed bin Salman asked the United States for more U.S. military help last week after the Iranian-backed Houthi forces in Yemen launched a broad offensive.
-* 上周，在伊朗支持的也门胡塞武装发动广泛攻势后，王储穆罕默德·本·萨勒曼（ Mohammed bin Salman ）要求美国提供更多军事援助。
-* Racial and political tensions have flared in Trinidad and Tobago after members of an ethnic minority were accused of an assassination plot based on a private phone call.
-* 特立尼达和多巴哥的种族和政治紧张局势在少数民族成员被指控犯有基于私人电话的暗杀阴谋后爆发。
-* The election, in an area long known for violent separatists, was marred by a shootout that killed three, officials said.
-* 官员说，在一个长期以暴力分离主义者闻名的地区，选举受到枪击事件的破坏，造成三人死亡。
-* It’s about more than just shamelessness.
-* 这不仅仅是无耻。
-* The kingdom is in a state of strategic shock after coming under attack from an emboldened Iran and failing to win more U.S. military support, analysts say.
-* 分析人士说，在受到大胆的伊朗的攻击后，这个王国处于战略震惊状态，未能赢得更多的美国军事支持。
-* Opponents derailed the agreement with a clandestine effort to attack ships in the Strait of Hormuz, regime insiders say. Iran’s president was furious when he found out.
-* 政权内部人士说，反对者秘密袭击霍尔木兹海峡的船只，破坏了协议。伊朗总统在发现此事时非常愤怒。
+* The economy of the Central Asian nation grew by 11 percent last year, partly by becoming a key conduit for goods flowing into Russia.
+* 这个中亚国家的经济去年增长了11% ，部分原因是成为流入俄罗斯的货物的主要渠道。
+* The Houthis are increasingly using artificial intelligence and other tools to produce advanced weaponry on their own, making them less reliant on Iran.
+* 胡塞武装越来越多地使用人工智能和其他工具自行生产先进武器，从而减少了对伊朗的依赖。
+* The Kremlin said that an agreement would be “a very good idea” but that any deal would not have much effect on fuel markets, as President Trump had suggested.
+* 克里姆林宫表示，达成协议将是“一个非常好的主意” ，但正如特朗普总统所建议的那样，任何协议都不会对燃料市场产生太大影响。
+* Prime Minister Mark Carney brought together about 100 money managers in Toronto to promote Canada as an ideal place to invest.
+* 加拿大总理马克·卡尼（ Mark Carney ）在多伦多召集了大约100名基金经理，以推动加拿大成为理想的投资地点。
+* The American presence in these countries has not shielded them from retaliation during the Iran war. Now they are hoping direct talks with Iran could help.
+* 美国在这些国家的存在并没有保护他们在伊朗战争期间免受报复。现在，他们希望与伊朗的直接谈判能有所帮助。
+* The two sides traded accusations of attacks as fighting inside Yemen remains fierce. The escalating conflict threatens to further destabilize the Middle East.
+* 由于也门境内的战斗仍然激烈，双方互相指责袭击。不断升级的冲突有可能进一步破坏中东的稳定。
+* From Indonesia to Guatemala to Syria, shortages and price increases are leading to protests and blackouts.
+* 从印度尼西亚到危地马拉再到叙利亚，短缺和价格上涨导致抗议和停电。
+* Siranudh Scott, an heir to Thailand’s Singha beer empire, has prompted a rare public reckoning about a topic considered taboo.
+* Siranudh Scott是泰国Singha啤酒帝国的继承人，他促使公众对这个被认为是禁忌的话题进行了罕见的清算。
+* The incident was the latest in string of episodes involving airspace incursions and other provocations that European leaders have blamed on Russia.
+* 这起事件是涉及空域入侵和其他挑衅行为的一系列事件中的最新一起，欧洲领导人将这些事件归咎于俄罗斯。
+* While significant questions remain about the evidence used to convict a British nurse of murdering seven babies, a report predicated on her guilt was released on Tuesday.
+* 尽管对一名英国护士谋杀七名婴儿的证据仍存在重大疑问，但周二发布了一份基于她有罪的报告。
 
 ## New York Times United States News
-* Many noncitizens need immigration records the government has to prove their legal stay and resist deportation. The government is redacting and withholding those documents, lawyers say.
-* 许多非公民需要移民记录，政府必须证明他们的合法居留并抵制驱逐出境。律师说，政府正在编辑和扣留这些文件。
-* The president again rejected calls to try to regulate the industry, even as some of its leaders are speaking more openly about the risks of rapidly developing artificial intelligence.
-* 总统再次拒绝了试图监管该行业的呼吁，尽管其一些领导人正在更公开地谈论快速发展的人工智能的风险。
-* The policy would give immigration officers wide authority to deny green cards to people using public benefits.
-* 该政策将赋予移民官员广泛的权力，拒绝向使用公共福利的人发放绿卡。
-* The end of legal protections for Haitian immigrants nationally has jolted the labor market in this remote vacation destination in Florida where many live and work.
-* 在全国范围内结束对海地移民的法律保护，震撼了佛罗里达州这个偏远度假胜地的劳动力市场，许多人在这里生活和工作。
-* The ruling by a lower court judge was another blow to President Trump’s effort to make voting by mail harder. The Supreme Court is also considering the Trump plan.
-* 下级法院法官的裁决是对特朗普总统努力使邮寄投票更加困难的又一次打击。最高法院也在考虑特朗普的计划。
-* The Department of Homeland Security’s internal watchdog provided new details about conditions at the now-shuttered Florida detention center.
-* 国土安全部的内部监管机构提供了关于现已关闭的佛罗里达拘留中心条件的新细节。
-* Persistent distractions are feeding a climate of mistrust as the U.S. military faces a series of wartime issues, including shortfalls of missile interceptors.
-* 随着美国军方面临一系列战时问题，包括导弹拦截器的短缺，持续的干扰正在助长不信任的气氛。
-* Senator Kirsten Gillibrand of New York is devoting a hearing to a topic that affects millions but is poorly understood and widely ignored, including when it comes to federal research money.
-* 纽约州参议员克尔斯滕·吉利布兰德（ Kirsten Gillibrand ）正在举行一场听证会，讨论一个影响数百万人的话题，但人们对此知之甚少，也被广泛忽视，包括在联邦研究经费方面。
-* Senator Dan Sullivan of Alaska has shown quiet support for President Trump’s tariffs. His brother, the head of their family business, has described the economic volatility as an enormous challenge.
-* 阿拉斯加州参议员丹·沙利文（ Dan Sullivan ）对特朗普总统的关税表示了悄然的支持。他的兄弟是家族企业的负责人，他认为经济波动是一个巨大的挑战。
-* Polls in several closely watched primaries over the summer were off by wide margins, but pollsters remain confident that general elections are a different story.
-* 今年夏天，在几个备受关注的初选中，民意调查的差距很大，但民意调查人员仍然相信大选是不同的故事。
+* For years, Democrats and Republicans have proposed bills to address the greatest threats posed by artificial intelligence. Many remain stymied by political disputes.
+* 多年来，民主党和共和党一直提出法案，以应对人工智能带来的最大威胁。许多人仍然因政治争端而陷入困境。
+* In a blistering attack on the court, President Trump said “these are not the people I interviewed” to serve as justices.
+* 在对法院的猛烈抨击中，特朗普总统表示， “这些不是我采访过的担任法官的人”。
+* Our polling reporter Ruth Igielnik describes what likely voters told us in the latest Times/Siena poll leading up to this year’s midterm elections.
+* 我们的民意调查记者露丝·伊盖尔尼克（ Ruth Igielnik ）描述了今年中期选举前的最新时报/锡耶纳民意调查中，选民可能告诉我们的情况。
+* President Trump’s efforts to restrict mail voting ahead of the midterms were thwarted by the Supreme Court, but they have sowed confusion and doubt among some voters.
+* 特朗普总统在中期选举前限制邮件投票的努力遭到了最高法院的阻挠，但这些努力在一些选民中造成了混乱和怀疑。
+* As A.I. upends education, university leaders have been all over the map about how to respond. It can be very confusing for students.
+* 随着人工智能颠覆教育，大学领导者一直在思考如何应对。这可能会让学生非常困惑。
+* Even some Republicans are losing faith in Trump’s economy, a New York Times/Siena poll found, and Democrats were favored on the top issues as the sprint to the midterms gets underway.
+* 《纽约时报》/锡耶纳的一项民意调查发现，即使是一些共和党人也对特朗普的经济失去了信心，随着中期冲刺的开始，民主党人在最重要的问题上也受到了青睐。
+* Alex Bores, who lost a congressional primary contest that revolved around A.I. regulation, is trying to position himself at the center of the conversation for the next presidential election.
+* 亚历克斯·博尔斯（ Alex Bores ）在围绕人工智能监管的国会初选中失利，他正试图将自己置于下一届总统大选对话的中心。
+* Gina Hinojosa, a state lawmaker from Austin, challenged Gov. Greg Abbott when no other Democrat would. “I needed to try,” she said.
+* 来自奥斯汀的州议员吉娜·伊诺霍萨（ Gina Hinojosa ）向州长格雷格·阿博特（ Greg Abbott ）提出了挑战，而其他民主党人则不会“我需要尝试一下，”她说。
+* Troy E. Meink’s comments were the first public acknowledgment of American weapons in orbit. The Pentagon has been preparing for potential conflict in space with Russia or China.
+* 特洛伊· E ·梅克（ Troy E. Meink ）的评论是首次公开承认美国在轨武器。五角大楼一直在为与俄罗斯或中国的潜在太空冲突做准备。
+* Justice Samuel A. Alito Jr., joined by Justice Clarence Thomas, called the challenge to the restrictions a “Hail Mary pass” that was unlikely to prevail because of the Postal Service’s broad authority to regulate the mail.
+* 小塞缪尔· A ·阿利托（ Samuel A. Alito Jr. ）大法官和克拉伦斯·托马斯（ Clarence Thomas ）大法官将对限制的挑战称为“万福玛丽通行证” （ Hail Mary pass ） ，由于邮政局在监管邮件方面拥有广泛的权力，该通行证不太可能
 
 ## New York Times Asia News
+* From Indonesia to Guatemala to Syria, shortages and price increases are leading to protests and blackouts.
+* 从印度尼西亚到危地马拉再到叙利亚，短缺和价格上涨导致抗议和停电。
+* The economy of the Central Asian nation grew by 11 percent last year, partly by becoming a key conduit for goods flowing into Russia.
+* 这个中亚国家的经济去年增长了11% ，部分原因是成为流入俄罗斯的货物的主要渠道。
+* Kyrgyzstan has turned into a crucial middleman for Russia to import goods from China since the start of the Ukraine war. Paul Sonne, our Moscow bureau chief, traveled to Kyrgyzstan to see its skyrocketing economic growth.
+* 自乌克兰战争开始以来，吉尔吉斯斯坦已成为俄罗斯从中国进口商品的重要中间人。我们的莫斯科分局局长保罗·索尼（ Paul Sonne ）前往吉尔吉斯斯坦，目睹了吉尔吉斯斯坦飙升的经济增长。
+* Siranudh Scott, an heir to Thailand’s Singha beer empire, has prompted a rare public reckoning about a topic considered taboo.
+* Siranudh Scott是泰国Singha啤酒帝国的继承人，他促使公众对这个被认为是禁忌的话题进行了罕见的清算。
+* As the Bank of Japan weighs another rate increase on Friday, a divide over how Japan should confront inflation is widening.
+* 随着日本央行周五再次加息，日本应如何应对通胀的分歧正在扩大。
 * Opposition politicians said a vegetarian dinner served at a diplomatic summit misrepresented India’s culinary heritage. A minister in Prime Minister Narendra Modi’s government rejected the criticism.
 * 反对派政界人士表示，在外交峰会上供应的素食晚餐歪曲了印度的烹饪传统。总理纳伦德拉·莫迪（ Narendra Modi ）政府的一位部长拒绝了这一批评。
 * Even as Beijing urges the United States not to hype the dangers of A.I., its own spy chief is framing the technology as a threat to the Communist Party’s security.
@@ -56,14 +66,4 @@ Auto RSS New York Times and Translate
 * 当局表示，该船周日在爪哇海沉没后，至少有6人死亡， 100多人获救。
 * Genta Koja will become the Japanese archipelago’s next governor, a win for the country’s hawkish prime minister as she works to accelerate a military buildup.
 * Genta Koja将成为日本群岛的下一任总督，这对日本鹰派首相来说是一场胜利，因为她致力于加速军事集结。
-* Survivors tell the stories of the people and places buried under the mud after a disaster in Nepal.
-* 幸存者讲述了尼泊尔一场灾难后被埋在泥土下的人们和地方的故事。
-* Mujib Mashal, our South Asia bureau chief, travels to points along a river in Nepal that turned into a deadly torrent, killing more than 1,300 people and leaving over 5,000 more missing as entire towns, bridges and roads were swept away.
-* 我们的南亚局局长穆吉布·马沙尔（ Mujib Mashal ）前往尼泊尔的一条河流沿岸，这条河流变成了致命的洪流，造成1300多人死亡， 5000多人失踪，整个城镇、桥梁和道路被冲走。
-* Rescuers were still searching for victims days after a fire broke out on the June Aster en route to a popular tourist site. At least 43 people survived.
-* 在前往一个受欢迎的旅游景点的途中， June Aster发生火灾后，救援人员仍在寻找受害者。至少43人幸免于难。
-* Rescuers clawing through a hydropower tunnel clogged with mud, water and rock have found a pocket of air near where six workers are believed to be trapped.
-* 救援人员在泥浆、水和岩石堵塞的水电隧道中抓爪，在据信有六名工人被困的地方附近发现了一片空气。
-* The group, which includes Iran, has been split over the war. It called for “maximum restraint” in the Middle East without casting blame on any particular country.
-* 包括伊朗在内的该组织因战争而分裂。它呼吁在中东实行“最大限度的克制” ，而不是将责任归咎于任何特定国家。
 
