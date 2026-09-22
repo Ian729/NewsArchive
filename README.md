@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The populist emphasis on national identity and threats to it, real and imagined, finds a deep response in voters adrift in a world they no longer understand.
-* 民粹主义者强调国家认同及其真实和想象的威胁，在一个他们不再理解的世界中漂泊的选民中找到了深刻的反应。
-* The conflict has opened a second front in the Middle East after the United States and Israel attacked Iran, adding to global uncertainty and turmoil in energy markets.
-* 在美国和以色列袭击伊朗之后，这场冲突在中东开辟了第二条战线，增加了全球的不确定性和能源市场的动荡。
-* The United Nations is also searching for a replacement for António Guterres, who has served two terms as the secretary general and is stepping down.
-* 联合国还在寻找安东尼奥·古特雷斯（ António Guterres ）的替代者，古特雷斯曾担任过两届秘书长，目前正在辞职。
-* Zhang Youxia, once the People’s Liberation Army’s top uniformed commander, and another general had taken “exceptionally large” bribes, investigators said.
-* 调查人员说，曾经是中国人民解放军最高军装指挥官的张有霞和另一名将军收受了“特别大”的贿赂。
-* The poet and lyricist Gulzar has profoundly shaped the idea of tender romance in India through his verse and songs in more than 150 musicals.
-* 诗人和作词家古尔扎尔通过他的诗歌和150多部音乐剧中的歌曲，深刻地塑造了印度温柔浪漫的概念。
-* Patients and workers in one of the country’s largest hospitals sweltered in a heat wave last month. Experts say the whole country must urgently adapt.
-* 上个月，该国最大的医院之一的患者和工人在热浪中闷热。专家表示，整个国家必须紧急适应。
-* The fishing town of Nemuro depends on Russia for trade. But it’s also leading a fight to win back islands seized by Moscow in World War II.
-* 渔村根室（ Nemuro ）的贸易依赖于俄罗斯。但它也正在引领一场夺回莫斯科在第二次世界大战中占领的岛屿的斗争。
-* As Beijing presses President Trump to freeze a proposed $14 billion weapons sale to the island, Taiwan is trying to show that its security is in U.S. interests.
-* 北京向特朗普总统施压，要求冻结拟向台湾出售的140亿美元武器，台湾正试图表明其安全符合美国的利益。
-* An amnesty measure was supposed to ease prison overcrowding and pressure on the judiciary. Instead, it highlighted the country’s divides.
-* 大赦措施旨在缓解监狱过度拥挤和司法压力。相反，它突出了该国的分歧。
-* An air traffic control issue, now resolved, disrupted some flights in Scotland, England and Northern Ireland, less than two weeks after a technical problem caused cancellations.
-* 空中交通管制问题现已解决，在技术问题导致航班取消后不到两周，苏格兰、英格兰和北爱尔兰的一些航班中断。
+* President Trump said that Iran had been “the bully of the Middle East, but they are the bully no longer.” Earlier, António Guterres, the U.N. secretary general, called on the General Assembly to end conflicts.
+* 特朗普总统表示，伊朗一直是“中东的欺凌者，但他们不再是欺凌者。“早些时候，联合国秘书长安东尼奥·古特雷斯呼吁联合国大会结束冲突。
+* Cherie Geng is trying to free her husband, a pastor, who was among dozens of church members detained by the Chinese police. At the same time, she must rebuild her life in exile.
+* Cherie Geng正试图释放她的丈夫，她是一名牧师，她是被中国警方拘留的数十名教会成员之一。与此同时，她必须重建流亡生活。
+* After a sprawling world tour, Praxis, a New York-based, crypto-backed “digital nation,” has signed a deal to build a physical city in Uruguay.
+* 在庞大的世界巡演之后，总部位于纽约、由加密货币支持的“数字国家” Praxis签署了一项协议，在乌拉圭建立一个实体城市。
+* The attack came months after back-to-back school shootings in the country, where educators have been warning about rising violence.
+* 袭击发生在该国连续发生校园枪击事件的几个月后，教育工作者一直在警告暴力事件的上升。
+* Prime Minister Andy Burnham of Britain faces his most high-stakes meeting since taking office, looking to build a rapport with President Trump.
+* 英国首相安迪·伯纳姆（ Andy Burnham ）面临着自上任以来最高风险的会晤，希望与特朗普总统建立融洽的关系。
+* Ms. Dion, the French Canadian diva, has embarked on her first solo tour of France since the pandemic. The French are swooning.
+* 法国籍加拿大女歌手迪翁女士自疫情以来首次在法国进行个人巡回演出。法国人晕倒了。
+* With the Alternative for Germany party close to power in a German state, federal officials are planning to limit the group’s access to classified intelligence.
+* 随着德国替代党（ Alternative for Germany ）在德国某州接近掌权，联邦官员正计划限制该组织获取机密情报。
+* The Iran war and the fight between the Houthis and Saudi Arabia in Yemen have forced Gulf Arab states to reckon with spiraling conflicts and to reassess U.S. security guarantees.
+* 伊朗战争和胡塞武装与沙特阿拉伯在也门的战斗迫使海湾阿拉伯国家不得不面对不断升级的冲突，并重新评估美国的安全保障。
+* As temperatures in the country continue to approach 90 degrees Fahrenheit, inmates have been sleeping on concrete cell floors. Even the guards have complained.
+* 随着该国气温继续接近华氏90度，囚犯们一直睡在混凝土牢房地板上。连卫兵都抱怨过。
+* The decades have not lessened Earl Spencer’s anger over the House of Windsor’s treatment of the former Princess of Wales. King Charles comes in for special vitriol.
+* 几十年来，斯宾塞伯爵对温莎家族对待前威尔士公主的愤怒并没有减轻。查尔斯国王来这里是为了特别的讽刺。
 
 ## New York Times United States News
-* The lawyer for Lindsay Clancy, who strangled her children, asked that the man’s cellphone data be examined and that he be questioned in front of lawyers. The juror’s insistence on Ms. Clancy’s guilt resulted in a mistrial.
-* 勒死孩子的Lindsay Clancy的律师要求检查该男子的手机数据，并在律师面前对他进行讯问。陪审员坚持认为Clancy女士有罪，导致无效审判。
-* The party and its allies are currently set to spend hundreds of millions of dollars more on advertising than Democrats are, giving Republicans some hope in a tough midterm environment.
-* 该党及其盟友目前在广告上的支出将比民主党多出数亿美元，这给共和党人在艰难的中期环境中带来了一些希望。
-* Lawmakers are applying their experiences on the playing field to the debate over a measure that would impose big changes to college athletics.
-* 立法者正在将他们在运动场上的经验应用到辩论中，讨论一项将对大学体育运动带来重大变化的措施。
-* Gov. JB Pritzker of Illinois, widely seen as a potential presidential candidate, revealed in an interview on “CBS Mornings” that he had been on a GLP-1 regimen since 2024.
-* 被广泛视为潜在总统候选人的伊利诺伊州州长JB Pritzker在接受“CBS Mornings”采访时透露，自2024年以来，他一直在接受GLP-1方案。
-* We’re 43 days away from the midterms. Here’s the state of play.
-* 我们距离期中考试还有43天。这就是游戏的状态。
-* Survivors of a 2023 Hawaii wildfire on Maui are returning to their Lahaina neighborhoods but the mail isn’t coming.
-* 2023年夏威夷毛伊岛野火的幸存者正在返回他们的拉海纳社区，但邮件并没有到来。
-* Some praise the idea championed by Vice President JD Vance to direct federal money to support traditional families, while others say it cuts against conservative principles.
-* 一些人赞扬副总统JD Vance提出的将联邦资金用于支持传统家庭的想法，而另一些人则认为这违背了保守原则。
-* In Richardson, a fleet of drones has started to deliver goods quickly. But the noise is drowning out life for some residents: ‘We can’t live like this.’
-* 在理查森，一支无人机队已经开始快速运送货物。但噪音正在淹没一些居民的生活： “我们不能这样生活。”
-* There was a time that alcohol flowed freely at the Iranian Embassy, and celebrities like Frank Sinatra and Elizabeth Taylor were among the guests.
-* 曾几何时，伊朗大使馆的酒精自由流动，弗兰克·辛纳屈（ Frank Sinatra ）和伊丽莎白·泰勒（ Elizabeth Taylor ）等名人都是房客。
-* The California representative, who is pondering a presidential run, has campaigned for more than 70 left-wing candidates in an effort to harness the left’s deep discontent with the Democratic establishment.
-* 这位正在考虑竞选总统的加利福尼亚州代表一直在竞选70多名左翼候选人，以利用左翼对民主党机构的深切不满。
+* A video analysis finds that a federal immigration officer was standing to the side of Wilber Rafael Garces Perez’s car when the officer apparently fired through the rear passenger window. But the events surrounding the shooting remain murky.
+* 视频分析发现，一名联邦移民官员站在威尔伯·拉斐尔·加尔塞斯·佩雷斯（ Wilber Rafael Garces Perez ）汽车的一侧，当时该官员显然从后排乘客窗户射击。但围绕枪击事件的事件仍然模糊不清。
+* In a wide-ranging interview, the New York congresswoman offered her most detailed insight yet into how she is thinking about a possible presidential run.
+* 在一次广泛的采访中，这位纽约女议员就她如何考虑可能的总统竞选提出了迄今为止最详细的见解。
+* The city attorney argued that the service, available for up to $100,000 a month, could allow wealthy traders to manipulate the market, while leaving out everyday investors.
+* 该市律师辩称，这项服务每月最高可达10万美元，可以让富有的交易者操纵市场，同时将日常投资者排除在外。
+* The former vice president wants to help her party in the midterms, but not many are taking her up on the offer. Except for the Senate nominee in Michigan, who will appear with her on Tuesday.
+* 这位前副总统希望在中期选举中帮助她的政党，但没有多少人接受她的提议。除了密歇根州的参议院提名人，他将于周二与她一起出现。
+* The White House has labeled critics terrorists, attributed violence to a left-wing conspiracy and investigated unions, nonprofits and other groups in a battle over free speech.
+* 白宫将批评者列为恐怖分子，将暴力归咎于左翼阴谋，并在一场争夺言论自由的斗争中调查了工会、非营利组织和其他团体。
+* Americans have a pervasive sense they are being lied to. That has created an unpredictability in politics unseen since Donald Trump said he could shoot someone on Fifth Avenue without losing voters.
+* 美国人有一种普遍的感觉，他们被骗了。自唐纳德特朗普说他可以在第五大道上射杀某人而不会失去选民以来，这在政治上造成了前所未有的不可预测性。
+* The country store that was a hub for rock musicians like Jim Morrison and Graham Nash faces challenges and change. Supporters are trying to make it a landmark.
+* 这家乡村商店曾是吉姆·莫里森（ Jim Morrison ）和格雷厄姆·纳什（ Graham Nash ）等摇滚音乐家的中心，支持者正试图让它成为一个地标。
+* The 18-year-old was found dead days after taking a boat to a Mississippi island with friends on July 4. His case set off nationwide speculation about what happened.
+* 这名18岁的男子在7月4日与朋友乘船前往密西西比岛后几天被发现死亡。他的案子引发了全国范围内对所发生事件的猜测。
+* The Massachusetts Institute of Technology pulled ahead on a set of criteria that are as contentious as they are influential.
+* 麻省理工学院在一系列既有争议又有影响力的标准上领先一步。
+* The president, who has been dogged by the war in Iran and eroding alliances, is also expected to sign a security deal on Greenland and meet with world leaders.
+* 总统一直受到伊朗战争和侵蚀联盟的困扰，预计他还将签署一项关于格陵兰岛的安全协议，并会见世界各国领导人。
 
 ## New York Times Asia News
+* Cherie Geng is trying to free her husband, a pastor, who was among dozens of church members detained by the Chinese police. At the same time, she must rebuild her life in exile.
+* Cherie Geng正试图释放她的丈夫，她是一名牧师，她是被中国警方拘留的数十名教会成员之一。与此同时，她必须重建流亡生活。
+* More than 74,000 people remained under evacuation orders in the Tokyo region as authorities warned of landslides and floods.
+* 由于当局警告山体滑坡和洪水，东京地区仍有超过74,000人接到疏散令。
+* Japan’s prime minister will meet President Trump to discuss China’s economic and security pressure while also seeking to de-escalate tensions with Beijing.
+* 日本首相将与特朗普总统会面，讨论中国的经济和安全压力，同时寻求缓和与北京的紧张关系。
+* Facing an American president constrained by war and politics, China’s leader may seek to lock in a tactical truce while he shores up a fragile economy at home.
+* 面对一位受战争和政治束缚的美国总统，中国领导人可能会寻求在支撑国内脆弱经济的同时锁定战术休战。
+* Manufacturers are struggling with constrained supplies as U.S. and Chinese officials negotiate over export restrictions with consequences for global industry.
+* 随着美国和中国官员就出口限制进行谈判，对全球工业产生影响，制造商正在努力应对供应限制。
+* President Trump should demand that North Korea freeze, not eliminate, its nuclear weapons program, President Lee Jae Myung said in an interview.
+* Lee Jae Myung总统在接受采访时表示，特朗普总统应该要求朝鲜冻结而不是消除其核武器计划。
 * Zhang Youxia, once the People’s Liberation Army’s top uniformed commander, and another general had taken “exceptionally large” bribes, investigators said.
 * 调查人员说，曾经是中国人民解放军最高军装指挥官的张有霞和另一名将军收受了“特别大”的贿赂。
 * The United Nations is also searching for a replacement for António Guterres, who has served two terms as the secretary general and is stepping down.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 大豆是显着的例外，揭示了北京在特朗普总统和习近平之间的峰会之前履行贸易承诺的选择性方法。
 * The poet and lyricist Gulzar has profoundly shaped the idea of tender romance in India through his verse and songs in more than 150 musicals.
 * 诗人和作词家古尔扎尔通过他的诗歌和150多部音乐剧中的歌曲，深刻地塑造了印度温柔浪漫的概念。
-* The fishing town of Nemuro depends on Russia for trade. But it’s also leading a fight to win back islands seized by Moscow in World War II.
-* 渔村根室（ Nemuro ）的贸易依赖于俄罗斯。但它也正在引领一场夺回莫斯科在第二次世界大战中占领的岛屿的斗争。
-* As Beijing presses President Trump to freeze a proposed $14 billion weapons sale to the island, Taiwan is trying to show that its security is in U.S. interests.
-* 北京向特朗普总统施压，要求冻结拟向台湾出售的140亿美元武器，台湾正试图表明其安全符合美国的利益。
-* The government is exploring nuclear power options to guard against global energy shocks. One proposal is to switch on a plant in Bataan that has been mothballed for 40 years.
-* 政府正在探索核电选择，以防范全球能源冲击。其中一项建议是开启位于巴丹省的一家工厂，该工厂已被封存了40年。
-* For more than five years, U Kyaw Moe Tun has refused to give up his United Nations post and a sandstone townhouse on the Upper East Side.
-* 五年多来， U Kyaw Moe Tun一直拒绝放弃他的联合国职位和位于上东区的砂岩联排别墅。
-* The attack on a mosque inside a police compound, killing at least two dozen people, is the latest example of the worsening violence near the Afghan border.
-* 对警察大院内一座清真寺的袭击造成至少20多人死亡，这是阿富汗边境附近暴力恶化的最新例子。
-* India is trying to secure affordable energy while preserving a crucial relationship with Washington, a balancing act made harder by turmoil in global energy markets.
-* 印度正在努力确保负担得起的能源，同时保持与华盛顿的关键关系，这一平衡行动因全球能源市场的动荡而变得更加困难。
 
