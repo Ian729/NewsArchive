@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* President Trump built his political brand in part on bashing Mexico. Now his second presidency depends on deepening partnerships with the country.
-* 特朗普总统建立了自己的政治品牌，部分原因是抨击墨西哥。现在，他的第二任总统任期取决于深化与该国的伙伴关系。
-* Masoud Pezeshkian said Iran was open to diplomacy to end the war but would never accept limits on its civilian nuclear program. He became the first leader whose country was at war with the United States to speak in New York to the General Assembly.
-* 马苏德·佩泽什基安（ Masoud Pezeshkian ）表示，伊朗愿意通过外交手段结束战争，但绝不会接受对其民用核计划的限制。他成为第一位在纽约向大会发表演讲的领导人，其国家正在与美国交战。
-* A decade ago, Xi Jinping asked if China could master A.I. His push is remaking the economy, challenging the United States and keeping society under control.
-* 十年前，习近平问中国是否可以掌握人工智能。他的努力正在重塑经济，挑战美国，控制社会。
-* As the far right surges, Chancellor Friedrich Merz’s unpopular economic policies and gruff manner have failed to sway voters turned by rivals’ promises of easy fixes.
-* 随着极右翼的崛起，总理弗里德里希·默茨（ Friedrich Merz ）不受欢迎的经济政策和粗暴的态度未能动摇选民对竞争对手承诺的轻松解决办法的态度。
-* The competition between two popular ice cream shops in Ramallah inspires fierce loyalties, and a running joke, for lovers of cones piled high with flavors.
-* 拉马拉两家受欢迎的冰淇淋店之间的竞争激起了激烈的忠诚度，也激起了一个狂欢的笑话，让甜筒爱好者们吃不完。
-* The U.S. Embassy said a draft law allowing users to opt out of systems that choose what they can see in their feeds could amount to censorship.
-* 美国大使馆表示，一项允许用户选择退出系统的法律草案可能会构成审查。
-* Unemployment and poor public services fueled the border crisis at Ceuta and Gen Z protests, but frustrated young people may stay away from the polls.
-* 失业和糟糕的公共服务加剧了休达和Z世代抗议活动的边境危机，但沮丧的年轻人可能会远离民意调查。
-* Prime Minister Sanae Takaichi said the United Nations should scrub the World War II-era designation from its Charter. China and Russia have used the term recently to attack Japan.
-* 日本首相高市早苗（ Sanae Takaichi ）表示，联合国应该将第二次世界大战时期的名称从其宪章中删除。中国和俄罗斯最近使用这个词来攻击日本。
-* A court found 15 men guilty of coordinating a series of suicide bombings in hotels and churches, which killed more than 300 people.
-* 一家法院判定15名男子在酒店和教堂协调一系列自杀式爆炸事件，造成300多人死亡。
-* Half a dozen groups, accusing the prime minister of being dictatorial, announced the formation of a coalition in a country already scarred by war.
-* 六个团体指责总理独裁，宣布在一个已经因战争而伤痕累累的国家组建联盟。
+* The Palestinian leader, Mahmoud Abbas, condemned settler violence in the West Bank, saying, ‘We will not leave our homeland.’ Prime Minister Benjamin Netanyahu of Israel will take the stage later today, weeks before pivotal elections at home.
+* 巴勒斯坦领导人马哈茂德·阿巴斯谴责约旦河西岸的定居者暴力行为，他说： “我们不会离开我们的家园。“以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）将于今天晚些时候在国内关键选举前几周登台。
+* The police arrested a Ukrainian citizen on suspicion of carrying out the knife attack, which came as the two countries are trying to steady relations soured by old antagonisms.
+* 警方逮捕了一名涉嫌实施持刀袭击的乌克兰公民，当时两国正试图稳定因旧对抗而恶化的关系。
+* The Iran-backed militia in Yemen fired six ballistic missiles at cities in Saudi Arabia, a military spokesman said. There was no immediate comment from the Houthis.
+* 军方发言人说，伊朗支持的也门民兵向沙特阿拉伯的城市发射了6枚弹道导弹。胡塞武装没有立即发表评论。
+* Demonstrations broke out across the country over the woman’s eviction in Madrid, putting rising rents and affordability at the top of the political conversation.
+* 由于这名妇女在马德里被驱逐，全国各地爆发了示威活动，将租金上涨和负担能力置于政治对话的首位。
+* Early results in legislative elections showed the lowest voter turnout in nearly two decades. Economic frustrations have grown as Morocco is set to co-host the 2030 soccer World Cup.
+* 立法选举的早期结果显示，选民投票率是近二十年来的最低水平。随着摩洛哥将共同主办2030年足球世界杯，经济挫折感加剧。
+* Neria Leiter, a reserve soldier, sustained life-threatening injuries after a Palestinian man drove into a military checkpoint in the West Bank, the Israeli military said.
+* 以色列军方表示，一名巴勒斯坦男子开车进入约旦河西岸的一个军事检查站后，预备役士兵Neria Leiter遭受了危及生命的伤害。
+* Allegations embroiling the Brazilian judge who jailed former President Bolsonaro are reshaping an election that has consequences for Latin America and Washington.
+* 这名巴西法官被指控监禁前总统博尔索纳罗，正在重塑一场对拉丁美洲和华盛顿产生影响的选举。
+* If President Vladimir V. Putin was hoping to get Europeans’ attention, he’s succeeded with a series of close-call incursions. The question now is what they will do about it.
+* 如果弗拉基米尔· V ·普京总统希望引起欧洲人的注意，他已经成功地进行了一系列近距离通话入侵。现在的问题是他们会怎么做。
+* Prime Minister Benjamin Netanyahu of Israel will take to the world stage while fighting for his political future in a critical national election.
+* 以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）将在关键的全国大选中为自己的政治未来而战，同时走上世界舞台。
+* The British food writer — who brought the world the most creative possible pronunciation of “microwave” — has joined the show. By all accounts, she’s on fire. (In a good way.)
+* 这位为世界带来最具创意的“微波炉”发音的英国美食作家加入了这个节目。从各方面来看，她都着火了。（以一种好的方式。）
 
 ## New York Times United States News
-* The lawsuits accuse the company of failing to adequately warn passengers about the risks to riders of the X2 coaster at Six Flags Magic Mountain.
-* 诉讼指控该公司未能充分警告乘客关于六旗魔术山X2过山车乘客的风险。
-* A half-century ago, scientists and lawyers agreed to strict self-regulation in DNA research to avoid catastrophe. Can A.I. follow the same model?
-* 半个世纪前，科学家和律师同意对DNA研究进行严格的自我监管，以避免灾难。人工智能可以遵循相同的模式吗？
-* The tax cuts in President Trump’s signature achievement were the Republicans’ answer to voters’ economic struggles, but its health care and food assistance cuts are taking a toll.
-* 特朗普总统标志性成就中的减税是共和党人对选民经济斗争的回应，但其医疗保健和粮食援助削减正在造成损失。
-* The gift from Phil Knight, the Nike co-founder, is the largest known donation to a flagship university. It will fund a new engineering college.
-* 耐克联合创始人菲尔·奈特（ Phil Knight ）的礼物是已知对旗舰大学的最大捐赠。它将资助一所新的工程学院。
-* A federal appeals court sided with Republicans seeking to use district boundaries redrawn last year to give the G.O.P. an advantage in the upcoming midterms.
-* 联邦上诉法院支持共和党人寻求利用去年重新划定的地区边界，让共和党在即将到来的中期选举中占据优势。
-* It’s the first time in recorded history that a sea turtle has nested on the West Coast. Scientists say it is the latest sign of warming ocean waters.
-* 这是有史以来第一次有海龟在西海岸筑巢。科学家说，这是海水变暖的最新迹象。
-* President Trump signed a Greenland security deal that falls well short of his demands to turn the island into a U.S. territory.
-* 特朗普总统签署了一项格陵兰安全协议，远远没有达到他将格陵兰岛变成美国领土的要求。
-* The president is increasingly invoking the rationale while facing legal challenges to his plans, even in more curious cases like his triumphal arch, which he says will now include snipers and drones.
-* 总统在面临其计划的法律挑战时，越来越多地援引这一理由，即使在他的凯旋门等更奇怪的情况下也是如此，他说现在将包括狙击手和无人机。
-* At least six hospitals have struck agreements with the Trump administration to pay fines and stop providing gender-transition treatments to minors.
-* 至少有六家医院与特朗普政府达成协议，支付罚款并停止向未成年人提供性别转换治疗。
-* The 24-year-old man had been traveling cross-country from New York to Los Angeles after starting out in August.
-* 这名24岁的男子在8月份开始从纽约到洛杉矶的越野旅行。
+* It was the Trump administration’s latest stumble in its effort to find proof of widespread noncitizen voting, despite decades of evidence that it is extremely rare.
+* 这是特朗普政府在努力寻找广泛非公民投票的证据方面的最新失败，尽管数十年的证据表明这是极其罕见的。
+* Voters in the battleground state favored Senator Susan Collins, the Republican incumbent, over Troy Jackson, a Democrat, in several important areas, according to a New York Times/Siena poll.
+* 根据《纽约时报》/锡耶纳的一项民意调查，战场州的选民在几个重要领域支持共和党现任参议员苏珊·柯林斯（ Susan Collins ）而不是民主党参议员特洛伊·杰克逊（ Troy Jackson ）。
+* Artificial intelligence companies are becoming pervasive in the city, and a humorist finds them ripe for mocking.
+* 人工智能公司在城市中变得无处不在，一位幽默作家发现他们嘲笑的时机已经成熟。
+* Losing its accreditation ability would be a blow to the nation’s largest association of lawyers and another example of how the Trump administration is reshaping higher education.
+* 失去认证能力将对美国最大的律师协会造成打击，也是特朗普政府如何重塑高等教育的另一个例子。
+* The dissent reflects growing unease about the party’s prospects in November, as the G.O.P. struggles to overcome the president’s unpopularity.
+* 这种异议反映出人们对共和党11月份的前景越来越不安，因为共和党正在努力克服总统的不受欢迎程度。
+* Dr. Heidi Overton has called mifepristone “dangerous to women.” As a White House aide, she worked to reduce the number of vaccines recommended for children.
+* Heidi Overton博士称米非司酮对女性“危险”。“作为白宫助手，她努力减少推荐给儿童的疫苗数量。
+* The party’s nominees lead in Michigan and New Hampshire but the Republican incumbent is ahead in Maine, according to New York Times/Siena polls of the three battlegrounds.
+* 根据纽约时报/锡耶纳对三个战场的民意调查，该党的候选人在密歇根州和新罕布什尔州领先，但共和党现任者在缅因州领先。
+* Social media posts, including from the Department of Homeland Security and a Texas Republican candidate, have helped stir fear among people of South Asian heritage.
+* 包括来自国土安全部和德克萨斯州共和党候选人在内的社交媒体帖子帮助激起了南亚裔人的恐惧。
+* Some argue that the county can afford to embrace its fictional twin in the game, “Vice City,” because the real place has experienced a striking drop in violence over time.
+* 有些人认为，该县有能力在游戏“罪恶之城”中拥抱其虚构的双胞胎，因为随着时间的推移，真实的地方已经经历了暴力的显着下降。
+* President Xi Jinping’s first visit to the White House in a decade comes as President Trump continues his unexpected turn from a hard line on China.
+* 习近平主席十年来首次访问白宫之际，特朗普总统继续出人意料地对中国采取强硬立场。
 
 ## New York Times Asia News
-* U Kyaw Moe Tun has kept a low profile at the General Assembly for years, part of an arrangement to keep his post despite the military-backed government’s efforts to remove him.
-* U Kyaw Moe Tun多年来在大会一直保持低调，这是尽管军方支持的政府努力将他撤职，但仍要保留其职位的安排的一部分。
-* Prime Minister Sanae Takaichi said the United Nations should scrub the World War II-era designation from its Charter. China and Russia have used the term recently to attack Japan.
-* 日本首相高市早苗（ Sanae Takaichi ）表示，联合国应该将第二次世界大战时期的名称从其宪章中删除。中国和俄罗斯最近使用这个词来攻击日本。
-* A decade ago, Xi Jinping asked if China could master A.I. His push is remaking the economy, challenging the United States and keeping society under control.
-* 十年前，习近平问中国是否可以掌握人工智能。他的努力正在重塑经济，挑战美国，控制社会。
-* The U.S. Embassy said a draft law allowing users to opt out of systems that choose what they can see in their feeds could amount to censorship.
-* 美国大使馆表示，一项允许用户选择退出系统的法律草案可能会构成审查。
 * 
 * 
-* 
-* 
-* 
-* 
-* A court found 15 men guilty of coordinating a series of suicide bombings in hotels and churches, which killed more than 300 people.
-* 一家法院判定15名男子在酒店和教堂协调一系列自杀式爆炸事件，造成300多人死亡。
-* Cherie Geng is trying to free her husband, a pastor, who was among dozens of church members detained by the Chinese police. At the same time, she must rebuild her life in exile.
-* Cherie Geng正试图释放她的丈夫，她是一名牧师，她是被中国警方拘留的数十名教会成员之一。与此同时，她必须重建流亡生活。
-* More than 74,000 people remained under evacuation orders in the Tokyo region as authorities warned of landslides and floods.
-* 由于当局警告山体滑坡和洪水，东京地区仍有超过74,000人接到疏散令。
+* A decade after the sale of Germany’s Kuka, Europe is seeking to shift into a higher gear to unlock the potential in robotics and artificial intelligence.
+* 在德国Kuka出售十年后，欧洲正寻求转向更高的速度，以释放机器人和人工智能的潜力。
+* President Xi Jinping’s first visit to the White House in a decade comes as President Trump continues his unexpected turn from a hard line on China.
+* 习近平主席十年来首次访问白宫之际，特朗普总统继续出人意料地对中国采取强硬立场。
+* The Americans being held in China are U Min Zin, a scholar who studied Myanmar, and Youlin Chen, a seismologist who researched North Korean nuclear tests.
+* 被关押在中国的美国人是研究缅甸的学者U Min Zin和研究朝鲜核试验的地震学家Youlin Chen。
+* Balendra Shah, 36, comes to the U.N. as a sun-glassed symbol of Gen Z political power. But concerns about his style are growing at home after devastating floods left thousands dead or missing.
+* 36岁的巴伦德拉·沙阿（ Balendra Shah ）作为Z世代政治权力的太阳镜象征来到联合国。但是，在毁灭性的洪水造成数千人死亡或失踪后，人们越来越担心他的风格。
+* President Volodymyr Zelensky of Ukraine said one soldier tried to kill himself when he was captured. “This is how they raise people in the North,” he said.
+* 乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）说，一名士兵在被捕时试图自杀。“这就是他们在北方抚养人的方式，”他说。
+* Australia is exploring potential legal action after an artificial intelligence agent accessed nonpublic information on the country’s universal health care system.
+* 澳大利亚正在探索在人工智能特工访问该国全民医疗保健系统的非公开信息后可能采取的法律行动。
+* Secretary of State Marco Rubio said that U.S. negotiators had restarted conversations about Iran’s nuclear program, but that there were no breakthroughs.
+* 美国国务卿马尔科·卢比奥（ Marco Rubio ）表示，美国谈判代表重启了有关伊朗核计划的谈判，但没有取得突破。
+* Discussion about the Chinese leader’s health is heavily censored in China even as the 73-year-old is expected to remain in power.
+* 关于这位中国领导人健康的讨论在中国受到严厉审查，尽管预计这位73岁的老人将继续掌权。
+* Experts attribute the changing mood to fading memories of the coronavirus pandemic, awareness of China’s tech innovations and disaffection with President Trump’s trade wars.
+* 专家们将这种情绪的变化归因于对冠状病毒大流行的记忆逐渐消退，对中国技术创新的认识以及对特朗普总统贸易战的不满。
 
