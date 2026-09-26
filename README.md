@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”
-* 一位仓库被击中两次的出版商表示，莫斯科“认为书籍对他们来说比军事装备更危险”。
-* After visiting Africa, Pope Leo’s four-day trip to France shows how he is seeking to appeal to Roman Catholicism’s original heartlands as well as to the church’s newest strongholds.
-* 在访问非洲之后，教皇利奥对法国进行了为期四天的访问，展示了他如何寻求吸引罗马天主教的原始心脏地带以及教堂的最新据点。
-* The residents of Vlkolinec in Slovakia — there are 17 — say that since the place was named a world heritage site, gawking hordes have made it unlivable.
-* 斯洛伐克Vlkolinec的居民（共有17人）说，自从这个地方被命名为世界遗产以来，成群结队的人让它无法居住。
+* Gali Baharav-Miara, Israel’s first female attorney general, has stopped many of the government’s efforts to remove constraints on its power.
+* 以色列首位女总检察长加利·巴哈拉夫-米阿拉（ Gali Baharav-Miara ）阻止了政府为消除对其权力的限制所做的许多努力。
+* Pakistani authorities have barricaded Islamabad with more than 1,500 shipping containers to stop opposition protesters, choking off access to the capital.
+* 巴基斯坦当局用1500多个集装箱封锁了伊斯兰堡，以阻止反对派抗议者，切断了进入首都的通道。
+* In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan.
+* 在与特朗普总统的会谈中，中国领导人利用赞美、警告和战时历史来挑战美国对台湾和日本的支持。
+* Israel condemned the database of firms tied to activity in the occupied West Bank as a “political tool” to advance “a smear campaign.”
+* 以色列谴责与被占领的约旦河西岸活动有关的公司数据库是推进“诽谤运动”的“政治工具”。
+* Local officials said a gas leak might have caused the blast, which rattled a part of the Greek capital that draws many visitors.
+* 当地官员表示，天然气泄漏可能导致爆炸，爆炸震动了希腊首都的一部分，吸引了许多游客。
+* Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States.
+* 加拿大总理正在寻求与中国、印度和欧盟建立更深厚的贸易、防务和文化关系，但没有一个国家可能取代与美国的关系。
+* The warning from the leader of the United Arab Emirates, which lacked specific details about the nature of an attack, never reached the chiefs of Israel’s security establishment, Israeli officials said.
+* 以色列官员说，阿拉伯联合酋长国领导人的警告缺乏有关袭击性质的具体细节，但从未传达给以色列安全机构的负责人。
 * María del Carmen Abascal, whose case has become a symbol of Spain’s housing crisis, appeared in a video from her hospital bed after police officers removed her from her apartment.
 * 玛丽亚·德尔卡门·阿巴斯卡尔（ María del Carmen Abascal ）的案件已成为西班牙住房危机的象征，在警察将她从公寓带走后，她出现在医院病床上的视频中。
-* Mary Jane Veloso was convicted of drug smuggling and nearly killed by a firing squad in Indonesia. On Friday, more than a decade later, she was pardoned in the Philippines.
-* Mary Jane Veloso被判犯有走私毒品罪，几乎被印度尼西亚的一个行刑队杀害。十多年后的星期五，她在菲律宾被赦免。
-* The grand mufti urged Saudi-led forces to remain in “constant readiness,” suggesting that the kingdom might expand its campaign against the Houthis in Yemen.
-* 大穆夫提敦促沙特领导的部队保持“持续准备” ，暗示沙特王国可能会扩大对也门胡塞武装的运动。
-* The first known breach of a government website by rogue artificial intelligence agents has prompted global calls for more regulation of the technology.
-* 已知的流氓人工智能代理首次违反政府网站，这促使全球呼吁对该技术进行更多监管。
-* Abelardo De La Espriella, the new president, wore the gun to visit Santa Marta, a tourist destination shut down by an armed group after state forces killed a group leader.
-* 新总统阿韦拉尔多·德拉埃斯普列拉（ Abelardo De La Espriella ）佩戴枪支前往圣玛尔塔（ Santa Marta ） ，这是一个在国家部队杀害一名团体领导人后被武装团体关闭的旅游目的地。
-* The economic damage from Russian strikes, resulting in lost sales, disrupted workdays and logistical snarls, is in the billions of dollars.
-* 俄罗斯罢工造成的经济损失高达数十亿美元，导致销售损失、工作日中断和后勤咆哮。
-* Executives from a Russian-owned company are accused of misrepresentation in order to secure U.S. government contracts.
-* 一家俄罗斯公司的高管被指控为获得美国政府合同而做出虚假陈述。
+* A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”
+* 一位仓库被击中两次的出版商表示，莫斯科“认为书籍对他们来说比军事装备更危险”。
+* “It Was Either That Or Die,” by the Haitian-Canadian author Thélyson Orélien, was the hit of the French literary season. Now it has been pulled from the shortlist for a prestigious prize.
+* 海地裔加拿大作家泰利森·奥利安（ Thélyson Orélien ）的《要么就是要么就死》（ It Is Either That Or Die ）是法国文学季的热门歌曲。现在，它已从入围名单中抽出，以获得着名的奖品。
 
 ## New York Times United States News
-* Democrats hold wide leads in Maine and Pennsylvania, as does the incumbent Republican in New Hampshire, but Michigan appears closer, according to New York Times/Siena polls.
-* 根据《纽约时报》/锡耶纳的民意调查，民主党在缅因州和宾夕法尼亚州以及新罕布什尔州的现任共和党人中拥有广泛的领先优势，但密歇根州似乎更接近。
-* Not much is publicly known about how Niihau, a privately owned Hawaiian island with fewer than 100 residents, fared during Hurricane Lowell.
-* 对于拥有不到100名居民的私人拥有的夏威夷岛屿Niihau在飓风洛厄尔期间的表现，公众知之甚少。
-* 
-* 
-* The president announced plans to rally in deep-red states as his party makes a push for close races in battleground states.
-* 总统宣布计划在深红州集会，因为他的政党正在推动战场州的近距离竞选。
-* Voters interviewed in Anchorage and Fairbanks on Thursday said news that Mary Peltola, the Democratic nominee for Senate, had used offensive slurs would not change their vote.
-* 周四在安克雷奇和费尔班克斯接受采访的选民表示，民主党参议院候选人玛丽·佩尔托拉（ Mary Peltola ）使用攻击性诽谤的消息不会改变他们的选票。
-* Abelardo De La Espriella, the new president, wore the gun to visit Santa Marta, a tourist destination shut down by an armed group after state forces killed a group leader.
-* 新总统阿韦拉尔多·德拉埃斯普列拉（ Abelardo De La Espriella ）佩戴枪支前往圣玛尔塔（ Santa Marta ） ，这是一个在国家部队杀害一名团体领导人后被武装团体关闭的旅游目的地。
-* Republicans in Senate battlegrounds have started to break with the president. Not Michael Whatley of North Carolina, even as his race seems at risk.
-* 参议院战场上的共和党人已经开始与总统决裂。不是北卡罗来纳州的迈克尔·沃特利，即使他的种族似乎处于危险之中。
-* Kodiak Island in Alaska is famous for its giant brown bears, but human efforts to keep the behemoths out of the landfill have become a struggle.
-* 阿拉斯加的科迪亚克岛（ Kodiak Island ）以其巨大的棕熊而闻名，但人类阻止庞然大物进入垃圾填埋场的努力已经成为一场斗争。
-* It started as a bizarre late-night standoff behind the counter of a fast food joint. It ended with no injuries — and free burgers.
-* 它始于一个快餐店柜台后面的一个奇怪的深夜对峙。它结束时没有受伤—还有免费的汉堡。
-* When the long-running TV franchise came to Murphy, Texas, in 2006, a man ended up dead. A new film, “Primetime,” looks back on what happened.
-* 2006年，当长期运营的电视特许经营权来到德克萨斯州墨菲时，一名男子最终死亡。一部新电影《黄金时段》回顾了发生的事情。
+* Across the northeast, couples were forced to postpone, relocate or cancel weddings they planned to hold outdoors this weekend.
+* 在整个东北地区，夫妻被迫推迟、搬迁或取消本周末计划在户外举行的婚礼。
+* The longtime Democratic insider has emerged as a behind-the-scenes force in his party’s push to win back Congress. After that, he’ll think about 2028.
+* 这位长期的民主党内部人士已经成为该党推动赢回国会的幕后力量。之后，他会想到2028年。
+* The organization, founded in 2006 to back Democratic veterans opposing the Iraq war, is pouring huge sums into this year’s elections amid intense voter antipathy for another conflict in the Middle East.
+* 该组织成立于2006年，旨在支持反对伊拉克战争的民主党退伍军人，由于选民对中东另一场冲突的强烈反感，该组织正在为今年的选举投入巨额资金。
+* Bobby Pulido, a Tejano musician running as a Democrat for the House, has left his Republican opponent struggling to match his star power in a district that President Trump won easily in 2024.
+* 特哈诺（ Tejano ）音乐家鲍比·普利多（ Bobby Pulido ）以众议院民主党人的身份竞选，他让共和党对手在2024年特朗普总统轻松赢得的一个地区努力与他的明星权力相匹配。
+* The Centers for Disease Control and Prevention has lost close to 30 percent of its staff in the past year, with big turnover in top leadership and entire teams effectively shut down. Our health reporter Apoorva Mandavilli explains how these changes have affected the work of the department.
+* 在过去一年中，疾病控制和预防中心失去了近30 ％的员工，高层领导人员流动很大，整个团队实际上都被关闭了。我们的健康记者Apoorva Mandavilli解释了这些变化如何影响了该部门的工作。
+* The attempted clawback represents the second time in as many years that the White House has sought to cancel funding approved by lawmakers.
+* 这是白宫多年来第二次试图取消立法者批准的资金。
+* Two University of Wisconsin-Madison students face charges of suspicion of hazing in the episode, which happened on Wednesday in a sweltering basement, officials said.
+* 官员说，两名威斯康星大学麦迪逊分校的学生在这起事件中面临欺凌嫌疑人的指控，这起事件于周三在一个闷热的地下室发生。
+* Federal law requires a 90-day “quiet period” before elections, likely restricting the immediate scope of a decision that allows the use of a citizenship database to examine voter rolls.
+* 联邦法律要求在选举前有90天的“静默期” ，这可能会限制允许使用公民数据库审查选民名册的决定的直接范围。
+* A 46-year-old doctor was killed and his wife was critically wounded inside their Pittsburgh-area home. A man has been arrested and charged in connection with the attack.
+* 一名46岁的医生在匹兹堡地区的家中被杀，他的妻子受重伤。一名男子因与袭击事件有关而被捕并受到指控。
+* A review commissioned by Utah Valley University faults campus and Turning Point USA officials for poor planning of the event last year.
+* 犹他谷大学(Utah Valley University)委托进行的一项审查对校园和美国转折点(Turning Point USA)官员去年的活动规划不善提出了批评。
 
 ## New York Times Asia News
+* Pakistani authorities have barricaded Islamabad with more than 1,500 shipping containers to stop opposition protesters, choking off access to the capital.
+* 巴基斯坦当局用1500多个集装箱封锁了伊斯兰堡，以阻止反对派抗议者，切断了进入首都的通道。
+* In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan.
+* 在与特朗普总统的会谈中，中国领导人利用赞美、警告和战时历史来挑战美国对台湾和日本的支持。
+* And possibly makes history while doing so.
+* 并可能在这样做的同时创造历史。
 * Easing tensions with Washington gives Beijing room to tackle economic troubles at home while reducing its vulnerability to American pressure.
 * 缓解与华盛顿的紧张局势为北京提供了解决国内经济困难的空间，同时也降低了其面对美国压力的脆弱性。
 * American chief executives turned out in force to see Xi Jinping, while their Chinese counterparts were absent, a sign of how drastically business ties have changed.
@@ -58,12 +64,6 @@ Auto RSS New York Times and Translate
 * Balendra Shah穿着它们作为说唱歌手，作为加德满都的市长，并在成为总理的途中。现在他把目光投向了联合国。
 * Altman. Musk. Huang. Bezos. They all came to the White House Thursday night, though you might not have seen it on TV.
 * Altman. Musk. Huang. Bezos.他们周四晚上都来到白宫，尽管你可能没有在电视上看到过。
-* 
-* 
-* For months, millions of people have been living under a stifling blanket of toxic haze, fueled by a punishing drought brought on by the El Niño weather pattern.
-* 几个月来，数百万人一直生活在有毒雾霾的令人窒息的毯子下，厄尔尼诺天气模式带来的严重干旱助长了这种状况。
-* Xi Jinping, China’s leader, said two pandas would arrive soon at Zoo Atlanta. Panda diplomacy has been a cornerstone of U.S.-China relations.
-* 中国领导人习近平表示，两只大熊猫将很快抵达亚特兰大动物园。熊猫外交一直是美中关系的基石。
 * 
 * 
 
