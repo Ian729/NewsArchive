@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The British counterterrorism police said the five British nationals arrested near R.A.F. Fairford on Sunday were being released on bail but remained under investigation.
-* 英国反恐警察表示，周日在费尔福德皇家空军附近被捕的五名英国国民被保释，但仍在接受调查。
-* The fighting between the Iran-backed Houthi militia and Saudi-backed government forces has exacerbated one of the world’s worst humanitarian crises, the World Health Organization said.
-* 世界卫生组织表示，伊朗支持的胡塞民兵与沙特支持的政府军之间的战斗加剧了世界上最严重的人道主义危机之一。
-* A Russian jet-powered drone hit Ukraine’s National Academy of Sciences, the source of almost all of the country’s major scientific discoveries.
-* 一架俄罗斯喷气式无人机击中了乌克兰国家科学院，这是该国几乎所有重大科学发现的来源。
-* Councilors in an eastern German town voted to stop installing memorial plaques outside homes of Holocaust victims, saying they would instead build a memorial at a cemetery.
-* 德国东部一个城镇的议员投票决定停止在大屠杀受害者家园外安装纪念牌匾，称他们将在墓地建造一座纪念碑。
-* The administration is brokering deals in a notoriously corrupt industry, including one with a company that the United States deems a security threat.
-* 政府正在为一个臭名昭著的腐败行业进行交易，其中包括一家美国认为存在安全威胁的公司。
-* The Russian region of North Ossetia has suffered a heavy toll, yet many accept the Kremlin’s line that the fighting must continue until victory is secured.
-* 俄罗斯北奥塞梯地区遭受了沉重的损失，但许多人接受克里姆林宫的路线，即战斗必须继续下去，直到取得胜利。
-* Speaking in France, the pontiff lauded postwar efforts to unify the continent. Experts saw it as a critique of President Trump’s repeated berating of European leaders.
-* 教皇在法国发表讲话时称赞了战后统一非洲大陆的努力。专家们认为这是对特朗普总统一再指责欧洲领导人的批评。
-* As Brazil prepares to hold elections next month, Latin America’s biggest nation is taking steps to shield its democracy from potential American meddling.
-* 随着巴西准备在下个月举行选举，这个拉丁美洲最大的国家正在采取措施，保护其民主免受美国的潜在干涉。
-* Five British men who were arrested as they neared R.A.F. Fairford, a base used by the United States in the war on Iran, were to be released on bail but remained suspects.
-* 五名英国男子在接近美国在伊朗战争中使用的R.A.F.费尔福德基地时被捕，他们将被保释，但仍是嫌疑人。
-* Aleksandar Vucic, one of Europe’s longest-serving leaders, resigned as president, paving the way for him to become prime minister after elections next month.
-* 欧洲任期最长的领导人之一亚历山大·武契奇（ Aleksandar Vucic ）辞去了总统职务，为他在下个月选举后成为总理铺平了道路。
+* It was possible, for a time, to think that Kramatorsk, where I was born and raised, would survive the war mostly unscathed. Not any more.
+* 有一段时间，我可能会认为，我出生和长大的地方克拉马托尔斯克（ Kramatorsk ）将在战争中幸存下来，几乎毫发无损。不再是了。
+* The Supreme Court had ordered the military to ensure a West Bank family that fled violence could go back. But settlers blocked the effort, with the authorities accused of not doing enough to confront them.
+* 最高法院下令军方确保逃离暴力的约旦河西岸家庭可以回去。但定居者阻挠了这一努力，当局被指控没有采取足够的措施来对抗他们。
+* An airstrike on a bustling market in rebel territory left at least 50 people dead, in one of the deadliest attacks on civilians in months.
+* 对反叛分子领地繁华市场的空袭造成至少50人死亡，这是几个月来对平民最致命的袭击之一。
+* For one Istanbul confectioner, distributing fried dough balls as memorials is not just a job. It’s personal.
+* 对于一位伊斯坦布尔糖果店来说，分发油炸面团球作为纪念不仅仅是一项工作。这是私人恩怨。
+* Jordan Bardella, the 31-year-old protégé of Marine Le Pen, is said to have made antisemitic statements as a teenage activist. He denies it.
+* 据说， 31岁的马琳·勒庞（ Marine Le Pen ）的门徒乔丹·巴尔德拉（ Jordan Bardella ）作为一名青少年活动家发表了反犹太主义言论。他否认。
+* Mr. Milei wants to go all in on artificial intelligence even as other leaders struggle to get a handle on a technology many fear poses existential threats.
+* Milei先生希望在人工智能领域全力以赴，尽管其他领导人正在努力掌握许多人担心会构成生存威胁的技术。
+* Malaysia says it is repatriating undocumented migrants from Myanmar who want to return. Critics say it is putting their lives at risk.
+* 马来西亚表示，它正在从缅甸遣返希望返回的无证移民。批评人士说，这使他们的生命处于危险之中。
+* The eviction of an 87-year-old set off protests in the country, which has an acute housing shortage. The government presented legislation to protect renters.
+* 一名87岁的老人被驱逐，引发了该国的抗议活动，该国住房严重短缺。政府提出了保护租房者的立法。
+* Prime Minister Andy Burnham outlined his proposals for major policy changes and said: “I accept people will not agree with every part of it.”
+* 总理安迪·伯纳姆（ Andy Burnham ）概述了他提出的重大政策变革建议，并表示： “我接受人们不会同意其中的每一部分。”
+* Andrés Manuel López Beltrán has joined the list of figures who, critics say, may end up harming the left-wing movement his father founded, as well as the president who succeeded him.
+* 批评人士说，安德烈斯·曼努埃尔·洛佩斯·贝尔特兰（ Andrés Manuel López Beltrán ）加入了可能最终损害他父亲创立的左翼运动以及继任总统的人物名单。
 
 ## New York Times United States News
-* Even some devoted conservatives know more about Sherrod Brown, the Democratic challenger, than the Republican incumbent, who needs the MAGA base to turn out.
-* 即使是一些忠诚的保守派也比共和党现任议员更了解民主党挑战者谢罗德·布朗（ Sherrod Brown ） ，后者需要MAGA基地才能出局。
-* Researchers looked back at the baby-boom era and found that federal mortgage programs played a part in the country’s population upswing after World War II.
-* 研究人员回顾了婴儿潮时代，发现联邦抵押贷款计划在第二次世界大战后该国人口增长中发挥了作用。
-* Mr. Bailey, who was part of a three-person leadership team atop the bureau, lasted barely a year.
-* 贝利先生是该局三人领导团队的一员，他只工作了不到一年。
-* 
-* 
-* It’s Sept. 28 — 36 days away from the midterms. Here’s the state of play.
-* 距离期中考试还有9月28日至36天。这就是游戏的状态。
-* The fate of two cotton brokers highlights how the Commodity Futures Trading Commission has scaled back its regulatory actions not just for crypto cases but also for the kinds of cases it has long policed.
-* 两家棉花经纪人的命运凸显了商品期货交易委员会如何缩减其监管行动，不仅针对加密案件，还针对其长期监管的案件。
-* Christa Pike could be the first woman executed in Tennessee in more than 200 years. Her supporters say she has changed in isolation; her victim’s family wants her to die.
-* 克里斯塔·派克（ Christa Pike ）可能是田纳西州200多年来第一位被处决的女性。她的支持者说，她在孤立中改变了；受害者的家人希望她死。
-* Black voters largely rejected James Talarico in the Democratic primary for U.S. Senate. Recent interviews suggest the hard feelings may be wearing off.
-* 黑人选民在美国参议院民主党初选中基本上否决了詹姆斯·塔拉里科。最近的采访表明，这种难受的感觉可能正在逐渐消失。
-* President Trump made the offer to Xi Jinping, China’s leader, said David Perdue, the ambassador to China. The White House later said the U.S. had no plans for such a sale.
-* 特朗普总统向中国领导人习近平提出了这一提议，驻华大使大卫·珀杜（ David Perdue ）说。白宫后来表示，美国没有计划进行此类销售。
-* Dario Amodei, who is also the company’s chief executive, will join the president at the White House for a private dinner. Mr. Trump has dismissed his cautions.
-* 该公司首席执行官Dario Amodei将与总统在白宫共进私人晚宴。特朗普已经驳回了他的警告。
+* Prosecutors say the man who was shot, Wilber Rafael Garces Perez, struck an agent with his car’s mirror before another agent shot him.
+* 检察官说，被枪杀的男子威尔伯·拉斐尔·加尔塞斯·佩雷斯（ Wilber Rafael Garces Perez ）用车镜击中了一名特工，然后另一名特工向他开枪。
+* At least three people died after the vessel sank in the Mona Passage, a dangerous stretch of sea often traveled by migrants from Haiti and the Dominican Republic.
+* 这艘船在莫纳海峡沉没后至少有三人死亡，这是一片危险的海域，经常有来自海地和多米尼加共和国的移民前往。
+* The bureau was the latest target of the notorious gang of cybercriminals that steals sensitive personal data and sells it online.
+* 该局是臭名昭著的网络犯罪团伙的最新目标，该团伙窃取敏感的个人数据并在网上出售。
+* Elizabeth Dias, our national religion correspondent, and Cade Metz, one of our technology reporters, discuss Anthropic’s approach for instilling morality into Claude — which has involved consultations with religious leaders, including ones at the Vatican — and why it’s raising questions.
+* 我们的国家宗教记者伊丽莎白·迪亚斯（ Elizabeth Dias ）和我们的技术记者之一凯德·梅斯（ Cade Metz ）讨论了Anthropic向克劳德灌输道德的方法，其中包括与宗教领袖（包括梵蒂冈的宗教领袖）进行磋商，以及为什么它会提出问题。
+* “We know how to find you,” Brett Leatherman, a senior cyber official at the F.B.I., said in a video statement released Tuesday.
+* “我们知道如何找到你，” FBI高级网络官员布雷特·莱瑟曼(Brett Leatherman)在周二发布的一份视频声明中说。
+* A similar surge last year resulted in undervetted officers initially being let in and then removed as the agency skipped basic checks for new recruits.
+* 去年类似的激增导致未经审查的官员最初被允许进入，然后由于该机构跳过了对新兵的基本检查而被撤职。
+* Several Republicans in close races have distanced themselves from President Trump’s effort to speed the construction of A.I. data centers, citing concerns about rising electricity bills.
+* 几位竞选激烈的共和党人与特朗普总统加快建设人工智能数据中心的努力保持距离，理由是对电费上涨的担忧。
+* In a series of private meetings, the company consulted religious scholars to help instill morality into its A.I. models — and make the case that Claude could be conscious.
+* 在一系列私人会议上，该公司咨询了宗教学者，以帮助将道德灌输到其人工智能模型中，并证明克劳德可能有意识。
+* President Trump used JMSN’s song in a recent self-promotional video that was paid for with public money.
+* 特朗普总统在最近用公共资金支付的自我宣传视频中使用了JMSN的歌曲。
+* Mr. Smith’s testimony will be the latest public clash over the use of prosecutorial power in American politics.
+* 史密斯先生的证词将是在美国政治中使用起诉权的最新公开冲突。
 
 ## New York Times Asia News
+* Malaysia says it is repatriating undocumented migrants from Myanmar who want to return. Critics say it is putting their lives at risk.
+* 马来西亚表示，它正在从缅甸遣返希望返回的无证移民。批评人士说，这使他们的生命处于危险之中。
+* An airstrike on a bustling market in rebel territory left at least 50 people dead, in one of the deadliest attacks on civilians in months.
+* 对反叛分子领地繁华市场的空袭造成至少50人死亡，这是几个月来对平民最致命的袭击之一。
+* The company detailed how A.I. agents gained access to four government websites and acknowledged mishandling its response.
+* 该公司详细说明了人工智能代理如何访问四个政府网站，并承认处理不当。
+* A generation exhausted by dating apps is embracing a corporate reinvention of traditional matchmaking, fueling an industry that promises a fast track to marriage.
+* 一代人因约会应用程序而筋疲力尽，他们正在接受传统婚介的企业革新，推动一个承诺快速通往婚姻的行业。
 * Two of the country’s leading makers of electric vehicles announced they are merging their battery swapping and charging operations.
 * 该国两家领先的电动汽车制造商宣布，他们正在合并电池更换和充电业务。
 * The Victorian heroine has long been celebrated in China for her independence and insistence on equality.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 在中国，人工智能世界末日警告可能让人感觉明显是西方的，或者像是阻止中国人工智能公司试图超越美国竞争对手的伎俩。
 * Years after a coup, the military is increasingly using motorized paragliders and gyrocopters to bomb towns and villages in rebel-held territory.
 * 政变多年后，军方越来越多地使用机动滑翔伞和旋翼机轰炸叛军控制地区的城镇和村庄。
-* You can still buy a Singapore Sling in the colonial-era hotel where it’s said to have been invented more than a century ago. Custom versions have arisen nearby.
-* 您仍然可以在殖民时代的酒店购买新加坡吊索，据说它是在一个多世纪前发明的。附近出现了自定义版本。
-* Pakistani authorities have barricaded Islamabad with more than 1,500 shipping containers to stop opposition protesters, choking off access to the capital.
-* 巴基斯坦当局用1500多个集装箱封锁了伊斯兰堡，以阻止反对派抗议者，切断了进入首都的通道。
-* In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan.
-* 在与特朗普总统的会谈中，中国领导人利用赞美、警告和战时历史来挑战美国对台湾和日本的支持。
-* And possibly makes history while doing so.
-* 并可能在这样做的同时创造历史。
 
