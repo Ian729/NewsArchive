@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* It was possible, for a time, to think that Kramatorsk, where I was born and raised, would survive the war mostly unscathed. Not any more.
-* 有一段时间，我可能会认为，我出生和长大的地方克拉马托尔斯克（ Kramatorsk ）将在战争中幸存下来，几乎毫发无损。不再是了。
+* Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran.
+* 一些伊拉克人正在庆祝美国军事存在的结束，这场军事存在引发了流血浪潮。其他人担心他们的国家接下来会发生什么，被困在华盛顿和德黑兰之间。
+* Passengers intervened and “prevented a disaster” after one pilot stabbed another during a flight from Dubai, Prime Minister Benjamin Netanyahu said. The plane landed safely in Saudi Arabia. The motive for the attack was not clear.
+* 总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）说，一名飞行员在从迪拜起飞的航班上刺伤了另一名飞行员后，乘客进行了干预并“防止了灾难”。飞机安全降落在沙特阿拉伯。袭击的动机尚不清楚。
+* French high schoolers are protesting teacher shortages and overcrowded classrooms, in France’s latest flare-up over education and public services.
+* 法国高中生正在抗议教师短缺和教室过度拥挤，这是法国最近爆发的教育和公共服务问题。
+* The Americans did not understand the country when they invaded in 2003. Over a correspondent’s many trips there, it was not clear that this ever changed much.
+* 美国人在2003年入侵时并不了解这个国家。在一位记者的多次旅行中，目前尚不清楚这种情况是否发生了太大变化。
+* New research points to how the world could stop short of the brink of disaster. Even with the agreement signed at the White House by tech leaders, it won’t be easy.
+* 新的研究指出了世界如何才能远离灾难的边缘。即使有科技领袖在白宫签署的协议，这也并非易事。
+* Patrick Branco Ruivo, who ran the tower’s operating company, will step down after an internal inquiry cited “problems and shortcomings” over the moving of female employees.
+* 负责该塔运营公司的Patrick Branco Ruivo将在内部调查后辞职，该调查引用了女性员工流动的“问题和缺点”。
+* Bogong moths have been in decline since the 1980s, but this spring the insects have been sighted in the thousands across southeastern Australia, delighting scientists.
+* 自20世纪80年代以来，博贡蛾一直在减少，但今年春天，在澳大利亚东南部的数千只昆虫中发现了这种昆虫，这让科学家们感到高兴。
+* In a four-day visit, Pope Leo XIV won praise across the political spectrum, even from its most avowedly secular figures.
+* 在为期四天的访问中，教皇利奥十四世赢得了整个政治领域的赞誉，即使是最公开的世俗人物也是如此。
 * The Supreme Court had ordered the military to ensure a West Bank family that fled violence could go back. But settlers blocked the effort, with the authorities accused of not doing enough to confront them.
 * 最高法院下令军方确保逃离暴力的约旦河西岸家庭可以回去。但定居者阻挠了这一努力，当局被指控没有采取足够的措施来对抗他们。
-* An airstrike on a bustling market in rebel territory left at least 50 people dead, in one of the deadliest attacks on civilians in months.
-* 对反叛分子领地繁华市场的空袭造成至少50人死亡，这是几个月来对平民最致命的袭击之一。
-* For one Istanbul confectioner, distributing fried dough balls as memorials is not just a job. It’s personal.
-* 对于一位伊斯坦布尔糖果店来说，分发油炸面团球作为纪念不仅仅是一项工作。这是私人恩怨。
-* Jordan Bardella, the 31-year-old protégé of Marine Le Pen, is said to have made antisemitic statements as a teenage activist. He denies it.
-* 据说， 31岁的马琳·勒庞（ Marine Le Pen ）的门徒乔丹·巴尔德拉（ Jordan Bardella ）作为一名青少年活动家发表了反犹太主义言论。他否认。
-* Mr. Milei wants to go all in on artificial intelligence even as other leaders struggle to get a handle on a technology many fear poses existential threats.
-* Milei先生希望在人工智能领域全力以赴，尽管其他领导人正在努力掌握许多人担心会构成生存威胁的技术。
-* Malaysia says it is repatriating undocumented migrants from Myanmar who want to return. Critics say it is putting their lives at risk.
-* 马来西亚表示，它正在从缅甸遣返希望返回的无证移民。批评人士说，这使他们的生命处于危险之中。
-* The eviction of an 87-year-old set off protests in the country, which has an acute housing shortage. The government presented legislation to protect renters.
-* 一名87岁的老人被驱逐，引发了该国的抗议活动，该国住房严重短缺。政府提出了保护租房者的立法。
-* Prime Minister Andy Burnham outlined his proposals for major policy changes and said: “I accept people will not agree with every part of it.”
-* 总理安迪·伯纳姆（ Andy Burnham ）概述了他提出的重大政策变革建议，并表示： “我接受人们不会同意其中的每一部分。”
-* Andrés Manuel López Beltrán has joined the list of figures who, critics say, may end up harming the left-wing movement his father founded, as well as the president who succeeded him.
-* 批评人士说，安德烈斯·曼努埃尔·洛佩斯·贝尔特兰（ Andrés Manuel López Beltrán ）加入了可能最终损害他父亲创立的左翼运动以及继任总统的人物名单。
+* The prospect of an attack on an air base used by U.S. forces prompted stepped-up protections across Europe, but confusion shrouds the case, in which the suspects were released on bail.
+* 美军使用的空军基地遭到袭击的可能性促使整个欧洲加强保护，但混乱掩盖了嫌疑人被保释的案件。
 
 ## New York Times United States News
-* Prosecutors say the man who was shot, Wilber Rafael Garces Perez, struck an agent with his car’s mirror before another agent shot him.
-* 检察官说，被枪杀的男子威尔伯·拉斐尔·加尔塞斯·佩雷斯（ Wilber Rafael Garces Perez ）用车镜击中了一名特工，然后另一名特工向他开枪。
-* At least three people died after the vessel sank in the Mona Passage, a dangerous stretch of sea often traveled by migrants from Haiti and the Dominican Republic.
-* 这艘船在莫纳海峡沉没后至少有三人死亡，这是一片危险的海域，经常有来自海地和多米尼加共和国的移民前往。
-* The bureau was the latest target of the notorious gang of cybercriminals that steals sensitive personal data and sells it online.
-* 该局是臭名昭著的网络犯罪团伙的最新目标，该团伙窃取敏感的个人数据并在网上出售。
-* Elizabeth Dias, our national religion correspondent, and Cade Metz, one of our technology reporters, discuss Anthropic’s approach for instilling morality into Claude — which has involved consultations with religious leaders, including ones at the Vatican — and why it’s raising questions.
-* 我们的国家宗教记者伊丽莎白·迪亚斯（ Elizabeth Dias ）和我们的技术记者之一凯德·梅斯（ Cade Metz ）讨论了Anthropic向克劳德灌输道德的方法，其中包括与宗教领袖（包括梵蒂冈的宗教领袖）进行磋商，以及为什么它会提出问题。
-* “We know how to find you,” Brett Leatherman, a senior cyber official at the F.B.I., said in a video statement released Tuesday.
-* “我们知道如何找到你，” FBI高级网络官员布雷特·莱瑟曼(Brett Leatherman)在周二发布的一份视频声明中说。
-* A similar surge last year resulted in undervetted officers initially being let in and then removed as the agency skipped basic checks for new recruits.
-* 去年类似的激增导致未经审查的官员最初被允许进入，然后由于该机构跳过了对新兵的基本检查而被撤职。
-* Several Republicans in close races have distanced themselves from President Trump’s effort to speed the construction of A.I. data centers, citing concerns about rising electricity bills.
-* 几位竞选激烈的共和党人与特朗普总统加快建设人工智能数据中心的努力保持距离，理由是对电费上涨的担忧。
-* In a series of private meetings, the company consulted religious scholars to help instill morality into its A.I. models — and make the case that Claude could be conscious.
-* 在一系列私人会议上，该公司咨询了宗教学者，以帮助将道德灌输到其人工智能模型中，并证明克劳德可能有意识。
-* President Trump used JMSN’s song in a recent self-promotional video that was paid for with public money.
-* 特朗普总统在最近用公共资金支付的自我宣传视频中使用了JMSN的歌曲。
-* Mr. Smith’s testimony will be the latest public clash over the use of prosecutorial power in American politics.
-* 史密斯先生的证词将是在美国政治中使用起诉权的最新公开冲突。
+* A Gaboon viper, a venomous snake native to equatorial regions of Africa, was supposedly photographed in a tree in Santa Ana, Calif. How could that be? Well, it turns out it wasn’t.
+* 加蓬毒蛇是一种原产于非洲赤道地区的有毒蛇，据说是在加利福尼亚州圣安娜的一棵树上拍摄的。怎么可能？事实证明，事实并非如此。
+* Christa Pike tortured and murdered a classmate in 1995. She had been set to die on Wednesday, the first woman executed in the state in 200 years.
+* 克里斯塔·派克（ Christa Pike ）在1995年折磨并谋杀了一名同学。她原定于周三去世，这是该州200年来第一位被处决的女性。
+* Xavier Becerra, a Democrat who served in the Biden administration, will debate Steve Hilton, a Republican former talk show host, in what’s likely to be their only face-off before the election.
+* 曾在拜登政府任职的民主党人泽维尔·贝塞拉（ Xavier Becerra ）将与共和党前脱口秀主持人史蒂夫·希尔顿（ Steve Hilton ）辩论，这可能是他们在大选前唯一的对峙。
+* In ending the longest such monitoring in U.S. history, a federal court said the department had mostly complied with reforms mandated by a 2003 settlement after a police brutality lawsuit.
+* 在结束美国历史上最长的此类监控时，联邦法院表示，该部门在警察暴行诉讼后，基本上遵守了2003年和解所要求的改革。
+* Ken Paxton, one of the party’s top Senate candidates and a Trump loyalist, said that “everybody’s numbers dropped” after the event, according to audio obtained by The Times.
+* 根据《泰晤士报》获得的音频，该党参议院最高候选人之一、特朗普忠实拥护者肯·帕克斯顿（ Ken Paxton ）表示，事件发生后“每个人的人数都有所下降”。
+* The donation by Kenneth Griffin, intended mostly to help build a campus in Miami, was the biggest single gift in the history of U.S. higher education.
+* 肯尼斯·格里芬（ Kenneth Griffin ）的捐赠主要用于帮助在迈阿密建立校园，是美国高等教育史上最大的一笔捐赠。
+* The city of Milwaukee agreed to a $575,000 settlement after months of heavily armed police responses to 911 calls to the couple’s home that officials knew were hoaxes.
+* 经过数月全副武装的警察对这对夫妇家中的911电话的回应，密尔沃基市同意以575,000 $的和解协议，官员们知道这些电话是恶作剧。
+* Across the country, especially in the North Carolina Senate race, Republicans have charged opponents with being soft on crime, even as crime rates plummet.
+* 在全国各地，特别是在北卡罗来纳州参议院竞选中，共和党人指责对手对犯罪软弱无力，即使犯罪率暴跌。
+* In 2024, these voters were an essential part of the winning Republican coalition. Now, many feel abandoned and furious, complicating the party’s chances in November.
+* 2024年，这些选民是获胜的共和党联盟的重要组成部分。现在，许多人感到被遗弃和愤怒，这使该党在11月的机会变得复杂。
+* A growing number of jails allow only virtual calls. Some families are suing for the right to see inmates in person.
+* 越来越多的监狱只允许虚拟通话。一些家庭正在为亲自探视囚犯的权利提起诉讼。
 
 ## New York Times Asia News
+* In China’s push for self-reliance in artificial intelligence, DeepSeek and Huawei have teamed up to develop software tools for advanced chips.
+* 在中国推动人工智能自力更生的过程中， DeepSeek和华为合作开发了先进芯片的软件工具。
+* At an Indonesian prison complex near Jakarta, inspectors found expensive cars, spacious quarters with flat-screen TVs and a golf simulator under construction.
+* 在雅加达附近的印度尼西亚监狱综合体中，检查人员发现了昂贵的汽车、配备平板电视的宽敞区域以及正在建造的高尔夫模拟器。
+* In Turkey, people who have recently lost loved ones hire doughnut makers to hand out fried dough balls, known as lokma, to honor the dead and spread their blessings.
+* 在土耳其，最近失去亲人的人雇佣甜甜圈制造商分发被称为lokma的油炸面团球，以纪念死者并传播他们的祝福。
 * Malaysia says it is repatriating undocumented migrants from Myanmar who want to return. Critics say it is putting their lives at risk.
 * 马来西亚表示，它正在从缅甸遣返希望返回的无证移民。批评人士说，这使他们的生命处于危险之中。
 * An airstrike on a bustling market in rebel territory left at least 50 people dead, in one of the deadliest attacks on civilians in months.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 这位维多利亚时代的女主角长期以来因其独立性和坚持平等而在中国备受赞誉。
 * President Trump made the offer to Xi Jinping, China’s leader, said David Perdue, the ambassador to China. The White House later said the U.S. had no plans for such a sale.
 * 特朗普总统向中国领导人习近平提出了这一提议，驻华大使大卫·珀杜（ David Perdue ）说。白宫后来表示，美国没有计划进行此类销售。
-* A male named Ping Ping and a female named Fu Shuang landed on Sunday, days after China’s leader said he would dispatch “envoys of friendship” to the United States.
-* 一名名叫平平的男性和一名名叫傅爽的女性于周日登陆，此前几天，中国领导人表示他将向美国派遣“友谊使者”。
-* In China, A.I. doomsday warnings can feel distinctly Western or like a ploy to stop Chinese A.I. companies from trying to overtake their U.S. rivals.
-* 在中国，人工智能世界末日警告可能让人感觉明显是西方的，或者像是阻止中国人工智能公司试图超越美国竞争对手的伎俩。
-* Years after a coup, the military is increasingly using motorized paragliders and gyrocopters to bomb towns and villages in rebel-held territory.
-* 政变多年后，军方越来越多地使用机动滑翔伞和旋翼机轰炸叛军控制地区的城镇和村庄。
 
