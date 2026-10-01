@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran.
-* 一些伊拉克人正在庆祝美国军事存在的结束，这场军事存在引发了流血浪潮。其他人担心他们的国家接下来会发生什么，被困在华盛顿和德黑兰之间。
-* Passengers intervened and “prevented a disaster” after one pilot stabbed another during a flight from Dubai, Prime Minister Benjamin Netanyahu said. The plane landed safely in Saudi Arabia. The motive for the attack was not clear.
-* 总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）说，一名飞行员在从迪拜起飞的航班上刺伤了另一名飞行员后，乘客进行了干预并“防止了灾难”。飞机安全降落在沙特阿拉伯。袭击的动机尚不清楚。
-* French high schoolers are protesting teacher shortages and overcrowded classrooms, in France’s latest flare-up over education and public services.
-* 法国高中生正在抗议教师短缺和教室过度拥挤，这是法国最近爆发的教育和公共服务问题。
-* The Americans did not understand the country when they invaded in 2003. Over a correspondent’s many trips there, it was not clear that this ever changed much.
-* 美国人在2003年入侵时并不了解这个国家。在一位记者的多次旅行中，目前尚不清楚这种情况是否发生了太大变化。
-* New research points to how the world could stop short of the brink of disaster. Even with the agreement signed at the White House by tech leaders, it won’t be easy.
-* 新的研究指出了世界如何才能远离灾难的边缘。即使有科技领袖在白宫签署的协议，这也并非易事。
-* Patrick Branco Ruivo, who ran the tower’s operating company, will step down after an internal inquiry cited “problems and shortcomings” over the moving of female employees.
-* 负责该塔运营公司的Patrick Branco Ruivo将在内部调查后辞职，该调查引用了女性员工流动的“问题和缺点”。
-* Bogong moths have been in decline since the 1980s, but this spring the insects have been sighted in the thousands across southeastern Australia, delighting scientists.
-* 自20世纪80年代以来，博贡蛾一直在减少，但今年春天，在澳大利亚东南部的数千只昆虫中发现了这种昆虫，这让科学家们感到高兴。
-* In a four-day visit, Pope Leo XIV won praise across the political spectrum, even from its most avowedly secular figures.
-* 在为期四天的访问中，教皇利奥十四世赢得了整个政治领域的赞誉，即使是最公开的世俗人物也是如此。
-* The Supreme Court had ordered the military to ensure a West Bank family that fled violence could go back. But settlers blocked the effort, with the authorities accused of not doing enough to confront them.
-* 最高法院下令军方确保逃离暴力的约旦河西岸家庭可以回去。但定居者阻挠了这一努力，当局被指控没有采取足够的措施来对抗他们。
-* The prospect of an attack on an air base used by U.S. forces prompted stepped-up protections across Europe, but confusion shrouds the case, in which the suspects were released on bail.
-* 美军使用的空军基地遭到袭击的可能性促使整个欧洲加强保护，但混乱掩盖了嫌疑人被保释的案件。
+* The United Arab Emirates said it would lead the investigation, including into possible links to terrorism. Prime Minister Benjamin Netanyahu said the attacker had undergone “Islamist radical indoctrination,” though he did not elaborate.
+* 阿拉伯联合酋长国表示，它将领导调查，包括调查可能与恐怖主义的联系。总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）表示，袭击者经历了“伊斯兰激进的灌输” ，但他没有详细说明。
+* Both sides are finding it increasingly difficult to finance the conflict in Ukraine. Russia’s 2027 budget envisions more debt, higher taxes and lower social benefits.
+* 双方都发现为乌克兰冲突提供资金越来越困难。俄罗斯2027年的预算设想了更多的债务、更高的税收和更低的社会福利。
+* The speaker of Parliament said there were a “considerable” number of mysterious entries in which perpetrators appeared to have taken nothing.
+* 议会发言人表示，有“相当数量”的神秘条目，其中肇事者似乎没有采取任何行动。
+* Wicknell Chivayo was riding in a helicopter with his wife when it plunged into a field. Dogged by corruption allegations, the businessman drew polarizing reactions even in death.
+* 威克内尔·奇瓦约（ Wicknell Chivayo ）和妻子乘坐直升机坠入田野。这位商人被腐败指控所困扰，即使在死亡时也会引起两极分化的反应。
+* Capt. Smit Machchhar suffered stab wounds while fending off an attack from his co-pilot, saving the lives of around 170 people on board, officials said.
+* 官员说， Smit Machchhar上尉在抵挡副驾驶的袭击时受了刺伤，挽救了船上约170人的生命。
+* Just days before Sunday’s election, President Luiz Inácio Lula da Silva banned online gambling. But record-high debt is upending millions of lives.
+* 就在周日选举前几天，总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）禁止在线但创纪录的高负债正在颠覆数百万人的生命。
+* London is making a stretch of the street, long central to the city’s identity and sense of style, car free.
+* 伦敦正在延伸街道，长期以来一直是这座城市的身份和时尚感的中心，无车。
+* One researcher called it a “desperately needed warning sign” that countries need to tackle human-driven climate change.
+* 一位研究人员称之为“迫切需要的警告信号” ，即各国需要应对人类驱动的气候变化。
+* The French government soured on a reciprocal deal that allowed the British authorities to return some migrants who crossed the English Channel illegally in small boats.
+* 法国政府对一项互惠协议表示不满，该协议允许英国当局遣返一些乘坐小船非法越过英吉利海峡的移民。
+* The national security police detained Tang Ho-wing, founder of the independent outlet Boom News, according to local media and watchdog groups.
+* 据当地媒体和监督团体称，国家安全警察拘留了独立媒体Boom News的创始人唐和荣。
 
 ## New York Times United States News
-* A Gaboon viper, a venomous snake native to equatorial regions of Africa, was supposedly photographed in a tree in Santa Ana, Calif. How could that be? Well, it turns out it wasn’t.
-* 加蓬毒蛇是一种原产于非洲赤道地区的有毒蛇，据说是在加利福尼亚州圣安娜的一棵树上拍摄的。怎么可能？事实证明，事实并非如此。
-* Christa Pike tortured and murdered a classmate in 1995. She had been set to die on Wednesday, the first woman executed in the state in 200 years.
-* 克里斯塔·派克（ Christa Pike ）在1995年折磨并谋杀了一名同学。她原定于周三去世，这是该州200年来第一位被处决的女性。
-* Xavier Becerra, a Democrat who served in the Biden administration, will debate Steve Hilton, a Republican former talk show host, in what’s likely to be their only face-off before the election.
-* 曾在拜登政府任职的民主党人泽维尔·贝塞拉（ Xavier Becerra ）将与共和党前脱口秀主持人史蒂夫·希尔顿（ Steve Hilton ）辩论，这可能是他们在大选前唯一的对峙。
-* In ending the longest such monitoring in U.S. history, a federal court said the department had mostly complied with reforms mandated by a 2003 settlement after a police brutality lawsuit.
-* 在结束美国历史上最长的此类监控时，联邦法院表示，该部门在警察暴行诉讼后，基本上遵守了2003年和解所要求的改革。
-* Ken Paxton, one of the party’s top Senate candidates and a Trump loyalist, said that “everybody’s numbers dropped” after the event, according to audio obtained by The Times.
-* 根据《泰晤士报》获得的音频，该党参议院最高候选人之一、特朗普忠实拥护者肯·帕克斯顿（ Ken Paxton ）表示，事件发生后“每个人的人数都有所下降”。
-* The donation by Kenneth Griffin, intended mostly to help build a campus in Miami, was the biggest single gift in the history of U.S. higher education.
-* 肯尼斯·格里芬（ Kenneth Griffin ）的捐赠主要用于帮助在迈阿密建立校园，是美国高等教育史上最大的一笔捐赠。
-* The city of Milwaukee agreed to a $575,000 settlement after months of heavily armed police responses to 911 calls to the couple’s home that officials knew were hoaxes.
-* 经过数月全副武装的警察对这对夫妇家中的911电话的回应，密尔沃基市同意以575,000 $的和解协议，官员们知道这些电话是恶作剧。
-* Across the country, especially in the North Carolina Senate race, Republicans have charged opponents with being soft on crime, even as crime rates plummet.
-* 在全国各地，特别是在北卡罗来纳州参议院竞选中，共和党人指责对手对犯罪软弱无力，即使犯罪率暴跌。
-* In 2024, these voters were an essential part of the winning Republican coalition. Now, many feel abandoned and furious, complicating the party’s chances in November.
-* 2024年，这些选民是获胜的共和党联盟的重要组成部分。现在，许多人感到被遗弃和愤怒，这使该党在11月的机会变得复杂。
-* A growing number of jails allow only virtual calls. Some families are suing for the right to see inmates in person.
-* 越来越多的监狱只允许虚拟通话。一些家庭正在为亲自探视囚犯的权利提起诉讼。
+* May Martinez, who waited outside the prison for an execution that didn’t happen, said she could not fathom Christa Pike changing.
+* 梅·马丁内斯（ May Martinez ）在监狱外等待没有发生的处决，她说她无法理解克里斯塔·派克（ Christa Pike ）的变化。
+* In May, the state tried to execute Tony Carruthers using lethal injection drugs but could not find a “suitable vein,” its correction department said.
+* 今年5月，该州矫正部门表示，该州试图使用致命的注射药物处决托尼·卡拉瑟斯（ Tony Carruthers ） ，但未能找到“合适的静脉”。
+* 
+* 
+* “Our summers used to actually be summers,” one justice lamented.
+* 一位法官感叹道： “我们的夏天实际上是夏天。”
+* The fiery language came months after the Justice Department accused the university of abetting antisemitism against students.
+* 在司法部指责该大学教唆针对学生的反犹太主义之后的几个月，这种激烈的语言出现了。
+* 
+* 
+* The fatal shooting of Ms. Good set off protests during the Trump administration’s immigration operation early this year in Minnesota.
+* 今年早些时候，在明尼苏达州特朗普政府的移民行动中，古德女士的致命枪击事件引发了抗议活动。
+* The inquiry by the Commodity Futures Trading Commission centers on bets the former congressman made on Kalshi in the weeks before he was pardoned in January 2025.
+* 商品期货交易委员会的调查集中在这位前国会议员在2025年1月被赦免前的几周内对Kalshi的赌注上。
+* The administration’s policy of detaining immigrants who crossed the border illegally years ago and holding them without a bond hearing has divided lower courts.
+* 政府拘留多年前非法越境的移民并在没有债券听证会的情况下拘留他们的政策使下级法院分裂。
+* The aircraft went down near Catalina Island on Wednesday night with five people aboard, the authorities said. Two aboard were retrieved with injuries.
+* 当局称，这架飞机于周三晚上在卡塔利娜岛附近坠毁，机上有5人。船上有两人受伤。
 
 ## New York Times Asia News
+* The State Department has denied its funding for the next two years, jeopardizing the education of hundreds of female Afghan students.
+* 美国国务院拒绝为未来两年提供资金，危及数百名阿富汗女学生的教育。
+* The national security police detained Tang Ho-wing, founder of the independent outlet Boom News, according to local media and watchdog groups.
+* 据当地媒体和监督团体称，国家安全警察拘留了独立媒体Boom News的创始人唐和荣。
+* Prime Minister Sanae Takaichi is making it harder for immigrants to stay in the country. Critics say she is hurting Japan’s ability to address labor shortages.
+* 首相高市早苗（ Sanae Takaichi ）正在加大移民留在该国的难度。批评人士说，她正在损害日本解决劳动力短缺问题的能力。
+* Capt. Smit Machchhar suffered stab wounds while fending off an attack from his co-pilot, saving the lives of around 170 people on board, officials said.
+* 官员说， Smit Machchhar上尉在抵挡副驾驶的袭击时受了刺伤，挽救了船上约170人的生命。
 * In China’s push for self-reliance in artificial intelligence, DeepSeek and Huawei have teamed up to develop software tools for advanced chips.
 * 在中国推动人工智能自力更生的过程中， DeepSeek和华为合作开发了先进芯片的软件工具。
 * At an Indonesian prison complex near Jakarta, inspectors found expensive cars, spacious quarters with flat-screen TVs and a golf simulator under construction.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 对反叛分子领地繁华市场的空袭造成至少50人死亡，这是几个月来对平民最致命的袭击之一。
 * The company detailed how A.I. agents gained access to four government websites and acknowledged mishandling its response.
 * 该公司详细说明了人工智能代理如何访问四个政府网站，并承认处理不当。
-* A generation exhausted by dating apps is embracing a corporate reinvention of traditional matchmaking, fueling an industry that promises a fast track to marriage.
-* 一代人因约会应用程序而筋疲力尽，他们正在接受传统婚介的企业革新，推动一个承诺快速通往婚姻的行业。
-* Two of the country’s leading makers of electric vehicles announced they are merging their battery swapping and charging operations.
-* 该国两家领先的电动汽车制造商宣布，他们正在合并电池更换和充电业务。
-* The Victorian heroine has long been celebrated in China for her independence and insistence on equality.
-* 这位维多利亚时代的女主角长期以来因其独立性和坚持平等而在中国备受赞誉。
-* President Trump made the offer to Xi Jinping, China’s leader, said David Perdue, the ambassador to China. The White House later said the U.S. had no plans for such a sale.
-* 特朗普总统向中国领导人习近平提出了这一提议，驻华大使大卫·珀杜（ David Perdue ）说。白宫后来表示，美国没有计划进行此类销售。
 
