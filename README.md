@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The United Arab Emirates said it would lead the investigation, including into possible links to terrorism. Prime Minister Benjamin Netanyahu said the attacker had undergone “Islamist radical indoctrination,” though he did not elaborate.
-* 阿拉伯联合酋长国表示，它将领导调查，包括调查可能与恐怖主义的联系。总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）表示，袭击者经历了“伊斯兰激进的灌输” ，但他没有详细说明。
-* Both sides are finding it increasingly difficult to finance the conflict in Ukraine. Russia’s 2027 budget envisions more debt, higher taxes and lower social benefits.
-* 双方都发现为乌克兰冲突提供资金越来越困难。俄罗斯2027年的预算设想了更多的债务、更高的税收和更低的社会福利。
-* The speaker of Parliament said there were a “considerable” number of mysterious entries in which perpetrators appeared to have taken nothing.
-* 议会发言人表示，有“相当数量”的神秘条目，其中肇事者似乎没有采取任何行动。
-* Wicknell Chivayo was riding in a helicopter with his wife when it plunged into a field. Dogged by corruption allegations, the businessman drew polarizing reactions even in death.
-* 威克内尔·奇瓦约（ Wicknell Chivayo ）和妻子乘坐直升机坠入田野。这位商人被腐败指控所困扰，即使在死亡时也会引起两极分化的反应。
-* Capt. Smit Machchhar suffered stab wounds while fending off an attack from his co-pilot, saving the lives of around 170 people on board, officials said.
-* 官员说， Smit Machchhar上尉在抵挡副驾驶的袭击时受了刺伤，挽救了船上约170人的生命。
-* Just days before Sunday’s election, President Luiz Inácio Lula da Silva banned online gambling. But record-high debt is upending millions of lives.
-* 就在周日选举前几天，总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）禁止在线但创纪录的高负债正在颠覆数百万人的生命。
-* London is making a stretch of the street, long central to the city’s identity and sense of style, car free.
-* 伦敦正在延伸街道，长期以来一直是这座城市的身份和时尚感的中心，无车。
-* One researcher called it a “desperately needed warning sign” that countries need to tackle human-driven climate change.
-* 一位研究人员称之为“迫切需要的警告信号” ，即各国需要应对人类驱动的气候变化。
-* The French government soured on a reciprocal deal that allowed the British authorities to return some migrants who crossed the English Channel illegally in small boats.
-* 法国政府对一项互惠协议表示不满，该协议允许英国当局遣返一些乘坐小船非法越过英吉利海峡的移民。
-* The national security police detained Tang Ho-wing, founder of the independent outlet Boom News, according to local media and watchdog groups.
-* 据当地媒体和监督团体称，国家安全警察拘留了独立媒体Boom News的创始人唐和荣。
+* A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.
+* 一名受重伤的印度飞行员设法打开了驾驶舱门。四名以色列男子联手击溃一名袭击者并避免灾难。
+* Yemen’s capital, Sanaa, was bombarded overnight, after government forces reported some of the most intense clashes in years around Taiz, the country’s third largest city.
+* 也门首都萨那（ Sanaa ）一夜之间遭到轰炸，此前政府军报告称，该国第三大城市塔伊兹（ Taiz ）周围发生了多年来最激烈的冲突。
+* While the missile fired on Thursday has a limited range, Kyiv is developing a larger weapon that could strike Moscow.
+* 虽然周四发射的导弹射程有限，但基辅正在开发一种可能袭击莫斯科的更大型武器。
+* The Coast Guard has intercepted two small boats it says was carrying illegal fuel to Cuba as the United States enforces an fuel blockade aimed at Cuba’s Communist government.
+* 美国海岸警卫队拦截了两艘据称向古巴运送非法燃料的小型船只，因为美国对古巴共产党政府实施了燃料封锁。
+* Days of unrest have affected more than 1,000 schools across France as high school students push for better standards.
+* 骚乱的日子影响了法国各地的1000多所学校，因为高中生要求更好的标准。
+* Capt. Smit Machchhar, who was stabbed by his co-pilot midair between Dubai and Tel Aviv, said he “had to act” to prevent a crash despite serious injuries.
+* Smit Machchhar上尉在迪拜和特拉维夫之间的空中被他的副驾驶刺伤，他说他“必须采取行动”以防止严重受伤的坠机事故。
+* Economies in Latin America and Europe rely on American diesel. Stopping exports could tip some countries into recession, hurting trade with the United States.
+* 拉丁美洲和欧洲的经济体依赖美国的柴油。停止出口可能会使一些国家陷入衰退，损害与美国的贸易。
+* Opposition groups are demanding the resignation of the election chief over the removal of 130 million voters from the rolls. The government denies influencing the exercise.
+* 反对派团体要求选举负责人辞职，因为有1.3亿选民被从选民名册中删除。政府否认影响这项工作。
+* As citizens embrace the technology for entertainment, relationships and even farming advice, the government is stepping up efforts to set limits.
+* 随着公民接受娱乐、人际关系甚至农业建议的技术，政府正在加紧努力设定限制。
+* The government had proposed more protections for tenants after outrage at the eviction of an 87-year-old woman in Madrid.
+* 在马德里一名87岁妇女被驱逐后，政府提议为租户提供更多保护。
 
 ## New York Times United States News
-* May Martinez, who waited outside the prison for an execution that didn’t happen, said she could not fathom Christa Pike changing.
-* 梅·马丁内斯（ May Martinez ）在监狱外等待没有发生的处决，她说她无法理解克里斯塔·派克（ Christa Pike ）的变化。
-* In May, the state tried to execute Tony Carruthers using lethal injection drugs but could not find a “suitable vein,” its correction department said.
-* 今年5月，该州矫正部门表示，该州试图使用致命的注射药物处决托尼·卡拉瑟斯（ Tony Carruthers ） ，但未能找到“合适的静脉”。
-* 
-* 
-* “Our summers used to actually be summers,” one justice lamented.
-* 一位法官感叹道： “我们的夏天实际上是夏天。”
-* The fiery language came months after the Justice Department accused the university of abetting antisemitism against students.
-* 在司法部指责该大学教唆针对学生的反犹太主义之后的几个月，这种激烈的语言出现了。
-* 
-* 
-* The fatal shooting of Ms. Good set off protests during the Trump administration’s immigration operation early this year in Minnesota.
-* 今年早些时候，在明尼苏达州特朗普政府的移民行动中，古德女士的致命枪击事件引发了抗议活动。
-* The inquiry by the Commodity Futures Trading Commission centers on bets the former congressman made on Kalshi in the weeks before he was pardoned in January 2025.
-* 商品期货交易委员会的调查集中在这位前国会议员在2025年1月被赦免前的几周内对Kalshi的赌注上。
-* The administration’s policy of detaining immigrants who crossed the border illegally years ago and holding them without a bond hearing has divided lower courts.
-* 政府拘留多年前非法越境的移民并在没有债券听证会的情况下拘留他们的政策使下级法院分裂。
-* The aircraft went down near Catalina Island on Wednesday night with five people aboard, the authorities said. Two aboard were retrieved with injuries.
-* 当局称，这架飞机于周三晚上在卡塔利娜岛附近坠毁，机上有5人。船上有两人受伤。
+* Michael Goessling’s first phone call with his biological father brought a shock: He was speaking to Michael McDonald of the Doobie Brothers.
+* 迈克尔·戈斯林（ Michael Goessling ）与亲生父亲的第一个电话令人震惊：他正在与Doobie Brothers的迈克尔·麦克唐纳（ Michael McDonald ）交谈。
+* The director of national intelligence will help develop new policies, and potentially regulations, for the rapidly evolving technology.
+* 国家情报总监将帮助制定新的政策，并可能制定法规，以应对快速发展的技术。
+* Republicans are using the courts to hunt for noncitizen voters. Democrats worry the G.O.P. is trying make it harder for eligible voters to cast ballots — and paving the way to try to toss valid election results.
+* 共和党人正在利用法院寻找非公民选民。民主党人担心，共和党正试图加大合格选民投票的难度，并为试图推翻有效的选举结果铺平道路。
+* The Senate Leadership Fund is diverting money to Kansas, which has become a growing concern for the party as it seeks to hold its majority.
+* 参议院领导力基金正在将资金转移到堪萨斯州，随着该党寻求获得多数席位，堪萨斯州已成为该党日益关注的问题。
+* The failed attempt with Christa Pike has intensified bipartisan concerns about Tennessee’s ability to effectively carry out lethal injections.
+* 克里斯塔·派克（ Christa Pike ）的尝试失败，加剧了两党对田纳西州有效进行致命注射能力的担忧。
+* Driven by emergency response needs, Carmel-by-the-Sea reluctantly adopted street address numbers this summer, igniting concerns over its vanishing identity as a beachside village.
+* 今年夏天，在应急响应需求的推动下， Carmel-by-the-Sea不情愿地采用了街道地址号码，引发了人们对其消失的海滨村庄身份的担忧。
+* Truckers are among the hardest hit by the soaring cost of diesel fuel. High prices are forcing some to stay on the road for months and others to park their rigs.
+* 卡车司机受柴油燃料成本飙升的影响最大。高昂的价格迫使一些人在路上停留数月，而另一些人则不得不停放钻机。
+* The American Israel Public Affairs Committee has increasingly become a campaign issue unto itself. Some candidates have worn opposition from AIPAC as a badge of honor or made a point of rejecting the group’s support.
+* 美国以色列公共事务委员会本身已日益成为一个竞选问题。一些候选人将AIPAC的反对作为荣誉徽章，或拒绝该组织的支持。
+* Uncovering evidence of alien life would be “the biggest discovery ever made by humanity,” one expert said. But so far, there’s a lot of blurry photos and unconfirmed reports.
+* 一位专家说，发现外星生命的证据将是“人类有史以来最大的发现”。但到目前为止，有很多模糊的照片和未经证实的报告。
+* Earl Caldwell was staying at the Memphis hotel where the civil rights leader was killed.
+* 厄尔·考德威尔（ Earl Caldwell ）住在孟菲斯酒店，民权领袖在那里遇害。
 
 ## New York Times Asia News
+* Opposition groups are demanding the resignation of the election chief over the removal of 130 million voters from the rolls. The government denies influencing the exercise.
+* 反对派团体要求选举负责人辞职，因为有1.3亿选民被从选民名册中删除。政府否认影响这项工作。
+* China has started limiting exports of refined products again as its own inventories of crude oil and refined products have dwindled.
+* 随着中国原油和成品油库存的减少，中国已开始再次限制成品油的出口。
+* Capt. Smit Machchhar, who was stabbed by his co-pilot midair between Dubai and Tel Aviv, said he “had to act” to prevent a crash despite serious injuries.
+* Smit Machchhar上尉在迪拜和特拉维夫之间的空中被他的副驾驶刺伤，他说他“必须采取行动”以防止严重受伤的坠机事故。
+* As citizens embrace the technology for entertainment, relationships and even farming advice, the government is stepping up efforts to set limits.
+* 随着公民接受娱乐、人际关系甚至农业建议的技术，政府正在加紧努力设定限制。
 * The State Department has denied its funding for the next two years, jeopardizing the education of hundreds of female Afghan students.
 * 美国国务院拒绝为未来两年提供资金，危及数百名阿富汗女学生的教育。
 * The national security police detained Tang Ho-wing, founder of the independent outlet Boom News, according to local media and watchdog groups.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 在中国推动人工智能自力更生的过程中， DeepSeek和华为合作开发了先进芯片的软件工具。
 * At an Indonesian prison complex near Jakarta, inspectors found expensive cars, spacious quarters with flat-screen TVs and a golf simulator under construction.
 * 在雅加达附近的印度尼西亚监狱综合体中，检查人员发现了昂贵的汽车、配备平板电视的宽敞区域以及正在建造的高尔夫模拟器。
-* In Turkey, people who have recently lost loved ones hire doughnut makers to hand out fried dough balls, known as lokma, to honor the dead and spread their blessings.
-* 在土耳其，最近失去亲人的人雇佣甜甜圈制造商分发被称为lokma的油炸面团球，以纪念死者并传播他们的祝福。
-* Malaysia says it is repatriating undocumented migrants from Myanmar who want to return. Critics say it is putting their lives at risk.
-* 马来西亚表示，它正在从缅甸遣返希望返回的无证移民。批评人士说，这使他们的生命处于危险之中。
-* An airstrike on a bustling market in rebel territory left at least 50 people dead, in one of the deadliest attacks on civilians in months.
-* 对反叛分子领地繁华市场的空袭造成至少50人死亡，这是几个月来对平民最致命的袭击之一。
-* The company detailed how A.I. agents gained access to four government websites and acknowledged mishandling its response.
-* 该公司详细说明了人工智能代理如何访问四个政府网站，并承认处理不当。
 
