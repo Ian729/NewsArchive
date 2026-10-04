@@ -2,52 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.
+* 美国希望到2030年在月球上建造一个反应堆。俄中联盟正在为2036年建立一个联盟。一些顶尖的科学家说，这种危险是巨大的。
+* The announcement plunges the Middle East deeper into war, as the Iran-allied Houthis have scored a series of triumphs in Yemen on the battlefield since the conflict was reignited.
+* 这一宣布使中东陷入更深的战争，因为自冲突重新点燃以来，与伊朗结盟的胡塞武装在也门战场上取得了一系列胜利。
+* Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a race that could define the future of Latin America.
+* 左翼现任者路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）和右翼挑战者弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）在一场可能决定拉丁美洲未来的比赛中对决。
+* The Omani co-pilot who officials said tried to crash the plane was said to have embraced extremist Islamist views.
+* 阿曼官员说，这名试图让飞机坠毁的阿曼副驾驶员据说接受了极端主义的伊斯兰主义观点。
+* The rare admission from Mohsen Rezaei, the security chief, came weeks after the U.S. tightened sanctions and its naval blockade.
+* 在美国加紧制裁和海上封锁几周后，安全主管穆赫森·雷扎伊（ Mohsen Rezaei ）罕见地承认了这一点。
+* As Ukraine increasingly takes the war to Russia, the effects may be most visible on the roads.
+* 随着乌克兰越来越多地向俄罗斯开战，其影响可能在道路上最为明显。
+* The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.
+* 专家说，美国在伊朗的战争引发了当地犯罪分子或被剥夺权利的年轻人的小规模袭击，这些人被匿名雇佣来攻击欧洲和北美的犹太人和美国人。
+* The matter threatened to revive tensions over the American military presence on the Japanese archipelago.
+* 此事有可能使美国在日本群岛的军事存在重新引发紧张局势。
+* The co-pilot’s embrace of extreme Islamist views prompted Omani officials to scrutinize him, according to two people briefed on the investigation.
+* 据两名了解调查情况的人士称，这名副驾驶接受了极端伊斯兰主义观点，促使阿曼官员对他进行了仔细审查。
 * A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.
 * 一名受重伤的印度飞行员设法打开了驾驶舱门。四名以色列男子联手击溃一名袭击者并避免灾难。
-* The Parti Québécois has vowed to hold a referendum on independence, three decades after Quebec voted “no.” Voters want change, but maybe not that much.
-* 魁北克党发誓要在魁北克投票“不”三十年后举行独立公投。“选民希望改变，但也许不是那么多。
-* It was unclear what background checks had been carried out before he was allowed to fly to Israel.
-* 目前尚不清楚在他被允许飞往以色列之前进行了哪些背景调查。
-* Drawn by money and status, teenagers in Arizona are buying, stealing and selling weapons destined for criminal groups in Mexico.
-* 受金钱和地位的吸引，亚利桑那州的青少年正在购买、偷窃和出售运往墨西哥犯罪集团的武器。
-* The bridges, used by many commuters in the Ukrainian capital, are the latest target in a broad Russian bombing campaign against infrastructure.
-* 这些桥梁被乌克兰首都的许多通勤者使用，是俄罗斯对基础设施进行广泛轰炸的最新目标。
-* The violent midair assault on a FlyDubai flight to Tel Aviv has deepened concerns about the safety of Israelis traveling abroad.
-* 在飞往特拉维夫的迪拜航空航班上发生的暴力空中袭击加剧了对以色列出国旅行安全的担忧。
-* The program would grant citizenship to people who make major investments in Argentina. Similar efforts have yielded significant income for small economies, but have also led to risks.
-* 该计划将向在阿根廷进行重大投资的人授予公民身份。类似的努力为小经济体带来了可观的收入，但也带来了风险。
-* Flights between the neighboring countries had been halted after broad U.S. penalties on Iran’s aviation industry.
-* 在美国对伊朗航空业实施广泛的处罚后，邻国之间的航班已经停止。
-* Our reporting revealed how Mexican criminal groups are relying on teenagers and young adults in border states like Arizona to help supply their weapons.
-* 我们的报告揭示了墨西哥犯罪集团如何依靠亚利桑那州等边境州的青少年和年轻人来帮助提供武器。
-* Days of unrest have affected more than 1,000 schools across France as high school students push for better standards.
-* 骚乱的日子影响了法国各地的1000多所学校，因为高中生要求更好的标准。
 
 ## New York Times United States News
-* The plane, a Gulfstream G100 with 6 people aboard, lost contact at around 2 a.m. A search was underway Saturday off the coast of Nantucket.
-* 这架载有6人的湾流G100飞机于凌晨2点左右失去联系，周六正在楠塔基特海岸附近进行搜索。
-* After a dry spell of more than three decades, Democrats are daring (yet again) to believe they can win one or more top-of-the-ballot races in a vast and stubbornly red state.
-* 在经历了三十多年的干旱之后，民主党人（再次）大胆地相信他们可以在一个广阔而顽固的红色州赢得一场或多场顶级选票比赛。
-* A proposal to bolster relations with the Kremlin through the purchase of Russian energy assets is striking even for an administration that regularly mixes personal business interests with foreign policy.
-* 即使是一个经常将个人商业利益与外交政策混为一谈的政府，通过购买俄罗斯能源资产来加强与克里姆林宫关系的建议也引人注目。
-* Her legal team had repeatedly warned that her execution could go wrong. On Wednesday, they were proven right.
-* 她的法律团队一再警告说，她的处决可能会出错。周三，他们被证明是正确的。
-* Representative María Elvira Salazar, a Republican, ran an ad criticizing the Trump administration. It may have jolted other Republicans — and drawn attention to her Democratic opponent.
-* 共和党众议员玛丽亚·埃尔维拉·萨拉查（ María Elvira Salazar ）刊登了一则批评特朗普它可能震撼了其他共和党人，并引起了她的民主党对手的注意。
-* A lawsuit alleging rape at Cornell has led to an outpouring of women sharing stories about sexual violence on college campuses.
-* 一项指控康奈尔大学强奸的诉讼导致了大量女性在大学校园里分享有关性暴力的故事。
-* The failed execution of Christa Pike, which left her clinging to life in Tennessee, was the latest grisly error to take place in an American execution chamber.
-* 克里斯塔·派克（ Christa Pike ）的处决失败，使她执着于田纳西州的生活，这是美国处决室发生的最新可怕错误。
-* Democrats are performing strongly in five reliably Republican states where they are trying to flip Senate seats to win control of the chamber, new New York Times/Siena polls found.
-* 《纽约时报》/锡耶纳的新民意调查显示，民主党在五个可靠的共和党州表现强劲，他们试图翻转参议院席位以赢得众议院的控制权。
-* President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.
-* 弗拉基米尔· V ·普京(Vladimir V. Putin)总统向特朗普总统的特使贾里德·库什纳(Jared Kushner)和史蒂夫·维特科夫(Steve Witkoff)提出了出售俄罗斯能源资产的问题，推动了一项引发利益冲突新问题的协议
-* Two blistering court opinions have put Mr. Krasner, a prominent progressive district attorney, in what may be the most precarious position of his public career.
-* 两项激烈的法庭意见使克拉斯纳先生，一位着名的进步地区检察官，处于他公开职业生涯中最不稳定的位置。
+* A motive for the shooting, which happened in Vienna, Ga., early on Sunday, was not immediately known.
+* 周日早些时候在佐治亚州维也纳发生的枪击事件的动机尚不清楚。
+* The man was trapped under a boulder that the police said likely weighed a “literal ton” and could not reach his phone. He used Apple’s Siri to call 911, his mother said.
+* 这名男子被困在一块巨石下，警方称这块巨石可能重达“一吨” ，无法触及他的手机。他的母亲说，他用苹果的Siri拨打了911。
+* Democratic advantages in the races for governor in Texas, Iowa, Ohio and Alaska reflect deep unhappiness with President Trump and the economy. A Republican leads in Kansas.
+* 德克萨斯州、爱荷华州、俄亥俄州和阿拉斯加州州长竞选中的民主优势反映了对特朗普总统和经济的深深不满。共和党人在堪萨斯州领先。
+* Out of more than 900 applicants, 15 were chosen to compete in three rounds, including “Tight Squeeze” and “Under Duress.”
+* 在900多名申请人中，有15人被选中参加三轮比赛，包括“Tight Squeeze”和“Under Duress”。
+* Democrats competing in historically conservative territory in the midterms are more aggressively responding to Republican attacks casting them as extreme.
+* 在中期选举中，在历史上保守的领土上竞争的民主党人更积极地回应共和党的攻击，认为他们是极端的。
+* The president’s decision to hold an international summit at his own private golf club, an idea rejected in his first term, illustrates how much he has shattered norms.
+* 总统决定在自己的私人高尔夫俱乐部举行国际峰会，这一想法在他的第一个任期内遭到拒绝，这表明他打破了规范的程度。
+* Dr. Annie Andrews, a Democrat, is hoping to defeat Senator Darline Graham. Even some of her most ardent supporters sense that her bid is a long shot.
+* 民主党人安妮·安德鲁斯（ Annie Andrews ）博士希望击败参议员达林·格雷厄姆（ Darline Graham ）。即使是她最热情的支持者也觉得她的出价很遥远。
+* Tipped workers in Arizona have benefited from the G.O.P.’s big tax cut. But they face economic stress from other Republican policies.
+* 亚利桑那州的小费工人从共和党的大幅减税中受益。但他们面临着来自其他共和党政策的经济压力。
+* Analysis by The New York Times showed older incumbents consistently beating their younger challengers in this year’s midterm primaries. Our national political correspondent Lisa Lerer looks at why.
+* 《纽约时报》的分析显示，在今年的中期初选中，年龄较大的现任者一直击败年轻的挑战者。我们的国家政治通讯员丽莎·莱勒（ Lisa Lerer ）探讨了其中的原因。
+* Our investigative reporter David A. Fahrenthold explains his investigation into 10 planes the Department of Homeland Security bought from a donor to former D.H.S. Secretary Kristi Noem.
+* 我们的调查记者David A. Fahrenthold解释了他对10架飞机的调查，这些飞机是国土安全部从捐赠者那里购买给前国土安全部部长Kristi Noem的。
 
 ## New York Times Asia News
-* Four people were rescued after being adrift in a life raft in the South Pacific. One of them said he thought he had a better chance of winning the lottery than of being hit by a whale.
-* 四人在南太平洋的救生筏上漂流后获救。其中一人说，他认为自己中彩票的机会比被鲸鱼击中的机会更大。
+* A treaty from the 1960s declared that nobody can own outer space. Half a century later, billionaires and superpowers see fortunes to be made nonetheless.
+* 20世纪60年代的一项条约宣布，没有人可以拥有外层空间。半个世纪后，亿万富翁和超级大国仍然看到了财富。
+* The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.
+* 美国希望到2030年在月球上建造一个反应堆。俄中联盟正在为2036年建立一个联盟。一些顶尖的科学家说，这种危险是巨大的。
+* The matter threatened to revive tensions over the American military presence on the Japanese archipelago.
+* 此事有可能使美国在日本群岛的军事存在重新引发紧张局势。
 * Tukaram Mundhe’s surprise raids of Mumbai kitchens have made him an unlikely celebrity and set off a conversation about food standards in India.
 * Tukaram Mundhe突然袭击了孟买的厨房，使他不太可能成为名人，并引发了一场关于印度食品标准的对话。
 * Hundreds were detained in New Delhi as demonstrators expressed anger over the removal of 130 million people from the rolls. The government denies accusations of “vote theft.”
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 美国国务院拒绝为未来两年提供资金，危及数百名阿富汗女学生的教育。
 * The national security police detained Tang Ho-wing, founder of the independent outlet Boom News, according to local media and watchdog groups.
 * 据当地媒体和监督团体称，国家安全警察拘留了独立媒体Boom News的创始人唐和荣。
-* Prime Minister Sanae Takaichi is making it harder for immigrants to stay in the country. Critics say she is hurting Japan’s ability to address labor shortages.
-* 首相高市早苗（ Sanae Takaichi ）正在加大移民留在该国的难度。批评人士说，她正在损害日本解决劳动力短缺问题的能力。
-* Capt. Smit Machchhar suffered stab wounds while fending off an attack from his co-pilot, saving the lives of around 170 people on board, officials said.
-* 官员说， Smit Machchhar上尉在抵挡副驾驶的袭击时受了刺伤，挽救了船上约170人的生命。
 
