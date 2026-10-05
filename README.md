@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.
-* 美国希望到2030年在月球上建造一个反应堆。俄中联盟正在为2036年建立一个联盟。一些顶尖的科学家说，这种危险是巨大的。
-* The announcement plunges the Middle East deeper into war, as the Iran-allied Houthis have scored a series of triumphs in Yemen on the battlefield since the conflict was reignited.
-* 这一宣布使中东陷入更深的战争，因为自冲突重新点燃以来，与伊朗结盟的胡塞武装在也门战场上取得了一系列胜利。
-* Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a race that could define the future of Latin America.
-* 左翼现任者路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）和右翼挑战者弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）在一场可能决定拉丁美洲未来的比赛中对决。
-* The Omani co-pilot who officials said tried to crash the plane was said to have embraced extremist Islamist views.
-* 阿曼官员说，这名试图让飞机坠毁的阿曼副驾驶员据说接受了极端主义的伊斯兰主义观点。
-* The rare admission from Mohsen Rezaei, the security chief, came weeks after the U.S. tightened sanctions and its naval blockade.
-* 在美国加紧制裁和海上封锁几周后，安全主管穆赫森·雷扎伊（ Mohsen Rezaei ）罕见地承认了这一点。
-* As Ukraine increasingly takes the war to Russia, the effects may be most visible on the roads.
-* 随着乌克兰越来越多地向俄罗斯开战，其影响可能在道路上最为明显。
-* The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.
-* 专家说，美国在伊朗的战争引发了当地犯罪分子或被剥夺权利的年轻人的小规模袭击，这些人被匿名雇佣来攻击欧洲和北美的犹太人和美国人。
-* The matter threatened to revive tensions over the American military presence on the Japanese archipelago.
-* 此事有可能使美国在日本群岛的军事存在重新引发紧张局势。
-* The co-pilot’s embrace of extreme Islamist views prompted Omani officials to scrutinize him, according to two people briefed on the investigation.
-* 据两名了解调查情况的人士称，这名副驾驶接受了极端伊斯兰主义观点，促使阿曼官员对他进行了仔细审查。
-* A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.
-* 一名受重伤的印度飞行员设法打开了驾驶舱门。四名以色列男子联手击溃一名袭击者并避免灾难。
+* The country’s consumer watchdog has said only that “an employee of an anti-plague institute in the Irkutsk Region” contracted pneumonia. Rumors and unconfirmed reports sounded a more ominous note.
+* 该国的消费者监管机构仅表示， “伊尔库茨克州一家抗鼠疫研究所的一名员工”感染了肺炎。谣言和未经证实的报道听起来更不祥。
+* Flávio Bolsonaro, now the favorite to win Brazil’s presidency, would give President Trump a critical new ally in Latin America, particularly on security.
+* 弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）现在是赢得巴西总统职位的最爱，他将为特朗普总统在拉丁美洲提供一个关键的新盟友，特别是在安全方面。
+* Prime Minister Pedro Sánchez of Spain has faced rising challenges to his authority amid a migration crisis and several corruption scandals involving his inner circle.
+* 西班牙首相佩德罗·桑切斯（ Pedro Sánchez ）在移民危机和涉及其核心圈子的几起腐败丑闻中面临着对其权威的日益严峻的挑战。
+* A Saudi-led coalition has announced a military campaign against the Iran-backed Houthi militia in the country, reviving memories of its previous effort.
+* 沙特领导的一个联盟宣布对该国由伊朗支持的胡塞民兵组织开展军事行动，唤起人们对其先前努力的记忆。
+* Flávio Bolsonaro’s first round lead leaves President Luiz Inácio Lula da Silva three weeks to find the votes to stop Brazil’s, and Latin America’s, rightward shift.
+* 弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）的第一轮领先优势让总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）在三周内找到了阻止巴西和拉丁美洲向
+* Evacuation is almost impossible and food is running out in Russian-occupied Oleshky, a city menaced by mines and drones.
+* 在俄罗斯占领的Oleshky ，疏散几乎是不可能的，食物正在耗尽，这是一个受到地雷和无人机威胁的城市。
+* What happened in Mangala, where residents were left with little outside support, helps explain how this outbreak became the worst seen in the Democratic Republic of Congo.
+* 曼加拉（ Mangala ）发生的事情有助于解释这次疫情如何成为刚果民主共和国最严重的疫情，那里的居民几乎没有得到外界的支持。
+* From jail, the former mayor of Istanbul accuses President Recep Tayyip Erdogan of hollowing out Turkey’s democracy to stay in power.
+* 伊斯坦布尔前市长在监狱中指责总统雷杰普·塔伊普·埃尔多安（ Recep Tayyip Erdogan ）掏空土耳其的民主以继续执政。
+* The Parti Québécois, which promised an independence referendum if elected on Monday, could return to power after more than a decade.
+* 魁北克党承诺，如果周一当选，将举行独立公投，该党可能会在十多年后重新掌权。
+* Hundreds lined up to call loved ones as the internet went down and the flames closed in on the Australian town of Narooma in 2019.
+* 2019年，随着互联网的崩溃，数百人排队呼叫亲人，火焰笼罩了澳大利亚的纳鲁马镇。
 
 ## New York Times United States News
-* A motive for the shooting, which happened in Vienna, Ga., early on Sunday, was not immediately known.
-* 周日早些时候在佐治亚州维也纳发生的枪击事件的动机尚不清楚。
-* The man was trapped under a boulder that the police said likely weighed a “literal ton” and could not reach his phone. He used Apple’s Siri to call 911, his mother said.
-* 这名男子被困在一块巨石下，警方称这块巨石可能重达“一吨” ，无法触及他的手机。他的母亲说，他用苹果的Siri拨打了911。
-* Democratic advantages in the races for governor in Texas, Iowa, Ohio and Alaska reflect deep unhappiness with President Trump and the economy. A Republican leads in Kansas.
-* 德克萨斯州、爱荷华州、俄亥俄州和阿拉斯加州州长竞选中的民主优势反映了对特朗普总统和经济的深深不满。共和党人在堪萨斯州领先。
-* Out of more than 900 applicants, 15 were chosen to compete in three rounds, including “Tight Squeeze” and “Under Duress.”
-* 在900多名申请人中，有15人被选中参加三轮比赛，包括“Tight Squeeze”和“Under Duress”。
-* Democrats competing in historically conservative territory in the midterms are more aggressively responding to Republican attacks casting them as extreme.
-* 在中期选举中，在历史上保守的领土上竞争的民主党人更积极地回应共和党的攻击，认为他们是极端的。
-* The president’s decision to hold an international summit at his own private golf club, an idea rejected in his first term, illustrates how much he has shattered norms.
-* 总统决定在自己的私人高尔夫俱乐部举行国际峰会，这一想法在他的第一个任期内遭到拒绝，这表明他打破了规范的程度。
-* Dr. Annie Andrews, a Democrat, is hoping to defeat Senator Darline Graham. Even some of her most ardent supporters sense that her bid is a long shot.
-* 民主党人安妮·安德鲁斯（ Annie Andrews ）博士希望击败参议员达林·格雷厄姆（ Darline Graham ）。即使是她最热情的支持者也觉得她的出价很遥远。
-* Tipped workers in Arizona have benefited from the G.O.P.’s big tax cut. But they face economic stress from other Republican policies.
-* 亚利桑那州的小费工人从共和党的大幅减税中受益。但他们面临着来自其他共和党政策的经济压力。
-* Analysis by The New York Times showed older incumbents consistently beating their younger challengers in this year’s midterm primaries. Our national political correspondent Lisa Lerer looks at why.
-* 《纽约时报》的分析显示，在今年的中期初选中，年龄较大的现任者一直击败年轻的挑战者。我们的国家政治通讯员丽莎·莱勒（ Lisa Lerer ）探讨了其中的原因。
-* Our investigative reporter David A. Fahrenthold explains his investigation into 10 planes the Department of Homeland Security bought from a donor to former D.H.S. Secretary Kristi Noem.
-* 我们的调查记者David A. Fahrenthold解释了他对10架飞机的调查，这些飞机是国土安全部从捐赠者那里购买给前国土安全部部长Kristi Noem的。
+* The candidates for Ohio governor have significant policy differences, but the campaign ads have been strikingly personal, with exaggerated portrayals of one candidate as a con artist and the other as a drunk.
+* 俄亥俄州州长候选人的政策差异很大，但竞选广告非常个人化，其中一位候选人被夸大为骗子，另一位被夸大为醉汉。
+* The director of the F.B.I. and his girlfriend announced their engagement on social media over the weekend.
+* 联邦调查局局长和他的女朋友周末在社交媒体上宣布订婚。
+* The state would be the first to block an industry that has been connected to a deadly lung disease in workers.
+* 该州将是第一个阻止与工人致命肺病有关的行业的州。
+* 
+* 
+* In a tough new ad for the Democrat running against Representative Jeff Crank, the brother and sister-in-law of Virginia Giuffre say the congressman refused to meet with them.
+* 弗吉尼亚·朱弗尔（ Virginia Giuffre ）的兄弟和嫂子在一则针对民主党人竞选众议员杰夫·克兰克（ Jeff Crank ）的强硬新广告中表示，国会议员拒绝与他们会面。
+* It’s Oct. 5 — 29 days away from the midterms. Here’s the state of play.
+* 距离期中考试还有10月5日至29日。这就是游戏的状态。
+* The justices began their new term with a landmark dispute over whether local governments can hold oil companies liable for damages from climate change.
+* 法官们在新任期开始时，就地方政府是否可以让石油公司对气候变化造成的损害承担责任提出了具有里程碑意义的争议。
+* The Supreme Court is starting its new term already mired in election disputes. Our reporter Ann E. Marimow explains why the court is likely to get pulled into even more of these cases.
+* 最高法院即将开始其已经陷入选举纠纷的新任期。我们的记者Ann E. Marimow解释了为什么法院可能会卷入更多此类案件。
+* Democrats are increasingly confident they will have a record number of women serving in the House next year, after backing women in competitive districts they are now positioned to win.
+* 民主党人越来越有信心，他们明年将在众议院任职的女性人数将达到创纪录的水平，在竞争激烈的地区支持女性之后，他们现在有能力赢得胜利。
+* Even before the justices start their new term on Monday, the court has spent the summer resolving fast-moving requests on election-related disputes.
+* 甚至在法官周一开始新任期之前，法院已经花了一个夏天来解决与选举有关的争议的快速变化的请求。
 
 ## New York Times Asia News
+* I went to Galaxy Robot Park in Seoul to see how we might one day live with robots. It was part cutting-edge technology, part theatrics.
+* 我去了首尔的银河机器人公园，看看有朝一日我们会如何与机器人共处。一部分是尖端技术，一部分是戏剧。
+* Manufacturers say they are close to perfecting a new, more efficient solar panel that could help the United States reclaim ground it lost.
+* 制造商表示，他们即将完善一种新的，更高效的太阳能电池板，可以帮助美国收回失去的土地。
+* The Trump administration says all Iranian airlines are being “shut down.” So why is this jumbo jet still flying from Tehran to Southeast Asia?
+* 特朗普政府表示，所有伊朗航空公司正在“关闭”。“那么，为什么这架大型喷气式飞机仍然从德黑兰飞往东南亚？
 * A treaty from the 1960s declared that nobody can own outer space. Half a century later, billionaires and superpowers see fortunes to be made nonetheless.
 * 20世纪60年代的一项条约宣布，没有人可以拥有外层空间。半个世纪后，亿万富翁和超级大国仍然看到了财富。
 * The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 随着中国原油和成品油库存的减少，中国已开始再次限制成品油的出口。
 * Capt. Smit Machchhar, who was stabbed by his co-pilot midair between Dubai and Tel Aviv, said he “had to act” to prevent a crash despite serious injuries.
 * Smit Machchhar上尉在迪拜和特拉维夫之间的空中被他的副驾驶刺伤，他说他“必须采取行动”以防止严重受伤的坠机事故。
-* As citizens embrace the technology for entertainment, relationships and even farming advice, the government is stepping up efforts to set limits.
-* 随着公民接受娱乐、人际关系甚至农业建议的技术，政府正在加紧努力设定限制。
-* The State Department has denied its funding for the next two years, jeopardizing the education of hundreds of female Afghan students.
-* 美国国务院拒绝为未来两年提供资金，危及数百名阿富汗女学生的教育。
-* The national security police detained Tang Ho-wing, founder of the independent outlet Boom News, according to local media and watchdog groups.
-* 据当地媒体和监督团体称，国家安全警察拘留了独立媒体Boom News的创始人唐和荣。
 
