@@ -2,50 +2,62 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The country’s consumer watchdog has said only that “an employee of an anti-plague institute in the Irkutsk Region” contracted pneumonia. Rumors and unconfirmed reports sounded a more ominous note.
-* 该国的消费者监管机构仅表示， “伊尔库茨克州一家抗鼠疫研究所的一名员工”感染了肺炎。谣言和未经证实的报道听起来更不祥。
-* Flávio Bolsonaro, now the favorite to win Brazil’s presidency, would give President Trump a critical new ally in Latin America, particularly on security.
-* 弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）现在是赢得巴西总统职位的最爱，他将为特朗普总统在拉丁美洲提供一个关键的新盟友，特别是在安全方面。
-* Prime Minister Pedro Sánchez of Spain has faced rising challenges to his authority amid a migration crisis and several corruption scandals involving his inner circle.
-* 西班牙首相佩德罗·桑切斯（ Pedro Sánchez ）在移民危机和涉及其核心圈子的几起腐败丑闻中面临着对其权威的日益严峻的挑战。
-* A Saudi-led coalition has announced a military campaign against the Iran-backed Houthi militia in the country, reviving memories of its previous effort.
-* 沙特领导的一个联盟宣布对该国由伊朗支持的胡塞民兵组织开展军事行动，唤起人们对其先前努力的记忆。
-* Flávio Bolsonaro’s first round lead leaves President Luiz Inácio Lula da Silva three weeks to find the votes to stop Brazil’s, and Latin America’s, rightward shift.
-* 弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）的第一轮领先优势让总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）在三周内找到了阻止巴西和拉丁美洲向
-* Evacuation is almost impossible and food is running out in Russian-occupied Oleshky, a city menaced by mines and drones.
-* 在俄罗斯占领的Oleshky ，疏散几乎是不可能的，食物正在耗尽，这是一个受到地雷和无人机威胁的城市。
-* What happened in Mangala, where residents were left with little outside support, helps explain how this outbreak became the worst seen in the Democratic Republic of Congo.
-* 曼加拉（ Mangala ）发生的事情有助于解释这次疫情如何成为刚果民主共和国最严重的疫情，那里的居民几乎没有得到外界的支持。
-* From jail, the former mayor of Istanbul accuses President Recep Tayyip Erdogan of hollowing out Turkey’s democracy to stay in power.
-* 伊斯坦布尔前市长在监狱中指责总统雷杰普·塔伊普·埃尔多安（ Recep Tayyip Erdogan ）掏空土耳其的民主以继续执政。
-* The Parti Québécois, which promised an independence referendum if elected on Monday, could return to power after more than a decade.
-* 魁北克党承诺，如果周一当选，将举行独立公投，该党可能会在十多年后重新掌权。
-* Hundreds lined up to call loved ones as the internet went down and the flames closed in on the Australian town of Narooma in 2019.
-* 2019年，随着互联网的崩溃，数百人排队呼叫亲人，火焰笼罩了澳大利亚的纳鲁马镇。
+* A 22-year-old from London was the seventh person to be arrested by the counterterrorism police investigating an incident at R.A.F. Fairford last month.
+* 一名来自伦敦的22岁男子是上个月在皇家空军费尔福德事件中被反恐警察逮捕的第七人。
+* Union members, parents and teachers joined the demonstrations, broadening the student-led protest movement that has closed hundreds of French high schools since late September.
+* 工会成员、家长和教师参加了示威活动，扩大了学生领导的抗议运动，该运动自9月下旬以来已关闭了数百所法国高中。
+* MQ-9 Reaper drones — known for high-profile deadly strikes — have been shifted from Africa to Colombia and Ecuador, U.S. officials said.
+* 美国官员表示，以高调致命打击而闻名的MQ-9收割者无人机已从非洲转移到哥伦比亚和厄瓜多尔。
+* The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium.
+* 西班牙最高法院取消了对Carles Puigdemont的逮捕令， Carles Puigdemont一直生活在比利时的自我流放中。
+* The authorities said that the virus had been diagnosed in a man arriving from the Democratic Republic of Congo and that they were taking measures to prevent any spread.
+* 当局表示，该病毒是在一名来自刚果民主共和国的男子身上被诊断出来的，他们正在采取措施防止任何传播。
+* A rescue effort was underway, Prime Minister Rumen Radev said, after one of the two ships sank. It was not immediately clear where the drones originated.
+* 总理鲁门·拉德夫（ Rumen Radev ）说，在两艘船中的一艘沉没后，救援工作正在进行中。目前尚不清楚无人机起源于哪里。
+* August Hanning is accused of helping foreign governments. His arrest shook the German political world and had roots in a steakhouse-heiress kidnapping plot.
+* August Hanning被指控帮助外国政府。他的被捕震撼了德国的政治世界，并扎根于牛排馆-女继承人绑架阴谋。
+* Public anger is growing over an exercise that critics say undermines the world’s largest democracy, particularly disenfranchising Muslims under the Hindu nationalist government.
+* 公众对这项活动的愤怒与日俱增，批评人士称，这项活动破坏了世界上最大的民主国家，特别是印度教民族主义政府剥夺了穆斯林的权利。
+* The eviction of the woman in Madrid last month helped unravel Pedro Sánchez’s government. It also gave him an election platform.
+* 上个月，这名妇女在马德里被驱逐，导致佩德罗·桑切斯（ Pedro Sánchez ）的政府解体。这也给了他一个竞选平台。
+* Chaos in schools, on the streets and in the markets is rooted in France’s struggles to fund its social welfare state, with a presidential election approaching.
+* 学校、街头和市场的混乱源于法国为社会福利国家提供资金的斗争，总统选举即将到来。
 
 ## New York Times United States News
-* The candidates for Ohio governor have significant policy differences, but the campaign ads have been strikingly personal, with exaggerated portrayals of one candidate as a con artist and the other as a drunk.
-* 俄亥俄州州长候选人的政策差异很大，但竞选广告非常个人化，其中一位候选人被夸大为骗子，另一位被夸大为醉汉。
-* The director of the F.B.I. and his girlfriend announced their engagement on social media over the weekend.
-* 联邦调查局局长和他的女朋友周末在社交媒体上宣布订婚。
-* The state would be the first to block an industry that has been connected to a deadly lung disease in workers.
-* 该州将是第一个阻止与工人致命肺病有关的行业的州。
+* Lawyers for the former Olympian David Hearn accused prosecutors of ignoring their own evidence to indict him and then providing “blatantly false” information about what they knew when.
+* 前奥运选手大卫·赫恩（ David Hearn ）的律师指责检察官无视自己的证据来起诉他，然后提供“公然虚假”的信息，说明他们知道什么时候。
+* The deal is designed to demonstrate that President Trump is focused on one of his main campaign pledges: bringing back manufacturing jobs.
+* 这笔交易旨在表明特朗普总统专注于他的主要竞选承诺之一：恢复制造业就业岗位。
 * 
 * 
-* In a tough new ad for the Democrat running against Representative Jeff Crank, the brother and sister-in-law of Virginia Giuffre say the congressman refused to meet with them.
-* 弗吉尼亚·朱弗尔（ Virginia Giuffre ）的兄弟和嫂子在一则针对民主党人竞选众议员杰夫·克兰克（ Jeff Crank ）的强硬新广告中表示，国会议员拒绝与他们会面。
-* It’s Oct. 5 — 29 days away from the midterms. Here’s the state of play.
-* 距离期中考试还有10月5日至29日。这就是游戏的状态。
-* The justices began their new term with a landmark dispute over whether local governments can hold oil companies liable for damages from climate change.
-* 法官们在新任期开始时，就地方政府是否可以让石油公司对气候变化造成的损害承担责任提出了具有里程碑意义的争议。
-* The Supreme Court is starting its new term already mired in election disputes. Our reporter Ann E. Marimow explains why the court is likely to get pulled into even more of these cases.
-* 最高法院即将开始其已经陷入选举纠纷的新任期。我们的记者Ann E. Marimow解释了为什么法院可能会卷入更多此类案件。
-* Democrats are increasingly confident they will have a record number of women serving in the House next year, after backing women in competitive districts they are now positioned to win.
-* 民主党人越来越有信心，他们明年将在众议院任职的女性人数将达到创纪录的水平，在竞争激烈的地区支持女性之后，他们现在有能力赢得胜利。
-* Even before the justices start their new term on Monday, the court has spent the summer resolving fast-moving requests on election-related disputes.
-* 甚至在法官周一开始新任期之前，法院已经花了一个夏天来解决与选举有关的争议的快速变化的请求。
+* Democratic Senate candidates have generally out-raised Republicans, but are struggling to match outside spending from Trump-affiliated groups.
+* 民主党参议院候选人普遍超过共和党人，但正在努力与特朗普所属团体的外部支出相匹配。
+* Austin Beutner has filed a lawsuit that highlights a central dispute after the 2025 Los Angeles fires: Who pays when a house survives the flames but not the smoke?
+* 奥斯汀·博伊特纳（ Austin Beutner ）提起诉讼，凸显了2025年洛杉矶大火后的一场核心争议：当房屋在火灾中幸存下来，却没有烟雾时，谁会付出代价？
+* A new polling project called Project 270 will work to focus candidates on voters’ interests in presidential battleground states.
+* 一个名为Project 270的新民意调查项目将致力于将候选人的重点放在总统战场各州的选民利益上。
+* Tennessee’s unsuccessful attempt to end the life of Christa Pike is spurring more scrutiny over capital punishment techniques, and whether the death penalty should exist at all.
+* 田纳西州试图结束克里斯塔·派克（ Christa Pike ）的生命，但没有成功，这引发了对死刑技术的更多审查，以及死刑是否应该存在。
+* With less money than G.O.P., Democrats are torn over where to spend in the final weeks. The party is making its biggest move in years against one of G.O.P.’s biggest blue-district survivors.
+* 民主党人比G.O.P.更少的资金，在最后几周为何花钱而苦恼。该党正在对共和党最大的蓝色地区幸存者之一采取多年来最大的举措。
+* The administration has shifted its enforcement of a civil rights law from allegations of sexual misconduct to issues like blocking protections for transgender students.
+* 政府已将民权法的执行从性行为不端的指控转向阻止对跨性别学生的保护等问题。
+* Bricks of the drug frequently surface in the waters off the island chain. Despite the risks, some who discover “square grouper,” as they’re known, hang onto them.
+* 这种药物的砖块经常在岛链附近的水域中浮出水面。尽管存在风险，但有些人发现了众所周知的“方形石斑鱼”。
 
 ## New York Times Asia News
+* China’s booming artificial intelligence sector has given local researchers good reason to remain in the country, but it has yet to lure overseas scientists despite a government push.
+* 中国蓬勃发展的人工智能行业给了当地研究人员留在中国的理由，但尽管政府推动，它尚未吸引海外科学家。
+* Gov. Gavin Newsom called the president “dangerous and deranged” after his remarks at a political rally, where Mr. Trump said the Iran war was necessary to “keep the world safe.”
+* 州长加文·纽森(Gavin Newsom)在一次政治集会上发表讲话后，称总统“危险而疯狂” ，特朗普在集会上表示，伊朗战争对于“维护世界安全”是必要的。
+* Public anger is growing over an exercise that critics say undermines the world’s largest democracy, particularly disenfranchising Muslims under the Hindu nationalist government.
+* 公众对这项活动的愤怒与日俱增，批评人士称，这项活动破坏了世界上最大的民主国家，特别是印度教民族主义政府剥夺了穆斯林的权利。
+* The president said there were signs that such models were used in recent attacks on several banks involving customer data. Police are investigating.
+* 总统表示，有迹象表明，在最近涉及客户数据的几家银行的攻击中使用了这些模型。警方正在调查。
+* The police are investigating how about 3,000 nonexistent residents were added to official data for Toyama.
+* 警方正在调查如何将约3,000名不存在的居民添加到富山的官方数据中。
+* Huge tax breaks and a weak currency sustain exports, widen the government budget deficit and complicate the country’s efforts to rebalance its economy.
+* 巨额税收减免和货币疲软维持了出口，扩大了政府预算赤字，并使该国重新平衡经济的努力复杂化。
 * I went to Galaxy Robot Park in Seoul to see how we might one day live with robots. It was part cutting-edge technology, part theatrics.
 * 我去了首尔的银河机器人公园，看看有朝一日我们会如何与机器人共处。一部分是尖端技术，一部分是戏剧。
 * Manufacturers say they are close to perfecting a new, more efficient solar panel that could help the United States reclaim ground it lost.
@@ -54,16 +66,4 @@ Auto RSS New York Times and Translate
 * 特朗普政府表示，所有伊朗航空公司正在“关闭”。“那么，为什么这架大型喷气式飞机仍然从德黑兰飞往东南亚？
 * A treaty from the 1960s declared that nobody can own outer space. Half a century later, billionaires and superpowers see fortunes to be made nonetheless.
 * 20世纪60年代的一项条约宣布，没有人可以拥有外层空间。半个世纪后，亿万富翁和超级大国仍然看到了财富。
-* The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.
-* 美国希望到2030年在月球上建造一个反应堆。俄中联盟正在为2036年建立一个联盟。一些顶尖的科学家说，这种危险是巨大的。
-* The matter threatened to revive tensions over the American military presence on the Japanese archipelago.
-* 此事有可能使美国在日本群岛的军事存在重新引发紧张局势。
-* Tukaram Mundhe’s surprise raids of Mumbai kitchens have made him an unlikely celebrity and set off a conversation about food standards in India.
-* Tukaram Mundhe突然袭击了孟买的厨房，使他不太可能成为名人，并引发了一场关于印度食品标准的对话。
-* Hundreds were detained in New Delhi as demonstrators expressed anger over the removal of 130 million people from the rolls. The government denies accusations of “vote theft.”
-* 数百人在新德里被拘留，因为示威者对1.3亿人从名单中删除表示愤怒。政府否认“投票盗窃”的指控。
-* China has started limiting exports of refined products again as its own inventories of crude oil and refined products have dwindled.
-* 随着中国原油和成品油库存的减少，中国已开始再次限制成品油的出口。
-* Capt. Smit Machchhar, who was stabbed by his co-pilot midair between Dubai and Tel Aviv, said he “had to act” to prevent a crash despite serious injuries.
-* Smit Machchhar上尉在迪拜和特拉维夫之间的空中被他的副驾驶刺伤，他说他“必须采取行动”以防止严重受伤的坠机事故。
 
