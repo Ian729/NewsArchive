@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Gali and Ziv Berman were taken hostage when their kibbutz was attacked on Oct. 7, 2023. They were freed a year ago but are still adjusting to freedom and trying to rebuild their lives.
-* 2023年10月7日，他们的基布兹遭到袭击， Gali和Ziv Berman被劫持为人质。他们一年前被释放，但仍在适应自由，并试图重建自己的生活。
-* Secretary of State Marco Rubio praised Greece for spending more on defense, while saying it needs to address “mass migration.”
-* 国务卿马可·卢比奥（ Marco Rubio ）称赞希腊在国防上花费更多，同时表示需要解决“大规模移民”问题。
-* Danilo Alves Silva wore an Immigration and Customs Enforcement costume from Amazon at a polling location for the Brazilian presidential election.
-* 达尼洛·阿尔维斯·席尔瓦（ Danilo Alves Silva ）在巴西总统选举的投票地点穿着亚马逊的移民和海关执法服装。
-* Moscow says its capture of the region is inevitable. But Kyiv has so far stymied Russian efforts to encircle Ukrainian “fortress belt” cities.
-* 莫斯科表示，它对该地区的占领是不可避免的。但到目前为止，基辅阻碍了俄罗斯包围乌克兰“堡垒带”城市的努力。
-* Attendees at the party’s annual conference have been buoyed: both by leader Kemi Badenoch’s rising poll ratings and by a mock Bayeux Tapestry. But the challenge from Reform U.K. remains.
-* 该党年度会议的与会者受到了鼓舞：领导人凯米·巴德诺赫（ Kemi Badenoch ）的民意调查收视率不断上升，以及模拟的贝叶挂毯。但来自改革英国的挑战仍然存在。
-* New information around the death of a lab worker, including a statement that she had been vaccinated against the plague, came as U.S. officials demanded more data.
-* 随着美国官员要求提供更多数据，有关实验室工作人员死亡的新信息，包括她已接种鼠疫疫苗的声明。
-* Angered by poor classroom conditions, students at Paul Éluard High School in a suburb of the capital were among the first to blockade their campus during an ongoing round of unrest.
-* 由于教室条件恶劣，首都郊区的Paul Éluard高中的学生最先在持续的骚乱中封锁了他们的校园。
-* The European Union is weighing tougher trade measures as negotiators prepare to meet Chinese officials in Beijing, with surging exports from China pressuring key industries in Europe.
-* 在谈判代表准备在北京会见中国官员之际，欧盟正在权衡更严厉的贸易措施，中国的出口激增给欧洲的关键行业带来了压力。
-* Prime Minister Sanae Takaichi, a close Trump ally, is under pressure to strengthen oversight of the U.S. military in Japan.
-* 特朗普的亲密盟友、日本首相高市早苗(Sanae Takaichi)面临着加强对驻日美军监督的压力。
-* Companies continue to service a “dark fleet” of Iranian tankers in waters off Malaysia in spite of Washington’s threat to target them.
-* 尽管华盛顿威胁要瞄准这些公司，但公司仍继续在马来西亚海域为伊朗油轮组成的“黑暗舰队”提供服务。
+* A top aide to Ambassador Mike Huckabee skewed information to portray the Netanyahu government in a favorable light, according to multiple officials and documents obtained by The Times.
+* 据《泰晤士报》获得的多名官员和文件显示，大使迈克·赫卡比（ Mike Huckabee ）的一名高级助手歪曲信息，以有利的方式描绘内塔尼亚胡政府。
+* A judge in London said that a “significant error” had been made in the granting of search warrants in an investigation into Andrew Mountbatten-Windsor.
+* 伦敦的一名法官表示，在对Andrew Mountbatten-Windsor的调查中，在颁发搜查令方面犯了一个“重大错误”。
+* He brought the intensity of the stage to the screen and was praised for his craft and philanthropy. He was also accused of sexual harassment.
+* 他将舞台的强度带到了银幕上，并因其手艺和慈善事业而受到称赞。他还被指控性骚扰。
+* Anger about classroom overcrowding, teacher shortages and broken-down buildings has boiled over in recent weeks, and threatens to coalesce into broader grievances in a heated political season.
+* 最近几周，对教室过度拥挤、教师短缺和楼宇破损的愤怒已经平息，并有可能在激烈的政治季节汇聚成更广泛的不满。
+* The new runway in Ban Keun is currently used by only small jets. Neighboring nations are watching warily to see if Beijing expands it for larger aircraft.
+* Ban Keun的新跑道目前仅供小型喷气式飞机使用。邻国正在警惕地观察北京是否将其扩展到更大的飞机。
+* At least 30 people were killed in a Russian strike on a commuter bus in the country’s east, officials said, a day after an attack on an apartment building far behind the combat zone killed 22.
+* 官员们说，俄罗斯在该国东部的一辆通勤公共汽车上罢工造成至少30人死亡，一天前，一栋远离战区的公寓楼遭到袭击，造成22人死亡。
+* The Saudi authorities said they intercepted two missiles targeting Riyadh, a day after they said Houthi strikes on airports in the kingdom killed three people.
+* 沙特当局表示，他们拦截了两枚针对利雅得的导弹，此前一天，他们说胡塞武装袭击了该国机场，造成3人死亡。
+* President Volodymyr Zelensky of Ukraine revealed last month that two POWs defected to South Korea. South Korea accused him of breaking a confidentiality agreement.
+* 乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）上个月透露，两名战俘叛逃到韩国。韩国指控他违反了保密协议。
+* Middle-of-the-night evacuations and fears about death have become the norm for workers at Russian e-commerce companies targeted by Ukraine.
+* 午夜撤离和对死亡的担忧已成为乌克兰针对的俄罗斯电子商务公司员工的常态。
+* The cybersecurity firm said the attacker was likely a Chinese speaker and financially motivated, but did not attribute the attacks to a named individual or group.
+* 这家网络安全公司表示，攻击者可能是一名讲中文的人，并且有经济动机，但没有将攻击归咎于指定的个人或团体。
 
 ## New York Times United States News
-* Khloe Ishway, 12, was killed when she was caught in the crossfire as two men exchanged gunfire as they argued over a parking spot at a park in Baltimore over the weekend.
-* 12岁的Khloe Ishway上周末在巴尔的摩公园的一个停车位上争吵时，两名男子在交火中交火时被杀。
-* Trouble began w
-* 麻烦开始w
-* The biodiesel, worth more than $2.8 million, was procured for a company sanctioned by the Treasury Department, federal officials said.
-* 联邦官员表示，这款价值超过280万美元的生物柴油是为美国财政部批准的一家公司采购的。
-* The leader of the agency who oversaw it stepped down as
-* 监督它的机构负责人辞职
-* 
-* 
-* Danilo Alves Silva wore an Immigration and Customs Enforcement costume from Amazon at a polling location for the Brazilian presidential election.
-* 达尼洛·阿尔维斯·席尔瓦（ Danilo Alves Silva ）在巴西总统选举的投票地点穿着亚马逊的移民和海关执法服装。
-* 
-* 
-* As the U.S.-Israeli war with Iran continues, it’s being felt in a wider region. Eric Schmitt, a national security correspondent at The New York Times, explains how the conflict is reaching U.S. bases and why the United States is pulling back its military presence in some locations.
-* 随着美以战争的继续，更广泛的地区正在感受到这场战争。《纽约时报》的国家安全记者埃里克·施密特（ Eric Schmitt ）解释了这场冲突是如何到达美国基地的，以及美国为什么要撤回其在某些地方的军事存在。
-* They believe that records of her failed execution in Tennessee will show “incompetent and reckless actions.”
-* 他们认为，她在田纳西州执行死刑失败的记录将显示“无能和鲁莽的行为”。
-* A war that was intended to demonstrate the reach of American power has now done the opposite. It is a lesson in unintended consequences.
-* 一场旨在展示美国实力范围的战争现在却恰恰相反。这是一个意想不到后果的教训。
+* The emergency application to the justices marks the latest move in a monthslong fight over who is entitled to low rates for political ads.
+* 向法官提出紧急申请标志着为期一个月的争夺谁有权获得低政治广告费率的最新举动。
+* The man tried unsuccessfully to fire a gun, then wielded a knife before he was shot inside the Fred D. Thompson U.S. Courthouse and Federal Building, the police said.
+* 警方称，这名男子试图开枪，但没有成功，然后挥舞着刀，然后在Fred D. Thompson美国法院和联邦大楼内被枪杀。
+* A judge will soon rule on whether the former F.B.I. director must face trial for an Instagram post.
+* 法官将很快裁定这位前联邦调查局局长是否必须面对Instagram帖子的审判。
+* Vice President JD Vance singled out the tech firm as he and other officials accused several companies and universities of committing visa fraud.
+* 副总裁JD Vance特别指出了这家科技公司，因为他和其他官员指控几家公司和大学犯有签证欺诈罪。
+* Half of homes in Maine rely on heating oil. Rising costs driven up by President Trump’s war with Iran have become central to the state’s Senate race.
+* 缅因州有一半的房屋依赖取暖油。特朗普总统与伊朗的战争导致的成本上升已成为该州参议院竞选的核心。
+* Jeffrey Epstein’s 2019 death was ruled a suicide, but seven years later, skepticism remains widespread. In this New York Times special report, the host Natalie Kitroeff sits down with the reporters Jan Ransom, Steve Eder, Michael Rothfeld and Charles Homans to examine jail surveillance footage from the night of Mr. Epstein’s death.
+* 杰弗里·爱泼斯坦（ Jeffrey Epstein ） 2019年的死亡被裁定为自杀，但七年后，怀疑论仍然普遍存在。在《纽约时报》的这篇特别报道中，主持人娜塔莉·基特罗夫（ Natalie Kitroeff ）与记者简·兰索姆（ Jan Ransom ）、史蒂夫·埃德尔（ Steve Eder ）、迈克尔·罗斯菲尔德（ Michael Rothfeld ）和查尔斯·霍曼斯（ Charles Homans ）坐
+* Seven years after Jeffrey Epstein’s death was ruled a suicide, many people remain skeptical. In this New York Times Special Report, Natalie Kitroeff sits down with the reporters Jan Ransom, Steve Eder, Michael Rothfeld, and Charles Homans to examine the evidence regarding whether Epstein was suicidal.
+* 在杰弗里·爱泼斯坦（ Jeffrey Epstein ）的死被裁定为自杀七年后，许多人仍然持怀疑态度。在《纽约时报》的这篇特别报道中，娜塔莉·基特罗夫（ Natalie Kitroeff ）与记者简·兰森（ Jan Ransom ）、史蒂夫·埃德（ Steve Eder ）、迈克尔·罗斯菲尔德（ Michael Rothfeld ）和查尔斯·霍曼斯（ Charles Homans ）
+* Seven years after Jeffrey Epstein’s death was ruled a suicide, the theory that Epstein didn’t kill himself is held by many. In this special report, Natalie Kitroeff sits down with the New York Times investigative reporters Jan Ransom, Steve Eder, Michael Rothfeld, and a New York Times Magazine reporter, Charles Homans, to investigate the central questions around Mr. Epstein’s death.
+* 在杰弗里·爱泼斯坦（ Jeffrey Epstein ）的死被裁定为自杀七年后，许多人认为爱泼斯坦没有自杀。在这篇特别报道中，娜塔莉·基特罗夫（ Natalie Kitroeff ）与《纽约时报》调查记者简·兰森（ Jan Ransom ）、史蒂夫·埃德（ Steve Eder ）、迈克尔·罗斯菲尔德（ Michael Rothfeld ）和《纽约时报》杂志记者查尔斯·霍曼斯（ Charles Homans ）坐在一起，调查
+* The ship, whose crew endured food shortages, spent much of its nearly 11-month deployment in combat without a day off.
+* 这艘船的船员经历了粮食短缺，大部分时间都在战斗中度过，没有休息一天。
+* A sexual assault case at Cornell revived a long-running national conversation about whether fraternities and sororities are beneficial or harmful.
+* 康奈尔大学的一起性侵犯案件重新引发了一场长期的全国性对话，讨论兄弟会和姐妹会是有益的还是有害的。
 
 ## New York Times Asia News
+* An interview with Pita Limjaroenrat, the former leader of the Move Forward party.
+* 采访前进党前领导人Pita Limjaroenrat。
+* He brought the intensity of the stage to the screen and was praised for his craft and philanthropy. He was also accused of sexual harassment.
+* 他将舞台的强度带到了银幕上，并因其手艺和慈善事业而受到称赞。他还被指控性骚扰。
+* President Volodymyr Zelensky of Ukraine revealed last month that two POWs defected to South Korea. South Korea accused him of breaking a confidentiality agreement.
+* 乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）上个月透露，两名战俘叛逃到韩国。韩国指控他违反了保密协议。
+* The new runway in Ban Keun is currently used by only small jets. Neighboring nations are watching warily to see if Beijing expands it for larger aircraft.
+* Ban Keun的新跑道目前仅供小型喷气式飞机使用。邻国正在警惕地观察北京是否将其扩展到更大的飞机。
+* After trading his military uniform for civilian clothes, Myanmar’s strongman president, U Min Aung Hlaing, is in Malaysia, his ninth stop on a search for international legitimacy.
+* 缅甸强人总统吴敏昂莱（ U Min Aung Hlaing ）在用军装换取便服后来到马来西亚，这是他寻求国际合法性的第九站。
+* Lawmakers in the capital were forcibly removed for a second consecutive day as police cracked down on demonstrations against the deletion of voter names.
+* 随着警方镇压反对删除选民姓名的示威活动，首都的立法者连续第二天被强行撤职。
+* Abhijeet Dipke started the movement as a joke. But after ousting a minister over a dysfunctional college entrance exam system, India’s youth say they now want to save democracy.
+* 阿比吉特·迪普克（ Abhijeet Dipke ）以一个笑话开始了这场运动。但是，在因功能失调的大学入学考试制度而罢免了一位部长之后，印度的年轻人说他们现在想挽救民主。
+* India’s youngest students are staging sit-ins and protesting the run-down conditions of their schools, drawing inspiration from the Gen Z protests that roiled the country this summer.
+* 印度最年轻的学生正在举行静坐抗议活动，抗议学校破败不堪的状况，他们从今年夏天席卷全国的Z世代抗议活动中汲取灵感。
 * And the spirit of the ballerina Allegra Kent doesn’t hurt. The choreographer Benjamin Akio Kimitch dives into the art of Bugaku to create his fantasy of a Japanese American court dance.
 * 芭蕾舞演员阿莱格拉·肯特（ Allegra Kent ）的精神并没有受到伤害。编舞家本杰明·基米奇（ Benjamin Akio Kimitch ）深入研究了Bugaku的艺术，创造了他对日裔美国人宫廷舞蹈的幻想。
 * Prime Minister Sanae Takaichi, a close Trump ally, is under pressure to strengthen oversight of the U.S. military in Japan.
 * 特朗普的亲密盟友、日本首相高市早苗(Sanae Takaichi)面临着加强对驻日美军监督的压力。
-* The European Union is weighing tougher trade measures as negotiators prepare to meet Chinese officials in Beijing, with surging exports from China pressuring key industries in Europe.
-* 在谈判代表准备在北京会见中国官员之际，欧盟正在权衡更严厉的贸易措施，中国的出口激增给欧洲的关键行业带来了压力。
-* China’s push to manufacture more at home has widened its trade imbalance with Europe, intensifying pressure on European industries and policymakers to take action.
-* 中国推动在国内生产更多产品，扩大了与欧洲的贸易不平衡，加剧了欧洲产业和政策制定者采取行动的压力。
-* The case of a small Malaysian shipping agency illustrates the challenges Washington faces in its effort to stanch the flow of Iranian oil.
-* 一家小型马来西亚航运机构的案例说明了华盛顿在努力阻止伊朗石油流通方面所面临的挑战。
-* Companies continue to service a “dark fleet” of Iranian tankers in waters off Malaysia in spite of Washington’s threat to target them.
-* 尽管华盛顿威胁要瞄准这些公司，但公司仍继续在马来西亚海域为伊朗油轮组成的“黑暗舰队”提供服务。
-* China’s booming artificial intelligence sector has given local researchers good reason to remain in the country, but it has yet to lure overseas scientists despite a government push.
-* 中国蓬勃发展的人工智能行业给了当地研究人员留在中国的理由，但尽管政府推动，它尚未吸引海外科学家。
-* Gov. Gavin Newsom called the president “dangerous and deranged” after his remarks at a political rally, where Mr. Trump said the Iran war was necessary to “keep the world safe.”
-* 州长加文·纽森(Gavin Newsom)在一次政治集会上发表讲话后，称总统“危险而疯狂” ，特朗普在集会上表示，伊朗战争对于“维护世界安全”是必要的。
-* Public anger is growing over an exercise that critics say undermines the world’s largest democracy, particularly disenfranchising Muslims under the Hindu nationalist government.
-* 公众对这项活动的愤怒与日俱增，批评人士称，这项活动破坏了世界上最大的民主国家，特别是印度教民族主义政府剥夺了穆斯林的权利。
-* The president said there were signs that such models were used in recent attacks on several banks involving customer data. Police are investigating.
-* 总统表示，有迹象表明，在最近涉及客户数据的几家银行的攻击中使用了这些模型。警方正在调查。
 
