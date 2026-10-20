@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The line between dirty and clean gold is an industry fiction. Wall Street and governments profit off gold from criminals, gangsters and those who exploit children.
-* 肮脏的黄金和干净的黄金之间的界限是行业虚构的。华尔街和政府从犯罪分子、歹徒和剥削儿童的人那里获得黄金。
-* Prime Minister Sébastien Lecornu defended police efforts and pledged to restore order as government ministers acknowledged failures.
-* 总理塞巴斯蒂安·勒科努（ Sébastien Lecornu ）为警方的努力辩护，并承诺在政府部长承认失败的情况下恢复秩序。
-* The Emirates’ reputation as a haven was shaken by what the authorities said was a plot last month aimed at crashing a flight from Dubai to Tel Aviv.
-* 阿联酋航空作为避风港的声誉受到当局上个月所说的旨在使从迪拜飞往特拉维夫的航班坠毁的阴谋的动摇。
-* Paul Nthenge Mackenzie told his doomsday followers in a remote forest to fast for salvation. He faced trial after hundreds of bodies were exhumed.
-* 保罗·恩滕格·麦肯齐（ Paul Nthenge Mackenzie ）在偏远的森林中告诉他的末日追随者禁食求救。数百具尸体被挖掘出来后，他面临审判。
-* The fire, which did not seriously damage the network, came after similar incidents in Bulgaria and Poland involving the satellite internet provider, a key defense tool for Ukraine’s armed forces.
-* 在保加利亚和波兰发生类似事件后，这起火灾并未严重破坏网络，涉及卫星互联网提供商，这是乌克兰武装部队的关键防御工具。
-* President Trump said Benjamin Netanyahu was a “Great Warrior,” as he faces a tough re-election bid for prime minister. But the Trump brand is not what it once was in Israel, analysts say.
-* 特朗普总统表示，本雅明·内塔尼亚胡（ Benjamin Netanyahu ）是一位“伟大的战士” ，因为他面临着艰难的连任竞选总理。但分析师表示，特朗普品牌在以色列已经不是以前的品牌了。
-* The fighters are a key tool against Moscow’s latest weapon of choice. But deploying the multimillion-dollar planes to counter drones is an imperfect fix.
-* 这些战斗机是对抗莫斯科最新武器的重要工具。但是，部署数百万美元的飞机来对抗无人机并不是一个完美的解决方案。
-* President Volodymyr Zelensky said he didn’t want to believe that Washington wanted an end to the war at Ukraine’s expense. “But that’s how it looks,” he added.
-* 总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）表示，他不想相信华盛顿希望以乌克兰为代价结束战争。“但这就是它的样子，”他补充道。
-* Israel has faced pressure, including from the United States, to investigate the attacks. Rights groups say most inquiries into extremist assaults on Palestinians go nowhere.
-* 以色列面临着调查袭击事件的压力，包括来自美国的压力。人权组织表示，对极端主义袭击巴勒斯坦人的大多数调查都无济于事。
-* The National Rally, already ahead in the polls, presented itself as the party best placed to restore law and order.
-* 已经在民意调查中领先的全国集会显示自己是最适合恢复法律和秩序的政党。
+* Europe’s centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change.
+* 欧洲的中间派政党在年轻人和工人中正在失去立足之地，他们越来越受到民粹主义激进变革承诺的诱惑。
+* The restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials.
+* 这些限制是国家在该国多年来最大的骚乱后重新控制的努力的一部分，因为在混乱中被捕的人面临快速审判。
+* The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it. Officials there warn of an impending humanitarian disaster.
+* 伊朗支持的胡塞民兵封锁了通往也门最大城市之一塔伊兹的道路。那里的官员警告即将发生的人道主义灾难。
+* R.A.F. Typhoon fighter jets will be deployed to protect infrastructure in Saudi Arabia, Britain said, after a spike in attacks by the Iran-backed Houthi militia.
+* 英国表示，在伊朗支持的胡塞民兵袭击激增后，英国将部署皇家空军台风战斗机来保护沙特阿拉伯的基础设施。
+* The secretary of state will meet with Asia’s richest men in Mumbai as Washington continues negotiations over a trade deal with India.
+* 这位国务卿将在孟买会见亚洲最富有的人，届时华盛顿将继续就与印度的贸易协议进行谈判。
+* A self-taught chef borrows ingredients and ideas from restaurants run by immigrants in South Africa, hoping to help counter rising xenophobia.
+* 一位自学成才的厨师借鉴了南非移民经营的餐厅的食材和创意，希望能够帮助应对不断上升的仇外心理。
+* The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too.
+* 靠近海地首都的肯斯科夫市市长向政府官员写了数百封信，警告帮派威胁。然后几十个人死了，他也死了。
+* Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu and Israel’s defense minister, a week before a pivotal election.
+* 在关键选举前一周，国防部长皮特·赫格塞斯会见了以色列总理本雅明·内塔尼亚胡和以色列国防部长。
+* Residents of the province were asked if they wish to remain in Canada or to hold another vote on breaking away, in a referendum that left both sides unhappy.
+* 该省的居民被问及他们是否愿意留在加拿大，还是在公投中再次投票脱离，这让双方都不满意。
+* Plans to build one of Europe’s largest data centers in Devon have been met by strong opposition from residents, as environmental concerns grow.
+* 随着环境问题日益严重，在德文郡建造欧洲最大的数据中心之一的计划遭到了居民的强烈反对。
 
 ## New York Times United States News
-* The court’s decision to review an admissions policy for selective middle school programs in Maryland follows its rejection of affirmative action in higher education.
-* 法院在拒绝高等教育中的平权行动后，决定审查马里兰州选择性中学课程的招生政策。
-* A federal judge has ordered tree cutting halted at the city course as she considers a lawsuit over the legality of the administration’s plans.
-* 一名联邦法官已下令停止在城市课程中砍伐树木，因为她认为这是对政府计划合法性的诉讼。
-* The dire projections come from the state’s Climate Change Assessment, which analyzes the impacts of changing weather patterns on the nation’s most-populous state.
-* 可怕的预测来自该州的气候变化评估，该评估分析了不断变化的天气模式对全国人口最多的州的影响。
-* With Republicans seen as less likely to hold their majority in the House, the party is focusing more on the battle for the Senate, where it is vastly outspending Democrats on ads.
-* 由于共和党人被认为不太可能在众议院占据多数席位，该党正更多地关注参议院的争夺战，而民主党在广告方面的支出远远超过民主党人。
-* Early voting in Texas, where the outcome of the Senate race could determine which party controls the chamber, will run through Oct. 30.
-* 德克萨斯州的提前投票将持续到10月30日，参议院竞选的结果可能会决定哪一方控制众议院。
-* It’s Oct. 19 — 15 days from the midterms. Here’s the state of play.
-* 距离期中考试还有10月19日至15日。这就是游戏的状态。
-* To boost Senator Jon Husted, who is in a tight race to keep his seat, some Republicans who were making a jobs pitch have pivoted to focus on socialism.
-* 为了提振参议员乔恩·赫斯特德（ Jon Husted ） ，他正处于争夺席位的激烈竞争中，一些正在进行就业宣传的共和党人已经转向关注社会主义。
-* The Texas attorney general’s powers could come under scrutiny in a close Senate contest, though election experts say courts would likely constrain him.
-* 德克萨斯州总检察长的权力可能会在参议院的一场密切竞争中受到审查，尽管选举专家表示，法院可能会限制他。
-* These doctors and community health workers are a safety net for patients losing coverage as premiums soar and Medicaid cuts mount, even as their clinic struggles to stay afloat.
-* 这些医生和社区卫生工作者是随着保费飙升和医疗补助削减增加而失去保险的患者的安全网，即使他们的诊所难以维持生计。
-* An army of signature gatherers made plenty of cash hitting the streets in California to qualify various November initiatives.
-* 一群签名采集者在加利福尼亚州的街道上赚取了大量现金，以符合11月份的各项举措。
+* The liberal pro-Israel advocacy group’s ads denouncing incumbents in Iowa and Pennsylvania put it at odds with the larger organization for the first time.
+* 这个自由主义的亲以色列倡导团体的广告谴责了爱荷华州和宾夕法尼亚州的现任者，首次与这个更大的组织发生了冲突。
+* The party apparatus is taking advantage of its enormous war chest, as well as a Supreme Court campaign-finance ruling this year, to send tens of millions into congressional races.
+* 该党机构正在利用其庞大的战争资金，以及最高法院今年的竞选财政裁决，将数千万人送入国会竞选。
+* The midterm elections appear to be a factor for both sides in the war as President Trump weighs his next steps.
+* 随着特朗普总统权衡他的下一步行动，中期选举似乎是战争双方的一个因素。
+* Expected windfalls from I.P.O.s are drawing health leaders into a race for billions in new philanthropic dollars. A fragile aid system may be upended.
+* I.P.O.的预期意外收获正在吸引卫生领导者竞相筹集数十亿美元的新慈善资金。脆弱的援助系统可能会被颠覆。
+* Bow Mar says restricting access to its public streets is a safety necessity. Critics see a miniature border wall.
+* Bow Mar表示，限制进入公共街道是安全的必要条件。评论家们看到了一堵微型边墙。
+* Thousands of Israelis living in the United States are expected to fly to Israel to vote in the country’s national election this month.
+* 预计数千名居住在美国的以色列人将飞往以色列参加本月的全国大选投票。
+* Attorney General Lynn Fitch issued a terse statement, months after officers, responding to a report of stolen diapers, surrounded a car, guns drawn.
+* 司法部长林恩·菲奇（ Lynn Fitch ）发表了一份简短的声明，几个月后，警官们回应了一份关于尿布被盗的报告，包围了一辆汽车，枪支被拔出。
+* A retired pilot helped an Ohio historical society become the new owner of the Wapakoneta home where the first man on the moon spent his high school days.
+* 一位退休的飞行员帮助俄亥俄州的一个历史学会成为Wapakoneta住宅的新主人，在那里，第一个登上月球的人度过了他的高中时光。
+* The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.
+* 总统最近采取的一系列似乎有利于弗拉基米尔·普京的措施反映了他对与莫斯科关系正常化的强烈愿望，即使这意味着进一步削弱乌克兰。
+* The effort comes as Republicans are struggling to win over female voters two weeks before the midterm elections.
+* 在中期选举前两周，共和党人正在努力争取女性选民。
 
 ## New York Times Asia News
+* The secretary of state will meet with Asia’s richest men in Mumbai as Washington continues negotiations over a trade deal with India.
+* 这位国务卿将在孟买会见亚洲最富有的人，届时华盛顿将继续就与印度的贸易协议进行谈判。
+* Helen Haines, an independent, remained in critical condition after she was struck by a vehicle. A 43-year-old man was charged and will appear in court on Wednesday.
+* 海伦·海恩斯（ Helen Haines ）是一名独立人士，在被车辆撞击后仍处于危急状态。一名43岁的男子被起诉，并将于周三出庭。
+* The vibrant danjiri tradition dates back three centuries, but two recent fatalities have prompted anxiety over whether participants can remain safe.
+* 充满活力的丹吉里传统可以追溯到三个世纪前，但最近两起死亡事件引发了人们对参与者能否保持安全的担忧。
+* After almost a decade away from Springfield, the character returned to the show, this time voiced by a South Asian actor rather than a white man.
+* 离开斯普林菲尔德将近十年后，这个角色又回到了节目中，这次是由南亚演员而不是白人配音。
 * A satellite image sent researchers to a remote Pacific atoll, but their findings brought no resolution to the decades-old search. Here’s what to know.
 * 一张卫星图像将研究人员送到了一个偏远的太平洋环礁，但他们的发现并没有给数十年的搜索带来任何解决方案。以下是须知事项。
 * A prolonged housing crash, sluggish consumer spending and plunging investment have left China dependent on exports to keep the economy growing.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 这种致命的人群事件在印度相对常见，目前还不清楚是什么原因造成的。当局拘留了活动的组织者和其他相关人员。
 * Abhijeet Dipke, the founder of the Cockroach Janta Party, was detained on his way to a protest called to demand the resignation of India’s top election official.
 * 蟑螂党创始人阿比吉特·迪普克（ Abhijeet Dipke ）在前往要求印度最高选举官员辞职的抗议活动途中被拘留。
-* Toru Utsumi, 60, works as a management consultant, but on his days off, he has become a global internet star — despite some local disapproval.
-* 60岁的内海彻（ Toru Utsumi ）是一名管理顾问，但在休假期间，他已成为全球互联网明星--尽管当地有些人不赞成。
-* Toru Utsumi has won more than a million fans on TikTok and Instagram with short, fancy-free videos.
-* Toru Utsumi在TikTok和Instagram上通过简短、免费的视频赢得了超过一百万粉丝。
-* Stranded in a port waterway for weeks, the 10-foot fish has attracted more than a million spectators, while officials try to guide her back to open sea.
-* 这条10英尺长的鱼被困在港口水道数周，吸引了100多万观众，而官员则试图引导她回到公海。
-* A teacher and 32 children were killed in northwest Pakistan in an episode has prompted safety inspections of schools across the region.
-* 在巴基斯坦西北部，一名教师和32名儿童在一次事件中丧生，这促使对该地区学校进行安全检查。
 
