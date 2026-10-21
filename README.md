@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Europe’s centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change.
-* 欧洲的中间派政党在年轻人和工人中正在失去立足之地，他们越来越受到民粹主义激进变革承诺的诱惑。
-* The restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials.
-* 这些限制是国家在该国多年来最大的骚乱后重新控制的努力的一部分，因为在混乱中被捕的人面临快速审判。
-* The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it. Officials there warn of an impending humanitarian disaster.
-* 伊朗支持的胡塞民兵封锁了通往也门最大城市之一塔伊兹的道路。那里的官员警告即将发生的人道主义灾难。
-* R.A.F. Typhoon fighter jets will be deployed to protect infrastructure in Saudi Arabia, Britain said, after a spike in attacks by the Iran-backed Houthi militia.
-* 英国表示，在伊朗支持的胡塞民兵袭击激增后，英国将部署皇家空军台风战斗机来保护沙特阿拉伯的基础设施。
-* The secretary of state will meet with Asia’s richest men in Mumbai as Washington continues negotiations over a trade deal with India.
-* 这位国务卿将在孟买会见亚洲最富有的人，届时华盛顿将继续就与印度的贸易协议进行谈判。
-* A self-taught chef borrows ingredients and ideas from restaurants run by immigrants in South Africa, hoping to help counter rising xenophobia.
-* 一位自学成才的厨师借鉴了南非移民经营的餐厅的食材和创意，希望能够帮助应对不断上升的仇外心理。
-* The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too.
-* 靠近海地首都的肯斯科夫市市长向政府官员写了数百封信，警告帮派威胁。然后几十个人死了，他也死了。
-* Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu and Israel’s defense minister, a week before a pivotal election.
-* 在关键选举前一周，国防部长皮特·赫格塞斯会见了以色列总理本雅明·内塔尼亚胡和以色列国防部长。
-* Residents of the province were asked if they wish to remain in Canada or to hold another vote on breaking away, in a referendum that left both sides unhappy.
-* 该省的居民被问及他们是否愿意留在加拿大，还是在公投中再次投票脱离，这让双方都不满意。
-* Plans to build one of Europe’s largest data centers in Devon have been met by strong opposition from residents, as environmental concerns grow.
-* 随着环境问题日益严重，在德文郡建造欧洲最大的数据中心之一的计划遭到了居民的强烈反对。
+* Many in Gaza and the West Bank are desperate to avoid more years of Prime Minister Benjamin Netanyahu’s right-wing government, which has made life close to unbearable.
+* 加沙和约旦河西岸的许多人迫切希望避免本雅明·内塔尼亚胡（ Benjamin Netanyahu ）总理的右翼政府继续执政多年，这让生活变得难以忍受。
+* Speaking in Qatar, President Emmanuel Macron railed against foreign leaders who he said had made false claims about unrest in France for their own political ends.
+* 埃马纽埃尔·马克龙（ Emmanuel Macron ）总统在卡塔尔发表讲话时抨击了外国领导人，他说这些领导人出于自己的政治目的虚假声称法国的动乱。
+* Prime Minister Andy Burnham announced a campaign against listening to music or videos without headphones on public transportation. We asked London commuters to weigh in.
+* 总理安迪·伯纳姆（ Andy Burnham ）宣布了一项反对在公共交通工具上听没有耳机的音乐或视频的运动。我们请伦敦的通勤者称重。
+* Struggling against each other on the battlefield, the sides in Sudan’s civil war are relying on drones to strike across vast distances, inflicting huge tolls on civilians in the process.
+* 苏丹内战双方在战场上相互斗争，依靠无人机进行远距离打击，在这一过程中造成了平民的巨大伤亡。
+* Much remains unclear about why a driver ran a car into Helen Haines, a lawmaker. Even so, fellow representatives, especially women, spoke of feeling threatened in a polarized atmosphere.
+* 目前尚不清楚为什么一名司机开车撞到了立法者海伦·海恩斯（ Helen Haines ）。即便如此，其他代表，尤其是女性，也谈到了在两极分化的气氛中受到威胁的感觉。
+* Mr. Hubbard, a 74-year-old teacher, was held for more than four years on what the State Department called fabricated charges.
+* 74岁的哈伯德先生因国务院所谓的捏造指控而被关押了四年多。
+* Brazil spent years targeting electoral lies on the internet. Now, artificial intelligence is stumping the election authorities and reshaping a high-stakes race.
+* 巴西花了数年时间瞄准互联网上的选举谎言。现在，人工智能正在阻碍选举当局，重塑一场高风险的竞选。
+* Ukraine says it still doesn’t know why the military satellite internet service, a sister to Starlink, was abruptly throttled, leaving troops vulnerable to Russian attacks.
+* 乌克兰表示，它仍然不知道为什么Starlink的姐妹军事卫星互联网服务突然受到限制，使部队容易受到俄罗斯的攻击。
+* Prime Minister Mark Carney won over Canada’s most conservative province by promising a pipeline and campaigning hard, defeating its efforts to secede.
+* 总理马克·卡尼（ Mark Carney ）通过承诺输油管道和艰苦的竞选活动赢得了加拿大最保守的省份，击败了其脱离的努力。
+* The 10-foot-long dusky shark, nicknamed “Bukangi,” was successfully guided back to the open ocean after a third rescue attempt.
+* 绰号“Bukangi”的10英尺长的昏暗鲨鱼在第三次救援尝试后被成功引导回公海。
 
 ## New York Times United States News
-* The liberal pro-Israel advocacy group’s ads denouncing incumbents in Iowa and Pennsylvania put it at odds with the larger organization for the first time.
-* 这个自由主义的亲以色列倡导团体的广告谴责了爱荷华州和宾夕法尼亚州的现任者，首次与这个更大的组织发生了冲突。
-* The party apparatus is taking advantage of its enormous war chest, as well as a Supreme Court campaign-finance ruling this year, to send tens of millions into congressional races.
-* 该党机构正在利用其庞大的战争资金，以及最高法院今年的竞选财政裁决，将数千万人送入国会竞选。
-* The midterm elections appear to be a factor for both sides in the war as President Trump weighs his next steps.
-* 随着特朗普总统权衡他的下一步行动，中期选举似乎是战争双方的一个因素。
-* Expected windfalls from I.P.O.s are drawing health leaders into a race for billions in new philanthropic dollars. A fragile aid system may be upended.
-* I.P.O.的预期意外收获正在吸引卫生领导者竞相筹集数十亿美元的新慈善资金。脆弱的援助系统可能会被颠覆。
-* Bow Mar says restricting access to its public streets is a safety necessity. Critics see a miniature border wall.
-* Bow Mar表示，限制进入公共街道是安全的必要条件。评论家们看到了一堵微型边墙。
-* Thousands of Israelis living in the United States are expected to fly to Israel to vote in the country’s national election this month.
-* 预计数千名居住在美国的以色列人将飞往以色列参加本月的全国大选投票。
-* Attorney General Lynn Fitch issued a terse statement, months after officers, responding to a report of stolen diapers, surrounded a car, guns drawn.
-* 司法部长林恩·菲奇（ Lynn Fitch ）发表了一份简短的声明，几个月后，警官们回应了一份关于尿布被盗的报告，包围了一辆汽车，枪支被拔出。
-* A retired pilot helped an Ohio historical society become the new owner of the Wapakoneta home where the first man on the moon spent his high school days.
-* 一位退休的飞行员帮助俄亥俄州的一个历史学会成为Wapakoneta住宅的新主人，在那里，第一个登上月球的人度过了他的高中时光。
-* The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.
-* 总统最近采取的一系列似乎有利于弗拉基米尔·普京的措施反映了他对与莫斯科关系正常化的强烈愿望，即使这意味着进一步削弱乌克兰。
-* The effort comes as Republicans are struggling to win over female voters two weeks before the midterm elections.
-* 在中期选举前两周，共和党人正在努力争取女性选民。
+* Nearly 1,000 people were told to leave the area and others were urged to shelter in place, as a hazardous chemical was still leaking on Wednesday, officials said.
+* 官员说，近1000人被告知离开该地区，其他人被敦促到位避难，因为一种危险化学品周三仍在泄漏。
+* The move buys good will with President Trump while costing the President Vladimir V. Putin — who is wanted for war crimes — little.
+* 此举收买了特朗普总统的善意，而对因战争罪而被通缉的弗拉基米尔· V ·普京(Vladimir V. Putin)总统的损失却很小
+* Likely voters favored Democratic candidates over Republicans by 11 percentage points in their congressional district, a New York Times/Siena poll found.
+* 《纽约时报》/锡耶纳的一项民意调查发现，在国会选区，民主党候选人可能比共和党候选人支持11个百分点。
+* Former employees of the publication say new leadership has been pushing back on independent journalism. About half of its staff members have left or been laid off over 14 months.
+* 该出版物的前员工表示，新领导层一直在抵制独立新闻。大约一半的员工在14个月内离职或被解雇。
+* As a mountaineer and extreme runner, Jonathan Kreiss-Tomkins is thoroughly Alaskan, and thanks to Republican infighting and the state’s deep troubles, he just might win next month.
+* 作为一名登山运动员和极限跑者，乔纳森·克赖斯-汤姆金斯（ Jonathan Kreiss-Tomkins ）完全是阿拉斯加人，由于共和党的内斗和该州的深刻麻烦，他下个月可能会获胜。
+* With the A.I. boom driving up prices, the city is subsidizing child care for households with high incomes. Even with the help, families say they are struggling.
+* 随着人工智能的繁荣推动价格上涨，该市正在为高收入家庭的儿童保育提供补贴。即使在帮助下，家庭也表示他们正在挣扎。
+* The body-camera and surveillance footage provides the first glimpse of a confrontation in a Walmart parking lot that left 1-year-old Kohen Wiley dead.
+* 身体摄像头和监控录像提供了沃尔玛停车场发生冲突的第一瞥，导致1岁的Kohen Wiley死亡。
+* The enormous spending by the term-limited president’s super PAC has no parallel in American history, and could offer struggling Republican candidates a lifeline.
+* 这位任期有限的总统的超级政治行动委员会的巨额支出在美国历史上是前所未有的，可以为陷入困境的共和党候选人提供生命线。
+* Peter Baker, our chief White House correspondent, reports from Oslo, where Ukraine’s President, Volodymyr Zelensky, met with President Trump’s special envoy, Steve Witkoff.
+* 白宫首席记者彼得·贝克（ Peter Baker ）在奥斯陆报道，乌克兰总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）在奥斯陆会见了特朗普总统的特使史蒂夫·维特科夫（ Steve Wit
+* The justice said during a discussion that recent Supreme Court decisions on voting rights, gerrymandering and campaign finance have deepened America’s divides.
+* 司法部在一次讨论中表示，最高法院最近关于投票权、划界和竞选资金的裁决加深了美国的分歧。
 
 ## New York Times Asia News
+* The 10-foot-long dusky shark, nicknamed “Bukangi,” was successfully guided back to the open ocean after a third rescue attempt.
+* 绰号“Bukangi”的10英尺长的昏暗鲨鱼在第三次救援尝试后被成功引导回公海。
+* The storm reached sustained winds of nearly 185 miles per hour on Wednesday. It is expected to weaken later, and its path remains uncertain.
+* 周三，风暴达到了每小时近185英里的持续风速。预计稍后会减弱，其路径仍不确定。
+* A boardroom fight, an attempted veto and government intervention have plunged the Tata Group, one of India’s most revered institutions, into a fight over its future.
+* 董事会斗争、企图否决和政府干预使印度最受尊敬的机构之一塔塔集团陷入了一场关于其未来的斗争。
+* Much remains unclear about why a driver ran a car into Helen Haines, a lawmaker. Even so, fellow representatives, especially women, spoke of feeling threatened in a polarized atmosphere.
+* 目前尚不清楚为什么一名司机开车撞到了立法者海伦·海恩斯（ Helen Haines ）。即便如此，其他代表，尤其是女性，也谈到了在两极分化的气氛中受到威胁的感觉。
+* Draft rules on the export of artificial intelligence technology show how China is trying to balance national security risks with its desire to outpace the United States.
+* 关于人工智能技术出口的规则草案显示，中国正试图平衡国家安全风险和超越美国的愿望。
+* Leaders of India’s governing coalition are trying to frame the demonstrations as a power grab by traditional political parties rather than a grass-roots youth movement.
+* 印度执政联盟的领导人正试图将示威活动视为传统政党而不是基层青年运动的权力攫取。
+* The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.
+* 在国土安全部下令删除和排除这家中国公司开发的产品后，做出了回应。
 * The secretary of state will meet with Asia’s richest men in Mumbai as Washington continues negotiations over a trade deal with India.
 * 这位国务卿将在孟买会见亚洲最富有的人，届时华盛顿将继续就与印度的贸易协议进行谈判。
 * Helen Haines, an independent, remained in critical condition after she was struck by a vehicle. A 43-year-old man was charged and will appear in court on Wednesday.
 * 海伦·海恩斯（ Helen Haines ）是一名独立人士，在被车辆撞击后仍处于危急状态。一名43岁的男子被起诉，并将于周三出庭。
 * The vibrant danjiri tradition dates back three centuries, but two recent fatalities have prompted anxiety over whether participants can remain safe.
 * 充满活力的丹吉里传统可以追溯到三个世纪前，但最近两起死亡事件引发了人们对参与者能否保持安全的担忧。
-* After almost a decade away from Springfield, the character returned to the show, this time voiced by a South Asian actor rather than a white man.
-* 离开斯普林菲尔德将近十年后，这个角色又回到了节目中，这次是由南亚演员而不是白人配音。
-* A satellite image sent researchers to a remote Pacific atoll, but their findings brought no resolution to the decades-old search. Here’s what to know.
-* 一张卫星图像将研究人员送到了一个偏远的太平洋环礁，但他们的发现并没有给数十年的搜索带来任何解决方案。以下是须知事项。
-* A prolonged housing crash, sluggish consumer spending and plunging investment have left China dependent on exports to keep the economy growing.
-* 长期的房地产崩溃、消费者支出低迷和投资暴跌使中国依赖出口来保持经济增长。
-* Rahul Gandhi is the descendant of three prime ministers. A surge of protests could give him a springboard to take on the nation’s current leader.
-* 拉胡尔·甘地是三位总理的后裔。抗议活动的激增可能会给他带来一块跳板，迎战现任国家领导人。
-* Three celebrities date artificial intelligence avatars on a reality show made in South Korea, where A.I. is hugely popular.
-* 三位名人在韩国制作的真人秀节目中与人工智能头像约会，人工智能在韩国非常受欢迎。
-* Such deadly crowd events are relatively common in India, and it was unclear what caused this one. The authorities detained the event’s organizer and others involved.
-* 这种致命的人群事件在印度相对常见，目前还不清楚是什么原因造成的。当局拘留了活动的组织者和其他相关人员。
-* Abhijeet Dipke, the founder of the Cockroach Janta Party, was detained on his way to a protest called to demand the resignation of India’s top election official.
-* 蟑螂党创始人阿比吉特·迪普克（ Abhijeet Dipke ）在前往要求印度最高选举官员辞职的抗议活动途中被拘留。
 
