@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America.
-* 左翼现任者路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）和右翼挑战者弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）在一场可能重新定义拉丁美洲未来的狭隘比赛中对决。
-* While the police kept a lid on vandalism, the huge number of protesters, and France’s fraught politics, suggest unrest could grow.
-* 虽然警方对破坏行为保持沉默，但大量抗议者和法国令人担忧的政治局势表明，动乱可能会加剧。
-* The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month and have threatened to strike it again.
-* 伊朗支持的也门民兵胡塞武装本月对机场发动了几次致命袭击，并威胁要再次袭击机场。
-* A student-led movement is challenging the governing party of Aleksandar Vucic, who has dominated Serbian politics for over a decade.
-* 一个以学生为主导的运动正在挑战亚历山大·武契奇（ Aleksandar Vucic ）的执政党，他十多年来一直主导塞尔维亚政治。
-* Israelis head to the polls on Tuesday for an election that will determine the country’s next prime minister. But it can take weeks, months or longer to form a new government.
-* 以色列人将于周二前往投票站进行选举，以决定该国的下一任总理。但组建新政府可能需要数周、数月或更长时间。
-* Making a home on the world’s most remote inhabited island.
-* 在世界上最偏远有人居住的岛屿上安家。
-* The comments came after the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.
-* 这些评论是在该国卫星服务中断之后发表的。早些时候，乌克兰表示，使用五角大楼资助的Starshield服务的无人机已恢复正常速度。
-* The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents.
-* 美国和以色列已经制定了重新对伊朗发动罢工的计划，在厌倦战争的居民中制造了一种恐惧感。
-* Fed up with the political establishment and rising cost of living, demonstrators hoped to make their message heard after violence overshadowed protests last weekend.
-* 由于厌倦了政治体制和不断上升的生活成本，示威者希望在上周末的暴力事件掩盖了抗议活动之后传达他们的信息。
-* The police said on Saturday that the structure, a tourist attraction for decades, was probably not salvageable. A man was arrested in connection with the blaze.
-* 警方周六表示，这座几十年来一直是旅游景点的建筑可能无法挽救。一名男子因与大火有关而被捕。
+* Much has been said about how Ukraine should treat Russian prisoners of war. Less attention has been paid to the emotional struggle for the Ukrainians tasked with that work.
+* 关于乌克兰应该如何对待俄罗斯战俘，已经说了很多。负责这项工作的乌克兰人对情感斗争的关注较少。
+* Supporters and opponents of Prime Minister Benjamin Netanyahu have expressed intense anxieties about isolation abroad, security at home and the future of Israel’s identity.
+* 以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）的支持者和反对者对海外孤立、国内安全和以色列身份的未来表达了强烈的焦虑。
+* President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago.
+* 总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）战胜了弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ） ，他是四年前击败的右翼领导人的长子。
+* Saudi Arabia, Turkey and Pakistan made a rare joint visit to Tehran amid reports that the U.S. and Israel were drawing up plans to renew their attacks on Iran.
+* 沙特阿拉伯、土耳其和巴基斯坦罕见地对德黑兰进行了联合访问，有报道称美国和以色列正在制定重新对伊朗发动袭击的计划。
+* Norwegian officials emphasized that their government does not have any influence over who receives the Peace Prize, after President Trump used crude language to express his frustration.
+* 挪威官员强调，在特朗普总统使用粗鲁的语言表达自己的沮丧之后，他们的政府对谁获得和平奖没有任何影响力。
+* The Chinese leader Xi Jinping, who is likely preparing to secure a fourth term in power in 2027, has complained that officials cannot be trusted.
+* 中国领导人习近平可能准备在2027年获得第四个任期，他抱怨官员不可信。
+* The U.S. Army is training Apache pilots to shoot down drones as militaries around the world assess the efficacy of 20th-century technologies in a new era.
+* 美国陆军正在训练阿帕奇飞行员击落无人机，世界各地的军队正在评估20世纪技术在新时代的功效。
+* “It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.
+* “很明显，我们已经失去了这些选举，”亚历山大·武契奇（ Aleksandar Vucic ）在一次令人惊讶的早期演讲中祝贺他的对手。
+* After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.
+* 在流亡近10个月后，诺贝尔奖获得者马查多女士回来挑战那些排斥她的领导人，并敦促进行新的选举。
+* Nine people were killed and dozens were wounded in the attack last week on a Greek Orthodox Church in southern Jordan.
+* 上周，约旦南部一座希腊东正教教堂遭到袭击，造成9人死亡，数十人受伤。
 
 ## New York Times United States News
-* Democratic candidates are ahead in two, hold a narrow edge in a third and are tied in a fourth, new polling shows. The seats embody the fights playing out nationwide in the midterms.
-* 民主党候选人在两项中领先，在第三项中保持狭窄优势，在第四项新的民意调查中并列。这些席位体现了中期全国范围内的战斗。
-* The bank would offer low-interest loans to community projects in the East Bay region of Northern California.
-* 该银行将为北加州东湾地区的社区项目提供低息贷款。
-* Latinos helped fuel President Trump’s return to the White House. But Democrats have won back the trust of many Hispanic voters over the past two years.
-* 拉丁裔帮助推动特朗普总统重返白宫。但民主党在过去两年中赢得了许多西班牙裔选民的信任。
-* Our politics reporter Kellen Browning walks through the four Senate races that progressive Democrats are closely watching in the upcoming midterm elections.
-* 我们的政治记者凯伦·布朗宁（ Kellen Browning ）介绍了进步民主党在即将到来的中期选举中密切关注的四场参议院竞选。
-* Senator Roger Marshall was slow to recognize the steep challenge he faced in his solidly conservative state. Now he is confronting dissent among voters with deep economic worries.
-* 参议员罗杰·马歇尔（ Roger Marshall ）迟迟没有意识到他在坚定保守的州所面临的严峻挑战。现在，他正面临着选民对经济深感担忧的异议。
-* In his campaign for governor, Zach Lahn has pitched himself as a self-made businessman. His backstory is more complicated.
-* 在州长竞选中，扎克·拉恩（ Zach Lahn ）将自己定位为一名白手起家的商人。他的背景更复杂。
-* Rick Jackson’s run for governor as a political nobody was his latest gamble. The campaign has brought scrutiny to the businesses that made him a fortune.
-* 里克·杰克逊（ Rick Jackson ）作为政治人物竞选州长，这是他最新的赌博。这场竞选活动给那些让他发家致富的企业带来了审查。
-* Marci Webber was institutionalized after being convicted by reason of insanity for killing her 4-year-old daughter. For years she has said she is cured and should be freed.
-* 马西·韦伯（ Marci Webber ）因杀害她4岁的女儿而因精神错乱而被定罪后被送进了医院。多年来，她一直说自己已经痊愈，应该被释放。
-* The shooting occurred hours after the university’s homecoming game. The youngest victim was 11, the police said.
-* 枪击事件发生在大学返校比赛几小时后。警方称，最小的受害者是11岁。
-* Read the detailed methodology behind the Times Voter Trends reports for 2024 and 2020.
-* 阅读《泰晤士报》2024年和2020年选民趋势报告背后的详细方法。
+* The request comes as Democrats are working to paint Republicans as corrupt and highlight their plans to investigate Trump should they win the midterm elections.
+* 这一要求是在民主党人正在努力将共和党人描绘成腐败分子，并强调如果他们赢得中期选举，他们将调查特朗普的计划之际提出的。
+* Joe Lombardo, the governor of Nevada, was favored to win a second term. Now he’s in one of the nation’s tightest contests.
+* 内华达州州长乔·隆巴多（ Joe Lombardo ）有望赢得第二个任期。现在他参加了全国最激烈的比赛之一。
+* Mr. Paxton, the Republican candidate for Senate in Texas, has taken about 350 trips outside of the state since he was sworn in as attorney general.
+* 帕克斯顿是德克萨斯州参议院的共和党候选人，自从他宣誓就任总检察长以来，他已经在该州境外旅行了大约350次。
+* A Platner superfan’s reluctance to support the Democrat now running against Senator Susan Collins reflects the party’s challenges navigating left-wing passions.
+* 普拉特纳的超级粉丝不愿意支持现在与参议员苏珊·柯林斯（ Susan Collins ）竞选的民主党人，这反映了该党在左翼激情中面临的挑战。
+* Hundreds of households in North Carolina remain without a private bridge two years after Hurricane Helene. Many are frustrated by a state program’s progress.
+* 飓风海伦过后两年，北卡罗来纳州仍有数百户家庭没有私人桥梁。许多人对国家计划的进展感到沮丧。
+* President Trump will stump for a senator in a state he has won three times by double digits, and as Democrats see a path to victory.
+* 特朗普总统将在他三次以两位数获胜的州竞选参议员，随着民主党人看到通往胜利的道路。
+* As political fights over artificial intelligence accelerate, there is now a super PAC aligned with the data center industry. Its first bet is on Ms. Graham, a Republican in an unexpectedly tight race.
+* 随着围绕人工智能的政治斗争加剧，现在有一个与数据中心行业保持一致的超级PAC。它的第一个赌注是共和党人格雷厄姆女士，她参加了一场意想不到的激烈竞选。
+* It’s Oct. 26 — eight days from the midterms. Here’s the state of play.
+* 现在是10月26日，距离期中考试还有8天。这就是游戏的状态。
+* Democrats are targeting G.O.P. strongholds that could set them up for new majorities. But if they don’t win those races now, it could be a long time before they have another chance.
+* 民主党人正在瞄准共和党的据点，这些据点可能会为新的多数派奠定基础。但如果他们现在没有赢得这些比赛，那么他们可能还需要很长时间才能再次有机会。
+* Democratic attorneys general have spearheaded state resistance to President Trump’s policies. But some face tight election races despite polls showing broad voter support for Democrats.
+* 民主党总检察长带领国家抵制特朗普总统的政策。但尽管民意调查显示选民广泛支持民主党人，但一些人仍面临紧张的选举竞选。
 
 ## New York Times Asia News
+* Gadi Eisenkot has emerged as Benjamin Netanyahu’s main opponent in the upcoming elections. The New York Times Jerusalem bureau chief, David Halbfinger, describes why Mr. Eisenkot is resonating with Israeli voters.
+* 加迪·艾森科特（ Gadi Eisenkot ）已成为本雅明·内塔尼亚胡（ Benjamin Netanyahu ）在即将举行的选举中的主要对手。《纽约时报》耶路撒冷分社社长大卫·哈尔布芬格（ David Halbfinger ）描述了为什么艾森科特与以色列选民产生共鸣。
+* The Chinese leader Xi Jinping, who is likely preparing to secure a fourth term in power in 2027, has complained that officials cannot be trusted.
+* 中国领导人习近平可能准备在2027年获得第四个任期，他抱怨官员不可信。
 * The North Korean leader crossed the border on a newly opened bridge for the trip, as the two countries move to deepen ties.
 * 随着两国加深关系，这位朝鲜领导人通过一座新开启的桥梁越过边境。
 * Four takeaways from India’s protest movement, at a moment when democracies around the world are under pressure.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 一位专家表示，在选举年，市长宣布因台风而关闭工作和学校的可能性增加了31%。
 * Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language.
 * 世界各地的政府和企业争先恐后地阻止黑客利用流行编程语言PHP中的漏洞。
-* Debris was found in Indonesia on Monday, just days after a farmer across the globe in Minnesota reported a massive metal object thought to be space junk in a cornfield.
-* 周一在印度尼西亚发现了碎片，就在几天前，明尼苏达州的一名全球农民报告了一个巨大的金属物体，被认为是玉米田中的太空垃圾。
-* Smoke from the blazes, blamed on destructive agricultural practices, has sickened hundreds of thousands and blanketed neighboring countries.
-* 大火产生的烟雾被归咎于破坏性的农业做法，已使数十万人患病，并覆盖了邻国。
 
