@@ -2,50 +2,54 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Tens of thousands gathered in India’s capital in a clamor of banging drums, chants and billowing flags, with participants from across the country.
-* 成千上万的人聚集在印度首都，喧闹的鼓声，吟唱和摇曳的旗帜，来自全国各地的参与者。
-* Notching wins from Washington, the Russian leader is talking with foreign leaders and could return to diplomatic center stage with possible summit meetings.
-* 这位俄罗斯领导人正在与外国领导人进行谈判，并可能通过可能的峰会重返外交中心舞台。
-* After losing ground in Israel’s election, Prime Minister Benjamin Netanyahu must draw on decades of political capital and reckon with old foes if he is to build a governing coalition.
-* 在以色列大选中失利后，总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）必须利用数十年的政治资本，并与老对手打交道，才能建立执政联盟。
-* Safely out of Oleshky after enduring years in the combat zone and a harrowing 24-hour journey, weary civilians reunited with family and friends.
-* 经过多年的战斗区和24小时的艰苦旅程，疲惫不堪的平民与家人和朋友团聚，安全离开了奥列什基。
-* Having won a record 19 seats in Israel’s Parliament, the two Arab-led parties say they want to work with opposition factions to take down the Netanyahu government.
-* 这两个阿拉伯人领导的政党在以色列议会赢得了创纪录的19个席位，他们表示希望与反对派合作，推翻内塔尼亚胡政府。
-* The rise of Korean terms in Japanese is a striking reversal from colonial times and a sign of the global appeal of South Korean culture.
-* 日语中韩语术语的崛起是殖民时代的惊人逆转，也是韩国文化全球吸引力的标志。
-* Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.
-* 曼谷的消防员捕捉蛇的次数多于消防， Pinyo Pukpinyo负责训练。但他拒绝杀死蛇，容器也快用完了。
-* More than 300,000 people took to the streets, some wearing Halloween costumes, before the demonstrations ended in violence.
-* 在示威活动以暴力结束之前，超过30万人走上街头，其中一些人穿着万圣节服装。
-* This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime.
-* 本周63亿美元的币安黑客攻击是规模最大的加密货币黑客攻击，也是朝鲜人在多年无耻的网络犯罪中窃取的最大黑客攻击。
-* A 500-day campaign to find and identify fallen soldiers has unearthed hundreds of bodies, but not everyone gets a chance at closure.
-* 为期500天的寻找和识别阵亡士兵的运动已经出土了数百具尸体，但并不是每个人都有机会关闭。
+* The strike in the Zaporizhzhia region came a day after a brief humanitarian truce ended in neighboring Kherson.
+* 扎波罗热地区的罢工发生在邻近的赫尔松短暂的人道主义休战结束后的第二天。
+* Rejecting President Trump’s election denial playbook, nationalist leaders in Serbia and Hungary opted for an orderly retreat.
+* 塞尔维亚和匈牙利的民族主义领导人拒绝了特朗普总统的选举否认剧本，选择了有序撤退。
+* After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.
+* 在其盟友在匈牙利和塞尔维亚的选举中被驱逐后，莫斯科抓住了波兰的宪法僵局，试图削弱欧洲对乌克兰的支持。
+* The decision is the latest measure taken against the country, which the administration has accused of discriminating against white people.
+* 该决定是针对该国采取的最新措施，政府指控该国歧视白人。
+* Iranian officials spoke of some progress in negotiating to reopen the strait even as they prepared for all-out war. A Qatari delegation arrived in Tehran on Monday to meet with the foreign minister to continue talks.
+* 伊朗官员谈到了在重新开放海峡的谈判中取得的一些进展，尽管他们正在为全面战争做准备。卡塔尔代表团周一抵达德黑兰，与外交部长会面，继续会谈。
+* Party leaders will make competing cases to the Israeli president for either Benjamin Netanyahu or Gadi Eisenkot to get the first chance to build a governing coalition.
+* 该党领导人将向以色列总统本雅明·内塔尼亚胡（ Benjamin Netanyahu ）或加迪·艾森科特（ Gadi Eisenkot ）提出竞争案例，以获得建立执政联盟的第一次机会。
+* During the king’s visits to three former colonies, many people came out for celebratory parades and events. Others said the British state needed to atone for slavery’s toll.
+* 在国王访问三个前殖民地期间，许多人出来参加庆祝游行和活动。其他人说，英国政府需要弥补奴隶制造成的损失。
+* Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost.
+* 与美国总统不同，教皇利奥十四世没有私人飞机，所以他和我们其他人一样乘坐商业航空公司。嗯，差不多了。
+* It’s not just rare earths. China is making it harder for other countries to shed their dependence on its solar, drone and drugmaking technology.
+* 不仅仅是稀土。中国正在使其他国家更难摆脱对其太阳能、无人机和制药技术的依赖。
+* The long-running comedy show “This Hour Has 22 Minutes” is having a heyday playing with the fraught relationship between President Trump and Canada.
+* 长期播出的喜剧节目“This Hour Has 22 Minutes”正在全盛时期播放特朗普总统与加拿大之间令人担忧的关系。
 
 ## New York Times United States News
-* From cowboy boots to corridos, the candidates for U.S. Senate are competing to prove their Texas bona fides.
-* 从牛仔靴到走廊，美国参议院的候选人正在竞相证明他们在德克萨斯州的诚意。
-* Messages sent by the I.R.S. and the Social Security Administration days before the midterms could violate the Hatch Act, which restricts political activity by federal employees.
-* 国税局和社会保障管理局在中期选举前几天发送的消息可能违反《哈奇法案》，该法案限制了联邦雇员的政治活动。
-* 
-* 
-* The Texas governor is locked in a tough re-election fight and, Republican consultants said, having Ken Paxton at the top of the ticket is not helping.
-* 共和党顾问说，德克萨斯州州长陷入了一场艰难的连任斗争，让肯·帕克斯顿(Ken Paxton)站在竞选票的顶端无济于事。
-* Beyond hotly contested Senate and governor’s races, Alaskans will decide Tuesday whether to scrap the state’s unique ballot. The campaign of Mary Peltola may have bolstered critics of the system.
-* 除了激烈争议的参议院和州长竞选之外，阿拉斯加人将于周二决定是否取消该州的独特选票。玛丽·佩尔托拉（ Mary Peltola ）的竞选活动可能支持了对该系统的批评。
-* An influx of new residents means the party that controls Southern states is likely to gain political power after the next census.
-* 新居民的涌入意味着控制南方各州的政党可能会在下一次人口普查后获得政治权力。
-* The decades-old organization, which pushes to end sexual violence, plans to marshal students across more than 90 campuses on Sunday.
-* 这个有着数十年历史的组织致力于结束性暴力，计划于周日在90多个校园中组织学生。
-* The outcome of the state’s ballot initiative for a billionaires tax could set the tone for the broader Democratic debate about how to raise more revenue.
-* 该州对亿万富翁税收的投票结果可能为民主党关于如何筹集更多收入的更广泛辩论定下基调。
-* Across the country, many voters have drawn a straight line between President Trump’s policies and inflation.
-* 在全国范围内，许多选民在特朗普总统的政策和通货膨胀之间划出了一条直线。
-* Battles over Israel, antisemitism and race have shaken Beverly Hills in recent years and divided the formerly Democratic enclave.
-* 近年来，围绕以色列、反犹太主义和种族的斗争动摇了比佛利山庄，并分裂了前民主党飞地。
+* Douglas DePodesta says he was forced out of his job after U.S. Attorney Andrew S. Boutros’s prosecutions of protesters known as the Broadview Six fell apart.
+* 道格拉斯·德波德斯塔（ Douglas DePodesta ）说，在美国检察官安德鲁· S ·布特罗斯（ Andrew S. Boutros ）对被称为Broadview Six的抗议者的起诉破裂后，他被迫辞职。
+* Trump administration officials had sought admissions data from Harvard, including student application essays, to see if the school was complying with a court decision banning affirmative action.
+* 特朗普政府官员曾要求哈佛提供招生数据，包括学生申请论文，以确定该校是否遵守禁止平权行动的法院裁决。
+* Protecting the vote was once considered among the top priorities of the Cybersecurity and Infrastructure Security Agency. Now it barely mentions the issue.
+* 保护投票曾经被认为是网络安全和基础设施安全局的首要任务之一。现在它几乎没有提到这个问题。
+* A super PAC called Our Heritage Matters, which was registered less than a month ago, has spent $6.5 million in the last days of campaigning to promote obscure candidates over Republicans it portrays as liberals.
+* 一个名为Our Heritage Matters的超级PAC在不到一个月前注册，在最后几天的竞选活动中花费了650万美元($ 650万) ，以宣传晦涩难懂的候选人，而不是它所描绘的自由派共和党人。
+* The president has repeatedly complimented Senator Jon Husted’s body. For better or worse, it has caught the attention of voters and raised Mr. Husted’s profile in a key midterm race.
+* 总统一再称赞参议员乔恩·赫斯特德（ Jon Husted ）的身体。无论好坏，它都引起了选民的注意，并在一场关键的中期竞选中提升了Husted先生的形象。
+* Some Florida Republicans, including Gov. Ron DeSantis, have started to sound alarms about sluggish turnout among their voters.
+* 包括州长罗恩·德桑蒂斯（ Ron DeSantis ）在内的一些佛罗里达州共和党人已开始对其选民投票率低迷发出警报。
+* “We just have to protect those people,” President Trump said in an interview, when asked about potential investigations of allies and administration officials if Democrats won control of Congress.
+* “我们只需要保护这些人，”当被问及民主党是否赢得国会控制权时，特朗普总统在接受采访时表示。
+* Our polls suggest the economy is biggest motivator of voters’ choices in these midterm elections and that Democrats are more trusted to fix things.
+* 我们的民意调查显示，经济是这些中期选举中选民选择的最大动力，民主党人更信任解决问题。
+* Mr. Turkish, 39, is a longtime Democratic donor and disability rights lawyer. He endorsed Republican Mike Rogers for U.S. Senate on Wednesday.
+* 39岁的土耳其先生是长期的民主党捐赠者和残疾人权利律师。周三，他支持共和党人迈克·罗杰斯（ Mike Rogers ）竞选美国参议
+* A Saudi man is charged with the bombing of the U.S.S. Cole, which killed 17 American sailors in 2000.
+* 一名沙特男子被控轰炸美国科尔号航母，该航母于2000年炸死17名美国水手。
 
 ## New York Times Asia News
+* On TikTok, men and women sent back after living in the United States are documenting the reality of starting over — and finding an audience.
+* 在TikTok上，在美国生活后被送回的男男女女正在记录重新开始的现实—并寻找受众。
+* It’s not just rare earths. China is making it harder for other countries to shed their dependence on its solar, drone and drugmaking technology.
+* 不仅仅是稀土。中国正在使其他国家更难摆脱对其太阳能、无人机和制药技术的依赖。
 * Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.
 * 曼谷的消防员捕捉蛇的次数多于消防， Pinyo Pukpinyo负责训练。但他拒绝杀死蛇，容器也快用完了。
 * Pinyo Pukpinyo, Thailand’s most famous snake catcher, has found the critters slithering in nooks and crannies all over Bangkok. He refuses to kill them.
@@ -62,8 +66,4 @@ Auto RSS New York Times and Translate
 * 为期500天的寻找和识别阵亡士兵的运动已经出土了数百具尸体，但并不是每个人都有机会关闭。
 * The Trump administration plans to fly the Afghan immigrants from Louisiana to Pakistan, where they are expected to be expelled over the border to Afghanistan.
 * 特朗普政府计划将阿富汗移民从路易斯安那州飞往巴基斯坦，预计他们将被驱逐出境前往阿富汗。
-* The day that changed modern China also taught me how to recognize true courage.
-* 改变现代中国的那一天也教会了我如何认识真正的勇气。
-* Call of Duty: Modern Warfare 4 uses actual visuals from a Halloween crowd crush in South Korea, in which over 150 people died in a narrow alleyway.
-* 《使命召唤：现代战争4》使用了韩国万圣节人群的真实视觉效果，其中150多人死于一条狭窄的小巷。
 
