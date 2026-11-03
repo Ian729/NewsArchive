@@ -2,50 +2,52 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* Prime Minister Donald Tusk said there had been “disturbing movement” in Kaliningrad, a Russian region just north of Poland.
+* 总理唐纳德·图斯克（ Donald Tusk ）表示，在波兰北部的俄罗斯地区加里宁格勒发生了“令人不安的运动”。
+* Officials are investigating threats against at least seven planes. The aircraft landed safely and no explosives were found, the authorities said.
+* 官员们正在调查至少七架飞机受到的威胁。当局说，飞机安全降落，没有发现爆炸物。
+* The monarch called Britain’s trafficking of slaves from Africa a “shameful chapter of history” at a meeting of Commonwealth heads of government in Antigua.
+* 在安提瓜举行的英联邦政府首脑会议上，这位君主称英国从非洲贩运奴隶是“可耻的历史篇章”。
+* Over the course of 10 days in a remote Mexican town, dances and processions summon souls in the belief that the dead are never truly gone.
+* 在墨西哥一个偏远小镇的10天里，舞蹈和游行召唤灵魂，相信死者永远不会真正消失。
+* The energy-rich Gulf Arab countries are engaged in a flurry of mediation efforts to avert war between the U.S. and Iran, as many fear that the fighting will be worse this time around.
+* 能源丰富的海湾阿拉伯国家正在进行一系列调解努力，以避免美国和伊朗之间的战争，因为许多人担心这次战斗会变得更糟。
+* President Trump has repeatedly reminded Americans of a losing campaign issue just as voters head to the polls. Why?
+* 特朗普总统一再提醒美国人，就在选民前往投票站时，一个失败的竞选问题。为什么？
+* The weapons have become the No. 1 killer of civilians this year, according to the United Nations, devastating a population already overwhelmed by famine and drought.
+* 根据联合国的数据，这些武器已成为今年平民的头号杀手，摧毁了已经被饥荒和干旱淹没的人口。
+* Arab lawmakers give opponents of Benjamin Netanyahu a clear majority in the Parliament. But many Jewish lawmakers are trying to avoid relying on them.
+* 阿拉伯立法者让本雅明·内塔尼亚胡的反对者在议会中占据明显多数。但许多犹太立法者正试图避免依赖他们。
+* Reddit and an Australian digital advocacy group are claiming a law that restricts children younger than 16 from popular platforms infringes on their constitutional rights.
+* Reddit和澳大利亚一个数字倡导组织声称，一项法律禁止16岁以下儿童进入流行平台，这侵犯了他们的宪法权利。
 * The strike in the Zaporizhzhia region came a day after a brief humanitarian truce ended in neighboring Kherson.
 * 扎波罗热地区的罢工发生在邻近的赫尔松短暂的人道主义休战结束后的第二天。
-* Rejecting President Trump’s election denial playbook, nationalist leaders in Serbia and Hungary opted for an orderly retreat.
-* 塞尔维亚和匈牙利的民族主义领导人拒绝了特朗普总统的选举否认剧本，选择了有序撤退。
-* After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.
-* 在其盟友在匈牙利和塞尔维亚的选举中被驱逐后，莫斯科抓住了波兰的宪法僵局，试图削弱欧洲对乌克兰的支持。
-* The decision is the latest measure taken against the country, which the administration has accused of discriminating against white people.
-* 该决定是针对该国采取的最新措施，政府指控该国歧视白人。
-* Iranian officials spoke of some progress in negotiating to reopen the strait even as they prepared for all-out war. A Qatari delegation arrived in Tehran on Monday to meet with the foreign minister to continue talks.
-* 伊朗官员谈到了在重新开放海峡的谈判中取得的一些进展，尽管他们正在为全面战争做准备。卡塔尔代表团周一抵达德黑兰，与外交部长会面，继续会谈。
-* Party leaders will make competing cases to the Israeli president for either Benjamin Netanyahu or Gadi Eisenkot to get the first chance to build a governing coalition.
-* 该党领导人将向以色列总统本雅明·内塔尼亚胡（ Benjamin Netanyahu ）或加迪·艾森科特（ Gadi Eisenkot ）提出竞争案例，以获得建立执政联盟的第一次机会。
-* During the king’s visits to three former colonies, many people came out for celebratory parades and events. Others said the British state needed to atone for slavery’s toll.
-* 在国王访问三个前殖民地期间，许多人出来参加庆祝游行和活动。其他人说，英国政府需要弥补奴隶制造成的损失。
-* Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost.
-* 与美国总统不同，教皇利奥十四世没有私人飞机，所以他和我们其他人一样乘坐商业航空公司。嗯，差不多了。
-* It’s not just rare earths. China is making it harder for other countries to shed their dependence on its solar, drone and drugmaking technology.
-* 不仅仅是稀土。中国正在使其他国家更难摆脱对其太阳能、无人机和制药技术的依赖。
-* The long-running comedy show “This Hour Has 22 Minutes” is having a heyday playing with the fraught relationship between President Trump and Canada.
-* 长期播出的喜剧节目“This Hour Has 22 Minutes”正在全盛时期播放特朗普总统与加拿大之间令人担忧的关系。
 
 ## New York Times United States News
-* Douglas DePodesta says he was forced out of his job after U.S. Attorney Andrew S. Boutros’s prosecutions of protesters known as the Broadview Six fell apart.
-* 道格拉斯·德波德斯塔（ Douglas DePodesta ）说，在美国检察官安德鲁· S ·布特罗斯（ Andrew S. Boutros ）对被称为Broadview Six的抗议者的起诉破裂后，他被迫辞职。
-* Trump administration officials had sought admissions data from Harvard, including student application essays, to see if the school was complying with a court decision banning affirmative action.
-* 特朗普政府官员曾要求哈佛提供招生数据，包括学生申请论文，以确定该校是否遵守禁止平权行动的法院裁决。
-* Protecting the vote was once considered among the top priorities of the Cybersecurity and Infrastructure Security Agency. Now it barely mentions the issue.
-* 保护投票曾经被认为是网络安全和基础设施安全局的首要任务之一。现在它几乎没有提到这个问题。
-* A super PAC called Our Heritage Matters, which was registered less than a month ago, has spent $6.5 million in the last days of campaigning to promote obscure candidates over Republicans it portrays as liberals.
-* 一个名为Our Heritage Matters的超级PAC在不到一个月前注册，在最后几天的竞选活动中花费了650万美元($ 650万) ，以宣传晦涩难懂的候选人，而不是它所描绘的自由派共和党人。
-* The president has repeatedly complimented Senator Jon Husted’s body. For better or worse, it has caught the attention of voters and raised Mr. Husted’s profile in a key midterm race.
-* 总统一再称赞参议员乔恩·赫斯特德（ Jon Husted ）的身体。无论好坏，它都引起了选民的注意，并在一场关键的中期竞选中提升了Husted先生的形象。
-* Some Florida Republicans, including Gov. Ron DeSantis, have started to sound alarms about sluggish turnout among their voters.
-* 包括州长罗恩·德桑蒂斯（ Ron DeSantis ）在内的一些佛罗里达州共和党人已开始对其选民投票率低迷发出警报。
-* “We just have to protect those people,” President Trump said in an interview, when asked about potential investigations of allies and administration officials if Democrats won control of Congress.
-* “我们只需要保护这些人，”当被问及民主党是否赢得国会控制权时，特朗普总统在接受采访时表示。
-* Our polls suggest the economy is biggest motivator of voters’ choices in these midterm elections and that Democrats are more trusted to fix things.
-* 我们的民意调查显示，经济是这些中期选举中选民选择的最大动力，民主党人更信任解决问题。
-* Mr. Turkish, 39, is a longtime Democratic donor and disability rights lawyer. He endorsed Republican Mike Rogers for U.S. Senate on Wednesday.
-* 39岁的土耳其先生是长期的民主党捐赠者和残疾人权利律师。周三，他支持共和党人迈克·罗杰斯（ Mike Rogers ）竞选美国参议
-* A Saudi man is charged with the bombing of the U.S.S. Cole, which killed 17 American sailors in 2000.
-* 一名沙特男子被控轰炸美国科尔号航母，该航母于2000年炸死17名美国水手。
+* 
+* 
+* As Americans went to the polls for an election widely seen as a referendum on his second term, President Trump again downplayed concerns over the cost of living and addressed unpopular foreign policy matters.
+* 当美国人参加被广泛视为第二任期公投的选举时，特朗普总统再次淡化了对生活成本的担忧，并解决了不受欢迎的外交政策问题。
+* 
+* 
+* The president’s announcement on Election Day, which he said was part of an agreement reached months ago, was a sign of how quickly the politics surrounding Israel have shifted.
+* 总统在选举日发表的声明是几个月前达成的协议的一部分，这表明围绕以色列的政治转变速度有多快。
+* Voting was underway across Westchester County, despite an issue with ballot scanners at many polling sites, officials said.
+* 官员说，尽管许多投票站的选票扫描仪存在问题，但威彻斯特县仍在进行投票。
+* Voters are deciding on whether to pass a wealth tax, who will be the state’s next governor and more. Here are five things we’re watching.
+* 选民正在决定是否通过财富税，谁将成为该州的下一任州长等等。以下是我们正在关注的五件事。
+* Google is making it easier to restrict its A.I. tools for students. But schools that block A.I. entirely will lose student access to Google’s search engine.
+* 谷歌正在让学生更容易限制其人工智能工具。但是，完全屏蔽人工智能的学校将失去学生对谷歌搜索引擎的访问权限。
+* 
+* 
+* Election laws are largely determined by the states, making it important to check local rules.
+* 选举法在很大程度上由各州决定，因此检查当地规则非常重要。
+* Researchers have found that bad weather can deter certain voters.
+* 研究人员发现，恶劣的天气可以阻止某些选民。
 
 ## New York Times Asia News
+* Reddit and an Australian digital advocacy group are claiming a law that restricts children younger than 16 from popular platforms infringes on their constitutional rights.
+* Reddit和澳大利亚一个数字倡导组织声称，一项法律禁止16岁以下儿童进入流行平台，这侵犯了他们的宪法权利。
 * On TikTok, men and women sent back after living in the United States are documenting the reality of starting over — and finding an audience.
 * 在TikTok上，在美国生活后被送回的男男女女正在记录重新开始的现实—并寻找受众。
 * It’s not just rare earths. China is making it harder for other countries to shed their dependence on its solar, drone and drugmaking technology.
@@ -64,6 +66,4 @@ Auto RSS New York Times and Translate
 * 这位前副总理是仅有的六位在中国共产党精英政治局任职的女性之一，尽管她被排除在权力高层之外。
 * A 500-day campaign to find and identify fallen soldiers has unearthed hundreds of bodies, but not everyone gets a chance at closure.
 * 为期500天的寻找和识别阵亡士兵的运动已经出土了数百具尸体，但并不是每个人都有机会关闭。
-* The Trump administration plans to fly the Afghan immigrants from Louisiana to Pakistan, where they are expected to be expelled over the border to Afghanistan.
-* 特朗普政府计划将阿富汗移民从路易斯安那州飞往巴基斯坦，预计他们将被驱逐出境前往阿富汗。
 
