@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics.
-* 国外的评论人士想知道特朗普总统的选举失利可能对油价、对伊朗的战争和美国政治的未来意味着什么。
-* President Isaac Herzog began meeting with party leaders for two days to decide whether to give Prime Minister Benjamin Netanyahu or rivals the first chance at forming a coalition.
-* 总统艾萨克·赫尔佐格（ Isaac Herzog ）开始与该党领导人会晤两天，以决定是给本雅明·内塔尼亚胡（ Benjamin Netanyahu ）总理还是给对手组建联盟的第一次机会。
-* In a country where superstitions are as imaginative as they are many, physicians have come to fear a jinx involving Kentucky Fried Chicken.
-* 在一个迷信与许多迷信一样富有想象力的国家，医生们已经开始担心涉及肯德基炸鸡的棘手问题。
-* President Isaac Herzog has tried to avoid controversy and heal rifts in his largely ceremonial role. But his skills as a savvy mediator could be instrumental after an inconclusive election.
-* 总统艾萨克·赫尔佐格（ Isaac Herzog ）在很大程度上是仪式性的角色，他试图避免争议并治愈分歧。但他作为精明的调解人的技能可能在选举结果不佳后发挥重要作用。
-* As South Africans head to the polls on Wednesday, Helen Zille, 75, is betting voters care less about race and more about public services in her bid to become mayor of Johannesburg.
-* 随着南非人周三前往投票站， 75岁的海伦·齐勒（ Helen Zille ）押注选民在竞选约翰内斯堡市长时不太关心种族，而更关心公共服务。
-* Some Iranian clerics and officials argue the country must rebuild deterrence by dropping its longstanding pledge not to build a nuclear bomb.
-* 一些伊朗神职人员和官员认为，该国必须重建威慑力，放弃长期以来不制造核弹的承诺。
-* The marketing practices of some firms promoting property in the Israeli-occupied territory to foreign purchasers are deceptive, a recent filing claims.
-* 最近的一份文件声称，一些公司在以色列占领领土上向外国买家推销房产的营销做法是欺骗性的。
-* Prime Minister Donald Tusk said there had been “disturbing movement” in Kaliningrad, a Russian region just north of Poland.
-* 总理唐纳德·图斯克（ Donald Tusk ）表示，在波兰北部的俄罗斯地区加里宁格勒发生了“令人不安的运动”。
-* The Trump administration has arranged a flight to send dozens of Afghan immigrants back to Afghanistan, despite the risk of persecution by the Taliban.
-* 尽管塔利班有迫害的风险，但特朗普政府已经安排了一架飞机，将数十名阿富汗移民送回阿富汗。
-* Officials are investigating threats against at least seven planes. The aircraft landed safely and no explosives were found, the authorities said.
-* 官员们正在调查至少七架飞机受到的威胁。当局说，飞机安全降落，没有发现爆炸物。
+* A top adviser to President Javier Milei of Argentina met Flávio Bolsonaro, the defeated Brazilian presidential candidate, at an Argentine airport, three people involved in the operation said.
+* 三名参与行动的人士表示，阿根廷总统哈维尔·米莱（ Javier Milei ）的高级顾问在阿根廷机场会见了被击败的巴西总统候选人弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）。
+* Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts to avert full-blown war between the U.S. and Iran have had some success.
+* 伊朗愿意重新参与这个问题，这表明卡塔尔领导的旨在避免美国和伊朗之间全面战争的外交努力取得了一些成功。
+* Lana Nusseibeh, one of the Gulf nation’s top diplomats, has led the effort to deny her country’s role in Sudan. Now it’s complicating her bid to become secretary general of the United Nations.
+* 海湾国家的最高外交官之一拉娜·努赛贝（ Lana Nusseibeh ）领导了否认她的国家在苏丹的作用的努力。现在，这让她成为联合国秘书长的申请变得更加复杂。
+* Both Moscow and Kyiv say Mrs. Trump’s team was the driving force behind an evacuation of a besieged city. It was also in their interest to deliver her a humanitarian win.
+* 莫斯科和基辅都表示，特朗普夫人的团队是撤离被围困城市的推动力。为她赢得人道主义胜利也符合他们的利益。
+* The Israeli leader and his allies are alleging that Arab voters last month stole the election. Election officials say that while foul play was being investigated, it could not have affected the result.
+* 这位以色列领导人及其盟友声称阿拉伯选民上个月偷走了选举。选举官员表示，虽然正在调查犯规行为，但它不可能影响结果。
+* A TV program helped to identify the victims, a Russian woman and her young daughter, who were found dead in a Rome park.
+* 一个电视节目帮助识别受害者，一名俄罗斯妇女和她的小女儿，他们被发现死在罗马的一个公园里。
+* Hundreds of garment factories were shut down this week as workers in the country, the world’s second-largest exporter of clothing, demonstrated for higher pay.
+* 本周数百家服装工厂被关闭，因为该国的工人，世界第二大服装出口国，表现出更高的工资。
+* More than two dozen planes that were targeted on Thursday landed safely, officials said, after similar threats earlier this week. The hoaxes have added to airspace anxiety in the region.
+* 官员们表示，在本周早些时候发生类似威胁后，周四袭击的二十多架飞机安全着陆。这些恶作剧加剧了该地区的空域焦虑。
+* Labels exert extraordinary control over performers because only a few acts turn a profit.
+* 标签对表演者施加了非凡的控制，因为只有少数表演能够盈利。
+* The government said the risk to the British public from the disease was low. The current outbreak in Africa has spread widely across the continent, killing more than 5,000 people.
+* 政府表示，这种疾病对英国公众的风险很低。目前在非洲爆发的疫情已广泛蔓延到整个非洲大陆，造成5000多人死亡。
 
 ## New York Times United States News
-* In a social media post, the vice president offered a critique of the administration’s agenda and messaging in what appeared to be an effort to separate himself from the president.
-* 在一篇社交媒体帖子中，副总统对政府的议程和信息进行了批评，似乎是为了将自己与总统分开。
-* Troy Jackson, a former Democratic state lawmaker, upset Senator Susan Collins, a Republican who had served the state for 30 years.
-* 前民主党州议员特洛伊·杰克逊（ Troy Jackson ）让为该州服务了30年的共和党参议员苏珊·柯林斯（ Susan Collins ）感到不安。
-* Democrats took five new seats for a total of 29, giving them a majority for the first time in years. The wins could expand state-level resistance to the Trump administration.
-* 民主党获得了5个新席位，共计29个席位，这是他们多年来首次获得多数席位。这些胜利可能会扩大州一级对特朗普政府的抵制。
-* Democrats clinched control of Congress, but the full scale of the party’s landslide, and Republicans’ losses, remained unknown.
-* 民主党人控制了国会，但该党的压倒性优势以及共和党人的损失仍然未知。
-* House Speaker Mike Johnson told Republican aides that he would step down, according to a person familiar with the comments, after the party suffered heavy losses in the midterm elections.
-* 据知情人士透露，众议院议长迈克·约翰逊（ Mike Johnson ）告诉共和党助手，在该党在中期选举中遭受重大损失后，他将辞职。
-* Aaron Spencer, who admitted to fatally shooting a man charged with sexual assaulting Mr. Spencer’s daughter, had won the Republican nomination.
-* 亚伦·斯宾塞（ Aaron Spencer ）承认致命地射杀了一名被控性侵犯斯宾塞女儿的男子，他赢得了共和党提名。
-* With the economy and national political climate of 2026: “You’re not going to advertise your way out of that,” said one expert.
-* 一位专家说，在2026年的经济和国家政治气候下： “你不会为自己的出路做广告。”
-* Georgia was the first state to elect a female Black governor with Keisha Lance Bottoms. Three other states elected Black governors for the first time.
-* 佐治亚州是第一个以凯莎·兰斯·博顿斯（ Keisha Lance Bottoms ）选出女性黑人州长的州另外三个州首次选出黑人州长。
-* The party’s midterm victory reshapes the political landscape.
-* 该党的中期胜利重塑了政治格局。
-* Americans voted absentee from the International Space Station, Antarctica and remote Alaskan villages.
-* 美国人投票决定缺席国际空间站、南极洲和偏远的阿拉斯加村庄。
+* They won Senate races in North Carolina, South Carolina and Georgia, with a Mississippi race still too close to call. Their wins lifted down-ballot candidates too.
+* 他们在北卡罗来纳州、南卡罗来纳州和佐治亚州赢得了参议院的比赛，密西西比州的比赛仍然太接近了。他们的胜利也提升了下选票的候选人。
+* Shannon Taylor’s defeat of Representative Rob Wittman adds to Democrats’ overwhelming gains across the country.
+* 香农·泰勒（ Shannon Taylor ）击败众议员罗布·威特曼（ Rob Wittman ）增加了民主党在全国范围内的压倒性优势。
+* Representative John McGuire, a Republican, held off a challenge from former Representative Tom Perriello, a Democrat.
+* 共和党众议员约翰·麦圭尔（ John McGuire ）拒绝了民主党前众议员汤姆·佩里罗（ Tom Perriello ）的挑战。
+* The union leader’s victory gives his party its first congressional seat in the state in more than 30 years.
+* 工会领袖的胜利给了他的政党30多年来在该州的第一个国会席位。
+* A suspect was taken into custody outside the building, the police said.
+* 警方称，一名嫌疑人在建筑物外被拘留。
+* A new agreement in New York is only the latest that Catholic dioceses have reached since the early 2000s with people who say they were victims of clergy sexual abuse.
+* 纽约的一项新协议只是自21世纪初以来天主教教区与自称是神职人员性虐待受害者的人达成的最新协议。
+* A Massachusetts liberal who has never sought the No. 1 leadership spot, Ms. Clark is known as an adept member manager.
+* 克拉克女士是马萨诸塞州的自由主义者，从未寻求过头号领导职位，她被称为熟练的成员经理。
+* Several midterm winners broke barriers, but with campaigns that focused on delivering material change to the lives of Americans.
+* 几位中期获奖者打破了壁垒，但竞选活动的重点是为美国人的生活带来实质性的变化。
+* Victory has a thousand fathers. And Democrats everywhere are clamoring for a piece of this midterm triumph.
+* 胜利有一千个父亲。各地的民主党人都在争夺这场中期胜利的一部分。
+* Scott Colom, a Democrat, ran a viral ad and courted Republicans at a Trump rally before winning virtually the same number of votes as Senator Cindy Hyde-Smith, a Republican.
+* 民主党人斯科特·科洛姆（ Scott Colom ）在特朗普集会上发布了一则病毒式广告，并吸引了共和党人，然后赢得了与共和党参议员辛迪·海德-史密斯（ Cindy Hyde-Smith ）几乎相同的选票。
 
 ## New York Times Asia News
-* In a country where superstitions are as imaginative as they are many, physicians have come to fear a jinx involving Kentucky Fried Chicken.
-* 在一个迷信与许多迷信一样富有想象力的国家，医生们已经开始担心涉及肯德基炸鸡的棘手问题。
-* Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics.
-* 国外的评论人士想知道特朗普总统的选举失利可能对油价、对伊朗的战争和美国政治的未来意味着什么。
-* The crash, in a popular tourist area during the autumn climbing season, highlighted the safety challenges posed by growing numbers of aircraft in the Himalayas.
-* 坠机事件发生在秋季攀登季节的一个热门旅游区，凸显了喜马拉雅山越来越多的飞机带来的安全挑战。
-* The Trump administration has arranged a flight to send dozens of Afghan immigrants back to Afghanistan, despite the risk of persecution by the Taliban.
-* 尽管塔利班有迫害的风险，但特朗普政府已经安排了一架飞机，将数十名阿富汗移民送回阿富汗。
-* Reddit and an Australian digital advocacy group are claiming a law that restricts children younger than 16 from popular platforms infringes on their constitutional rights.
-* Reddit和澳大利亚一个数字倡导组织声称，一项法律禁止16岁以下儿童进入流行平台，这侵犯了他们的宪法权利。
-* On TikTok, men and women sent back after living in the United States are documenting the reality of starting over — and finding an audience.
-* 在TikTok上，在美国生活后被送回的男男女女正在记录重新开始的现实—并寻找受众。
-* It’s not just rare earths. China is making it harder for other countries to shed their dependence on its solar, drone and drugmaking technology.
-* 不仅仅是稀土。中国正在使其他国家更难摆脱对其太阳能、无人机和制药技术的依赖。
-* Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.
-* 曼谷的消防员捕捉蛇的次数多于消防， Pinyo Pukpinyo负责训练。但他拒绝杀死蛇，容器也快用完了。
-* Pinyo Pukpinyo, Thailand’s most famous snake catcher, has found the critters slithering in nooks and crannies all over Bangkok. He refuses to kill them.
-* 泰国最著名的捕蛇者Pinyo Pukpinyo发现，小动物在曼谷各地的角落和缝隙中滑动。他拒绝杀死他们。
-* The rise of Korean terms in Japanese is a striking reversal from colonial times and a sign of the global appeal of South Korean culture.
-* 日语中韩语术语的崛起是殖民时代的惊人逆转，也是韩国文化全球吸引力的标志。
+* Hundreds of garment factories were shut down this week as workers in the country, the world’s second-largest exporter of clothing, demonstrated for higher pay.
+* 本周数百家服装工厂被关闭，因为该国的工人，世界第二大服装出口国，表现出更高的工资。
+* Toyota is cashing in on a U.S. hybrid boom as electric-vehicle demand slows, but shifting political tides in Washington could jeopardize its edge.
+* 随着电动汽车需求放缓，丰田正在利用美国的混合动力汽车热潮获利，但华盛顿政治潮流的转变可能会危及其优势。
+* The New York Post used a Hokusai work to depict Donald Trump being swept away by Democrats’ midterm election win. Some in Japan were bothered by the imagery.
+* 《纽约邮报》使用北斋的作品来描绘唐纳德·特朗普被民主党的中期选举胜利所席卷。日本的一些人对这些图像感到不安。
+* Chinese authorities stopped the sale of ABB Robotics, owned by a Swiss conglomerate, to SoftBank of Japan amid wider scrutiny of global transactions that could affect Beijing’s technology ambitions.
+* 在可能影响北京科技野心的全球交易受到更广泛审查之际，中国当局停止向日本软银出售瑞士企业集团旗下的ABB Robotics。
+* Labels exert extraordinary control over performers because only a few acts turn a profit.
+* 标签对表演者施加了非凡的控制，因为只有少数表演能够盈利。
+* For Keum Suk Gendry-Kim, imagining the life of North Korea’s leader was a risk worth taking, despite the backlash.
+* 对于Keum Suk Gendry-Kim来说，尽管遭到强烈反对，但想象朝鲜领导人的生活是一个值得冒的风险。
+* Support for the major parties — led by two men called Chris — is cratering, thanks to dissatisfaction with the economy. Minor parties stand to benefit from a desire among voters for change.
+* 由于对经济不满，对主要政党的支持—由两名叫克里斯的人领导—正在崩溃。小党派将受益于选民对变革的渴望。
+* Mr. Wong, one of the most high-profile members of a movement that was quashed in 2020, was accused of conspiracy to collude with foreign forces, a national security offense.
+* 黄先生是一场运动中最引人注目的成员之一，该运动于2020年被撤销，他被指控阴谋与外国军队勾结，这是一种国家安全罪。
+* A boat in Micronesia went missing in July. This weekend, five of its passengers landed, unclothed and emaciated, on an island in Kiribati — more than 3,000 miles away.
+* 密克罗尼西亚的一艘船在7月失踪。本周末，五名乘客在3000多英里外的基里巴斯岛上降落，身无分文。
+* In books and essays, he captured the unease beneath Japan’s economic miracle and wrote about everyday people who might never appear in headlines.
+* 在书籍和散文中，他捕捉到了日本经济奇迹背后的不安，并写下了可能永远不会出现在头条新闻中的日常人物。
 
