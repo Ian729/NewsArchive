@@ -2,50 +2,56 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Victory for Democrats could alter the course of peace negotiations and a war nearing its fifth year.
-* 民主党的胜利可能会改变和平谈判的进程和接近第五年的战争。
-* Pope Leo XIV’s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month.
-* 教皇利奥十四世对乌拉圭、阿根廷和秘鲁的访问是他自上个月肺部手术以来的首次重大访问。
-* A 500-pound bomb supplied by the United States appears to have been used in the Oct. 18 strike, according to video footage examined by The New York Times.
-* 根据《纽约时报》检查的视频片段，美国提供的一枚500磅重的炸弹似乎被用于10月18日的罢工。
-* Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after false bomb threats, the latest of a series of security incidents.
-* 在虚假炸弹威胁之后，欧洲的多个航班中断，爱尔兰的几个新闻编辑室被疏散，这是一系列安全事件中的最新一起。
-* Tundu Lissu was found guilty of incitement for statements he had made ahead of a presidential election in October 2025.
-* Tundu Lissu因在2025年10月总统选举前发表的言论而被判犯有煽动罪。
-* Bomb threats have disrupted dozens of flights in Europe over the past week. At airports in Rome, Madrid and Warsaw, travelers were more frustrated than fearful.
-* 过去一周，炸弹威胁扰乱了欧洲数十个航班。在罗马、马德里和华沙的机场，旅客感到沮丧多于恐惧。
-* Less than a month after lung surgery, Pope Leo XIV is landing in Uruguay on Friday, the first stop of a 12-day voyage across South America.
-* 肺部手术后不到一个月，教皇利奥十四世将于周五抵达乌拉圭，这是为期12天的南美洲之旅的第一站。
-* Paul Nthenge Mackenzie forced followers to starve themselves to meet Jesus and told parents to make sure their children fasted in the sun and died first.
-* Paul Nthenge Mackenzie强迫追随者饿死自己以迎接耶稣，并告诉父母确保他们的孩子在阳光下禁食并先死。
-* The commanding victory of the Democrats has brought private relief to some Europeans but no official glee, with Ukraine, Iran and NATO all hanging in the balance.
-* 民主党的压倒性胜利给一些欧洲人带来了私人救济，但没有官方的喜悦，乌克兰、伊朗和北约都悬而未决。
-* A new provincial law requires public libraries to pull and restrict items with “graphic visual depictions of sexual acts.” Librarians argue the mandate opens the door to censorship.
-* 一项新的省级法律要求公共图书馆提取和限制具有“性行为的图形视觉描绘”的项目。“图书馆员认为，这项任务为审查打开了大门。
+* Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.
+* 加迪·艾森科特（ Gadi Eisenkot ）有望有机会组建新政府，取代本雅明·内塔尼亚胡（ Benjamin Netanyahu ）担任总理。但障碍是巨大的。
+* The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.
+* 当局说，这名枪手从市场广场附近的一辆汽车上开枪，被枪杀并送往医院。
+* In his twilight years, the British monarch is embracing his role as a global statesman, even when that involves heavy rain and difficult questions about his nation’s history.
+* 在他的暮年，这位英国君主正在接受他作为全球政治家的角色，即使这涉及大雨和有关其国家历史的困难问题。
+* After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.
+* 经过数月的保密，乌克兰指挥官让《纽约时报》的记者加入了他们的掩体和训练场，这些掩体和训练场用于扭转俄罗斯的一些领土收益。
+* A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.
+* 对超市冰箱的网络攻击、对飞机的炸弹威胁和软件漏洞使欧洲陷入困境，因为政府官员鼓励弹性和储备。
+* At least 44 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak.
+* 官员说，至少有44人在一个忠于伊斯兰国的组织的残酷袭击中丧生。该地区是埃博拉疫情日益严重的热点地区。
+* Two days after a general strike and huge demonstrations, students and workers took to the streets again on Saturday.
+* 在大罢工和大规模示威活动两天后，学生和工人于周六再次走上街头。
+* For a fourth consecutive Saturday, tens of thousands of people are expected to demonstrate. The authorities hope a large security presence will deter riots.
+* 连续第四个星期六，预计将有数万人参加示威活动。当局希望大量的安全人员能够遏制骚乱。
+* Preliminary results showed the right-wing bloc slightly ahead but no clear winner after an election that was dominated by economic concerns.
+* 初步结果显示，右翼集团略微领先，但在一场由经济担忧主导的选举之后，没有明显的赢家。
+* Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under.
+* 在一家与其政府关系密切的银行倒闭后，圣地亚哥·佩尼亚被弹劾、免职并被软禁。
 
 ## New York Times United States News
-* The Trump administration has been negotiating agreements with dozens of individual countries. Public health experts say a global agreement would be far more effective.
-* 特朗普政府一直在与数十个国家谈判协议。公共卫生专家表示，全球协议将更有效。
-* The Republican provocateur is trailing her Democrat challenger, Eileen Laubacher, by less than a percentage point in a normally red district.
-* 这位共和党挑衅者在通常是红色的地区落后于她的民主党挑战者艾琳·劳巴赫（ Eileen Laubacher ）不到一个百分点。
-* Mayor John Whitmire has instructed Houston police to stop notifying immigration agents when they encounter someone without legal status during routine street stops.
-* 市长John Whitmire已指示休斯顿警方在常规街道停留期间遇到没有合法身份的人时，停止通知移民代理人。
-* Thomas Markle Sr., Meghan’s estranged father, was arrested in Florida on Friday. He has denied the accusations against him.
-* 老托马斯·马克尔（ Thomas Markle Sr. ）是梅根疏远的父亲，周五在佛罗里达州被捕。他否认了对他的指控。
-* A younger, more diverse electorate than is typical in midterm elections helped drive Democrats’ decisive victory, along with gains among swing voters and support from some Republican voters. Nate Cohn, The New York Times’s chief political analyst, explains.
-* 与中期选举中的典型情况相比，年轻、多元化的选民帮助推动了民主党的决定性胜利，以及摇摆选民的收益和一些共和党选民的支持。《纽约时报》首席政治分析师内特·科恩（ Nate Cohn ）解释说。
-* A forensic psychiatrist, he testified that consuming sugary foods could cause antisocial behavior. To his dismay, a catchphrase was born. He was 89.
-* 作为一名法医精神病学家，他作证说，食用含糖食物可能会导致反社会行为。令他沮丧的是，一句流行语诞生了。他89岁。
-* George and Laura Bush made their first public comment on the controversy roiling their usually decorous congregation, which is reverberating far outside Texas.
-* 乔治和劳拉·布什（ George and Laura Bush ）对这场争议发表了他们的第一次公开评论，这场争议搅乱了他们通常有尊严的会众，这场争议在德克萨斯州以外的地方引起
-* Scott Colom, the Democratic nominee, has kept his edge over the Republican incumbent, Cindy Hyde-Smith, as more provisional and mail ballots were reported throughout the state.
-* 民主党候选人斯科特·科洛姆（ Scott Colom ）一直保持着对共和党现任总统辛迪·海德-史密斯（ Cindy Hyde-Smith ）的优势，因为全州都报道了更多的临时和邮寄选票。
-* Jason Reding Quiñones joins what is expected to be a succession of departures at the Justice Department after the midterm elections, including that of the leader of the national security division.
-* 贾森·雷丁·基诺内斯（ Jason Reding Quiñones ）在中期选举后加入了司法部的一系列离职，包括国家安全部门负责人的离职。
-* The rare Democrat in a fabled family of wealthy Republicans, he served 30 years as senator and helped bring health insurance to millions of low-income children.
-* 作为一个传说中的富裕共和党人家庭中罕见的民主党人，他担任参议员30年，并帮助为数百万低收入儿童提供医疗保险。
+* More U.S. military officers are being mobilized late next week because the original pool in the death penalty case is being depleted.
+* 下周晚些时候将动员更多的美国军官，因为死刑案件中的原始人才库正在耗尽。
+* The Democratic leader still faces skeptics in his ranks and hostility from some activists, but aides say he has enough commitments of support to be elected majority leader.
+* 这位民主党领导人仍然面临队伍中的怀疑论者和一些活动家的敌意，但助手们表示，他有足够的支持承诺，可以当选为多数党领袖。
+* Some blamed President Trump for backing the novice candidate after the death of her brother, Lindsey Graham. Others accused Mr. Graham’s team of pushing her to run despite her lack of experience.
+* 一些人指责特朗普总统在她的兄弟林赛·格雷厄姆（ Lindsey Graham ）去世后支持这位新手候选人。其他人则指责格雷厄姆的团队在她缺乏经验的情况下迫使她参选。
+* In a Democratic landslide election, here are the ads that stood out. Some were effective, while others backfired.
+* 在民主党的压倒性选举中，以下是脱颖而出的广告。一些是有效的，而另一些则适得其反。
+* Republicans in North Carolina saw their state as a firewall, gerrymandered to protect incumbents even if Democrats kept winning the governorship. This week, the wall shattered.
+* 北卡罗来纳州的共和党人将他们的州视为防火墙，即使民主党继续赢得州长职位，也要保护现任州长。本周，这堵墙被打碎了。
+* Sebastian Matta, a sophomore at Arizona State University, was elected on Tuesday as Superior Court clerk in Maricopa County, Ariz.
+* 亚利桑那州立大学二年级学生塞巴斯蒂安·马塔（ Sebastian Matta ）周二当选亚利桑那州马里科帕县高等法院书记员。
+* In an unusual move, the lead plaintiff in one of two cases challenging semiautomatic weapons bans has asked to drop out weeks before the cases are heard.
+* 在一个不寻常的举动中，质疑半自动武器禁令的两起案件之一的主要原告要求在案件审理前几周退出。
+* At a moment of opportunity for the party, its long-feuding factions are seizing on the midterm results to make their case for tacking to the center or to the left.
+* 在党有机会的时刻，其长期争执的派系正在抓住中期结果，以证明他们的理由是向中间派或向左派倾斜。
+* Candidates backed by the right-wing activist group did not fare well, and the results set off recriminations from establishment Republicans.
+* 右翼激进组织支持的候选人表现不佳，结果引发了共和党建制派的指责。
+* The skydivers’ parachutes opened but became entangled after they collided, according to the company hosting the event.
+* 据主办此次活动的公司称，跳伞者的降落伞打开了，但在碰撞后被缠住了。
 
 ## New York Times Asia News
+* Suffield Academy placed its longtime head of school, Charlie Cahn III, on leave last month after learning that he was the subject of a federal investigation.
+* 萨菲尔德学院(Suffield Academy)的长期校长查理·卡恩三世(Charlie Cahn III)上个月因得知自己是联邦调查的对象而休假。
+* A memo that circulated among U.S. policymakers cited intelligence that Alice Huang, a Chinese executive who developed a relationship with Nvidia’s leader, was an asset of Beijing’s Ministry of State Security.
+* 在美国政策制定者中流传的一份备忘录援引情报称，与英伟达领导人建立关系的中国高管黄爱丽丝(Alice Huang)是北京国家安全部的资产。
+* Preliminary results showed the right-wing bloc slightly ahead but no clear winner after an election that was dominated by economic concerns.
+* 初步结果显示，右翼集团略微领先，但在一场由经济担忧主导的选举之后，没有明显的赢家。
 * A summit could bolster Xi Jinping’s stature. But talks about Ukraine’s future and limits on nuclear weapons pose uncomfortable choices for China.
 * 峰会可以提升习近平的地位。但是，谈论乌克兰的未来和对核武器的限制给中国带来了不舒服的选择。
 * Hundreds of garment factories were shut down this week as workers in the country, the world’s second-largest exporter of clothing, demonstrated for higher pay.
@@ -60,10 +66,4 @@ Auto RSS New York Times and Translate
 * 标签对表演者施加了非凡的控制，因为只有少数表演能够盈利。
 * For Keum Suk Gendry-Kim, imagining the life of North Korea’s leader was a risk worth taking, despite the backlash.
 * 对于Keum Suk Gendry-Kim来说，尽管遭到强烈反对，但想象朝鲜领导人的生活是一个值得冒的风险。
-* Support for the major parties — led by two men called Chris — is cratering, thanks to dissatisfaction with the economy. Minor parties stand to benefit from a desire among voters for change.
-* 由于对经济不满，对主要政党的支持—由两名叫克里斯的人领导—正在崩溃。小党派将受益于选民对变革的渴望。
-* Mr. Wong, one of the most high-profile members of a movement that was quashed in 2020, was accused of conspiracy to collude with foreign forces, a national security offense.
-* 黄先生是一场运动中最引人注目的成员之一，该运动于2020年被撤销，他被指控阴谋与外国军队勾结，这是一种国家安全罪。
-* A boat in Micronesia went missing in July. This weekend, five of its passengers landed, unclothed and emaciated, on an island in Kiribati — more than 3,000 miles away.
-* 密克罗尼西亚的一艘船在7月失踪。本周末，五名乘客在3000多英里外的基里巴斯岛上降落，身无分文。
 
