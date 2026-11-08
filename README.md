@@ -2,50 +2,58 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.
-* 加迪·艾森科特（ Gadi Eisenkot ）有望有机会组建新政府，取代本雅明·内塔尼亚胡（ Benjamin Netanyahu ）担任总理。但障碍是巨大的。
-* The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.
-* 当局说，这名枪手从市场广场附近的一辆汽车上开枪，被枪杀并送往医院。
+* The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.
+* 教皇的访问是在该国自由意志主义领导人与其天主教会之间的紧张关系中进行的，天主教会坚定地致力于社会正义。
+* At least nine people were dead and at least 16 injured after shootings in Krakow and another town, the police said. The motive remains unclear.
+* 警方称，在克拉科夫和另一个城镇发生枪击事件后，至少有9人死亡，至少16人受伤。动机尚不清楚。
+* The Saudi authorities said no one was injured and that “falling shrapnel” from an intercepted missile had hit the building in the capital’s financial district.
+* 沙特当局表示，没有人受伤，一枚被拦截的导弹“落下的弹片”击中了首都金融区的大楼。
+* Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition.
+* Eisenkot先生是一名职业将领，也是以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）的主要竞争对手，现在将有长达六周的时间组建联盟。
+* The African National Congress lost big in local elections, turning a once-dominant force credited with overturning apartheid into “any other political party.”
+* 非洲人国民大会在地方选举中输得很大，将曾经占主导地位的力量推翻了种族隔离制度，变成了“任何其他政党”。
+* India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”
+* 印度最高法院以空气质量问题为由，裁定本周末只能燃放更环保的烟花。但环保活动人士称之为“绿色洗涤”。
+* Food was at the heart of Henry Onesemo’s South Pacific island upbringing. Now, he’s bringing flavors of home to his Michelin-starred restaurant in New Zealand.
+* 食物是Henry Onesemo在南太平洋岛屿成长的核心。现在，他在新西兰的米其林星级餐厅带来了家的味道。
+* Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price.
+* 罢工表明，自8月份胡塞武装与沙特支持的政府之间的战斗再次爆发以来，平民付出了沉重的代价。
+* Santiago Peña was impeached, removed from office, placed under house arrest and charged with using his office to enrich himself after a bank with close ties to his administration went under.
+* 圣地亚哥·佩尼亚（ Santiago Peña ）被弹劾，被免职，被软禁，并被指控在与其政府关系密切的一家银行倒闭后，利用其办公室致富。
 * In his twilight years, the British monarch is embracing his role as a global statesman, even when that involves heavy rain and difficult questions about his nation’s history.
 * 在他的暮年，这位英国君主正在接受他作为全球政治家的角色，即使这涉及大雨和有关其国家历史的困难问题。
-* After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.
-* 经过数月的保密，乌克兰指挥官让《纽约时报》的记者加入了他们的掩体和训练场，这些掩体和训练场用于扭转俄罗斯的一些领土收益。
-* A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.
-* 对超市冰箱的网络攻击、对飞机的炸弹威胁和软件漏洞使欧洲陷入困境，因为政府官员鼓励弹性和储备。
-* At least 44 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak.
-* 官员说，至少有44人在一个忠于伊斯兰国的组织的残酷袭击中丧生。该地区是埃博拉疫情日益严重的热点地区。
-* Two days after a general strike and huge demonstrations, students and workers took to the streets again on Saturday.
-* 在大罢工和大规模示威活动两天后，学生和工人于周六再次走上街头。
-* For a fourth consecutive Saturday, tens of thousands of people are expected to demonstrate. The authorities hope a large security presence will deter riots.
-* 连续第四个星期六，预计将有数万人参加示威活动。当局希望大量的安全人员能够遏制骚乱。
-* Preliminary results showed the right-wing bloc slightly ahead but no clear winner after an election that was dominated by economic concerns.
-* 初步结果显示，右翼集团略微领先，但在一场由经济担忧主导的选举之后，没有明显的赢家。
-* Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under.
-* 在一家与其政府关系密切的银行倒闭后，圣地亚哥·佩尼亚被弹劾、免职并被软禁。
 
 ## New York Times United States News
-* More U.S. military officers are being mobilized late next week because the original pool in the death penalty case is being depleted.
-* 下周晚些时候将动员更多的美国军官，因为死刑案件中的原始人才库正在耗尽。
-* The Democratic leader still faces skeptics in his ranks and hostility from some activists, but aides say he has enough commitments of support to be elected majority leader.
-* 这位民主党领导人仍然面临队伍中的怀疑论者和一些活动家的敌意，但助手们表示，他有足够的支持承诺，可以当选为多数党领袖。
-* Some blamed President Trump for backing the novice candidate after the death of her brother, Lindsey Graham. Others accused Mr. Graham’s team of pushing her to run despite her lack of experience.
-* 一些人指责特朗普总统在她的兄弟林赛·格雷厄姆（ Lindsey Graham ）去世后支持这位新手候选人。其他人则指责格雷厄姆的团队在她缺乏经验的情况下迫使她参选。
-* In a Democratic landslide election, here are the ads that stood out. Some were effective, while others backfired.
-* 在民主党的压倒性选举中，以下是脱颖而出的广告。一些是有效的，而另一些则适得其反。
-* Republicans in North Carolina saw their state as a firewall, gerrymandered to protect incumbents even if Democrats kept winning the governorship. This week, the wall shattered.
-* 北卡罗来纳州的共和党人将他们的州视为防火墙，即使民主党继续赢得州长职位，也要保护现任州长。本周，这堵墙被打碎了。
-* Sebastian Matta, a sophomore at Arizona State University, was elected on Tuesday as Superior Court clerk in Maricopa County, Ariz.
-* 亚利桑那州立大学二年级学生塞巴斯蒂安·马塔（ Sebastian Matta ）周二当选亚利桑那州马里科帕县高等法院书记员。
-* In an unusual move, the lead plaintiff in one of two cases challenging semiautomatic weapons bans has asked to drop out weeks before the cases are heard.
-* 在一个不寻常的举动中，质疑半自动武器禁令的两起案件之一的主要原告要求在案件审理前几周退出。
-* At a moment of opportunity for the party, its long-feuding factions are seizing on the midterm results to make their case for tacking to the center or to the left.
-* 在党有机会的时刻，其长期争执的派系正在抓住中期结果，以证明他们的理由是向中间派或向左派倾斜。
-* Candidates backed by the right-wing activist group did not fare well, and the results set off recriminations from establishment Republicans.
-* 右翼激进组织支持的候选人表现不佳，结果引发了共和党建制派的指责。
-* The skydivers’ parachutes opened but became entangled after they collided, according to the company hosting the event.
-* 据主办此次活动的公司称，跳伞者的降落伞打开了，但在碰撞后被缠住了。
+* It remains unclear how the Justice Department might proceed. The move would be a major escalation of the Trump administration’s recent attacks against the news media.
+* 目前尚不清楚司法部将如何采取行动。此举将是特朗普政府最近对新闻媒体的攻击的重大升级。
+* Initiative 86, which bars the force-feeding of birds and the sale of foie gras, passed handily but restaurateurs and prominent chefs are preparing for a fight.
+* 禁止强制喂食鸟类和销售鹅肝的86号倡议轻松通过，但餐馆老板和着名厨师正在准备战斗。
+* 
+* 
+* As Americans absorb a stunning new political reality, they face a gap between the time they effectively decided to be done with the president and the time he is actually done.
+* 随着美国人吸收了一个惊人的新政治现实，他们面临着他们实际决定与总统完成的时间和他实际完成的时间之间的差距。
+* The echoes of history surround Scott Colom’s final push toward victory, but assembling the coalition that propelled him took hard work after many Democratic misses.
+* 历史的回声围绕着斯科特·科洛姆（ Scott Colom ）走向胜利的最后一步，但在民主党多次失败后，组建推动他前进的联盟付出了艰苦的努力。
+* In her first interview with The New York Times since her victory, the governor-elect talked about tackling data centers, abortion restrictions and Elon Musk.
+* 在她当选后的第一次接受《纽约时报》采访时，当选州长谈到了解决数据中心、堕胎限制和伊隆·马斯克的问题。
+* After last week’s midterm losses, the Republican Party entered its most uncertain moment in years. Some Republicans called for moderation and cleaning house, but that will be difficult with President Trump still in the White House.
+* 在上周的中期亏损之后，共和党进入了多年来最不确定的时刻。一些共和党人呼吁节制和打扫房子，但由于特朗普总统仍在白宫，这将很困难。
+* Senator-elect James Talarico’s progressive Christianity seemed to resonate for many in a state whose politics and culture have been dominated by conservative evangelicalism.
+* 当选参议员詹姆斯·塔拉里科（ James Talarico ）的进步基督教似乎引起了许多人的共鸣，因为这个国家的政治和文化一直由保守的福音派主导。
+* A Democratic sweep in the state signals fresh momentum to curb aggressive ICE tactics across a shifting national landscape on immigration.
+* 该州的民主党席卷标志着新的势头，以遏制不断变化的国家移民格局中的侵略性ICE策略。
+* An injured five-month-old walrus huddled next to carcasses in remote Alaska after it became separated from its mother. Humans came to its rescue.
+* 一只受伤的五个月大的海象与母亲分开后，在偏远的阿拉斯加蜷缩在尸体旁边。人类前来救援。
 
 ## New York Times Asia News
+* Sony is building an anime empire, betting that global fandom can fuel growth for both the company and the country as foreign rivals and A.I. swarm the scene.
+* 索尼正在建立一个动漫帝国，押注全球粉丝可以推动公司和国家的增长，因为外国竞争对手和人工智能蜂拥而至。
+* India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”
+* 印度最高法院以空气质量问题为由，裁定本周末只能燃放更环保的烟花。但环保活动人士称之为“绿色洗涤”。
+* Food was at the heart of Henry Onesemo’s South Pacific island upbringing. Now, he’s bringing flavors of home to his Michelin-starred restaurant in New Zealand.
+* 食物是Henry Onesemo在南太平洋岛屿成长的核心。现在，他在新西兰的米其林星级餐厅带来了家的味道。
+* The contest to replace António Guterres as U.N. secretary general has been jolted by last-minute entrants and deep divisions among members of the Security Council.
+* 接替安东尼奥·古特雷斯（ António Guterres ）担任联合国秘书长的竞赛因最后一刻的参赛者和安理会成员之间的深刻分歧而受到冲击。
 * Suffield Academy placed its longtime head of school, Charlie Cahn III, on leave last month after learning that he was the subject of a federal investigation.
 * 萨菲尔德学院(Suffield Academy)的长期校长查理·卡恩三世(Charlie Cahn III)上个月因得知自己是联邦调查的对象而休假。
 * A memo that circulated among U.S. policymakers cited intelligence that Alice Huang, a Chinese executive who developed a relationship with Nvidia’s leader, was an asset of Beijing’s Ministry of State Security.
@@ -58,12 +66,4 @@ Auto RSS New York Times and Translate
 * 本周数百家服装工厂被关闭，因为该国的工人，世界第二大服装出口国，表现出更高的工资。
 * Toyota is cashing in on a U.S. hybrid boom as electric-vehicle demand slows, but shifting political tides in Washington could jeopardize its edge.
 * 随着电动汽车需求放缓，丰田正在利用美国的混合动力汽车热潮获利，但华盛顿政治潮流的转变可能会危及其优势。
-* The New York Post used a Hokusai work to depict Donald Trump being swept away by Democrats’ midterm election win. Some in Japan were bothered by the imagery.
-* 《纽约邮报》使用北斋的作品来描绘唐纳德·特朗普被民主党的中期选举胜利所席卷。日本的一些人对这些图像感到不安。
-* Chinese authorities stopped the sale of ABB Robotics, owned by a Swiss conglomerate, to SoftBank of Japan amid wider scrutiny of global transactions that could affect Beijing’s technology ambitions.
-* 在可能影响北京科技野心的全球交易受到更广泛审查之际，中国当局停止向日本软银出售瑞士企业集团旗下的ABB Robotics。
-* Labels exert extraordinary control over performers because only a few acts turn a profit.
-* 标签对表演者施加了非凡的控制，因为只有少数表演能够盈利。
-* For Keum Suk Gendry-Kim, imagining the life of North Korea’s leader was a risk worth taking, despite the backlash.
-* 对于Keum Suk Gendry-Kim来说，尽管遭到强烈反对，但想象朝鲜领导人的生活是一个值得冒的风险。
 
