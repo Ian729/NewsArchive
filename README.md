@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The workings of a U.S.-controlled bank account shed light on how Washington manages Venezuelan revenue after capturing the country’s president.
-* 美国控制的银行账户的运作揭示了华盛顿在抓获委内瑞拉总统后如何管理委内瑞拉的收入。
-* For more than 30 years, the paper covered an increasingly repressive Russia. “The process of silencing us started many years ago,” one of its journalists said.
-* 30多年来，该报报道了一个日益专制的俄罗斯。它的一名记者说： “让我们沉默的过程始于多年前。”
-* In a new memoir and interview, the Italian-born woman who married into the Nehru-Gandhi dynasty recalls her political battles and the assassinations of her husband and mother-in-law.
-* 在一本新的回忆录和采访中，这位嫁入尼赫鲁-甘地王朝的意大利出生妇女回忆起她的政治斗争以及对丈夫和婆婆的暗杀。
-* Syrian reconnaissance teams have visited Saudi Arabia and Yemen ahead of a potential deployment, but a final decision has not been made, officials said.
-* 官员们表示，叙利亚侦察队在可能部署之前访问了沙特阿拉伯和也门，但尚未做出最终决定。
-* At least four people from one family were killed and thousands of Palestinians lost their shelters when a storm battered overcrowded tent camps.
-* 暴风雨肆虐过度拥挤的帐篷营地，造成一个家庭至少4人死亡，数千名巴勒斯坦人失去住所。
-* President Claudia Sheinbaum drew a firm line barring U.S. forces from operating on Mexican soil. But in a northern border state, one local partner quietly helped the agency build a foothold.
-* 总统克劳迪娅·谢恩鲍姆（ Claudia Sheinbaum ）划定了一条坚定的界线，禁止美国军队在墨西哥领土上但在北部边境州，一位当地合作伙伴悄悄帮助该机构建立了据点。
-* The kingdom’s promised reforms don’t always match the realities of its justice system. Unmarried women, particularly foreign workers, face unique perils.
-* 沙特王国承诺的改革并不总是符合其司法系统的现实。未婚妇女，特别是外籍工人，面临着独特的危险。
-* A U.S. Army unit in Germany is not sure what’s next as the Pentagon considers a major drawdown of forces in Europe.
-* 驻德国的美国陆军部队不确定接下来会发生什么，因为五角大楼认为欧洲的部队将大幅缩编。
-* Najib Razak, who was brought down in the multibillion-dollar 1MDB scandal, was released from prison to serve the rest of his sentence in his mansion.
-* 在数十亿美元的1MDB丑闻中被推翻的纳吉布·拉扎克（ Najib Razak ）被释放出狱，在他的豪宅中服刑。
-* President Vladimir V. Putin of Russia has shown a willingness to endure a high price to get what he wants in Ukraine, and he sees little reason to stop fighting now, analysts say.
-* 分析人士说，俄罗斯总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）表示愿意为在乌克兰获得他想要的东西而付出高昂的代价，他认为现在没有理由停止战斗。
+* Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.
+* 华盛顿希望通过关闭陆地边境来加紧对伊朗的经济施压。邻国担心经济受损，正在予以抵制。
+* As a round of negotiations ended in Abu Dhabi, President Trump’s envoys said they would go to Moscow as the Kremlin demands discussions on European security structures.
+* 随着一轮谈判在阿布扎比结束，特朗普总统的特使表示，他们将前往莫斯科，因为克里姆林宫要求就欧洲安全架构进行讨论。
+* Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign.
+* 各行各业的工人罢工抗议房租上涨和工资停滞不前，这两个问题已成为竞选活动的核心议题。
+* That the United States suspected Nvidia’s leader was a Chinese spy target underscores the deep distrust between the two powers, even as their leaders try to stabilize ties.
+* 美国怀疑英伟达的领导人是中国间谍的目标，这凸显了两大强国之间深层次的不信任，即使两国领导人正努力稳定双边关系。
+* The milestone is further evidence that African countries have mostly succeeded in preventing community transmission and isolating the small number of cases that have come in from Congo.
+* 这一里程碑进一步证明，非洲各国在防止社区传播和隔离从刚果传入的少数病例方面大体上取得了成功。
+* The 2026 Youth Olympic Games are taking place in Senegal, where the beaches and streets are teeming with sports fans and fitness fanatics.
+* 2026年青年奥林匹克运动会将在塞内加尔举行，这里的海滩和街道上到处都是体育迷和健身爱好者。
+* Pope Leo spent nearly two decades in Peru, rising to bishop and becoming a citizen. But many Peruvians have turned to evangelical churches, seeking a more expressive and direct connection to God.
+* 利奥教皇在秘鲁度过了近二十年，升任主教并成为该国公民。但许多秘鲁人转向了福音派教会，寻求与上帝建立更具表现力和更直接的联系。
+* Hezbollah’s conflict with Israel and the U.S.-Israel war with Iran have made systemic problems worse, causing the cost of living to soar and driving many Lebanese to despair.
+* 真主党与以色列的冲突以及美国-以色列与伊朗的战争加剧了系统性问题，导致生活成本飙升，使许多黎巴嫩人陷入绝望。
+* GPS-linked devices have been insisting that Ukrainians are in Lima, the Peruvian capital. The culprit is a jamming system built to thwart Russian airstrikes.
+* 与GPS相连的设备一直显示乌克兰人位于秘鲁首都利马。罪魁祸首是一个为阻止俄罗斯空袭而建立的干扰系统。
+* The Orléans Fine Arts Museum is on a quest to recover hundreds of works stolen during World War II — and the director wants your help.
+* 奥尔良美术馆正致力于追回在第二次世界大战期间被盗的数百件艺术品，馆长希望你能提供帮助。
 
 ## New York Times United States News
-* The letter, which former President Joseph R. Biden Jr. details in a new book, is remarkable for a warm tone starkly at odds with his predecessor’s public comments.
-* 这封信由前总统小约瑟夫· R ·拜登（ Joseph R. Biden Jr. ）在一本新书中详细介绍，其温暖的语气与其前任的公开评论截然不同。
-* The former Trump administration adviser has been urged to preserve his records, as part of Democrats’ bid to rein in the Department of Homeland Security.
-* 这位前特朗普政府顾问被敦促保存他的记录，这是民主党试图控制国土安全部的一部分。
-* Two white young women made noises imitating monkeys outside the apartment door of a group of Black students. The university called the video “deeply troubling.”
-* 两名白人年轻女子在一群黑人学生的公寓门外模仿猴子发出声音。该大学称该视频“令人深感不安”。
-* Nancy Lacore, who will represent a House district starting in January, was chief of the Navy reserve until last year.
-* 南希·拉科尔（ Nancy Lacore ）将从1月份开始代表众议院选区，直到去年担任海军预备役首领。
-* Economic frustrations and anger at President Trump propelled Democratic wins, but many voters were moderates and Republicans who did not stampede left on social issues.
-* 经济挫折和对特朗普总统的愤怒推动了民主党的胜利，但许多选民是温和派，没有在社会问题上踩踏的共和党人离开了。
-* The charges accuse the defense secretary of illegally starting the war with Iran, directing extrajudicial killings and ignoring laws meant to minimize civilian casualties.
-* 这些指控指责国防部长非法发动与伊朗的战争，指挥法外处决，无视旨在尽量减少平民伤亡的法律。
-* Representative Thomas Massie, Republican of Kentucky, is retiring at the end of his term after losing to a primary challenger backed by President Trump.
-* 肯塔基州共和党众议员托马斯·马西（ Thomas Massie ）在任期结束时退休，此前他输给了特朗普总统支持的主要挑战者。
-* The rule would limit a policy that allows states to authorize participation in the program if a person qualifies for a different type of assistance.
-* 如果某人有资格获得不同类型的援助，该规则将限制允许各州授权参与该计划的政策。
-* The president has defended his defense secretary and called the impeachment drive the effort of “a stone cold loser.”
-* 总统为国防部长辩护，称弹劾是“冷酷失败者”的努力。
-* 
-* 
+* Democratic socialists had another success with Ms. Raman’s ascent to the Los Angeles mayoralty. But she is no sure bet to align with all of the group’s priorities.
+* 随着Raman女士当选洛杉矶市长，民主社会主义者又取得了一次胜利。但她未必会与该派别的所有优先事项保持一致。
+* As Democrats prepared to begin oversight inquiries, it was not clear what legal basis could support the threat. The Constitution grants lawmakers immunity for legislative acts.
+* 在民主党人准备开始监督调查之际，尚不清楚该威胁有何法律依据。《宪法》赋予立法者立法行为豁免权。
+* Representative Jim Himes, who will run the powerful intelligence committee in the new Congress, said he also planned to scrutinize contractor donations to President Trump’s construction projects.
+* 众议员吉姆·希梅斯（Jim Himes）将在新一届国会中领导影响力巨大的情报委员会，他表示，他也计划仔细审查承包商对特朗普总统建筑项目的捐款。
+* Investigators in South Carolina rescued the baby on Tuesday after he had been buried in the woods for 24 hours. His father was in police custody.
+* 周二，南卡罗来纳州的调查人员在婴儿被埋在树林中24小时后将其救出。他的父亲已被警方拘留。
+* As executive director of the group from 1969 to 1985, he aligned its disparate local chapters and offices into a powerful lobby in Washington. He was 92.
+* 1969年至1985年，他担任该组织的执行董事，将该组织分散的各地分会和办事处整合为一个强大的华盛顿游说团体。他享年92岁。
+* More money in the political system is coming from shadowy nonprofits that appear out of nowhere and start spending big with little disclosure.
+* 政治体系中的更多资金来自突然出现的影子非营利组织，它们开始大笔支出，却很少披露信息。
+* An expanding legal fight over the proposed site of President Trump’s 250-foot triumphal arch looms over his visit to Arlington National Cemetery on Veterans Day.
+* 在特朗普总统于退伍军人节访问阿灵顿国家公墓之际，围绕其拟建的250英尺凯旋门的选址而展开的法律斗争愈演愈烈。
+* Does Democratic success with the political middle signal a broad realignment in the country? Or is it a temporary turn away from an unpopular president?
+* 民主党在中间派选民中取得成功，是否预示着该国将出现广泛的政治重组？还是说这只是暂时性地远离一位不受欢迎的总统？
+* Military families are navigating feelings of grief, pride and anger, as well as seeking answers about the deaths of their loved ones.
+* 军人家庭正在经历悲痛、自豪和愤怒的情绪，同时也在寻求有关亲人死亡的答案。
+* The breadth of Democrats’ midterm victories has raised new questions about which states will be competitive going forward — particularly Texas, a crown jewel in the Electoral College.
+* 民主党在中期选举中大获全胜，这引发了新的疑问：今后哪些州将成为竞争激烈的战场——特别是德克萨斯州，它是选举人团的“皇冠上的明珠”。
 
 ## New York Times Asia News
-* In a new memoir and interview, the Italian-born woman who married into the Nehru-Gandhi dynasty recalls her political battles and the assassinations of her husband and mother-in-law.
-* 在一本新的回忆录和采访中，这位嫁入尼赫鲁-甘地王朝的意大利出生妇女回忆起她的政治斗争以及对丈夫和婆婆的暗杀。
+* As a round of negotiations ended in Abu Dhabi, President Trump’s envoys said they would go to Moscow as the Kremlin demands discussions on European security structures.
+* 随着一轮谈判在阿布扎比结束，特朗普总统的特使表示，他们将前往莫斯科，因为克里姆林宫要求就欧洲安全架构进行讨论。
+* That the United States suspected Nvidia’s leader was a Chinese spy target underscores the deep distrust between the two powers, even as their leaders try to stabilize ties.
+* 美国怀疑英伟达的掌门人是中国间谍的目标，这凸显了两大强国之间深层次的不信任，即使两国领导人正努力稳定双边关系。
+* The Iranian immigrants in the plane were scheduled to be flown to Pakistan and then transferred to Iran, lawyers for the group said.
+* 该群体的律师表示，飞机上的伊朗移民原定飞往巴基斯坦，然后被遣返伊朗。
+* The automaker plans to sell Americans “Kei” pickup trucks, which are very popular in Japan and with U.S. auto enthusiasts. Even President Trump is a fan.
+* 这家汽车制造商计划向美国人销售“K-car”皮卡车，这种车型在日本和美国汽车爱好者中非常受欢迎。就连特朗普总统也是其粉丝。
+* In a memoir and interview, the Italian-born woman who married into the Nehru-Gandhi dynasty recalls political battles and the killings of family members.
+* 在回忆录和采访中，这位嫁入尼赫鲁-甘地家族的意大利裔女性回顾了政治斗争和家族成员遇害的经历。
 * Najib Razak, who was brought down in the multibillion-dollar 1MDB scandal, was released from prison to serve the rest of his sentence in his mansion.
-* 在数十亿美元的1MDB丑闻中被推翻的纳吉布·拉扎克（ Najib Razak ）被释放出狱，在他的豪宅中服刑。
+* 因数十亿美元的1MDB丑闻而下台的纳吉布·拉扎克已获释出狱，将在其豪宅中服完余下的刑期。
 * A U.S. Army unit in Germany is not sure what’s next as the Pentagon considers a major drawdown of forces in Europe.
-* 驻德国的美国陆军部队不确定接下来会发生什么，因为五角大楼认为欧洲的部队将大幅缩编。
+* 五角大楼正在考虑大幅削减驻欧部队，驻德国的一支美国陆军部队不确定接下来会发生什么。
+* Despite knowing about the relationship between one of the president’s closest allies and a woman later identified by U.S. officials as a Chinese spy, the Trump administration took no action.
+* 尽管特朗普政府知悉总统的一位最亲密盟友与一名后来被美国官员认定为中国间谍的女性存在关系，但并未采取任何行动。
 * In Indonesia, support for President Prabowo Subianto has collapsed as his government has failed to contain raging wildfires, compounding quality-of-life woes.
-* 在印度尼西亚，对总统普拉博沃·苏比安托（ Prabowo Subianto ）的支持已经崩溃，因为他的政府未能遏制肆虐的野火，加剧了生活质量的困境。
+* 在印度尼西亚，由于普拉博沃·苏比安托总统的政府未能遏制肆虐的野火，加剧了生活质量问题，因此对他的支持率已大幅下降。
 * This season, filmmakers from Japan, Russia, Romania and Germany have chosen to venture abroad for a variety of creative and political reasons.
-* 本季，来自日本、俄罗斯、罗马尼亚和德国的电影制作人出于各种创意和政治原因选择出国冒险。
-* A longtime international correspondent and beach connoisseur based in Ho Chi Minh City has scouted the country’s waterfront resorts.
-* 长期驻扎在胡志明市的国际记者和海滩鉴赏家已经发现了该国的海滨度假村。
-* China’s factories are finding eager buyers worldwide, but the export boom is raising concerns about its impact on trading partner nations.
-* 中国的工厂正在全球范围内寻找热切的买家，但出口热潮引发了人们对其对贸易伙伴国家影响的担忧。
-* An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department after a top Nvidia executive reached out to Commerce Department officials.
-* 在Nvidia的一名高管与商务部官员取得联系后，对购买高级Nvidia人工智能芯片的新加坡公司Megaspeed的调查被移交给了司法部。
-* The controversy has intensified scrutiny of Mr. Huang’s ties to Beijing and sparked mixed reactions across Asia, where he is widely popular.
-* 这场争议加剧了对黄之锋与北京关系的审查，并引发了亚洲各地的不同反应，黄之锋在亚洲广受欢迎。
-* “It is faith that man needs, not past doctrines,” he said in defense of his views, which became a cause célèbre for many but were condemned by others.
-* “人类需要的是信仰，而不是过去的教义，”他在为自己的观点辩护时说道，这成为许多人的理想，但遭到了其他人的谴责。
+* 本季，来自日本、俄罗斯、罗马尼亚和德国的电影人出于各种创作和政治原因，选择到国外发展。
 
