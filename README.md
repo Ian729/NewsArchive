@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
+* As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France.
+* 随着退休人员的寿命延长，政府需要增加养老金支出。这使得为其他服务提供资金变得更加困难，并引发了像本周末计划在法国举行的抗议活动。
+* A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.
+* 今年春季，英国和其他地方发生的一系列袭击事件在整个欧洲播下了恐惧的种子。检察官们揭示了伊朗如何将矛头对准美国盟友的新情况。
+* President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim.
+* 弗拉基米尔·泽连斯基总统表示，乌克兰用于引导无人机的系统在俄罗斯占领的领土上正受到干扰。该系统的开发商SpaceX已否认这一说法。
+* Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.
+* 随着美国对委内瑞拉石油储备提出主权主张，该国长期以来对石油主权控制的信念正在动摇。
+* Russell Brand and the TV personality David Walliams both persuaded courts to suppress misconduct allegations against them. Some say the libel laws need to change.
+* 拉塞尔·布兰德和电视名人大卫·瓦利亚姆斯都说服法院压制了针对他们的不当行为指控。有人认为诽谤法需要修改。
+* Gadi Eisenkot sharply criticized Prime Minister Benjamin Netanyahu days after the Israeli leader attacked Arab lawmakers in a divisive speech.
+* 在以色列领导人本雅明·内塔尼亚胡总理发表了一篇挑起分歧的讲话，抨击阿拉伯裔议员数日后，加迪·艾森科特对他进行了严厉批评。
 * The new epicenter of Congo’s fast-spreading outbreak is a region scarred by rebel violence. Responders are struggling to help it.
-* 刚果疫情蔓延迅速，新的疫情中心是一个饱受叛乱暴力蹂躏的地区。应急人员正竭尽全力提供帮助。
+* 刚果疫情迅速蔓延的新中心地带是一个饱受叛乱暴力蹂躏的地区。应急人员正竭力提供帮助。
 * Former Israeli and U.S. ambassadors, lawmakers and analysts largely agree on steps Gadi Eisenkot could take if he becomes prime minister. But they are risky.
 * 以色列和美国的前大使、议员和分析人士大体上都认同加迪·艾森科特在当选总理后可以采取的措施。但这些措施存在风险。
 * From India to France, the implicit meritocratic bargain that underwrote stable societies by providing advancement to new generations is breaking down.
-* 从印度到法国，通过为新一代提供晋升机会来支撑稳定社会的默示精英主义契约正在瓦解。
-* After coveting a seat in the Ukraine war discussions, Europe is poised to get one. Deciding who should speak for the continent is its own negotiation.
-* 在觊觎乌克兰战争讨论席位之后，欧洲即将如愿以偿。决定谁来代表欧洲大陆发言本身就是一场谈判。
-* The rise of Zhang Shengmin suggests that China’s top brass remains embroiled in investigations, potentially complicating preparations for war over Taiwan.
-* 张升民的崛起表明，中国的高级将领仍深陷调查之中，这可能会使针对台湾的战争准备变得更加复杂。
-* Mexico has cooperated to significantly slow the flow of migrants. The new White House chief of staff insists it is not enough.
-* 墨西哥已给予合作，大幅放缓了移民的流动。新任白宫幕僚长坚持认为这还不够。
-* Centrists want alternatives to a matchup between the far right and far left in the 2027 presidential race. Enter Christine Lagarde, a former central banker — and Teddy Riner, a judo star.
-* 中间派希望在2027年总统大选中，能有替代极右翼和极左翼对决的选择。这时，前央行行长克里斯蒂娜·拉加德和柔道明星泰迪·里内尔登场了。
-* In Dublin, President Volodymyr Zelensky of Ukraine said Europeans would join the next round of talks. Russia has not confirmed that.
-* 在都柏林，乌克兰总统弗拉基米尔·泽连斯基表示，欧洲人将参加下一轮谈判。俄罗斯尚未对此予以确认。
-* The Ukrainian government has opened up a trove of five million battlefield videos to defense companies at home and abroad.
-* 乌克兰政府已向国内外国防公司开放了五百万段战场视频。
-* Grammy-nominated songwriter Vivir Quintana is known throughout Latin America for giving voice to women who fought back against domestic violence.
-* 格莱美奖提名作曲家Vivir Quintana在整个拉丁美洲都享有盛誉，她为那些反抗家庭暴力的女性发声。
+* 从印度到法国，通过为新一代人提供晋升机会来保障社会稳定的默契精英主义契约正在瓦解。
+* After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team.
+* 在觊觎乌克兰战争讨论席位之后，欧洲即将如愿以偿。欧洲大陆希望由一个六人团队来填补这个席位。
 
 ## New York Times United States News
-* Many East Asians said that he had swagger and seemed like a superhero. Now there are worries that the spy scandal turns into hyper scrutiny against them.
-* 许多东亚人说，他神采奕奕，看起来像个超级英雄。现在人们担心间谍丑闻会演变为对他们的过度审查。
-* Now there are only two practicing members of the last active Shaker community in the United States. Sister June was 88.
-* 如今，美国最后一个活跃的震颤派社区只剩下两名在世成员。朱恩修女享年88岁。
-* Few were paying much attention to Mr. Colom for most of his Senate campaign. Then he toppled the Republican incumbent.
-* 在科洛姆先生的参议院竞选活动的大部分时间里，很少有人对他给予太多关注。然后，他击败了共和党的现任议员。
-* The midterm election results were a stinging setback for the movement, setting off a scramble among activists to regroup ahead of the 2028 presidential contest.
-* 中期选举的结果对该运动来说是一个沉重的打击，引发了活动人士在2028年总统大选之前重新集结的争夺。
-* When a popular restaurant agreed to serve as a campaign stop for G.O.P. candidates ahead of Election Day, longtime customers turned against it and Medina, Ohio, was left reeling.
-* 一家人气餐厅在选举日之前同意成为共和党候选人的竞选站，结果长期顾客纷纷离去，俄亥俄州梅迪纳市也因此陷入混乱。
-* The office of Stephen Miller, President Trump’s new chief of staff, outlined a new policy that seeks to show independence from special interests.
-* 特朗普总统的新任幕僚长史蒂芬·米勒的办公室概述了一项新政策，旨在表明其独立于特殊利益集团。
-* Senator Chris Van Hollen of Maryland has emerged as a favorite of Democrats seeking an alternative to Senator Chuck Schumer, who says he has the votes to win.
-* 来自马里兰州的参议员克里斯·范·霍伦已成为民主党人最青睐的人选，他们希望找到参议员查克·舒默的替代者，而舒默表示他有足够的选票获胜。
-* Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.
-* 批评人士称，商务部长霍华德·劳特伯格（Howard Lutnick）及其部门为英伟达提供了保护，因为人们对向Megaspeed等公司销售人工智能芯片的担忧日益加剧。
-* The president called the Nvidia chief on Tuesday, continuing a pattern of supporting him even as the spy scandal was intensifying.
-* 周二，总统致电英伟达首席执行官，继续采取支持他的做法，即使间谍丑闻正在加剧。
-* Mississippi and other states have created new uncertainty about what, exactly, a red state is.
-* 密西西比州和其他州对“红州”的确切定义造成了新的不确定性。
+* The Federal Aviation Administration’s aging air traffic control infrastructure has had several disruptive failures in recent months, as officials have sought to make upgrades.
+* 近几个月来，美国联邦航空管理局老化的空中交通管制基础设施发生了数次造成中断的故障，而官员们一直在努力进行升级。
+* President Trump’s show of support for Jensen Huang as he was under fire was a remarkable moment in a relationship that barely existed two years ago. Our White House correspondent Maggie Haberman explains how Mr. Trump came to see Mr. Huang as a modern-day Henry Ford.
+* 在黄仁勋受到抨击之际，特朗普总统对他表示支持，这是两人关系中的一个非凡时刻，而这种关系在两年前几乎不存在。我们的白宫记者Maggie Haberman解释了特朗普先生是如何将黄仁勋先生视为现代版亨利·福特的。
+* 
+* 
+* The Trump administration has quietly been laying the groundwork for an aggressive all-out effort to thwart newly empowered Democrats’ attempts at oversight.
+* 特朗普政府一直在悄然为一场全面出击的攻势奠定基础，以挫败新近掌握权力的民主党人行使监督权的企图。
+* While Republicans accuse Democrats of dirty tricks in the ongoing Alaska Senate race, the lone House contest in the state has the hallmarks of similar “ballot stacking” shenanigans.
+* 共和党指责民主党在正在进行的阿拉斯加州参议院选举中耍阴招，而该州唯一的众议院席位竞选也具有类似的“选票堆积”伎俩的特征。
+* The lawmaker set to lead the House Budget Committee outlined Democrats’ options for forcing a negotiation with President Trump on an economic package to bring down living costs.
+* 这位即将领导众议院预算委员会的议员概述了民主党为迫使特朗普总统就降低生活成本的经济一揽子计划进行谈判而采取的各种方案。
+* A couple in Oakland, Calif., has welcomed into their home 24 men recently released from prison sentences for violent crimes, part of a program to ease reintegration into society.
+* 加利福尼亚州奥克兰的一对夫妇最近迎进了24名因暴力犯罪而被判刑的男子，他们刚刚刑满释放，这是帮助他们重返社会的一个项目。
+* Residents in a one-mile radius of the plant were advised to evacuate after the device was located at an industrial site along the Illinois River.
+* 该装置位于伊利诺伊河沿岸的一个工业园区内，在装置被发现后，建议该厂方圆一英里范围内的居民撤离。
+* The race between Senator Dan S. Sullivan and Ms. Peltola, a former representative, is the only Senate contest that hasn’t been called.
+* 参议员丹·沙利文与前众议员佩尔托拉女士之间的角逐是唯一一场尚未宣布结果的参议院竞选。
+* Jonathan Kreiss-Tomkins made a name for himself as a coalition builder willing to raise alarms about his state’s dire fiscal straits.
+* 乔纳森·克赖斯-汤姆金斯（Jonathan Kreiss-Tomkins）以愿意就其所在州的严峻财政困境发出警示的联盟缔造者而闻名。
 
 ## New York Times Asia News
+* Some were Asia-based Europeans chasing nostalgia. Others were Americans eager to experience their first edition of the song contest.
+* 其中一些是居住在亚洲的欧洲人，他们来这里是为了追寻怀旧之情。还有一些是渴望体验自己首届歌曲大赛的美国人。
+* China, India, Pakistan, Indonesia and Japan aren’t joining the singing contest. That leave some of the region’s best-known musical cultures out of the mix.
+* 中国、印度、巴基斯坦、印度尼西亚和日本没有参加这场歌唱大赛。这意味着该地区一些最著名的音乐文化将缺席这场盛会。
+* While pulsating electro-pop tends to win in Europe, the inaugural Eurovision Song Contest in Asia will mostly feature torch songs accompanied by traditional instruments.
+* 虽然动感的电子流行乐在欧洲往往更受欢迎，但首届亚洲“欧洲”歌曲大赛的主要参赛曲目将是伴有传统乐器的抒情歌曲。
+* So far, the contest’s organizers have kept politics offstage. The European edition shows how difficult that can be.
+* 到目前为止，比赛的组织者一直将政治排除在舞台之外。欧洲赛区的情况表明，做到这一点有多么困难。
+* 
+* 
+* A Chinese businessman arrived in Panama with money and power. Then he sold a port when his luck turned. Now China wants him sent back.
+* 一位中国商人带着金钱和权势来到巴拿马。后来，当运气变差时，他卖掉了一个港口。现在，中国希望将他遣送回国。
+* The president plans to also discuss the war against Iran, but is not expected to bring up Russia’s war in Ukraine or the scandal that has engulfed Jensen Huang.
+* 总统还计划讨论对伊朗的战争，但预计他不会提及俄罗斯在乌克兰的战争或席卷黄仁勋的丑闻。
 * The ex-Nvidia C.E.O. was a bridge between companies and governments. His exit will reverberate, especially in China where it could accelerate a self-reliance drive.
-* 这位英伟达前首席执行官曾是企业与政府之间的桥梁。他的离职将产生深远影响，尤其是在中国，这可能会加速自力更生的步伐。
+* 这位英伟达前首席执行官曾是企业与政府之间的桥梁。他的离职将产生深远影响，特别是在中国，这可能会加速自力更生的步伐。
 * The rise of Zhang Shengmin suggests that China’s top brass remains embroiled in investigations, potentially complicating preparations for war over Taiwan.
-* 张升民的崛起表明，中国的高级将领仍深陷调查之中，这可能会使针对台湾的战争准备工作变得更加复杂。
+* 张升民的崛起表明，中国的高级将领仍深陷调查之中，这可能会使针对台湾的战争准备变得更加复杂。
 * Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.
-* 批评人士称，商务部长霍华德·卢特尼克（Howard Lutnick）及其部门一直在为英伟达提供保护，因为人们对向Megaspeed等公司销售人工智能芯片的担忧日益加剧。
-* The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.
-* 围绕着因婚外情而辞去英伟达职务的黄仁勋的爆料，引发了社交媒体上使用其公司帮助开发的同类技术的帖子。
-* By embracing Korean children stigmatized by the disease, she was a leader in the international adoption movement. She has died at 95.
-* 她接纳了因疾病而蒙受污名的韩国儿童，成为国际收养运动的领军人物。她已于95岁去世。
-* Jensen Huang’s affair with a woman U.S. officials say is a Chinese spy has drawn attention to the role of intimate relationships in espionage.
-* 据美国官员称，Jensen Huang与一名中国间谍的婚外情引发了人们对亲密关系在间谍活动中作用的关注。
-* Gibran Rakabuming Raka, who is stepping down amid a scandal over his academic credentials, was a symbol of the partnership that elevated President Prabowo Subianto into office.
-* 吉布兰·拉卡布明·拉卡因学历造假丑闻而辞职，他曾是促成普拉博沃·苏比安托总统上台的合作关系的象征。
-* Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy.
-* 七名中国游客、十多名村民和几名记者涉水并穿过灌木丛，来到日本海军大将山本五十六的坠机地点。砍刀派上了用场。
-* As a round of negotiations ended in Abu Dhabi, President Trump’s envoys said they would go to Moscow as the Kremlin demands discussions on European security structures.
-* 随着一轮谈判在阿布扎比结束，特朗普总统的特使表示，他们将前往莫斯科，因为克里姆林宫要求就欧洲安全架构进行讨论。
-* That the United States suspected Nvidia’s leader was a Chinese spy target underscores the deep distrust between the two powers, even as their leaders try to stabilize ties.
-* 美国怀疑英伟达的领导人是中国间谍的目标，这凸显了两大强国之间深层次的不信任，即使两国领导人正努力稳定双边关系。
+* 批评人士称，商务部长霍华德·劳特尼克（Howard Lutnick）及其部门为英伟达提供了保护，因为人们对向Megaspeed等公司销售人工智能芯片的担忧日益加剧。
 
