@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.
-* 以色列官员深信，这名飞行员的失踪应归咎于德黑兰。直到现在，其他说法才得到一点关注。
-* Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame.
-* 122号熊曾躲过火车、汽车和熊敌的袭击。有人担心，它现在生命中最大的威胁是它自己的名气。
-* The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled.
-* 在经历两个月的平静期后，袭击再次发生，而美国与伊朗之间的和平谈判似乎已陷入僵局。
-* The move is a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the balance of power in the country’s civil war was tilting toward the Iran-backed Houthi militia.
-* 此举对也门政府及其盟友沙特阿拉伯来说是一个挫折，因为分析人士表示，该国内战的权力天平正向伊朗支持的胡塞武装倾斜。
-* Over more than a quarter-century, I’ve watched Europe’s politics become more like Italy’s, with all the resulting instability, as the far right came in from the cold.
-* 四分之一个多世纪以来，我目睹了欧洲的政治变得越来越像意大利的政治，随着极右翼势力的崛起，随之而来的是各种不稳定因素。
-* Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.
-* 检察官和政府官员认为，伊朗或其代理人是英国和欧洲一系列安全漏洞和威胁的幕后黑手，这些事件扰乱了该地区的稳定。
-* As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France.
-* 随着退休人员的寿命延长，政府需要增加养老金支出。这使得为其他服务提供资金变得更加困难，引发了像法国那样的抗议活动。
-* A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.
-* 今年春季，英国和其他地方发生的一系列袭击事件在整个欧洲引发了恐慌。检察官们揭示了伊朗如何将矛头对准美国盟友的新情况。
-* President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim.
-* 弗拉基米尔·泽连斯基总统表示，乌克兰用于引导无人机的系统在俄罗斯占领的领土上正受到干扰。该系统的开发商SpaceX已否认这一说法。
-* Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.
-* 随着美国对委内瑞拉石油储备提出主权要求，该国长期以来对石油主权控制的信念正在动摇。
+* The onetime foreign minister, Karin Kneissl, has lauded her new home for its “genuine freedom” and used it as a perch to attack her old one.
+* 前外交部长卡琳·克奈斯尔（Karin Kneissl）赞扬她的新家园“真正自由”，并以此为据点抨击她的旧家园。
+* Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.
+* 环保人士长期以来一直对一个庞大的水利项目网络感到困惑，因为这些项目缺乏任何明显的合理性。随后，这些地区成为空袭的目标。
+* When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.
+* 10月份，医生为利奥十四世教宗实施了肺部手术，当时有人猜测他是否会推迟早已计划好的南美之行。到目前为止，一切顺利。
+* Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.
+* 德国、奥地利、荷兰、希腊和丹麦正寻求建立一个庇护申请被拒者的中心。以下是关于他们这项工作的须知事项。
+* The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.
+* 被告被指控与伊朗勾结。人权组织表示，该案因酷刑指控而蒙上阴影，并引发了对宗教迫害的担忧。
+* Delegates met in Geneva to discuss guardrails for such systems even as their development grows. Russia and the United States have resisted the efforts.
+* 代表们在日内瓦举行会议，讨论此类系统的防护措施，即使这些系统正在不断发展。俄罗斯和美国都抵制了这些努力。
+* Even as it talks peace, Russia has opened a bombing campaign intended to strip Kyiv and other cities of heat, running water and sanitation this winter.
+* 即使俄罗斯口口声声说要和平，但它还是发动了轰炸行动，企图在今年冬天让基辅和其他城市断暖、断水、断排污。
+* President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”
+* 特朗普总统还将与该地区的领导人会晤，其中包括澳大利亚总理，后者表示“我们希望看到冲突降级”。
+* The announcement came after a New York Times investigation about the restrictive contracts of the group NewJeans, signed when its members were 14 to 17.
+* 该公告是在《纽约时报》对NewJeans组合的限制性合同进行调查后发布的，该合同是在其成员14至17岁时签署的。
+* Serbia’s student movement was deliberately leaderless and made group decisions to unseat Aleksandar Vucic. Now no one seems quite sure what happens next.
+* 塞尔维亚的学生运动有意不设领袖，并以集体决策的方式推翻亚历山大·武契奇的统治。现在，似乎没有人很确定接下来会发生什么。
 
 ## New York Times United States News
-* When asked, the transportation secretary could not guarantee on Sunday that a similar air traffic meltdown would not occur again.
-* 当被问及此事时，交通部长周日无法保证类似的空中交通瘫痪不会再次发生。
-* The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some of which are clients of his former firm.
-* 商务部长一直在起草新规，这些新规将影响东南亚的数据中心，其中一些数据中心是他前东家的客户。
-* Former and current workers have found a sympathetic ear among Democrats set to take over the House and Senate. But any reversal of President Trump’s cuts is unlikely to happen immediately.
-* 即将接管众议院和参议院的民主党人对前员工和现任员工表示同情。但要立即扭转特朗普总统的削减政策，可能性不大。
-* Politicians, donors and campaign strategists are already imagining a large and contentious field of presidential contenders.
-* 政界人士、捐款人和竞选策略师已经在想象一个庞大而激烈的总统候选人阵营。
-* Diligent ground-level efforts by Black women helped make Democrats competitive again in Georgia. Now they’ll hold seven of the top eight elected leadership roles in the state.
-* 黑人女性在基层辛勤付出，帮助民主党在佐治亚州重拾竞争力。现在，她们将在该州八个最高当选领导职位中占据七席。
-* Frustrated by Texas Christian University’s handling of her sexual assault case, a former student from Virginia is suing under her home state’s consumer protection laws.
-* 一位来自弗吉尼亚州的前学生对德克萨斯基督教大学处理其性侵案件的方式感到不满，根据其所在州的消费者保护法提起诉讼。
-* Many young adults want to be influencers. And why not? It’s fun. But it also means that the camera is always on.
-* 许多年轻人想成为网红。为什么不呢？这很有趣。但这同时也意味着摄像头始终处于开启状态。
-* The wingtip of a Copa Airlines Boeing 737 struck the nose of a UPS Boeing 767, a day after a nationwide ground stop disrupted air travel.
-* 在全国范围内的停飞导致航空出行中断一天后，一架哥伦比亚航空公司（Copa Airlines）波音737飞机的翼尖撞上了联合包裹服务公司（UPS）波音767飞机的机头。
-* After a nationwide ground stop Friday, travelers are still encountering snags, and it could take several days for flight schedules to return to normal.
-* 周五的全国性地面停飞结束后，旅客仍面临种种障碍，航班时刻表可能需要几天时间才能恢复正常。
-* Judge Ana C. Reyes, who has been overseeing combative litigation, said the Trump administration would not be responsible for operating the course while the case proceeded.
-* 负责监督对抗性诉讼的安娜·C·雷耶斯（Ana C. Reyes）法官表示，在案件审理期间，特朗普政府将不负责该课程的运作。
+* Chase was among several U.S. banks whose customers reported technical issues on Monday.
+* 大通是周一有客户报告技术问题的多家美国银行之一。
+* The justices left in place a lower-court decision to block the administration from cutting millions in grants to University of California researchers over perceived ties to diversity initiatives.
+* 大法官们维持了下级法院的裁决，阻止政府削减数百万美元的拨款，这些拨款原定用于加州大学的研究人员，但因其被认为与多元化倡议有关而遭到削减。
+* Investigations have found most evidence in Jeffrey Epstein’s death points to suicide. Michael Freeman, a forensic scientist who studies homicides, got rare access to the autopsy file and disagrees.
+* 调查发现，杰弗里·爱泼斯坦（Jeffrey Epstein）死亡案的大多数证据都指向自杀。研究凶杀案的法医科学家迈克尔·弗里曼（Michael Freeman）获得了罕见的尸检档案查阅权限，但他并不认同这一说法。
+* Significant portions of Peoria and East Peoria were evacuated on Friday night after officials found and deactivated an explosive at an ethanol plant.
+* 周五晚，官员们在一座乙醇厂发现并销毁了一枚爆炸物，随后皮奥里亚和东皮奥里亚的大部分居民被疏散。
+* As he prepared for a visit to China, the president played down the fallout from Mr. Huang’s affair with a woman officials have identified as an intelligence asset for Beijing.
+* 在准备访问中国之际，总统淡化了黄先生与一名女性的关系所造成的影响，官员们已确认该女性是北京的情报人员。
+* Margot Sanger-Katz, our reporter on health care policy, explains why Affordable Care Act plans are becoming more costly, and who will face the steepest cost increases.
+* 我们的医疗保健政策记者玛戈·桑格-卡茨（Margot Sanger-Katz）解释了为什么《平价医疗法案》的保险计划成本越来越高，以及哪些人将面临最剧烈的成本上涨。
+* The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies.
+* 这些规定一直是政府内部激烈争论的话题，并将削弱为中国公司提供服务的数据中心蓬勃发展的业务。
+* A tanker struck a docked passenger ship in New Orleans on Friday, causing it to capsize. Investigators emphasized that their findings were preliminary.
+* 周五，一艘油轮撞上停泊在新奥尔良的客轮，导致客轮倾覆。调查人员强调，他们的调查结果是初步的。
+* At a hearing on Monday, prosecutors did not say whether they would plan to retry Ms. Clancy on first-degree murder charges, lesser charges or at all.
+* 在周一的听证会上，检方没有说明他们是否计划以一级谋杀罪、较轻的罪名或任何罪名对克伦西女士进行重审。
+* Once she takes office, she pledges to use metrics to deliver “a city that works” after a pandemic, wildfires and clashes with Trump. But budget constraints and more stand in the way.
+* 她承诺，一旦上任，将使用各项指标来打造一个在经历疫情、野火和与特朗普的冲突之后“运转良好的城市”。但预算限制等因素阻碍了这一目标的实现。
 
 ## New York Times Asia News
+* It’s illegal in the United States to transport game fowl for fighting. But investigators say breeders are sending birds to the Philippines, where cockfighting is legal and lucrative.
+* 在美国，运输斗禽用于斗鸡是非法的。但调查人员表示，育种者正在将斗鸡运往菲律宾，在那里斗鸡是合法的，而且利润丰厚。
+* The announcement came after a New York Times investigation about the restrictive contracts of the group NewJeans, signed when its members were 14 to 17.
+* 在此之前，《纽约时报》曾对NewJeans组合在成员年龄为14至17岁时签署的限制性合同进行了调查。
+* President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”
+* 特朗普总统还将与该地区多国领导人会晤，其中包括澳大利亚总理，后者表示“我们希望看到冲突降级”。
+* A planned American-led artificial intelligence hub in the Philippines has sparked fierce opposition over concerns about displacement, resources and threats to national sovereignty.
+* 一个计划中的由美国主导的菲律宾人工智能中心引发了激烈的反对，人们担心该中心会导致人口流离失所、资源消耗以及对国家主权的威胁。
+* Can the tourist destination become the first urban island to rid itself of the stoat — an introduced predator that has ravaged New Zealand’s endemic wildlife?
+* 这个旅游胜地能否成为第一个消灭白鼬的城市岛屿？这种外来掠食动物曾肆虐新西兰的本土野生动物。
+* The treatment, called ivonescimab, has become a symbol of China’s rise in drug development.
+* 这种名为伊沃西单抗（ivonescimab）的药物已成为中国药物研发崛起的一个标志。
 * Some were Asia-based Europeans chasing nostalgia. Others were Americans eager to experience their first edition of the song contest.
-* 有些人是常驻亚洲的欧洲人，来追寻怀旧之情。还有一些是渴望体验自己首届歌曲大赛的美国人。
+* 其中一些是居住在亚洲的欧洲人，他们来这里是为了追寻怀旧之情。还有一些是渴望体验自己首届歌曲大赛的美国人。
 * China, India, Pakistan, Indonesia and Japan didn’t join the singing contest in Bangkok. That left some of the region’s best-known musical cultures out of the mix.
 * 中国、印度、巴基斯坦、印度尼西亚和日本没有参加在曼谷举行的歌唱比赛。这使得该地区一些最著名的音乐文化未能参与其中。
 * While pulsating electro-pop tends to win in Europe, the inaugural Eurovision Song Contest in Asia will mostly feature torch songs accompanied by traditional instruments.
-* 虽然动感的电子流行乐在欧洲往往更受欢迎，但首届亚洲“欧洲”歌曲大赛的主要参赛曲目将是伴有传统乐器的抒情歌曲。
+* 虽然动感的电子流行乐在欧洲往往更受欢迎，但首届亚洲“欧洲”歌曲大赛的参赛歌曲大多是伴有传统乐器的抒情歌曲。
 * So far, the contest’s organizers have kept politics offstage. The European edition shows how difficult that can be.
-* 到目前为止，比赛的组织者一直将政治置于幕后。欧洲赛区的举办情况表明，做到这一点是多么困难。
-* 
-* 
-* A Chinese businessman arrived in Panama with money and power. Then he sold a port when his luck turned. Now China wants him sent back.
-* 一位中国商人带着金钱和权势来到巴拿马。后来，当他的运气变差时，他卖掉了一个港口。现在，中国希望将他遣送回国。
-* The president plans to also discuss the war against Iran, but is not expected to bring up Russia’s war in Ukraine or the scandal that has engulfed Jensen Huang.
-* 总统还计划讨论对伊朗的战争，但预计不会提及俄罗斯在乌克兰的战争或席卷黄仁勋的丑闻。
-* The ex-Nvidia C.E.O. was a bridge between companies and governments. His exit will reverberate, especially in China where it could accelerate a self-reliance drive.
-* 英伟达前首席执行官是企业与政府之间的桥梁。他的离职将产生深远影响，尤其是在中国，这可能会加速自力更生的步伐。
-* The rise of Zhang Shengmin suggests that China’s top brass remains embroiled in investigations, potentially complicating preparations for war over Taiwan.
-* 张升民的崛起表明，中国的高级将领仍深陷调查之中，这可能会使针对台湾的战争准备工作变得更加复杂。
-* Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.
-* 批评人士称，商务部长霍华德·劳特伯格（Howard Lutnick）及其部门为英伟达提供了保护，因为人们对向Megaspeed等公司销售人工智能芯片的担忧日益加剧。
+* 到目前为止，比赛的组织者一直将政治排除在舞台之外。欧洲赛区的情况表明，做到这一点有多么困难。
 
