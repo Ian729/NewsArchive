@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* The onetime foreign minister, Karin Kneissl, has lauded her new home for its “genuine freedom” and used it as a perch to attack her old one.
-* 前外交部长卡琳·克奈斯尔（Karin Kneissl）赞扬她的新家园“真正自由”，并以此为据点抨击她的旧家园。
-* Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.
-* 环保人士长期以来一直对一个庞大的水利项目网络感到困惑，因为这些项目缺乏任何明显的合理性。随后，这些地区成为空袭的目标。
-* When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.
-* 10月份，医生为利奥十四世教宗实施了肺部手术，当时有人猜测他是否会推迟早已计划好的南美之行。到目前为止，一切顺利。
-* Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.
-* 德国、奥地利、荷兰、希腊和丹麦正寻求建立一个庇护申请被拒者的中心。以下是关于他们这项工作的须知事项。
-* The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.
-* 被告被指控与伊朗勾结。人权组织表示，该案因酷刑指控而蒙上阴影，并引发了对宗教迫害的担忧。
-* Delegates met in Geneva to discuss guardrails for such systems even as their development grows. Russia and the United States have resisted the efforts.
-* 代表们在日内瓦举行会议，讨论此类系统的防护措施，即使这些系统正在不断发展。俄罗斯和美国都抵制了这些努力。
-* Even as it talks peace, Russia has opened a bombing campaign intended to strip Kyiv and other cities of heat, running water and sanitation this winter.
-* 即使俄罗斯口口声声说要和平，但它还是发动了轰炸行动，企图在今年冬天让基辅和其他城市断暖、断水、断排污。
-* President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”
-* 特朗普总统还将与该地区的领导人会晤，其中包括澳大利亚总理，后者表示“我们希望看到冲突降级”。
-* The announcement came after a New York Times investigation about the restrictive contracts of the group NewJeans, signed when its members were 14 to 17.
-* 该公告是在《纽约时报》对NewJeans组合的限制性合同进行调查后发布的，该合同是在其成员14至17岁时签署的。
-* Serbia’s student movement was deliberately leaderless and made group decisions to unseat Aleksandar Vucic. Now no one seems quite sure what happens next.
-* 塞尔维亚的学生运动有意不设领袖，并以集体决策的方式推翻亚历山大·武契奇的统治。现在，似乎没有人很确定接下来会发生什么。
+* President Trump’s 48-hour trip started with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.
+* 特朗普总统的48小时行程始于在马尼拉与东南亚领导人的会晤。随后，他将在中国的经济中心深圳与中国国家主席习近平和俄罗斯总统弗拉基米尔·普京会晤。
+* The first lawsuit by strike survivors targets a secretive U.S. military campaign that has killed more than 240 people.
+* 这是空袭幸存者提起的首起诉讼，针对的是一项已造成240多人死亡的秘密美国军事行动。
+* The new government says $20 million worth of bank notes uncovered in farmhouses and woods are the “tip of the iceberg.” Allies of Viktor Orban, the former prime minister, call it a witch hunt.
+* 新政府表示，在农舍和树林中发现的价值2000万美元的钞票只是“冰山一角”。前总理欧尔班·维克托（Viktor Orban）的盟友称之为“猎巫行动”。
+* The three-wheeler that the heir to the British throne used was made by one of 15 finalists honored for creative environmental projects.
+* 英国王位继承人所使用的三轮车由15位入围者之一制造，他们因创意环保项目而获奖。
+* As the Ebola virus spreads in eastern Congo, health teams struggle to curb fatal delays in seeking medical care and the widespread desire to treat sick relatives at home.
+* 随着埃博拉病毒在刚果东部蔓延，医疗队正竭力遏制人们在寻求医疗护理方面的致命性延误，以及在家中护理患病亲属的普遍意愿。
+* Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.
+* 据《纽约时报》的分析，北京正在开展一场协同一致的宣传攻势，将日本描绘成侵略者和死灰复燃的军事威胁。
+* Prosecutors say Christian Sanon was a con man who oversaw a plan to assassinate the country’s president. His defense says he played no part in the plot’s fatal outcome.
+* 检察官称，克里斯蒂安·萨农（Christian Sanon）是一名骗子，他负责策划刺杀该国总统的阴谋。他的辩护律师表示，他对阴谋的致命后果没有任何责任。
+* Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.
+* 摧毁这座将俄罗斯与被占领的克里米亚半岛连接起来的唯一桥梁，长期以来一直是基辅的首要目标。
+* A doctor, a gravedigger, a therapist and a pathologist share their war experiences.
+* 一位医生、一位掘墓人、一位治疗师和一位病理学家分享了他们的战争经历。
+* The agreement between Canada and China and the cordial relations on display by their leaders contrast with the current Canada-U.S. relationship.
+* 加拿大与中国之间的协议以及两国领导人所展现的友好关系与当前加拿大与美国的关系形成鲜明对比。
 
 ## New York Times United States News
-* Chase was among several U.S. banks whose customers reported technical issues on Monday.
-* 大通是周一有客户报告技术问题的多家美国银行之一。
-* The justices left in place a lower-court decision to block the administration from cutting millions in grants to University of California researchers over perceived ties to diversity initiatives.
-* 大法官们维持了下级法院的裁决，阻止政府削减数百万美元的拨款，这些拨款原定用于加州大学的研究人员，但因其被认为与多元化倡议有关而遭到削减。
-* Investigations have found most evidence in Jeffrey Epstein’s death points to suicide. Michael Freeman, a forensic scientist who studies homicides, got rare access to the autopsy file and disagrees.
-* 调查发现，杰弗里·爱泼斯坦（Jeffrey Epstein）死亡案的大多数证据都指向自杀。研究凶杀案的法医科学家迈克尔·弗里曼（Michael Freeman）获得了罕见的尸检档案查阅权限，但他并不认同这一说法。
-* Significant portions of Peoria and East Peoria were evacuated on Friday night after officials found and deactivated an explosive at an ethanol plant.
-* 周五晚，官员们在一座乙醇厂发现并销毁了一枚爆炸物，随后皮奥里亚和东皮奥里亚的大部分居民被疏散。
-* As he prepared for a visit to China, the president played down the fallout from Mr. Huang’s affair with a woman officials have identified as an intelligence asset for Beijing.
-* 在准备访问中国之际，总统淡化了黄先生与一名女性的关系所造成的影响，官员们已确认该女性是北京的情报人员。
-* Margot Sanger-Katz, our reporter on health care policy, explains why Affordable Care Act plans are becoming more costly, and who will face the steepest cost increases.
-* 我们的医疗保健政策记者玛戈·桑格-卡茨（Margot Sanger-Katz）解释了为什么《平价医疗法案》的保险计划成本越来越高，以及哪些人将面临最剧烈的成本上涨。
-* The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies.
-* 这些规定一直是政府内部激烈争论的话题，并将削弱为中国公司提供服务的数据中心蓬勃发展的业务。
-* A tanker struck a docked passenger ship in New Orleans on Friday, causing it to capsize. Investigators emphasized that their findings were preliminary.
-* 周五，一艘油轮撞上停泊在新奥尔良的客轮，导致客轮倾覆。调查人员强调，他们的调查结果是初步的。
-* At a hearing on Monday, prosecutors did not say whether they would plan to retry Ms. Clancy on first-degree murder charges, lesser charges or at all.
-* 在周一的听证会上，检方没有说明他们是否计划以一级谋杀罪、较轻的罪名或任何罪名对克伦西女士进行重审。
-* Once she takes office, she pledges to use metrics to deliver “a city that works” after a pandemic, wildfires and clashes with Trump. But budget constraints and more stand in the way.
-* 她承诺，一旦上任，将使用各项指标来打造一个在经历疫情、野火和与特朗普的冲突之后“运转良好的城市”。但预算限制等因素阻碍了这一目标的实现。
+* President Trump’s envoys are trying to overcome Russian hostility and European suspicion to craft a postwar security agreement in Europe that could end the war in Ukraine.
+* 特朗普总统的特使正试图克服俄罗斯的敌意和欧洲的猜疑，以期在欧洲达成一项战后安全协议，从而结束乌克兰的战争。
+* A 62-year-old man was found drowned in a cove this month, evoking the lake’s stormy history.
+* 本月，一名62岁的男子被发现在一个海湾溺亡，这让人不禁回想起该湖的暴风雨历史。
+* After months of delay, Defense Secretary Pete Hegseth and the White House have sent Gen. Christopher LaNeve’s nomination for Army chief of staff to the Senate.
+* 经过数月的拖延，国防部长皮特·赫格塞斯和白宫已将克里斯托弗·拉内夫将军的陆军参谋长提名提交至参议院。
+* A federal grand jury in Peoria charged the man, who may have worked at the BioUrja plant, with threatening to detonate an explosive device last week.
+* 皮奥里亚的一个联邦大陪审团指控这名男子可能曾在BioUrja工厂工作，并于上周威胁要引爆炸弹。
+* An internal I.R.S. memo viewed by The New York Times reveals how the agency is carrying out President Trump’s orders to investigate “domestic terrorism.”
+* 《纽约时报》查阅的一份美国国税局内部备忘录揭示了该机构如何执行特朗普总统关于调查“国内恐怖主义”的命令。
+* The one-page explanation, which will be laid out for Republican members of Congress Tuesday, was thin on specifics.
+* 这份一页长的说明将于周二提交给国会共和党议员，但其中缺乏具体细节。
+* There are currently no signs that the outage is the result of a cyberattack or other nefarious activity, according to people familiar with the matter.
+* 据知情人士透露，目前尚无迹象表明此次中断是网络攻击或其他不法活动所致。
+* With fewer babies being born and more school choice, districts across the country have concluded they must downsize. Families are trying to push back.
+* 随着出生婴儿数量的减少和学校选择的增多，全国各地的学区都得出了必须缩减规模的结论。家长们正试图予以反击。
+* It may take years for the country to regain elimination status. In the meantime, communities will need to adopt numerous strategies to protect people.
+* 该国可能需要数年时间才能重新获得消除疟疾的地位。与此同时，社区需要采取多项策略来保护人们。
+* Paul Madonna, an artist known for his drawings of San Francisco landmarks, has recovered enough to have his own art exhibition four years after a head-on car collision.
+* Paul Madonna是一位以绘制旧金山地标建筑而闻名的艺术家，在遭遇正面撞车事故四年后，他的身体已恢复得足够好，可以举办自己的艺术展览了。
 
 ## New York Times Asia News
-* It’s illegal in the United States to transport game fowl for fighting. But investigators say breeders are sending birds to the Philippines, where cockfighting is legal and lucrative.
-* 在美国，运输斗禽用于斗鸡是非法的。但调查人员表示，育种者正在将斗鸡运往菲律宾，在那里斗鸡是合法的，而且利润丰厚。
-* The announcement came after a New York Times investigation about the restrictive contracts of the group NewJeans, signed when its members were 14 to 17.
-* 在此之前，《纽约时报》曾对NewJeans组合在成员年龄为14至17岁时签署的限制性合同进行了调查。
-* President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”
-* 特朗普总统还将与该地区多国领导人会晤，其中包括澳大利亚总理，后者表示“我们希望看到冲突降级”。
-* A planned American-led artificial intelligence hub in the Philippines has sparked fierce opposition over concerns about displacement, resources and threats to national sovereignty.
-* 一个计划中的由美国主导的菲律宾人工智能中心引发了激烈的反对，人们担心该中心会导致人口流离失所、资源消耗以及对国家主权的威胁。
-* Can the tourist destination become the first urban island to rid itself of the stoat — an introduced predator that has ravaged New Zealand’s endemic wildlife?
-* 这个旅游胜地能否成为第一个消灭白鼬的城市岛屿？这种外来掠食动物曾肆虐新西兰的本土野生动物。
-* The treatment, called ivonescimab, has become a symbol of China’s rise in drug development.
-* 这种名为伊沃西单抗（ivonescimab）的药物已成为中国药物研发崛起的一个标志。
-* Some were Asia-based Europeans chasing nostalgia. Others were Americans eager to experience their first edition of the song contest.
-* 其中一些是居住在亚洲的欧洲人，他们来这里是为了追寻怀旧之情。还有一些是渴望体验自己首届歌曲大赛的美国人。
-* China, India, Pakistan, Indonesia and Japan didn’t join the singing contest in Bangkok. That left some of the region’s best-known musical cultures out of the mix.
-* 中国、印度、巴基斯坦、印度尼西亚和日本没有参加在曼谷举行的歌唱比赛。这使得该地区一些最著名的音乐文化未能参与其中。
-* While pulsating electro-pop tends to win in Europe, the inaugural Eurovision Song Contest in Asia will mostly feature torch songs accompanied by traditional instruments.
-* 虽然动感的电子流行乐在欧洲往往更受欢迎，但首届亚洲“欧洲”歌曲大赛的参赛歌曲大多是伴有传统乐器的抒情歌曲。
-* So far, the contest’s organizers have kept politics offstage. The European edition shows how difficult that can be.
-* 到目前为止，比赛的组织者一直将政治排除在舞台之外。欧洲赛区的情况表明，做到这一点有多么困难。
+* Even for a president who prizes photo opportunities, Mr. Trump’s appearance in Manila suggested a lack of interest in diplomatic wins or issues at home. “It’s life,” he said.
+* 即使对于一位重视拍照机会的总统来说，特朗普先生在马尼拉的亮相也表明他对外交胜利或国内事务缺乏兴趣。“这就是生活，”他说。
+* Dr. Thurston’s works documented Mao Zedong’s personal life and the traumas of the Cultural Revolution, earning scholarly accolades — and scorn from Beijing.
+* 瑟斯顿博士的作品记录了毛泽东的个人生活和文化大革命带来的创伤，赢得了学术界的赞誉，但也招致了北京的鄙夷。
+* The three-wheeler that the heir to the British throne used was made by one of 15 finalists honored for creative environmental projects.
+* 英国王位继承人所使用的三轮车由15位入围决赛者之一制造，他们因富有创意的环保项目而获奖。
+* President Vladimir V. Putin of Russia could meet with Kim Jong-un if he travels to Shenzhen for the APEC summit this week. North Korea has not confirmed whether Mr. Kim will attend.
+* 如果金正恩本周前往深圳参加亚太经合组织峰会，俄罗斯总统弗拉基米尔·V·普京可能会与他会晤。朝鲜尚未确认金正恩是否会出席。
+* President Trump landed in the Philippines on the first stop of a 48-hour Asia trip during which he is expected to meet with leaders including the presidents of Russia and China.
+* 特朗普总统抵达菲律宾，这是他48小时亚洲之行的第一站，预计他将在此期间与包括俄罗斯和中国国家主席在内的多国领导人会晤。
+* 
+* 
+* New U.S. restrictions could jeopardize billions in investment and force countries in the region to strike an increasingly difficult balance between Washington and Beijing.
+* 美国的新限制措施可能危及数十亿美元的投资，并迫使该地区的国家在华盛顿与北京之间寻求日益艰难的平衡。
+* Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.
+* 据《纽约时报》的分析，北京正在开展一场协同一致的宣传攻势，将日本描绘成侵略者和死灰复燃的军事威胁。
+* Most demonstrators were students who said their government was more focused on its relationship with the United States than helping Filipinos.
+* 大多数示威者是学生，他们表示，政府更关注与美国的关系，而不是帮助菲律宾人民。
+* President Trump’s trip to Asia is filled with acronyms. Here is a primer on what those terms mean, and some highlights from previous summits.
+* 特朗普总统的亚洲之行充满了各种缩写词。以下是这些术语含义的入门指南，以及以往峰会的一些亮点。
 
