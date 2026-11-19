@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* An emerging field of psychology suggests that it’s probably not what you think — and that there might be reason for optimism.
-* 一个新兴的心理学领域表明，情况可能并非你所想的那样——而且可能有理由感到乐观。
-* China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.
-* 早些时候，中国国家主席习近平在特朗普总统抵达深圳参加地区峰会时，在停机坪上与他拥抱。预计他们将于周四与俄罗斯总统弗拉基米尔·V·普京举行三方会晤。
-* Kuwait and Bahrain said they were targeted on Wednesday, a sign of how the Middle East is stuck in limbo between peace and full-blown war.
-* 科威特和巴林周三表示，它们成为了袭击目标，这表明中东正处于和平与全面战争之间的微妙状态。
-* The bilateral meeting between the neighbors follows trade gains for Canada’s prime minister this week with China and the Philippines.
-* 在加拿大总理本周与中国和菲律宾达成贸易成果之后，两国邻邦将举行双边会晤。
-* Xi Jinping, China’s leader, greeted Sanae Takaichi, Japan’s prime minister, in Shenzhen a year after China began punishing Japan over her comments on Taiwan.
-* 在中国因日本首相高市早苗的台湾言论而开始惩罚日本一年后，中国领导人习近平在深圳迎接了她。
-* Russia is accused of clandestine attacks on Ukraine’s allies in Europe, most notably at Leipzig/Halle airport in eastern Germany. That has changed life for villagers nearby.
-* 俄罗斯被指控秘密袭击乌克兰在欧洲的盟友，最引人注目的是在德国东部的莱比锡/哈勒机场发生的袭击事件。这改变了附近村民的生活。
-* The landmark deal will also go toward remedying human rights problems caused by the long-closed Papua New Guinea mine.
-* 这项具有里程碑意义的协议还将用于解决巴布亚新几内亚长期关闭的矿山所造成的人权问题。
-* The International Court of Justice is issuing a landmark verdict on whether the state of Myanmar committed genocide.
-* 国际法院将就缅甸政府是否犯有种族灭绝罪作出具有里程碑意义的裁决。
-* In the 1980s, Boris Grebenshchikov led a revered Russian underground band. A rereleased documentary from that era is bringing new attention to his work.
-* 20世纪80年代，鲍里斯·格列本希科夫（Boris Grebenshchikov）带领一支备受尊崇的俄罗斯地下乐队。一部重新上映的那个时代的纪录片让人们重新关注他的作品。
-* The new government says $20 million worth of bank notes uncovered in farmhouses and woods are the “tip of the iceberg.” Allies of Viktor Orban, the former prime minister, call it a witch hunt.
-* 新政府表示，在农舍和树林中发现的价值2000万美元的钞票只是“冰山一角”。前总理欧尔班·维克托（Viktor Orban）的盟友称之为“猎巫行动”。
+* Myanmar became the first state held accountable for violating the 1948 Genocide Convention. The ruling by the International Court of Justice could have broad implications.
+* 缅甸成为第一个因违反1948年《灭绝种族罪公约》而被追究责任的国家。国际法院的裁决可能产生深远影响。
+* The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.
+* 在中国的这次会晤似乎主要具有象征意义。特朗普总统离开后，弗拉基米尔·V·普京总统表示，俄罗斯不会与乌克兰就停火进行谈判。
+* In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.
+* 在一项可能产生深远影响的裁定中，国际法院首次裁定一个国家犯有种族灭绝罪。
+* The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was.
+* 俄罗斯领导人邀请欧洲代表前往莫斯科，讨论让他们在谈判中发挥作用。目前尚不清楚这一提议的严肃程度。
+* 
+* 
+* After government troops and mobs rampaged through Rohingya communities in Myanmar in 2017, refugees fled to to Bangladesh.
+* 2017年，缅甸政府军和暴民在罗兴亚人社区肆虐后，难民逃往孟加拉国。
+* President Trump joined the Chinese and Russian leaders for a summit in Shenzhen, even though the two autocrats are trying to reverse America’s victory in the Cold War.
+* 尽管这两位独裁者正试图扭转美国在冷战中的胜利，但特朗普总统仍与中俄两国领导人一同出席了在深圳举行的峰会。
+* Foreign ministers for Austria and the Netherlands said no one was harmed at their embassy compounds, and the European Union’s ambassador said a drone “exploded right above my head" by her hotel.
+* 奥地利和荷兰的外交部长表示，两国大使馆大院内无人受伤，欧盟大使表示，一架无人机“在我头顶上方爆炸”，地点位于她下榻的酒店附近。
+* Greenland’s politicians voted to change the Arctic island’s time zone to be farther from Denmark, its former colonial power, and closer to the United States.
+* 格陵兰的政界人士投票决定将这个北极岛屿的时区改为更远离其前殖民宗主国丹麦，而更接近美国。
+* An aerial attack by the Yemeni militia affected several floors of a skyscraper that is home to the Public Investment Fund, without causing injuries, according to Saudi authorities.
+* 据沙特当局称，也门民兵的一次空袭波及了一栋摩天大楼的几层，该大楼是公共投资基金的所在地，但未造成人员受伤。
 
 ## New York Times United States News
-* President Xi Jinping of China offered a hug and a red-carpet welcome as President Trump avoided discussing the espionage case that brought down Nvidia’s Jensen Huang.
-* 中国国家主席习近平热情拥抱并以红毯仪式迎接特朗普总统，而特朗普总统则避免提及导致英伟达的黄仁勋落马的间谍案。
-* A venture capitalist and Peter Thiel acolyte, Jim O’Neill faced bipartisan concern over whether he would stand up for science.
-* 风险投资家兼彼得·蒂尔的追随者吉姆·奥尼尔（Jim O’Neill）面临着两党对其实际是否会支持科学的担忧。
-* The tension comes at a critical juncture for the vice president, who is considering whether to run for president in 2028.
-* 这种紧张局势发生在副总统的一个关键时刻，她正在考虑是否在2028年竞选总统。
-* Some students are refusing to use A.I., and others are starting petitions to limit it across entire campuses. Colleges have taken notice.
-* 一些学生拒绝使用人工智能，另一些学生则发起请愿，要求在整个校园范围内限制人工智能的使用。高校已经注意到了这一点。
-* The vote put Representative Hakeem Jeffries of New York in line to become the first Black lawmaker to win the post second in line to the presidency.
-* 此次投票使纽约州众议员哈基姆·杰弗里斯成为首位赢得总统继任第二顺位职位的黑人议员。
-* Amazon wants to offer faster delivery. Residents want quiet skies. A Massachusetts suburb wages an epic battle for control of its airspace.
-* 亚马逊希望提供更快的配送服务。居民希望天空宁静。马萨诸塞州的一个郊区正在为争夺其领空控制权而展开一场史诗般的斗争。
-* Beleaguered by high fuel costs and wary of overfishing, Alaskans were drawn to the Democrat’s hyperlocal pitch.
-* 由于高昂的燃油成本和对过度捕捞的担忧，阿拉斯加人被民主党的超本地化宣传所吸引。
-* The inquiries would focus on President Trump, his family and top officials in his administration and would include a look at Commerce Secretary Howard Lutnick and policies related to Nvidia.
-* 调查将重点关注特朗普总统、其家人及其政府的高级官员，并将包括对商务部长霍华德·卢特尼克（Howard Lutnick）以及与英伟达相关的政策的审查。
-* President Trump plans to discuss Ukraine with the leaders of Russia and China. He has halted some sanctions on Russia and announced that the United States will buy Russian diesel.
-* 特朗普总统计划与俄罗斯和中国领导人讨论乌克兰问题。他已暂停对俄罗斯的一些制裁，并宣布美国将购买俄罗斯柴油。
-* An investigation by the Government Accountability Office found that researchers were able to prod chatbots into generating data that could be used in planning or conducting mass-casualty attacks.
-* 美国政府问责局的一项调查发现，研究人员能够促使聊天机器人生成可用于规划或实施大规模伤亡袭击的数据。
+* Her lawyers plan to argue in January that the first-degree murder charges against her should be dropped following her mistrial.
+* 她的律师计划在1月辩称，在她被判无效审判后，对她的一级谋杀指控应予撤销。
+* An F.B.I. campaign against the Black Panthers and a justice’s questionable failure to recuse himself dealt a blow to protections for confidential sources.
+* 联邦调查局针对黑豹党的行动，以及一位法官在应回避时却未回避的可疑行为，对保密消息来源的保护造成了打击。
+* Weakened by the midterm elections, President Trump offered hugs, arm pats and smiles to autocrats from Russia and China in contrast to the threats he is making to ascendant Democrats in Washington.
+* 中期选举削弱了特朗普总统的实力，他向来自俄罗斯和中国的独裁者敞开怀抱、拍拍肩膀、面带微笑，这与他对华盛顿势头正盛的民主党人发出的威胁形成了鲜明对比。
+* Gaps in protections for lawmaker communications loom larger as the administration amplifies its threats to criminally investigate Democrats for aggressive oversight efforts.
+* 随着政府加剧对民主党人因其积极监督行为而进行刑事调查的威胁，立法者通讯保护方面的漏洞变得更加明显。
+* The appointment of Bill Essayli to run a key aspect of the so-called grand conspiracy case was the latest shake-up in a central part of President Trump’s retribution campaign.
+* 任命比尔·埃塞利负责所谓的“大阴谋”案件的一个关键方面，是特朗普总统报复运动核心部分最近的一次人事变动。
+* The paramedic in rural Utah realized a man pinned under a car was her son after she began treating him, the authorities said.
+* 当局表示，犹他州乡村地区的这位护理人员在开始为一名被压在车下的男子进行治疗后，才意识到此人是她的儿子。
+* The firm Kirkland & Ellis has quietly disclosed that as part of the deal it reached with the Trump administration, it has done about 6,491 hours of free work.
+* 律师事务所凯易（Kirkland & Ellis）悄然披露，作为与特朗普政府达成协议的一部分，该所已提供了约6491小时的免费工作。
+* The beloved Citgo sign will be lit again on Thursday night after it was rebuilt and moved 120 feet to the east, its latest incarnation in a city transformed by development.
+* 备受喜爱的雪佛龙标志将在周四晚上重新亮起，在此之前，它经过了重建并向东移动了120英尺，这是它在这座因开发而发生巨变的城市中的最新面貌。
+* Representatives Marjorie Taylor Greene, Lauren Boebert and Nancy Mace embodied a combative, attention-seeking brand of politics that defined the Republican Congress.
+* 众议员玛乔丽·泰勒·格林、劳伦·博伯特和南希·梅斯体现了一种好斗、渴望引人注目的政治风格，而这种风格正是共和党国会议员的鲜明特征。
+* San Francisco isn’t preparing for an Anthropic shopping spree after employees gain newfound affluence from the company’s initial public offering.
+* 旧金山并没有为Anthropic的员工在公司首次公开募股后获得新财富而即将开启的购物狂潮做好准备。
 
 ## New York Times Asia News
-* A 1945 meeting of Churchill, Stalin and Franklin Roosevelt set Europe’s course for decades. Here’s what happened.
-* 1945年，丘吉尔、斯大林和富兰克林·罗斯福举行了一次会议，为欧洲此后的几十年定下了方向。以下是会议经过。
-* The Russian leader demonstrated that despite his isolation from many Western nations over the war in Ukraine, he remains on good terms with much of the rest of the world.
-* 这位俄罗斯领导人表明，尽管他在乌克兰战争问题上与许多西方国家疏远，但他与世界上大多数其他国家仍保持着良好关系。
-* Xi Jinping, China’s leader, greeted Sanae Takaichi, Japan’s prime minister, in Shenzhen a year after China began punishing Japan over her comments on Taiwan.
-* 在中国因日本首相高市早苗的台湾言论而开始对日本实施惩罚一年后，中国领导人习近平在深圳会见了高市早苗。
-* President Ferdinand R. Marcos Jr. of the Philippines flattered President Trump during his brief visit to Manila. It is unclear what dividends the strategy will yield.
-* 菲律宾总统小费迪南德·R·马科斯在对马尼拉的短暂访问期间对特朗普总统大加赞赏。目前尚不清楚这一策略将带来怎样的回报。
-* The appearance was the first time Xi Jinping had personally received a foreign dignitary at an airport during more than a decade as China’s leader.
-* 这是习近平担任中国领导人十多年来首次亲自在机场迎接外国政要。
-* Russian military planes flew through the region, prompting Japan and South Korea to scramble jets in response, and drawing complaints from Taiwan.
-* 俄罗斯军用飞机飞越该地区，促使日本和韩国紧急出动战机应对，并引发台湾的抗议。
-* The International Court of Justice is issuing a landmark verdict on whether the state of Myanmar committed genocide.
-* 国际法院将就缅甸政府是否犯有种族灭绝罪作出具有里程碑意义的裁决。
-* President Trump and the former first lady of the Philippines know each other well, her son, the country’s leader, has said.
-* 菲律宾总统小马科斯表示，特朗普总统和菲律宾前第一夫人非常熟悉。
-* President Trump’s host in Manila put in a late-night order from the Filipino fast-food chain Jollibee for the American leader.
-* 在马尼拉接待特朗普总统的东道主为这位美国领导人向菲律宾快餐连锁店Jollibee下了深夜订单。
-* The landmark deal will also go toward remedying human rights problems caused by the long-closed Papua New Guinea mine.
-* 这项具有里程碑意义的协议还将用于解决巴布亚新几内亚长期关闭的矿山所造成的人权问题。
+* President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.
+* 特朗普总统称俄罗斯领导人是他的“朋友”，并对中国在他首次参加的三方峰会上给予的热情欢迎感到惊叹。但在核控制、乌克兰战争或人工智能方面都没有取得突破。
+* The United States, China and Russia agreed to boost the supply of refined petroleum products, as oil prices spike because of the Iran war.
+* 由于伊朗战争导致油价飙升，美国、中国和俄罗斯同意增加精炼石油产品的供应。
+* People gathered in the rain to hear the ruling on whether Myanmar had committed genocide, though they understood it might not change their lives anytime soon.
+* 人们冒雨聚集在一起，聆听关于缅甸是否犯下种族灭绝罪的裁决，尽管他们明白这可能不会很快改变他们的生活。
+* Anthropic excluded investment firms from China and Hong Kong from buying shares in advance of its initial public offering.
+* Anthropic 禁止中国和香港的投资公司在其首次公开募股之前购买其股份。
+* After government troops and mobs rampaged through Rohingya communities in Myanmar in 2017, refugees fled to to Bangladesh.
+* 2017年，缅甸政府军和暴民在罗兴亚人社区肆虐后，难民逃往孟加拉国。
+* Greenland’s politicians voted to change the Arctic island’s time zone to be farther from Denmark, its former colonial power, and closer to the United States.
+* 格陵兰的政界人士投票决定将这个北极岛屿的时区改为更远离其前殖民宗主国丹麦，而更接近美国。
+* After their summit, the leaders of Russia, the United States and China agreed that “a nuclear war cannot be won and must never be fought.” Some analysts are skeptical that real change will result.
+* 在峰会结束后，俄罗斯、美国和中国的领导人一致认为“核战争打不赢，也绝不能打”。一些分析人士对是否会带来真正的变化持怀疑态度。
+* On Thursday, the International Court of Justice ruled that the atrocities against the Rohingya ethnic minority constituted a genocide waged by the Myanmar state. Before the decision, Hannah Beech, a New York Times correspondent, spent a week in the refugee camps in Cox’s Bazar, Bangladesh, home to at least 1.2 million Rohingya.
+* 周四，国际法院裁定，缅甸政府对罗兴亚族少数民族实施的暴行构成种族灭绝。在裁决作出之前，《纽约时报》记者汉娜·比奇（Hannah Beech）在孟加拉国科克斯巴扎尔的难民营度过了一周时间，该地至少有120万罗兴亚人居住。
+* 
+* 
+* President Claudia Sheinbaum flew commercial, a journey that involved a 15-hour leg. It was a symbol of her government’s commitment to austerity.
+* 克劳迪娅·辛鲍姆总统乘坐商业航班，其中一段航程长达 15 小时。这象征着她领导的政府对紧缩政策的承诺。
 
