@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Myanmar became the first state held accountable for violating the 1948 Genocide Convention. The ruling by the International Court of Justice could have broad implications.
-* 缅甸成为第一个因违反1948年《灭绝种族罪公约》而被追究责任的国家。国际法院的裁决可能产生深远影响。
-* The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.
-* 在中国的这次会晤似乎主要具有象征意义。特朗普总统离开后，弗拉基米尔·V·普京总统表示，俄罗斯不会与乌克兰就停火进行谈判。
+* The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.
+* 乌克兰战争对海豚、麋鹿、鹳以及众多其他野生动物造成了难以估量的影响，它们的栖息地如今到处布满了反无人机网、雷区，或者直接处于交火线上。
+* For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.
+* 十多年来，伊拉克军队和警察部队首次被部署到真主党旅控制的领土。但目前尚不清楚该组织是否会撤出其武装力量。
+* There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.
+* 在乌克兰盟友的军事演习期间，发生了三起波兰当局称可能是俄罗斯“挑衅”的事件，但未造成人员受伤或财产损失。
+* As he toured South America this month, Pope Leo XIV met with 11 victims of clerical sexual abuse. Some want him to engage more meaningfully.
+* 本月，教宗利奥十四世在南美洲巡访期间会见了11名神职人员性侵的受害者。有些人希望他能以更有意义的方式参与其中。
+* Protests across Europe are the latest example of global youth anger that has driven demonstrations and election upsets.
+* 席卷欧洲的抗议活动是全球青年愤怒的最新例证，这种愤怒引发了示威活动和选举动荡。
+* Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.
+* 普京总统与美国和中国领导人并肩而立，在他长期致力于恢复俄罗斯全球大国地位的努力中取得了象征性的胜利。
+* Prime Minister Andy Burnham and European leaders said they had agreed to remove some of the barriers created when Britain left the European Union.
+* 安迪·伯纳姆（Andy Burnham）首相和欧洲领导人表示，他们已同意消除英国脱离欧盟时产生的一些障碍。
+* The wooden gunboat Spitfire was entombed in waters near the Great Barrier Reef after it went down in a cyclone in 1898.
+* 木制炮舰“喷火号”于1898年在飓风中沉没，被埋葬在大堡礁附近的水域。
 * In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.
-* 在一项可能产生深远影响的裁定中，国际法院首次裁定一个国家犯有种族灭绝罪。
-* The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was.
-* 俄罗斯领导人邀请欧洲代表前往莫斯科，讨论让他们在谈判中发挥作用。目前尚不清楚这一提议的严肃程度。
-* 
-* 
-* After government troops and mobs rampaged through Rohingya communities in Myanmar in 2017, refugees fled to to Bangladesh.
-* 2017年，缅甸政府军和暴民在罗兴亚人社区肆虐后，难民逃往孟加拉国。
-* President Trump joined the Chinese and Russian leaders for a summit in Shenzhen, even though the two autocrats are trying to reverse America’s victory in the Cold War.
-* 尽管这两位独裁者正试图扭转美国在冷战中的胜利，但特朗普总统仍与中俄两国领导人一同出席了在深圳举行的峰会。
-* Foreign ministers for Austria and the Netherlands said no one was harmed at their embassy compounds, and the European Union’s ambassador said a drone “exploded right above my head" by her hotel.
-* 奥地利和荷兰的外交部长表示，两国大使馆大院内无人受伤，欧盟大使表示，一架无人机“在我头顶上方爆炸”，地点位于她下榻的酒店附近。
-* Greenland’s politicians voted to change the Arctic island’s time zone to be farther from Denmark, its former colonial power, and closer to the United States.
-* 格陵兰的政界人士投票决定将这个北极岛屿的时区改为更远离其前殖民宗主国丹麦，而更接近美国。
-* An aerial attack by the Yemeni militia affected several floors of a skyscraper that is home to the Public Investment Fund, without causing injuries, according to Saudi authorities.
-* 据沙特当局称，也门民兵的一次空袭波及了一栋摩天大楼的几层，该大楼是公共投资基金的所在地，但未造成人员受伤。
+* 在一项可能产生深远影响的裁定中，国际法院首次认定一个国家犯有种族灭绝罪。
+* A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.
+* 陪审团驳回了这些男子的辩护，他们辩称自己一直相信乔安·杨（Joanne Young）丈夫的保证，即乔安·杨表示同意。乔安·杨的丈夫本人已对强奸罪认罪。
 
 ## New York Times United States News
-* Her lawyers plan to argue in January that the first-degree murder charges against her should be dropped following her mistrial.
-* 她的律师计划在1月辩称，在她被判无效审判后，对她的一级谋杀指控应予撤销。
-* An F.B.I. campaign against the Black Panthers and a justice’s questionable failure to recuse himself dealt a blow to protections for confidential sources.
-* 联邦调查局针对黑豹党的行动，以及一位法官在应回避时却未回避的可疑行为，对保密消息来源的保护造成了打击。
-* Weakened by the midterm elections, President Trump offered hugs, arm pats and smiles to autocrats from Russia and China in contrast to the threats he is making to ascendant Democrats in Washington.
-* 中期选举削弱了特朗普总统的实力，他向来自俄罗斯和中国的独裁者敞开怀抱、拍拍肩膀、面带微笑，这与他对华盛顿势头正盛的民主党人发出的威胁形成了鲜明对比。
-* Gaps in protections for lawmaker communications loom larger as the administration amplifies its threats to criminally investigate Democrats for aggressive oversight efforts.
-* 随着政府加剧对民主党人因其积极监督行为而进行刑事调查的威胁，立法者通讯保护方面的漏洞变得更加明显。
-* The appointment of Bill Essayli to run a key aspect of the so-called grand conspiracy case was the latest shake-up in a central part of President Trump’s retribution campaign.
-* 任命比尔·埃塞利负责所谓的“大阴谋”案件的一个关键方面，是特朗普总统报复运动核心部分最近的一次人事变动。
-* The paramedic in rural Utah realized a man pinned under a car was her son after she began treating him, the authorities said.
-* 当局表示，犹他州乡村地区的这位护理人员在开始为一名被压在车下的男子进行治疗后，才意识到此人是她的儿子。
-* The firm Kirkland & Ellis has quietly disclosed that as part of the deal it reached with the Trump administration, it has done about 6,491 hours of free work.
-* 律师事务所凯易（Kirkland & Ellis）悄然披露，作为与特朗普政府达成协议的一部分，该所已提供了约6491小时的免费工作。
-* The beloved Citgo sign will be lit again on Thursday night after it was rebuilt and moved 120 feet to the east, its latest incarnation in a city transformed by development.
-* 备受喜爱的雪佛龙标志将在周四晚上重新亮起，在此之前，它经过了重建并向东移动了120英尺，这是它在这座因开发而发生巨变的城市中的最新面貌。
-* Representatives Marjorie Taylor Greene, Lauren Boebert and Nancy Mace embodied a combative, attention-seeking brand of politics that defined the Republican Congress.
-* 众议员玛乔丽·泰勒·格林、劳伦·博伯特和南希·梅斯体现了一种好斗、渴望引人注目的政治风格，而这种风格正是共和党国会议员的鲜明特征。
-* San Francisco isn’t preparing for an Anthropic shopping spree after employees gain newfound affluence from the company’s initial public offering.
-* 旧金山并没有为Anthropic的员工在公司首次公开募股后获得新财富而即将开启的购物狂潮做好准备。
+* Emergency preparedness aficionados are eager to give advice about how to survive when society breaks down. They’re also willing to make a buck.
+* 应急准备爱好者渴望就社会崩溃时如何生存提供建议。他们也愿意赚点钱。
+* Once considered vulnerable to local issues, Democratic candidates for attorneys general romped on Tuesday, with the final contests called against Republican attorneys general in Kansas and Ohio.
+* 民主党总检察长候选人曾被认为在地方性问题上处于弱势，但他们在周二大获全胜，最终在堪萨斯州和俄亥俄州击败了共和党总检察长。
+* Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.
+* 与Nvidia丑闻核心人物Alice Huang有关联的公司，是需要先进算力的中国科技公司和国防承包商网络的一部分。
+* The park near downtown Los Angeles has long been a disquieting example of the city’s struggles to address drug sales, homelessness and people struggling with mental health issues.
+* 这座位于洛杉矶市中心附近的公园长期以来一直是该市在应对毒品销售、无家可归和精神健康问题方面所面临困境的一个令人不安的例证。
+* 
+* 
+* The Texas attorney general has abandoned suits against Muslim and immigrant rights groups — and the N.C.A.A.
+* 德克萨斯州总检察长已放弃对穆斯林和移民权利团体以及NCAA的起诉。
+* Lawyers at the Commodity Futures Trading Commission looked into possible fraud soon after the digital token’s launch, then decided they would not get the commission’s support.
+* 商品期货交易委员会的律师在数字代币推出后不久就调查了可能的欺诈行为，然后决定他们不会得到该委员会的支持。
+* Prison personnel placed needles in the neck and foot of Reinaldo Dennes, who was convicted of killing a diamond broker 30 years ago. The lethal injection process took more than an hour.
+* 雷纳尔多·德内斯（Reinaldo Dennes）30年前因谋杀一名钻石经纪人而被判有罪，监狱工作人员将针头扎入他的脖子和脚部。注射死刑的过程持续了一个多小时。
+* A 5.0-magnitude quake struck around Pinnacles, Calif., southeast of San Francisco. A few hours later, a 4.2-magnitude quake hit just outside of Los Angeles.
+* 加利福尼亚州皮纳克尔斯（旧金山东南方）附近发生5.0级地震。几小时后，洛杉矶郊外发生4.2级地震。
+* In a wide-ranging interview, the governor of Florida talked about the potential timing of a presidential run. “I haven’t made any decisions,” he said.
+* 在一次内容广泛的采访中，佛罗里达州州长谈到了竞选总统的可能时机。“我还没有做出任何决定，”他说。
 
 ## New York Times Asia News
+* Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.
+* 与Nvidia丑闻核心人物Alice Huang有关联的公司，是需要先进算力的中国科技公司和国防承包商网络的一部分。
+* A summit among the leaders of the United States, China and Russia produced no treaties on war or nuclear weapons — and the A.I. race wasn’t even on the agenda.
+* 美国、中国和俄罗斯领导人之间的峰会没有达成任何关于战争或核武器的条约，而人工智能竞赛甚至没有被列入议程。
+* While Anthropic and other Silicon Valley A.I. giants are raising tens of billions in capital, Chinese rivals are struggling to keep pace financially.
+* 在Anthropic和硅谷其他人工智能巨头正在筹集数千亿美元资金之际，中国的竞争对手正竭力在资金方面跟上步伐。
+* Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.
+* 站在美国和中国领导人身旁，弗拉基米尔·V·普京总统在其长期寻求恢复俄罗斯作为全球大国地位的努力中取得了象征性的胜利。
+* The ruling by the International Court of Justice deals with issues relevant to the case brought against Israel alleging genocide in Gaza. Israel has rejected the charge.
+* 国际法院的裁决涉及与针对以色列的加沙种族灭绝指控案相关的问题。以色列已否认该指控。
 * President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.
 * 特朗普总统称俄罗斯领导人是他的“朋友”，并对中国在他首次参加的三方峰会上给予的热情欢迎感到惊叹。但在核控制、乌克兰战争或人工智能方面都没有取得突破。
 * The United States, China and Russia agreed to boost the supply of refined petroleum products, as oil prices spike because of the Iran war.
-* 由于伊朗战争导致油价飙升，美国、中国和俄罗斯同意增加精炼石油产品的供应。
+* 由于伊朗战争导致油价飙升，美国、中国和俄罗斯同意增加炼油产品的供应。
 * People gathered in the rain to hear the ruling on whether Myanmar had committed genocide, though they understood it might not change their lives anytime soon.
 * 人们冒雨聚集在一起，聆听关于缅甸是否犯下种族灭绝罪的裁决，尽管他们明白这可能不会很快改变他们的生活。
 * Anthropic excluded investment firms from China and Hong Kong from buying shares in advance of its initial public offering.
 * Anthropic 禁止中国和香港的投资公司在其首次公开募股之前购买其股份。
 * After government troops and mobs rampaged through Rohingya communities in Myanmar in 2017, refugees fled to to Bangladesh.
 * 2017年，缅甸政府军和暴民在罗兴亚人社区肆虐后，难民逃往孟加拉国。
-* Greenland’s politicians voted to change the Arctic island’s time zone to be farther from Denmark, its former colonial power, and closer to the United States.
-* 格陵兰的政界人士投票决定将这个北极岛屿的时区改为更远离其前殖民宗主国丹麦，而更接近美国。
-* After their summit, the leaders of Russia, the United States and China agreed that “a nuclear war cannot be won and must never be fought.” Some analysts are skeptical that real change will result.
-* 在峰会结束后，俄罗斯、美国和中国的领导人一致认为“核战争打不赢，也绝不能打”。一些分析人士对是否会带来真正的变化持怀疑态度。
-* On Thursday, the International Court of Justice ruled that the atrocities against the Rohingya ethnic minority constituted a genocide waged by the Myanmar state. Before the decision, Hannah Beech, a New York Times correspondent, spent a week in the refugee camps in Cox’s Bazar, Bangladesh, home to at least 1.2 million Rohingya.
-* 周四，国际法院裁定，缅甸政府对罗兴亚族少数民族实施的暴行构成种族灭绝。在裁决作出之前，《纽约时报》记者汉娜·比奇（Hannah Beech）在孟加拉国科克斯巴扎尔的难民营度过了一周时间，该地至少有120万罗兴亚人居住。
-* 
-* 
-* President Claudia Sheinbaum flew commercial, a journey that involved a 15-hour leg. It was a symbol of her government’s commitment to austerity.
-* 克劳迪娅·辛鲍姆总统乘坐商业航班，其中一段航程长达 15 小时。这象征着她领导的政府对紧缩政策的承诺。
 
