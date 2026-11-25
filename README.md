@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.
-* 阿里·扎伊迪刚刚在与一支伊朗支持的强大民兵组织的斗争中取得了象征性的胜利，现在又开始着手掌控库尔德地区的边境口岸和石油资源。
-* The people were wounded in the strike on a building in Riyadh, the Saudi authorities said. The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.
-* 沙特当局表示，利雅得一栋建筑遭到袭击，造成人员受伤。伊朗支持的民兵组织和沙特阿拉伯数周来一直在相互发动不断升级的袭击。
-* Beijing may welcome the return of the leading U.S. advocate for A.I. chip sales to China. But the saga could reinforce a Chinese push for self-reliance, analysts say.
-* 北京方面可能会欢迎这位美国对华销售人工智能芯片的主要倡导者回归。但分析人士表示，这一事件可能会强化中国对自力更生的推动。
-* Parastoo Ahmadi sang without wearing the mandatory veil in a virtual concert in 2024 that spread quickly online and drew the ire of the Islamic republic authorities.
-* 2024年，帕拉斯图·艾哈迈迪在一次线上音乐会上未佩戴强制性面纱演唱，该视频在网上迅速传播，并引起了伊朗伊斯兰共和国当局的愤怒。
-* The killing of Nahel Merzouk, 17, sparked nationwide unrest. The case against the officer accused of involvement has undergone repeated twists and turns.
-* 17 岁的纳埃勒·梅尔祖克（Nahel Merzouk）被杀害，引发了全国范围的骚乱。对涉案警官的指控一再出现戏剧性转折。
-* Sanae Takaichi welcomed the court’s president and vowed to accelerate financial support despite an effort by the Trump administration to cripple the global body.
-* 高市早苗对法院院长表示欢迎，并承诺将加快提供财政支持，尽管特朗普政府正试图削弱这一全球性机构。
-* The men were arrested near Anmer Hall, the couple’s country retreat in Norfolk, on Monday night.
-* 周一晚，这两名男子在这对夫妇位于诺福克的乡村度假别墅安默尔庄园（Anmer Hall）附近被逮捕。
-* Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.
-* 模糊的监控录像引发了一场疯狂的搜寻，直到土耳其当局表示，目前尚不清楚这只动物是否是猫。
-* As the death toll rose to 26, one rescue worker said that more victims might be found near a stairwell in the building. The police opened a criminal investigation.
-* 随着死亡人数升至26人，一名救援人员表示，大楼楼梯井附近可能还会发现更多遇难者。警方已立案展开刑事调查。
-* Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.
-* 在突然下台之前，技术官僚陈吉宁被视为习近平治下的中国未来的国家领导人。
+* Mauritius, a popular tourist destination off southern Africa, has become overrun with strays. With more and more residents chased and attacked, many are fed up.
+* 毛里求斯是非洲南部的一个热门旅游目的地，如今流浪动物泛滥成灾。随着被追赶和袭击的居民越来越多，许多人已经忍无可忍。
+* Prime Minister Benjamin Netanyahu is accused of bribery, fraud and breach of trust in a long-running trial that has divided the country. He denies all wrongdoing.
+* 在一场旷日持久的审判中，本雅明·内塔尼亚胡总理被指控犯有贿赂、欺诈和背信罪，这场审判使该国陷入分裂。他否认所有不当行为。
+* The communist-era files have exposed the vast network of informants that kept Hungary in the Soviet orbit. But how reliable are they?
+* 共产主义时期的档案揭露了一个庞大的告密者网络，正是这个网络使匈牙利始终处于苏联的掌控之下。但这些档案的可靠性如何？
+* A court threw out a report suggesting that Cyril Ramaphosa may have tried to conceal the theft of more than half a million dollars of U.S. currency.
+* 一家法院驳回了一份报告，该报告称西里尔·拉马福萨（Cyril Ramaphosa）可能曾试图隐瞒50多万美元的盗窃案。
+* The Iran-backed Houthis are on a winning streak, securing strategic territory as they fight Saudi Arabia and its Yemeni allies in an asymmetrical war of attrition.
+* 在与沙特阿拉伯及其也门盟友进行的不对称消耗战中，伊朗支持的胡塞武装正处于连胜势头，并夺取了战略要地。
+* The war in Iran has reignited Yemen’s decade-old civil war. Saudi-backed troops are scrambling to defend against advancing Houthi fighters as the wounded are taken to the port city of Aden, the government’s provisional capital.
+* 伊朗的战争再次点燃了也门长达十年的内战。随着伤员被送往政府临时首都港口城市亚丁，沙特支持的部队正在竭力抵御不断推进的胡塞武装。
+* The Ukrainian drone strike off Libya’s coast killed two Libyan naval officers, according to the forces controlling the country’s east.
+* 据控制利比亚东部的武装力量称，乌克兰无人机在利比亚海岸附近发动袭击，造成两名利比亚海军军官丧生。
+* The prosecutor recently fled to the United States after Mexico issued a warrant over his involvement with the C.I.A. Now authorities are investigating him for suspected cartel collusion.
+* 在墨西哥因其参与中央情报局的活动而签发逮捕令后，该检察官最近逃往美国。目前，当局正在调查他涉嫌与贩毒集团勾结的案件。
+* At least 23 workers are believed to have been stuck inside the illegal mine since Monday, after its narrow shaft flooded.
+* 据信，自周一该非法矿井的狭窄竖井被淹后，至少有23名工人被困在井内。
+* The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.
+* 在此之前，瑞士决定对朝鲜的一个国际青年营地实施制裁，该营地被指控接待乌克兰儿童进行洗脑。
 
 ## New York Times United States News
 * American mahjong, with its own tiles and rules, has overshadowed the traditional Chinese game. The rivalry has fueled anger and cultural misunderstanding.
-* 美式麻将有其独特的牌和规则，已经盖过了传统的中国麻将。这种竞争激化了愤怒情绪和文化误解。
-* The intrusion affecting the C.I.A. and the Office of the Director of National Intelligence comes amid heightened concerns about cybersecurity.
-* 影响到中央情报局和国家情报总监办公室的这次入侵事件正值人们对网络安全的担忧加剧之际。
-* In Chicago, St. Louis, New York and Washington dreamers and pranksters have gotten together recently aiming to shift massive landmarks.
-* 最近，在芝加哥、圣路易斯、纽约和华盛顿，梦想家和恶作剧者聚集在一起，意图移动大型地标。
-* The Trump administration declined to say who donated those funds to an account funding presidential projects like the White House ballroom and the triumphal arch.
-* 特朗普政府拒绝透露向该账户捐款的人士身份，该账户用于资助白宫宴会厅和凯旋门等总统项目。
-* Democrats’ midterm rout kept expanding in the House after a tech support worker ousted an eight-term Republican without having aired a single TV ad.
-* 在一位技术支持人员在没有投放任何电视广告的情况下击败了一位连任八届的共和党议员后，民主党在中期选举中的大胜在众议院中继续扩大。
-* The Make America Great Again movement wants to remake Harvard. Harvard has a class for that.
-* “让美国再次伟大”运动希望重塑哈佛。哈佛有一门课专门讲这个。
-* Driven to Canada by deportation fears, some members of Haitian families are being denied entry, turned back and detained by U.S. authorities.
-* 出于对被驱逐的恐惧，一些海地家庭成员前往加拿大，但被美国当局拒绝入境、遣返和拘留。
-* An examination by The Times shows how a tax incentive program that transformed downtown has left some poorer neighborhoods overlooked and neglected.
-* 《纽约时报》的调查显示，一项改变了市中心的税收激励计划如何导致一些较贫困的街区被忽视和遗忘。
-* The departure of Christopher G. Raia, a veteran agent, comes a few months after another deputy left the F.B.I.
-* 资深探员克里斯托弗·G·赖亚（Christopher G. Raia）的离职是在另一名副局长离开联邦调查局几个月后发生的。
-* Walter Willett studies the link between diet and health, a high priority for Health Secretary Robert F. Kennedy Jr. His grants were frozen anyway.
-* Walter Willett研究饮食与健康之间的关系，这是卫生部长罗伯特·F·肯尼迪·J的头等要务。但他的资助款项还是被冻结了。
+* 美国麻将有其独特的牌和规则，已经盖过了传统的中国麻将。这种竞争激化了愤怒情绪和文化误解。
+* Military and civilian authorities said the Army operation was a success. But testing will continue to make sure residents are safe from contamination.
+* 军方和民政当局表示，陆军的行动取得了成功。但检测工作将继续进行，以确保居民免受污染。
+* At issue is a clause in a plea deal involving Khalid Shaikh Mohammed, the man accused of being the mastermind of the plot, and two other defendants.
+* 争议的焦点是认罪协议中的一项条款，该协议涉及被指控为袭击策划主谋的哈立德·谢赫·穆罕默德（Khalid Shaikh Mohammed）及另外两名被告。
+* It will take some time for officials to examine the air, water and soil samples for contamination.
+* 官员们需要一些时间来检测空气、水和土壤样本是否受到污染。
+* Nidal Malik Hasan, who killed 13 people at the Army base in 2009, said he wanted to challenge his conviction and death sentence, which is to be carried out next week.
+* 2009年在陆军基地杀害13人的尼达尔·马利克·哈桑表示，他希望对自己的定罪和死刑判决提出上诉，该判决将于下周执行。
+* Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.
+* 属于俄罗斯能源巨头的宝贵资产将被出售给一个由美国牵头的财团。但由于政治风向的变化，这两位特朗普特使的中东商业联系人退出了交易。
+* The apparent disclosure was included in files released in response to a New York Times lawsuit. The release also shed light on C.I.A. officials’ fears about possible prosecutions.
+* 这份明显属于泄露的文件包含在应《纽约时报》诉讼要求而发布的文件中。这些文件的披露还揭示了中情局官员对可能被起诉的担忧。
+* The freshest measures of growth and hiring show a healthy economy. Struggling Americans aren’t seeing that.
+* 最新的增长和招聘指标显示经济状况良好。但处境艰难的美国人却感受不到这一点。
+* Agents who answered the phone line, announced at a news conference and in alerts, were not able to offer information about responding to the detonation in Iowa.
+* 在新闻发布会上和警报中宣布接听电话热线的特工无法提供有关应对爱荷华州爆炸事件的信息。
+* Senator Chris Van Hollen says his move to replace Senator Chuck Schumer as party leader isn’t about Israel, but his sharply critical stance toward the Jewish state has become a major fault line in the race.
+* 参议员克里斯·范·霍伦表示，他取代参议员查克·舒默担任党魁的举动与以色列无关，但他对犹太国的尖锐批评立场已成为这场角逐中的主要分歧点。
 
 ## New York Times Asia News
+* The view of the Himalayan country as ancient and immutable is being challenged by young Bhutanese who are opening restaurants and shops, and getting beyond “gross national happiness.” A traveler explores.
+* 年轻的不丹人正在挑战人们对这个喜马拉雅国家古老而亘古不变的看法，他们开设餐厅和商店，并超越了“国民幸福总值”的范畴。一位旅行者进行了探索。
+* The apparent disclosure was included in files released in response to a New York Times lawsuit. The release also shed light on C.I.A. officials’ fears about possible prosecutions.
+* 这份明显属于泄露的文件包含在应《纽约时报》诉讼要求而发布的文件中。这些文件的披露还揭示了中情局官员对可能被起诉的担忧。
+* From turkeys delivered on motorbikes to foie gras on the table, many American expatriates have adapted the traditional meal to their environs.
+* 从骑摩托车送来的火鸡到餐桌上的鹅肝，许多美国侨民已将传统大餐融入了当地环境。
+* At least 23 workers are believed to have been stuck inside the illegal mine since Monday, after its narrow shaft flooded.
+* 据信，自周一该非法矿井的狭窄井道被淹后，至少有23名工人被困在井内。
+* The Visitor’s Lion prizes for best pavilion and best artist were determined by the public this year rather than a jury. But it’s unclear whether the winners secured the most votes.
+* 今年，最佳展馆和最佳艺术家的“访客狮”奖项由公众而非评审团评选而出。但目前尚不清楚获奖者是否获得了最多选票。
+* Divers found the remains of the six people inside the downed plane near Horn Island, the Coast Guard said.
+* 海岸警卫队表示，潜水员在霍恩岛附近坠毁的飞机内发现了六人的遗骸。
+* The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.
+* 在此之前，瑞士决定对朝鲜的一个国际青少年营地实施制裁，该营地被指控接待乌克兰儿童进行洗脑。
+* The pageant’s organizers said Costa Rica would host next year, contradicting a rival camp that chose Vietnam as the venue. They are locked in a bitter fight for control of Miss Universe.
+* 选美大赛的组织者表示，明年将由哥斯达黎加主办，这与选择越南作为举办地的竞争对手阵营的说法相左。他们正为争夺“环球小姐”的控制权而激烈争斗。
+* A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord precludes such bases.
+* 2022年所罗门群岛与中国签署的一项协议曾引发人们的担忧，认为该协议将使北京能够在太平洋岛屿上建立军事存在。新协议排除了建立此类基地的可能性。
 * As the death toll rose to 26, one rescue worker said that more victims might be found near a stairwell in the building. The police opened a criminal investigation.
-* 随着死亡人数升至26人，一名救援人员表示，大楼楼梯井附近可能还会发现更多遇难者。警方已立案展开刑事调查。
-* Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.
-* 在突然下台之前，技术官僚陈吉宁被视为习近平领导下的中国的未来国家领导人。
-* Beijing may welcome the return of the leading U.S. advocate for A.I. chip sales to China. But the saga could reinforce a Chinese push for self-reliance, analysts say.
-* 北京方面可能会对这位美国支持向中国销售人工智能芯片的主要人物的回归表示欢迎。但分析人士表示，这一事件可能会强化中国对自力更生的推动。
-* Sanae Takaichi welcomed the court’s president and vowed to accelerate financial support despite an effort by the Trump administration to cripple the global body.
-* 高市早苗对法院院长表示欢迎，并承诺将加快提供财政支持，尽管特朗普政府正试图削弱这一全球机构。
-* The woman whose role has become a focus of the Nvidia spying saga grew up in a small town built around a weapons factory. Her jump to finance and the tech world paralleled China’s own.
-* 这位女性的角色已成为英伟达间谍事件的焦点，她在一个围绕武器工厂建立的小镇长大。她向金融和科技领域的跃进与中国的发展轨迹相呼应。
-* A tool developed by researchers at Vanderbilt University is detecting A.I.-generated social media posts that support the policies of the Chinese Communist Party.
-* 范德比尔特大学的研究人员开发了一种工具，用于检测由人工智能生成的支持中国共产党政策的社交媒体帖子。
-* Hundreds of people were at the compound when a blaze broke out on Saturday and then raged for hours.
-* 周六大火爆发时，数百人正聚集在该建筑群内，随后大火燃烧了数小时。
-* An oil shock is speeding a transformation of Vietnam’s streets, challenging global motorcycle giants and lifting a new generation of domestic manufacturers.
-* 一场石油危机正在加速越南街道的变革，挑战着全球摩托车巨头，并推动着新一代本土制造商的崛起。
-* Chinese military researchers are studying how to harness A.I., but they worry the technology makes their country’s nuclear forces more vulnerable to attack.
-* 中国军事研究人员正在研究如何利用人工智能，但他们担心这项技术会让本国的核力量更容易受到攻击。
-* The war in Iran has brought on a rapid switch from motorbikes to electric two-wheelers in Vietnam, creating an informal charging economy led by entrepreneurial homeowners.
-* 伊朗的战争导致越南迅速从摩托车转向电动两轮车，从而催生了一个由创业型房主主导的非正式充电经济。
+* 随着死亡人数升至26人，一名救援人员表示，可能在大楼的楼梯间附近发现更多遇难者。警方已立案展开刑事调查。
 
