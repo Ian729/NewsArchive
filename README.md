@@ -2,68 +2,68 @@
 Auto RSS New York Times and Translate
 
 ## New York Times Global News
-* Mauritius, a popular tourist destination off southern Africa, has become overrun with strays. With more and more residents chased and attacked, many are fed up.
-* 毛里求斯是非洲南部的一个热门旅游目的地，如今流浪动物泛滥成灾。随着被追赶和袭击的居民越来越多，许多人已经忍无可忍。
-* Prime Minister Benjamin Netanyahu is accused of bribery, fraud and breach of trust in a long-running trial that has divided the country. He denies all wrongdoing.
-* 在一场旷日持久的审判中，本雅明·内塔尼亚胡总理被指控犯有贿赂、欺诈和背信罪，这场审判使该国陷入分裂。他否认所有不当行为。
-* The communist-era files have exposed the vast network of informants that kept Hungary in the Soviet orbit. But how reliable are they?
-* 共产主义时期的档案揭露了一个庞大的告密者网络，正是这个网络使匈牙利始终处于苏联的掌控之下。但这些档案的可靠性如何？
-* A court threw out a report suggesting that Cyril Ramaphosa may have tried to conceal the theft of more than half a million dollars of U.S. currency.
-* 一家法院驳回了一份报告，该报告称西里尔·拉马福萨（Cyril Ramaphosa）可能曾试图隐瞒50多万美元的盗窃案。
-* The Iran-backed Houthis are on a winning streak, securing strategic territory as they fight Saudi Arabia and its Yemeni allies in an asymmetrical war of attrition.
-* 在与沙特阿拉伯及其也门盟友进行的不对称消耗战中，伊朗支持的胡塞武装正处于连胜势头，并夺取了战略要地。
-* The war in Iran has reignited Yemen’s decade-old civil war. Saudi-backed troops are scrambling to defend against advancing Houthi fighters as the wounded are taken to the port city of Aden, the government’s provisional capital.
-* 伊朗的战争再次点燃了也门长达十年的内战。随着伤员被送往政府临时首都港口城市亚丁，沙特支持的部队正在竭力抵御不断推进的胡塞武装。
-* The Ukrainian drone strike off Libya’s coast killed two Libyan naval officers, according to the forces controlling the country’s east.
-* 据控制利比亚东部的武装力量称，乌克兰无人机在利比亚海岸附近发动袭击，造成两名利比亚海军军官丧生。
-* The prosecutor recently fled to the United States after Mexico issued a warrant over his involvement with the C.I.A. Now authorities are investigating him for suspected cartel collusion.
-* 在墨西哥因其参与中央情报局的活动而签发逮捕令后，该检察官最近逃往美国。目前，当局正在调查他涉嫌与贩毒集团勾结的案件。
-* At least 23 workers are believed to have been stuck inside the illegal mine since Monday, after its narrow shaft flooded.
-* 据信，自周一该非法矿井的狭窄竖井被淹后，至少有23名工人被困在井内。
-* The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.
-* 在此之前，瑞士决定对朝鲜的一个国际青年营地实施制裁，该营地被指控接待乌克兰儿童进行洗脑。
+* Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.
+* 数十名巴西人几乎未经训练就被派往前线，他们说，承诺给他们的高薪最终被证明是虚幻的。
+* More governments in Europe are telling citizens to prepare for emergencies. After unexpected disruptions, many are listening.
+* 越来越多的欧洲国家政府正在呼吁公民做好应对紧急情况的准备。在经历意外的混乱之后，许多人开始听从建议。
+* The drop was largely driven by fewer people arriving from outside the European Union. It reflects government action to restrict immigration after a public backlash.
+* 这一降幅主要归因于来自欧盟以外的人数减少。这反映了政府在公众强烈反对后采取的限制移民措施。
+* The deaths follow a series of strikes on Gulf Arab states that host U.S. military facilities in recent weeks as talks to end the war continue to stall.
+* 近几周来，随着结束战争的谈判持续陷入僵局，一系列针对设有美国军事设施的海湾阿拉伯国家的袭击接踵而至，造成了人员死亡。
+* The actress Charlotte Arnould has accused the French movie star of raping her in 2018. He has denied any wrongdoing in the case.
+* 女演员夏洛特·阿努德（Charlotte Arnould）指控这位法国电影明星于2018年强奸了她。他否认在该案中有任何不当行为。
+* The president of El Salvador has widespread support among Haitians, who are tired of violence and hope he can be the one to finally end it.
+* 萨尔瓦多总统在海地人中享有广泛的支持，他们厌倦了暴力，希望他能成为最终结束暴力的人。
+* Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story.
+* 已有数十名巴西人加入了俄罗斯军队，据称其中一些人是被一对招募人员以金钱和冒险为诱饵吸引的。以下是一位士兵的故事。
+* The city’s residents quietly mourned the 168 lives lost in a high-rise complex blaze a year ago, as officials warned against using the disaster to sow division.
+* 一年前，一座高层建筑群发生大火，造成168人丧生。该市居民静静地哀悼逝者，而官员们则警告人们不要利用这场灾难来挑起分歧。
+* Residents of India’s dense capital tried switching off fridges and leaving doors open all night to cope with rising temperatures, which affect their sleep, health and ability to work.
+* 印度人口稠密的首都居民曾尝试关掉冰箱，并整晚敞开冰箱门，以应对不断攀升的气温，而高温影响了他们的睡眠、健康和工作能力。
+* The assault on a security headquarters in the northeastern city of Hasakah was carried out by four militants who local officials linked to the Islamic State.
+* 对东北部城市哈塞克的一处安全总部发动的袭击是由四名武装分子实施的，当地官员将他们与伊斯兰国联系起来。
 
 ## New York Times United States News
 * American mahjong, with its own tiles and rules, has overshadowed the traditional Chinese game. The rivalry has fueled anger and cultural misunderstanding.
-* 美国麻将有其独特的牌和规则，已经盖过了传统的中国麻将。这种竞争激化了愤怒情绪和文化误解。
-* Military and civilian authorities said the Army operation was a success. But testing will continue to make sure residents are safe from contamination.
-* 军方和民政当局表示，陆军的行动取得了成功。但检测工作将继续进行，以确保居民免受污染。
-* At issue is a clause in a plea deal involving Khalid Shaikh Mohammed, the man accused of being the mastermind of the plot, and two other defendants.
-* 争议的焦点是认罪协议中的一项条款，该协议涉及被指控为袭击策划主谋的哈立德·谢赫·穆罕默德（Khalid Shaikh Mohammed）及另外两名被告。
-* It will take some time for officials to examine the air, water and soil samples for contamination.
-* 官员们需要一些时间来检测空气、水和土壤样本是否受到污染。
-* Nidal Malik Hasan, who killed 13 people at the Army base in 2009, said he wanted to challenge his conviction and death sentence, which is to be carried out next week.
-* 2009年在陆军基地杀害13人的尼达尔·马利克·哈桑表示，他希望对自己的定罪和死刑判决提出上诉，该判决将于下周执行。
-* Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.
-* 属于俄罗斯能源巨头的宝贵资产将被出售给一个由美国牵头的财团。但由于政治风向的变化，这两位特朗普特使的中东商业联系人退出了交易。
-* The apparent disclosure was included in files released in response to a New York Times lawsuit. The release also shed light on C.I.A. officials’ fears about possible prosecutions.
-* 这份明显属于泄露的文件包含在应《纽约时报》诉讼要求而发布的文件中。这些文件的披露还揭示了中情局官员对可能被起诉的担忧。
-* The freshest measures of growth and hiring show a healthy economy. Struggling Americans aren’t seeing that.
-* 最新的增长和招聘指标显示经济状况良好。但处境艰难的美国人却感受不到这一点。
-* Agents who answered the phone line, announced at a news conference and in alerts, were not able to offer information about responding to the detonation in Iowa.
-* 在新闻发布会上和警报中宣布接听电话热线的特工无法提供有关应对爱荷华州爆炸事件的信息。
-* Senator Chris Van Hollen says his move to replace Senator Chuck Schumer as party leader isn’t about Israel, but his sharply critical stance toward the Jewish state has become a major fault line in the race.
-* 参议员克里斯·范·霍伦表示，他取代参议员查克·舒默担任党魁的举动与以色列无关，但他对犹太国的尖锐批评立场已成为这场角逐中的主要分歧点。
+* 美国麻将有其独特的牌和规则，已经盖过了传统的中国麻将。这种竞争加剧了愤怒和文化误解。
+* He was a reporter and foreign affairs columnist at Time and then served as deputy secretary of state and president of the Brookings Institution. He was 80.
+* 他曾是《时代周刊》的记者和外交事务专栏作家，后来担任过美国副国务卿和布鲁金斯学会主席。他享年80岁。
+* Efforts to get rid of unstable explosives at an Iowa plant began more than a year ago but weren’t completed at that time, setting the stage for Wednesday’s controversial blast.
+* 一年多前，爱荷华州一家工厂就开始努力处置不稳定的爆炸物，但当时并未完成，为周三引发争议的爆炸埋下了伏笔。
+* The Trump administration’s cuts and proposed regulatory changes to the Supplemental Nutrition Assistance Program would have consequences for school lunch and breakfast.
+* 特朗普政府对补充营养援助计划（SNAP）的削减以及拟议的监管变更将对学校午餐和早餐产生影响。
+* At one throwback of a shop in Philadelphia, an owner gave thanks to the regulars who refused to stand by after a recent theft.
+* 在费城的一家老字号商店，店主感谢那些在最近一次盗窃事件后挺身而出、不袖手旁观的常客。
+* As President Trump pardons turkeys for Thanksgiving, our chief White House correspondent Peter Baker takes a look back at the history of the tradition and the presidential power of the pardon.
+* 值此特朗普总统在感恩节赦免火鸡之际，我们的白宫首席记者彼得·贝克回顾了这一传统的历史以及总统的赦免权。
+* Members of both parties say they want to tackle artificial intelligence policy, but the slow pace of legislating and turf battles could stand in the way.
+* 两党的议员都表示希望着手处理人工智能政策问题，但立法步伐缓慢和地盘争夺战可能会成为阻碍。
+* Artists who paint or draw the wild turkey speak of its swagger and charm. Their renderings have helped fund a conservation success story.
+* 描绘或绘制野生火鸡的艺术家们都提到过它的趾高气昂和迷人魅力。他们的作品为一段成功的保护故事提供了资金支持。
+* The plane overran a runway after landing at Miami International Airport on Wednesday, and stopped near a fence. FedEx said there were no injuries.
+* 周三，这架飞机在迈阿密国际机场降落后冲出跑道，停在围栏附近。联邦快递表示，无人受伤。
+* The retreat of the stock market in recent days shows how President Trump’s push to reinstall the company’s chief executive has collided with the realities of his other policies.
+* 近几日股市的下跌表明，特朗普总统力推让该公司首席执行官复职的举措与他其他政策的现实情况发生了冲突。
 
 ## New York Times Asia News
+* President Trump sent a message to trading partners across Asia, many of which depend on trade and investment from both the United States and China, that he is ready to escalate tariffs.
+* 特朗普总统向亚洲各地的贸易伙伴发出了一个信号，即他已准备好提高关税。这些贸易伙伴中有许多都依赖于来自美国和中国的贸易与投资。
+* The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.
+* 此次影响到四个国家的停运是继美国出台一项新规定之后发生的，该规定要求这些国家/地区的公司在购买先进人工智能芯片时必须持有许可证。
+* As China’s access to Nvidia’s advanced chips shrinks, Huawei is becoming increasingly indispensable to Beijing despite a wide technological gap with its American rival.
+* 随着中国获得英伟达先进芯片的机会越来越少，尽管华为与美国竞争对手存在巨大的技术差距，但它对北京来说正变得越来越不可或缺。
+* The city’s residents quietly mourned the 168 lives lost in a high-rise complex blaze a year ago, as officials warned against using the disaster to sow division.
+* 一年前，一座高层建筑群发生大火，造成168人丧生。该市居民默默哀悼遇难者，而官员则警告人们不要利用这场灾难来制造分裂。
+* Images show the differences between the welcomes afforded to Sanae Takaichi and other world leaders in Shenzhen, as some officials in Japan cry foul.
+* 图片显示了高市早苗与其他世界领导人在深圳受到的不同待遇，日本一些官员对此表示不满。
+* As temperatures soar, researchers are experimenting with ways to make life more comfortable for the most vulnerable.
+* 随着气温飙升，研究人员正在尝试各种方法，让最弱势群体的生活更加舒适。
+* Residents of India’s dense capital tried switching off fridges and leaving doors open all night to cope with rising temperatures, which affect their sleep, health and ability to work.
+* 印度人口稠密的首都居民曾尝试关掉冰箱，整夜敞开冰箱门，以应对不断攀升的气温，而高温影响了他们的睡眠、健康和工作能力。
+* From male dancers to handsome hiking companions, a thriving entertainment industry is catering to female fantasies and testing the limits of Beijing’s tolerance.
+* 从男舞者到帅气的徒步伴游，蓬勃发展的娱乐产业正在迎合女性的幻想，并考验着北京的容忍度极限。
 * The view of the Himalayan country as ancient and immutable is being challenged by young Bhutanese who are opening restaurants and shops, and getting beyond “gross national happiness.” A traveler explores.
-* 年轻的不丹人正在挑战人们对这个喜马拉雅国家古老而亘古不变的看法，他们开设餐厅和商店，并超越了“国民幸福总值”的范畴。一位旅行者进行了探索。
+* 年轻的不丹人正在挑战人们对这个喜马拉雅国家古老而亘古不变的看法，他们开办餐厅和商店，并超越了“国民幸福总值”的范畴。一位旅行者进行了探索。
 * The apparent disclosure was included in files released in response to a New York Times lawsuit. The release also shed light on C.I.A. officials’ fears about possible prosecutions.
 * 这份明显属于泄露的文件包含在应《纽约时报》诉讼要求而发布的文件中。这些文件的披露还揭示了中情局官员对可能被起诉的担忧。
-* From turkeys delivered on motorbikes to foie gras on the table, many American expatriates have adapted the traditional meal to their environs.
-* 从骑摩托车送来的火鸡到餐桌上的鹅肝，许多美国侨民已将传统大餐融入了当地环境。
-* At least 23 workers are believed to have been stuck inside the illegal mine since Monday, after its narrow shaft flooded.
-* 据信，自周一该非法矿井的狭窄井道被淹后，至少有23名工人被困在井内。
-* The Visitor’s Lion prizes for best pavilion and best artist were determined by the public this year rather than a jury. But it’s unclear whether the winners secured the most votes.
-* 今年，最佳展馆和最佳艺术家的“访客狮”奖项由公众而非评审团评选而出。但目前尚不清楚获奖者是否获得了最多选票。
-* Divers found the remains of the six people inside the downed plane near Horn Island, the Coast Guard said.
-* 海岸警卫队表示，潜水员在霍恩岛附近坠毁的飞机内发现了六人的遗骸。
-* The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.
-* 在此之前，瑞士决定对朝鲜的一个国际青少年营地实施制裁，该营地被指控接待乌克兰儿童进行洗脑。
-* The pageant’s organizers said Costa Rica would host next year, contradicting a rival camp that chose Vietnam as the venue. They are locked in a bitter fight for control of Miss Universe.
-* 选美大赛的组织者表示，明年将由哥斯达黎加主办，这与选择越南作为举办地的竞争对手阵营的说法相左。他们正为争夺“环球小姐”的控制权而激烈争斗。
-* A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord precludes such bases.
-* 2022年所罗门群岛与中国签署的一项协议曾引发人们的担忧，认为该协议将使北京能够在太平洋岛屿上建立军事存在。新协议排除了建立此类基地的可能性。
-* As the death toll rose to 26, one rescue worker said that more victims might be found near a stairwell in the building. The police opened a criminal investigation.
-* 随着死亡人数升至26人，一名救援人员表示，可能在大楼的楼梯间附近发现更多遇难者。警方已立案展开刑事调查。
 
